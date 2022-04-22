@@ -1,0 +1,71 @@
+{
+  "$schema": "./schema/database.schema.json",
+  "addresses": [
+    {
+      "address": "0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be",
+      "displayName": "Binance 1",
+      "group": "Binance",
+      "type": "EXCHANGE"
+    },
+    {
+      "address": "0xd551234ae421e3bcba99a0da6d736074f22192ff",
+      "displayName": "Binance 2",
+      "group": "Binance",
+      "type": "EXCHANGE"
+    },
+    {
+      "address": "0x564286362092d8e7936f0549571a803b203aaced",
+      "displayName": "Binance 3",
+      "group": "Binance",
+      "type": "EXCHANGE"
+    },
+    {
+      "address": "0x0681d8db095565fe8a346fa0277bffde9c0edbbf",
+      "displayName": "Binance 4",
+      "group": "Binance",
+      "type": "EXCHANGE"
+    },
+    {
+      "address": "0xfe9e8709d3215310075d67e3ed32a380ccf451c8",
+      "displayName": "Binance 5",
+      "group": "Binance",
+      "type": "EXCHANGE"
+    },
+    {
+      "address": "0x4e9ce36e442e55ecd9025b9a6e0d88485d628a67",
+      "displayName": "Binance 6",
+      "group": "Binance",
+      "type": "EXCHANGE"
+    },
+    {
+      "address": "0xbe0eb53f46cd790cd13851d5eff43d12404d33e8",
+      "displayName": "Binance 7",
+      "group": "Binance",
+      "type": "EXCHANGE"
+    },
+    {
+      "address": "0xf977814e90da44bfa03b6295a0616a897441acec",
+      "displayName": "Binance 8",
+      "group": "Binance",
+      "type": "EXCHANGE"
+    },
+    {
+      "address": "0x001866ae5b3de6caa5a51543fd9fb64f524f5478",
+      "displayName": "Binance 9",
+      "group": "Binance",
+      "type": "EXCHANGE"
+    },
+    {
+      "address": "0x85b931a32a0725be14285b66f1a22178c672d69b",
+      "displayName": "Binance 10",
+      "group": "Binance",
+      "type": "EXCHANGE"
+    },
+    {
+      "address": "0x708396f17127c42383e3b9014072679b2f60b82f",
+      "displayName": "Binance 11",
+      "group": "Binance",
+      "type": "EXCHANGE"
+    }
+  ]
+}

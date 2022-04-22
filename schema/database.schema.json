@@ -3,10 +3,8 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "properties": {
     "addresses": {
-      "type": "object",
-      "patternProperties": {
-        "^0x": { "$ref": "./account.schema.json" }
-      }
+      "type": "array",
+      "items": { "$ref": "./account.schema.json" }
     }
   }
 }

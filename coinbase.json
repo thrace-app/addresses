@@ -1,48 +1,48 @@
 {
-  "$schema": "./schema/addresses.schema.json",
-  "addresses": {
-    "0x71660c4005ba85c37ccec55d0c4493e66fe775d3": {
+  "$schema": "./schema/database.schema.json",
+  "addresses": [
+    {
       "address": "0x71660c4005ba85c37ccec55d0c4493e66fe775d3",
       "displayName": "Coinbase 1",
       "group": "Coinbase",
       "type": "EXCHANGE"
     },
-    "0x503828976d22510aad0201ac7ec88293211d23da": {
+    {
       "address": "0x503828976d22510aad0201ac7ec88293211d23da",
       "displayName": "Coinbase 2",
       "group": "Coinbase",
       "type": "EXCHANGE"
     },
-    "0xddfabcdc4d8ffc6d5beaf154f18b778f892a0740": {
+    {
       "address": "0xddfabcdc4d8ffc6d5beaf154f18b778f892a0740",
       "displayName": "Coinbase 3",
       "group": "Coinbase",
       "type": "EXCHANGE"
     },
-    "0x3cd751e6b0078be393132286c442345e5dc49699": {
+    {
       "address": "0x3cd751e6b0078be393132286c442345e5dc49699",
       "displayName": "Coinbase 4",
       "group": "Coinbase",
       "type": "EXCHANGE"
     },
-    "0xb5d85cbf7cb3ee0d56b3bb207d5fc4b82f43f511": {
+    {
       "address": "0xb5d85cbf7cb3ee0d56b3bb207d5fc4b82f43f511",
       "displayName": "Coinbase 5",
       "group": "Coinbase",
       "type": "EXCHANGE"
     },
-    "0xeb2629a2734e272bcc07bda959863f316f4bd4cf": {
+    {
       "address": "0xeb2629a2734e272bcc07bda959863f316f4bd4cf",
       "displayName": "Coinbase 6",
       "group": "Coinbase",
       "type": "EXCHANGE"
     },
 
-    "0xa090e606e30bd747d4e6245a1517ebe430f0057e": {
+    {
       "address": "0xa090e606e30bd747d4e6245a1517ebe430f0057e",
       "displayName": "Coinbase: Miscellaneous",
       "group": "Coinbase",
       "type": "EXCHANGE"
     }
-  }
+  ]
 }
