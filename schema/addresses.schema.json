@@ -1,0 +1,12 @@
+{
+  "$id": "https://github.com/thrace-app/addresses/schema/addresses.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "properties": {
+    "addresses": {
+      "type": "object",
+      "patternProperties": {
+        "^0x": { "$ref": "./account.schema.json" }
+      }
+    }
+  }
+}

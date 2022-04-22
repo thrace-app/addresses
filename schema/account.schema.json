@@ -1,0 +1,22 @@
+{
+  "$id": "https://github.com/thrace-app/addresses/schema/account.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Account",
+  "type": "object",
+  "properties": {
+    "address": {
+      "type": "string"
+    },
+    "displayName": {
+      "type": "string"
+    },
+    "group": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": [ "EXCHANGE" ]
+    }
+  },
+  "required": ["address", "displayName", "type"]
+}
