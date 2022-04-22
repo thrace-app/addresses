@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schema/database.schema.json",
+  "addresses": [
+    {
+      "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+      "displayName": "OpenSea: Wyvern Exchange v1",
+      "group": "OpenSea",
+      "type": "MARKETPLACE"
+    },
+    {
+      "address": "0x7f268357a8c2552623316e2562d90e642bb538e5",
+      "displayName": "OpenSea: Wyvern Exchange v2",
+      "group": "OpenSea",
+      "type": "MARKETPLACE"
+    }
+  ]
+}
