@@ -1,5 +1,5 @@
 {
-  "$id": "https://github.com/thrace-app/addresses/addresses/schema/account.schema.json",
+  "$id": "https://github.com/thrace-app/addresses/schema/account.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Account",
   "type": "object",
@@ -15,7 +15,15 @@
     },
     "type": {
       "type": "string",
-      "enum": [ "EXCHANGE" ]
+      "enum": [
+        "WALLET",
+        "EXCHANGE",
+        "BRIDGE",
+        "MARKETPLACE",
+        "LIQUIDITY_PROVIDER",
+        "MIXER",
+        "OTHER"
+      ]
     }
   },
   "required": ["address", "displayName", "type"]
