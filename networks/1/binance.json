@@ -217,19 +217,23 @@
       "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
       "displayName": "Binance USD",
       "group": "Binance",
-      "type": "TOKEN"
+      "type": "TOKEN",
+      "token": {
+        "type": "ERC20",
+        "title": "Binance USD",
+        "symbol": "BUSD"
+      }
     },
     {
       "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
       "displayName": "Binance: BNB Token",
       "group": "Binance",
-      "type": "TOKEN"
-    },
-    {
-      "address": "0xc9a2c4868f0f96faaa739b59934dc9cb304112ec",
-      "displayName": "Binance: BGBP Token",
-      "group": "Binance",
-      "type": "TOKEN"
+      "type": "TOKEN",
+      "token": {
+        "type": "ERC20",
+        "title": "BNB",
+        "symbol": "BNB"
+      }
     }
   ]
 }

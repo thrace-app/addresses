@@ -17,6 +17,7 @@
       "type": "string",
       "enum": [
         "WALLET",
+        "TOKEN",
         "EXCHANGE",
         "SWAP",
         "BRIDGE",
@@ -25,7 +26,18 @@
         "MIXER",
         "OTHER"
       ]
+    },
+    "token": {
+      "$ref": "./token.schema.json"
     }
   },
-  "required": ["address", "displayName", "type"]
+  "required": ["address", "displayName", "type"],
+  "anyOf": [
+    {
+      "properties": {
+        "type": { "const": "TOKEN" }
+      },
+      "required": ["token"]
+    }
+  ]
 }

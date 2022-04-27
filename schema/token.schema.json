@@ -1,0 +1,20 @@
+{
+  "$id": "https://github.com/thrace-app/addresses/schema/token.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "symbol": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "COIN",
+        "ERC20",
+        "ERC721"
+      ]
+    }
+  }
+}
