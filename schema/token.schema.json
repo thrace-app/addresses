@@ -2,7 +2,7 @@
   "$id": "https://github.com/thrace-app/addresses/schema/token.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "properties": {
-    "title": {
+    "name": {
       "type": "string"
     },
     "symbol": {
