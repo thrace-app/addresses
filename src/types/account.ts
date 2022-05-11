@@ -1,3 +1,5 @@
+import { Token } from './token'
+
 export enum AccountType {
   Bridge = 'BRIDGE',
   Exchange = 'EXCHANGE',
@@ -14,4 +16,6 @@ export interface Account {
   displayName: string
   group: string
   type: AccountType
+
+  token?: Token
 }

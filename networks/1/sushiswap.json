@@ -2,6 +2,12 @@
   "$schema": "../../schema/database.schema.json",
   "addresses": [
     {
+      "address": "0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F",
+      "displayName": "SushiSwap: Router ",
+      "group": "SushiSwap",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0x00040a7ebfc9f6fbce4d23bd66b79a603ba1c323",
       "displayName": "SushiSwap: TUSD-Xi",
       "group": "SushiSwap",

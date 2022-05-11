@@ -1,6 +1,11 @@
-import { Account, AccountType } from '../types/account'
 import { request, gql } from 'graphql-request'
+import retry from 'async-retry'
 
+import { Account, AccountType } from '../types/account'
+import { TokenType } from '../types/token'
+
+const GROUP = 'SushiSwap'
+const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
 const SUBGRAPH_URL =
   'https://api.thegraph.com/subgraphs/name/sushiswap/exchange'
@@ -13,6 +18,15 @@ const LP_QUERY = gql`
   }
 `
 
+const DEPLOYMENTS: Account[] = [
+  {
+    address: '0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F',
+    displayName: `${GROUP}: Router `,
+    group: GROUP,
+    type: AccountType.LiquidityProvider,
+  },
+]
+
 interface Pair {
   id: string
   name: string
@@ -23,7 +37,7 @@ interface Query {
 }
 
 const fetchSushiSwap = async (): Promise<Account[]> => {
-  const accounts: Account[] = []
+  const accounts: Account[] = DEPLOYMENTS
 
   let skip = 0
 
@@ -32,10 +46,16 @@ const fetchSushiSwap = async (): Promise<Account[]> => {
   }
 
   do {
-    response = await request<Query>(SUBGRAPH_URL, LP_QUERY, {
-      first: STEP,
-      skip,
-    })
+    response = await retry(
+      async () =>
+        await request<Query>(SUBGRAPH_URL, LP_QUERY, {
+          first: STEP,
+          skip,
+        }),
+      {
+        retries: 5,
+      }
+    )
 
     skip += STEP
 
@@ -44,15 +64,15 @@ const fetchSushiSwap = async (): Promise<Account[]> => {
         (pair) =>
           ({
             address: pair.id,
-            displayName: `SushiSwap: ${pair.name}`,
-            group: 'SushiSwap',
+            displayName: `${GROUP}: ${pair.name}`,
+            group: GROUP,
             type: AccountType.LiquidityProvider,
           } as Account)
       )
     )
 
     console.log(
-      `Fetched SushiSwap: ${response.pairs.length} (${accounts.length} total)`
+      `Fetched ${GROUP}: ${response.pairs.length} (${accounts.length} total)`
     )
   } while (response.pairs.length > 0)
 
