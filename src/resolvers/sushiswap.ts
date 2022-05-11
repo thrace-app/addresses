@@ -1,6 +1,7 @@
 import { Account, AccountType } from '../types/account'
 import { request, gql } from 'graphql-request'
 
+const STEP = 1000
 const SUBGRAPH_URL =
   'https://api.thegraph.com/subgraphs/name/sushiswap/exchange'
 const LP_QUERY = gql`
@@ -11,8 +12,6 @@ const LP_QUERY = gql`
     }
   }
 `
-
-const STEP = 1000
 
 interface Pair {
   id: string
@@ -45,11 +44,15 @@ const fetchSushiSwap = async (): Promise<Account[]> => {
         (pair) =>
           ({
             address: pair.id,
-            displayName: `Uniswap V3: ${pair.name}`,
-            group: 'Uniswap V3',
+            displayName: `SushiSwap: ${pair.name}`,
+            group: 'SushiSwap',
             type: AccountType.LiquidityProvider,
           } as Account)
       )
+    )
+
+    console.log(
+      `Fetched SushiSwap: ${response.pairs.length} (${accounts.length} total)`
     )
   } while (response.pairs.length > 0)
 
