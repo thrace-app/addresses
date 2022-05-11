@@ -1,5 +1,5 @@
-import UniswapV3 from './uniswap-v3'
+import SushiSwap from './sushiswap'
 
 export default {
-  'uniswap-v3': UniswapV3,
+  sushiswap: SushiSwap,
 }

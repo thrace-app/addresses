@@ -23,7 +23,7 @@ interface Query {
   pairs: Pair[]
 }
 
-const fetchUniswapV3 = async (): Promise<Account[]> => {
+const fetchSushiSwap = async (): Promise<Account[]> => {
   const accounts: Account[] = []
 
   let skip = 0
@@ -56,4 +56,4 @@ const fetchUniswapV3 = async (): Promise<Account[]> => {
   return accounts
 }
 
-export default fetchUniswapV3
+export default fetchSushiSwap
