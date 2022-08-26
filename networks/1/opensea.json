@@ -2,6 +2,12 @@
   "$schema": "../../schema/database.schema.json",
   "addresses": [
     {
+      "address": "0x00000000006c3852cbef3e08e8df289169ede581",
+      "displayName": "OpenSea: Seaport 1.1",
+      "group": "OpenSea",
+      "type": "MARKETPLACE"
+    },
+    {
       "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
       "displayName": "OpenSea: Wyvern Exchange v1",
       "group": "OpenSea",
