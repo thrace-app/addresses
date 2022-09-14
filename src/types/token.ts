@@ -9,3 +9,8 @@ export interface Token {
   symbol: string
   type: TokenType
 }
+
+export interface ERC20Token extends Token {
+  type: TokenType.Erc20
+  decimals: number
+}

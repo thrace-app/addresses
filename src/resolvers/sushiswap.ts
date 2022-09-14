@@ -1,10 +1,11 @@
 import { request, gql } from 'graphql-request'
 import retry from 'async-retry'
 
-import { Account, AccountType } from '../types/account'
-import { TokenType } from '../types/token'
+import { type Account, AccountType } from '../types/account'
+import { TokenType, type ERC20Token } from '../types/token'
+import { type Resolver } from './resolver'
 
-const GROUP = 'SushiSwap'
+const GROUP = 'sushiswap'
 const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
 const SUBGRAPH_URL =
@@ -14,7 +15,20 @@ const LP_QUERY = gql`
     pairs(first: $first, skip: $skip) {
       id
       name
+      token0 {
+        ...TokenInfo
+      }
+      token1 {
+        ...TokenInfo
+      }
     }
+  }
+
+  fragment TokenInfo on Token {
+    id
+    name
+    symbol
+    decimals
   }
 `
 
@@ -30,14 +44,25 @@ const DEPLOYMENTS: Account[] = [
 interface Pair {
   id: string
   name: string
+
+  token0: Token
+  token1: Token
+}
+
+interface Token {
+  id: string
+  name: string
+  symbol: string
+  decimals: number
 }
 
 interface Query {
   pairs: Pair[]
 }
 
-const fetchSushiSwap = async (): Promise<Account[]> => {
+const fetchSushiSwap: Resolver = async () => {
   const accounts: Account[] = DEPLOYMENTS
+  const tokens: Record<string, Account> = {}
 
   let skip = 0
 
@@ -59,24 +84,51 @@ const fetchSushiSwap = async (): Promise<Account[]> => {
 
     skip += STEP
 
-    accounts.push(
-      ...response.pairs.map(
-        (pair) =>
-          ({
-            address: pair.id,
-            displayName: `${GROUP}: ${pair.name}`,
-            group: GROUP,
-            type: AccountType.LiquidityProvider,
-          } as Account)
-      )
-    )
+    for (const pair of response.pairs) {
+      accounts.push({
+        address: pair.id,
+        displayName: `SushiSwap: ${pair.token0.name}-${pair.token1.name}`,
+        group: GROUP,
+        type: AccountType.LiquidityProvider,
+      })
+
+      tokens[pair.token0.id] = {
+        address: pair.token0.id,
+        displayName: pair.token0.name,
+        type: AccountType.Token,
+        token: {
+          name: pair.token0.name,
+          symbol: pair.token0.symbol,
+          decimals: pair.token0.decimals,
+          type: TokenType.Erc20,
+        } as ERC20Token,
+      }
+
+      tokens[pair.token1.id] = {
+        address: pair.token1.id,
+        displayName: pair.token1.name,
+        type: AccountType.Token,
+        token: {
+          name: pair.token1.name,
+          symbol: pair.token1.symbol,
+          decimals: pair.token1.decimals,
+          type: TokenType.Erc20,
+        } as ERC20Token,
+      }
+    }
+
+    const currentPoolsLength = accounts.length
+    const currentTokensLength = Object.keys(tokens).length
 
     console.log(
-      `Fetched ${GROUP}: ${response.pairs.length} (${accounts.length} total)`
+      `Fetched ${GROUP}: ${response.pairs.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) Offset: ${skip}`
     )
   } while (response.pairs.length > 0)
 
-  return accounts
+  return {
+    [GROUP]: accounts,
+    tokens: Object.values(tokens),
+  }
 }
 
 export default fetchSushiSwap
