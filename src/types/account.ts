@@ -14,7 +14,7 @@ export enum AccountType {
 export interface Account {
   address: string
   displayName: string
-  group: string
+  group?: string
   type: AccountType
 
   token?: Token
