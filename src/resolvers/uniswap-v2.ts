@@ -96,7 +96,7 @@ const fetchUniswapV2: Resolver = async () => {
       accounts.push({
         address: pair.id,
         displayName: `Uniswap V3: ${pair.token0.name}-${pair.token1.name}`,
-        group: GROUP,
+        group: 'Uniswap V3',
         type: AccountType.LiquidityProvider,
       })
 

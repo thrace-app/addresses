@@ -87,8 +87,8 @@ const fetchSushiSwap: Resolver = async () => {
     for (const pair of response.pairs) {
       accounts.push({
         address: pair.id,
-        displayName: `SushiSwap: ${pair.token0.name}-${pair.token1.name}`,
-        group: GROUP,
+        displayName: `SushiSwap: ${pair.name}`,
+        group: 'SushiSwap',
         type: AccountType.LiquidityProvider,
       })
 
