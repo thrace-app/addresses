@@ -27,6 +27,7 @@ const LP_QUERY = gql`
     id
     name
     symbol
+    decimals
   }
 `
 
