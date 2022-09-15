@@ -3,7 +3,7 @@ import retry from 'async-retry'
 
 import { type Account, AccountType } from '../types/account'
 import { TokenType, ERC20Token } from '../types/token'
-import { type Resolver } from './resolver'
+import type { Resolver } from './resolver'
 
 const GROUP = 'uniswap-v3'
 const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
@@ -144,74 +144,78 @@ interface Query {
   pools: Pool[]
 }
 
-const fetchUniswapV2: Resolver = async () => {
-  const accounts: Account[] = DEPLOYMENTS
-  const tokens: Record<string, Account> = {}
-
-  let response: Query = {
-    pools: [],
+export class UniswapV3Resolver implements Resolver {
+  getSupportedNetworks(): number[] {
+    return [1]
   }
 
-  do {
-    const lastAddress =
-      response.pools[response.pools.length - 1]?.id || NULL_ADDRESS
+  async resolve() {
+    const accounts: Account[] = DEPLOYMENTS
+    const tokens: Record<string, Account> = {}
 
-    response = await retry(
-      async () =>
-        await request<Query>(SUBGRAPH_URL, LP_QUERY, {
-          first: STEP,
-          lastId: lastAddress,
-        }),
-      {
-        retries: 5,
-      }
-    )
-
-    for (const pool of response.pools) {
-      accounts.push({
-        address: pool.id,
-        displayName: `Uniswap V3: ${pool.token0.name}-${pool.token1.name}`,
-        group: 'Uniswap V3',
-        type: AccountType.LiquidityProvider,
-      })
-
-      tokens[pool.token0.id] = {
-        address: pool.token0.id,
-        displayName: pool.token0.name,
-        type: AccountType.Token,
-        token: {
-          name: pool.token0.name,
-          symbol: pool.token0.symbol,
-          decimals: pool.token0.decimals,
-          type: TokenType.Erc20,
-        } as ERC20Token,
-      }
-
-      tokens[pool.token1.id] = {
-        address: pool.token1.id,
-        displayName: pool.token1.name,
-        type: AccountType.Token,
-        token: {
-          name: pool.token1.name,
-          symbol: pool.token1.symbol,
-          decimals: pool.token1.decimals,
-          type: TokenType.Erc20,
-        } as ERC20Token,
-      }
+    let response: Query = {
+      pools: [],
     }
 
-    const currentPoolsLength = accounts.length
-    const currentTokensLength = Object.keys(tokens).length
+    do {
+      const lastAddress =
+        response.pools[response.pools.length - 1]?.id || NULL_ADDRESS
 
-    console.log(
-      `Fetched ${GROUP}: ${response.pools.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
-    )
-  } while (response.pools.length > 0)
+      response = await retry(
+        async () =>
+          await request<Query>(SUBGRAPH_URL, LP_QUERY, {
+            first: STEP,
+            lastId: lastAddress,
+          }),
+        {
+          retries: 5,
+        }
+      )
 
-  return {
-    [GROUP]: accounts,
-    tokens: Object.values(tokens),
+      for (const pool of response.pools) {
+        accounts.push({
+          address: pool.id,
+          displayName: `Uniswap V3: ${pool.token0.name}-${pool.token1.name}`,
+          group: 'Uniswap V3',
+          type: AccountType.LiquidityProvider,
+        })
+
+        tokens[pool.token0.id] = {
+          address: pool.token0.id,
+          displayName: pool.token0.name,
+          type: AccountType.Token,
+          token: {
+            name: pool.token0.name,
+            symbol: pool.token0.symbol,
+            decimals: pool.token0.decimals,
+            type: TokenType.Erc20,
+          } as ERC20Token,
+        }
+
+        tokens[pool.token1.id] = {
+          address: pool.token1.id,
+          displayName: pool.token1.name,
+          type: AccountType.Token,
+          token: {
+            name: pool.token1.name,
+            symbol: pool.token1.symbol,
+            decimals: pool.token1.decimals,
+            type: TokenType.Erc20,
+          } as ERC20Token,
+        }
+      }
+
+      const currentPoolsLength = accounts.length
+      const currentTokensLength = Object.keys(tokens).length
+
+      console.log(
+        `Fetched ${GROUP}: ${response.pools.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
+      )
+    } while (response.pools.length > 0)
+
+    return {
+      [GROUP]: accounts,
+      tokens: Object.values(tokens),
+    }
   }
 }
-
-export default fetchUniswapV2

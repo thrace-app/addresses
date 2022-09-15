@@ -1,8 +1,12 @@
 import fs from 'fs'
-import path from 'path'
+import path, { dirname } from 'path'
 
-import Resolvers from './resolvers'
+import * as Resolvers from './resolvers'
 import { type Account } from './types/account'
+
+const uniqie = <T>(value: T, index: number, self: T[]): boolean => {
+  return self.indexOf(value) === index
+}
 
 const uniqueBy = <T extends Record<string, any>>(
   array: T[],
@@ -12,35 +16,48 @@ const uniqueBy = <T extends Record<string, any>>(
 }
 
 const generateDatabases = async () => {
-  const generators = Object.entries(Resolvers)
+  const resolvers = Object.values(Resolvers).map((generator) => new generator())
 
-  const databases: Record<string, Account[]> = {}
+  const networks = resolvers
+    .flatMap((generator) => generator.getSupportedNetworks())
+    .filter(uniqie)
 
-  for (const [_, generator] of generators) {
-    const resolved = await generator()
-
-    for (const db in resolved) {
-      databases[db] = uniqueBy(
-        [...(databases[db] || []), ...resolved[db]],
-        'address'
-      )
-    }
-  }
-
-  for (const db in databases) {
-    const json = JSON.stringify(
-      {
-        $schema: '../../schema/database.schema.json',
-        addresses: databases[db].sort((a, b) =>
-          a.address.localeCompare(b.address)
-        ),
-      },
-      null,
-      2
+  for (const netoworkId of networks) {
+    const databases: Record<string, Account[]> = {}
+    const currentResolvers = resolvers.filter((resolver) =>
+      resolver.getSupportedNetworks().includes(netoworkId)
     )
 
-    const filename = path.join(__dirname, `../networks/1/${db}.json`)
-    fs.writeFileSync(filename, json, 'utf8')
+    for (const resolver of currentResolvers) {
+      const resolved = await resolver.resolve(netoworkId)
+
+      for (const db in resolved) {
+        databases[db] = uniqueBy(
+          [...(databases[db] || []), ...resolved[db]],
+          'address'
+        )
+      }
+    }
+
+    for (const db in databases) {
+      const json = JSON.stringify(
+        {
+          $schema: '../../schema/database.schema.json',
+          addresses: databases[db].sort((a, b) =>
+            a.address.localeCompare(b.address)
+          ),
+        },
+        null,
+        2
+      )
+
+      const filename = path.join(
+        __dirname,
+        `../networks/${netoworkId}/${db}.json`
+      )
+      fs.mkdirSync(dirname(filename), { recursive: true })
+      fs.writeFileSync(filename, json, 'utf-8')
+    }
   }
 }
 

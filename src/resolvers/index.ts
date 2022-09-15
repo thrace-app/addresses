@@ -1,13 +1,13 @@
-import UniswapV3 from './uniswap-v3'
-import UniswapV2 from './uniswap-v2'
-import UniswapV1 from './uniswap-v1'
-import SushiSwap from './sushiswap'
-import KyberswapElastic from './kyberswap-elastic'
+import { UniswapV1Resolver } from './uniswap-v1'
+import { UniswapV2Resolver } from './uniswap-v2'
+import { UniswapV3Resolver } from './uniswap-v3'
+import { SushiSwapResolver } from './sushiswap'
+import { KyberswapResolver } from './kyberswap-elastic'
 
-export default {
-  KyberswapElastic,
-  SushiSwap,
-  UniswapV1,
-  UniswapV2,
-  UniswapV3,
+export {
+  UniswapV1Resolver,
+  UniswapV2Resolver,
+  UniswapV3Resolver,
+  SushiSwapResolver,
+  KyberswapResolver,
 }
