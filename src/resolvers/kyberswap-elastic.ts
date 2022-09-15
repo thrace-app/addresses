@@ -69,6 +69,8 @@ export class KyberswapResolver implements Resolver {
   }
 
   async resolve(networkId: number): Promise<Record<string, Account[]>> {
+    // Guaranteed to be not null by `getSupportedNetworks`
+    // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
     const queryUrl: string = NETWORKS[networkId]!
 
     const accounts: Account[] = DEPLOYMENTS

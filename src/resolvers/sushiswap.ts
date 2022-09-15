@@ -6,7 +6,6 @@ import { TokenType, type ERC20Token } from '../types/token'
 import type { Resolver } from './resolver'
 
 const GROUP = 'sushiswap'
-const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
 const SUBGRAPH_URL =
   'https://api.thegraph.com/subgraphs/name/sushiswap/exchange'
