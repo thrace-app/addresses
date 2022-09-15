@@ -34,7 +34,7 @@
   - [ ] Oasis
   - [ ] Kyber
   - [ ] Kyber DMM
-  - [ ] KyberSwap Elastic
+  - [x] KyberSwap Elastic
   - [ ] Aave
   - [ ] Aave V2
   - [ ] yearn
