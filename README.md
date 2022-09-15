@@ -5,7 +5,7 @@
 ## Sources
 
 <details>
-  <summary>Long list od Liquidity Providers</summary>
+  <summary>Long list of Liquidity Providers</summary>
 
   - [x] Uniswap V1
   - [x] Uniswap V2
@@ -98,6 +98,6 @@
   - [ ] Stable Plaza
   - [ ] 0x Limit Order
 
-  <small>Sourced from <a href="https://configs.1inch.io/frontend/liquidity-sources/1/liquidity-sources.json">1inch</a></small>
+  <small>Sourced from <a href="https://configs.1inch.io/frontend/liquidity-sources/1/liquidity-sources.json">1inch</a>, <a href="https://docs.0x.org/0x-api-swap/api-references/get-swap-v1-price#response-1">0x</a> and <a href="https://dappradar.com/hub/swap/">DappRadar</a></small>
 
 </details>
