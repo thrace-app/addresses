@@ -8,7 +8,13 @@
   "license": "MIT",
   "scripts": {
     "preinstall": "npx only-allow yarn",
-    "generate": "ts-node ./src/generate.ts"
+    "generate": "ts-node ./src/generate.ts",
+    "lint": "eslint 'src/**/*.{js,ts}'",
+    "lint:fix": "eslint --fix 'src/**/*.{js,ts}'"
+  },
+  "lint-staged": {
+    "*.{js,ts}": "eslint --cache --fix",
+    "*": "prettier -w -u"
   },
   "engines": {
     "node": ">=16.0.0"
@@ -19,7 +25,8 @@
     "@typescript-eslint/parser": "^5.17.0",
     "eslint": "^8.12.0",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.0.0"
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.1"
   },
   "dependencies": {
     "@tsconfig/node16": "^1.0.2",
