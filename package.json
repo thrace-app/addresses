@@ -4,7 +4,7 @@
   "description": "Database of known blockchain accounts",
   "main": "index.js",
   "repository": "git@github.com:thrace-app/addresses.git",
-  "author": "lm@devolt.one",
+  "author": "Leonid Meleshin <hello@leon0399.ru> [https://leon0399.ru/]",
   "license": "MIT",
   "scripts": {
     "preinstall": "npx only-allow yarn",
@@ -23,8 +23,10 @@
     "@graphql-eslint/eslint-plugin": "^3.10.3",
     "@typescript-eslint/eslint-plugin": "^5.17.0",
     "@typescript-eslint/parser": "^5.17.0",
-    "eslint": "^8.12.0",
+    "eslint": "^8.23.1",
     "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-json-schema-validator": "^4.0.2",
+    "eslint-plugin-jsonc": "^2.4.0",
     "eslint-plugin-prettier": "^4.0.0",
     "prettier": "^2.6.1"
   },

@@ -34,5 +34,10 @@ module.exports = {
         '@graphql-eslint/known-type-names': 'error',
       },
     },
+    {
+      files: ["*.json", "*.json5"],
+      parser: 'jsonc-eslint-parser',
+      extends: ['plugin:jsonc/recommended-with-json', 'plugin:json-schema-validator/recommended'],
+    }
   ],
 }
