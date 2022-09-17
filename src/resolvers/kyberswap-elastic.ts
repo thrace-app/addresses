@@ -69,7 +69,7 @@ interface Query {
   pools: Pool[]
 }
 
-export class KyberswapResolver implements Resolver {
+export class KyberswapElasticResolver implements Resolver {
   getSupportedNetworks() {
     return Object.keys(NETWORKS).map((networkId) => parseInt(networkId))
   }
