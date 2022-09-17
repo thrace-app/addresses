@@ -38,7 +38,7 @@ jobs:
           body: |
             Update known addresses database
             
-            Co-authored-by: peter-evans <leon0399@users.noreply.github.com>
+            Co-authored-by: Leonid Meleshin <leon0399@users.noreply.github.com>
       - name: Enable Pull Request Automerge
         if: steps.cpr.outputs.pull-request-operation == 'created'
         uses: peter-evans/enable-pull-request-automerge@v2
