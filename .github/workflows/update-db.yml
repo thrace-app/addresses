@@ -28,6 +28,8 @@ jobs:
         with:
           # token: ${{ secrets.COMMIT_TOKEN }}
           commit-message: 'feat: periodic database update'
+          committer: 'GitHub <noreply@github.com>'
+          author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
           branch: feature/periodic-update
           branch-suffix: timestamp
           delete-branch: true
