@@ -22,6 +22,8 @@ const generateDatabases = async () => {
     .flatMap((generator) => generator.getSupportedNetworks())
     .filter(uniqie)
 
+  const networkCounts: Record<number, number> = {}
+
   for (const netoworkId of networks) {
     const databases: Record<string, Account[]> = {}
     const currentResolvers = resolvers.filter((resolver) =>
@@ -38,6 +40,10 @@ const generateDatabases = async () => {
         )
       }
     }
+
+    networkCounts[netoworkId] = Object.values(databases)
+      .map((db) => db.length)
+      .reduce((sum, len) => sum + len, 0)
 
     for (const db in databases) {
       const json = JSON.stringify(
@@ -59,6 +65,13 @@ const generateDatabases = async () => {
       fs.writeFileSync(filename, json, 'utf-8')
     }
   }
+
+  for (const netoworkId in networkCounts) {
+    console.log(`Subtotal: ${networkCounts[netoworkId]} for ${netoworkId}`)
+  }
+
+  const total = Object.values(networkCounts).reduce((sum, len) => sum + len, 0)
+  console.log(`Total: ${total}`)
 }
 
 generateDatabases()

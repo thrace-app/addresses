@@ -1,3 +1,4 @@
+import { Network } from './../types/network'
 import { request, gql } from 'graphql-request'
 import retry from 'async-retry'
 
@@ -10,14 +11,19 @@ const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
 
 const NETWORKS: Record<number, string> = {
-  1: 'https://api.thegraph.com/subgraphs/name/kybernetwork/kyberswap-elastic-mainnet',
-  10: 'https://api.thegraph.com/subgraphs/name/kybernetwork/kyberswap-elastic-optimism',
-  56: 'https://api.thegraph.com/subgraphs/name/kybernetwork/kyberswap-elastic-bsc',
-  137: 'https://api.thegraph.com/subgraphs/name/kybernetwork/kyberswap-elastic-matic',
-  250: 'https://api.thegraph.com/subgraphs/name/kybernetwork/kyberswap-elastic-fantom',
-  42161:
+  [Network.Mainnet]:
+    'https://api.thegraph.com/subgraphs/name/kybernetwork/kyberswap-elastic-mainnet',
+  [Network.Optimism]:
+    'https://api.thegraph.com/subgraphs/name/kybernetwork/kyberswap-elastic-optimism',
+  [Network.BSC]:
+    'https://api.thegraph.com/subgraphs/name/kybernetwork/kyberswap-elastic-bsc',
+  [Network.Polygon]:
+    'https://api.thegraph.com/subgraphs/name/kybernetwork/kyberswap-elastic-matic',
+  [Network.Fantom]:
+    'https://api.thegraph.com/subgraphs/name/kybernetwork/kyberswap-elastic-fantom',
+  [Network.ArbitrumOne]:
     'https://api.thegraph.com/subgraphs/name/kybernetwork/kyberswap-elastic-arbitrum-one',
-  43114:
+  [Network.Avalanche]:
     'https://api.thegraph.com/subgraphs/name/kybernetwork/kyberswap-elastic-avalanche',
 }
 
@@ -63,7 +69,7 @@ interface Query {
   pools: Pool[]
 }
 
-export class KyberswapResolver implements Resolver {
+export class KyberswapElasticResolver implements Resolver {
   getSupportedNetworks() {
     return Object.keys(NETWORKS).map((networkId) => parseInt(networkId))
   }
