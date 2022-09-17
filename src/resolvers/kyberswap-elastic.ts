@@ -49,7 +49,7 @@ interface Token {
   id: string
   symbol: string
   name: string
-  decimals: number
+  decimals: string
 }
 
 interface Pool {
@@ -110,7 +110,7 @@ export class KyberswapResolver implements Resolver {
           token: {
             name: pool.token0.name,
             symbol: pool.token0.symbol,
-            decimals: pool.token0.decimals,
+            decimals: parseInt(pool.token0.decimals),
             type: TokenType.Erc20,
           } as ERC20Token,
         }
@@ -122,7 +122,7 @@ export class KyberswapResolver implements Resolver {
           token: {
             name: pool.token1.name,
             symbol: pool.token1.symbol,
-            decimals: pool.token1.decimals,
+            decimals: parseInt(pool.token1.decimals),
             type: TokenType.Erc20,
           } as ERC20Token,
         }
