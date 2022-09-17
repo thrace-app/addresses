@@ -52,7 +52,7 @@ interface Token {
   id: string
   name: string
   symbol: string
-  decimals: number
+  decimals: string
 }
 
 interface Query {
@@ -103,7 +103,7 @@ export class SushiSwapResolver implements Resolver {
           token: {
             name: pair.token0.name,
             symbol: pair.token0.symbol,
-            decimals: pair.token0.decimals,
+            decimals: parseInt(pair.token0.decimals),
             type: TokenType.Erc20,
           } as ERC20Token,
         }
@@ -115,7 +115,7 @@ export class SushiSwapResolver implements Resolver {
           token: {
             name: pair.token1.name,
             symbol: pair.token1.symbol,
-            decimals: pair.token1.decimals,
+            decimals: parseInt(pair.token0.decimals),
             type: TokenType.Erc20,
           } as ERC20Token,
         }
