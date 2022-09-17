@@ -11,7 +11,7 @@
   - [x] Uniswap V2
   - [x] Uniswap V3
   - [x] Sushiswap
-  - [ ] Mooniswap
+  - [x] Mooniswap
   - [ ] Balancer V1
   - [ ] Balancer V2
   - [ ] Balancer V2 Aave Wrapper
