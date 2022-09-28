@@ -2,8 +2,8 @@ name: Update Database
 
 on:
   schedule:
-    # Run twice per day (at 1:00UTC/6pmPST, 13:00UTC/6amPST)
-    - cron:  '0 1,13 * * *'
+    # Run twice per day (at 1:00UTC/6pmPST)
+    - cron:  '0 1 * * *'
   workflow_dispatch:
 
 jobs:
