@@ -2,6 +2,12 @@
   "$schema": "../../schema/database.schema.json",
   "addresses": [
     {
+      "address": "0x00f93fbf00f97170b6cf295dc58888073cb5c2b8",
+      "displayName": "Curve.fi Factory USD Metapool: CRV/ETH)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0x01fe650ef2f8e2982295489ae6adc1413bf6011f",
       "displayName": "Curve.fi Factory Plain Pool: Tokemak tTCR/TCR)",
       "group": "Curve",
@@ -134,6 +140,12 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
+      "address": "0x0be1596aa8000ff283807f276ced12c21297cf8f",
+      "displayName": "Curve.fi Factory Crypto Pool: test)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0x0ce6a5ff5217e38315f87032cf90686c96627caa",
       "displayName": "Curve.fi EURS/sEUR)",
       "group": "Curve",
@@ -250,6 +262,12 @@
     {
       "address": "0x1570af3df649fc74872c5b8f280a162a3bdd4eb6",
       "displayName": "Curve.fi Factory Crypto Pool: ibEUR/USDC)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0x15dd39d2476ecae26d42659b5226d754782d7e10",
+      "displayName": "Curve.fi Factory USD Metapool: CRV)",
       "group": "Curve",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -376,6 +394,12 @@
     {
       "address": "0x262a70f82df61a94f3e6fcd17895a25d6beb07f6",
       "displayName": "Curve.fi Factory USD Metapool: TOR/DAI)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0x26c5a2f9b97f4b5fc74b05944b3bb1679d803709",
+      "displayName": "Curve.fi Factory USD Metapool: test)",
       "group": "Curve",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -830,6 +854,12 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
+      "address": "0x52f05c70d86662204c7222c35000747b177c393a",
+      "displayName": "Curve.fi Factory Crypto Pool: bllc)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0x54dcfe120d608551f9010d3b66620d230fd5c11b",
       "displayName": "Curve.fi Factory USD Metapool: SUSD/FRAXBP)",
       "group": "Curve",
@@ -850,6 +880,12 @@
     {
       "address": "0x5695a0194eb3c766c5c5cdc094f1169b686be1ec",
       "displayName": "Curve.fi Factory USD Metapool: sUSD/CRV)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0x578b27e257050b6011dfdcd69f67696ef24279fc",
+      "displayName": "Curve.fi Factory USD Metapool: CRV/ETH)",
       "group": "Curve",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -968,8 +1004,20 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
+      "address": "0x62cec7899a9910e48f0deeab755429887b6e1979",
+      "displayName": "Curve.fi Factory USD Metapool: CRV/ETH)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0x62d1d9065b4c78964040b640ab404d86d8f68263",
       "displayName": "Curve.fi Factory Crypto Pool: VNXAU/USDC)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0x634981bbd226fd101b3364c4aea5a2294dee02dc",
+      "displayName": "Curve.fi Factory USD Metapool: CRV)",
       "group": "Curve",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -1688,6 +1736,12 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
+      "address": "0x9685aab3b578c55ce206a312095fc1fa73609e38",
+      "displayName": "Curve.fi Factory Crypto Pool: test)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0x96a3f551c99797998dc33e2d816d567db61ee1c2",
       "displayName": "Curve.fi Factory Crypto Pool: RAI/USDC)",
       "group": "Curve",
@@ -1708,6 +1762,12 @@
     {
       "address": "0x9809f2b973bdb056d24bc2b6571ea1f23db4e861",
       "displayName": "Curve.fi Factory USD Metapool: GOLD/BSD)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0x982da76f0ccf868b558bd46d7a3b58bc2662d7cc",
+      "displayName": "Curve.fi Factory USD Metapool: CRV/ETH)",
       "group": "Curve",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -1820,6 +1880,12 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
+      "address": "0x9d377ec646c10e99e08b5200f651f5a743e3ea78",
+      "displayName": "Curve.fi Factory Crypto Pool: test)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0x9dc516a18775d492c9f061211c8a3fdcd476558d",
       "displayName": "Curve.fi Factory Plain Pool: 4Pool)",
       "group": "Curve",
@@ -1858,6 +1924,12 @@
     {
       "address": "0x9fed7a930d86dfe5980040e18c92b1b0d381ec19",
       "displayName": "Curve.fi Factory USD Metapool: DSU)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0xa0c7cad1d6ddb3eb2949243a0f720f4a291367dd",
+      "displayName": "Curve.fi Factory Crypto Pool: test)",
       "group": "Curve",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -2012,6 +2084,12 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
+      "address": "0xae2029f60dbdf41d14c8c0290f2b68e164360419",
+      "displayName": "Curve.fi Factory Crypto Pool: test)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0xb17defab9da9a48f2712b92db8da7c4edb2d1c0a",
       "displayName": "Curve.fi Factory Plain Pool: 333)",
       "group": "Curve",
@@ -2072,6 +2150,12 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
+      "address": "0xb4698193bcbc49be01fcfc67c144ea4927166355",
+      "displayName": "Curve.fi Factory USD Metapool: CRV/ETH)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0xb49b238ab6106216dc26854ed3a009eac1c419a9",
       "displayName": "Curve.fi Factory Crypto Pool: DUCK/3CRV)",
       "group": "Curve",
@@ -2104,6 +2188,12 @@
     {
       "address": "0xb90a850a0802b9f281babea836292aadd1011972",
       "displayName": "Curve.fi Factory USD Metapool: GYEN/USDC)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0xb91ebf5f6a79a43927f7fa0548409c7821542d0c",
+      "displayName": "Curve.fi Factory Crypto Pool: test)",
       "group": "Curve",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -2534,6 +2624,12 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
+      "address": "0xdab9eeee607f7952680e9433787e4ede244a8515",
+      "displayName": "Curve.fi Factory USD Metapool: matic/ETH)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0xdad60c5b748306ba5a0c9a3c3482a8d1153dad2a",
       "displayName": "Curve.fi Factory Crypto Pool: PAR/USDC)",
       "group": "Curve",
@@ -2926,6 +3022,12 @@
     {
       "address": "0xf95ab97a4d41ba67a8f7298a3c9245c293855659",
       "displayName": "Curve.fi Factory USD Metapool: TrueUSDCurve)",
+      "group": "Curve",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0xf995d84f6032ca8f7729852614b023969d73b424",
+      "displayName": "Curve.fi Factory USD Metapool: crv)",
       "group": "Curve",
       "type": "LIQUIDITY_PROVIDER"
     },
