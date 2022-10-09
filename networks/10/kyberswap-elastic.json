@@ -2,158 +2,8 @@
   "$schema": "../../schema/database.schema.json",
   "addresses": [
     {
-      "address": "0x0009be2258870d4b22c5727a340c74f1d713d20d",
-      "displayName": "Kyberswap Elastic: USDs-(PoS) Tether USD (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x004d3082eb4fa1697451be8348e1300f2dfc73b2",
-      "displayName": "Kyberswap Elastic: Pikatic-CO2 (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x01d35c786a1725aa561f8671dc1f5ffd564d60e7",
-      "displayName": "Kyberswap Elastic: LitCoin-ChainLink Token (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x02ca6d92f34bfd93ed1e4a829df19da47092e49c",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-ChainLink Token (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x0348faca0b1fe7efde33d9982116ea75762bf517",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-(PoS) Wrapped BTC (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x0387dbd5e8504938edf4b38eacbf77a1d0394a1b",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-Wrapped Ether (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x03c13c63cc7fcabca59f2118bac983c6ace014c2",
-      "displayName": "Kyberswap Elastic: Staked MATIC (PoS)-(PoS) Tether USD (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x0a2fc4536f7a4d2931ec861ee4d70b7078e8bce7",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-Axelar Wrapped USDC (10)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x0ab3d2358e61ea902f177619bbf7160b2be55976",
-      "displayName": "Kyberswap Elastic: Aavegotchi GHST Token (PoS) (Wormhole)-(PoS) Tether USD (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x0b4f3d87f2e929b5151317e926df9b209e296fec",
-      "displayName": "Kyberswap Elastic: SushiToken (PoS)-Kyber Network Crystal v2 (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x0e40f978cd4c05749439d5d717b877c838c01eb3",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-Aave (PoS) (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x0f06bde49c142fd086b9a0094bc0d4dfa91f54af",
-      "displayName": "Kyberswap Elastic: (PoS) Wrapped BTC-Wrapped Ether (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x11d9951ead2599f7d77deeef8722a5c6dccbefad",
-      "displayName": "Kyberswap Elastic: USDC-Tether USD (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x15a57686f105cdef03141335afb059b87aeab116",
-      "displayName": "Kyberswap Elastic: (PoS) Dai Stablecoin-(PoS) Tether USD (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x15acef7e2a60402e4820669fbb34dd739fc4e3a0",
-      "displayName": "Kyberswap Elastic: Wrapped Ether (Wormhole)- Aave (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x15ef68f23f7ce08c27cf110da9627d75946eca23",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Branded Logo  (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x164243a48400de56d423b3d2acad1aad86f1fb7c",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-Grosh (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x16a2d38349230566bb32a5ddff05e6f2ef03cfca",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-Graph Token (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x1885870f67c2730d8922f8f13a2d2841dd8736d1",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-WePiggy Coin (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x19928cd854f07c51aba71f0c3031b2b796541307",
-      "displayName": "Kyberswap Elastic: Wrapped Ether-Ancien (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x19a7a5a9878d19ab8a728124a52bd08e68b0b7ed",
-      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2 (PoS)-Wrapped Ether (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x1b4f1b8374d61c011bdb5fcdac57b5ab05575c53",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Staked MATIC (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x1ca9bfb3ebaa1f780f3cfd66602972237ff8cd3f",
-      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2 (PoS)-(PoS) Tether USD (10)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x1e68a8aad906c4019906f174b323eab0a9297900",
-      "displayName": "Kyberswap Elastic: IRON Titanium Token-ChainLink Token (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x2093cdcb5290126700141293a36b03eac69532aa",
-      "displayName": "Kyberswap Elastic: Wrapped Ether-Dogelon (PoS) (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x21a8fd8e34594494d139975e592438f77ba533e0",
-      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2 (PoS)-miMATIC (40)",
+      "address": "0x170be7b68513d25bd7a979baac4d1a1da7d94324",
+      "displayName": "Kyberswap Elastic: Wrapped Ether-Kyber Network Crystal v2 (1000)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -164,26 +14,8 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x21c78a142b39d71686cb46b6320c5831e10b404c",
-      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2 (PoS)-Wrapped Ether (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x271cd925894c0eeff09787ffa548dade8e2a2593",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Pegaxy Stone (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x286dec5a85caf131b1e75d378cc3b796d21c3870",
-      "displayName": "Kyberswap Elastic: (PoS) Dai Stablecoin-(PoS) Tether USD (10)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x2bf9f6fee547130a736f9f96600822fdf6c8c880",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-USD Coin (PoS) (300)",
+      "address": "0x28bc0a25dc9581cfd9920ad0d273c006270e00fa",
+      "displayName": "Kyberswap Elastic: Wrapped Ether-Kyber Network Crystal v2 (300)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -194,128 +26,20 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x2c65ef01e6cc9c80c304f3e7a0d429057273252e",
-      "displayName": "Kyberswap Elastic: MetalStream-MetalStream Gold (300)",
+      "address": "0x35298021675a877a33c18b300236d55b8dc02354",
+      "displayName": "Kyberswap Elastic: USD Coin-Dai Stablecoin (300)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x2c7dc09b5fed4d6c8d385c5a8294a60d65d46d31",
-      "displayName": "Kyberswap Elastic: Vigorus-CO2 (300)",
+      "address": "0x3f676045603b4b17d37a5f2afab3249c1930453d",
+      "displayName": "Kyberswap Elastic: Wrapped Ether-USD Coin (300)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x2ef5be9aa5fef0ba5dc4a32107d015d813d7ca1b",
-      "displayName": "Kyberswap Elastic: (PoS) Tether USD-(PoS) Tether USD (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x30c8ddceadaf497276d6e209669e058b74476237",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-ECOIN DOLLAR (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x326d83385a660ab22c4cfac5c1427cc9ca418640",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-ISLAMICOIN (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x32ff692bcaa1411ac456ba55fe577e430442175e",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-USD Coin (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x37b20bfc2be91df9dcf093fa6143e4c8b6006908",
-      "displayName": "Kyberswap Elastic: Curve.fi Factory Plain Pool: agEUR-jEUR-JRTFutures (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x395bc1a2f0033c02f5dbc538b19d0e9f472e6378",
-      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2 (PoS)-USD Coin (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x3a383fbda2e16fa7566d0bb521e850f2e6b689f7",
-      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2 (PoS)-USD Coin (PoS) (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x3b3a0d2a82ecc940cad74b9298c95ad8b0789ce3",
-      "displayName": "Kyberswap Elastic: (PoS) Dai Stablecoin-(PoS) Tether USD (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x3c8005ca90dc7830723cb1dbae8cf07c3671c5ea",
-      "displayName": "Kyberswap Elastic: 69BitBankCoin-Brazilian Smart Coin (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x3e7a839f6fe540fc57189c3d70c4062b30cbe0dc",
-      "displayName": "Kyberswap Elastic: (PoS) Tether USD- (PoS) Wrapped BTC (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x3fd4da7a08e4a041207e23018fcfc1fec3973d5c",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-Brazilian Smart Coin (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x41a7f77d2a0e5269ad1d7e4de5f2323a046d307f",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Wrapped LUNA Token (PoS) (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x41d52ad99c079118cb58359a7027024b4216bad5",
-      "displayName": "Kyberswap Elastic: LitCoin-USD Coin (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x41e18af214ec121ef30cb3d365750f2a442c5aa2",
-      "displayName": "Kyberswap Elastic: Staked MATIC (PoS)-Wrapped Ether (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x426ec10352669c5bd0ef0f02f581464359cb3bb3",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-(PoS) Dai Stablecoin (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x43396ea0d51cc57bea0c1f3d1d138aee44c76302",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-MUSD (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x453bf5b3f270fa47c4a78ba8024756d68ae4379a",
-      "displayName": "Kyberswap Elastic: Wrapped Matic- (PoS) Wrapped BTC (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x47c272183fb1f4205e91802c3dc36e674e721ded",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-69BitBankCoin (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x48efd5cf442ef85508df580f09321ad7019d463e",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-Lido DAO Token (PoS) (1000)",
+      "address": "0x427464d9434f99a3d942c60210ee2376166975ce",
+      "displayName": "Kyberswap Elastic: USD Coin-Dai Stablecoin (8)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -326,68 +50,20 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x49f3dba279dc6d14298b95a70c63a9f909a5d8b6",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Tree (300)",
+      "address": "0x4a8da4fa93b7a429d701de78b90b1b5f66ac0d28",
+      "displayName": "Kyberswap Elastic: Optimism-Ryga On Fire (1000)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x49f3dd42e18078cca6eadb06ab0b13e0c1091a24",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Kyber Network Crystal v2 (PoS) (300)",
+      "address": "0x4e2f78679b293ca7624ab5a6aea2cacec01d8c53",
+      "displayName": "Kyberswap Elastic: USD Coin-Lido DAO Token (1000)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x4da478d652ce866203aa6382f42cd9b4d63f7c8f",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Pegaxy Stone (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x4fd6242381e2ff53630f00f4e758aa2bdf377b32",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-Wrapped Ether (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x50feedf7fb2f511112287091819f21eb0f3ce498",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-USD Coin (PoS) (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x5294a88d39083f2025bc1363a817a1d91ecfb24d",
-      "displayName": "Kyberswap Elastic: Staked MATIC (PoS)-(PoS) Dai Stablecoin (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x52d52baa93fe4b3dda47ea95272106b967478051",
-      "displayName": "Kyberswap Elastic: Wicked Saint-(PoS) Tether USD (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x52f0b0337bdb1895a208a0ca66e8bf4f907e9c8c",
-      "displayName": "Kyberswap Elastic: Dogelon Index-Dogelon (PoS) (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x540a68e3f3dc7f4cb7721d9f06c12dbb892f65bd",
-      "displayName": "Kyberswap Elastic: Wrapped USTC Token (Wormhole)-Wrapped UST Token (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x547139695c0a5f0ffb0ed2bea9507257e0fd2a2a",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-miMATIC (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x56cea3db691421dbbb42b70348a1d2bfa99330fa",
-      "displayName": "Kyberswap Elastic: (PoS) Tether USD-Lido DAO Token (PoS) (1000)",
+      "address": "0x54be66ecac92eaa52600271e99e0db305a9decec",
+      "displayName": "Kyberswap Elastic: USD Coin-Dai Stablecoin (40)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -404,110 +80,14 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x588daf030c4491923ba2f7e18c224491047401b3",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Pegaxy Stone (1000)",
+      "address": "0x5fc53f707c7aacd460a1cd564c06e0f07610fcb7",
+      "displayName": "Kyberswap Elastic: Wrapped liquid staked Ether 2.0-USD Coin (40)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x5d3c997d6794f75212e68df55c616bc9a0b62740",
-      "displayName": "Kyberswap Elastic: Wrapped Ether (Wormhole)-USD Coin (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x5d899c7482545c2b97e8559e9b8478d712c3b1c8",
-      "displayName": "Kyberswap Elastic: NIKE AIRDROP NFT-GLOBALTRUSTFUND TOKEN (Wormhole) (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x5de6ed1f30b22a7be566fbfd1ee4ebcd507aea8f",
-      "displayName": "Kyberswap Elastic: WePiggy Coin-WePiggy MATIC (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x5ef3973e8ace56df322cf5576bc27cae7ec9b005",
-      "displayName": "Kyberswap Elastic: Wrapped Ether-(PoS) Tether USD (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x612a5cb8b78716efa5dd1d756a852c9356d76364",
-      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2 (PoS)-Lido DAO Token (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x63f1414efa2a8f811aa1b48d2547f8065fa2307f",
-      "displayName": "Kyberswap Elastic: Wrapped Ether-(PoS) Dai Stablecoin (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x657630321ece05e2a93afcbf7c9153575cb3e89f",
-      "displayName": "Kyberswap Elastic: LitCoin-CO2 (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x66b62a5b34cb2c473ed8f5da8005b8eddeb2eb9c",
-      "displayName": "Kyberswap Elastic:  Aave (PoS)-(PoS) Tether USD (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x67c35df8bed28bc172d9f3506a5e7086d7fe360e",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-USD Coin (PoS) (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x6e7befc430b9329317bbf56c6c7c4bd385db3b38",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-CO2 (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x6f43a49a3e7b64647bc753a6d29e412a2c7f2f28",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Decentralized USD (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x733bcedea9baf508903cc736862603b6860270f2",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS) (Wormhole)-Aavegotchi GHST Token (PoS) (Wormhole) (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x7369ad0fad7e20dd126aa8630513b61e1070a5ee",
-      "displayName": "Kyberswap Elastic: (PoS) Tether USD-Lido DAO Token (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x742aeea3cdc97efc045aab1d432a8fab5a0bcdc1",
-      "displayName": "Kyberswap Elastic: (PoS) Dai Stablecoin-(PoS) Tether USD (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x767249d07c13b5b0714b4599f467a17c65174f2f",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Vigorus (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x76cbe6289d7acfd3dfca89c0b47d82a1858509b4",
-      "displayName": "Kyberswap Elastic: Vigorus-CO2 (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x77cdc7c61fa089e236dcc22427e37e7ea1adbfcf",
-      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2 (PoS)-USD Coin (PoS) (1000)",
+      "address": "0x64cfb034b5f0366329df47bf110fa1409278f3b4",
+      "displayName": "Kyberswap Elastic: Tether USD-Dai Stablecoin (8)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -518,26 +98,8 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x794210bd7b79b22ccd8323b8d10b5526c7b55827",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS) (Wormhole)-Kyber Network Crystal v2 (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x79978939514420c7970f6eb2c14c206449fe1f4b",
-      "displayName": "Kyberswap Elastic:  Aave (PoS)-(PoS) Wrapped BTC (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x7a8e4b3f66698a4cb9d0d874d0f1ce4e1070421d",
-      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2 (PoS)-Qi Dao (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x7b5ed43413f0c47d91ed7824778ff53e9efea6c3",
-      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2 (PoS)-Aave (PoS) (1000)",
+      "address": "0x787a828969391ce4bccd7fdc8a0743f9cc9470f5",
+      "displayName": "Kyberswap Elastic: Optimism-USD Coin (1000)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -554,68 +116,20 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x7f4ac7de8b1d2dce06833941dacfff570b81b138",
-      "displayName": "Kyberswap Elastic: 69BitBankCoin-Brazilian Smart Coin (8)",
+      "address": "0x7e29ccaa4bf2894aca02c77e6b99cafc1d24b2f5",
+      "displayName": "Kyberswap Elastic: USD Coin-Tether USD (10)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x800ea09ff1699ba5402dce4ac5e6910b9bdb2e93",
-      "displayName": "Kyberswap Elastic: Wrapped LUNA Token (PoS)-LUNA (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x81457664a3344350fb14110611af1fb5d1ea70db",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-Lido DAO Token (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x81608758a33508f80d3abebc89a112c7e6b52909",
-      "displayName": "Kyberswap Elastic: USDC-(PoS) Tether USD (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x82c16c4003ed84bd7dec33c4a3928d53ca09cc0c",
-      "displayName": "Kyberswap Elastic: USDv-(PoS) Tether USD (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x835044e5b9e54c7756f07c6607c86c4697fc9ba4",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-(PoS) Tether USD (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x83e7201226cc47e50f07e4b0c977b24b97bace2c",
-      "displayName": "Kyberswap Elastic: Unbound Dollar-(PoS) Dai Stablecoin (300)",
+      "address": "0x81e2f9ed2b784b978050b7085c36e662458dd225",
+      "displayName": "Kyberswap Elastic: Wrapped Ether-Tether USD (300)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
       "address": "0x842b41ec57bd53179b66693b3a7e15802d6b8057",
       "displayName": "Kyberswap Elastic: GigaSwap-Wrapped Ether (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x854ce35f1da16a8ce6b407b1c6e025b10262175a",
-      "displayName": "Kyberswap Elastic: FFA-USD Coin (PoS) (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x860ebe6743e5de540232013ad26bb94cae4e0d6c",
-      "displayName": "Kyberswap Elastic: USDM-BRLS (10)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x869872c800c5f822a623a45ae1a37b77a472ca6b",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Dogelon Index (1000)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -632,104 +146,20 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x8b3d12f589fa4c034f6f3151cf81dbab1bb79d90",
-      "displayName": "Kyberswap Elastic: USDs-(PoS) Tether USD (10)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x8ef7302566d20c43778cc5f88c94a059c646d0ad",
-      "displayName": "Kyberswap Elastic: USD Coin (Wormhole)-(PoS) Tether USD (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x8f4dc65d7209cd70347dc7d97288a6774ecce5a1",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-BNB (PoS) (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
       "address": "0x952ffc4c47d66b454a8181f5c68b6248e18b66ec",
       "displayName": "Kyberswap Elastic: USD Coin-Tether USD (8)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x95e06c414f88f731b80a14f92a8812cd2d5f3824",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Brazilian Smart Coin (1000)",
+      "address": "0x961aa0a829361c307d628e69aba1282138521e22",
+      "displayName": "Kyberswap Elastic: Wrapped Ether-Optimism (300)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0x963bf36d1e40f4062cc870e4a48a015d3b653c4e",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Gaia (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x96ba6a0b7285ec343f318691e34f50fe0d4358b6",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-(PoS) Dai Stablecoin (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x990dae0ab65abbe4f5a3bae622825d0ff52d88a8",
-      "displayName": "Kyberswap Elastic: Pegaxy Stone-Vigorus (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x9a831fe7616f50946b30f8a0221b57d26f506a24",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-ISLAMICOIN (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x9d4afaea7f63184df38286c0ebaa7e234ce27848",
-      "displayName": "Kyberswap Elastic: USD Coin (Wormhole)-(PoS) Wrapped BTC (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x9d9d0115c1232315c054754355ab94c860ad30a8",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Ancien (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x9dbc5eba56e6ccbdec2fa6a41ac69328dad67860",
-      "displayName": "Kyberswap Elastic: Staked MATIC (PoS)-USDTst (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x9e2089964e1a5dbb290eef87a645d96cb7dbf19b",
-      "displayName": "Kyberswap Elastic: NIKE AIRDROP NFT-USDT (Wormhole) (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0x9f3905edaff5e9a7286fa5f8e46f746add4d54b8",
-      "displayName": "Kyberswap Elastic: 1KUSD-NEW (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xa15c99d0320c57162d26ad3b8a35c0cfc3e9e53b",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-Jarvis Synthetic Swiss Franc (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xa23b01817e5129320c314fd4f2f99e07d57fb3f2",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-FreeTIME (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xa2ebdc37d122ac14d6daa58752d9fdac35247874",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-69BitBankCoin (8)",
+      "address": "0x9ed87916f525b0981325ab42f1b1242b8b8238b5",
+      "displayName": "Kyberswap Elastic: USD Coin-Tether USD (8)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -740,134 +170,8 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0xa40a8b415b5aaeafdd668a69ecb3cb8cf004d828",
-      "displayName": "Kyberswap Elastic: (PoS) Tether USD-Grosh (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xa40cac1b04d7491bdfb42ccac97dff25e0efb09e",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-Staked MATIC (PoS) (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xa479d474e70858fefc706d25cef96d8c6b6fe6c5",
-      "displayName": "Kyberswap Elastic: Rai Reflex Index (PoS)-USD Coin (PoS) (10)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xa77554bf9c2f6d71484f1909f3f9f9afae853cc4",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-(PoS) Tether USD (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xa7cade428fda54fde469e4f7a07541fb4bd195fb",
-      "displayName": "Kyberswap Elastic: Aavegotchi GHST Token (PoS)-miMATIC (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xa8140feb39f3b3b1b42e3378836f0cdd4d69f8f6",
-      "displayName": "Kyberswap Elastic: TRUEHN GOLD-True Human Nature (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xaaa5c03b760f8c5c1fb067484463f236203c22e5",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-(PoS) Tether USD (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xaabb8b94a93dc1171cb329dc618391f229ec83eb",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Staked MATIC (PoS) (10)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xab912ed1d02d3517b51fad63e373e9c3a3317b4e",
-      "displayName": "Kyberswap Elastic: Wrapped Ether-(PoS) yearn.finance (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xabdf8d3d237c7e99f6a0d689d1bbed2c6c8d76bb",
-      "displayName": "Kyberswap Elastic: SushiToken (PoS)-WePiggy WBTC (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xac175849f978ee87382372efbec69e275367a7eb",
-      "displayName": "Kyberswap Elastic: LitCoin-Wicked Saint (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xad9a123317646148ac4ea9e77795014b75795f5f",
-      "displayName": "Kyberswap Elastic: CRV (PoS)-Wrapped Ether (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xae30a95fed25eafec5757e58821df0c92133aff2",
-      "displayName": "Kyberswap Elastic: (PoS) Tether USD- (PoS) Wrapped BTC (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xaec3954c6fff6bccb5f083df3d7d3737a5b93e3c",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Brazilian Smart Coin (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xaedd9cedc0991cc7f1001a90311010d5b04cca38",
-      "displayName": "Kyberswap Elastic: TRUEHN GOLD-True Human Nature (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xaf2d827352b5f1f7e853df71f009024887e85c27",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-MyFirstToken (10)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xafbbcabfbc7da1d89af7ff17952b89e8195efba0",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-(PoS) Tether USD (10)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xb007ad2ff676a970bbc84b98bc293c6b27073de7",
-      "displayName": "Kyberswap Elastic: Pegaxy Stone-Vigorus (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xb0de679e546efc3e5749c3ac36297829d44e692e",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-MIB:COIN (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xb1f2aa3ea4d407024a3d0eb9d6b6c29ef45d9289",
-      "displayName": "Kyberswap Elastic: (PoS) Dai Stablecoin-Grosh (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xb293e1917fad8775c42d8eb768ba10a89478ebbc",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-(PoS) Tether USD (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xb49057b0f58f0114ce9080adce2c71737d67215c",
-      "displayName": "Kyberswap Elastic: Wrapped Ether-(PoS) Tether USD (40)",
+      "address": "0xb101593e1843625e5c7b60556f67b0cac3234102",
+      "displayName": "Kyberswap Elastic: Uniswap-USD Coin (300)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -878,74 +182,8 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0xb82d8a2e192fa2c4f05abc170040dbd8041226db",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-USDs (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xba395263b9507ae389c847be9476c0f6944e48c0",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-NIKE AIRDROP NFT (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xbba0c923e6d734f8ba183e9c4bf4a1cc82c77e09",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-miMATIC (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xbbd4b60e84ad8e1b24c286d20e4fe87033be4463",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-chiliZ (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xbcf5819e6db5b240a9062fdf2c1c87703163cf40",
-      "displayName": "Kyberswap Elastic: (PoS) Tether USD-USD Coin (PoS) (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xbdbd4618edff9bb740579fe10c4d64d1c6ada848",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-UnvaxxedCaw (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xbfafe6053244852b24570deedead874a304078cd",
-      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2 (PoS)-Wrapped Ether (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xc012e979afdbabfac3e8a705f9d3f989704f5e91",
-      "displayName": "Kyberswap Elastic: chiliZ-Decentralized USD (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
       "address": "0xc09f95fb1bf19cf9c62498547e569eec51559c75",
       "displayName": "Kyberswap Elastic: Uniswap-Ethereum Money (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xc13bcdd64dfa7ba36e1cf56f62640c0d71bfc1e1",
-      "displayName": "Kyberswap Elastic: (PoS) Tether USD-USD Coin (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xc18c3ba8140902ae061bee0eb6dbe0ba459656ee",
-      "displayName": "Kyberswap Elastic: USDs-USDv (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xc19fae1d673f4111c85f4e8d058d2c21532d024c",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-WePiggy Coin (1000)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -956,170 +194,44 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0xc3f8dcf58438aa8f4f806163512087e2c3674dfe",
-      "displayName": "Kyberswap Elastic: Tree-CO2 (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
       "address": "0xc4d8d5592fc2a70fd7185058ce1d857d255b641c",
       "displayName": "Kyberswap Elastic: HEX-Hedron (1000)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0xc50af74fc1b6a9911b7d27e647331ae1d56b54ae",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Token Pix (300)",
+      "address": "0xc8c68f03a8b2e9cf2808d6c65645a2eba97a5aac",
+      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2-Kyber Network Crystal v2 (10)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0xc6004c18da53ddad209d1d2c29e5151ecda10966",
-      "displayName": "Kyberswap Elastic: ChainLink Token-(PoS) Tether USD (1000)",
+      "address": "0xd62003937dc1596dc789dda4a84ba6443aaa300d",
+      "displayName": "Kyberswap Elastic: Tether USD-Dai Stablecoin (10)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0xc604132dde4f8bc8e10281817f9eb15e703b1ce9",
-      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2 (PoS)-ChainLink Token (1000)",
+      "address": "0xd6df669754540ff5cef52668748c635f23b157b0",
+      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2-Kyber Network Crystal v2 (300)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0xc80535d74dc66e0321da8f36237b57689e26f9bc",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Dimensional Market Token (300)",
+      "address": "0xda74db17023750d02b83be2559a4eaa013b65c54",
+      "displayName": "Kyberswap Elastic: Wrapped liquid staked Ether 2.0-Wrapped Ether (10)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0xcba2ad68e240da4797b6f4fae9efbf36b378dd62",
-      "displayName": "Kyberswap Elastic: (PoS) Dai Stablecoin-(PoS) yearn.finance (1000)",
+      "address": "0xdb17d6912be5ebe748abc253390563822ce47631",
+      "displayName": "Kyberswap Elastic: USD Coin-Dai Stablecoin (10)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0xcbd258f33b7a2705e8418708a4f615c43fedf23c",
-      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2 (PoS)-USD Coin (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xcca451c353bc449945c5ea25676af83dec5d56fd",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Token Pix (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xcd2d07c7dc4a4e2f7682aaa561657323e8f5cfc6",
-      "displayName": "Kyberswap Elastic: Kyber Network Crystal v2 (PoS)-Lido DAO Token (PoS) (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xd10f0c5c9937dfb93c2942729a2aaa362adb0ccf",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Wrapped Ether (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xd5555d642b9728147a0b777b0859654665346714",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-JRTFutures (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xd71a7bfe9bc89fbd1b01c4de03cf8eb9d59bd75e",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-(PoS) Tether USD (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xd71c66a370250359fdbee63256534221ddee010f",
-      "displayName": "Kyberswap Elastic: Staked MATIC (PoS)-(PoS) Dai Stablecoin (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xd7c897933808cd0b5f7ea4e24161300865c9fe62",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-(PoS) Dai Stablecoin (10)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xd9930eec7414b61ed953659bdb1fb991d175febc",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Wrapped LUNA Token (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xd9f60c024fc911f3681f92630d6c73ac12479ee5",
-      "displayName": "Kyberswap Elastic: Curve.fi Factory Plain Pool: 2eur (PAR)-JRTFutures (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xdaed9ee2836e3048f03f891cdcb86e07f25ca227",
-      "displayName": "Kyberswap Elastic: Staked MATIC (PoS)-miMATIC (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xdce714e026bf6aa80e960c442a9f2d116a797a10",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-(PoS) Dai Stablecoin (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xe10d0554afe20b42bddf858e33ea654555985de1",
-      "displayName": "Kyberswap Elastic: NIKE AIRDROP NFT-USD Coin (PoS) (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xe23af807b7d3dff72bb280a14bdc853dfc2f2efc",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-BRLS (10)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xe2a1a92e2481550b827c8a14f3246a95a98265ad",
-      "displayName": "Kyberswap Elastic: (PoS) Tether USD-USD Coin (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xe4270f9b2d9644553bd13730dc46c09e849c2fd8",
-      "displayName": "Kyberswap Elastic: (PoS) Tether USD-NEW (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xe46f284de0c61886537d07e8999bebf669623ee0",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Cosmos (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xe4c0a47b6be9790e8c8dd1a4ff39c0554313e4e7",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-WePiggy Coin (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xe4dabdca4cfd9c402c7cb2df1476ca25e0af1a17",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-LUNA (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xe65c76be50658cc9162f77f0c1d96a9d2c15fa23",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-Staked MATIC (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xe778b80a8ac9552a3ec2be78bfae7fc1ed05878d",
-      "displayName": "Kyberswap Elastic: (PoS) Valentino Rossi_46-(PoS) Tether USD (1000)",
+      "address": "0xe09f67c6449f373d5836c2a159c6973604283aaa",
+      "displayName": "Kyberswap Elastic: Tether USD-Dai Stablecoin (40)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -1130,176 +242,26 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0xea698cfb2e18415c1e7a7b4642d30b88105b115a",
-      "displayName": "Kyberswap Elastic: (PoS) Wrapped BTC-Wrapped Ether (40)",
+      "address": "0xf4d4cbff02cf20f4c425a83897870311e11d0300",
+      "displayName": "Kyberswap Elastic: Wrapped Ether-Bitcoin | t.me/BitcoinCoreGroup (300)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0xeb0649bcccae690a9eff079053aa26fe0edc21e2",
-      "displayName": "Kyberswap Elastic: (PoS) Dai Stablecoin-miMATIC (8)",
+      "address": "0xf9d5940c2313636546ab9852354860dce275dbad",
+      "displayName": "Kyberswap Elastic: Wrapped Ether-USD Coin (40)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
-      "address": "0xeb81e43a36bc7cb7ab2da055141afe4b788c78d2",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-WePiggy MATIC (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xebadcdd801bdb22cbb0bd8ee4a336862196a2b9e",
-      "displayName": "Kyberswap Elastic: USDv-(PoS) Tether USD (40)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xee8053d57b5bb6dd7cb0e586c1794a1f65400098",
-      "displayName": "Kyberswap Elastic: (PoS) Tether USD-Vigorus (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xf04b7c26b493c846f48e9bf301dbda43d97fe3d1",
-      "displayName": "Kyberswap Elastic: (PoS) Wrapped BTC-(PoS) Tether USD (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xf091fbf423e7e77c318a1be3f6303048ad7f5cd6",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-1KUSD (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xf0c294f923ec9e64c60128fe233d27d9268a587d",
-      "displayName": "Kyberswap Elastic: 1KUSD-(PoS) Tether USD (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xf28130def3224490d5b72fa7658a15b8bcaa7351",
-      "displayName": "Kyberswap Elastic: Aavegotchi GHST Token (PoS) (Wormhole)- Aave (PoS) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xf28a0dcfebeb9cb42aa06519ac5be34b2d920094",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-(PoS) Dai Stablecoin (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xf2953e9f1bf85ef8f6fd9d30d853271cb256a6ac",
-      "displayName": "Kyberswap Elastic: Ocean Token (PoS)-0xBitcoin Token (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xf2ec7178557999bb27aabb73f05a9075702b62a9",
-      "displayName": "Kyberswap Elastic: USDv-USDs (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xf4958f585231acbea2076b806ae295aea0b127f3",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-LUNA (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xf592daa973fc782207ab2bd1a3c619e5dc39e85e",
-      "displayName": "Kyberswap Elastic: Aave Matic Market USDT-(PoS) Tether USD (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xf636e8866482e6763fe4696925f55d6099ba6ee8",
-      "displayName": "Kyberswap Elastic: ISLAMICOIN-(PoS) Tether USD (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xf6ab446f4cac8065d71e6baa20bf8bfd681f49a2",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-Vigorus (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xf716816e3a22f2d1555aaa4fe87d0fbeb78ad8d3",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-Tether USD (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xf8e06afe739c882ac7ac049f0bf6f20ae2c5b1e9",
-      "displayName": "Kyberswap Elastic: (PoS) Valentino Rossi_46-QuickSwap (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xf9cc934753a127100585812181ac04d07158a4c2",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-(PoS) Tether USD (8)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xfa63815da898b41f2e9f4d3781bb88058443c9fa",
-      "displayName": "Kyberswap Elastic: Wrapped Ether-Pegaxy Stone (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xfa667330605ef1ee71458f9e5b93e7a17c34b6ba",
-      "displayName": "Kyberswap Elastic: 1KUSD-NEW (10)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xfa74e100f92468f4a70ba767b38ef4e6ba865430",
-      "displayName": "Kyberswap Elastic: NIKE AIRDROP NFT-Binance-Peg BTCB Token (Wormhole) (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xfad082a7bed9ce0f76c4ddb15081417ae7676c9c",
-      "displayName": "Kyberswap Elastic: $DOWN Vault (PoS)-(PoS) Tether USD (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xfb590ebb355e4708b4704aa50a35c9e8b391761a",
-      "displayName": "Kyberswap Elastic: Rickogon-CO2 (300)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xfbc25d695ba83fa088aa273fc9bfbfdd95a172c1",
-      "displayName": "Kyberswap Elastic: Wrapped Matic-Grosh (10)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xfbc57f7770342b6a48adaed234d36de279bbc930",
-      "displayName": "Kyberswap Elastic: USD Coin (PoS)-GNO Token (8)",
+      "address": "0xfb9c406889329c92364a44dfae29bcc747de753c",
+      "displayName": "Kyberswap Elastic: Wrapped Ether-Dai Stablecoin (300)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
     {
       "address": "0xfcd6019ad26be2d05ae1ae33650ee39c8a9e36e0",
       "displayName": "Kyberswap Elastic: Wrapped Ether-Tether USD (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xfd117d9a917a8990cc8f804c0ce91f40340dacac",
-      "displayName": "Kyberswap Elastic: MetalStream-ENEGRA (1000)",
-      "group": "Kyberswap Elastic",
-      "type": "LIQUIDITY_PROVIDER"
-    },
-    {
-      "address": "0xfd1eae290e433b73bcc9d18717cc56750ffa2d8c",
-      "displayName": "Kyberswap Elastic: Staked MATIC (PoS)-(PoS) Tether USD (40)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     }
