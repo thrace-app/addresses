@@ -7,6 +7,7 @@ import type { Resolver } from './resolver'
 import { Network } from '../types/network'
 
 const GROUP = 'sushiswap'
+const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
 
 const NETWORKS: Record<number, string> = {
@@ -29,8 +30,8 @@ const NETWORKS: Record<number, string> = {
 }
 
 const LP_QUERY = gql`
-  query LiquidityProviders($first: Int, $skip: Int) {
-    pairs(first: $first, skip: $skip) {
+  query LiquidityProviders($first: Int, $lastId: ID) {
+    pairs(first: $first, where: { id_gt: $lastId }) {
       id
       name
       token0 {
@@ -91,25 +92,24 @@ export class SushiSwapResolver implements Resolver {
     const accounts: Account[] = DEPLOYMENTS
     const tokens: Record<string, Account> = {}
 
-    let skip = 0
-
     let response: Query = {
       pairs: [],
     }
 
     do {
+      const lastAddress =
+        response.pairs[response.pairs.length - 1]?.id || NULL_ADDRESS
+
       response = await retry(
         async () =>
           await request<Query>(queryUrl, LP_QUERY, {
             first: STEP,
-            skip,
+            lastId: lastAddress,
           }),
         {
           retries: 5,
         }
       )
-
-      skip += STEP
 
       for (const pair of response.pairs) {
         accounts.push({
@@ -148,7 +148,7 @@ export class SushiSwapResolver implements Resolver {
       const currentTokensLength = Object.keys(tokens).length
 
       console.log(
-        `Fetched ${GROUP} (${networkId}): ${response.pairs.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) Offset: ${skip}`
+        `Fetched ${GROUP} (${networkId}): ${response.pairs.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
       )
     } while (response.pairs.length > 0)
 
