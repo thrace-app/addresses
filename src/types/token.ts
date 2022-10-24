@@ -14,3 +14,7 @@ export interface ERC20Token extends Token {
   type: TokenType.Erc20
   decimals: number
 }
+
+export interface ERC721Token extends Token {
+  type: TokenType.Erc721
+}
