@@ -3,16 +3,15 @@ import retry from 'async-retry'
 
 import { type Account, AccountType } from '../types/account'
 import { TokenType, type ERC721Token } from '../types/token'
-import type { Resolver } from './resolver'
+import type { Generator } from './generator'
 import { Network } from '../types/network'
 
-const GROUP = 'factoria-v2'
+const GROUP = 'cell'
 const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
 
 const NETWORKS: Record<number, string> = {
-  [Network.Mainnet]:
-    'https://api.thegraph.com/subgraphs/name/leon0399/factoria-v2',
+  [Network.Mainnet]: 'https://api.thegraph.com/subgraphs/name/leon0399/cell',
 }
 
 const LP_QUERY = gql`
@@ -35,7 +34,7 @@ interface Query {
   collections: Collection[]
 }
 
-export class FactoriaV2Resolver implements Resolver {
+export class CellResolver implements Generator {
   getSupportedNetworks(): number[] {
     return Object.keys(NETWORKS).map((networkId) => parseInt(networkId))
   }

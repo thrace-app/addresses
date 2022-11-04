@@ -4,7 +4,7 @@ import retry from 'async-retry'
 
 import { type Account, AccountType } from '../types/account'
 import { TokenType, ERC20Token } from '../types/token'
-import type { Resolver } from './resolver'
+import type { Generator } from './generator'
 
 const GROUP = 'curve'
 const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
@@ -84,7 +84,7 @@ interface Query {
   liquidityPools: LiquidityPool[]
 }
 
-export class CurveResolver implements Resolver {
+export class CurveResolver implements Generator {
   getSupportedNetworks() {
     return Object.keys(NETWORKS).map((networkId) => parseInt(networkId))
   }

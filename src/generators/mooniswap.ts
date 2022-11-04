@@ -3,7 +3,7 @@ import retry from 'async-retry'
 
 import { Account, AccountType } from '../types/account'
 import { TokenType, type ERC20Token } from '../types/token'
-import type { Resolver } from './resolver'
+import type { Generator } from './generator'
 
 const GROUP = 'mooniswap'
 const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
@@ -50,7 +50,7 @@ interface Query {
   pairs: Pair[]
 }
 
-export class MooniswapResolver implements Resolver {
+export class MooniswapResolver implements Generator {
   getSupportedNetworks(): number[] {
     return [1]
   }

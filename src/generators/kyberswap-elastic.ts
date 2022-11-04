@@ -4,7 +4,7 @@ import retry from 'async-retry'
 
 import { type Account, AccountType } from '../types/account'
 import { TokenType, ERC20Token } from '../types/token'
-import type { Resolver } from './resolver'
+import type { Generator } from './generator'
 
 const GROUP = 'kyberswap-elastic'
 const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
@@ -69,7 +69,7 @@ interface Query {
   pools: Pool[]
 }
 
-export class KyberswapElasticResolver implements Resolver {
+export class KyberswapElasticResolver implements Generator {
   getSupportedNetworks() {
     return Object.keys(NETWORKS).map((networkId) => parseInt(networkId))
   }
