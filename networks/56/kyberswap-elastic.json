@@ -2,6 +2,12 @@
   "$schema": "../../schema/database.schema.json",
   "addresses": [
     {
+      "address": "0x01e5b7cdfdbe8fda4261344b5eba89098aa995cf",
+      "displayName": "Kyberswap Elastic: InveCoinz-Tether USD (300)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0x02bc18a11fe40bb06476a362f2959780109b338b",
       "displayName": "Kyberswap Elastic: Tether USD-Wrapped BNB (40)",
       "group": "Kyberswap Elastic",
