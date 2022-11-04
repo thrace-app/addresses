@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "preinstall": "npx only-allow yarn",
-    "generate": "ts-node ./src/generate.ts",
+    "generate": "ts-node ./src/index.ts generate",
     "lint": "eslint 'src/**/*.{js,ts}'",
     "lint:fix": "eslint --fix 'src/**/*.{js,ts}'"
   },
