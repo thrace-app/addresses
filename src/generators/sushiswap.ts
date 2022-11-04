@@ -1,19 +1,39 @@
 import { request, gql } from 'graphql-request'
 import retry from 'async-retry'
 
-import { Account, AccountType } from '../types/account'
+import { type Account, AccountType } from '../types/account'
 import { TokenType, type ERC20Token } from '../types/token'
-import type { Resolver } from './resolver'
+import type { Generator } from './generator'
+import { Network } from '../types/network'
 
-const GROUP = 'uniswap-v2'
+const GROUP = 'sushiswap'
 const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
-const SUBGRAPH_URL =
-  'https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v2'
+
+const NETWORKS: Record<number, string> = {
+  [Network.Mainnet]:
+    'https://api.thegraph.com/subgraphs/name/sushiswap/exchange',
+  [Network.BSC]:
+    'https://api.thegraph.com/subgraphs/name/sushiswap/bsc-exchange',
+  [Network.Polygon]:
+    'https://api.thegraph.com/subgraphs/name/sushiswap/matic-exchange',
+  [Network.Fantom]:
+    'https://api.thegraph.com/subgraphs/name/sushiswap/fantom-exchange',
+  [Network.ArbitrumOne]:
+    'https://api.thegraph.com/subgraphs/name/sushiswap/arbitrum-exchange',
+  [Network.Celo]:
+    'https://api.thegraph.com/subgraphs/name/sushiswap/celo-exchange',
+  [Network.Avalanche]:
+    'https://api.thegraph.com/subgraphs/name/sushiswap/avalanche-exchange',
+  [Network.Moonriver]:
+    'https://api.thegraph.com/subgraphs/name/sushiswap/moonriver-exchange',
+}
+
 const LP_QUERY = gql`
   query LiquidityProviders($first: Int, $lastId: ID) {
     pairs(first: $first, where: { id_gt: $lastId }) {
       id
+      name
       token0 {
         ...TokenInfo
       }
@@ -33,48 +53,42 @@ const LP_QUERY = gql`
 
 const DEPLOYMENTS: Account[] = [
   {
-    address: '0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f',
-    displayName: `${GROUP}: Factory`,
-    group: GROUP,
-    type: AccountType.Other,
-  },
-  {
-    address: '0xf164fC0Ec4E93095b804a4795bBe1e041497b92a',
-    displayName: `${GROUP}: Router`,
-    group: GROUP,
-    type: AccountType.LiquidityProvider,
-  },
-  {
-    address: '0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D',
-    displayName: `${GROUP}: Router 2`,
+    address: '0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F',
+    displayName: `${GROUP}: Router `,
     group: GROUP,
     type: AccountType.LiquidityProvider,
   },
 ]
 
-interface Token {
-  id: string
-  symbol: string
-  name: string
-  decimals: string
-}
-
 interface Pair {
   id: string
+  name: string
+
   token0: Token
   token1: Token
+}
+
+interface Token {
+  id: string
+  name: string
+  symbol: string
+  decimals: string
 }
 
 interface Query {
   pairs: Pair[]
 }
 
-export class UniswapV2Resolver implements Resolver {
+export class SushiSwapResolver implements Generator {
   getSupportedNetworks(): number[] {
-    return [1]
+    return Object.keys(NETWORKS).map((networkId) => parseInt(networkId))
   }
 
-  async resolve() {
+  async resolve(networkId: number) {
+    // Guaranteed to be not null by `getSupportedNetworks`
+    // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+    const queryUrl: string = NETWORKS[networkId]!
+
     const accounts: Account[] = DEPLOYMENTS
     const tokens: Record<string, Account> = {}
 
@@ -88,20 +102,20 @@ export class UniswapV2Resolver implements Resolver {
 
       response = await retry(
         async () =>
-          await request<Query>(SUBGRAPH_URL, LP_QUERY, {
+          await request<Query>(queryUrl, LP_QUERY, {
             first: STEP,
             lastId: lastAddress,
           }),
         {
-          retries: 10,
+          retries: 5,
         }
       )
 
       for (const pair of response.pairs) {
         accounts.push({
           address: pair.id,
-          displayName: `Uniswap V3: ${pair.token0.name}-${pair.token1.name}`,
-          group: 'Uniswap V3',
+          displayName: `SushiSwap: ${pair.name}`,
+          group: 'SushiSwap',
           type: AccountType.LiquidityProvider,
         })
 
@@ -124,7 +138,7 @@ export class UniswapV2Resolver implements Resolver {
           token: {
             name: pair.token1.name,
             symbol: pair.token1.symbol,
-            decimals: parseInt(pair.token1.decimals),
+            decimals: parseInt(pair.token0.decimals),
             type: TokenType.Erc20,
           } as ERC20Token,
         }
@@ -134,7 +148,7 @@ export class UniswapV2Resolver implements Resolver {
       const currentTokensLength = Object.keys(tokens).length
 
       console.log(
-        `Fetched ${GROUP}: ${response.pairs.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
+        `Fetched ${GROUP} (${networkId}): ${response.pairs.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
       )
     } while (response.pairs.length > 0)
 

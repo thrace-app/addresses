@@ -3,7 +3,7 @@ import retry from 'async-retry'
 
 import { Account, AccountType } from '../types/account'
 import { TokenType, type ERC20Token } from '../types/token'
-import type { Resolver } from './resolver'
+import type { Generator } from './generator'
 
 const GROUP = 'uniswap-v1'
 const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
@@ -38,7 +38,7 @@ interface Query {
   exchanges: Exchange[]
 }
 
-export class UniswapV1Resolver implements Resolver {
+export class UniswapV1Resolver implements Generator {
   getSupportedNetworks(): number[] {
     return [1]
   }

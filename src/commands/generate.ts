@@ -1,12 +1,10 @@
 import fs from 'fs'
+import { Command } from 'commander'
 import path, { dirname } from 'path'
 
-import * as Resolvers from './resolvers'
-import { type Account } from './types/account'
-
-const uniqie = <T>(value: T, index: number, self: T[]): boolean => {
-  return self.indexOf(value) === index
-}
+import * as Generators from '../generators'
+import { type Generator } from '../generators'
+import { type Account } from '../types/account'
 
 const uniqueBy = <T extends Record<string, any>>(
   array: T[],
@@ -15,19 +13,34 @@ const uniqueBy = <T extends Record<string, any>>(
   return [...new Map<string, T>(array.map((item) => [item[by], item])).values()]
 }
 
-const generateDatabases = async () => {
-  const resolvers = Object.values(Resolvers).map((generator) => new generator())
+interface GenerateCommandActionArgs {
+  network: number[]
+  generator: string[]
+}
 
-  const networks = resolvers
-    .flatMap((generator) => generator.getSupportedNetworks())
-    .filter(uniqie)
+const generateCommandAction = async (args: GenerateCommandActionArgs) => {
+  const generators: Generator[] = Object.entries(Generators) //
+    .filter(
+      ([generator]) =>
+        !args.generator ||
+        args.generator.length === 0 ||
+        args.generator.includes(generator)
+    )
+    .map(([_, generator]) => new generator())
+
+  const networks = [
+    ...new Set(
+      args.network ||
+        generators.flatMap((generator) => generator.getSupportedNetworks())
+    ),
+  ]
 
   const networkCounts: Record<number, number> = {}
 
   for (const netoworkId of networks) {
     const databases: Record<string, Account[]> = {}
-    const currentResolvers = resolvers.filter((resolver) =>
-      resolver.getSupportedNetworks().includes(netoworkId)
+    const currentResolvers = generators.filter((generator) =>
+      generator.getSupportedNetworks().includes(netoworkId)
     )
 
     for (const resolver of currentResolvers) {
@@ -59,7 +72,7 @@ const generateDatabases = async () => {
 
       const filename = path.join(
         __dirname,
-        `../networks/${netoworkId}/${db}.json`
+        `../../networks/${netoworkId}/${db}.json`
       )
       fs.mkdirSync(dirname(filename), { recursive: true })
       fs.writeFileSync(filename, json, 'utf-8')
@@ -74,4 +87,13 @@ const generateDatabases = async () => {
   console.log(`Total: ${total}`)
 }
 
-generateDatabases()
+const generateCommand = new Command('generate')
+  .option<number[]>(
+    '-N, --network [networkIds...]',
+    'specify networks',
+    (value, prev: number[] = []) => [...prev, parseInt(value)]
+  )
+  .option('--generator [generators...]', 'specify generators')
+  .action(generateCommandAction)
+
+export default generateCommand

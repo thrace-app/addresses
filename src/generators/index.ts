@@ -8,6 +8,8 @@ import { UniswapV3Resolver } from './uniswap-v3'
 import { FactoriaV2Resolver } from './factoria-v2'
 import { CellResolver } from './cell'
 
+export * from './generator'
+
 export {
   MooniswapResolver,
   KyberswapElasticResolver,
