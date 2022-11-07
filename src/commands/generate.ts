@@ -7,6 +7,7 @@ import logger from '../logger'
 import * as Generators from '../generators'
 import { type Generator } from '../generators'
 import { type Account } from '../types/account'
+import { endGroup, startGroup } from '../utils/github-actions'
 
 const uniqueBy = <T extends Record<string, any>>(
   array: T[],
@@ -46,6 +47,10 @@ const generateCommandAction = async (args: GenerateCommandActionArgs) => {
     )
 
     for (const resolver of currentResolvers) {
+      if (process.env.GITHUB_ACTIONS === 'true') {
+        startGroup(`${resolver.constructor.name} for network '${netoworkId}'`)
+      }
+
       const resolved = await resolver.resolve(netoworkId, { log: logger })
 
       for (const db in resolved) {
@@ -53,6 +58,9 @@ const generateCommandAction = async (args: GenerateCommandActionArgs) => {
           [...(databases[db] || []), ...resolved[db]],
           'address'
         )
+      }
+      if (process.env.GITHUB_ACTIONS === 'true') {
+        endGroup()
       }
     }
 
