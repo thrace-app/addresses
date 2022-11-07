@@ -2,6 +2,8 @@ import fs from 'fs'
 import { Command } from 'commander'
 import path, { dirname } from 'path'
 
+import logger from '../logger'
+
 import * as Generators from '../generators'
 import { type Generator } from '../generators'
 import { type Account } from '../types/account'
@@ -44,7 +46,7 @@ const generateCommandAction = async (args: GenerateCommandActionArgs) => {
     )
 
     for (const resolver of currentResolvers) {
-      const resolved = await resolver.resolve(netoworkId)
+      const resolved = await resolver.resolve(netoworkId, { log: logger })
 
       for (const db in resolved) {
         databases[db] = uniqueBy(

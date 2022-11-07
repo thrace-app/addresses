@@ -5,9 +5,9 @@ import { type Account, AccountType } from '../types/account'
 import { TokenType, type ERC20Token } from '../types/token'
 import type { Generator } from './generator'
 import { Network } from '../types/network'
+import { NULL_ADDRESS } from '../utils/constants'
 
 const GROUP = 'sushiswap'
-const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
 
 const NETWORKS: Record<number, string> = {
