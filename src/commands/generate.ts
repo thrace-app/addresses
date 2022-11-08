@@ -73,16 +73,17 @@ const generateCommandAction = async (args: GenerateCommandActionArgs) => {
       for (const asset of assets) {
         const json = JSON.stringify(
           {
-            $schema: '../../../schema/account.schema.json',
+            $schema: '../../../../schema/account.schema.json',
             ...asset,
           },
           null,
           2
         )
 
+        const addressPrefix = asset.address.substring(0, 7)
         const filename = path.join(
           __dirname,
-          `../../networks/${netoworkId}/assets/${asset.address}/info.json`
+          `../../networks/${netoworkId}/assets/${addressPrefix}/${asset.address}/info.json`
         )
 
         fs.mkdirSync(dirname(filename), { recursive: true })
