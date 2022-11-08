@@ -4,12 +4,12 @@ import retry from 'async-retry'
 import { Account, AccountType } from '../types/account'
 import { TokenType, type ERC20Token } from '../types/token'
 import type { Generator } from './generator'
+import { NULL_ADDRESS } from '../utils/constants'
 
-const GROUP = 'mooniswap'
-const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
 const SUBGRAPH_URL =
   'https://api.thegraph.com/subgraphs/name/mmontes11/mooniswap'
+
 const LP_QUERY = gql`
   query LiquidityProviders($first: Int, $lastId: ID) {
     pairs(first: $first, where: { id_gt: $lastId }) {
@@ -115,13 +115,13 @@ export class MooniswapResolver implements Generator {
       const currentTokensLength = Object.keys(tokens).length
 
       console.log(
-        `Fetched ${GROUP}: ${response.pairs.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
+        `Fetched Mooniswap: ${response.pairs.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
       )
     } while (response.pairs.length > 0)
 
     return {
-      [GROUP]: accounts,
-      tokens: Object.values(tokens),
+      mooniswap: accounts,
+      erc20: Object.values(tokens),
     }
   }
 }

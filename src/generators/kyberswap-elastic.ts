@@ -5,9 +5,8 @@ import retry from 'async-retry'
 import { type Account, AccountType } from '../types/account'
 import { TokenType, ERC20Token } from '../types/token'
 import type { Generator } from './generator'
+import { NULL_ADDRESS } from '../utils/constants'
 
-const GROUP = 'kyberswap-elastic'
-const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
 
 const NETWORKS: Record<number, string> = {
@@ -138,13 +137,13 @@ export class KyberswapElasticResolver implements Generator {
       const currentTokensLength = Object.keys(tokens).length
 
       console.log(
-        `Fetched ${GROUP} (${networkId}): ${response.pools.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
+        `Fetched Kyberswap Elastic (${networkId}): ${response.pools.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
       )
     } while (response.pools.length > 0)
 
     return {
-      [GROUP]: accounts,
-      tokens: Object.values(tokens),
+      'kyberswap-elastic': accounts,
+      erc20: Object.values(tokens),
     }
   }
 }

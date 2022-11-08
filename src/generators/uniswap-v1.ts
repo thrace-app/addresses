@@ -4,12 +4,12 @@ import retry from 'async-retry'
 import { Account, AccountType } from '../types/account'
 import { TokenType, type ERC20Token } from '../types/token'
 import type { Generator } from './generator'
+import { NULL_ADDRESS } from '../utils/constants'
 
-const GROUP = 'uniswap-v1'
-const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
 const SUBGRAPH_URL =
   'https://api.thegraph.com/subgraphs/name/graphprotocol/uniswap'
+
 const LP_QUERY = gql`
   query LiquidityProviders($first: Int, $lastId: ID) {
     exchanges(first: $first, where: { id_gt: $lastId }) {
@@ -91,13 +91,13 @@ export class UniswapV1Resolver implements Generator {
       const currentTokensLength = Object.keys(tokens).length
 
       console.log(
-        `Fetched ${GROUP}: ${response.exchanges.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
+        `Fetched Uniswap V1: ${response.exchanges.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
       )
     } while (response.exchanges.length > 0)
 
     return {
-      [GROUP]: accounts,
-      tokens: Object.values(tokens),
+      'uniswap-v1': accounts,
+      erc20: Object.values(tokens),
     }
   }
 }

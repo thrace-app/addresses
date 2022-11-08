@@ -7,7 +7,6 @@ import type { Generator } from './generator'
 import { Network } from '../types/network'
 import { NULL_ADDRESS } from '../utils/constants'
 
-const GROUP = 'sushiswap'
 const STEP = 1000
 
 const NETWORKS: Record<number, string> = {
@@ -54,8 +53,8 @@ const LP_QUERY = gql`
 const DEPLOYMENTS: Account[] = [
   {
     address: '0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F',
-    displayName: `${GROUP}: Router `,
-    group: GROUP,
+    displayName: `SushiSwap: Router `,
+    group: 'SushiSwap',
     type: AccountType.LiquidityProvider,
   },
 ]
@@ -148,13 +147,13 @@ export class SushiSwapResolver implements Generator {
       const currentTokensLength = Object.keys(tokens).length
 
       console.log(
-        `Fetched ${GROUP} (${networkId}): ${response.pairs.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
+        `Fetched SushiSwap (${networkId}): ${response.pairs.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
       )
     } while (response.pairs.length > 0)
 
     return {
-      [GROUP]: accounts,
-      tokens: Object.values(tokens),
+      sushiswap: accounts,
+      erc20: Object.values(tokens),
     }
   }
 }

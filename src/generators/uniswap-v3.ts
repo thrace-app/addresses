@@ -4,12 +4,12 @@ import retry from 'async-retry'
 import { type Account, AccountType } from '../types/account'
 import { TokenType, ERC20Token } from '../types/token'
 import type { Generator } from './generator'
+import { NULL_ADDRESS } from '../utils/constants'
 
-const GROUP = 'uniswap-v3'
-const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
 const SUBGRAPH_URL =
   'https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v3'
+
 const LP_QUERY = gql`
   query LiquidityProviders($first: Int, $lastId: ID) {
     pools(first: $first, where: { id_gt: $lastId }) {
@@ -34,90 +34,90 @@ const LP_QUERY = gql`
 const DEPLOYMENTS: Account[] = [
   {
     address: '0x6c9fc64a53c1b71fb3f9af64d1ae3a4931a5f4e9',
-    displayName: `${GROUP}: Deployer`,
-    group: GROUP,
+    displayName: `Uniswap V3: Deployer`,
+    group: 'Uniswap V3',
     type: AccountType.Wallet,
   },
 
   {
     address: '0x1F98431c8aD98523631AE4a59f267346ea31F984',
-    displayName: `${GROUP}: Factory`,
-    group: GROUP,
+    displayName: `Uniswap V3: Factory`,
+    group: 'Uniswap V3',
     type: AccountType.Other,
   },
   {
     address: '0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696',
-    displayName: `${GROUP}: Multicall 2`,
-    group: GROUP,
+    displayName: `Uniswap V3: Multicall 2`,
+    group: 'Uniswap V3',
     type: AccountType.Other,
   },
   {
     address: '0xB753548F6E010e7e680BA186F9Ca1BdAB2E90cf2',
-    displayName: `${GROUP}: Proxy Admin`,
-    group: GROUP,
+    displayName: `Uniswap V3: Proxy Admin`,
+    group: 'Uniswap V3',
     type: AccountType.Other,
   },
   {
     address: '0xbfd8137f7d1516D3ea5cA83523914859ec47F573',
-    displayName: `${GROUP}: Tick Lens`,
-    group: GROUP,
+    displayName: `Uniswap V3: Tick Lens`,
+    group: 'Uniswap V3',
     type: AccountType.Other,
   },
   {
     address: '0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6',
-    displayName: `${GROUP}: Quoter`,
-    group: GROUP,
+    displayName: `Uniswap V3: Quoter`,
+    group: 'Uniswap V3',
     type: AccountType.Other,
   },
   {
     address: '0x42B24A95702b9986e82d421cC3568932790A48Ec',
-    displayName: `${GROUP}: NFT Descriptor`,
-    group: GROUP,
+    displayName: `Uniswap V3: NFT Descriptor`,
+    group: 'Uniswap V3',
     type: AccountType.Other,
   },
   {
     address: '0x91ae842A5Ffd8d12023116943e72A606179294f3',
-    displayName: `${GROUP}: LP Descriptor NFT`,
-    group: GROUP,
+    displayName: `Uniswap V3: LP Descriptor NFT`,
+    group: 'Uniswap V3',
     type: AccountType.Other,
   },
   {
     address: '0xEe6A57eC80ea46401049E92587E52f5Ec1c24785',
-    displayName: `${GROUP}: Transparent Upgradeable Proxy`,
-    group: GROUP,
+    displayName: `Uniswap V3: Transparent Upgradeable Proxy`,
+    group: 'Uniswap V3',
     type: AccountType.Other,
   },
   {
     address: '0xA5644E29708357803b5A882D272c41cC0dF92B34',
-    displayName: `${GROUP}: Migrator`,
-    group: GROUP,
+    displayName: `Uniswap V3: Migrator`,
+    group: 'Uniswap V3',
     type: AccountType.Other,
   },
 
   {
     address: '0xe34139463bA50bD61336E0c446Bd8C0867c6fE65',
-    displayName: `${GROUP}: Staker`,
-    group: GROUP,
+    displayName: `Uniswap V3: Staker`,
+    group: 'Uniswap V3',
     type: AccountType.Other,
   },
 
   {
     address: '0xE592427A0AEce92De3Edee1F18E0157C05861564',
-    displayName: `${GROUP}: Router`,
-    group: GROUP,
+    displayName: `Uniswap V3: Router`,
+    group: 'Uniswap V3',
     type: AccountType.LiquidityProvider,
   },
   {
     address: '0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45',
-    displayName: `${GROUP}: Router 2`,
-    group: GROUP,
+    displayName: `Uniswap V3: Router 2`,
+    group: 'Uniswap V3',
     type: AccountType.LiquidityProvider,
   },
 
   {
     address: '0xC36442b4a4522E871399CD717aBDD847Ab11FE88',
-    displayName: `${GROUP}: Positions NFT`,
-    group: GROUP,
+    displayName: `Uniswap V3: Positions NFT`,
+    group: 'Uniswap V3',
     type: AccountType.Token,
     token: {
       name: 'Uniswap V3 Positions',
@@ -209,13 +209,13 @@ export class UniswapV3Resolver implements Generator {
       const currentTokensLength = Object.keys(tokens).length
 
       console.log(
-        `Fetched ${GROUP}: ${response.pools.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
+        `Fetched Uniswap V3: ${response.pools.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
       )
     } while (response.pools.length > 0)
 
     return {
-      [GROUP]: accounts,
-      tokens: Object.values(tokens),
+      'uniswap-v3': accounts,
+      erc20: Object.values(tokens),
     }
   }
 }
