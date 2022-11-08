@@ -2,9 +2,12 @@ import fs from 'fs'
 import { Command } from 'commander'
 import path, { dirname } from 'path'
 
+import logger from '../logger'
+
 import * as Generators from '../generators'
 import { type Generator } from '../generators'
 import { type Account } from '../types/account'
+import { endGroup, startGroup } from '../utils/github-actions'
 
 const uniqueBy = <T extends Record<string, any>>(
   array: T[],
@@ -44,7 +47,9 @@ const generateCommandAction = async (args: GenerateCommandActionArgs) => {
     )
 
     for (const resolver of currentResolvers) {
-      const resolved = await resolver.resolve(netoworkId)
+      startGroup(`${resolver.constructor.name} for network '${netoworkId}'`)
+
+      const resolved = await resolver.resolve(netoworkId, { log: logger })
 
       for (const db in resolved) {
         databases[db] = uniqueBy(
@@ -52,6 +57,8 @@ const generateCommandAction = async (args: GenerateCommandActionArgs) => {
           'address'
         )
       }
+
+      endGroup()
     }
 
     networkCounts[netoworkId] = Object.values(databases)
@@ -79,12 +86,28 @@ const generateCommandAction = async (args: GenerateCommandActionArgs) => {
     }
   }
 
-  for (const netoworkId in networkCounts) {
-    console.log(`Subtotal: ${networkCounts[netoworkId]} for ${netoworkId}`)
-  }
+  makeReport(networkCounts)
+}
 
-  const total = Object.values(networkCounts).reduce((sum, len) => sum + len, 0)
-  console.log(`Total: ${total}`)
+const makeReport = (statPerNetwork: Record<number, number>) => {
+  if (process.env.GITHUB_STEP_SUMMARY) {
+    let report = '### Addresses per network\n'
+    report += '| Network | Count |\n'
+    report += '| ------: | ----: |\n'
+
+    for (const netoworkId in statPerNetwork) {
+      report += `| ${netoworkId} | ${statPerNetwork[netoworkId]} |\n`
+    }
+
+    const total = Object.values(statPerNetwork).reduce(
+      (sum, len) => sum + len,
+      0
+    )
+
+    report += `| **Total** | ${total}\n`
+
+    fs.writeFileSync(process.env.GITHUB_STEP_SUMMARY, report, 'utf-8')
+  }
 }
 
 const generateCommand = new Command('generate')
