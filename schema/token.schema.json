@@ -10,11 +10,7 @@
     },
     "type": {
       "type": "string",
-      "enum": [
-        "COIN",
-        "ERC20",
-        "ERC721"
-      ]
+      "enum": ["COIN", "ERC20", "ERC721"]
     }
   }
 }
