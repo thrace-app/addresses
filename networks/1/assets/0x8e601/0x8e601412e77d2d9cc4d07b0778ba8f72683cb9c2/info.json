@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e601412e77d2d9cc4d07b0778ba8f72683cb9c2",
+  "displayName": "Dollar Yield",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dollar Yield",
+    "symbol": "DYD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

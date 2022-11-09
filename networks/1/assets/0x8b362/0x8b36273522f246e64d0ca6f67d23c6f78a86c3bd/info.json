@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b36273522f246e64d0ca6f67d23c6f78a86c3bd",
+  "displayName": "EthereumGirl",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumGirl",
+    "symbol": "EGIRL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

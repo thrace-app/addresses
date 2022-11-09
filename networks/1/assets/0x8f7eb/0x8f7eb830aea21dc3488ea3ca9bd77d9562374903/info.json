@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f7eb830aea21dc3488ea3ca9bd77d9562374903",
+  "displayName": "BiPay Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BiPay Token",
+    "symbol": "BPY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

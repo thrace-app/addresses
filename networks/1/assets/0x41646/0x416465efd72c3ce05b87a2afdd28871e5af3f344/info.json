@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x416465efd72c3ce05b87a2afdd28871e5af3f344",
+  "displayName": "Homer Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Homer Coin",
+    "symbol": "HOMER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

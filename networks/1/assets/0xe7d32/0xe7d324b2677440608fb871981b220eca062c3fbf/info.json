@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7d324b2677440608fb871981b220eca062c3fbf",
+  "displayName": "BullSwapToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BullSwapToken",
+    "symbol": "BVL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

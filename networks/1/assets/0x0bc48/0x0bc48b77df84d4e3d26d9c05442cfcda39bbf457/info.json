@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0bc48b77df84d4e3d26d9c05442cfcda39bbf457",
+  "displayName": "SperaxToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SperaxToken",
+    "symbol": "SPA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

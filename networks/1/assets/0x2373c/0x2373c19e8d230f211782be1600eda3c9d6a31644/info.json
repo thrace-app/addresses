@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2373c19e8d230f211782be1600eda3c9d6a31644",
+  "displayName": "JNBT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JNBT Token",
+    "symbol": "JNBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

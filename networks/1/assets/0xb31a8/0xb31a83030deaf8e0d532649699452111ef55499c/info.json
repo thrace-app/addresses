@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb31a83030deaf8e0d532649699452111ef55499c",
+  "displayName": "Shar-Pei Dog Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shar-Pei Dog Token",
+    "symbol": "SHARPEI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

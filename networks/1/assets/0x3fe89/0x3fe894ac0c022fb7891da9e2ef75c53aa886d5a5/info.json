@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fe894ac0c022fb7891da9e2ef75c53aa886d5a5",
+  "displayName": "BNUGI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BNUGI Token",
+    "symbol": "BNUGI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

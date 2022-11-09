@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fd198be80796ec3e8fd4bb9ff53102ce3dfcd95",
+  "displayName": "Doge Cup",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Cup",
+    "symbol": "$DC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5991777a36be80708a4cdefcff6a33ce27f2460",
+  "displayName": "moose.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "moose.finance",
+    "symbol": "MOOSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

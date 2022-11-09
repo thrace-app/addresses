@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x313ee3c20ff74063a15b906b9e60e742d976f31c",
+  "displayName": "CuroSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "CuroSwap",
+    "symbol": "CURO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

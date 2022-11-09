@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9bd7b007ce0c79a88f6c60d00d3bd897af329218",
+  "displayName": "The Dogefather Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Dogefather Bank",
+    "symbol": "$DOGEBANK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

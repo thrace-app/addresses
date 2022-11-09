@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ab3e0560ec1f5c054849175f2e1a5b004ee4c8e",
+  "displayName": "hello SER",
+  "type": "TOKEN",
+  "token": {
+    "name": "hello SER",
+    "symbol": "SER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

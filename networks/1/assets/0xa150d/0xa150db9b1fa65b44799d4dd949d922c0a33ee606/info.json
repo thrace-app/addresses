@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa150db9b1fa65b44799d4dd949d922c0a33ee606",
+  "displayName": "Digital Reserve Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Reserve Currency",
+    "symbol": "DRC",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

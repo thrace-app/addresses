@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb8d44359b83a10a1a635657be09f402e7f39556",
+  "displayName": "Cosmos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cosmos",
+    "symbol": "Cosmos",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

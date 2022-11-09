@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
+  "displayName": "Golem Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golem Network Token",
+    "symbol": "GLM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

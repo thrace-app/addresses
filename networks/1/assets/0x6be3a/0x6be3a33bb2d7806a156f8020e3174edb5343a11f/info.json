@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6be3a33bb2d7806a156f8020e3174edb5343a11f",
+  "displayName": "MYRT",
+  "type": "TOKEN",
+  "token": {
+    "name": "MYRT",
+    "symbol": "myrt",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

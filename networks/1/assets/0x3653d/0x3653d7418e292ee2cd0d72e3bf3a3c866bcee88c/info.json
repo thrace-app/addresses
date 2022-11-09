@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3653d7418e292ee2cd0d72e3bf3a3c866bcee88c",
+  "displayName": "Rug Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rug Ethereum",
+    "symbol": "RETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

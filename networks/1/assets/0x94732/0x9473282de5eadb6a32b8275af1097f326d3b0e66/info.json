@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9473282de5eadb6a32b8275af1097f326d3b0e66",
+  "displayName": "RXP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RXP Token",
+    "symbol": "RXP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

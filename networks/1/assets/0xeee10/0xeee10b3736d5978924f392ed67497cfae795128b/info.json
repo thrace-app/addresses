@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeee10b3736d5978924f392ed67497cfae795128b",
+  "displayName": "Regen Network",
+  "type": "TOKEN",
+  "token": {
+    "name": "Regen Network",
+    "symbol": "REGEN",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

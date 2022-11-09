@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5603d2372ac6bdc8ed040e30cb6df8edfa8bd5c1",
+  "displayName": "USD Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "USD Inu",
+    "symbol": "USDINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

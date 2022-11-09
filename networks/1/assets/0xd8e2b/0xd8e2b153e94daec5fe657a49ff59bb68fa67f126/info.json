@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8e2b153e94daec5fe657a49ff59bb68fa67f126",
+  "displayName": "FRED Energy ERC-20",
+  "type": "TOKEN",
+  "token": {
+    "name": "FRED Energy ERC-20",
+    "symbol": "FREDX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

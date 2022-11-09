@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e61d407caeecd7c3413c3aaf282facd2c0a8005",
+  "displayName": "DigiKitty",
+  "type": "TOKEN",
+  "token": {
+    "name": "DigiKitty",
+    "symbol": "DIGIKITTY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

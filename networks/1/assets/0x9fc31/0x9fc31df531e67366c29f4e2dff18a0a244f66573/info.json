@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9fc31df531e67366c29f4e2dff18a0a244f66573",
+  "displayName": "Destiny Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Destiny Coin",
+    "symbol": "DestinyCoin",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

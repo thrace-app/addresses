@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xece87c969a24e7b0c40151344ae9cba2d64ee205",
+  "displayName": "Charge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Charge",
+    "symbol": "CHARGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

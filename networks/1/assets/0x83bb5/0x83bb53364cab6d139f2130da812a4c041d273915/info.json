@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83bb53364cab6d139f2130da812a4c041d273915",
+  "displayName": "Sickest Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sickest Token",
+    "symbol": "SICK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

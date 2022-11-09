@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf937075f1d7006ea6b9c8fe82a74a9b3d86af763",
+  "displayName": "GuldiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GuldiToken",
+    "symbol": "GLR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

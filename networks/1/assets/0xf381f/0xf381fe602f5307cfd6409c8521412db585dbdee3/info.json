@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf381fe602f5307cfd6409c8521412db585dbdee3",
+  "displayName": "Mass Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mass Token",
+    "symbol": "M",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

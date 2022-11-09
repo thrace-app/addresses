@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf475f3ad32c14bf465355ecfa268056e3439416f",
+  "displayName": "Eth Zilla",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eth Zilla",
+    "symbol": "EZILLA",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

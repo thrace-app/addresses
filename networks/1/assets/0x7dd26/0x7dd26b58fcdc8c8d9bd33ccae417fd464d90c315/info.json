@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7dd26b58fcdc8c8d9bd33ccae417fd464d90c315",
+  "displayName": "BITTREX TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BITTREX TOKEN",
+    "symbol": "BITTREX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x446f2a8a39cc730ef378be759a3c57f1a3fe824c",
+  "displayName": "NanoByte Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NanoByte Token",
+    "symbol": "NBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83f798e925bcd4017eb265844fddabb448f1707d",
+  "displayName": "iearn USDT",
+  "type": "TOKEN",
+  "token": {
+    "name": "iearn USDT",
+    "symbol": "yUSDT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

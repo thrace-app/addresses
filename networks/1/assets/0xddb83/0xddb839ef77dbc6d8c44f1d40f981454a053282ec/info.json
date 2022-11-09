@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xddb839ef77dbc6d8c44f1d40f981454a053282ec",
+  "displayName": "StakeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "StakeCoin",
+    "symbol": "COI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

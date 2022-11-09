@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf059afa5239ed6463a00fc06a447c14fe26406e1",
+  "displayName": "ETH WBTC Yield Farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH WBTC Yield Farm",
+    "symbol": "WBTCAPY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

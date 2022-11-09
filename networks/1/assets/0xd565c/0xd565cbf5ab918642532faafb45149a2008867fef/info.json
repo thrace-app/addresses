@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd565cbf5ab918642532faafb45149a2008867fef",
+  "displayName": "Uranium",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uranium",
+    "symbol": "URANIUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

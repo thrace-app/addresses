@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c2961e69cdb64e16ffb5202208cd7b9574a9bbe",
+  "displayName": "Cereal",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cereal",
+    "symbol": "CER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

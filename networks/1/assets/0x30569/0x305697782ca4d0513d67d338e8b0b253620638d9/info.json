@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x305697782ca4d0513d67d338e8b0b253620638d9",
+  "displayName": "YFIL token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YFIL token",
+    "symbol": "YFIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

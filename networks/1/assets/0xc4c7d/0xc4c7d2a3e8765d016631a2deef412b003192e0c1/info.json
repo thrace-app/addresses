@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4c7d2a3e8765d016631a2deef412b003192e0c1",
+  "displayName": "Naughty Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Naughty Doge",
+    "symbol": "NYD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

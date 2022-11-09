@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d4f393bf60aee890027d5a560473148fa61385a",
+  "displayName": "EnsoFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "EnsoFinance",
+    "symbol": "ENSO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17ee2a00259e25295f36ed4af33d131312340f57",
+  "displayName": "@SpacePenguinToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "@SpacePenguinToken",
+    "symbol": "SPACEPENGUIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

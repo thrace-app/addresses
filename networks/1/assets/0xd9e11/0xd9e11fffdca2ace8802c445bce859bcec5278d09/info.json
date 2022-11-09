@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9e11fffdca2ace8802c445bce859bcec5278d09",
+  "displayName": "Kuri Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kuri Token",
+    "symbol": "Kuri",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12ce5596debfb389b597060f8d61140f7558ae0d",
+  "displayName": "ccore",
+  "type": "TOKEN",
+  "token": {
+    "name": "ccore",
+    "symbol": "ccor",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

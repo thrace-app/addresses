@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d429c289c50cc331283d574ac12ece4cc3a98dd",
+  "displayName": "Katsuki Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Katsuki Inu",
+    "symbol": "Katsuki",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

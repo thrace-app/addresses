@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6cc3d07c705e39d11c7f60d8836c7c78d4ac5f1",
+  "displayName": "Olea Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Olea Token",
+    "symbol": "OLEA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

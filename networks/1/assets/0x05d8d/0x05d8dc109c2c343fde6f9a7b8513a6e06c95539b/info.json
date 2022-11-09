@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05d8dc109c2c343fde6f9a7b8513a6e06c95539b",
+  "displayName": "Gold Coin - 猫に小判",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gold Coin - 猫に小判",
+    "symbol": "GC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27292cf0016e5df1d8b37306b2a98588acbd6fca",
+  "displayName": "Axelar Wrapped ATOM",
+  "type": "TOKEN",
+  "token": {
+    "name": "Axelar Wrapped ATOM",
+    "symbol": "axlATOM",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

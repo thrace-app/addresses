@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30046d396ac284ccd9d1f4a13dcfae51e0ce5d46",
+  "displayName": "BTC Base",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTC Base",
+    "symbol": "BTCB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

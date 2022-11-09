@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16c52ceece2ed57dad87319d91b5e3637d50afa4",
+  "displayName": "TCAP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TCAP Token",
+    "symbol": "TCAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

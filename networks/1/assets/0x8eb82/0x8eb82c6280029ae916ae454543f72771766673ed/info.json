@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8eb82c6280029ae916ae454543f72771766673ed",
+  "displayName": "CatsVsDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "CatsVsDoge",
+    "symbol": "CVSD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

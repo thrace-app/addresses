@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f90cefaeb0356cc361d84984e90d35510ce2121",
+  "displayName": "Blockchain.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blockchain.com",
+    "symbol": "Blockchain",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

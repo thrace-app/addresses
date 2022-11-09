@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5637e3cdb52c3fecd1064027ad10eba06fa705e5",
+  "displayName": "Satoshibles",
+  "type": "TOKEN",
+  "token": {
+    "name": "Satoshibles",
+    "symbol": "SATS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5af28eb9dec75e86cdfbd2e41a474b54b211c1c2",
+  "displayName": "Tangle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tangle",
+    "symbol": "TNGL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

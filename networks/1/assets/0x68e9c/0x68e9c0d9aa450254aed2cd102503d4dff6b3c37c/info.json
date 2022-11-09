@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68e9c0d9aa450254aed2cd102503d4dff6b3c37c",
+  "displayName": "WrappedCSOV",
+  "type": "TOKEN",
+  "token": {
+    "name": "WrappedCSOV",
+    "symbol": "WCSOV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

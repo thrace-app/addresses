@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a50ee2c6ae6ec772500bac5dbcb6955ce965389",
+  "displayName": "Errand Testing",
+  "type": "TOKEN",
+  "token": {
+    "name": "Errand Testing",
+    "symbol": "ERT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

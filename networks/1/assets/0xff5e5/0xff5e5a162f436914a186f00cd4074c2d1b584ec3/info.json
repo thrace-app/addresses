@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff5e5a162f436914a186f00cd4074c2d1b584ec3",
+  "displayName": "Golden Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Token",
+    "symbol": "GOLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

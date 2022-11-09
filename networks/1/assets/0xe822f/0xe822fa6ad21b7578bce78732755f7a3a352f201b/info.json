@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe822fa6ad21b7578bce78732755f7a3a352f201b",
+  "displayName": "TushiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TushiToken",
+    "symbol": "TUSHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

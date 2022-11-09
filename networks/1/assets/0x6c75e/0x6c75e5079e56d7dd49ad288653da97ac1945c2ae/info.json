@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c75e5079e56d7dd49ad288653da97ac1945c2ae",
+  "displayName": "EarnPiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EarnPiCoin",
+    "symbol": "EPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

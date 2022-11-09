@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdccf12a7fd6f4f14ab8eb62f7348b4d0a9c1ed55",
+  "displayName": "Orange Thing Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Orange Thing Token",
+    "symbol": "ORGTTK",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

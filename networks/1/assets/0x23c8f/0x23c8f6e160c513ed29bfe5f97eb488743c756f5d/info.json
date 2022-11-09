@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23c8f6e160c513ed29bfe5f97eb488743c756f5d",
+  "displayName": "Donate",
+  "type": "TOKEN",
+  "token": {
+    "name": "Donate",
+    "symbol": "Donate",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

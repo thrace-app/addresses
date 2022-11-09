@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x515b0d709bf5930e4057cd3b9110d6ba60e8e015",
+  "displayName": "XRP Proof of Stake Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "XRP Proof of Stake Chain",
+    "symbol": "XRPc",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

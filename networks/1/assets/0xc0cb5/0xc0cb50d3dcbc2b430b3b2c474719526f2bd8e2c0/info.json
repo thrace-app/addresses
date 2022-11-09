@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0cb50d3dcbc2b430b3b2c474719526f2bd8e2c0",
+  "displayName": "CryptoTube Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoTube Token",
+    "symbol": "CTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf71e21475f6edb497c11125dc0d379291b61540d",
+  "displayName": "TopoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TopoToken",
+    "symbol": "TOPO",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

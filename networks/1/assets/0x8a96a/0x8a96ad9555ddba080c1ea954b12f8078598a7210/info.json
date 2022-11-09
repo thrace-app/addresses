@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a96ad9555ddba080c1ea954b12f8078598a7210",
+  "displayName": "Cross USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cross USD",
+    "symbol": "xUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

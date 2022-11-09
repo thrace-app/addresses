@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd699cd935bd16755bec859ac52284a2cdf3e781",
+  "displayName": "HardBurnToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "HardBurnToken",
+    "symbol": "HBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a845949e52c5f9da5be96218ef3e3aa372a5bfe",
+  "displayName": "AAA",
+  "type": "TOKEN",
+  "token": {
+    "name": "AAA",
+    "symbol": "WBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

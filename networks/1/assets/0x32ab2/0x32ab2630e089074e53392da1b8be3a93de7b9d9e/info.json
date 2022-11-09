@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32ab2630e089074e53392da1b8be3a93de7b9d9e",
+  "displayName": "Lightning Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lightning Swap",
+    "symbol": "LGNS",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

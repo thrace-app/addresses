@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5081570f8fc61eb25449a560be9f03be4384c51",
+  "displayName": "zeubcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "zeubcoin",
+    "symbol": "ZEUB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

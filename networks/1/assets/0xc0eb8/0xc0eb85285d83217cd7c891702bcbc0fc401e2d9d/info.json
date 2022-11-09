@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0eb85285d83217cd7c891702bcbc0fc401e2d9d",
+  "displayName": "Hive Project Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hive Project Token",
+    "symbol": "HVN",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

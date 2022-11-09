@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb613ff3e76cdc95dc3ba0a0af7cf2af121893a0e",
+  "displayName": "Meme of Elon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meme of Elon",
+    "symbol": "MOE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

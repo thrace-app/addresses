@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf9ae46ae70fe8ae428901bf6e5d8fdfc57ef4bf",
+  "displayName": "DiamondLand Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DiamondLand Coin",
+    "symbol": "DLC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5527927bdee07fd12224d7392287e2d6482ed528",
+  "displayName": "Opyn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Opyn Token",
+    "symbol": "PYN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

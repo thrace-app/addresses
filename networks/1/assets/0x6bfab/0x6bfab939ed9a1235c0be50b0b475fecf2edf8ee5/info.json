@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6bfab939ed9a1235c0be50b0b475fecf2edf8ee5",
+  "displayName": "Feral Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Feral Coin",
+    "symbol": "FERAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48dfe5164d5c6569623d7ea4be8b1e161e03d28b",
+  "displayName": "Expose Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Expose Token",
+    "symbol": "EXPOSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

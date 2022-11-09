@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58157b294934d11a273ed99c95561d1a1b8f725d",
+  "displayName": "EthereumNameErvice",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumNameErvice",
+    "symbol": "ENE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

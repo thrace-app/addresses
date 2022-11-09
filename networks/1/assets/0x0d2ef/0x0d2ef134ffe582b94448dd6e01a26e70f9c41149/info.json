@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d2ef134ffe582b94448dd6e01a26e70f9c41149",
+  "displayName": "GrumpyCat",
+  "type": "TOKEN",
+  "token": {
+    "name": "GrumpyCat",
+    "symbol": "GrumpyCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

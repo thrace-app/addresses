@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7b39d86d6ee9814a8a312c605584d5cdaea0d27",
+  "displayName": "ArohnToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ArohnToken",
+    "symbol": "AROHN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

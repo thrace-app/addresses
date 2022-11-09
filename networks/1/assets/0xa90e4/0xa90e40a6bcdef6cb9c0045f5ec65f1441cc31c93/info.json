@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa90e40a6bcdef6cb9c0045f5ec65f1441cc31c93",
+  "displayName": "The Philosopher",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Philosopher",
+    "symbol": "PHILOSOPHER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

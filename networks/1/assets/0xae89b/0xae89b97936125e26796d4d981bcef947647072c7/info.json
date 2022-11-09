@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae89b97936125e26796d4d981bcef947647072c7",
+  "displayName": "Trend Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trend Token",
+    "symbol": "TREND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

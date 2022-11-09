@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36a2e39d7cdcecdb1e214b7f7a305b16b4817e4d",
+  "displayName": "The Foundation Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Foundation Token",
+    "symbol": "LOVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

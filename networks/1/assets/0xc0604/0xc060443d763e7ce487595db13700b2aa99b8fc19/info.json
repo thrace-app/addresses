@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc060443d763e7ce487595db13700b2aa99b8fc19",
+  "displayName": "EarnDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "EarnDoge",
+    "symbol": "EDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

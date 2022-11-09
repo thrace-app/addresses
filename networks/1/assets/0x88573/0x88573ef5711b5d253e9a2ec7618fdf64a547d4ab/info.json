@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88573ef5711b5d253e9a2ec7618fdf64a547d4ab",
+  "displayName": "TitterDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "TitterDao",
+    "symbol": "Titter",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

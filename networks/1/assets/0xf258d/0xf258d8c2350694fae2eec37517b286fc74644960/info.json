@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf258d8c2350694fae2eec37517b286fc74644960",
+  "displayName": "Creator Coin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Creator Coin Token",
+    "symbol": "CCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

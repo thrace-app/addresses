@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32ac17fa2d2061a8a1f03b33a9dffc0bbe6b8b41",
+  "displayName": "Post-Fork ETHW IOU",
+  "type": "TOKEN",
+  "token": {
+    "name": "Post-Fork ETHW IOU",
+    "symbol": "ETHW-IOU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

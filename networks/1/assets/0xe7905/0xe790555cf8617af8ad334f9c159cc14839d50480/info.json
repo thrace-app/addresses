@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe790555cf8617af8ad334f9c159cc14839d50480",
+  "displayName": "Fratcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fratcoin",
+    "symbol": "FRAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

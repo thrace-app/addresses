@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0530ed875a3cd9bba7711bf0f0868c7bb627b74b",
+  "displayName": "Sherman Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sherman Coin",
+    "symbol": "SHERMAN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

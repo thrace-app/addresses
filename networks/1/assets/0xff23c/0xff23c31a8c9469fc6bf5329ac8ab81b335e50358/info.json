@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff23c31a8c9469fc6bf5329ac8ab81b335e50358",
+  "displayName": "SberBANK",
+  "type": "TOKEN",
+  "token": {
+    "name": "SberBANK",
+    "symbol": "SBER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3feb48a94abc87b79e32bd213625405876dafb1c",
+  "displayName": "Depositary Receipt",
+  "type": "TOKEN",
+  "token": {
+    "name": "Depositary Receipt",
+    "symbol": "CDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x027dd02fb1aecc5b47084310eec436f55ebb508f",
+  "displayName": "Crazy Kitty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crazy Kitty",
+    "symbol": "CKIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

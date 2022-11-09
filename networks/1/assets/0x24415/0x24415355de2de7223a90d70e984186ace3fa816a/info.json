@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24415355de2de7223a90d70e984186ace3fa816a",
+  "displayName": "VNX Exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "VNX Exchange",
+    "symbol": "VNX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
+  "displayName": "Rigo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rigo Token",
+    "symbol": "GRG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

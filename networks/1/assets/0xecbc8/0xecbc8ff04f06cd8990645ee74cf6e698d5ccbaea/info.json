@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecbc8ff04f06cd8990645ee74cf6e698d5ccbaea",
+  "displayName": "The Wagmi Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Wagmi Protocol",
+    "symbol": "THEwagmi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

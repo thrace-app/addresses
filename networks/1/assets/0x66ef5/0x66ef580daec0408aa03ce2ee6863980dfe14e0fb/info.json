@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66ef580daec0408aa03ce2ee6863980dfe14e0fb",
+  "displayName": "SuperRFI",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperRFI",
+    "symbol": "SRFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

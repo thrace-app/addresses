@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9df38ad87d02b006f93424c6815ba0b2b3e3aef8",
+  "displayName": "Pogcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pogcoin",
+    "symbol": "POG",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

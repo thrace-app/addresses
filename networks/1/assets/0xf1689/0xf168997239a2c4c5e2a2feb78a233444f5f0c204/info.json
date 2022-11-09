@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf168997239a2c4c5e2a2feb78a233444f5f0c204",
+  "displayName": "The Satoshi Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Satoshi Protocol",
+    "symbol": "TSP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78a3b2f1e7eec1073088ea4a193618743f81cef8",
+  "displayName": "BOOTusd",
+  "type": "TOKEN",
+  "token": {
+    "name": "BOOTusd",
+    "symbol": "BOOTusd",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

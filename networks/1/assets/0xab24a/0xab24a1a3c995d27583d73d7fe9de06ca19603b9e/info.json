@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab24a1a3c995d27583d73d7fe9de06ca19603b9e",
+  "displayName": "Notaton Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Notaton Token",
+    "symbol": "NOTATON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

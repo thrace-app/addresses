@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05c8c6028dbfcf85244cd6ada8b1cb1807694e71",
+  "displayName": "My First Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "My First Token",
+    "symbol": "MFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

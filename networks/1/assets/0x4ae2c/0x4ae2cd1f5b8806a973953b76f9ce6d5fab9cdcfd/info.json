@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ae2cd1f5b8806a973953b76f9ce6d5fab9cdcfd",
+  "displayName": "Ethereum Hive",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Hive",
+    "symbol": "EHIVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

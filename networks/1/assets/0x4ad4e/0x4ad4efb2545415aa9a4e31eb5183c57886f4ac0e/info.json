@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ad4efb2545415aa9a4e31eb5183c57886f4ac0e",
+  "displayName": "GiveMyUSDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "GiveMyUSDC",
+    "symbol": "GIVEMYMONEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

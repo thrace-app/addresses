@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdde73732248f4d11a918eae83cebb034cc69875e",
+  "displayName": "VMS chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "VMS chain",
+    "symbol": "VMSC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

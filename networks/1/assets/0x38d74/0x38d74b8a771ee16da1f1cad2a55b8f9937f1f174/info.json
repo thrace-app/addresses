@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38d74b8a771ee16da1f1cad2a55b8f9937f1f174",
+  "displayName": "The MeeMee",
+  "type": "TOKEN",
+  "token": {
+    "name": "The MeeMee",
+    "symbol": "MEEMEE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

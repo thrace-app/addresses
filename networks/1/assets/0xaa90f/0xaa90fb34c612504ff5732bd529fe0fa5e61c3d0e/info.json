@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa90fb34c612504ff5732bd529fe0fa5e61c3d0e",
+  "displayName": "FIOT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FIOT Token",
+    "symbol": "FIOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

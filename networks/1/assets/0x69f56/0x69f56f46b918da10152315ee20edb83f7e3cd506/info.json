@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69f56f46b918da10152315ee20edb83f7e3cd506",
+  "displayName": "Forever Bucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Forever Bucks",
+    "symbol": "FBKS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

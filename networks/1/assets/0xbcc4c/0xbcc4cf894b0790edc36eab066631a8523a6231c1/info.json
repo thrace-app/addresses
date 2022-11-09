@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbcc4cf894b0790edc36eab066631a8523a6231c1",
+  "displayName": "AAPL",
+  "type": "TOKEN",
+  "token": {
+    "name": "AAPL",
+    "symbol": "DEFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

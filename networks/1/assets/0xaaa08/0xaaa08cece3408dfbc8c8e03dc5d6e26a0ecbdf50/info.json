@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaaa08cece3408dfbc8c8e03dc5d6e26a0ecbdf50",
+  "displayName": "Jade Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jade Inu",
+    "symbol": "JINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe74b35425fe7e33ea190b149805baf31139a8290",
+  "displayName": "QCASH",
+  "type": "TOKEN",
+  "token": {
+    "name": "QCASH",
+    "symbol": "QC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

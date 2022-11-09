@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x685ce6cd99679303127f97eff838c8e52f74ff3d",
+  "displayName": "Baby Dino",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Dino",
+    "symbol": "BDINO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3252d981fa58d0a74806575e988d6b664d99c340",
+  "displayName": "Redrum Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Redrum Token",
+    "symbol": "REDRUM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a24b8e8a6d4563c575a707b1275381119298e60",
+  "displayName": "EVNY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EVNY Token",
+    "symbol": "EVNY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d2c918cc3188d430c43a709307795ce16f53a51",
+  "displayName": "Quoth",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quoth",
+    "symbol": "$QUOTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

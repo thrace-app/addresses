@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87bb3fe79e002f46171a27c1531dc2a627ddbcf3",
+  "displayName": "SuniToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuniToken",
+    "symbol": "SUNI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

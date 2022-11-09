@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37481826a9326176264abd74075b6b1500d33c26",
+  "displayName": "Digital Cash Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Cash Token",
+    "symbol": "DCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

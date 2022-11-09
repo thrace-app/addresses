@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa11fc464ecbdde398a79f89b51def748d0a561bf",
+  "displayName": "Burnereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burnereum",
+    "symbol": "BURNER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

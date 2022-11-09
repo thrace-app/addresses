@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa67d5cc68433895b17babf73dadf9a2da2fe59ff",
+  "displayName": "Birds Token (Wormhole)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Birds Token (Wormhole)",
+    "symbol": "BIRDS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

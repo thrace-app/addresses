@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbeabef3fc02667d8bd3f702ae0bb2c4edb3640cc",
+  "displayName": "Mooniswap V1 (ETH-USDT)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mooniswap V1 (ETH-USDT)",
+    "symbol": "MOON-V1-ETH-USDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

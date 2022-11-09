@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5b32a25bb674a3fdd5faa0549276e6d192982cf",
+  "displayName": "Future governance token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Future governance token",
+    "symbol": "FUTURE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

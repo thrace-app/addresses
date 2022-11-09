@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x111bf36f33d9b02221c1e3779df722837f34099d",
+  "displayName": "DRAGON",
+  "type": "TOKEN",
+  "token": {
+    "name": "DRAGON",
+    "symbol": "LIFTOFF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x700bbdd4c4522e20874e18492ccae13a17c34608",
+  "displayName": "GiGi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GiGi Token",
+    "symbol": "GiGi",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

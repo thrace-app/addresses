@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f20f6e68bd14dbdb95244dbee6c316999a2d4c1",
+  "displayName": "Foton USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Foton USD",
+    "symbol": "FUSD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

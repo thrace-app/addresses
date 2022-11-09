@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x914c099608fbe1cd397d94c8e10ca7bd13dd1625",
+  "displayName": "Supply of Ten",
+  "type": "TOKEN",
+  "token": {
+    "name": "Supply of Ten",
+    "symbol": "SOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

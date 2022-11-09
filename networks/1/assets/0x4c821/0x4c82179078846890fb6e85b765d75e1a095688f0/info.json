@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c82179078846890fb6e85b765d75e1a095688f0",
+  "displayName": "Samo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Samo Token",
+    "symbol": "SAMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

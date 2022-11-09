@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1820c205066def0a5479be0479175700c16aa39d",
+  "displayName": "SpillOverCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpillOverCoin",
+    "symbol": "SPOC",
+    "decimals": 7,
+    "type": "ERC20"
+  }
+}

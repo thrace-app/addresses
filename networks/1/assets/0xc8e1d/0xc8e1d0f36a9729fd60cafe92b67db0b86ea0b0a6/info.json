@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8e1d0f36a9729fd60cafe92b67db0b86ea0b0a6",
+  "displayName": "ATN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ATN Token",
+    "symbol": "ATN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcf409cf54e55aca413adb4a69ae41ab91c8136db",
+  "displayName": "LQT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LQT Token",
+    "symbol": "LQT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

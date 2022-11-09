@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2daee1aa61d60a252dc80564499a69802853583a",
+  "displayName": "Authorship Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Authorship Token",
+    "symbol": "ATS",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

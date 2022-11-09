@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68fcdffc4ba50af63955632568e541e8af5bb80a",
+  "displayName": "Merged Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Merged Doge",
+    "symbol": "MDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

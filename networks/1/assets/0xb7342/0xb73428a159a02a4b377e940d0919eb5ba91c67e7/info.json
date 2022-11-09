@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb73428a159a02a4b377e940d0919eb5ba91c67e7",
+  "displayName": "FundsDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "FundsDAO",
+    "symbol": "FDAO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

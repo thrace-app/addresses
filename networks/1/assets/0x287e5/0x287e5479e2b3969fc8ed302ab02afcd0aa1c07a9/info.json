@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x287e5479e2b3969fc8ed302ab02afcd0aa1c07a9",
+  "displayName": "Soccerfan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Soccerfan Token",
+    "symbol": "SFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

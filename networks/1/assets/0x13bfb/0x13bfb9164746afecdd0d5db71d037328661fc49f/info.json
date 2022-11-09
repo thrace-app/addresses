@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13bfb9164746afecdd0d5db71d037328661fc49f",
+  "displayName": "DMEX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DMEX Token",
+    "symbol": "DMEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

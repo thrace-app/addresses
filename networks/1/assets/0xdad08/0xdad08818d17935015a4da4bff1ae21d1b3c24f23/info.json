@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdad08818d17935015a4da4bff1ae21d1b3c24f23",
+  "displayName": "ChuyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChuyCoin",
+    "symbol": "CHUY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

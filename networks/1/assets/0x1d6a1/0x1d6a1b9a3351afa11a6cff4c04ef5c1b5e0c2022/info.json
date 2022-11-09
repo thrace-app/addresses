@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d6a1b9a3351afa11a6cff4c04ef5c1b5e0c2022",
+  "displayName": "Earn BTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Earn BTC",
+    "symbol": "BITOSHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cc8cf225dd1ae82667419e8825059bc3360fa5f",
+  "displayName": "proof of attendance protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "proof of attendance protocol",
+    "symbol": "POAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

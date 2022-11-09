@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbee08ea67b23fffc4828943824c00dde81dc3b86",
+  "displayName": "BluePill",
+  "type": "TOKEN",
+  "token": {
+    "name": "BluePill",
+    "symbol": "BPill",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

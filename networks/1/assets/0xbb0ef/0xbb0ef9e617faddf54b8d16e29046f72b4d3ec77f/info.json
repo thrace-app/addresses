@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb0ef9e617faddf54b8d16e29046f72b4d3ec77f",
+  "displayName": "PEP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PEP Token",
+    "symbol": "PEP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

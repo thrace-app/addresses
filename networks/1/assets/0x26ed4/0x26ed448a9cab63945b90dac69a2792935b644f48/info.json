@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26ed448a9cab63945b90dac69a2792935b644f48",
+  "displayName": "PulseBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "PulseBurn",
+    "symbol": "PLSB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc798beb8c1b5cd0799081e7a0ed8115a7480fbb9",
+  "displayName": "Blood Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blood Token",
+    "symbol": "BLOOD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

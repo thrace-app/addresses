@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7db0e1b967ce66d3ff135e1ac4c312b84890ca71",
+  "displayName": "Stacks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stacks",
+    "symbol": "STX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf55bfe21cecb57c4d95d2eb133539ac99e324c5",
+  "displayName": "Golden Ape Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Ape Coin",
+    "symbol": "GOLDENAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

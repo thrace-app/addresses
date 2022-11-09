@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf75427e18d633395400d54d18b9f63e63ea7fecb",
+  "displayName": "XiamiPool Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XiamiPool Token",
+    "symbol": "XPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

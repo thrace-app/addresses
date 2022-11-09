@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53d0aa0afc9449b82145a0a7a82dd2884d10366c",
+  "displayName": "Zombie NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zombie NFT",
+    "symbol": "ZombieNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

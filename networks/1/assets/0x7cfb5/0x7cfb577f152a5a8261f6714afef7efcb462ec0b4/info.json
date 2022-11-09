@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7cfb577f152a5a8261f6714afef7efcb462ec0b4",
+  "displayName": "TYF ToKen",
+  "type": "TOKEN",
+  "token": {
+    "name": "TYF ToKen",
+    "symbol": "TYF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

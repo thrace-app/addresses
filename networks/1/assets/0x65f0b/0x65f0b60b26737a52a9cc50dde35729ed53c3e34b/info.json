@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65f0b60b26737a52a9cc50dde35729ed53c3e34b",
+  "displayName": "VexSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "VexSwap",
+    "symbol": "VEX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

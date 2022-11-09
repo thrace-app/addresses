@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd33e67059ffd8ec92bea1421635a8c807f437e68",
+  "displayName": "Neo Governance Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neo Governance Coin",
+    "symbol": "NGC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

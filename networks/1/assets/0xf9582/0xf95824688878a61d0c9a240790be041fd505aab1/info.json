@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf95824688878a61d0c9a240790be041fd505aab1",
+  "displayName": "Jellyfish Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jellyfish Token",
+    "symbol": "Jellyfish",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

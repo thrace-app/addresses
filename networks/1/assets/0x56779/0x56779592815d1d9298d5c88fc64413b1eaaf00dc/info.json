@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56779592815d1d9298d5c88fc64413b1eaaf00dc",
+  "displayName": "DinoCrypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "DinoCrypto",
+    "symbol": "DINO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

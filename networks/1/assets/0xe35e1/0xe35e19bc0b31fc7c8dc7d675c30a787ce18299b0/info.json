@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe35e19bc0b31fc7c8dc7d675c30a787ce18299b0",
+  "displayName": "Zetar Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zetar Token",
+    "symbol": "ZeTar",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

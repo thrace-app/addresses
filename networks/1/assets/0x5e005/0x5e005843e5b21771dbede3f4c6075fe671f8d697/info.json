@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e005843e5b21771dbede3f4c6075fe671f8d697",
+  "displayName": "WHALE",
+  "type": "TOKEN",
+  "token": {
+    "name": "WHALE",
+    "symbol": "WHALE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

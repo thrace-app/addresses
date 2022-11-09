@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x887263db7dbfaa6595e6ec1c128475e1515d2436",
+  "displayName": "SaudiBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "SaudiBurn",
+    "symbol": "SBRN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

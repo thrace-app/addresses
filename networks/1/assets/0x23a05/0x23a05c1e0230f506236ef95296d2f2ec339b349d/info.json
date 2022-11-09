@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23a05c1e0230f506236ef95296d2f2ec339b349d",
+  "displayName": "The Acid",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Acid",
+    "symbol": "CANDY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

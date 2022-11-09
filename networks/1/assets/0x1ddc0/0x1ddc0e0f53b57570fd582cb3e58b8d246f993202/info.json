@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ddc0e0f53b57570fd582cb3e58b8d246f993202",
+  "displayName": "Musky Tweet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Musky Tweet",
+    "symbol": "MT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

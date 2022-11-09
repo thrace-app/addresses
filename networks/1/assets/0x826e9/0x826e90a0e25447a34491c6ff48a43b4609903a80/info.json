@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x826e90a0e25447a34491c6ff48a43b4609903a80",
+  "displayName": "SG20 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SG20 Token",
+    "symbol": "SG20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

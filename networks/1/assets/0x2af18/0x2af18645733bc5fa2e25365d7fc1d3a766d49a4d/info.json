@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2af18645733bc5fa2e25365d7fc1d3a766d49a4d",
+  "displayName": "Tony The Tiger",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tony The Tiger",
+    "symbol": "$TONYTIGER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe95bfd2f1bf6a8de11db1b313c274abb98f22fce",
+  "displayName": "BlackPantherToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlackPantherToken",
+    "symbol": "PNTHR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

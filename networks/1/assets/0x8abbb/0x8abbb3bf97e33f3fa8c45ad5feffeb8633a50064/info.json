@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8abbb3bf97e33f3fa8c45ad5feffeb8633a50064",
+  "displayName": "NewGrcToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NewGrcToken",
+    "symbol": "GRC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

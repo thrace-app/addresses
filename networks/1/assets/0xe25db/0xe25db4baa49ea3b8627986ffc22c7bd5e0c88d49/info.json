@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe25db4baa49ea3b8627986ffc22c7bd5e0c88d49",
+  "displayName": "Passive",
+  "type": "TOKEN",
+  "token": {
+    "name": "Passive",
+    "symbol": "PAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

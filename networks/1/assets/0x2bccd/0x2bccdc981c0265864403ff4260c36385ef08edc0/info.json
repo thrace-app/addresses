@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2bccdc981c0265864403ff4260c36385ef08edc0",
+  "displayName": "Unis Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unis Token",
+    "symbol": "UNIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

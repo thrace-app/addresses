@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5960f991a521c0375b2640c5b9cee81b048da09",
+  "displayName": "Ugly Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ugly Coin",
+    "symbol": "UGLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

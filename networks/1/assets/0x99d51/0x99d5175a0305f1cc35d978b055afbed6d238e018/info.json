@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99d5175a0305f1cc35d978b055afbed6d238e018",
+  "displayName": "centrifuge INU",
+  "type": "TOKEN",
+  "token": {
+    "name": "centrifuge INU",
+    "symbol": "centrifuge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

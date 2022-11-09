@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe09172df5f35bd5b34ca75febb52a3191586b0a",
+  "displayName": "ycredit",
+  "type": "TOKEN",
+  "token": {
+    "name": "ycredit",
+    "symbol": "YCR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2cd9604a8a6cd3b51a17c56ae27100f23d17fcb3",
+  "displayName": "Swift Asset Movement",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swift Asset Movement",
+    "symbol": "SAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

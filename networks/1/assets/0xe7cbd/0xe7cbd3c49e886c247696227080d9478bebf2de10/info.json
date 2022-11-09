@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7cbd3c49e886c247696227080d9478bebf2de10",
+  "displayName": "suyu",
+  "type": "TOKEN",
+  "token": {
+    "name": "suyu",
+    "symbol": "SUYU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x904fd2c2920e43614d867fa8d9ffbcc1851e488c",
+  "displayName": "Sonic Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sonic Token",
+    "symbol": "SDJ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

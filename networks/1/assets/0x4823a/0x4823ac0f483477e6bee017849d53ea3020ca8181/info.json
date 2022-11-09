@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4823ac0f483477e6bee017849d53ea3020ca8181",
+  "displayName": "Bitcoin Platinum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Platinum",
+    "symbol": "BTCPt",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

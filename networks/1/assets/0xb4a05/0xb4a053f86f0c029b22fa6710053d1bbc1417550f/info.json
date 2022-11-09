@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4a053f86f0c029b22fa6710053d1bbc1417550f",
+  "displayName": "The Rug Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Rug Protocol",
+    "symbol": "TRP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

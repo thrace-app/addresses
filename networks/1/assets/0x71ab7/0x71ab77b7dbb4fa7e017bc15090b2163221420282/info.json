@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+  "displayName": "Highstreet token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Highstreet token",
+    "symbol": "HIGH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70d21607dd669667745c139cdad9cff731d97bd3",
+  "displayName": "https://www.checks.io/",
+  "type": "TOKEN",
+  "token": {
+    "name": "https://www.checks.io/",
+    "symbol": "CHECK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

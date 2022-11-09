@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50018e529478f6332c8b62b8c0649e646619c7b1",
+  "displayName": "CryptoMiniFund",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoMiniFund",
+    "symbol": "DF_2",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

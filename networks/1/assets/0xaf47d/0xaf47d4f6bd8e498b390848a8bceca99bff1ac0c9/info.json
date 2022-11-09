@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf47d4f6bd8e498b390848a8bceca99bff1ac0c9",
+  "displayName": "CVC",
+  "type": "TOKEN",
+  "token": {
+    "name": "CVC",
+    "symbol": "CVC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

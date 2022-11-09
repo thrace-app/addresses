@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf40d9507a7d4850c52a45698c9410e2c345f7a94",
+  "displayName": "Bonfida Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bonfida Token",
+    "symbol": "FIDA",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

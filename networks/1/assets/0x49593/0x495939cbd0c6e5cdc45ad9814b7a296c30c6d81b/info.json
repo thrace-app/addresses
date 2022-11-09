@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x495939cbd0c6e5cdc45ad9814b7a296c30c6d81b",
+  "displayName": "Bunny Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bunny Inu Token",
+    "symbol": "BINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

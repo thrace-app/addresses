@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe029200a6e3d0ba3e9a3a4360459c40d2a261781",
+  "displayName": "AIQI token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AIQI token",
+    "symbol": "AIQI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

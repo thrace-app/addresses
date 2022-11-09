@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x702839ce56fdb7a82cb17e6e4a1f354db3e4060f",
+  "displayName": "Blakecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blakecoin",
+    "symbol": "BLC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

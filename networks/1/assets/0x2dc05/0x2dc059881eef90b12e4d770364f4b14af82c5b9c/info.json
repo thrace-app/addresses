@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dc059881eef90b12e4d770364f4b14af82c5b9c",
+  "displayName": "Module Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Module Token",
+    "symbol": "MODL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

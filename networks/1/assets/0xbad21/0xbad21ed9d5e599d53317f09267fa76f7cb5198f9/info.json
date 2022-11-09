@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbad21ed9d5e599d53317f09267fa76f7cb5198f9",
+  "displayName": "Taiko Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Taiko Inu",
+    "symbol": "TAIKO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

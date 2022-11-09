@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7c584bab26fa5bb6935e180acd4a3b585bf3652",
+  "displayName": "Ethereum Ring",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Ring",
+    "symbol": "ER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

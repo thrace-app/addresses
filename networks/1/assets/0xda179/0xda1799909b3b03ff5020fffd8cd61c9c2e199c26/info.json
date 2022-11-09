@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda1799909b3b03ff5020fffd8cd61c9c2e199c26",
+  "displayName": "Somint",
+  "type": "TOKEN",
+  "token": {
+    "name": "Somint",
+    "symbol": "Somint",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

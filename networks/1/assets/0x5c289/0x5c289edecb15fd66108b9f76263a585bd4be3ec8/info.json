@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c289edecb15fd66108b9f76263a585bd4be3ec8",
+  "displayName": "BarbarianErc",
+  "type": "TOKEN",
+  "token": {
+    "name": "BarbarianErc",
+    "symbol": "BARBARIAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

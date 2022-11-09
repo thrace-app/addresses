@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd95be1f66a60854e89d0f023ba57bde795503283",
+  "displayName": "suiswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "suiswap",
+    "symbol": "suiswap",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

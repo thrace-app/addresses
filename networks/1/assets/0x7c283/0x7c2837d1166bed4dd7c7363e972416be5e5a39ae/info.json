@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c2837d1166bed4dd7c7363e972416be5e5a39ae",
+  "displayName": "SenseiNode Validator Vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "SenseiNode Validator Vault",
+    "symbol": "SNETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

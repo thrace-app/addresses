@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2049a5a868492a5bd50935f8a17ded9e80ddff4f",
+  "displayName": "Braintrust token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Braintrust token",
+    "symbol": "BTRST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

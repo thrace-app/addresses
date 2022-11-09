@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b139b5ae4f9800ac928d91c46d9149313f62c1f",
+  "displayName": "MEV Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEV Inu",
+    "symbol": "MEI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

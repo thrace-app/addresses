@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b31c3cc946676aca262305706bca58d311324d5",
+  "displayName": "Safe Hype",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Hype",
+    "symbol": "SHYPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

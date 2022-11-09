@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6",
+  "displayName": "ICHI",
+  "type": "TOKEN",
+  "token": {
+    "name": "ICHI",
+    "symbol": "ICHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

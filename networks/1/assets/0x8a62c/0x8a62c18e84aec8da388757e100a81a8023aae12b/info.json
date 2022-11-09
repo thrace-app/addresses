@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a62c18e84aec8da388757e100a81a8023aae12b",
+  "displayName": "Know your Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Know your Coin",
+    "symbol": "KYC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

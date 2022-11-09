@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07451bbf696d2bdb62d709349b15081e55322254",
+  "displayName": "AGENA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AGENA Token",
+    "symbol": "AGENA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

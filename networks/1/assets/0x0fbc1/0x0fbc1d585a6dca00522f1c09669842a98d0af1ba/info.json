@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0fbc1d585a6dca00522f1c09669842a98d0af1ba",
+  "displayName": "BurnKeep Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BurnKeep Token",
+    "symbol": "BurnKeep",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

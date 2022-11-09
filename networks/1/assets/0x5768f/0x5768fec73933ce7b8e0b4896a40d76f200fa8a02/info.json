@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5768fec73933ce7b8e0b4896a40d76f200fa8a02",
+  "displayName": "FlashSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlashSwap",
+    "symbol": "FSP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

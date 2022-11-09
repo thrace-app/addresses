@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3802c218221390025bceabbad5d8c59f40eb74b8",
+  "displayName": "Guarded Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Guarded Ether",
+    "symbol": "GETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

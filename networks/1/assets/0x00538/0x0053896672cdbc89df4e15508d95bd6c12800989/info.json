@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0053896672cdbc89df4e15508d95bd6c12800989",
+  "displayName": "Kuber Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kuber Token",
+    "symbol": "KUBER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

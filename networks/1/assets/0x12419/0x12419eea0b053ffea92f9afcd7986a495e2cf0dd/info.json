@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12419eea0b053ffea92f9afcd7986a495e2cf0dd",
+  "displayName": "The Nifty ONEz",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Nifty ONEz",
+    "symbol": "ONEZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

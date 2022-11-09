@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10d96e71e50cd1ee9ccdc3a098e985013b1ceb34",
+  "displayName": "Degen Shinobi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Shinobi",
+    "symbol": "DENOBI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99df917b3cf9198fa85e156b7d1234387dc51082",
+  "displayName": "Mars Invaders Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mars Invaders Token",
+    "symbol": "MARS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ff06c898a41252628381fbf6d68d2866bd3e905",
+  "displayName": "Blue Bird Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Bird Token",
+    "symbol": "BLUEBIRD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

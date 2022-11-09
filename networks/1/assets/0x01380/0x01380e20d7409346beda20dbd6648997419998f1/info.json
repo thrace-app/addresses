@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01380e20d7409346beda20dbd6648997419998f1",
+  "displayName": "Banger Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Banger Inu",
+    "symbol": "BANGER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

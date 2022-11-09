@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c6e9bb8854863303830d78a62e5161ac4ba0a5e",
+  "displayName": "TangPing Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TangPing Token",
+    "symbol": "TangPing",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

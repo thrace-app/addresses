@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f0f1be08591ab7d990faf910b38ed5d60e4d5bf",
+  "displayName": "MainCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MainCoin",
+    "symbol": "MNC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

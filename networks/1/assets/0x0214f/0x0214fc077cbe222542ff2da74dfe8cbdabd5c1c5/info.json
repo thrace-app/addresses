@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0214fc077cbe222542ff2da74dfe8cbdabd5c1c5",
+  "displayName": "NasiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NasiToken",
+    "symbol": "NAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

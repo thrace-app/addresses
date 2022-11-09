@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6752787d5a119dad443e97cc6cc4449c655ed5d2",
+  "displayName": "Start Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Start Chain",
+    "symbol": "STC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

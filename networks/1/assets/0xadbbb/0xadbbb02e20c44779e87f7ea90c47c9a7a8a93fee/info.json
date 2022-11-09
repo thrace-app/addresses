@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xadbbb02e20c44779e87f7ea90c47c9a7a8a93fee",
+  "displayName": "BitCrystals",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitCrystals",
+    "symbol": "BCY",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

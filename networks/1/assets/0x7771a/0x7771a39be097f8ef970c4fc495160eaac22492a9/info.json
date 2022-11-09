@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7771a39be097f8ef970c4fc495160eaac22492a9",
+  "displayName": "MaskDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "MaskDAO",
+    "symbol": "MASK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

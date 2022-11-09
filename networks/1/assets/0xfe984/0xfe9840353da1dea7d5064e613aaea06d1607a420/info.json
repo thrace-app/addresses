@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe9840353da1dea7d5064e613aaea06d1607a420",
+  "displayName": "The Rumor",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Rumor",
+    "symbol": "RUMOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

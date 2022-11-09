@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4104fcfa27569eba0257ad54fcd83b9dec097f38",
+  "displayName": "Frog Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Frog Inu",
+    "symbol": "FRI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

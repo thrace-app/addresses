@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24ac9c21b78ba24ccc15424c591e34a32a2ca70c",
+  "displayName": "Winklevoss Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Winklevoss Token",
+    "symbol": "WINKLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

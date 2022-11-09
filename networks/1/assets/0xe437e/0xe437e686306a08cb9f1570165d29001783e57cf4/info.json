@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe437e686306a08cb9f1570165d29001783e57cf4",
+  "displayName": "Vulpix Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vulpix Token",
+    "symbol": "VPX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

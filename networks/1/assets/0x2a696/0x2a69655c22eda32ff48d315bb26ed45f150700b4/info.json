@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a69655c22eda32ff48d315bb26ed45f150700b4",
+  "displayName": "Wrapped XTZ",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped XTZ",
+    "symbol": "wXTZ",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

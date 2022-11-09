@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb66d75a7ae66d54691143c4489f0311be6e807e",
+  "displayName": "Crispo Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crispo Currency",
+    "symbol": "CC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

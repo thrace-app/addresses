@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa5d15db786466c26112e3366c1473f28cb6f273c",
+  "displayName": "Sloth Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sloth Token",
+    "symbol": "SLOTH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

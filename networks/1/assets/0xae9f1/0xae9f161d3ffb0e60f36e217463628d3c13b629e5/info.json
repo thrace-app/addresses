@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae9f161d3ffb0e60f36e217463628d3c13b629e5",
+  "displayName": "BIG DAWG Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BIG DAWG Token",
+    "symbol": "BIGDAWG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

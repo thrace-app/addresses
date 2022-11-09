@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6ed276a69270a895d6e419d99dcb5aaa2f3cb4a",
+  "displayName": "SAP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SAP Token",
+    "symbol": "SAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

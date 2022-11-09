@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72cf258c852dc485a853370171d46b9d29fd3184",
+  "displayName": "yfii Tether USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "yfii Tether USD",
+    "symbol": "iUSDT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

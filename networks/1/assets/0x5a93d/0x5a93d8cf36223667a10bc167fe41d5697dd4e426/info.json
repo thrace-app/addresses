@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a93d8cf36223667a10bc167fe41d5697dd4e426",
+  "displayName": "frontier.xyz token",
+  "type": "TOKEN",
+  "token": {
+    "name": "frontier.xyz token",
+    "symbol": "FRONT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

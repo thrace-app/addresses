@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c8071c501c8226ab906a68d9ef9da6e0bd3a8ba",
+  "displayName": "ECX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ECX Token",
+    "symbol": "ECX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

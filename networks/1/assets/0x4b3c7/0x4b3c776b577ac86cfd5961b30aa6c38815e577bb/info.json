@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b3c776b577ac86cfd5961b30aa6c38815e577bb",
+  "displayName": "Ethereum Satoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Satoshi",
+    "symbol": "eSatoshi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

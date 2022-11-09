@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ef3347c34c69d5c6e0b25233a7b259ef34c1103",
+  "displayName": "Leonid Korobov Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Leonid Korobov Token",
+    "symbol": "ASI",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

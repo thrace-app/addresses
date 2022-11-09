@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b1e12a04d515696d7d6a3a54d91b1bdd08e6f8b",
+  "displayName": "Plus doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Plus doge",
+    "symbol": "PDOG",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

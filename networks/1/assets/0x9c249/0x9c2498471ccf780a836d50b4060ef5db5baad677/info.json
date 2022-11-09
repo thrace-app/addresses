@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c2498471ccf780a836d50b4060ef5db5baad677",
+  "displayName": "ZK Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZK Protocol",
+    "symbol": "ZK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

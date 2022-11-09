@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14a4ad6ac365b14a6893158831d6951a30bd0fd5",
+  "displayName": "Filecoin Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Filecoin Cash",
+    "symbol": "FILCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

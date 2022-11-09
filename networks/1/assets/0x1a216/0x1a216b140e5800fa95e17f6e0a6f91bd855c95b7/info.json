@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a216b140e5800fa95e17f6e0a6f91bd855c95b7",
+  "displayName": "EtheRFI",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtheRFI",
+    "symbol": "ERFI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

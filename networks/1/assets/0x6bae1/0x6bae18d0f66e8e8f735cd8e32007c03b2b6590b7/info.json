@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6bae18d0f66e8e8f735cd8e32007c03b2b6590b7",
+  "displayName": "Long Bull Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Long Bull Token",
+    "symbol": "LBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

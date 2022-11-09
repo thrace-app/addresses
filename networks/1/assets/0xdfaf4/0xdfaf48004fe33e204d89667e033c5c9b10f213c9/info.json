@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfaf48004fe33e204d89667e033c5c9b10f213c9",
+  "displayName": "sheepDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "sheepDAO",
+    "symbol": "BAA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

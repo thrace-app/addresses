@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc771b370875440e8c6a353345050f021206e522",
+  "displayName": "Golden Retriever Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Retriever Doge",
+    "symbol": "GROGE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

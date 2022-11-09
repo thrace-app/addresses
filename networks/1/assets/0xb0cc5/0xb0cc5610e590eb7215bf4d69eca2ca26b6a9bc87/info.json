@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0cc5610e590eb7215bf4d69eca2ca26b6a9bc87",
+  "displayName": "ScudoCash",
+  "type": "TOKEN",
+  "token": {
+    "name": "ScudoCash",
+    "symbol": "SCUDO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

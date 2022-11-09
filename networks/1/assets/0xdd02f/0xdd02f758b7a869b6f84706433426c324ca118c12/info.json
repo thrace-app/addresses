@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd02f758b7a869b6f84706433426c324ca118c12",
+  "displayName": "TeTr Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TeTr Token",
+    "symbol": "TeTr",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

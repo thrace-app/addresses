@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3adb04e127b9c0a5d36094125669d4603ac52a0c",
+  "displayName": "Gro Vault Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gro Vault Token",
+    "symbol": "GVT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

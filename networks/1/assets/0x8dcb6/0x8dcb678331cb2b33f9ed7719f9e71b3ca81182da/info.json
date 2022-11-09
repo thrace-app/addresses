@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8dcb678331cb2b33f9ed7719f9e71b3ca81182da",
+  "displayName": "ApeCow",
+  "type": "TOKEN",
+  "token": {
+    "name": "ApeCow",
+    "symbol": "APEC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

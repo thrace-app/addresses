@@ -66,23 +66,29 @@ const generateCommandAction = async (args: GenerateCommandActionArgs) => {
       .reduce((sum, len) => sum + len, 0)
 
     for (const db in databases) {
-      const json = JSON.stringify(
-        {
-          $schema: '../../schema/database.schema.json',
-          addresses: databases[db].sort((a, b) =>
-            a.address.localeCompare(b.address)
-          ),
-        },
-        null,
-        2
+      const assets = databases[db].sort((a, b) =>
+        a.address.localeCompare(b.address)
       )
 
-      const filename = path.join(
-        __dirname,
-        `../../networks/${netoworkId}/${db}.json`
-      )
-      fs.mkdirSync(dirname(filename), { recursive: true })
-      fs.writeFileSync(filename, json, 'utf-8')
+      for (const asset of assets) {
+        const json = JSON.stringify(
+          {
+            $schema: '../../../../schema/account.schema.json',
+            ...asset,
+          },
+          null,
+          2
+        )
+
+        const addressPrefix = asset.address.substring(0, 7)
+        const filename = path.join(
+          __dirname,
+          `../../networks/${netoworkId}/assets/${addressPrefix}/${asset.address}/info.json`
+        )
+
+        fs.mkdirSync(dirname(filename), { recursive: true })
+        fs.writeFileSync(filename, json, 'utf-8')
+      }
     }
   }
 

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x855e7d0e92253be02e7521d11cf92e6bbbd3d9bd",
+  "displayName": "Hello Owl ",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hello Owl ",
+    "symbol": "Hello Owl",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

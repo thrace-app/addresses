@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66c98075c12e631d4bfd732350b5717990acb3a0",
+  "displayName": "Clifford Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Clifford Doge",
+    "symbol": "CLOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

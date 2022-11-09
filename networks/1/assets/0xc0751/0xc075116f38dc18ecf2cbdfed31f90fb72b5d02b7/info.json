@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc075116f38dc18ecf2cbdfed31f90fb72b5d02b7",
+  "displayName": "Mini Usagi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini Usagi",
+    "symbol": "USAGI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

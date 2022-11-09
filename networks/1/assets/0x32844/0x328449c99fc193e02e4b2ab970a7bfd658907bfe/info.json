@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x328449c99fc193e02e4b2ab970a7bfd658907bfe",
+  "displayName": "Collector",
+  "type": "TOKEN",
+  "token": {
+    "name": "Collector",
+    "symbol": "DOGNO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

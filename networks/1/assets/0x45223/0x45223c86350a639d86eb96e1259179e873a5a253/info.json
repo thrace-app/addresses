@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45223c86350a639d86eb96e1259179e873a5a253",
+  "displayName": "Ethereum Miner",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Miner",
+    "symbol": "EMINER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

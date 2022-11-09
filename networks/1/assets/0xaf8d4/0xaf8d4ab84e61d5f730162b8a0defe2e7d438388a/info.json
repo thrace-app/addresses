@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf8d4ab84e61d5f730162b8a0defe2e7d438388a",
+  "displayName": "DeFiGem",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiGem",
+    "symbol": "DGEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b320489785ffecf4588b11a2a6b22cc46979da1",
+  "displayName": "casper.network",
+  "type": "TOKEN",
+  "token": {
+    "name": "casper.network",
+    "symbol": "CSPR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

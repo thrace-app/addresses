@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1555555682c450d8212e50b1d9075f1797f74c2d",
+  "displayName": "Luna Man",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luna Man",
+    "symbol": "LUMAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

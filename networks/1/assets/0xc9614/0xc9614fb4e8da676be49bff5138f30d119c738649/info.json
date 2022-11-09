@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc9614fb4e8da676be49bff5138f30d119c738649",
+  "displayName": "Tiny Cat Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tiny Cat Token",
+    "symbol": "TCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

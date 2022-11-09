@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62a17161e25517d63ed84bf8bbc8d6b20ba165b9",
+  "displayName": "NarcoDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "NarcoDoge",
+    "symbol": "NARCODOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

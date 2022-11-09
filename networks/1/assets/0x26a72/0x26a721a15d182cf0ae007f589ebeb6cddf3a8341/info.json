@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26a721a15d182cf0ae007f589ebeb6cddf3a8341",
+  "displayName": "KeepQR Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KeepQR Token",
+    "symbol": "KeepQR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

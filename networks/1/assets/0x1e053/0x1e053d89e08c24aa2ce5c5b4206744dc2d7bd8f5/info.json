@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e053d89e08c24aa2ce5c5b4206744dc2d7bd8f5",
+  "displayName": "ETH-Peg Thunder Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH-Peg Thunder Token",
+    "symbol": "TT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

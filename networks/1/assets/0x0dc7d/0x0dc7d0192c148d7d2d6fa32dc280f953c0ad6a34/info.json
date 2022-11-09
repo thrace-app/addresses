@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0dc7d0192c148d7d2d6fa32dc280f953c0ad6a34",
+  "displayName": "MetaCat",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaCat",
+    "symbol": "MetaCat",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

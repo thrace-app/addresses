@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9bdb3094de70e379ce86a48c53ab26da1fd3b21e",
+  "displayName": "Ether Cycle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether Cycle",
+    "symbol": "CYCLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

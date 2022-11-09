@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5abfd418adb35e89c68313574eb16bdffc15e607",
+  "displayName": "TimviToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TimviToken",
+    "symbol": "TMV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

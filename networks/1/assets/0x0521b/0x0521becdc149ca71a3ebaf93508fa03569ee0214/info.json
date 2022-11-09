@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0521becdc149ca71a3ebaf93508fa03569ee0214",
+  "displayName": "Odysseus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Odysseus Token",
+    "symbol": "Odysseus",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

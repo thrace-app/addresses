@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d2d02c8c92db73cbf7616a14670370744ae794a",
+  "displayName": "Crypto Pills",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Pills",
+    "symbol": "PILL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

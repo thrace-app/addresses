@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x123c68f31d9fe773e6adc3c0ed8a811a3afdfd97",
+  "displayName": "EGREM",
+  "type": "TOKEN",
+  "token": {
+    "name": "EGREM",
+    "symbol": "EGREM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

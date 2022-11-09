@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd37f2332ec525c203a5bda6fc499cf5b3e0a2c44",
+  "displayName": "Elonas Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elonas Currency",
+    "symbol": "ELONAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

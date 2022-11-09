@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77d1a459fb2e4535e17839da39daa303c29ea850",
+  "displayName": "Governor",
+  "type": "TOKEN",
+  "token": {
+    "name": "Governor",
+    "symbol": "GDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

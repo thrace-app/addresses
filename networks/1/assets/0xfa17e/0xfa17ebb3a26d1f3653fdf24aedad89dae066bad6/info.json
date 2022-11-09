@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa17ebb3a26d1f3653fdf24aedad89dae066bad6",
+  "displayName": "Green Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Ape",
+    "symbol": "GAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

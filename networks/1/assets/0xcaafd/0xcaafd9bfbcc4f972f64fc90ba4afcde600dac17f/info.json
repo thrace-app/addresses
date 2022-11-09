@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcaafd9bfbcc4f972f64fc90ba4afcde600dac17f",
+  "displayName": "IkuchiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "IkuchiToken",
+    "symbol": "IKUCHI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

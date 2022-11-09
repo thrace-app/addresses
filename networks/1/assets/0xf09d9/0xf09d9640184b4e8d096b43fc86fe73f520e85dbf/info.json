@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf09d9640184b4e8d096b43fc86fe73f520e85dbf",
+  "displayName": "PlantPump Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PlantPump Token",
+    "symbol": "PLANT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

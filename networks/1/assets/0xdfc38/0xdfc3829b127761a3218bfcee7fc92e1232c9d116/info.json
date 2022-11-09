@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfc3829b127761a3218bfcee7fc92e1232c9d116",
+  "displayName": "Wrapped PRCY",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped PRCY",
+    "symbol": "WPRCY",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

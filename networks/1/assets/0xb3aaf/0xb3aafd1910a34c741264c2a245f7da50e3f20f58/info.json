@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3aafd1910a34c741264c2a245f7da50e3f20f58",
+  "displayName": "The Pepe Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Pepe Protocol",
+    "symbol": "PP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

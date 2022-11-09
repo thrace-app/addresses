@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x249309649cce1f7e52ea6a653472ec14e182496f",
+  "displayName": "Guarda Wallet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Guarda Wallet Token",
+    "symbol": "GWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

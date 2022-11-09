@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8afbe61b793b327dda8d94b9caadd1974cad411a",
+  "displayName": "DragonBite",
+  "type": "TOKEN",
+  "token": {
+    "name": "DragonBite",
+    "symbol": "BITE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

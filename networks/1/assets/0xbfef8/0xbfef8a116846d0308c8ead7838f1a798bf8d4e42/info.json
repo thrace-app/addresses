@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbfef8a116846d0308c8ead7838f1a798bf8d4e42",
+  "displayName": "Enderman Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Enderman Coin",
+    "symbol": "ENDERMAN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

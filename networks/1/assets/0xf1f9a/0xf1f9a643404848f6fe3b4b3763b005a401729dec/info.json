@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1f9a643404848f6fe3b4b3763b005a401729dec",
+  "displayName": "Fei USD item",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fei USD item",
+    "symbol": "iFEI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

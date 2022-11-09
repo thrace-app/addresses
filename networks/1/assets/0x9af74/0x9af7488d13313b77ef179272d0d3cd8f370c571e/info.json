@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9af7488d13313b77ef179272d0d3cd8f370c571e",
+  "displayName": "ProtocolNumberOne",
+  "type": "TOKEN",
+  "token": {
+    "name": "ProtocolNumberOne",
+    "symbol": "PNO1",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

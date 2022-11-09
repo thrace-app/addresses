@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa12040497bc7b6077ea125bad27daa8b74e7edc",
+  "displayName": "Wish Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wish Coin",
+    "symbol": "WIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

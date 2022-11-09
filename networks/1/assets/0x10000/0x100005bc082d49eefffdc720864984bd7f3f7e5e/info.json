@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x100005bc082d49eefffdc720864984bd7f3f7e5e",
+  "displayName": "SudEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "SudEX",
+    "symbol": "SUX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

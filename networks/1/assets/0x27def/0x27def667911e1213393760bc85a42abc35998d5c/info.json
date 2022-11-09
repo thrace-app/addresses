@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27def667911e1213393760bc85a42abc35998d5c",
+  "displayName": "Never Ending Pump",
+  "type": "TOKEN",
+  "token": {
+    "name": "Never Ending Pump",
+    "symbol": "NEP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

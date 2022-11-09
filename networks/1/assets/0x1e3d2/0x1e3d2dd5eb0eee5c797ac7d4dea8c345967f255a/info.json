@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e3d2dd5eb0eee5c797ac7d4dea8c345967f255a",
+  "displayName": "Meerkat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meerkat",
+    "symbol": "MONGOOSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

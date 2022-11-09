@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x511ad494796e07d832d5f2c6648678b2f93af7c6",
+  "displayName": "Friends Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Friends Token",
+    "symbol": "FRIENDS TOKEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2313e39841fb3809da0ff6249c2067ca84795846",
+  "displayName": "Nifty Dudes",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nifty Dudes",
+    "symbol": "DUDES20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

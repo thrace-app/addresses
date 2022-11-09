@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x445f51299ef3307dbd75036dd896565f5b4bf7a5",
+  "displayName": "V-ID Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "V-ID Token",
+    "symbol": "VIDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

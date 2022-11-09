@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17edbbb413680d7800570e05ca01931c572ecb3d",
+  "displayName": "Tate Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tate Token",
+    "symbol": "TOPG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

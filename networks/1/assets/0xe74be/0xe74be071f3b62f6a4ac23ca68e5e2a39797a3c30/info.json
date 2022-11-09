@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe74be071f3b62f6a4ac23ca68e5e2a39797a3c30",
+  "displayName": "Recharge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Recharge",
+    "symbol": "RCG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1bc328b5aba80e1cdde761f95ea680135e80bf22",
+  "displayName": "OpenBankingCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "OpenBankingCoin",
+    "symbol": "OBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56a3ff6985a406fbbd38585cb101edd493337124",
+  "displayName": "Neo Shib",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neo Shib",
+    "symbol": "NEOSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

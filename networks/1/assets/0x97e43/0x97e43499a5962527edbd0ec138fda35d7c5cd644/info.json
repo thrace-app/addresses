@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97e43499a5962527edbd0ec138fda35d7c5cd644",
+  "displayName": "Old Samurai Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Old Samurai Token",
+    "symbol": "OldSamurai",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

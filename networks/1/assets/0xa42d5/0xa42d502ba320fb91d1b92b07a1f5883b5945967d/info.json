@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa42d502ba320fb91d1b92b07a1f5883b5945967d",
+  "displayName": "AV Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AV Token",
+    "symbol": "AV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc38564061520839a873e5ef526453d387b101212",
+  "displayName": "torproject.org",
+  "type": "TOKEN",
+  "token": {
+    "name": "torproject.org",
+    "symbol": "Onion",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

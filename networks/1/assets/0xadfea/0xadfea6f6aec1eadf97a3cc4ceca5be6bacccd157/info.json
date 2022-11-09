@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xadfea6f6aec1eadf97a3cc4ceca5be6bacccd157",
+  "displayName": "RecessToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RecessToken",
+    "symbol": "RECESS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

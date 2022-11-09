@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00c15a8c6d15dac2588ad4619bd2d7e9bb338a8e",
+  "displayName": "voterledger.io",
+  "type": "TOKEN",
+  "token": {
+    "name": "voterledger.io",
+    "symbol": "VOTER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

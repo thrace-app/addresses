@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x389817f295bd9dcb41aad333f8a82139eb6d178f",
+  "displayName": "WorldClassCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WorldClassCoin",
+    "symbol": "WRLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

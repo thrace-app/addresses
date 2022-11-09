@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99f1d9e8ed6646d0f469c55c657879ef0656a171",
+  "displayName": "BHDEX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BHDEX Token",
+    "symbol": "BHX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

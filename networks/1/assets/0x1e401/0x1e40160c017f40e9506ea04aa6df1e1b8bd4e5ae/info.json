@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e40160c017f40e9506ea04aa6df1e1b8bd4e5ae",
+  "displayName": "moscoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "moscoin",
+    "symbol": "mos",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

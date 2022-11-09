@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69215a5c0cf2e69b0803ca283a5ad6dcc0a105bc",
+  "displayName": "Fake DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fake DAI",
+    "symbol": "FDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

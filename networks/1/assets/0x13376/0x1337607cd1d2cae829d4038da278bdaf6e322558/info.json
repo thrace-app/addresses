@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1337607cd1d2cae829d4038da278bdaf6e322558",
+  "displayName": "MVS Glass",
+  "type": "TOKEN",
+  "token": {
+    "name": "MVS Glass",
+    "symbol": "MVS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

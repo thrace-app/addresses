@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1b3609aeaf746120b6a2120c83bffc99a35ca04",
+  "displayName": "Euler",
+  "type": "TOKEN",
+  "token": {
+    "name": "Euler",
+    "symbol": "EUL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

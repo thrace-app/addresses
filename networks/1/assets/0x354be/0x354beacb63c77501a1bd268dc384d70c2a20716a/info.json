@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x354beacb63c77501a1bd268dc384d70c2a20716a",
+  "displayName": "Happy Birthday Elon!",
+  "type": "TOKEN",
+  "token": {
+    "name": "Happy Birthday Elon!",
+    "symbol": "HBE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

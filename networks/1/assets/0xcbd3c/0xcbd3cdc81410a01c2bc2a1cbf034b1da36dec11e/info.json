@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcbd3cdc81410a01c2bc2a1cbf034b1da36dec11e",
+  "displayName": "Sweep Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sweep Governance Token",
+    "symbol": "SWPG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

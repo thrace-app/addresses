@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06450dee7fd2fb8e39061434babcfc05599a6fb8",
+  "displayName": "XEN Crypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "XEN Crypto",
+    "symbol": "XEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd85a6ae55a7f33b0ee113c234d2ee308edeaf7fd",
+  "displayName": "Cobak Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cobak Token",
+    "symbol": "CBK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

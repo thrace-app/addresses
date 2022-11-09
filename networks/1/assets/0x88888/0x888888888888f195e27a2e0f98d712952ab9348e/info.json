@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x888888888888f195e27a2e0f98d712952ab9348e",
+  "displayName": "IPI Shorter",
+  "type": "TOKEN",
+  "token": {
+    "name": "IPI Shorter",
+    "symbol": "IPISTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

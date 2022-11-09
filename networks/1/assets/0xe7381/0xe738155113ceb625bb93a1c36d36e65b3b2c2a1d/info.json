@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe738155113ceb625bb93a1c36d36e65b3b2c2a1d",
+  "displayName": "Dogereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dogereum",
+    "symbol": "dETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1de89887a10e3ab43a184826d7a120be11281623",
+  "displayName": "Spherium Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spherium Token",
+    "symbol": "SPHRI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

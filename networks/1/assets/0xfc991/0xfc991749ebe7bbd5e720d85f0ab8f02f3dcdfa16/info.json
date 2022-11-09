@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc991749ebe7bbd5e720d85f0ab8f02f3dcdfa16",
+  "displayName": "RothschildCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RothschildCoin",
+    "symbol": "RTDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

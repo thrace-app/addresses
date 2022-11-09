@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1f958cc1e9858ccbb2cb3fe2c1ba87e33438a5b",
+  "displayName": "Golden Apple",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Apple",
+    "symbol": "GoldApple",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

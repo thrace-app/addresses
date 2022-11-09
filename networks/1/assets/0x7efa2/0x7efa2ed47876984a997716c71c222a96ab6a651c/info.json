@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7efa2ed47876984a997716c71c222a96ab6a651c",
+  "displayName": "SWPProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "SWPProtocol",
+    "symbol": "SWPP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

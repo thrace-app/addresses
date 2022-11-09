@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc10b30820f793e24733dc80da12c798dfbff0fff",
+  "displayName": "SCARDust",
+  "type": "TOKEN",
+  "token": {
+    "name": "SCARDust",
+    "symbol": "SCARD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe07332fdcf3a8489b752cd86f3fdcd79ee9c373a",
+  "displayName": "Qindo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Qindo Token",
+    "symbol": "QINDO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

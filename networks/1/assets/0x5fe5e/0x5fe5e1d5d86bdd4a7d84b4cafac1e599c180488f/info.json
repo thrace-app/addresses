@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5fe5e1d5d86bdd4a7d84b4cafac1e599c180488f",
+  "displayName": "BrincGovToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BrincGovToken",
+    "symbol": "gBRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

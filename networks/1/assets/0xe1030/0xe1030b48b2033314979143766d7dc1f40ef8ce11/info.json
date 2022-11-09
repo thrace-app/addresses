@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1030b48b2033314979143766d7dc1f40ef8ce11",
+  "displayName": "The People’s Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The People’s Coin",
+    "symbol": "PEEPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

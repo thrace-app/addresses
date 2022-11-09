@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x311a570b1f4a0044e214c49d64f1a18000ced8e9",
+  "displayName": "The Crypto Volcano",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Crypto Volcano",
+    "symbol": "VOLCAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42123673c24ef89fdfacc51cefcaa87fe8e8c8de",
+  "displayName": "Luxury Auto Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luxury Auto Coin",
+    "symbol": "LAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

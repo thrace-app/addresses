@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x94834901770991716bc15edfca62918c7116d43e",
+  "displayName": "My Token Usb",
+  "type": "TOKEN",
+  "token": {
+    "name": "My Token Usb",
+    "symbol": "USB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

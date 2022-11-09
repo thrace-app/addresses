@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2baad056984c6c955c84738147177acc6f25b077",
+  "displayName": "TsukaDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "TsukaDao",
+    "symbol": "TsukaDAO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

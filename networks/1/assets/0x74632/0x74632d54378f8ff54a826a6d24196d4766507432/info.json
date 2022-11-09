@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x74632d54378f8ff54a826a6d24196d4766507432",
+  "displayName": "FRIZZLE TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "FRIZZLE TOKEN",
+    "symbol": "FRZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

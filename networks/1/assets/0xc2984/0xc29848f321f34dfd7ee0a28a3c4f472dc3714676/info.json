@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc29848f321f34dfd7ee0a28a3c4f472dc3714676",
+  "displayName": "The Concierge Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Concierge Token",
+    "symbol": "CGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

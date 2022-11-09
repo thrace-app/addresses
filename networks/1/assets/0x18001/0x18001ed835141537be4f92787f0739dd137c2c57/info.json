@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18001ed835141537be4f92787f0739dd137c2c57",
+  "displayName": "Pump It",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pump It",
+    "symbol": "PUMPIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

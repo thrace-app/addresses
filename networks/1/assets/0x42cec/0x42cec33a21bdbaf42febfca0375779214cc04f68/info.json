@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42cec33a21bdbaf42febfca0375779214cc04f68",
+  "displayName": "Genshin Waifu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Genshin Waifu",
+    "symbol": "GWaifu",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfac5ce8d7478f787654175e514b68e5cdf38f10a",
+  "displayName": "ShitCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShitCoin",
+    "symbol": "STC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

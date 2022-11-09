@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d4eafe131191c7a75f85f8507c7db5659d08508",
+  "displayName": "Police coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Police coin",
+    "symbol": "COPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

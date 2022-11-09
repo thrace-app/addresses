@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0234f55b6af7b89fc647334b5e51fa5636a4d9f1",
+  "displayName": "MAGAverse",
+  "type": "TOKEN",
+  "token": {
+    "name": "MAGAverse",
+    "symbol": "MAGA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

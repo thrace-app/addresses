@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cee7f634ae0254fb44533032432f473fe6bf7d8",
+  "displayName": "Juice Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Juice Swap",
+    "symbol": "JUICE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

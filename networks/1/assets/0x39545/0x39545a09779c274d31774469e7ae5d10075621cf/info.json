@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39545a09779c274d31774469e7ae5d10075621cf",
+  "displayName": "NoSellTax",
+  "type": "TOKEN",
+  "token": {
+    "name": "NoSellTax",
+    "symbol": "NoSellTax",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ed4242a3c069250182d579daa423825cd67c199",
+  "displayName": "Harmony Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Harmony Coin",
+    "symbol": "HARMONY COIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

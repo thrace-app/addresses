@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61d7aa4262b5a53d0e454a62083b57b466f2f7a6",
+  "displayName": "DUDE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DUDE Token",
+    "symbol": "DUDE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

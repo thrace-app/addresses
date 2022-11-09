@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47c0ad2ae6c0ed4bcf7bc5b380d7205e89436e84",
+  "displayName": "HEGICTokenIOU",
+  "type": "TOKEN",
+  "token": {
+    "name": "HEGICTokenIOU",
+    "symbol": "rHEGIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

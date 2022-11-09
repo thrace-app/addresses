@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1aae22c7ffbbd98e0e88273b9bb75ad9a6a0a4cb",
+  "displayName": "The Coolest Beer",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Coolest Beer",
+    "symbol": "COLDBEER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

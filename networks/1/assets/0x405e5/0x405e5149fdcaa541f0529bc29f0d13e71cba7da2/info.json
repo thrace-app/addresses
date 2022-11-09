@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x405e5149fdcaa541f0529bc29f0d13e71cba7da2",
+  "displayName": "AnSample Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "AnSample Chain",
+    "symbol": "SAMP",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

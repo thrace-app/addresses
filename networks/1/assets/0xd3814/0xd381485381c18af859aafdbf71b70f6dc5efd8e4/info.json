@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd381485381c18af859aafdbf71b70f6dc5efd8e4",
+  "displayName": "Change Token ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Change Token ETH",
+    "symbol": "$CHANGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

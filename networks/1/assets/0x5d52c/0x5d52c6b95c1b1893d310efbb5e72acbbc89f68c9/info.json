@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d52c6b95c1b1893d310efbb5e72acbbc89f68c9",
+  "displayName": "moonbeam.network",
+  "type": "TOKEN",
+  "token": {
+    "name": "moonbeam.network",
+    "symbol": "MOON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

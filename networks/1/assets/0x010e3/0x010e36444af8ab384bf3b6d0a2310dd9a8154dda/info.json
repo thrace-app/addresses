@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x010e36444af8ab384bf3b6d0a2310dd9a8154dda",
+  "displayName": "Cryptransfer Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryptransfer Protocol",
+    "symbol": "CRYTF",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

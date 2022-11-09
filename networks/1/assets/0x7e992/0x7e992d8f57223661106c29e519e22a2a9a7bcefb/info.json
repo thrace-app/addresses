@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e992d8f57223661106c29e519e22a2a9a7bcefb",
+  "displayName": "AvonToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AvonToken",
+    "symbol": "AT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

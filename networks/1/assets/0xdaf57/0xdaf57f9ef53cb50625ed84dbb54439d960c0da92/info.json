@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdaf57f9ef53cb50625ed84dbb54439d960c0da92",
+  "displayName": "Cryptter",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryptter",
+    "symbol": "CTR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

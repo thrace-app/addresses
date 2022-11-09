@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x811ab8f86b994d097801f235740c71512c5ecd01",
+  "displayName": "Destable Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Destable Coin",
+    "symbol": "DESTABLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

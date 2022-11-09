@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4071efd58634fa46aa6dab0a2f3ea23d9f5e37b3",
+  "displayName": "LLGT test",
+  "type": "TOKEN",
+  "token": {
+    "name": "LLGT test",
+    "symbol": "$LLGT",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

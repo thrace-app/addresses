@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x94cd561406dcbccdc0e05d2cab522f2ccd97c61f",
+  "displayName": "SolidCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SolidCoin",
+    "symbol": "SC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

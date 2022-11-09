@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc4702f65014f0f563f66eb449a65555c706a7fd",
+  "displayName": "Lucca Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucca Cash",
+    "symbol": "LCASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

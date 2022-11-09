@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ab228e7ab5cb890e8e930629c91a2d42210581b",
+  "displayName": "Animal Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Animal Money",
+    "symbol": "ANIMAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad6cef12b60446bd0628b2a278b3d2aa14f80202",
+  "displayName": "Eth Power",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eth Power",
+    "symbol": "ETHP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

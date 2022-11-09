@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1337def18c680af1f9f45cbcab6309562975b1dd",
+  "displayName": "Armor NXM",
+  "type": "TOKEN",
+  "token": {
+    "name": "Armor NXM",
+    "symbol": "arNXM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

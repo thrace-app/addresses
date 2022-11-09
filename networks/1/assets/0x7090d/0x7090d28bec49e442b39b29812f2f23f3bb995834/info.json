@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7090d28bec49e442b39b29812f2f23f3bb995834",
+  "displayName": "Last But Not Least",
+  "type": "TOKEN",
+  "token": {
+    "name": "Last But Not Least",
+    "symbol": "LAST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

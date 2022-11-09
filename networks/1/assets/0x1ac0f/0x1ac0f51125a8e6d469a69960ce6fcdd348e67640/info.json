@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ac0f51125a8e6d469a69960ce6fcdd348e67640",
+  "displayName": "Light Shiba Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Light Shiba Token",
+    "symbol": "LSHIBA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

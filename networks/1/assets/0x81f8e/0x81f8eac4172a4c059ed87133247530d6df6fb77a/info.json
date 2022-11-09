@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81f8eac4172a4c059ed87133247530d6df6fb77a",
+  "displayName": "Doge Shit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Shit Token",
+    "symbol": "DOGSHIT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

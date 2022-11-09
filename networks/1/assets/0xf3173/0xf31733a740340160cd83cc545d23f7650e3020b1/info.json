@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf31733a740340160cd83cc545d23f7650e3020b1",
+  "displayName": "KnightToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KnightToken",
+    "symbol": "KT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

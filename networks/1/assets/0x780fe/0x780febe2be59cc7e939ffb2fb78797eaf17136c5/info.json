@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x780febe2be59cc7e939ffb2fb78797eaf17136c5",
+  "displayName": "PrivateReserveCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PrivateReserveCoin",
+    "symbol": "PRVC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

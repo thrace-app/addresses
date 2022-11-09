@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ec0f8126fb2e1a7a3f741a972aee9d1fcaa265e",
+  "displayName": "RawDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "RawDoge",
+    "symbol": "RAW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

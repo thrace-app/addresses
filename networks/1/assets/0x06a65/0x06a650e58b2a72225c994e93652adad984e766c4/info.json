@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06a650e58b2a72225c994e93652adad984e766c4",
+  "displayName": "Aloha Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aloha Currency",
+    "symbol": "ALOHA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

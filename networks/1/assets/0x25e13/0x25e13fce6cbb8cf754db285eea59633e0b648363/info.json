@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25e13fce6cbb8cf754db285eea59633e0b648363",
+  "displayName": "Sentinel Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sentinel Token",
+    "symbol": "SENTINEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

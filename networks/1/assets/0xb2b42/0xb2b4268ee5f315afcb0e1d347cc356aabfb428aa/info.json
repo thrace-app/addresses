@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb2b4268ee5f315afcb0e1d347cc356aabfb428aa",
+  "displayName": "Fat Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fat Doge",
+    "symbol": "FOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb05f4f7106580ead196fc7de68e7f8f093c04538",
+  "displayName": "Coin Pay",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coin Pay",
+    "symbol": "CPY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

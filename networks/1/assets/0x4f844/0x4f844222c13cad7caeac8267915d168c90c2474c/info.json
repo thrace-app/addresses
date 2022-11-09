@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f844222c13cad7caeac8267915d168c90c2474c",
+  "displayName": "Chia Network",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chia Network",
+    "symbol": "XCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

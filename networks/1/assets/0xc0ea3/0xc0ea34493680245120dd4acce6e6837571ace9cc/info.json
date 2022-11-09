@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0ea34493680245120dd4acce6e6837571ace9cc",
+  "displayName": "DREAM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DREAM Token",
+    "symbol": "DREAM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

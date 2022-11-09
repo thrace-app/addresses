@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5af01fe9215ace5db6d499ab7eb9d9d943ddb21b",
+  "displayName": "Kalicoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kalicoin",
+    "symbol": "KalC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

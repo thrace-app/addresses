@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09d2c92c8a7421f4cfaef340ed3dfd42b56fa007",
+  "displayName": "Whiteheart Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Whiteheart Token",
+    "symbol": "WHITE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

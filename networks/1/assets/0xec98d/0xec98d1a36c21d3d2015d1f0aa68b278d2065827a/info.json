@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec98d1a36c21d3d2015d1f0aa68b278d2065827a",
+  "displayName": "The HODL",
+  "type": "TOKEN",
+  "token": {
+    "name": "The HODL",
+    "symbol": "HODL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

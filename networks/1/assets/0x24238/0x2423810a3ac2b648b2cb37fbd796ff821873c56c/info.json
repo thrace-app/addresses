@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2423810a3ac2b648b2cb37fbd796ff821873c56c",
+  "displayName": "NascarToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NascarToken",
+    "symbol": "Nascar",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

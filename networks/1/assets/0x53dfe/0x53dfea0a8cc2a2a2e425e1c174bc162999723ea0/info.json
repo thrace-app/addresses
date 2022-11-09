@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0",
+  "displayName": "Jarvis Synthetic Swiss Franc",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jarvis Synthetic Swiss Franc",
+    "symbol": "jCHF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac640c5ee30bea2e0f832ee7a543a3a0966f7917",
+  "displayName": "Pet Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pet Finance",
+    "symbol": "PET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

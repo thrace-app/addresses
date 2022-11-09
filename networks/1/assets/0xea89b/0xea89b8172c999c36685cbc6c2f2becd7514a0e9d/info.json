@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea89b8172c999c36685cbc6c2f2becd7514a0e9d",
+  "displayName": "CoreBit",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoreBit",
+    "symbol": "CBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

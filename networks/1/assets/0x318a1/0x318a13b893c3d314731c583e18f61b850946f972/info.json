@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x318a13b893c3d314731c583e18f61b850946f972",
+  "displayName": "Ethereum Tree",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Tree",
+    "symbol": "EthTree",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

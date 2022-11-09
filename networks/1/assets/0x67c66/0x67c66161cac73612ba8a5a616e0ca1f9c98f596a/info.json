@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67c66161cac73612ba8a5a616e0ca1f9c98f596a",
+  "displayName": "Rewarder",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rewarder",
+    "symbol": "RWD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

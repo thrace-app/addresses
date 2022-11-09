@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f98303bee8c2123dc90f31d863fd61fe975f6d4",
+  "displayName": "Twitter Bird",
+  "type": "TOKEN",
+  "token": {
+    "name": "Twitter Bird",
+    "symbol": "TBIRD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

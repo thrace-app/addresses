@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78571accaf24052795f98b11f093b488a2d9eaa4",
+  "displayName": "Rocket Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rocket Coin",
+    "symbol": "RCKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

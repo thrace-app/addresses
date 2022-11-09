@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea9229948fd0aa6ad648ec219cd2bbfcdeabc1da",
+  "displayName": "MangaMon",
+  "type": "TOKEN",
+  "token": {
+    "name": "MangaMon",
+    "symbol": "MAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

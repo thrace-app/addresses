@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe6ff67e001ef6623c23ac234922f67eefe048dff",
+  "displayName": "Esmeralda coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Esmeralda coin",
+    "symbol": "ESM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

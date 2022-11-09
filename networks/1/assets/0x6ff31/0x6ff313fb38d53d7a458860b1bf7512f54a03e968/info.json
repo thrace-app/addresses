@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ff313fb38d53d7a458860b1bf7512f54a03e968",
+  "displayName": "Mero Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mero Currency",
+    "symbol": "MRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

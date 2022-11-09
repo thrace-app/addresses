@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c4030839708a20fd2fb379cf11810dde4888d93",
+  "displayName": "IMSWallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "IMSWallet",
+    "symbol": "IMS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

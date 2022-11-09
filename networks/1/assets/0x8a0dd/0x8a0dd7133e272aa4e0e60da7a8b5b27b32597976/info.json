@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a0dd7133e272aa4e0e60da7a8b5b27b32597976",
+  "displayName": "ElonsGiving",
+  "type": "TOKEN",
+  "token": {
+    "name": "ElonsGiving",
+    "symbol": "$EGIVE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

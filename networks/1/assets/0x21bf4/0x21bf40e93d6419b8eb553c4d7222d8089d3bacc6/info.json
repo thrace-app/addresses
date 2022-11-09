@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21bf40e93d6419b8eb553c4d7222d8089d3bacc6",
+  "displayName": "Sith Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sith Token",
+    "symbol": "SITH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

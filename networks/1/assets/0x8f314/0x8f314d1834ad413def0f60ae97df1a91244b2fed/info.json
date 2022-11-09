@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f314d1834ad413def0f60ae97df1a91244b2fed",
+  "displayName": "Xavier Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Xavier Token",
+    "symbol": "XTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

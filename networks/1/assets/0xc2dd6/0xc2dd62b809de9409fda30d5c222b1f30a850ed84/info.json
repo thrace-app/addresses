@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2dd62b809de9409fda30d5c222b1f30a850ed84",
+  "displayName": "aomucoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "aomucoin",
+    "symbol": "aomu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

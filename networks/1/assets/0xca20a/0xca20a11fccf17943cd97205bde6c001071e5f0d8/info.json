@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca20a11fccf17943cd97205bde6c001071e5f0d8",
+  "displayName": "Pepe Goat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pepe Goat",
+    "symbol": "PG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

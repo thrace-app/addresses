@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72e54ee9c36a2fb293c3400c5e8d87774f05f979",
+  "displayName": "Your.Favorite.Asset",
+  "type": "TOKEN",
+  "token": {
+    "name": "Your.Favorite.Asset",
+    "symbol": "YFA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

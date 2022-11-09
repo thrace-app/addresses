@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf48ae105dd2ff24e44a066a3c1e47db7fb751bc2",
+  "displayName": "BSB YAM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BSB YAM Token",
+    "symbol": "BSBYAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

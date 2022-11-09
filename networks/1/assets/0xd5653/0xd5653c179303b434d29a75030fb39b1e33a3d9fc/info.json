@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5653c179303b434d29a75030fb39b1e33a3d9fc",
+  "displayName": "ProtocolDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "ProtocolDAO",
+    "symbol": "PRODAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

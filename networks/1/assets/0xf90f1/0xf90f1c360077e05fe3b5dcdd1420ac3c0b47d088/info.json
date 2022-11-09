@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf90f1c360077e05fe3b5dcdd1420ac3c0b47d088",
+  "displayName": "GalboCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GalboCoin",
+    "symbol": "GALO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

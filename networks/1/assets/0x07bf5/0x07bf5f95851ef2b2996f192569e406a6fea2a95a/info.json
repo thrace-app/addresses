@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07bf5f95851ef2b2996f192569e406a6fea2a95a",
+  "displayName": "SEALToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SEALToken",
+    "symbol": "SEAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

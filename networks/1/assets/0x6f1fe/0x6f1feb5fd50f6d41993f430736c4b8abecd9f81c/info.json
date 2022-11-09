@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f1feb5fd50f6d41993f430736c4b8abecd9f81c",
+  "displayName": "Eurion",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eurion",
+    "symbol": "ERN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

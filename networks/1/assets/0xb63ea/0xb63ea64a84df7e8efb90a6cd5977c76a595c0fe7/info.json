@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb63ea64a84df7e8efb90a6cd5977c76a595c0fe7",
+  "displayName": "Pineapple Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pineapple Token",
+    "symbol": "PNPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

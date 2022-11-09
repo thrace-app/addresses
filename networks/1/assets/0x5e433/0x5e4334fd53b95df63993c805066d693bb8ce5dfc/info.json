@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e4334fd53b95df63993c805066d693bb8ce5dfc",
+  "displayName": "CayTreX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CayTreX Token",
+    "symbol": "CTXT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

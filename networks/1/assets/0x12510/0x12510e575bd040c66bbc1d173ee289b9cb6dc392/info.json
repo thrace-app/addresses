@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12510e575bd040c66bbc1d173ee289b9cb6dc392",
+  "displayName": "Elon Payment Ecosystem",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Payment Ecosystem",
+    "symbol": "ELONPAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

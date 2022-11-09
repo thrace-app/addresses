@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a09eec78998924c24b287f0576253ffa9e87c21",
+  "displayName": "Space Poggers",
+  "type": "TOKEN",
+  "token": {
+    "name": "Space Poggers",
+    "symbol": "POGGER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

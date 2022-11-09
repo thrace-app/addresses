@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96b99a8f61fc5bf7238bdb93ba9cee4a1a4af1b6",
+  "displayName": "Zero Use Case Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zero Use Case Token",
+    "symbol": "ZUCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73f747a1f44ce99bf05593184b454ba6e8b8066e",
+  "displayName": "CoFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoFi Token",
+    "symbol": "CoFi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

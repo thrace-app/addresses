@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd35fb4be6ad2b03ada109f9fbd55086fff7a2e7b",
+  "displayName": "Deutsche Mark",
+  "type": "TOKEN",
+  "token": {
+    "name": "Deutsche Mark",
+    "symbol": "DM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

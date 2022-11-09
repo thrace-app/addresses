@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x625ae63000f46200499120b906716420bd059240",
+  "displayName": "Aave Interest bearing SUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave Interest bearing SUSD",
+    "symbol": "aSUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

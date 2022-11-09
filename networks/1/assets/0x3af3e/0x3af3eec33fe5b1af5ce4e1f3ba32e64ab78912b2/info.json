@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3af3eec33fe5b1af5ce4e1f3ba32e64ab78912b2",
+  "displayName": "Shillings",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shillings",
+    "symbol": "$SHILLINGS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

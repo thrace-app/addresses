@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c82039a7bf7a7bc75a12ba2f50ddd860f9a756c",
+  "displayName": "TsunamiPay Coin USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "TsunamiPay Coin USD",
+    "symbol": "TPUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

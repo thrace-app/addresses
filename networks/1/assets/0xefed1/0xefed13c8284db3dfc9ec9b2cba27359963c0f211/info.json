@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xefed13c8284db3dfc9ec9b2cba27359963c0f211",
+  "displayName": "Meow Moon Kitty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meow Moon Kitty",
+    "symbol": "MMK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

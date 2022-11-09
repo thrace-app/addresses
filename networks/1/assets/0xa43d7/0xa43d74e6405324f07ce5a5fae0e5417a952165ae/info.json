@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa43d74e6405324f07ce5a5fae0e5417a952165ae",
+  "displayName": "The DOI Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The DOI Coin",
+    "symbol": "DOIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

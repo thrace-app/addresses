@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb6c4f6daac4c42d870375a85c24d26b082dc0b4",
+  "displayName": "FUD",
+  "type": "TOKEN",
+  "token": {
+    "name": "FUD",
+    "symbol": "Fear, Uncertainty and Doubt",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

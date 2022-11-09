@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf8d8f1242b95dfbae532af6b0f4463905415cc1",
+  "displayName": "Edex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Edex",
+    "symbol": "EDX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

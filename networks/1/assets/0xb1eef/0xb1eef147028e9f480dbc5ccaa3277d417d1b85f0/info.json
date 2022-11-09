@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1eef147028e9f480dbc5ccaa3277d417d1b85f0",
+  "displayName": "SeeleToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SeeleToken",
+    "symbol": "Seele",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

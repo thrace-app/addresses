@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ae655088e79fa0ced7b472d3bacd215ef796ccc",
+  "displayName": "SmarcToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SmarcToken",
+    "symbol": "SMARC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

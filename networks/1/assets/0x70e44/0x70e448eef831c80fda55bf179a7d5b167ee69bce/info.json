@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70e448eef831c80fda55bf179a7d5b167ee69bce",
+  "displayName": "Burn FTX",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burn FTX",
+    "symbol": "BFTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

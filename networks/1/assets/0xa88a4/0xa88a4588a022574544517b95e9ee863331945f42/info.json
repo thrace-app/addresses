@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa88a4588a022574544517b95e9ee863331945f42",
+  "displayName": "Hustly Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hustly Token",
+    "symbol": "Hustly",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

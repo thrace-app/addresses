@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34234c8f507ff34a0f23eb4261307c0911e9fc0f",
+  "displayName": "BOLT Tank",
+  "type": "TOKEN",
+  "token": {
+    "name": "BOLT Tank",
+    "symbol": "BOLTS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

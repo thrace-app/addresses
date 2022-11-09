@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ed56aa9ee2a5303c54c26b6376a817a07007092",
+  "displayName": "fdchain",
+  "type": "TOKEN",
+  "token": {
+    "name": "fdchain",
+    "symbol": "FDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

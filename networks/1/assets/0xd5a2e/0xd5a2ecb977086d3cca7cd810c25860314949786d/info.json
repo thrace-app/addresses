@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5a2ecb977086d3cca7cd810c25860314949786d",
+  "displayName": "Balloon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Balloon Token",
+    "symbol": "BLOON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

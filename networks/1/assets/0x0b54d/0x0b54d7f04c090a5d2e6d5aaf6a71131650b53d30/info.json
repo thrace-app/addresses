@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b54d7f04c090a5d2e6d5aaf6a71131650b53d30",
+  "displayName": "Super Mario Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Mario Coin",
+    "symbol": "SMario",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

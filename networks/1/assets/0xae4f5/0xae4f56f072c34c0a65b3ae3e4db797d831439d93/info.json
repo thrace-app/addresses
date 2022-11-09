@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae4f56f072c34c0a65b3ae3e4db797d831439d93",
+  "displayName": "Gimli Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gimli Token",
+    "symbol": "GIM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3051199794cc1108fe7f5a48186ccd389093646a",
+  "displayName": "Schnitzel Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Schnitzel Inu",
+    "symbol": "SCHNITZEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

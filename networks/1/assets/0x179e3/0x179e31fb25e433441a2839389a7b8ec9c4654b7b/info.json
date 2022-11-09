@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x179e31fb25e433441a2839389a7b8ec9c4654b7b",
+  "displayName": "SynchroBitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SynchroBitcoin",
+    "symbol": "SNB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

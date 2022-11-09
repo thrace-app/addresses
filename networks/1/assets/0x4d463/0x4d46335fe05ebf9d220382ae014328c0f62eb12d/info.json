@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d46335fe05ebf9d220382ae014328c0f62eb12d",
+  "displayName": "BsaiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BsaiCoin",
+    "symbol": "BSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

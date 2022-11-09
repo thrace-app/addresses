@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x987b3fd9ea8d19e1faa8d2c755930665fef88d50",
+  "displayName": "Bankroll Vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bankroll Vault",
+    "symbol": "BVLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

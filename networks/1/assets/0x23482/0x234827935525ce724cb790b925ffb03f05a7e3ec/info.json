@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x234827935525ce724cb790b925ffb03f05a7e3ec",
+  "displayName": "ROOTXToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ROOTXToken",
+    "symbol": "ROOTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

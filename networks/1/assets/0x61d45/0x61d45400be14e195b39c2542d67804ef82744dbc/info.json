@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61d45400be14e195b39c2542d67804ef82744dbc",
+  "displayName": "BitDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitDAO",
+    "symbol": "BIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

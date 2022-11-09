@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x138b31cf7cb59816f9bc9609ca695b5dea21f602",
+  "displayName": "Proof of Whale",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Whale",
+    "symbol": "POW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

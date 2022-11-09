@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb502934dee1b67e0d574e6f492332dd6f00c5ce6",
+  "displayName": "Moon Meow Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moon Meow Token",
+    "symbol": "MOONMEOW",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

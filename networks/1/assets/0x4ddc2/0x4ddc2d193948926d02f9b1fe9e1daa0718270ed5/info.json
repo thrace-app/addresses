@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+  "displayName": "Compound Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Compound Ether",
+    "symbol": "cETH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

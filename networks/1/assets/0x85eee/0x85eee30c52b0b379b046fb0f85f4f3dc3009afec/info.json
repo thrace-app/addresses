@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+  "displayName": "KEEP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KEEP Token",
+    "symbol": "KEEP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

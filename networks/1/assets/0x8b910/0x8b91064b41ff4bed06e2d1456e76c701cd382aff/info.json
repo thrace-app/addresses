@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b91064b41ff4bed06e2d1456e76c701cd382aff",
+  "displayName": "Delta Pay",
+  "type": "TOKEN",
+  "token": {
+    "name": "Delta Pay",
+    "symbol": "DeltaPay",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

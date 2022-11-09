@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cdca37ca312d5ff373fe3deff5a58f186210e95",
+  "displayName": "Stablecoin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stablecoin Token",
+    "symbol": "STABLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

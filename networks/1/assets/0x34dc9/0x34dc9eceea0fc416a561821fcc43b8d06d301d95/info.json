@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34dc9eceea0fc416a561821fcc43b8d06d301d95",
+  "displayName": "Tosa Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tosa Inu Token",
+    "symbol": "TOSA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

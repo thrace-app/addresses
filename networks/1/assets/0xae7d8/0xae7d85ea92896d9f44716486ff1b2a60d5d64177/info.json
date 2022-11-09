@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae7d85ea92896d9f44716486ff1b2a60d5d64177",
+  "displayName": "DeRace Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeRace Token",
+    "symbol": "DERC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

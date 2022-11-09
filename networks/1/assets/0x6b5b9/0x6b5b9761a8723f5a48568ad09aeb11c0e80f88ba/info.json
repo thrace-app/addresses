@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b5b9761a8723f5a48568ad09aeb11c0e80f88ba",
+  "displayName": "Token of Might and Magic",
+  "type": "TOKEN",
+  "token": {
+    "name": "Token of Might and Magic",
+    "symbol": "ToMM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

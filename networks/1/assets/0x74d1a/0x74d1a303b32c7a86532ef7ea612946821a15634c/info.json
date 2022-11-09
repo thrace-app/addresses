@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x74d1a303b32c7a86532ef7ea612946821a15634c",
+  "displayName": "LyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LyToken",
+    "symbol": "LYT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

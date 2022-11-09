@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16fca937660e6c1ca2dda5275e0f7f596a6c3df0",
+  "displayName": "My DeFi Pet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "My DeFi Pet Token",
+    "symbol": "DPET",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

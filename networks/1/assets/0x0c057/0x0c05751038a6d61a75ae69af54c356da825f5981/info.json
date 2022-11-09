@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c05751038a6d61a75ae69af54c356da825f5981",
+  "displayName": "Yan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yan Token",
+    "symbol": "Yan",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

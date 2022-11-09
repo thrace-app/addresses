@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9af10d1df47b04becb4d2d47ec066e67fd661294",
+  "displayName": "Withdraw",
+  "type": "TOKEN",
+  "token": {
+    "name": "Withdraw",
+    "symbol": "Withdraw",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

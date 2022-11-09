@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d6ce08694ac9720cf8f30dd14b8753f6f858791",
+  "displayName": "Kopo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kopo Token",
+    "symbol": "Kopo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

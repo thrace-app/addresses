@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e8fa53f4b8fb8fd7529285fe7ed210ae67ce0e6",
+  "displayName": "SuckMe",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuckMe",
+    "symbol": "Suck",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

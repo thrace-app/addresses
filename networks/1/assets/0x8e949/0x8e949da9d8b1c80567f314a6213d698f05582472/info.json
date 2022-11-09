@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e949da9d8b1c80567f314a6213d698f05582472",
+  "displayName": "Market Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Market Burn",
+    "symbol": "MBurn",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

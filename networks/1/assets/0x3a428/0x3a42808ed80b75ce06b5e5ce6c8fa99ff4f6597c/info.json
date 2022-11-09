@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a42808ed80b75ce06b5e5ce6c8fa99ff4f6597c",
+  "displayName": "BigBlackGoose",
+  "type": "TOKEN",
+  "token": {
+    "name": "BigBlackGoose",
+    "symbol": "BBGOOSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

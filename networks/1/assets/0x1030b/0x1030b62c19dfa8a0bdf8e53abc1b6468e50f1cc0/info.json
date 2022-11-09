@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1030b62c19dfa8a0bdf8e53abc1b6468e50f1cc0",
+  "displayName": "V3 Test",
+  "type": "TOKEN",
+  "token": {
+    "name": "V3 Test",
+    "symbol": "V3TEST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

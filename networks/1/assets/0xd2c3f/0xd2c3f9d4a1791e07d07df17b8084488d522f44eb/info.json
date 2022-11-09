@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2c3f9d4a1791e07d07df17b8084488d522f44eb",
+  "displayName": "Grumpy Hoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grumpy Hoge",
+    "symbol": "GRUMPH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

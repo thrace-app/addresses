@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5299d6f7472dcc137d7f3c4bcfbbb514babf341a",
+  "displayName": "Synth sXMR",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth sXMR",
+    "symbol": "sXMR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15bcdfad12498de8a922e62442ae4cc4bd33bd25",
+  "displayName": "Walletreum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Walletreum",
+    "symbol": "WALT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

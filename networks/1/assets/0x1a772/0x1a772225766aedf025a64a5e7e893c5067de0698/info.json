@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a772225766aedf025a64a5e7e893c5067de0698",
+  "displayName": "Famous Masterpiece",
+  "type": "TOKEN",
+  "token": {
+    "name": "Famous Masterpiece",
+    "symbol": "FM",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
+  "displayName": "Moeda Loyalty Points",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moeda Loyalty Points",
+    "symbol": "MDA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf953035183b51253592ad44e163b03c04a286ffa",
+  "displayName": "Lopo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lopo Token",
+    "symbol": "Lopo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe853f71996f4bae84da2f1c9218ddcf5b486dacc",
+  "displayName": "Behance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Behance Token",
+    "symbol": "BETN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

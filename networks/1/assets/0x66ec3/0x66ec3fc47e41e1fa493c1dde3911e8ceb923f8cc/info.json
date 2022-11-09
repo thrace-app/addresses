@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66ec3fc47e41e1fa493c1dde3911e8ceb923f8cc",
+  "displayName": "Caviar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Caviar",
+    "symbol": "CAV",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

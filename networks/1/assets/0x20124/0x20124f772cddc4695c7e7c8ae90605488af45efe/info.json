@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20124f772cddc4695c7e7c8ae90605488af45efe",
+  "displayName": "Magic Internet Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Magic Internet Coin",
+    "symbol": "$MIC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

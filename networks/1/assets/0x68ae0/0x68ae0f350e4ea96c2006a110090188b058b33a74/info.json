@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68ae0f350e4ea96c2006a110090188b058b33a74",
+  "displayName": "MobiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MobiCoin",
+    "symbol": "MBC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

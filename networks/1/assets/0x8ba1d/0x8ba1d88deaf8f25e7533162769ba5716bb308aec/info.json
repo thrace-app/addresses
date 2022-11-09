@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ba1d88deaf8f25e7533162769ba5716bb308aec",
+  "displayName": "Cheese Curds",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cheese Curds",
+    "symbol": "CURDS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

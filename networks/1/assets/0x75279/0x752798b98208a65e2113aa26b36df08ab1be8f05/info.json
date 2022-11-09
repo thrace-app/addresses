@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x752798b98208a65e2113aa26b36df08ab1be8f05",
+  "displayName": "NymexDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "NymexDao",
+    "symbol": "NYMEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

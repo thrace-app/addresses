@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02e0a2807cdbf3695dd518e4e7f674fb510a0799",
+  "displayName": "Blocky Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blocky Doge",
+    "symbol": "BlockyDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

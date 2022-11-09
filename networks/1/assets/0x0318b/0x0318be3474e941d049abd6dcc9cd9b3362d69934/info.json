@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0318be3474e941d049abd6dcc9cd9b3362d69934",
+  "displayName": "Noat Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Noat Token",
+    "symbol": "NOAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

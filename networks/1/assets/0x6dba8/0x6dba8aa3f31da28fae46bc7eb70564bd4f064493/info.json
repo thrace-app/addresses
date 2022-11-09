@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6dba8aa3f31da28fae46bc7eb70564bd4f064493",
+  "displayName": "ProtocolFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "ProtocolFinance",
+    "symbol": "PFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

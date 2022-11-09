@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58297c659ebb6c2b2585dc8344ad62eeae9dd932",
+  "displayName": "VTuberSupportToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "VTuberSupportToken",
+    "symbol": "VST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

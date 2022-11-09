@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7124b4a4b7ab3a10fef33747639ad02c7e444af1",
+  "displayName": "Better Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Better Coin",
+    "symbol": "Better",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

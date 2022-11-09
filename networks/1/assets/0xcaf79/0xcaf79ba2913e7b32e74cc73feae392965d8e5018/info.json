@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcaf79ba2913e7b32e74cc73feae392965d8e5018",
+  "displayName": "My Little Crypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "My Little Crypto",
+    "symbol": "MLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

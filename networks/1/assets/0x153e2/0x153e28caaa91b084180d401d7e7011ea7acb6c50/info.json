@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x153e28caaa91b084180d401d7e7011ea7acb6c50",
+  "displayName": "onetrillionDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "onetrillionDoge",
+    "symbol": "1TD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

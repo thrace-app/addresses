@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d264331852d9ee0b047a43c7f7a40282aba9e6d",
+  "displayName": "ETH Printer",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH Printer",
+    "symbol": "PRINTER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

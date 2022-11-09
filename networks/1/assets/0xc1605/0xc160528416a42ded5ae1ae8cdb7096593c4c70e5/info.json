@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc160528416a42ded5ae1ae8cdb7096593c4c70e5",
+  "displayName": "DefiHoldings",
+  "type": "TOKEN",
+  "token": {
+    "name": "DefiHoldings",
+    "symbol": "DHOLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

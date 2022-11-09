@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49140e96dd5d90039a4e43eec9e165f3f6db773a",
+  "displayName": "World Peace Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "World Peace Token",
+    "symbol": "$WPT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

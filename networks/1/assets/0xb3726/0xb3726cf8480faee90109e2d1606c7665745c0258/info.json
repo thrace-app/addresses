@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3726cf8480faee90109e2d1606c7665745c0258",
+  "displayName": "Sakura Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sakura Token",
+    "symbol": "SAKURA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

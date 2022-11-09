@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0196985601598a35a48606b643fd2c34fb861e1",
+  "displayName": "Eternal Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eternal Cash",
+    "symbol": "EC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

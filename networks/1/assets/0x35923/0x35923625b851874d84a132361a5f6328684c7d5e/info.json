@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35923625b851874d84a132361a5f6328684c7d5e",
+  "displayName": "Pegasus Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pegasus Coin",
+    "symbol": "PegaCoin",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcabe8fb31b72bdbd5207beeffa689ea2da19c3af",
+  "displayName": "Smart Yield Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smart Yield Token",
+    "symbol": "SYDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

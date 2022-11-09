@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0418036b82e33a16a8d80c094e53e63988045461",
+  "displayName": "Gitcoin Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gitcoin Cash",
+    "symbol": "GCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

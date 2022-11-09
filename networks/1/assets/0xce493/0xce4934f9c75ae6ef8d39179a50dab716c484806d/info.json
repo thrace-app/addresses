@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce4934f9c75ae6ef8d39179a50dab716c484806d",
+  "displayName": "Wrap Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrap Coin",
+    "symbol": "WRAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

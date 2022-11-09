@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x396ba3c038caacdffdec9c315ae54cdaa6650e51",
+  "displayName": "BankOfETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "BankOfETH",
+    "symbol": "BOE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

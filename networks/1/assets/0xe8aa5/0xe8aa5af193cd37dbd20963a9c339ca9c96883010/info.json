@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe8aa5af193cd37dbd20963a9c339ca9c96883010",
+  "displayName": "Up Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Up Token",
+    "symbol": "UP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x608636f25eea38ad82adbd4577e4e13d37bfd127",
+  "displayName": "CryptoZeroFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoZeroFi",
+    "symbol": "CZF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

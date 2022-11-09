@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1276cd871914ff0efd2cf7af32c4e0752d3b971",
+  "displayName": "DegensPumpToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DegensPumpToken",
+    "symbol": "DGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

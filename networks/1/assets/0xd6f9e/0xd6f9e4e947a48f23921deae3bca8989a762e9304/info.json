@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6f9e4e947a48f23921deae3bca8989a762e9304",
+  "displayName": "Swing Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swing Token",
+    "symbol": "SWING",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

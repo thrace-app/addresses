@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e7cb236e43c4bd042fe463df6a175d4479ee186",
+  "displayName": "Halving",
+  "type": "TOKEN",
+  "token": {
+    "name": "Halving",
+    "symbol": "HALV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

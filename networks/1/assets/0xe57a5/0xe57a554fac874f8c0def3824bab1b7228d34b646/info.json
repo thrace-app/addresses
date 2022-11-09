@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe57a554fac874f8c0def3824bab1b7228d34b646",
+  "displayName": "NFA",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFA",
+    "symbol": "No Financial Advice",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9b86483b7f11a66ba820ebc5ba9c11feb0a9e94",
+  "displayName": "DogWorld",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogWorld",
+    "symbol": "DOGW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

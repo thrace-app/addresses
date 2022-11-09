@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa86d05ceb0b539b9928a55a65e47b913a58459c2",
+  "displayName": "bitCNY",
+  "type": "TOKEN",
+  "token": {
+    "name": "bitCNY",
+    "symbol": "BITCNY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

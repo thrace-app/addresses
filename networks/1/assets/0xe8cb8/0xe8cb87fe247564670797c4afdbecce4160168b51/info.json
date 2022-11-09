@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe8cb87fe247564670797c4afdbecce4160168b51",
+  "displayName": "Degen Troll",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Troll",
+    "symbol": "TROLL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

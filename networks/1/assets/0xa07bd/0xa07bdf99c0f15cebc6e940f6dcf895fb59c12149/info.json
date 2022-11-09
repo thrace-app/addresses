@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa07bdf99c0f15cebc6e940f6dcf895fb59c12149",
+  "displayName": "MEV Destroyer rug",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEV Destroyer rug",
+    "symbol": "MDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

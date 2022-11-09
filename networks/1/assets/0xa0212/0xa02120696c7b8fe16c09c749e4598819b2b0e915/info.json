@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa02120696c7b8fe16c09c749e4598819b2b0e915",
+  "displayName": "Wirex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wirex Token",
+    "symbol": "WXT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

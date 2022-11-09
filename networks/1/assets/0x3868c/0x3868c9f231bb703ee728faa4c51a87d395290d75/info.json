@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3868c9f231bb703ee728faa4c51a87d395290d75",
+  "displayName": "PrivateDigitalCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PrivateDigitalCoin",
+    "symbol": "PDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

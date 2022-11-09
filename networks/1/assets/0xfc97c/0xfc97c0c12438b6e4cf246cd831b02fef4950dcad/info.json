@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc97c0c12438b6e4cf246cd831b02fef4950dcad",
+  "displayName": "One Share",
+  "type": "TOKEN",
+  "token": {
+    "name": "One Share",
+    "symbol": "ONS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

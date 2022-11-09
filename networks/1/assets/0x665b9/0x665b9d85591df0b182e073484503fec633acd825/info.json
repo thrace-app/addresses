@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x665b9d85591df0b182e073484503fec633acd825",
+  "displayName": "Dubai Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dubai Token",
+    "symbol": "Dubai",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

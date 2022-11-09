@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6c5f2856917c3a007d12433a7a0fff5bd4637c7",
+  "displayName": "Eth Volcano",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eth Volcano",
+    "symbol": "Volcano",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83e031005ecb771b7ff900b3c7b0bdde7f521c08",
+  "displayName": "PaintToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PaintToken",
+    "symbol": "PAINT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

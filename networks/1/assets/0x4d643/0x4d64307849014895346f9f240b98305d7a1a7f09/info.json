@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d64307849014895346f9f240b98305d7a1a7f09",
+  "displayName": "Elon Moon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Moon",
+    "symbol": "$ELONMOON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

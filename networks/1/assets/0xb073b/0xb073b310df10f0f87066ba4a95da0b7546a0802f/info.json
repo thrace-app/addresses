@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb073b310df10f0f87066ba4a95da0b7546a0802f",
+  "displayName": "OmnichainToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "OmnichainToken",
+    "symbol": "OMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

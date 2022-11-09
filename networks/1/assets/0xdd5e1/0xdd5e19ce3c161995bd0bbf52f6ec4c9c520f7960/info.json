@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd5e19ce3c161995bd0bbf52f6ec4c9c520f7960",
+  "displayName": "Lit Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lit Doge",
+    "symbol": "LITDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

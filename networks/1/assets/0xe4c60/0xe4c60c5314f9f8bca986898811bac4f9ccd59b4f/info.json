@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4c60c5314f9f8bca986898811bac4f9ccd59b4f",
+  "displayName": "TargetCorporationCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TargetCorporationCoin",
+    "symbol": "TCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

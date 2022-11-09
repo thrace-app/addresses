@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6ebea7b8cdcf322d0162f2bee11057c30de141b",
+  "displayName": "Protocol of Deez Nutz",
+  "type": "TOKEN",
+  "token": {
+    "name": "Protocol of Deez Nutz",
+    "symbol": "DeezNutz",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

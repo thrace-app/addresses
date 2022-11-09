@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf590a99d51917238eb7705dc4ec14e1e33f78550",
+  "displayName": "Bullet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bullet Token",
+    "symbol": "BULLET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

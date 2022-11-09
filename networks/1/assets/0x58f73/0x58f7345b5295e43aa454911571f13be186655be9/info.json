@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58f7345b5295e43aa454911571f13be186655be9",
+  "displayName": "Wrapped GRLC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped GRLC",
+    "symbol": "WGRLC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

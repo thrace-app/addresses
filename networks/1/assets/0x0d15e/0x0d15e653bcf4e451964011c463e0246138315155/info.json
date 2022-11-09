@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d15e653bcf4e451964011c463e0246138315155",
+  "displayName": "UDS",
+  "type": "TOKEN",
+  "token": {
+    "name": "UDS",
+    "symbol": "UDS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

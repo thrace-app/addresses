@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x202b0534a49fa306be03837a885ab0b66bc40a5d",
+  "displayName": "JUS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JUS Token",
+    "symbol": "JUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

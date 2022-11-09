@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ee99f9d7d5bc0c0e9ff4f5356e48e07403f23fa",
+  "displayName": "Rocket Shiba Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rocket Shiba Token",
+    "symbol": "ROCKSHI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

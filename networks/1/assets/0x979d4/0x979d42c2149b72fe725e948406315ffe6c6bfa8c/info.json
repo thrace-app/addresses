@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x979d42c2149b72fe725e948406315ffe6c6bfa8c",
+  "displayName": "Bulltest",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bulltest",
+    "symbol": "BLT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

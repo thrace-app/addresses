@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac5e23562893d2a2105fbb05f08a068a139ed825",
+  "displayName": "Kapex Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kapex Protocol",
+    "symbol": "KPX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

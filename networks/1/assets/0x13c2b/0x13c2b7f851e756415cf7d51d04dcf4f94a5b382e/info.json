@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13c2b7f851e756415cf7d51d04dcf4f94a5b382e",
+  "displayName": "CitexToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CitexToken",
+    "symbol": "CTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

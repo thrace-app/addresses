@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e83916ea2ef2d7a6064775662e163b2d4c330a7",
+  "displayName": "EthereumGasLimit",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumGasLimit",
+    "symbol": "EGL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

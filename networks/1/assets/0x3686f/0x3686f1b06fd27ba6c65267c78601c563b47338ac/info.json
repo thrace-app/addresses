@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3686f1b06fd27ba6c65267c78601c563b47338ac",
+  "displayName": "KeyGen",
+  "type": "TOKEN",
+  "token": {
+    "name": "KeyGen",
+    "symbol": "KEYGEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

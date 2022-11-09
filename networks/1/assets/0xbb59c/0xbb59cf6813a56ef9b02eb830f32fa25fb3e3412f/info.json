@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb59cf6813a56ef9b02eb830f32fa25fb3e3412f",
+  "displayName": "Non Fungible Frens",
+  "type": "TOKEN",
+  "token": {
+    "name": "Non Fungible Frens",
+    "symbol": "FREN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

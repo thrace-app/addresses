@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ed338382597f69ba72e439c7abf9afd6a48b01d",
+  "displayName": "Bill Gates",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bill Gates",
+    "symbol": "Gates",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

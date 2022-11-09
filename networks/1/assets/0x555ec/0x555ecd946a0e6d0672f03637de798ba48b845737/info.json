@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x555ecd946a0e6d0672f03637de798ba48b845737",
+  "displayName": "Spooky Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spooky Coin",
+    "symbol": "SPOOKY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

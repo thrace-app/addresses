@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa55efb42badcecb87a0cf05c17848e9af5d56bd2",
+  "displayName": "Crypto Park",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Park",
+    "symbol": "PARK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d1233cc46795e94029fda81aaadc1455d510f15",
+  "displayName": "Zero Collateral Dai",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zero Collateral Dai",
+    "symbol": "ZAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

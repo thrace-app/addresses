@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fb747e7feaaf3d749c433aa854a990628ca51dc",
+  "displayName": "Joro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Joro Token",
+    "symbol": "JORO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

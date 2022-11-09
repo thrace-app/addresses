@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb546eb039a65876a8c3d3ad412845f0e1b3678d",
+  "displayName": "ZNC Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZNC Finance",
+    "symbol": "ZNC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

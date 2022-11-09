@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2d2184e316fcd20b29c45ad0feab9a98d6d63b8f",
+  "displayName": "Lenny the Squirrel",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lenny the Squirrel",
+    "symbol": "LENNY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

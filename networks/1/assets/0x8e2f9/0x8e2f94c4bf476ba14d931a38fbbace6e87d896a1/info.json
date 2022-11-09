@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e2f94c4bf476ba14d931a38fbbace6e87d896a1",
+  "displayName": "Banana Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Banana Finance",
+    "symbol": "BFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

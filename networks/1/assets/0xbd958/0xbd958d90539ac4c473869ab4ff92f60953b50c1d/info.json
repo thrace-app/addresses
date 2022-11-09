@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd958d90539ac4c473869ab4ff92f60953b50c1d",
+  "displayName": "Crypto Voting Power",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Voting Power",
+    "symbol": "CVP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

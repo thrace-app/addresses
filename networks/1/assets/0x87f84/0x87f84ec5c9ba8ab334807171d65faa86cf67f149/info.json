@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87f84ec5c9ba8ab334807171d65faa86cf67f149",
+  "displayName": "BITIFEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "BITIFEX",
+    "symbol": "BITX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95f5e81447644b57fbdb6076edbd526985e2d953",
+  "displayName": "Super Star",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Star",
+    "symbol": "STAR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

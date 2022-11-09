@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77e6bcb57d402f8b0f197bfa376cb1784da6c834",
+  "displayName": "Giant Panda Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Giant Panda Token",
+    "symbol": "GPANDA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

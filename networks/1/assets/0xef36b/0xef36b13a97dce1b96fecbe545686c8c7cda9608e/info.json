@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef36b13a97dce1b96fecbe545686c8c7cda9608e",
+  "displayName": "Gamma Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gamma Coin",
+    "symbol": "GMA",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

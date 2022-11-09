@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e30bb7751d978cc74e1807d68245c97fde1fb51",
+  "displayName": "The Monster Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Monster Cat",
+    "symbol": "BAKENEKO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

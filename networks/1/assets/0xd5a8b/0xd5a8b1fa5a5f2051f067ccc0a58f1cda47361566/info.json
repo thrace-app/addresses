@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5a8b1fa5a5f2051f067ccc0a58f1cda47361566",
+  "displayName": "WETH2.0",
+  "type": "TOKEN",
+  "token": {
+    "name": "WETH2.0",
+    "symbol": "WETH2.0",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

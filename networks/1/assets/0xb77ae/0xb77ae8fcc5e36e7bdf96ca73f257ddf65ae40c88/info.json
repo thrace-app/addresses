@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb77ae8fcc5e36e7bdf96ca73f257ddf65ae40c88",
+  "displayName": "LassieToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LassieToken",
+    "symbol": "Lassie",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

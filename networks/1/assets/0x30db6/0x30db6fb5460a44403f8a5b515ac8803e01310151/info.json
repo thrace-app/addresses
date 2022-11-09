@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30db6fb5460a44403f8a5b515ac8803e01310151",
+  "displayName": "Quintillion Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quintillion Token",
+    "symbol": "QUU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

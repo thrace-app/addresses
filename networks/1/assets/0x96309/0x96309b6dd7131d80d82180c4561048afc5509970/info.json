@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96309b6dd7131d80d82180c4561048afc5509970",
+  "displayName": "Squidu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Squidu Token",
+    "symbol": "$SQUIDU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

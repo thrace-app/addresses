@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b3ac5386837dc563660fb6a0937dfaa5924333b",
+  "displayName": "Curve.fi yDAI/yUSDC/yUSDT/yBUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve.fi yDAI/yUSDC/yUSDT/yBUSD",
+    "symbol": "yDAI+yUSDC+yUSDT+yBUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

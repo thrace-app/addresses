@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c858e4d14578f385b7237cd307ac26b89231877",
+  "displayName": "zORI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "zORI Token",
+    "symbol": "zORI",
+    "decimals": 7,
+    "type": "ERC20"
+  }
+}

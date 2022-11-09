@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda7320e0377a8bc9561caa498fda778bcf0ad596",
+  "displayName": "unscoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "unscoin",
+    "symbol": "UNS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

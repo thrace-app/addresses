@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc69779c36fe542231b86e345f98010b0281cb2b5",
+  "displayName": "SafeMoneyBSC",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeMoneyBSC",
+    "symbol": "SafeMoney",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

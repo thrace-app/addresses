@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750",
+  "displayName": "Bytom",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bytom",
+    "symbol": "BTM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

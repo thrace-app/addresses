@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x531aa05e2e7c66cc256055f141b1152dc9ff8d06",
+  "displayName": "Big toad",
+  "type": "TOKEN",
+  "token": {
+    "name": "Big toad",
+    "symbol": "BIGTOAD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

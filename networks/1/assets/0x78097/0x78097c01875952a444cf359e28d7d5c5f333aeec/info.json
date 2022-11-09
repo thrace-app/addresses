@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78097c01875952a444cf359e28d7d5c5f333aeec",
+  "displayName": "K9 Wallet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "K9 Wallet Token",
+    "symbol": "K9WT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

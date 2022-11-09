@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb977981e00ee262ad2b1686089dafb39b6fdc976",
+  "displayName": "Indie Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Indie Coin",
+    "symbol": "INDIE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

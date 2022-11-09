@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9128eff3e26c408219a6e1e7767f601361dde7ff",
+  "displayName": "Super Sushi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Sushi",
+    "symbol": "SSS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

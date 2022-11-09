@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8ed2e622b48a8f72338436604ff4fec0ef88532",
+  "displayName": "Regular Collateral Dai",
+  "type": "TOKEN",
+  "token": {
+    "name": "Regular Collateral Dai",
+    "symbol": "RAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

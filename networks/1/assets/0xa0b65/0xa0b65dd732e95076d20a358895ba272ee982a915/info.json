@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa0b65dd732e95076d20a358895ba272ee982a915",
+  "displayName": "Soft Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Soft Bitcoin",
+    "symbol": "SBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

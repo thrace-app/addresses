@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe2b1e7adf078805dc0a6d7041649e71203f754ba",
+  "displayName": "Santiago Academy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Santiago Academy Token",
+    "symbol": "SAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x102651c357fc873c236e05177472e77401a783b6",
+  "displayName": "Simba Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Simba Coin",
+    "symbol": "SIMBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

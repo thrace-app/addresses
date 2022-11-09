@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2051511b9b121394fa75b8f7d4e7424337af687",
+  "displayName": "DAOhaus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAOhaus Token",
+    "symbol": "HAUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

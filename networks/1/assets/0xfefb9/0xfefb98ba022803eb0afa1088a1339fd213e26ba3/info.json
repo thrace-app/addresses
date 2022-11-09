@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfefb98ba022803eb0afa1088a1339fd213e26ba3",
+  "displayName": "Core Chain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Core Chain Token",
+    "symbol": "COREC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

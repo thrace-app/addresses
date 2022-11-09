@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc5c698051b3a68bd083ad1d9366bac4a68459e9",
+  "displayName": "Bradex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bradex",
+    "symbol": "BRX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

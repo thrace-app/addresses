@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7edcdc92f46235fd407666b569c2200d5f34bb1",
+  "displayName": "@BojackToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "@BojackToken",
+    "symbol": "Bojack",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

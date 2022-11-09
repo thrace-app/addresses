@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb55732a15b3dc5d6e8d4adf40634f37470da71fa",
+  "displayName": "ECPN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ECPN Token",
+    "symbol": "ECPN",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56783d951bbaf655dd4976b0811dc786a9e46701",
+  "displayName": "Communication world token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Communication world token",
+    "symbol": "CWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

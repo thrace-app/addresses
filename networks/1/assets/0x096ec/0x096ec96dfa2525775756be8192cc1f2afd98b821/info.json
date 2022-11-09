@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x096ec96dfa2525775756be8192cc1f2afd98b821",
+  "displayName": "FreedomPumpToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FreedomPumpToken",
+    "symbol": "FPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68bcc533a505801a4417892fb3c0f750be94d8d3",
+  "displayName": "minicoldBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "minicoldBank",
+    "symbol": "miniCOLD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

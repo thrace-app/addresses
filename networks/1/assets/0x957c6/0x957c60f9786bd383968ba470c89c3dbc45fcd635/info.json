@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x957c60f9786bd383968ba470c89c3dbc45fcd635",
+  "displayName": "ETHC",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETHC",
+    "symbol": "etherscan",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

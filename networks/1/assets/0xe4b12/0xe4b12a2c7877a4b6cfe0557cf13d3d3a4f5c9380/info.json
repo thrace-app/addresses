@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4b12a2c7877a4b6cfe0557cf13d3d3a4f5c9380",
+  "displayName": "Pug token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pug token",
+    "symbol": "PUG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

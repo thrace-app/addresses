@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ec82f211178abcd7629965d0298b1e99aefac66",
+  "displayName": "WoofChat",
+  "type": "TOKEN",
+  "token": {
+    "name": "WoofChat",
+    "symbol": "WCHAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

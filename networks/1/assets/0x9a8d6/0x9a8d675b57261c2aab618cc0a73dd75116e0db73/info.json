@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a8d675b57261c2aab618cc0a73dd75116e0db73",
+  "displayName": "EthGold",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthGold",
+    "symbol": "ETHGOLD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

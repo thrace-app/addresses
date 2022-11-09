@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8980c16cb7d51125200080897085ae3e8696a9d4",
+  "displayName": "Wrapped PEPS",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped PEPS",
+    "symbol": "wPEPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

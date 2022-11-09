@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77780e216e05d484847781be36621b74fa6dbcbf",
+  "displayName": "CrazyBurningCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CrazyBurningCoin",
+    "symbol": "CBCN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

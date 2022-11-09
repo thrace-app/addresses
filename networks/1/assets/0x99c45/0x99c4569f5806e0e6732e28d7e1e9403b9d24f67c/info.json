@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99c4569f5806e0e6732e28d7e1e9403b9d24f67c",
+  "displayName": "測試空氣幣",
+  "type": "TOKEN",
+  "token": {
+    "name": "測試空氣幣",
+    "symbol": "AAIR",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

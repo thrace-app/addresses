@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04c7adebe1c471a854a5f57da721711272264090",
+  "displayName": "DeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi",
+    "symbol": "DEFI",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbf59aaa39cd0faa1ff6d1ae8b157a293530a900",
+  "displayName": "RocketBunny",
+  "type": "TOKEN",
+  "token": {
+    "name": "RocketBunny",
+    "symbol": "ROCKETBUNNY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

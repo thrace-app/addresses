@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2233a60b9d050b22a7a13afc929bc083c808dd49",
+  "displayName": "Medusa",
+  "type": "TOKEN",
+  "token": {
+    "name": "Medusa",
+    "symbol": "MDS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

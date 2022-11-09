@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1dd4a7f62742da7ee1217543eefb9ba4e2a27f49",
+  "displayName": "DogeBonk",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogeBonk",
+    "symbol": "DOBO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

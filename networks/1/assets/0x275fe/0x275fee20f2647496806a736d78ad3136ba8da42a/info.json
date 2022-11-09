@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x275fee20f2647496806a736d78ad3136ba8da42a",
+  "displayName": "Inertia.Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inertia.Money",
+    "symbol": "INR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

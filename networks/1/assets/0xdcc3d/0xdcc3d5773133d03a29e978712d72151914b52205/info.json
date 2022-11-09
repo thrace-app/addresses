@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdcc3d5773133d03a29e978712d72151914b52205",
+  "displayName": "SportToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SportToken",
+    "symbol": "SRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

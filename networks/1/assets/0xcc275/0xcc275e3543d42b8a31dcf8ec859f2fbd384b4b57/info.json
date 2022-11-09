@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc275e3543d42b8a31dcf8ec859f2fbd384b4b57",
+  "displayName": "FOMO Gaming Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FOMO Gaming Token",
+    "symbol": "FMG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

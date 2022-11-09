@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ee430fd04cae74dd2717c76652e3766adb46059",
+  "displayName": "ArtCoinFund",
+  "type": "TOKEN",
+  "token": {
+    "name": "ArtCoinFund",
+    "symbol": "ACF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

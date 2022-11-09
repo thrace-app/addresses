@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6dc5ea91207386114178873a8f741611d215cb34",
+  "displayName": "VB token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VB token",
+    "symbol": "VBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f43e498ad8f7a06b9384162af5d11e45f2d543c",
+  "displayName": "the charity token",
+  "type": "TOKEN",
+  "token": {
+    "name": "the charity token",
+    "symbol": "ECI",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

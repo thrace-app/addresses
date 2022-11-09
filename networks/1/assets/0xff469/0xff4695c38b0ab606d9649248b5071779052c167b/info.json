@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff4695c38b0ab606d9649248b5071779052c167b",
+  "displayName": "Daemon Assets",
+  "type": "TOKEN",
+  "token": {
+    "name": "Daemon Assets",
+    "symbol": "DA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x504f1a9a516d78568302a7c69244e8afa77292fa",
+  "displayName": "UpDogs Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UpDogs Token",
+    "symbol": "UpDogs",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

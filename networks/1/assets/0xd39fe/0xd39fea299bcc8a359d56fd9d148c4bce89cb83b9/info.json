@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd39fea299bcc8a359d56fd9d148c4bce89cb83b9",
+  "displayName": "uncensored Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "uncensored Token",
+    "symbol": "ucs",
+    "decimals": 7,
+    "type": "ERC20"
+  }
+}

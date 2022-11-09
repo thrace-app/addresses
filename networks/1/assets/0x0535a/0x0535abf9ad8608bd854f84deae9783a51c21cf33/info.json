@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0535abf9ad8608bd854f84deae9783a51c21cf33",
+  "displayName": "TEA Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "TEA Protocol",
+    "symbol": "$TEA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

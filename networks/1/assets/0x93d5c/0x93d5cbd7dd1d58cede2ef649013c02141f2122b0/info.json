@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93d5cbd7dd1d58cede2ef649013c02141f2122b0",
+  "displayName": "Medalcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Medalcoin",
+    "symbol": "mdal",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

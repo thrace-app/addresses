@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e83f238f01a80943641cd1de78fcc53b013964c",
+  "displayName": "CryptoFight",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoFight",
+    "symbol": "FIGHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

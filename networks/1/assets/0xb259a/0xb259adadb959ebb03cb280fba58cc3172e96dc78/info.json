@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb259adadb959ebb03cb280fba58cc3172e96dc78",
+  "displayName": "kiancoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "kiancoin",
+    "symbol": "KIAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

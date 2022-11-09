@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1652d0194dbf2737e156baa5674ed80d545f60d1",
+  "displayName": "PolkaOracle Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkaOracle Token",
+    "symbol": "POT",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

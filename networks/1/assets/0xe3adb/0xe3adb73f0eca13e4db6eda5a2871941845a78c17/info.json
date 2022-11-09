@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3adb73f0eca13e4db6eda5a2871941845a78c17",
+  "displayName": "XRCToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "XRCToken",
+    "symbol": "XRC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7589bfea034e2431987d46192148ff06550fba4e",
+  "displayName": "Create ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Create ETH",
+    "symbol": "CR8ETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

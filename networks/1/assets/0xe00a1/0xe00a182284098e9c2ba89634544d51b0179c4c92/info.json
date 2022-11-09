@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe00a182284098e9c2ba89634544d51b0179c4c92",
+  "displayName": "Dream Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dream Cash",
+    "symbol": "CASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

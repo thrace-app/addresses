@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71b96f6aa340f1966945927a209d983b80a27b41",
+  "displayName": "Wrapped Aptos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Aptos",
+    "symbol": "wAPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

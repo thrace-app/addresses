@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2121c54b5281c2e3e648ca2e2bcd41147df440ff",
+  "displayName": "XAmple",
+  "type": "TOKEN",
+  "token": {
+    "name": "XAmple",
+    "symbol": "XMPL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

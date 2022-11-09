@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f790079635d07c9963a4094ef0e988354eddbfd",
+  "displayName": "Linear Earn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Linear Earn Token",
+    "symbol": "LET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

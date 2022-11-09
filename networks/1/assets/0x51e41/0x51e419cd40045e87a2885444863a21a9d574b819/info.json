@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51e419cd40045e87a2885444863a21a9d574b819",
+  "displayName": "Galaxy Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Galaxy Finance",
+    "symbol": "GLXY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf6969079ec385de4e2286a2e99f98c3d6f013d5",
+  "displayName": "Freedom Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Freedom Doge",
+    "symbol": "FREEDOMDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

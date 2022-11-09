@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x199c3ddedb0e91db3897039af27c23286269f088",
+  "displayName": "DecentraDex",
+  "type": "TOKEN",
+  "token": {
+    "name": "DecentraDex",
+    "symbol": "DCX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

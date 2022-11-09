@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x485d17a6f1b8780392d53d64751824253011a260",
+  "displayName": "ChronoTech Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChronoTech Token",
+    "symbol": "TIME",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfdc5b9efc9defd30219e00c4ab296839c7ff405b",
+  "displayName": "TRZToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TRZToken",
+    "symbol": "TRZ",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

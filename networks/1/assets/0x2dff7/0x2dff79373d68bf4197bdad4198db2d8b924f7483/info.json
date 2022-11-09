@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dff79373d68bf4197bdad4198db2d8b924f7483",
+  "displayName": "Bee Bee Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bee Bee Token",
+    "symbol": "BBT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

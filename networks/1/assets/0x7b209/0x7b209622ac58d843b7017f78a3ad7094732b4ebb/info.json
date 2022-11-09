@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b209622ac58d843b7017f78a3ad7094732b4ebb",
+  "displayName": "Morty Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Morty Coin",
+    "symbol": "MRTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

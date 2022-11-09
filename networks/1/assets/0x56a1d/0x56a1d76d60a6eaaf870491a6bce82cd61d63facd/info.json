@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56a1d76d60a6eaaf870491a6bce82cd61d63facd",
+  "displayName": "PakBeanToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PakBeanToken",
+    "symbol": "PKB",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

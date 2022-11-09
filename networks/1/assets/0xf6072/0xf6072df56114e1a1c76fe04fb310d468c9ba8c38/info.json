@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6072df56114e1a1c76fe04fb310d468c9ba8c38",
+  "displayName": "Iron Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Iron Doge",
+    "symbol": "IRONDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

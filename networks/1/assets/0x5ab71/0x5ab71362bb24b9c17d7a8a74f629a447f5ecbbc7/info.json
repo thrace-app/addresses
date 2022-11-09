@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ab71362bb24b9c17d7a8a74f629a447f5ecbbc7",
+  "displayName": "StepBro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "StepBro Token",
+    "symbol": "STEPBRO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

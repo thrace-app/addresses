@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f18642c9e7f6ebcedb4c7e7e1e5fe492dd42546",
+  "displayName": "EVIUM Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EVIUM Coin",
+    "symbol": "EVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

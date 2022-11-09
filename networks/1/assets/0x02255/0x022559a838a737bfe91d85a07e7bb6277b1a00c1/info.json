@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x022559a838a737bfe91d85a07e7bb6277b1a00c1",
+  "displayName": "Trippy Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trippy Ape",
+    "symbol": "TRIPPYAPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

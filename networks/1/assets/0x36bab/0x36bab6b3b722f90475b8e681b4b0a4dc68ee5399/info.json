@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36bab6b3b722f90475b8e681b4b0a4dc68ee5399",
+  "displayName": "Ethereum Volatility Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Volatility Token",
+    "symbol": "ETHVol",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1390223315e4ac5a7aa4f41944206b5234bc26e4",
+  "displayName": "CupcakeSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "CupcakeSwap",
+    "symbol": "CUP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

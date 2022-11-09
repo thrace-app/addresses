@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c8fbb39e908db056b3c9bd2d2e35455e93818ff",
+  "displayName": "ZeroSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZeroSwap",
+    "symbol": "ZRS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

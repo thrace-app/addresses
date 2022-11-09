@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9655eb00f7555eefed202116815ff1878ded711f",
+  "displayName": "Goku USDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goku USDC",
+    "symbol": "GOKUSDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

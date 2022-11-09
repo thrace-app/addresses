@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4aa7fe385df162161dc74ee5f5dce01af32eed15",
+  "displayName": "The Bear Market",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Bear Market",
+    "symbol": "BEAR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

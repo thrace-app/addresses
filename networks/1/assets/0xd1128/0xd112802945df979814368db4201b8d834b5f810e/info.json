@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd112802945df979814368db4201b8d834b5f810e",
+  "displayName": "Feed the village",
+  "type": "TOKEN",
+  "token": {
+    "name": "Feed the village",
+    "symbol": "FEED",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

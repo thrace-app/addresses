@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccf8bdedbc9903f51ecd0786e69e75f38c142ef1",
+  "displayName": "STZ Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "STZ Token",
+    "symbol": "STZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c668e913d5b9395a43c075bf87534460cee15f9",
+  "displayName": "BridgeTestToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BridgeTestToken",
+    "symbol": "BTT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

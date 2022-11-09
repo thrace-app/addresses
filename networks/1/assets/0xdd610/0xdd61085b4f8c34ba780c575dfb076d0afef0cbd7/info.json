@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd61085b4f8c34ba780c575dfb076d0afef0cbd7",
+  "displayName": "BangBang",
+  "type": "TOKEN",
+  "token": {
+    "name": "BangBang",
+    "symbol": "BANG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

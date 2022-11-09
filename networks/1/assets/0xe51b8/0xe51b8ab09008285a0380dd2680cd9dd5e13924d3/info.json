@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe51b8ab09008285a0380dd2680cd9dd5e13924d3",
+  "displayName": "BallSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "BallSwap",
+    "symbol": "BSP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

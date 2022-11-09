@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11b893b40012c705b2ce2786db018c4cb8201c6a",
+  "displayName": "WorldCryptoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WorldCryptoToken",
+    "symbol": "WCT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

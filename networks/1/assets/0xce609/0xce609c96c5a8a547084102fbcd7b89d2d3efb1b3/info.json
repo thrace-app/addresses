@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce609c96c5a8a547084102fbcd7b89d2d3efb1b3",
+  "displayName": "Nadir Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nadir Token",
+    "symbol": "DIR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

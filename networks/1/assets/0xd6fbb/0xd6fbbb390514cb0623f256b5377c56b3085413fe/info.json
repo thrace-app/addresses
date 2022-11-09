@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6fbbb390514cb0623f256b5377c56b3085413fe",
+  "displayName": "Libra Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Libra Coin",
+    "symbol": "LBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

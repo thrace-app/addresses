@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a95f68665ae1acae59ed42b28cb332bfa4dfef3",
+  "displayName": "Spacedog Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spacedog Coin",
+    "symbol": "SDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbe3b3954275422dfa62ae1821c8291a7bcb5bf3",
+  "displayName": "Doge Pump",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Pump",
+    "symbol": "Dogepump",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

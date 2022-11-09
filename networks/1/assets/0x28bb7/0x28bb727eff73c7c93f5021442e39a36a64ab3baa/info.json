@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x28bb727eff73c7c93f5021442e39a36a64ab3baa",
+  "displayName": "MoonFarmer",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonFarmer",
+    "symbol": "MFM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

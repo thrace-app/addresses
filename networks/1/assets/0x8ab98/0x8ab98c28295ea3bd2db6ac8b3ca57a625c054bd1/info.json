@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ab98c28295ea3bd2db6ac8b3ca57a625c054bd1",
+  "displayName": "SunflowerToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SunflowerToken",
+    "symbol": "SFR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

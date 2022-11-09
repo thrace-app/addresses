@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44cbf53666ee06327869ff06a10205f83c76ac58",
+  "displayName": "FantasyHeroes",
+  "type": "TOKEN",
+  "token": {
+    "name": "FantasyHeroes",
+    "symbol": "HEROES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x462304f4776d1fec747622762819522420e85726",
+  "displayName": "VToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "VToken",
+    "symbol": "VTKN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

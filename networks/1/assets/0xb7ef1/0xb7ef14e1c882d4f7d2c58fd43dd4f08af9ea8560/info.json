@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7ef14e1c882d4f7d2c58fd43dd4f08af9ea8560",
+  "displayName": "aVault",
+  "type": "TOKEN",
+  "token": {
+    "name": "aVault",
+    "symbol": "AVAU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

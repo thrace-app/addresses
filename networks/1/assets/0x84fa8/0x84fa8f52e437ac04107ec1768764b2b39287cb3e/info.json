@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84fa8f52e437ac04107ec1768764b2b39287cb3e",
+  "displayName": "Grove Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grove Token",
+    "symbol": "GVR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

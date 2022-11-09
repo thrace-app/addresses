@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x940f0c2e9af3144dc57abcead1ed8dd635dcafec",
+  "displayName": "Jedi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jedi Token",
+    "symbol": "JEDI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

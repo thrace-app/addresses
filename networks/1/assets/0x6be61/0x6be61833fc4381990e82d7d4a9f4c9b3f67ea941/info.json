@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941",
+  "displayName": "Hotbit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hotbit Token",
+    "symbol": "HTB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

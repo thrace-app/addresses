@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24203996dca9131aad08f7be29e227342a0946b9",
+  "displayName": "VendingChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "VendingChain",
+    "symbol": "VEND",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

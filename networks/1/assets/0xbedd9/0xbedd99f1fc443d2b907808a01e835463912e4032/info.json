@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbedd99f1fc443d2b907808a01e835463912e4032",
+  "displayName": "Anti-Frontrunning Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Anti-Frontrunning Protocol",
+    "symbol": "XFR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

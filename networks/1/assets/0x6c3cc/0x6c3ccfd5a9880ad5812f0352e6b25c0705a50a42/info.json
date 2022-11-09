@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c3ccfd5a9880ad5812f0352e6b25c0705a50a42",
+  "displayName": "OpenSwapCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "OpenSwapCoin",
+    "symbol": "OSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

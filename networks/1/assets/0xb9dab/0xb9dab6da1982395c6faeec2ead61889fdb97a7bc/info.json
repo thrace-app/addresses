@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb9dab6da1982395c6faeec2ead61889fdb97a7bc",
+  "displayName": "LowCap",
+  "type": "TOKEN",
+  "token": {
+    "name": "LowCap",
+    "symbol": "LOW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

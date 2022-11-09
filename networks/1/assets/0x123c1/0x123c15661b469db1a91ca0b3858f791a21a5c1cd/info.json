@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x123c15661b469db1a91ca0b3858f791a21a5c1cd",
+  "displayName": "DOGMA",
+  "type": "TOKEN",
+  "token": {
+    "name": "DOGMA",
+    "symbol": "DOGMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

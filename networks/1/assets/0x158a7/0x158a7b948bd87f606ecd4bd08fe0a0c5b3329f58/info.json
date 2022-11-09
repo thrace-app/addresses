@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x158a7b948bd87f606ecd4bd08fe0a0c5b3329f58",
+  "displayName": "Porsche Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Porsche Token",
+    "symbol": "PSRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

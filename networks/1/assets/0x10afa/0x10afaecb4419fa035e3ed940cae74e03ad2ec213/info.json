@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10afaecb4419fa035e3ed940cae74e03ad2ec213",
+  "displayName": "Manual Wrapped KLP",
+  "type": "TOKEN",
+  "token": {
+    "name": "Manual Wrapped KLP",
+    "symbol": "xKLP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcced5b8288086be8c38e23567e684c3740be4d48",
+  "displayName": "Roulette Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Roulette Token",
+    "symbol": "RLT",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

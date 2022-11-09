@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x315ed73f5d92e9d40fee19466c8069b03c7944ba",
+  "displayName": "Mini TamaDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini TamaDoge",
+    "symbol": "MTD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

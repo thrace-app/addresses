@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71a3f165217c2e7a0fe2568b40f9f7438c66f861",
+  "displayName": "Yield Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yield Bank",
+    "symbol": "yB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

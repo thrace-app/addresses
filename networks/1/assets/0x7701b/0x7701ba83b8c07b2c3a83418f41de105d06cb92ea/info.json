@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7701ba83b8c07b2c3a83418f41de105d06cb92ea",
+  "displayName": "FluffskyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FluffskyToken",
+    "symbol": "FLUFFSKY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

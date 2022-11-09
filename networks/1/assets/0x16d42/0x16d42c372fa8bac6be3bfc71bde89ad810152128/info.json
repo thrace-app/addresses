@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16d42c372fa8bac6be3bfc71bde89ad810152128",
+  "displayName": "Boob Payment",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boob Payment",
+    "symbol": "BOOBPY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

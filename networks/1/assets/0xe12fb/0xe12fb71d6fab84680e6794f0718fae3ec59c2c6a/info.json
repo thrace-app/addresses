@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe12fb71d6fab84680e6794f0718fae3ec59c2c6a",
+  "displayName": "Antique Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Antique Exchange Token",
+    "symbol": "AEXT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf01c9299e8a6f361a06714547a5ce21901ca045a",
+  "displayName": "CerberusETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "CerberusETH",
+    "symbol": "Cerberus",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

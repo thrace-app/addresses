@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0bd4827ffcd840841e8bd3017169a74223d64962",
+  "displayName": "Cool pool",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cool pool",
+    "symbol": "coo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

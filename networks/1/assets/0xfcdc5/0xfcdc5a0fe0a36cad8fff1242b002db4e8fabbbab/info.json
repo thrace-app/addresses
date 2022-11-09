@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfcdc5a0fe0a36cad8fff1242b002db4e8fabbbab",
+  "displayName": "Rent Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rent Money",
+    "symbol": "RNT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

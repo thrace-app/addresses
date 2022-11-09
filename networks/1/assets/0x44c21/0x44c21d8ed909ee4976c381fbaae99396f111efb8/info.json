@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44c21d8ed909ee4976c381fbaae99396f111efb8",
+  "displayName": "BayBCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BayBCoin",
+    "symbol": "BYBC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

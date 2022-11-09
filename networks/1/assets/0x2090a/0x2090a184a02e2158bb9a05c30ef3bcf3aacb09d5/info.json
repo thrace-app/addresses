@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2090a184a02e2158bb9a05c30ef3bcf3aacb09d5",
+  "displayName": "Ski Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ski Coin",
+    "symbol": "SKI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

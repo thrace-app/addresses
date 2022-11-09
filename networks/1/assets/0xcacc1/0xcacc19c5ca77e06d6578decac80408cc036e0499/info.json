@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcacc19c5ca77e06d6578decac80408cc036e0499",
+  "displayName": "MonfterToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MonfterToken",
+    "symbol": "MON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d79b0e755b999c52c694112e75c60dbbacf773a",
+  "displayName": "GrumpyDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "GrumpyDoge",
+    "symbol": "GrumpDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

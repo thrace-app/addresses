@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8990983f2465e59eb4255250dfbc28a0c21e0a44",
+  "displayName": "TrustPad",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrustPad",
+    "symbol": "TPAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

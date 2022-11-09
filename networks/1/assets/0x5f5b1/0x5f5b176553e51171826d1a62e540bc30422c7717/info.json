@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f5b176553e51171826d1a62e540bc30422c7717",
+  "displayName": "PLA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PLA Token",
+    "symbol": "PLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a7af5307a4277d2dc95cdcd5709c806c095a44d",
+  "displayName": "Diamond Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Diamond Doge",
+    "symbol": "DIADOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

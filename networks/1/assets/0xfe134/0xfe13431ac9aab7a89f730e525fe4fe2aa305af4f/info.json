@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe13431ac9aab7a89f730e525fe4fe2aa305af4f",
+  "displayName": "NaLa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NaLa Token",
+    "symbol": "NaLa",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

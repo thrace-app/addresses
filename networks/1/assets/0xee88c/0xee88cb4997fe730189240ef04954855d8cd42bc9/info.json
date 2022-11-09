@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee88cb4997fe730189240ef04954855d8cd42bc9",
+  "displayName": "HappyDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "HappyDAO",
+    "symbol": "HappyDAO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

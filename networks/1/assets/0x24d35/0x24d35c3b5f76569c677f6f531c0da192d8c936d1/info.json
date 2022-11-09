@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24d35c3b5f76569c677f6f531c0da192d8c936d1",
+  "displayName": "Mongoose Ramen",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mongoose Ramen",
+    "symbol": "MONGRAMEN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

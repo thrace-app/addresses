@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe5430b2f1ef05252b1bf8e5fe71a00d88b4d6d8",
+  "displayName": "Bank of Tao",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of Tao",
+    "symbol": "BANKOFTAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

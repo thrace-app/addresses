@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb93e5ad2a5b9c9f5383f5e03094700cdc0a45734",
+  "displayName": "GrapeDefiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GrapeDefiToken",
+    "symbol": "GDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

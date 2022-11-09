@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77e42cfefad508c6876cc75ea52414941c5b2c07",
+  "displayName": "Banzai",
+  "type": "TOKEN",
+  "token": {
+    "name": "Banzai",
+    "symbol": "BANZAI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

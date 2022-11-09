@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd178724f70082a89e9b5537aa7a3466bacb2c737",
+  "displayName": "Gorilla Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gorilla Token",
+    "symbol": "GOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

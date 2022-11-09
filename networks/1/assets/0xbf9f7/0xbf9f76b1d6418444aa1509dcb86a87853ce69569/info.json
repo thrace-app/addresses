@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf9f76b1d6418444aa1509dcb86a87853ce69569",
+  "displayName": "Bird is the Word",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bird is the Word",
+    "symbol": "BIRD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

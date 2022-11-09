@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe416b542ceca081f4d6f1738bca000b24f8363f7",
+  "displayName": "DBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "DBTC",
+    "symbol": "DBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

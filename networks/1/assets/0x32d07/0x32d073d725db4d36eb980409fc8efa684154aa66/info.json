@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32d073d725db4d36eb980409fc8efa684154aa66",
+  "displayName": "ExtremeBurnToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ExtremeBurnToken",
+    "symbol": "EBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

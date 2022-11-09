@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc672ca67ba4746b1face90fa1533ec273665d55a",
+  "displayName": "reBaked Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "reBaked Token",
+    "symbol": "BAKED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

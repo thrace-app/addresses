@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12d1a9b93406e2c803801e9396d7b1870ce3ebac",
+  "displayName": "Dalmatian coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dalmatian coin",
+    "symbol": "DAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

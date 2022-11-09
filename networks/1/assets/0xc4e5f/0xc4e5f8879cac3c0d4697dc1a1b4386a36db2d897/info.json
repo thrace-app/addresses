@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4e5f8879cac3c0d4697dc1a1b4386a36db2d897",
+  "displayName": "Hex USDT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hex USDT",
+    "symbol": "HEXUSDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

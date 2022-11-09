@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22c9186221b26eea832b389248be2e9ac48523f6",
+  "displayName": "HotDew Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HotDew Token",
+    "symbol": "HOTDEW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

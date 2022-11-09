@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd682d895035293ce611a04010ec20c89bd958b07",
+  "displayName": "Curve.fi Factory Crypto Pool: test",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve.fi Factory Crypto Pool: test",
+    "symbol": "test-f",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

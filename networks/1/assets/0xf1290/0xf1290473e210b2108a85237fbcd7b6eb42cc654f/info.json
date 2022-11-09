@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
+  "displayName": "HedgeTrade",
+  "type": "TOKEN",
+  "token": {
+    "name": "HedgeTrade",
+    "symbol": "HEDG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

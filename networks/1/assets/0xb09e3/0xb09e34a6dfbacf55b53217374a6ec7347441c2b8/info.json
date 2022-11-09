@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb09e34a6dfbacf55b53217374a6ec7347441c2b8",
+  "displayName": "Phission Token POS",
+  "type": "TOKEN",
+  "token": {
+    "name": "Phission Token POS",
+    "symbol": "PHIs",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

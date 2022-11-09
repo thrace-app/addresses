@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdffc63f92c939deb112d88735ade3b4d21b6d491",
+  "displayName": "Devour Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Devour Token",
+    "symbol": "RESTAURANTS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

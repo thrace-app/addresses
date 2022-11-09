@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ab56835e852e02e08fd518a3507365f6e3382e2",
+  "displayName": "Cardano Classic",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cardano Classic",
+    "symbol": "ADAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

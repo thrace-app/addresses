@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25b2b531ef13c457f1f599f25cd8b90218baea2f",
+  "displayName": "Floos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Floos",
+    "symbol": "Floos",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

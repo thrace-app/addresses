@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50be87eacbe91b96dfb08c544322b86bc4fb07fb",
+  "displayName": "Fluidity",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fluidity",
+    "symbol": "FLUID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

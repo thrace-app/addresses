@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd50825f50384bc40d5a10118996ef503b3670afd",
+  "displayName": "tsla.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "tsla.finance",
+    "symbol": "TSLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

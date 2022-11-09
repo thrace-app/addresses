@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e847989c9ef9a87b9117af094d19098b93e780f",
+  "displayName": "Community Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Community Token",
+    "symbol": "COM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

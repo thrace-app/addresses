@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1c22654b3ea1a4ae7a894b3f37595d66887f4a9",
+  "displayName": "DeFi Emerging Asset",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi Emerging Asset",
+    "symbol": "DEA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

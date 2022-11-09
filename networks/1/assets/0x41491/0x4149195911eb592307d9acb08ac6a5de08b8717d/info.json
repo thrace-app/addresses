@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4149195911eb592307d9acb08ac6a5de08b8717d",
+  "displayName": "Epic Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Epic Cash",
+    "symbol": "EPIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

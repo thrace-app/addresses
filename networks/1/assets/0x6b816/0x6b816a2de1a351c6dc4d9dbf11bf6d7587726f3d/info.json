@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b816a2de1a351c6dc4d9dbf11bf6d7587726f3d",
+  "displayName": "Greeks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Greeks",
+    "symbol": "Greek",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

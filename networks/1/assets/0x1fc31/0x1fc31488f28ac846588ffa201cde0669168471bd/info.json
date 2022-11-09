@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fc31488f28ac846588ffa201cde0669168471bd",
+  "displayName": "UAX",
+  "type": "TOKEN",
+  "token": {
+    "name": "UAX",
+    "symbol": "UAX",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

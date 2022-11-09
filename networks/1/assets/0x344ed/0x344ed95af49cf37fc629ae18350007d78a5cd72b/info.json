@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x344ed95af49cf37fc629ae18350007d78a5cd72b",
+  "displayName": "SendIt",
+  "type": "TOKEN",
+  "token": {
+    "name": "SendIt",
+    "symbol": "SENDIT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

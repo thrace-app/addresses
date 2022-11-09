@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12483ec095ff0f5cc99e354f5d42ce728857b420",
+  "displayName": "WormholeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WormholeToken",
+    "symbol": "WHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

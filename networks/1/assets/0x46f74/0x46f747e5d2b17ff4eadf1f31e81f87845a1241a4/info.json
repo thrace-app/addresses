@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46f747e5d2b17ff4eadf1f31e81f87845a1241a4",
+  "displayName": "Presale Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Presale Token",
+    "symbol": "PT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

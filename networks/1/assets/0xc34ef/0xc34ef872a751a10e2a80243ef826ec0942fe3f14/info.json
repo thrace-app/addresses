@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc34ef872a751a10e2a80243ef826ec0942fe3f14",
+  "displayName": "Bitcoin Uniswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Uniswap",
+    "symbol": "BTCu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

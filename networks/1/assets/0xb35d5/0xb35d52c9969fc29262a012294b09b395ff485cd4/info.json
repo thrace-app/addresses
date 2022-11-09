@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb35d52c9969fc29262a012294b09b395ff485cd4",
+  "displayName": "Rcoin chain token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rcoin chain token",
+    "symbol": "RCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

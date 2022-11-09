@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe9810fa450cb9233b18b847c2b4da96f11faf47a",
+  "displayName": "Gains",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gains",
+    "symbol": "$MOAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

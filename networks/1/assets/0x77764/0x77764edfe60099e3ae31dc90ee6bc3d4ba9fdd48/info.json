@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77764edfe60099e3ae31dc90ee6bc3d4ba9fdd48",
+  "displayName": "Muda Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Muda Coin",
+    "symbol": "MUDA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

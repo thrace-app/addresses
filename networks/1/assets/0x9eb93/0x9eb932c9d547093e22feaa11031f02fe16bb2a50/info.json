@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9eb932c9d547093e22feaa11031f02fe16bb2a50",
+  "displayName": "ZaFa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZaFa Token",
+    "symbol": "ZaFa",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x504c596864eeeb30acedfdd2cd04695ef43de279",
+  "displayName": "Proof of Meme",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Meme",
+    "symbol": "Meme DAO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x812e362da159206f158a5cd7b19a2c64bd5d5f0f",
+  "displayName": "Doge Ina",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Ina",
+    "symbol": "DINA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

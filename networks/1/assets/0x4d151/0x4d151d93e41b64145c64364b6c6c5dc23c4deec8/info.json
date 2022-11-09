@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d151d93e41b64145c64364b6c6c5dc23c4deec8",
+  "displayName": "MoonDust",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonDust",
+    "symbol": "$MoonDust",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d935d75889c0ce66aa50aac50508af502d6eb86",
+  "displayName": "BezosBucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "BezosBucks",
+    "symbol": "BEZOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

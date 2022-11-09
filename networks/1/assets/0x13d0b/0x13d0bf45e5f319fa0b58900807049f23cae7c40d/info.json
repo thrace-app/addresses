@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13d0bf45e5f319fa0b58900807049f23cae7c40d",
+  "displayName": "阅读币",
+  "type": "TOKEN",
+  "token": {
+    "name": "阅读币",
+    "symbol": "READ",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x830def377ff3631b41c4d8e0ab18459c81540922",
+  "displayName": "Pump Dump",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pump Dump",
+    "symbol": "PUDU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

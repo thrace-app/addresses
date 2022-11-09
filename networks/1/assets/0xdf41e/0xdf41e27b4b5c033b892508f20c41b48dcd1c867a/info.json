@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf41e27b4b5c033b892508f20c41b48dcd1c867a",
+  "displayName": "The DC Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The DC Protocol",
+    "symbol": "TheDC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97e539d3e68f5dc17a662068a020c35457ebfdd1",
+  "displayName": "Flopper Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flopper Finance Token",
+    "symbol": "Flopper",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

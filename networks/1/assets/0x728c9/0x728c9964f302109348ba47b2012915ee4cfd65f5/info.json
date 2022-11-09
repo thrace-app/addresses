@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x728c9964f302109348ba47b2012915ee4cfd65f5",
+  "displayName": "Slime Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Slime Doge",
+    "symbol": "Sloge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

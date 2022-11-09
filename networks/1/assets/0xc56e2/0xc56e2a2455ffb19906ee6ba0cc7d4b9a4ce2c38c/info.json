@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc56e2a2455ffb19906ee6ba0cc7d4b9a4ce2c38c",
+  "displayName": "COMP eToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "COMP eToken",
+    "symbol": "eCOMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

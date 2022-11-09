@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3543b022ce03e01599d7ea6d8002fda85aabd7b9",
+  "displayName": "The Alfa",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Alfa",
+    "symbol": "ALFA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

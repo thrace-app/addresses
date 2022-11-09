@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb56632eb65c3c0d7c8b5bb3e571b36143cc130e",
+  "displayName": "Aman Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aman Token",
+    "symbol": "$Aman",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0ab2381b967018cd0edfdf77216b06af0538d48",
+  "displayName": "TomoTouch Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TomoTouch Coin",
+    "symbol": "TOUCH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

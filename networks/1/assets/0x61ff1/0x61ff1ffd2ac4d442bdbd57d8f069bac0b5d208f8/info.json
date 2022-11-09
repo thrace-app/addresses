@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61ff1ffd2ac4d442bdbd57d8f069bac0b5d208f8",
+  "displayName": "WhirlwindToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WhirlwindToken",
+    "symbol": "WWTK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

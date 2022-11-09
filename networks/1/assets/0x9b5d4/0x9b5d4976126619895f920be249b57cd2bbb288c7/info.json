@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b5d4976126619895f920be249b57cd2bbb288c7",
+  "displayName": "BlocChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlocChain",
+    "symbol": "BC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5560865dab4a29fad0b2b24ff5d94fd90db65965",
+  "displayName": "Runefolio Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Runefolio Network Token",
+    "symbol": "xRNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b20fc68542050c0c360339a38cd348d57548351",
+  "displayName": "Hugo Troll",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hugo Troll",
+    "symbol": "MyHugo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

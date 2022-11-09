@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7f2d7accc3e549f033c51989f2c7171bec0c626",
+  "displayName": "MuskFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "MuskFi",
+    "symbol": "MSKFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

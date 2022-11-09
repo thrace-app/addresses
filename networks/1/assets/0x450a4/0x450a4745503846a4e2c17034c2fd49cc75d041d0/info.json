@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x450a4745503846a4e2c17034c2fd49cc75d041d0",
+  "displayName": "Samos Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Samos Token",
+    "symbol": "Samos",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

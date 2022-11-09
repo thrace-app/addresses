@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33d20575f20c6a1881f8ab08e69f6fbaffaeedf2",
+  "displayName": "BlueWizard",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlueWizard",
+    "symbol": "WIZ",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

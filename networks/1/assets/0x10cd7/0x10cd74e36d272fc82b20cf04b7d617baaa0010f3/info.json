@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10cd74e36d272fc82b20cf04b7d617baaa0010f3",
+  "displayName": "Polkareum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polkareum",
+    "symbol": "EDOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

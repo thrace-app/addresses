@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5bcd6581ac52513d1abbe23b06a5c362e6554a6",
+  "displayName": "Acme Yield Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Acme Yield Finance",
+    "symbol": "AYF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

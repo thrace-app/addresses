@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x730f3bb827b9a9ece07ed8ef6defdbe32e935a53",
+  "displayName": "uSwapFX",
+  "type": "TOKEN",
+  "token": {
+    "name": "uSwapFX",
+    "symbol": "UFX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

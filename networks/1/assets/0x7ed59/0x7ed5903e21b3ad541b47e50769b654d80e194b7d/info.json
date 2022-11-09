@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ed5903e21b3ad541b47e50769b654d80e194b7d",
+  "displayName": "AlphaDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlphaDAO",
+    "symbol": "ALPHA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

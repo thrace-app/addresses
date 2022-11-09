@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xddd460bbd9f79847ea08681563e8a9696867210c",
+  "displayName": "Spendcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spendcoin",
+    "symbol": "SPND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

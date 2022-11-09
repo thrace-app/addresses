@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x200212e13337f66aad758c009a49cb0235515dd3",
+  "displayName": "SDY",
+  "type": "TOKEN",
+  "token": {
+    "name": "SDY",
+    "symbol": "SDY.finance",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

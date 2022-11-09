@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
+  "displayName": "APM Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "APM Coin",
+    "symbol": "APM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

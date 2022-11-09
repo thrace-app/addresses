@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe04f1f74979dda4818e7cea22a49975726d040cc",
+  "displayName": "Honey Badger",
+  "type": "TOKEN",
+  "token": {
+    "name": "Honey Badger",
+    "symbol": "HONEY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

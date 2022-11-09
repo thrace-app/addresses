@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x040b1a7ec0ef64fcc4359ad1a26d25a0327ffc31",
+  "displayName": "nova mining token",
+  "type": "TOKEN",
+  "token": {
+    "name": "nova mining token",
+    "symbol": "NMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

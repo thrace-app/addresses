@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d503a5042a552ed9108ffc6437cf5da317522f1",
+  "displayName": "Rocket Fuel",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rocket Fuel",
+    "symbol": "FUEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

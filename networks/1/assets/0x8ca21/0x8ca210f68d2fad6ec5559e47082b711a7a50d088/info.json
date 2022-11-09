@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ca210f68d2fad6ec5559e47082b711a7a50d088",
+  "displayName": "Spell Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

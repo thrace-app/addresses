@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb76f2e7ad565e3fbb5dbc7ad1b3786928cc73164",
+  "displayName": "Edge network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Edge network Token",
+    "symbol": "ENT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

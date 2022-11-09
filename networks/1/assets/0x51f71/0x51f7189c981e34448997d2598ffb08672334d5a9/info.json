@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51f7189c981e34448997d2598ffb08672334d5a9",
+  "displayName": "Tiny Raptor",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tiny Raptor",
+    "symbol": "RAPTOR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

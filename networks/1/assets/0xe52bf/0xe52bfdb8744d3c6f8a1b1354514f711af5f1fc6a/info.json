@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe52bfdb8744d3c6f8a1b1354514f711af5f1fc6a",
+  "displayName": "Pump The Stock",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pump The Stock",
+    "symbol": "$STOCK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

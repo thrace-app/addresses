@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47b2223eb33ba465abd6d4f9f2883c0932bc4b20",
+  "displayName": "Wrapped Tether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Tether",
+    "symbol": "WUSDT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab63f1857ead863d7d70b4eba999662f64e4d66a",
+  "displayName": "USD Robinhood",
+  "type": "TOKEN",
+  "token": {
+    "name": "USD Robinhood",
+    "symbol": "USDR",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

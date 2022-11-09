@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x056dd20b01799e9c1952c7c9a5ff4409a6110085",
+  "displayName": "WPPTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "WPPTOKEN",
+    "symbol": "WPP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

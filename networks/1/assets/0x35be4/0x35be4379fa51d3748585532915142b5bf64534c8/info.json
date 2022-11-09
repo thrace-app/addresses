@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35be4379fa51d3748585532915142b5bf64534c8",
+  "displayName": "Totally Pointless",
+  "type": "TOKEN",
+  "token": {
+    "name": "Totally Pointless",
+    "symbol": "TPT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

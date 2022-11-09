@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7db1179914067af1d4ec710923826d0135fc5990",
+  "displayName": "Apollo 11",
+  "type": "TOKEN",
+  "token": {
+    "name": "Apollo 11",
+    "symbol": "Moon",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

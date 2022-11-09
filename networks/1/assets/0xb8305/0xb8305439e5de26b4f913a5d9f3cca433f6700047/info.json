@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8305439e5de26b4f913a5d9f3cca433f6700047",
+  "displayName": "FarmerAndOne Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FarmerAndOne Token",
+    "symbol": "FAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

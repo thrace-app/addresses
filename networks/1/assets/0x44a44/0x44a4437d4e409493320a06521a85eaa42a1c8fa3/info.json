@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44a4437d4e409493320a06521a85eaa42a1c8fa3",
+  "displayName": "Wrapped RVN",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped RVN",
+    "symbol": "WRVN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

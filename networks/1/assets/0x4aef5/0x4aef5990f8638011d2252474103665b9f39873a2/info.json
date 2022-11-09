@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4aef5990f8638011d2252474103665b9f39873a2",
+  "displayName": "EGG",
+  "type": "TOKEN",
+  "token": {
+    "name": "EGG",
+    "symbol": "YOLK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

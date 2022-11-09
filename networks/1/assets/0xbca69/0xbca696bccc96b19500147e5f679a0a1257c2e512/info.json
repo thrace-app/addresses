@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbca696bccc96b19500147e5f679a0a1257c2e512",
+  "displayName": "Phoenix Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Phoenix Coin",
+    "symbol": "PHC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

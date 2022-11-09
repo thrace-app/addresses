@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ec8798b81485a254928b70cda1cf0a2bb0b74d7",
+  "displayName": "Gro DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gro DAO Token",
+    "symbol": "GRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

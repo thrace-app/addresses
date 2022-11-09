@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79a91ccaaa6069a571f0a3fa6ed257796ddd0eb4",
+  "displayName": "Cap Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cap Coin",
+    "symbol": "CAPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84db5245443ab601bc03b83731f9509baab89998",
+  "displayName": "Kujo Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kujo Inu",
+    "symbol": "KUJO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

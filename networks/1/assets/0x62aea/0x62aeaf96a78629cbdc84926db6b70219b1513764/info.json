@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62aeaf96a78629cbdc84926db6b70219b1513764",
+  "displayName": "KirkyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KirkyCoin",
+    "symbol": "KIRKY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

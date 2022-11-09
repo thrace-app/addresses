@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e9dedde436aa89229d0331f21a7cfc1dbf609be",
+  "displayName": "Scale App Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Scale App Token",
+    "symbol": "SAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

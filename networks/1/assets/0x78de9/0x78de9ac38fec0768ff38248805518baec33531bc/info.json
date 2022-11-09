@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78de9ac38fec0768ff38248805518baec33531bc",
+  "displayName": "Parental Advisory Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Parental Advisory Token",
+    "symbol": "PADV",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

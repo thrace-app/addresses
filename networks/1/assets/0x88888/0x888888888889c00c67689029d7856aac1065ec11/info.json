@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x888888888889c00c67689029d7856aac1065ec11",
+  "displayName": "Opium Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Opium Governance Token",
+    "symbol": "OPIUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

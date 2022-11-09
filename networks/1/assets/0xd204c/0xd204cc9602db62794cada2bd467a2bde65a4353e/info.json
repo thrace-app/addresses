@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd204cc9602db62794cada2bd467a2bde65a4353e",
+  "displayName": "Stray Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stray Doge",
+    "symbol": "STRAYDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f44893345667109eed1f390ad92b44685f52893",
+  "displayName": "Gnox",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gnox",
+    "symbol": "GNO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

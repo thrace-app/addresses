@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0db02e277d4364136623e9ade2e2e5f06202ad11",
+  "displayName": "HyperPay",
+  "type": "TOKEN",
+  "token": {
+    "name": "HyperPay",
+    "symbol": "hHPY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

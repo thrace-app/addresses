@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x519c1001d550c0a1dae7d1fc220f7d14c2a521bb",
+  "displayName": "Polkaswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polkaswap",
+    "symbol": "PSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

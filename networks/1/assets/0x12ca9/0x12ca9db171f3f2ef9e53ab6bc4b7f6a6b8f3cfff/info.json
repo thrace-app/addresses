@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12ca9db171f3f2ef9e53ab6bc4b7f6a6b8f3cfff",
+  "displayName": "API Gateway Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "API Gateway Token",
+    "symbol": "GAPI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

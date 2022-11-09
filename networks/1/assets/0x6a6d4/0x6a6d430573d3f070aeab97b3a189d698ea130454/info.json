@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a6d430573d3f070aeab97b3a189d698ea130454",
+  "displayName": "Wrapped Bitcoin Diamond",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Bitcoin Diamond",
+    "symbol": "WBCD",
+    "decimals": 7,
+    "type": "ERC20"
+  }
+}

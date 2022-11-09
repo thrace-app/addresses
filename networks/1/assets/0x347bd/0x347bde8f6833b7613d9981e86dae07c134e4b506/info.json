@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x347bde8f6833b7613d9981e86dae07c134e4b506",
+  "displayName": "Ether Bomb",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether Bomb",
+    "symbol": "BOOM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

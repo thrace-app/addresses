@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64d691be72e22370dbdd363633f007a2663e95ef",
+  "displayName": "KebapSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "KebapSwap",
+    "symbol": "KEBAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

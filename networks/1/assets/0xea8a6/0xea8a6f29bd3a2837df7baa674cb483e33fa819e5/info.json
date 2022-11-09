@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea8a6f29bd3a2837df7baa674cb483e33fa819e5",
+  "displayName": "Kuppa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kuppa Token",
+    "symbol": "Kuppa",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e8d4412a3ee649cf57dc45827042229ab0f152f",
+  "displayName": "Space Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Space Ether",
+    "symbol": "SPACEETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5968c595d893afd70f3104ef08544aa138d1d0f7",
+  "displayName": "TrueCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrueCoin",
+    "symbol": "TEC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

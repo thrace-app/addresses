@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x605d26fbd5be761089281d5cec2ce86eea667109",
+  "displayName": "Digital Standard Unit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Standard Unit",
+    "symbol": "DSU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

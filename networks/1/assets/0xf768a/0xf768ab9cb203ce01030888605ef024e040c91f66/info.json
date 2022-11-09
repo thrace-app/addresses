@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf768ab9cb203ce01030888605ef024e040c91f66",
+  "displayName": "Stably Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stably Cash",
+    "symbol": "STC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

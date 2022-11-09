@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16558553e4647ca500c3718c56c356edb6f9b11c",
+  "displayName": "Monkey King Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monkey King Token",
+    "symbol": "MKT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

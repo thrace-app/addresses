@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc9d6807365e8b0dce05bbdafc0e16ec8dda587c7",
+  "displayName": "StarNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarNFT",
+    "symbol": "STARNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

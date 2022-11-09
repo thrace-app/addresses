@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x283669123bd83da2536bb534e20512101c18e5d8",
+  "displayName": "Bitpayer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitpayer Token",
+    "symbol": "BPT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

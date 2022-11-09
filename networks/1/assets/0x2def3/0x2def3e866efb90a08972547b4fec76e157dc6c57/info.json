@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2def3e866efb90a08972547b4fec76e157dc6c57",
+  "displayName": "TerraFormToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TerraFormToken",
+    "symbol": "TFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

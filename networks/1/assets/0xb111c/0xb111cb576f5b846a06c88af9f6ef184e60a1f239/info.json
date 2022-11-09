@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb111cb576f5b846a06c88af9f6ef184e60a1f239",
+  "displayName": "Cat Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cat Token",
+    "symbol": "CAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

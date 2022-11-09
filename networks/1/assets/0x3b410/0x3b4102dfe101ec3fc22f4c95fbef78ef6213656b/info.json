@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b4102dfe101ec3fc22f4c95fbef78ef6213656b",
+  "displayName": "Micro Launchpad Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Micro Launchpad Token",
+    "symbol": "MICRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

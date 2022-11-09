@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xddce3174a9741bf58d707bb82068aa956a8f9391",
+  "displayName": "Mini Hearts",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini Hearts",
+    "symbol": "MiniHEART",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

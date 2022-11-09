@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfdb9d5627b5e3555e6cc47592f4e8ecd68a8906f",
+  "displayName": "Pithy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pithy Token",
+    "symbol": "Pithy.",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

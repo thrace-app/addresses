@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23bdbf7cfe491e85e1c5bca5647b2e831823aa0e",
+  "displayName": "dribble",
+  "type": "TOKEN",
+  "token": {
+    "name": "dribble",
+    "symbol": "$dribble",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

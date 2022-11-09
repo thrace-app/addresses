@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfacd9a6fd887855d9432f7a080911b26d9dcae01",
+  "displayName": "DeFireX DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFireX DAI",
+    "symbol": "dDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

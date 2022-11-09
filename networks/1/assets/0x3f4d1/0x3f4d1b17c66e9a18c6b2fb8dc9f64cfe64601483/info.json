@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f4d1b17c66e9a18c6b2fb8dc9f64cfe64601483",
+  "displayName": "Genesis Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Genesis Coin",
+    "symbol": "GEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

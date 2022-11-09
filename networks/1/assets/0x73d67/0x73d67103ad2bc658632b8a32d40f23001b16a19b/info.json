@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73d67103ad2bc658632b8a32d40f23001b16a19b",
+  "displayName": "lail currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "lail currency",
+    "symbol": "LAIL",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6983bb9740a22a2b7f9c0416aab3a713d2c23491",
+  "displayName": "Happy Birthday Joe Grower",
+  "type": "TOKEN",
+  "token": {
+    "name": "Happy Birthday Joe Grower",
+    "symbol": "JOESBIRTHDAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e5e72bac239091247cf6ba969126ff24e8a8836",
+  "displayName": "Giraffe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Giraffe",
+    "symbol": "HUMs",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14dfeb17c01dd7b4bc77a15db3d36bae1070c945",
+  "displayName": "The Etherman",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Etherman",
+    "symbol": "E$hield",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

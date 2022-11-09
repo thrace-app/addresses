@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc32d475e4239b5e19acd6ac4067f0b54e72a95ce",
+  "displayName": "HydroToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "HydroToken",
+    "symbol": "HYT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

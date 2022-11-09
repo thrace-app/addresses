@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68fc940b9c271e32833c488f91fe81f8f9383ae5",
+  "displayName": "Geisha Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Geisha Token",
+    "symbol": "GEISHA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

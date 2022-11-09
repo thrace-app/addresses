@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0afee744b6d9ff2b78f76fe10b3e0199c413fd34",
+  "displayName": "Store-Of-Value Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Store-Of-Value Token",
+    "symbol": "SOV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

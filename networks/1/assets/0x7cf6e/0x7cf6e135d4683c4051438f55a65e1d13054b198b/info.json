@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7cf6e135d4683c4051438f55a65e1d13054b198b",
+  "displayName": "EtherWorm",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherWorm",
+    "symbol": "EthWorm",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

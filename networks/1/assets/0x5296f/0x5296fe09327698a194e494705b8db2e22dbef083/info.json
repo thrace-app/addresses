@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5296fe09327698a194e494705b8db2e22dbef083",
+  "displayName": "Wrapped Litecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Litecoin",
+    "symbol": "WLTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c2a92216762b9169f28011efaaa9100c489c78c",
+  "displayName": "Meowth Kitty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meowth Kitty",
+    "symbol": "MeowthKitty",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

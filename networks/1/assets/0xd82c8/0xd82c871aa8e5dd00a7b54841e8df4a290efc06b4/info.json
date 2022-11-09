@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd82c871aa8e5dd00a7b54841e8df4a290efc06b4",
+  "displayName": "What goes down must go up",
+  "type": "TOKEN",
+  "token": {
+    "name": "What goes down must go up",
+    "symbol": "Down Up",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

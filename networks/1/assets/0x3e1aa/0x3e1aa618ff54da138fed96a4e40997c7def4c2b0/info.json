@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e1aa618ff54da138fed96a4e40997c7def4c2b0",
+  "displayName": "Fries Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fries Token",
+    "symbol": "FRI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

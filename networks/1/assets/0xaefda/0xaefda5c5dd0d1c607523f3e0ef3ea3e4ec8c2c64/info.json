@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaefda5c5dd0d1c607523f3e0ef3ea3e4ec8c2c64",
+  "displayName": "LinkBridge",
+  "type": "TOKEN",
+  "token": {
+    "name": "LinkBridge",
+    "symbol": "LNKB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

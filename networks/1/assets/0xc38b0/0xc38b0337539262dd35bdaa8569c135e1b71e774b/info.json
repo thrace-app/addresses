@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc38b0337539262dd35bdaa8569c135e1b71e774b",
+  "displayName": "Valuable Staking Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Valuable Staking Token",
+    "symbol": "VST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

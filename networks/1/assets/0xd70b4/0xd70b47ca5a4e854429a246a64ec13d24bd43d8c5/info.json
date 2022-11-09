@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd70b47ca5a4e854429a246a64ec13d24bd43d8c5",
+  "displayName": "ETHLOCK",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETHLOCK",
+    "symbol": "ETH10K",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

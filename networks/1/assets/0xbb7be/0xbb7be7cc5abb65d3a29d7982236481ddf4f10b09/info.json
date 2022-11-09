@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb7be7cc5abb65d3a29d7982236481ddf4f10b09",
+  "displayName": "microETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "microETH",
+    "symbol": "uETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

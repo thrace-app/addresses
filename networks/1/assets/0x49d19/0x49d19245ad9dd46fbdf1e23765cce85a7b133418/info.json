@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49d19245ad9dd46fbdf1e23765cce85a7b133418",
+  "displayName": "PilotCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PilotCoin",
+    "symbol": "PLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

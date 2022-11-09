@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf7852f17f831938a491e31d2e193b6381db05ad",
+  "displayName": "CrowdFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "CrowdFi",
+    "symbol": "CFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

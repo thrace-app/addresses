@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1893a066ebde4ead60fd5cca9f6f592288f8035d",
+  "displayName": "Monke Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monke Inu",
+    "symbol": "MONKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

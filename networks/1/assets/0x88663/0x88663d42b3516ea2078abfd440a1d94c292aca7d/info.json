@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88663d42b3516ea2078abfd440a1d94c292aca7d",
+  "displayName": "BigDot",
+  "type": "TOKEN",
+  "token": {
+    "name": "BigDot",
+    "symbol": "BDT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

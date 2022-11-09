@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0d580cc6a860ab6ed1595108472ce7f6dbc3e6c",
+  "displayName": "Xswap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Xswap Token",
+    "symbol": "XT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

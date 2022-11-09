@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc5db51d394e4b132222811d2187cb9837df9462",
+  "displayName": "rick and morty finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "rick and morty finance",
+    "symbol": "RMF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

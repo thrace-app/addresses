@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6719f62ba585d6618bf9f79b47ee503c7988993",
+  "displayName": "eBay Swap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "eBay Swap Token",
+    "symbol": "EBAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

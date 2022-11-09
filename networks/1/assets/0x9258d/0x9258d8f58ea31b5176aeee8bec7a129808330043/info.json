@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9258d8f58ea31b5176aeee8bec7a129808330043",
+  "displayName": "Synthetic Elon Musk",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synthetic Elon Musk",
+    "symbol": "0xELON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

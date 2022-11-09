@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16134400a009e31e4d2002e6017c9ae7c643b646",
+  "displayName": "SLP Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SLP Coin",
+    "symbol": "SLP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

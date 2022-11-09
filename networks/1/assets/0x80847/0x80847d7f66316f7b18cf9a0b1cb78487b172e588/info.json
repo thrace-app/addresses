@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80847d7f66316f7b18cf9a0b1cb78487b172e588",
+  "displayName": "UnitedSolidToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "UnitedSolidToken",
+    "symbol": "UST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

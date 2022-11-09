@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b0af5064e4b056688eb407c47e7917803e7ac70",
+  "displayName": "KOT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KOT Token",
+    "symbol": "KOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

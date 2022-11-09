@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x051218de982d91c3af03187ed3d8a0dde8231333",
+  "displayName": "Nice Drips",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nice Drips",
+    "symbol": "DRIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

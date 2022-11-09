@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fad127efa52e7e3f93903fc1bcc9dd73b8f9b16",
+  "displayName": "Ramen Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ramen Token",
+    "symbol": "RAMEN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

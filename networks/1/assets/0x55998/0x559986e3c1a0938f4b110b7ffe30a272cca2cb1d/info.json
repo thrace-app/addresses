@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x559986e3c1a0938f4b110b7ffe30a272cca2cb1d",
+  "displayName": "Mosaic",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mosaic",
+    "symbol": "MOSA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

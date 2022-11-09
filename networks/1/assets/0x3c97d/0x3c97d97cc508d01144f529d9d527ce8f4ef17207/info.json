@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c97d97cc508d01144f529d9d527ce8f4ef17207",
+  "displayName": "Banker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Banker",
+    "symbol": "YOLO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

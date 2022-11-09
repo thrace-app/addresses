@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c0dc1b43be1fd24967f5575b95e8a82dbff0412",
+  "displayName": "Gray Ghost Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gray Ghost Token",
+    "symbol": "GRAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

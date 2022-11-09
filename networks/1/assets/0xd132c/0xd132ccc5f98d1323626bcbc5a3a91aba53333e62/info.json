@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd132ccc5f98d1323626bcbc5a3a91aba53333e62",
+  "displayName": "HAPI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HAPI Token",
+    "symbol": "HAPI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ecf0945b50ad557aa380417712f4bb618c53108",
+  "displayName": "Moloch",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moloch",
+    "symbol": "MLCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

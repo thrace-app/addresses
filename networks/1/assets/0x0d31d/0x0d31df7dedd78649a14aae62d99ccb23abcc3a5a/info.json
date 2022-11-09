@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d31df7dedd78649a14aae62d99ccb23abcc3a5a",
+  "displayName": "TCG 2.0 ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "TCG 2.0 ETH",
+    "symbol": "ethTCG2",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

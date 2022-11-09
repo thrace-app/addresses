@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafeca86e361c0d43d08cc1c370fdda37f69ee68b",
+  "displayName": "Degenerate",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degenerate",
+    "symbol": "Degen",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

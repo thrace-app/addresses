@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d9cf12482b14888453b63a0821b7b0e854f59a2",
+  "displayName": "MOE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MOE Token",
+    "symbol": "MOE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

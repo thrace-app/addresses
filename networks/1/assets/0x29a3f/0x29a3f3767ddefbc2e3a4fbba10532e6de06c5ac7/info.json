@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x29a3f3767ddefbc2e3a4fbba10532e6de06c5ac7",
+  "displayName": "DinoX Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DinoX Coin",
+    "symbol": "DNXC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

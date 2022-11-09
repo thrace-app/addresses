@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb59d09f9e7999818914a04ba80ca4b6ebe2b6836",
+  "displayName": "CoalFax token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoalFax token",
+    "symbol": "COFX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

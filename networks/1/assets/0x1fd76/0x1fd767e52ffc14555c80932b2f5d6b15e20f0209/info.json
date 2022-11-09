@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fd767e52ffc14555c80932b2f5d6b15e20f0209",
+  "displayName": "Federal Reserve Test",
+  "type": "TOKEN",
+  "token": {
+    "name": "Federal Reserve Test",
+    "symbol": "FDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

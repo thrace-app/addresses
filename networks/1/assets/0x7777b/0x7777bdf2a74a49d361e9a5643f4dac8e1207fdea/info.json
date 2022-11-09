@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7777bdf2a74a49d361e9a5643f4dac8e1207fdea",
+  "displayName": "Voxies",
+  "type": "TOKEN",
+  "token": {
+    "name": "Voxies",
+    "symbol": "VOXEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

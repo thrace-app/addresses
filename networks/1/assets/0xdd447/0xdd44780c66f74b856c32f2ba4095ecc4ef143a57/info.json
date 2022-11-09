@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd44780c66f74b856c32f2ba4095ecc4ef143a57",
+  "displayName": "Bitcoin Bless",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Bless",
+    "symbol": "BTCB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57a086b10fb50f55be5dfd85d9b0f4e385bba217",
+  "displayName": "TheProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "TheProtocol",
+    "symbol": "BabyTheProtocol",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

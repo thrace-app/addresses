@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ab70e92319f0b9127df78868fd3655fb9f1e322",
+  "displayName": "WeWay Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WeWay Token",
+    "symbol": "WWY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

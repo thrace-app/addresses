@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72735a7d1eb69f3238aee15fa07e77d5d139cc0f",
+  "displayName": "SolaSystem",
+  "type": "TOKEN",
+  "token": {
+    "name": "SolaSystem",
+    "symbol": "SOLAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

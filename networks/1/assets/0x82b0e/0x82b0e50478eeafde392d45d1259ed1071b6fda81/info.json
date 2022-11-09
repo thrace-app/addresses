@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82b0e50478eeafde392d45d1259ed1071b6fda81",
+  "displayName": "DNA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DNA Token",
+    "symbol": "DNA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

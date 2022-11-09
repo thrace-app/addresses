@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca29cc14e21719bcb9924b6ce05311a0797bf1fa",
+  "displayName": "SpankMonkey",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpankMonkey",
+    "symbol": "SPNK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

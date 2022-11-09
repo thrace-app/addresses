@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x515f3f502d44558710da94aefdb99360f29f4c84",
+  "displayName": "BoonToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BoonToken",
+    "symbol": "Boon",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

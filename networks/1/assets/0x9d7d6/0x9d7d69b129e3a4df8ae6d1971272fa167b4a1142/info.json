@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d7d69b129e3a4df8ae6d1971272fa167b4a1142",
+  "displayName": "Million Dogecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Million Dogecoin",
+    "symbol": "MD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

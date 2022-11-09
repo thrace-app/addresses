@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23f567f71c8e6978515d1d86637ee7d6e33b0822",
+  "displayName": "Telegram",
+  "type": "TOKEN",
+  "token": {
+    "name": "Telegram",
+    "symbol": "Telegram",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x828bb45c9b6bfc9760dcf73b43f3b2cd755ff43e",
+  "displayName": "XR Dev Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XR Dev Token",
+    "symbol": "XRD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa023d68f8d43c03a01d949e2a470bf06c2746e0c",
+  "displayName": "BullPump",
+  "type": "TOKEN",
+  "token": {
+    "name": "BullPump",
+    "symbol": "BULL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39543addfcbe4dd8d78531817a2cff2e6fb38517",
+  "displayName": "Bio Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bio Doge",
+    "symbol": "BDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

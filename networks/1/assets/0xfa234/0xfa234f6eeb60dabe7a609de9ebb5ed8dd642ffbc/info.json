@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa234f6eeb60dabe7a609de9ebb5ed8dd642ffbc",
+  "displayName": "Sanity",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sanity",
+    "symbol": "SANITY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x175779cd27ae2ba7a1951d582fe351fbd2abbfa5",
+  "displayName": "Defi Dinner",
+  "type": "TOKEN",
+  "token": {
+    "name": "Defi Dinner",
+    "symbol": "DINR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

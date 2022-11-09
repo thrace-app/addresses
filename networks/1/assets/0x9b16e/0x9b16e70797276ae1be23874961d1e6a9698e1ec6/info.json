@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b16e70797276ae1be23874961d1e6a9698e1ec6",
+  "displayName": "Penguin Unicorn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Penguin Unicorn",
+    "symbol": "WIMD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

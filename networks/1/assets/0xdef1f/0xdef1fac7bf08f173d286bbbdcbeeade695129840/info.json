@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdef1fac7bf08f173d286bbbdcbeeade695129840",
+  "displayName": "Defi Factory Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Defi Factory Token",
+    "symbol": "DEFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2ebbd1893c881135ece33267b74e6b9b01736b9",
+  "displayName": "Muppet Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Muppet Coin",
+    "symbol": "MUPPET",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

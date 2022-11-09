@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd201a80422f515efe050e0b8907b06c8b913901d",
+  "displayName": "RPKToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RPKToken",
+    "symbol": "rpk",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

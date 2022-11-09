@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd85c4828ea23d92bcaf6c5055478c34b988b947a",
+  "displayName": "BMW",
+  "type": "TOKEN",
+  "token": {
+    "name": "BMW",
+    "symbol": "BMW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

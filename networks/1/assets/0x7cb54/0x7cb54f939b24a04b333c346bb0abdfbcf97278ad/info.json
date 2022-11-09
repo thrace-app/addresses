@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7cb54f939b24a04b333c346bb0abdfbcf97278ad",
+  "displayName": "The 10th Planet",
+  "type": "TOKEN",
+  "token": {
+    "name": "The 10th Planet",
+    "symbol": "ERIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

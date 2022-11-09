@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3496827652d8e4e0e6920b5067412c4392bee206",
+  "displayName": "FuckMeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FuckMeToken",
+    "symbol": "FMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

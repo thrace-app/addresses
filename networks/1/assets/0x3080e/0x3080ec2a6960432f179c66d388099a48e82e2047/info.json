@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3080ec2a6960432f179c66d388099a48e82e2047",
+  "displayName": "Popcorn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Popcorn Token",
+    "symbol": "CORN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

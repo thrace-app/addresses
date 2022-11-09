@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f574d137d6b92ac0f35db16568ff913b05d31cf",
+  "displayName": "YFIW Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YFIW Token",
+    "symbol": "YFIW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

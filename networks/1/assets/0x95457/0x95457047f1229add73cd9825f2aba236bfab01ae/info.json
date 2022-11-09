@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95457047f1229add73cd9825f2aba236bfab01ae",
+  "displayName": "Chaos Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chaos Coin",
+    "symbol": "Chaos",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

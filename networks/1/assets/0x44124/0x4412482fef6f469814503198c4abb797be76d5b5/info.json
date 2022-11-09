@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4412482fef6f469814503198c4abb797be76d5b5",
+  "displayName": "KongInuToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KongInuToken",
+    "symbol": "KongInu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26d97f74d55e001126245d6b1647418cd4b9dc72",
+  "displayName": "InvestCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "InvestCoin",
+    "symbol": "ILC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

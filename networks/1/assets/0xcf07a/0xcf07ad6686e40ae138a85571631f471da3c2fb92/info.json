@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcf07ad6686e40ae138a85571631f471da3c2fb92",
+  "displayName": "Central Bank Digital Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Central Bank Digital Currency",
+    "symbol": "CBDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

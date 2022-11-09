@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8901bed88a57db0eae2bb87d72ced14c6c91164b",
+  "displayName": "YFI Product token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YFI Product token",
+    "symbol": "YFIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

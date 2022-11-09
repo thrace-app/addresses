@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70861e862e1ac0c96f853c8231826e469ead37b1",
+  "displayName": "DOS Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DOS Network Token",
+    "symbol": "DOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

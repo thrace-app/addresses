@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa903d8648d752ea5419f7c95dfc1e6dc60c4aef6",
+  "displayName": "test.hxy.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "test.hxy.finance",
+    "symbol": "testHXYF",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

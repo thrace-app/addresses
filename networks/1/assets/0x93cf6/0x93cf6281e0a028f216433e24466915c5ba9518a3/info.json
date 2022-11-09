@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93cf6281e0a028f216433e24466915c5ba9518a3",
+  "displayName": "Yamcha Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yamcha Token",
+    "symbol": "YAMCHA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

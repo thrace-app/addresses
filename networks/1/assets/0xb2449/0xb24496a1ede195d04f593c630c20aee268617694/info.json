@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb24496a1ede195d04f593c630c20aee268617694",
+  "displayName": "Doge Hemi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Hemi",
+    "symbol": "DOHEMI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeccbe23f45b6a7e50b03af61098b24fcd18f72fb",
+  "displayName": "MXSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "MXSwap",
+    "symbol": "MXSW",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

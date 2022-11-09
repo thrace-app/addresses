@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9da1df8164820d528c08863ec704e4996bd91006",
+  "displayName": "wrapped core",
+  "type": "TOKEN",
+  "token": {
+    "name": "wrapped core",
+    "symbol": "WCORE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

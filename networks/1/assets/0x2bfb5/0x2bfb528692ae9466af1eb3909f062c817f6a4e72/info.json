@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2bfb528692ae9466af1eb3909f062c817f6a4e72",
+  "displayName": "TimeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TimeCoin",
+    "symbol": "TIM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

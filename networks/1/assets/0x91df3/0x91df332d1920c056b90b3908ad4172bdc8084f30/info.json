@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x91df332d1920c056b90b3908ad4172bdc8084f30",
+  "displayName": "twocoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "twocoin",
+    "symbol": "twocoin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

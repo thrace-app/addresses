@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b0c1b7f43e129249fd42f3aaf0ad375735e77dd",
+  "displayName": "VentToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "VentToken",
+    "symbol": "VENT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

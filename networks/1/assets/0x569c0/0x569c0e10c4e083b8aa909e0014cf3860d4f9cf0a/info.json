@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x569c0e10c4e083b8aa909e0014cf3860d4f9cf0a",
+  "displayName": "Proof of Funds",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Funds",
+    "symbol": "POFU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

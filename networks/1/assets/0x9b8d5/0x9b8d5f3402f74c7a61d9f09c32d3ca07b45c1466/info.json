@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b8d5f3402f74c7a61d9f09c32d3ca07b45c1466",
+  "displayName": "GimmerToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GimmerToken",
+    "symbol": "GMR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac27423fe4394a7196020ef4e9fd0a6a73fa744c",
+  "displayName": "DeTrade.Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeTrade.Fund",
+    "symbol": "DTF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

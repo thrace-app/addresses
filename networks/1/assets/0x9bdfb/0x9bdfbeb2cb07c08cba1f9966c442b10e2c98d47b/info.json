@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9bdfbeb2cb07c08cba1f9966c442b10e2c98d47b",
+  "displayName": "JMJ token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JMJ token",
+    "symbol": "JMJ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

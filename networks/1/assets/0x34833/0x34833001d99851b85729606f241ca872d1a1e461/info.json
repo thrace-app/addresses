@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34833001d99851b85729606f241ca872d1a1e461",
+  "displayName": "BIL Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BIL Coin",
+    "symbol": "BIL",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

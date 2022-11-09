@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x600d01fff3e8646274287bc5b779a87fabb92cfa",
+  "displayName": "Bored Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bored Cat",
+    "symbol": "$BCAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

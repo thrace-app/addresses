@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67e74603df95cabbebc6795478c2402a01ea1517",
+  "displayName": "Wurstcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wurstcoin",
+    "symbol": "WURST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

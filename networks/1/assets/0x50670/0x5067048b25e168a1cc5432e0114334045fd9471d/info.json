@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5067048b25e168a1cc5432e0114334045fd9471d",
+  "displayName": "Qredo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Qredo Token",
+    "symbol": "QRDO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

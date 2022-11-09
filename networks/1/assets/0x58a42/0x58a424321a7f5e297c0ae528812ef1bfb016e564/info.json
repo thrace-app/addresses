@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58a424321a7f5e297c0ae528812ef1bfb016e564",
+  "displayName": "BattleDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "BattleDoge",
+    "symbol": "$Battle",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

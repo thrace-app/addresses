@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd518222e18132742271870505897e456f796419b",
+  "displayName": "SecretOrder",
+  "type": "TOKEN",
+  "token": {
+    "name": "SecretOrder",
+    "symbol": "SECRET",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

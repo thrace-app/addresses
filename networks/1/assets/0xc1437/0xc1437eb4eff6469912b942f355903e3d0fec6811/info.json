@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1437eb4eff6469912b942f355903e3d0fec6811",
+  "displayName": "Reactor",
+  "type": "TOKEN",
+  "token": {
+    "name": "Reactor",
+    "symbol": "MRE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

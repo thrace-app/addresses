@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf237d2bed7ee4150a8269ab4adcd57fa7b18a048",
+  "displayName": "MyobuSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyobuSwap",
+    "symbol": "MSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

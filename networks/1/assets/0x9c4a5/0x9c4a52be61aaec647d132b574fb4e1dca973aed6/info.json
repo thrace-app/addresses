@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c4a52be61aaec647d132b574fb4e1dca973aed6",
+  "displayName": "Poker Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Poker Coin",
+    "symbol": "PKC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

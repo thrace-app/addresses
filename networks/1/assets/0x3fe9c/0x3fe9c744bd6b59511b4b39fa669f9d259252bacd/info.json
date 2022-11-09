@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fe9c744bd6b59511b4b39fa669f9d259252bacd",
+  "displayName": "Super Stake",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Stake",
+    "symbol": "SUPER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

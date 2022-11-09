@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xedbdafaf3428faeef3cd3d61cda8d14fd0ddec71",
+  "displayName": "TrumpBux",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrumpBux",
+    "symbol": "TBUX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

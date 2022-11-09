@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8bff7fe300ece8b8fdd92ccf5691b3b7b17a542f",
+  "displayName": "TerraOptimismToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TerraOptimismToken",
+    "symbol": "ToT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

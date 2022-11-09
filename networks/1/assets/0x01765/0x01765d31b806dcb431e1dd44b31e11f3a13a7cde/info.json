@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01765d31b806dcb431e1dd44b31e11f3a13a7cde",
+  "displayName": "ForTheMoney",
+  "type": "TOKEN",
+  "token": {
+    "name": "ForTheMoney",
+    "symbol": "FTM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

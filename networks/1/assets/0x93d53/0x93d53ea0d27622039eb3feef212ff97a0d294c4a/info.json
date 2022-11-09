@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93d53ea0d27622039eb3feef212ff97a0d294c4a",
+  "displayName": "FIA",
+  "type": "TOKEN",
+  "token": {
+    "name": "FIA",
+    "symbol": "FIA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

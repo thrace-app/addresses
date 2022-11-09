@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa2e4890c39601421404740d89275b5a8dc89296a",
+  "displayName": "Nook Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nook Token",
+    "symbol": "NOOK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

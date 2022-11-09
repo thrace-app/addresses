@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabdb675b60bc4fc0e6a23981d69bad35879aec05",
+  "displayName": "teller.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "teller.finance",
+    "symbol": "tToken",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

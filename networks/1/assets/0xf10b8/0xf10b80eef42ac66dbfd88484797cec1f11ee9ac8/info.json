@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf10b80eef42ac66dbfd88484797cec1f11ee9ac8",
+  "displayName": "Osaku Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Osaku Doge",
+    "symbol": "ODOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xddd2ec6bd01506a8510aba02393fb058d9f6ce89",
+  "displayName": "Valhalla",
+  "type": "TOKEN",
+  "token": {
+    "name": "Valhalla",
+    "symbol": "VAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

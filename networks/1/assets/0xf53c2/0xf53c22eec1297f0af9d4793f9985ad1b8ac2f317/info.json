@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf53c22eec1297f0af9d4793f9985ad1b8ac2f317",
+  "displayName": "U.S Federal Reserve Digital Asset Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "U.S Federal Reserve Digital Asset Token",
+    "symbol": "FED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

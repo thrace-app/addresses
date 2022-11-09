@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0fe9043f0ed58af986676517e42039a91248479",
+  "displayName": "BuyBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "BuyBurn",
+    "symbol": "BUYBURN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

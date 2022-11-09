@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7ce9fcfdc401699a0777d99f713e1ac54191f91",
+  "displayName": "Moonicorn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moonicorn",
+    "symbol": "$MONI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

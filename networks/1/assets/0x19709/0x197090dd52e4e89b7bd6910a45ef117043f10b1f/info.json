@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x197090dd52e4e89b7bd6910a45ef117043f10b1f",
+  "displayName": "Wisteria Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wisteria Token",
+    "symbol": "WISTERIA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

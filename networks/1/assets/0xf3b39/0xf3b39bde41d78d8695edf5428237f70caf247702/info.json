@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf3b39bde41d78d8695edf5428237f70caf247702",
+  "displayName": "Arf Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Arf Token",
+    "symbol": "ARF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

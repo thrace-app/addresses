@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d2881f221a4aa38381cb94d409cdd50ddd86095",
+  "displayName": "Illuminated Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Illuminated Doge",
+    "symbol": "iDOGE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

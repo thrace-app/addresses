@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44f588aeeb8c44471439d1270b3603c66a9262f1",
+  "displayName": "SnipCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SnipCoin",
+    "symbol": "SNIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

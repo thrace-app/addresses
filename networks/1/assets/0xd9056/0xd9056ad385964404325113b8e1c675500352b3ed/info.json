@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9056ad385964404325113b8e1c675500352b3ed",
+  "displayName": "PetaMerse Test",
+  "type": "TOKEN",
+  "token": {
+    "name": "PetaMerse Test",
+    "symbol": "$PMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1bbbb87c6774ffeaa37f339d3bb1ae8ef9009b5",
+  "displayName": "TOSHI",
+  "type": "TOKEN",
+  "token": {
+    "name": "TOSHI",
+    "symbol": "TSI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

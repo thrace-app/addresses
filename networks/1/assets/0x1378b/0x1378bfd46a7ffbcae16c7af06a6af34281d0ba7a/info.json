@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1378bfd46a7ffbcae16c7af06a6af34281d0ba7a",
+  "displayName": "UD Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "UD Coin",
+    "symbol": "UDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

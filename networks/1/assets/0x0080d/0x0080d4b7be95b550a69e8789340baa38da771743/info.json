@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0080d4b7be95b550a69e8789340baa38da771743",
+  "displayName": "XPAUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "XPAUSD",
+    "symbol": "USX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

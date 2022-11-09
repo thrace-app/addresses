@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5569bcb32aade71bf6a72d12698d3c710c7587e4",
+  "displayName": "Time Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Time Token",
+    "symbol": "TIME",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

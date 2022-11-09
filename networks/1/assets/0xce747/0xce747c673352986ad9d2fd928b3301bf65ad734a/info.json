@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce747c673352986ad9d2fd928b3301bf65ad734a",
+  "displayName": "Hex Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hex Doge",
+    "symbol": "HEXDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

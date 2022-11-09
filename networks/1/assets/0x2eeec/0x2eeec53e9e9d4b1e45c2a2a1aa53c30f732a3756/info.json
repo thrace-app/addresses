@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2eeec53e9e9d4b1e45c2a2a1aa53c30f732a3756",
+  "displayName": "MoonKingToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonKingToken",
+    "symbol": "MKT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

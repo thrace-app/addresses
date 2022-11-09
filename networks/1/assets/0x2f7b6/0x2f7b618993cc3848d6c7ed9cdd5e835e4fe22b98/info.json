@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f7b618993cc3848d6c7ed9cdd5e835e4fe22b98",
+  "displayName": "Nami Corporation Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nami Corporation Token",
+    "symbol": "NAMI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

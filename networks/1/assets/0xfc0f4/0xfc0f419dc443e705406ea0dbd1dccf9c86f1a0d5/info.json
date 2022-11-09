@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc0f419dc443e705406ea0dbd1dccf9c86f1a0d5",
+  "displayName": "CryptoCopsRewardsToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoCopsRewardsToken",
+    "symbol": "CCR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

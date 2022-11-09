@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd17212aedea96c62fbcd024172747ab267534aba",
+  "displayName": "Moon Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moon Cat",
+    "symbol": "MoonCat",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

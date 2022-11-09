@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7339da2b7dde709a02e167efd2d0479160c4d4e",
+  "displayName": "HAW.Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HAW.Finance Token",
+    "symbol": "HAW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

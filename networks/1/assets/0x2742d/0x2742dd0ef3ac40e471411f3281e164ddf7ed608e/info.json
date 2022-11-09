@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2742dd0ef3ac40e471411f3281e164ddf7ed608e",
+  "displayName": "The Adam Project",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Adam Project",
+    "symbol": "AdamProject",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7deb5e830be29f91e298ba5ff1356bb7f8146998",
+  "displayName": "Aave Interest bearing MKR",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave Interest bearing MKR",
+    "symbol": "aMKR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

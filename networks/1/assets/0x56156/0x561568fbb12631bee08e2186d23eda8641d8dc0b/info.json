@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x561568fbb12631bee08e2186d23eda8641d8dc0b",
+  "displayName": "Binary Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Binary Protocol",
+    "symbol": "BP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

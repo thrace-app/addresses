@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfce67dfb4d1ad17e72454a11376ea5bbe423826",
+  "displayName": "pohETH 100:1 DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "pohETH 100:1 DAI",
+    "symbol": "POHETH:DAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

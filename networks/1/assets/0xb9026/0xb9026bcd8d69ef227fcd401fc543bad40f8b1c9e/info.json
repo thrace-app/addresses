@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb9026bcd8d69ef227fcd401fc543bad40f8b1c9e",
+  "displayName": "Twitter Wallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Twitter Wallet",
+    "symbol": "TWITTER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

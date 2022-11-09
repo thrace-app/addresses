@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3453769b660b7ee4261aaa043479aa3ca02243bf",
+  "displayName": "LaserCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LaserCoin",
+    "symbol": "LZR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

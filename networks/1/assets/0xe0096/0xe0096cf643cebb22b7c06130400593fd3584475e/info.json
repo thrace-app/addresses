@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0096cf643cebb22b7c06130400593fd3584475e",
+  "displayName": "Kakarot",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kakarot",
+    "symbol": "KAKA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

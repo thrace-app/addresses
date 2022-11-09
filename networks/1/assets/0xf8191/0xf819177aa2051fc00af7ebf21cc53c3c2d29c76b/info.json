@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf819177aa2051fc00af7ebf21cc53c3c2d29c76b",
+  "displayName": "Tombstone",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tombstone",
+    "symbol": "TOMB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf171fc7ec4dd6f890620a9787e1b5425ef1e2b90",
+  "displayName": "SUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "SUSD",
+    "symbol": "SUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xefd21938ae5e45032609038c10c4e45ba2edd95a",
+  "displayName": "SChain Wallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "SChain Wallet",
+    "symbol": "SCHA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

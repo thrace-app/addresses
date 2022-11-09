@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x676c6bf67cb4fa1f663aee59fd9ecffcab5daf45",
+  "displayName": "HoneyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "HoneyCoin",
+    "symbol": "HNY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

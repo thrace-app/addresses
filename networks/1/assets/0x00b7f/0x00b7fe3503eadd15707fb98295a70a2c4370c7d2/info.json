@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00b7fe3503eadd15707fb98295a70a2c4370c7d2",
+  "displayName": "AptDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "AptDoge",
+    "symbol": "AptDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a28ece5bbeb6427d1bbff5c5889cd8e429acdf3",
+  "displayName": "Nightingale",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nightingale",
+    "symbol": "SongBird",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

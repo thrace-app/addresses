@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6791a166906d36c226b5fc0954155ffd8452e0ac",
+  "displayName": "Master Pay",
+  "type": "TOKEN",
+  "token": {
+    "name": "Master Pay",
+    "symbol": "MRP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

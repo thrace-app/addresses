@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39b93777813f7c188088399369a4185770444ac5",
+  "displayName": "Electronic Arts Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Electronic Arts Token",
+    "symbol": "EAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

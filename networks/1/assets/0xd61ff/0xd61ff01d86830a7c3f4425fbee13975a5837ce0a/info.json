@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd61ff01d86830a7c3f4425fbee13975a5837ce0a",
+  "displayName": "Virtual Farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "Virtual Farm",
+    "symbol": "vFARM",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

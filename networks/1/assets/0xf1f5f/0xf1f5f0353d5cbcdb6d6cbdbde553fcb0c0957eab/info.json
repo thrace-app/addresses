@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1f5f0353d5cbcdb6d6cbdbde553fcb0c0957eab",
+  "displayName": "Native finanal Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Native finanal Token",
+    "symbol": "NFT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

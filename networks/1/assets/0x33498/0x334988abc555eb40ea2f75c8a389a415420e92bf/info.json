@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x334988abc555eb40ea2f75c8a389a415420e92bf",
+  "displayName": "The Sers Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Sers Protocol",
+    "symbol": "$SER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

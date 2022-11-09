@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63bbc4239cea3643307ff019e52b2946ec9ef3d0",
+  "displayName": "Delayed",
+  "type": "TOKEN",
+  "token": {
+    "name": "Delayed",
+    "symbol": "TIME",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

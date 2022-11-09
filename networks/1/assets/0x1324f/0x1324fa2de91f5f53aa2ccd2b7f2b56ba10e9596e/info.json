@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1324fa2de91f5f53aa2ccd2b7f2b56ba10e9596e",
+  "displayName": "HBer Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "HBer Protocol",
+    "symbol": "HBER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

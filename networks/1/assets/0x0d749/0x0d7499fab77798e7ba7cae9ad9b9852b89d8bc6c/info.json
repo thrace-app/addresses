@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d7499fab77798e7ba7cae9ad9b9852b89d8bc6c",
+  "displayName": "PO20 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PO20 Token",
+    "symbol": "PO20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

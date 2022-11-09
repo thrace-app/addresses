@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8126c82465df104586bb633a6be79ae8fea7f4fb",
+  "displayName": "testqwerty",
+  "type": "TOKEN",
+  "token": {
+    "name": "testqwerty",
+    "symbol": "tstqw",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

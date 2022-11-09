@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x193c99ab2b8a3d1995bc3f03d5fd28a54b6de886",
+  "displayName": "George Soros Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "George Soros Fund",
+    "symbol": "SOROSFUND",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

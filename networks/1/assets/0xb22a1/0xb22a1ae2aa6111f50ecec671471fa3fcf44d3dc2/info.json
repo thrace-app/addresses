@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb22a1ae2aa6111f50ecec671471fa3fcf44d3dc2",
+  "displayName": "Kasparov Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kasparov Protocol",
+    "symbol": "Kasparov",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

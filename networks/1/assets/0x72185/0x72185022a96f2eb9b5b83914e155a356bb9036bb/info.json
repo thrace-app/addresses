@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72185022a96f2eb9b5b83914e155a356bb9036bb",
+  "displayName": "OPCTCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "OPCTCoin",
+    "symbol": "OPCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

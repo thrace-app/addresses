@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e984f28257ae9c57918515627b078deab4e11fe",
+  "displayName": "AVXChange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AVXChange Token",
+    "symbol": "AVX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6104e7f7b45bcf9763b8215728dc462354670f61",
+  "displayName": "Responsible Gold Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Responsible Gold Coin",
+    "symbol": "GCoin",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

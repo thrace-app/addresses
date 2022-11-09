@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xffa988d8c2a53c7ae2f845fbd98b117c3ab9b239",
+  "displayName": "Mona Lisa",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mona Lisa",
+    "symbol": "MONA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

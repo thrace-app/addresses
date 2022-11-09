@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b1343437c84b461df076cf21493bf2a99a1f2bf",
+  "displayName": "QuantApe",
+  "type": "TOKEN",
+  "token": {
+    "name": "QuantApe",
+    "symbol": "APE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

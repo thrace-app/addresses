@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5066af657e7ed7d7b6e85f9cf81c97f64ad8bb4",
+  "displayName": "Steak and Lobster",
+  "type": "TOKEN",
+  "token": {
+    "name": "Steak and Lobster",
+    "symbol": "🥩 🦞",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

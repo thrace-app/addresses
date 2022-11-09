@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1ce38ac41480abd9f84dcf1160044e9e991931a",
+  "displayName": "Pirate Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pirate Token",
+    "symbol": "YARRR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

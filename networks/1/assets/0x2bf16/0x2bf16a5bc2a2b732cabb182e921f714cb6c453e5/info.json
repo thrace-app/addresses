@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2bf16a5bc2a2b732cabb182e921f714cb6c453e5",
+  "displayName": "GFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "GFT",
+    "symbol": "GFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

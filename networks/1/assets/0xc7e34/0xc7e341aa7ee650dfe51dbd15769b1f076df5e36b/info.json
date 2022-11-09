@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7e341aa7ee650dfe51dbd15769b1f076df5e36b",
+  "displayName": "Flowers Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flowers Token",
+    "symbol": "Flowers",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

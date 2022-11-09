@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaffcdd96531bcd66faed95fc61e443d08f79efef",
+  "displayName": "Perth Mint Gold Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Perth Mint Gold Token",
+    "symbol": "PMGT",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

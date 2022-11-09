@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0e14b220cf067ba804b5bdad01f6a00a8695276",
+  "displayName": "Luna Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luna Gold",
+    "symbol": "LunaGold",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

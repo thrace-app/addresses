@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb159fe89a52ac5d301d5296c8ba79888c04837f",
+  "displayName": "Polar bear",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polar bear",
+    "symbol": "PBR",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

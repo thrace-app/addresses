@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x094f00cb5e31ab6164e3cacb654e8d6c2b3b471c",
+  "displayName": "ProSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "ProSwap",
+    "symbol": "PROS",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

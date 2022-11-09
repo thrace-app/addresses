@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21fc063a8df3882b2c277c6f98e7574ac5330f7f",
+  "displayName": "De King Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "De King Coin",
+    "symbol": "DKc",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

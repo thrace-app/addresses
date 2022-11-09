@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1369484f733155e50e722873408a172935db51b3",
+  "displayName": "Lana Del Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lana Del Token",
+    "symbol": "LANADE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2eea42b4f7efdfa7cacdab8c89c2bdbe21ef8b6c",
+  "displayName": "Fei Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fei Protocol",
+    "symbol": "FEI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd76d3b52ca0df8456d248337ca83e8ddedf8227d",
+  "displayName": "BALTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BALTOKEN",
+    "symbol": "BALTOKEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e279fb666ecc5f2fd961b76e208edcb41e7210c",
+  "displayName": "EverETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "EverETH",
+    "symbol": "EVERETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

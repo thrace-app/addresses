@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1ed0364d53394209d61ae8bfdb8ff50484d8c91",
+  "displayName": "TeraBlock Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TeraBlock Token",
+    "symbol": "TBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

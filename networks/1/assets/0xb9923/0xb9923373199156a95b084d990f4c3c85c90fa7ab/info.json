@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb9923373199156a95b084d990f4c3c85c90fa7ab",
+  "displayName": "ABTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "ABTC",
+    "symbol": "ABTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

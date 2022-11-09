@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1812149965dce61f78fc40c371db23d0096aacec",
+  "displayName": "POGS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "POGS Token",
+    "symbol": "POGS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

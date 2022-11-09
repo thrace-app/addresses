@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f25016925c9883b4379f7b7d3d69ec00ac10964",
+  "displayName": "Redolent Herring Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Redolent Herring Token",
+    "symbol": "REDHER-1",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

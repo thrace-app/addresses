@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f4db3b485e4c9d6e1545cab8614ca7266cd60f5",
+  "displayName": "LFI TEST",
+  "type": "TOKEN",
+  "token": {
+    "name": "LFI TEST",
+    "symbol": "LFITEST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

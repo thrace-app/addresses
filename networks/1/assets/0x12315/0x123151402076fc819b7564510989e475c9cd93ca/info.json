@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x123151402076fc819b7564510989e475c9cd93ca",
+  "displayName": "wrapped-DGLD",
+  "type": "TOKEN",
+  "token": {
+    "name": "wrapped-DGLD",
+    "symbol": "wDGLD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

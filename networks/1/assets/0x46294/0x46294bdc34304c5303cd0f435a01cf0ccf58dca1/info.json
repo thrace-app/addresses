@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46294bdc34304c5303cd0f435a01cf0ccf58dca1",
+  "displayName": "ElonPay",
+  "type": "TOKEN",
+  "token": {
+    "name": "ElonPay",
+    "symbol": "ELONPAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

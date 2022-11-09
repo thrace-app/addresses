@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1880627ef248ed129953510d3eb3563e1e10de4c",
+  "displayName": "Kit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kit Token",
+    "symbol": "KIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

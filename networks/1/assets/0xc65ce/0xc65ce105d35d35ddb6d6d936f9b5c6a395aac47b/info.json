@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc65ce105d35d35ddb6d6d936f9b5c6a395aac47b",
+  "displayName": "Bitcoin Dissolution",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Dissolution",
+    "symbol": "BTCD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

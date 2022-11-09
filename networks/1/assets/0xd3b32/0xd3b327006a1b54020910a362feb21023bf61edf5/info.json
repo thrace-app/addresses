@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3b327006a1b54020910a362feb21023bf61edf5",
+  "displayName": "Rocky Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rocky Inu",
+    "symbol": "$ROCKY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

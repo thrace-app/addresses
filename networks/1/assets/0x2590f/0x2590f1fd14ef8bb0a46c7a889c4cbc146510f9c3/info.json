@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2590f1fd14ef8bb0a46c7a889c4cbc146510f9c3",
+  "displayName": "Inverse BTC Volatility Index",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inverse BTC Volatility Index",
+    "symbol": "iBTCV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

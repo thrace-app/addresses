@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd469ca51eba410d67e86c22d21261bf2e964d224",
+  "displayName": "Torro DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Torro DAO Token",
+    "symbol": "TORRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

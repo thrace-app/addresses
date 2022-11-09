@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79b8ba872e8d02ace1891e31c3d11381b95cd518",
+  "displayName": "Grandi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grandi Token",
+    "symbol": "Grandi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10292a41a3f8fe2babdab39d2799f8243f162b64",
+  "displayName": "Tether Boy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tether Boy",
+    "symbol": "TBOY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

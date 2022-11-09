@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82dc1920e636b974fc8d7cf372efe32391f478fc",
+  "displayName": "Banana Split Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Banana Split Token",
+    "symbol": "BANANA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

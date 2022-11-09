@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabb6219303b1abe28f2c5bcb6ad05d307b7841e8",
+  "displayName": "MonkeyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MonkeyCoin",
+    "symbol": "MKC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

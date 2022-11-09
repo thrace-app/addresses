@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b0c60fc1435d3884a39ab42c8726f8e631b4f8b",
+  "displayName": "Joke Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Joke Finance",
+    "symbol": "JOKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22ddb9cf9e0f5604cad73f950670b360053f1454",
+  "displayName": "BonePaymentToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BonePaymentToken",
+    "symbol": "BXD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

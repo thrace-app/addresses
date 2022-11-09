@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa37e377324c1d5ffd87562cf906482a8ead60d1b",
+  "displayName": "BCH Note",
+  "type": "TOKEN",
+  "token": {
+    "name": "BCH Note",
+    "symbol": "BCHN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

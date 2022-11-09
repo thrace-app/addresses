@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb2a31cb92530241bcf91608dd4f760e48ce3aeec",
+  "displayName": "Lopcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lopcoin",
+    "symbol": "LOP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

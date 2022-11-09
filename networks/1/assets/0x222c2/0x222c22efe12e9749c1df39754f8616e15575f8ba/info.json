@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x222c22efe12e9749c1df39754f8616e15575f8ba",
+  "displayName": "MoonTogether",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonTogether",
+    "symbol": "MTG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

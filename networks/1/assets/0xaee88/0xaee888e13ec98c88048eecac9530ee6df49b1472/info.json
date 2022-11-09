@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaee888e13ec98c88048eecac9530ee6df49b1472",
+  "displayName": "Evil Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Evil Finance",
+    "symbol": "EVIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

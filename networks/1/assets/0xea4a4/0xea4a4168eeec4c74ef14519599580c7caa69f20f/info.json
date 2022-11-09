@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea4a4168eeec4c74ef14519599580c7caa69f20f",
+  "displayName": "Yorick",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yorick",
+    "symbol": "YourETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

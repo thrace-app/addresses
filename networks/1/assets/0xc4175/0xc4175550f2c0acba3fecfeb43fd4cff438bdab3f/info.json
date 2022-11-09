@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4175550f2c0acba3fecfeb43fd4cff438bdab3f",
+  "displayName": "Cupcake",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cupcake",
+    "symbol": "CUPCAKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

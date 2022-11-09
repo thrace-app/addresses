@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda38f3d22402d3e8b604a484c981d89190beff08",
+  "displayName": "Spades Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spades Coin",
+    "symbol": "SPADE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

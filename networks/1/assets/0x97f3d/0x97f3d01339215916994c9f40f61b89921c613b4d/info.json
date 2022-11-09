@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97f3d01339215916994c9f40f61b89921c613b4d",
+  "displayName": "ArchProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "ArchProtocol",
+    "symbol": "ARCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

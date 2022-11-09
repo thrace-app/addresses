@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07fa4e97a74c513cdef94ca500d45a5ea7736839",
+  "displayName": "Adoption Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Adoption Protocol",
+    "symbol": "Adoption",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

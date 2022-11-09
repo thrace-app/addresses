@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f78521e5dca76fb420b75909cb12f6300f53c69",
+  "displayName": "MobDex",
+  "type": "TOKEN",
+  "token": {
+    "name": "MobDex",
+    "symbol": "MOBDEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

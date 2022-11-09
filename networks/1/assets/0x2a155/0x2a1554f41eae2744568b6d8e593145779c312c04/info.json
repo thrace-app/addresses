@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a1554f41eae2744568b6d8e593145779c312c04",
+  "displayName": "DegenRebase",
+  "type": "TOKEN",
+  "token": {
+    "name": "DegenRebase",
+    "symbol": "DeGen",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

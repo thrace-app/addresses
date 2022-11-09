@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe9fb1758965b8b6c20445e558fe91a6db2b8f067",
+  "displayName": "Frog Man",
+  "type": "TOKEN",
+  "token": {
+    "name": "Frog Man",
+    "symbol": "FROGMAN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

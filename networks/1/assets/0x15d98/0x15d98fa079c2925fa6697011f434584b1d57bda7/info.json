@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15d98fa079c2925fa6697011f434584b1d57bda7",
+  "displayName": "Bitcoin Meta",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Meta",
+    "symbol": "BTCM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

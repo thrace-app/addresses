@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89c08383442efe6a88a87a095a37fee274b9d9a7",
+  "displayName": "LiveUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "LiveUSD",
+    "symbol": "USDL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

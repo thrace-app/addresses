@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64fab8aff039ed05259d1c2af729b70c8002c661",
+  "displayName": "Konsta token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Konsta token",
+    "symbol": "KNS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

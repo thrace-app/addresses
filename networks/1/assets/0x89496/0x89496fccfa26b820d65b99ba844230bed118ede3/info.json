@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89496fccfa26b820d65b99ba844230bed118ede3",
+  "displayName": "API3 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "API3 Token",
+    "symbol": "API3",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

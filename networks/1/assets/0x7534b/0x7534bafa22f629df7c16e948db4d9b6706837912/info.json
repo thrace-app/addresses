@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7534bafa22f629df7c16e948db4d9b6706837912",
+  "displayName": "FullSendElon",
+  "type": "TOKEN",
+  "token": {
+    "name": "FullSendElon",
+    "symbol": "FSELON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

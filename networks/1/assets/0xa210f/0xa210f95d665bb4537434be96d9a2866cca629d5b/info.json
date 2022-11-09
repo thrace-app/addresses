@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa210f95d665bb4537434be96d9a2866cca629d5b",
+  "displayName": "Wrapped Pulse",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Pulse",
+    "symbol": "WPLS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

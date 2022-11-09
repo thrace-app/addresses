@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xede8daeba53eeb6b25799f66890e011c2a05a097",
+  "displayName": "Doge Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Ape",
+    "symbol": "DOAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

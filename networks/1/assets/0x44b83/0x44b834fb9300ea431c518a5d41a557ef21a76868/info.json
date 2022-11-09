@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44b834fb9300ea431c518a5d41a557ef21a76868",
+  "displayName": "PulseSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "PulseSwap",
+    "symbol": "PLSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

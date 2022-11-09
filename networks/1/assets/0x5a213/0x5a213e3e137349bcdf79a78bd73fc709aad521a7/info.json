@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a213e3e137349bcdf79a78bd73fc709aad521a7",
+  "displayName": "ChungaLungaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChungaLungaCoin",
+    "symbol": "$CL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

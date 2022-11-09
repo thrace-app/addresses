@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1691f25c52860eb408a1cfb25b91d109c746941e",
+  "displayName": "StableOracleNetwork",
+  "type": "TOKEN",
+  "token": {
+    "name": "StableOracleNetwork",
+    "symbol": "STN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

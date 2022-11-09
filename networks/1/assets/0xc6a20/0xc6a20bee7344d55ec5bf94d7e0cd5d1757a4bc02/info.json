@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6a20bee7344d55ec5bf94d7e0cd5d1757a4bc02",
+  "displayName": "Trippy Apedog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trippy Apedog",
+    "symbol": "APEDOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

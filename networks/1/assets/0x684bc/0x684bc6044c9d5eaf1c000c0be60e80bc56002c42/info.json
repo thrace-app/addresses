@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x684bc6044c9d5eaf1c000c0be60e80bc56002c42",
+  "displayName": "Doughnut Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doughnut Coin",
+    "symbol": "DOUGH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

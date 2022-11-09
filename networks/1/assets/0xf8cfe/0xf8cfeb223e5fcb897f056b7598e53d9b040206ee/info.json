@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8cfeb223e5fcb897f056b7598e53d9b040206ee",
+  "displayName": "Mata Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mata Token",
+    "symbol": "MATA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

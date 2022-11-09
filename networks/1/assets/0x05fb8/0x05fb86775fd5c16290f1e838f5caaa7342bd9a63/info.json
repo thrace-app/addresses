@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05fb86775fd5c16290f1e838f5caaa7342bd9a63",
+  "displayName": "Hacken Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hacken Token",
+    "symbol": "HAI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

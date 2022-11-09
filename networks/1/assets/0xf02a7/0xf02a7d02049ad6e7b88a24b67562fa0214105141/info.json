@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf02a7d02049ad6e7b88a24b67562fa0214105141",
+  "displayName": "PeeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PeeCoin",
+    "symbol": "PeeCoin",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

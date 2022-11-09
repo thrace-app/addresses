@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb5b5f2bb086994ca307476480a2c04ef32cd304",
+  "displayName": "SPACE-X",
+  "type": "TOKEN",
+  "token": {
+    "name": "SPACE-X",
+    "symbol": "SPX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

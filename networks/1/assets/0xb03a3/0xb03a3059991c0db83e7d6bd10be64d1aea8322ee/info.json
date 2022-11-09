@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb03a3059991c0db83e7d6bd10be64d1aea8322ee",
+  "displayName": "Hatsune Miku",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hatsune Miku",
+    "symbol": "HATSUNE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

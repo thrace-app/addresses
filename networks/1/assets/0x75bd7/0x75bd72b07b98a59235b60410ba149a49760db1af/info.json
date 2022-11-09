@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75bd72b07b98a59235b60410ba149a49760db1af",
+  "displayName": "OG Fan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OG Fan Token",
+    "symbol": "OG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

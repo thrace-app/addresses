@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcbce3d0b4984e23d88ba0607f37d36c74e20fae9",
+  "displayName": "Hipster Food",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hipster Food",
+    "symbol": "FOOD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

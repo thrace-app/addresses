@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4fc7ba41b659da709926634caefa8bea6be12462",
+  "displayName": "Black Monday",
+  "type": "TOKEN",
+  "token": {
+    "name": "Black Monday",
+    "symbol": "B MONDAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4bcee5d00528dd367594e44a743a4c8ccf92b3f5",
+  "displayName": "Free Market Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Free Market Token",
+    "symbol": "FMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

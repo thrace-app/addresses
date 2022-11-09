@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6cb8211e26d53e0dc71c8705ee737454289e65f4",
+  "displayName": "Ninja Panda",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ninja Panda",
+    "symbol": "NINJAPANDA",
+    "decimals": 11,
+    "type": "ERC20"
+  }
+}

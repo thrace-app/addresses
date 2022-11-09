@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x203f20ad8643983a4109bae2ae9502deddbe4fe3",
+  "displayName": "Flippy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flippy Token",
+    "symbol": "Flippy",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8bc2883d32b3563cb3459db7283d0f31136445ea",
+  "displayName": "Dollar Pump",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dollar Pump",
+    "symbol": "DPUMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

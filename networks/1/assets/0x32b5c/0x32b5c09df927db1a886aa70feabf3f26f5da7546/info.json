@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32b5c09df927db1a886aa70feabf3f26f5da7546",
+  "displayName": "Fruit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fruit",
+    "symbol": "FRUIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

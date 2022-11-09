@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3dadd1295495a75c345ce003964a175b9036437b",
+  "displayName": "Cactus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cactus",
+    "symbol": "CCTS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

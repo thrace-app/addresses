@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c82ded7cb17bbc088869c7d66369f42e67d1fbe",
+  "displayName": "Elastic Euro",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elastic Euro",
+    "symbol": "eEUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd31e0359e1f611b3166144766a15babfbaced9c",
+  "displayName": "Vitalik is a Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitalik is a Cat",
+    "symbol": "CAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

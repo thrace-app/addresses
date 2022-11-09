@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x530dca804098c188e9669c4eec1e3c5ff89fd1fe",
+  "displayName": "VIP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VIP Token",
+    "symbol": "VIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

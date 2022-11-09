@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25cb4845937aa5e67e75a1cdb9a771e611a2fbc8",
+  "displayName": "Coyote Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coyote Inu",
+    "symbol": "CINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

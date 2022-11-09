@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c1eaeaec4d63b341c3b8e4b2222dc7831d98642",
+  "displayName": "Orion HOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "Orion HOGE",
+    "symbol": "OOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

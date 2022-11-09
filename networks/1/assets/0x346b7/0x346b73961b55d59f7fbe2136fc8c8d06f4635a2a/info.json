@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x346b73961b55d59f7fbe2136fc8c8d06f4635a2a",
+  "displayName": "Quadrillion Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quadrillion Token",
+    "symbol": "QQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ba205876eb265a240f8c32fe6d5b37f7f356596",
+  "displayName": "TronStarsToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TronStarsToken",
+    "symbol": "STARS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

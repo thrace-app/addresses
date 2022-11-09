@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20330876d8943cb981e2faba7f3bace0106cff9c",
+  "displayName": "P5x Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "P5x Token",
+    "symbol": "P5x",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

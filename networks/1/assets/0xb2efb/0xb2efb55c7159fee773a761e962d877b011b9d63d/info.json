@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb2efb55c7159fee773a761e962d877b011b9d63d",
+  "displayName": "PulseFeg",
+  "type": "TOKEN",
+  "token": {
+    "name": "PulseFeg",
+    "symbol": "PLSFEG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

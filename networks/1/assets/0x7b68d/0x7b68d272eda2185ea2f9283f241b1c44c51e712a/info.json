@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b68d272eda2185ea2f9283f241b1c44c51e712a",
+  "displayName": "Okschain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Okschain Token",
+    "symbol": "OKS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1de5c23bf8a583689e387bb18f927492d7480fd",
+  "displayName": "Mini FLOKI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini FLOKI Token",
+    "symbol": "Mini FLOKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe4a3475ccc1c1a000f2bb631085d5ef54cdd42b",
+  "displayName": "Auto Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Auto Doge",
+    "symbol": "AUGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

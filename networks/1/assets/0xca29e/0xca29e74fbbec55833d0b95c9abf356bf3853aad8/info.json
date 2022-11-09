@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca29e74fbbec55833d0b95c9abf356bf3853aad8",
+  "displayName": "Bitcicoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcicoin",
+    "symbol": "BITCI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

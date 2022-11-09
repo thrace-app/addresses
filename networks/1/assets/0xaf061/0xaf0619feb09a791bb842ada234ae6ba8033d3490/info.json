@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf0619feb09a791bb842ada234ae6ba8033d3490",
+  "displayName": "Chateau Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chateau Coin",
+    "symbol": "CHA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

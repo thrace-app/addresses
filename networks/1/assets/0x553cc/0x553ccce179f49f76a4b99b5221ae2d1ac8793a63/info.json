@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x553ccce179f49f76a4b99b5221ae2d1ac8793a63",
+  "displayName": "The cow excrement currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "The cow excrement currency",
+    "symbol": "TCEC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

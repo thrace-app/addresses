@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7fae160c6aadb5df7330e38d96462f60bc24ea9",
+  "displayName": "Kitschy Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kitschy Coin",
+    "symbol": "KTSCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

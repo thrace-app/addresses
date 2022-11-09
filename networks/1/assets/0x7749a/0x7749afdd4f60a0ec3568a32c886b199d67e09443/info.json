@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7749afdd4f60a0ec3568a32c886b199d67e09443",
+  "displayName": "SendWhale",
+  "type": "TOKEN",
+  "token": {
+    "name": "SendWhale",
+    "symbol": "SENDWHALE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x105b0f54ac97c72f2d4a77f92a7221d11bb1aa91",
+  "displayName": "ZKSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZKSwap",
+    "symbol": "ZKS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

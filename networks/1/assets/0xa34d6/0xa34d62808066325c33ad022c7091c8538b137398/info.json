@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa34d62808066325c33ad022c7091c8538b137398",
+  "displayName": "Proof Of Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof Of Money",
+    "symbol": "BRR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65b43d0e49698d6a3f0f52998c135e3b1263340b",
+  "displayName": "KIM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KIM Token",
+    "symbol": "KIM",
+    "decimals": 16,
+    "type": "ERC20"
+  }
+}

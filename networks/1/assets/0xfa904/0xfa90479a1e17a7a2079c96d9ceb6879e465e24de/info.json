@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa90479a1e17a7a2079c96d9ceb6879e465e24de",
+  "displayName": "TESTUNDT_V1",
+  "type": "TOKEN",
+  "token": {
+    "name": "TESTUNDT_V1",
+    "symbol": "TESTUNDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

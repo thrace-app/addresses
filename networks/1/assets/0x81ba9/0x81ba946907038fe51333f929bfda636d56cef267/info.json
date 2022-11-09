@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81ba946907038fe51333f929bfda636d56cef267",
+  "displayName": "PepemonFactory",
+  "type": "TOKEN",
+  "token": {
+    "name": "PepemonFactory",
+    "symbol": "PEPEMON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

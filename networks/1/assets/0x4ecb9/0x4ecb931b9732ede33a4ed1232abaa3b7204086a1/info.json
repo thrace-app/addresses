@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ecb931b9732ede33a4ed1232abaa3b7204086a1",
+  "displayName": "Partner Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Partner Doge",
+    "symbol": "PDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

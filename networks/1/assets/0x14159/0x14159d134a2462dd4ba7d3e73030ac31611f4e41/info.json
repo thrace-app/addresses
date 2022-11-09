@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14159d134a2462dd4ba7d3e73030ac31611f4e41",
+  "displayName": "Gold Hoe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gold Hoe",
+    "symbol": "HOE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

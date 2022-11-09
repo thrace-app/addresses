@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x835cb827b9d3d6dd329cd57f01e6946abc32a7fe",
+  "displayName": "Game Changer",
+  "type": "TOKEN",
+  "token": {
+    "name": "Game Changer",
+    "symbol": "GC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

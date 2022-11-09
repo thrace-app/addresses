@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c3d00cbd1b4467424d4f1f27fb4a0f2dfcdd2f2",
+  "displayName": "Shaka Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shaka Token",
+    "symbol": "SHAKA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

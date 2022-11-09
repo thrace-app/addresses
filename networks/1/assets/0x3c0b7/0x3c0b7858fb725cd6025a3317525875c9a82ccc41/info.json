@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c0b7858fb725cd6025a3317525875c9a82ccc41",
+  "displayName": "Frankenstein Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Frankenstein Inu",
+    "symbol": "FRANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

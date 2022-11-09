@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6515e93708a0be2bacda1afcb3b0723f532f2f76",
+  "displayName": "SNKR Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SNKR Coin",
+    "symbol": "SNKR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

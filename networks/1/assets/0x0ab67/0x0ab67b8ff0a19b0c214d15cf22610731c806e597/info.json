@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ab67b8ff0a19b0c214d15cf22610731c806e597",
+  "displayName": "Mini Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini Cat",
+    "symbol": "MCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

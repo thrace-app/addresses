@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93655ee0cde6e85a056e0f65bb7ad2bfe8b30b2b",
+  "displayName": "EAUToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "EAUToken",
+    "symbol": "EAU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

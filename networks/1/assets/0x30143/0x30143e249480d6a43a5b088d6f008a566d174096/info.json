@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30143e249480d6a43a5b088d6f008a566d174096",
+  "displayName": "SHIBOR",
+  "type": "TOKEN",
+  "token": {
+    "name": "SHIBOR",
+    "symbol": "SHIBOR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

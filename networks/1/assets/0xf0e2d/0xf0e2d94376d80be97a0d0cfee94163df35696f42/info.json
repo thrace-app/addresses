@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0e2d94376d80be97a0d0cfee94163df35696f42",
+  "displayName": "Kyuubi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kyuubi Token",
+    "symbol": "KYU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

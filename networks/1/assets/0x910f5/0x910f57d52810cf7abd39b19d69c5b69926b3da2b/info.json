@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x910f57d52810cf7abd39b19d69c5b69926b3da2b",
+  "displayName": "Green Turtle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Turtle",
+    "symbol": "GTC",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

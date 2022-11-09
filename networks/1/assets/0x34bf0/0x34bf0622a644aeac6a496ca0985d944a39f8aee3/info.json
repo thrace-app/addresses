@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34bf0622a644aeac6a496ca0985d944a39f8aee3",
+  "displayName": "xDIAToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "xDIAToken",
+    "symbol": "xDIA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

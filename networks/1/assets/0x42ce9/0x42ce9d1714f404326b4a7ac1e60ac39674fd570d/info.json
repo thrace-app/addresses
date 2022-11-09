@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42ce9d1714f404326b4a7ac1e60ac39674fd570d",
+  "displayName": "DAS Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAS Protocol",
+    "symbol": "DAS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

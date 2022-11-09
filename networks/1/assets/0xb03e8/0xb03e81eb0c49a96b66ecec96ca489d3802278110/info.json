@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb03e81eb0c49a96b66ecec96ca489d3802278110",
+  "displayName": "Meny Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meny Network Token",
+    "symbol": "MENY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

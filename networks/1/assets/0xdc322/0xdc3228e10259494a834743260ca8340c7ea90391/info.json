@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc3228e10259494a834743260ca8340c7ea90391",
+  "displayName": "Marco Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Marco Token",
+    "symbol": "MRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

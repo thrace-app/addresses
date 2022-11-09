@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeafaf0ae730711a1da037636106c08571bffefe3",
+  "displayName": "AMM",
+  "type": "TOKEN",
+  "token": {
+    "name": "AMM",
+    "symbol": "AMM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

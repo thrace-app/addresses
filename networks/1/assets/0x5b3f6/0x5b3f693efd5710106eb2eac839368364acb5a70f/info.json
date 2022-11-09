@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b3f693efd5710106eb2eac839368364acb5a70f",
+  "displayName": "Relayer",
+  "type": "TOKEN",
+  "token": {
+    "name": "Relayer",
+    "symbol": "RLR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

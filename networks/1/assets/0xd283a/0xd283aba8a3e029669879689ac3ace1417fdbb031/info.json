@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd283aba8a3e029669879689ac3ace1417fdbb031",
+  "displayName": "Paypal DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Paypal DAO",
+    "symbol": "PAYPAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

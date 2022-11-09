@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00",
+  "displayName": "Aave Interest bearing BAT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave Interest bearing BAT",
+    "symbol": "aBAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

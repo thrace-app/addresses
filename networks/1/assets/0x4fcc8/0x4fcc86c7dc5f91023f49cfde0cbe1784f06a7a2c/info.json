@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4fcc86c7dc5f91023f49cfde0cbe1784f06a7a2c",
+  "displayName": "Uniswap Scam Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uniswap Scam Token",
+    "symbol": "SCAM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

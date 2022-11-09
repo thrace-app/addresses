@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2859021ee7f2cb10162e67f33af2d22764b31aff",
+  "displayName": "Silent Notary Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Silent Notary Token",
+    "symbol": "SNTR",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

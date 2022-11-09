@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd441508c19873414ce054a2308792fb3ada87147",
+  "displayName": "Rick and Morty V2",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rick and Morty V2",
+    "symbol": "RAM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

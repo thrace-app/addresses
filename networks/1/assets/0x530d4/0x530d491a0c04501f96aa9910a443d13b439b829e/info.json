@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x530d491a0c04501f96aa9910a443d13b439b829e",
+  "displayName": "Dragon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dragon",
+    "symbol": "DRAGON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

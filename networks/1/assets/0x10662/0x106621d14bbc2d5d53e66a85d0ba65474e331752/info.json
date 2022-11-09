@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x106621d14bbc2d5d53e66a85d0ba65474e331752",
+  "displayName": "CookieSale",
+  "type": "TOKEN",
+  "token": {
+    "name": "CookieSale",
+    "symbol": "COOKIE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

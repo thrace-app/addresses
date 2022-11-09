@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb441cbde4966821da00b1d2e0e0b6ecd36f84e3d",
+  "displayName": "Red Socks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Red Socks",
+    "symbol": "RSOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

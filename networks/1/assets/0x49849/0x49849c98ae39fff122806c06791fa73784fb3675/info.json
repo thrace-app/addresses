@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49849c98ae39fff122806c06791fa73784fb3675",
+  "displayName": "Curve.fi renBTC/wBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve.fi renBTC/wBTC",
+    "symbol": "crvRenWBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

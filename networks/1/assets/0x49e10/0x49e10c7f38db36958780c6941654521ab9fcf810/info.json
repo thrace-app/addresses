@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49e10c7f38db36958780c6941654521ab9fcf810",
+  "displayName": "Trillion Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trillion Ethereum",
+    "symbol": "TTE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

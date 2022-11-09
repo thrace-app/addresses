@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a732bc91c33c167f868e0af7e6f31e0776d0f71",
+  "displayName": "Litecoin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Litecoin Token",
+    "symbol": "LTK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

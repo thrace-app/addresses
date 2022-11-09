@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7de0cc2f19f7ae686c134ab3f41d3f6d10311d95",
+  "displayName": "ShortIT",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShortIT",
+    "symbol": "Short",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

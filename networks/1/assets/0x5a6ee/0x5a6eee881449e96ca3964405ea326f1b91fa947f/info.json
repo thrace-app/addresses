@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a6eee881449e96ca3964405ea326f1b91fa947f",
+  "displayName": "ResearchCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ResearchCoin",
+    "symbol": "RSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

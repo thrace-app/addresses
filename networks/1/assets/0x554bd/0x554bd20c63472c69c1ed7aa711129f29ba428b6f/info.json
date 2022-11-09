@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x554bd20c63472c69c1ed7aa711129f29ba428b6f",
+  "displayName": "PrimeBurn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PrimeBurn Token",
+    "symbol": "PRIME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

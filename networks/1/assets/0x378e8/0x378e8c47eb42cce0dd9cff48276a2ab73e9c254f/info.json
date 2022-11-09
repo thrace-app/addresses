@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x378e8c47eb42cce0dd9cff48276a2ab73e9c254f",
+  "displayName": "Golden Duck",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Duck",
+    "symbol": "GOLDUCK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

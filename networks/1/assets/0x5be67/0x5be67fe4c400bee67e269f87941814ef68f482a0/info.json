@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5be67fe4c400bee67e269f87941814ef68f482a0",
+  "displayName": "Fusion Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fusion Token",
+    "symbol": "FST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

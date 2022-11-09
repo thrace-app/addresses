@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1bd6a0324e7d7893982e9e0ae2e1006aa4fa9c8",
+  "displayName": "Vitalik Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitalik Gold",
+    "symbol": "VITG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

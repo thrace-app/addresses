@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36b72e22bc584015f07c586c11d8bd5bcf788356",
+  "displayName": "UcanSwap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UcanSwap Token",
+    "symbol": "UCS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

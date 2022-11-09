@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x933dfc5622792b41245ab8313416caf0ba885ae7",
+  "displayName": "CoinBroker",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinBroker",
+    "symbol": "COBR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

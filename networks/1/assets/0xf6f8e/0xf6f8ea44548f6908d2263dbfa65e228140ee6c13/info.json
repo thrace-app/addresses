@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6f8ea44548f6908d2263dbfa65e228140ee6c13",
+  "displayName": "MERC contract",
+  "type": "TOKEN",
+  "token": {
+    "name": "MERC contract",
+    "symbol": "MERC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

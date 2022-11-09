@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02cc2fdad06ce75eaf380d7a20b4a12686f1f834",
+  "displayName": "hellbound",
+  "type": "TOKEN",
+  "token": {
+    "name": "hellbound",
+    "symbol": "$Hell",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

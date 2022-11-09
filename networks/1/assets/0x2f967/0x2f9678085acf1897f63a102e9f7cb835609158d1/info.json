@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f9678085acf1897f63a102e9f7cb835609158d1",
+  "displayName": "Vitalik Buterin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitalik Buterin",
+    "symbol": "VB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

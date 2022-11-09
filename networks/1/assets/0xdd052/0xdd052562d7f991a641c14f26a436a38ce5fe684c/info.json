@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd052562d7f991a641c14f26a436a38ce5fe684c",
+  "displayName": "Everything App",
+  "type": "TOKEN",
+  "token": {
+    "name": "Everything App",
+    "symbol": "X",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ef3a7fca0a54d67612e550d0d8bdf7b674f2940",
+  "displayName": "meToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "meToken",
+    "symbol": "ROOTZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

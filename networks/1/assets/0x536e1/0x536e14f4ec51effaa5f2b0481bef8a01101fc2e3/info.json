@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x536e14f4ec51effaa5f2b0481bef8a01101fc2e3",
+  "displayName": "ratelimit",
+  "type": "TOKEN",
+  "token": {
+    "name": "ratelimit",
+    "symbol": "ratelimit",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa663121582725aa0eb8bf20b0f56f1917762e873",
+  "displayName": "MutantToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MutantToken",
+    "symbol": "MUTANT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

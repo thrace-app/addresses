@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x31ba4c7879404d368f59c3214206113a470017b1",
+  "displayName": "The Pope Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Pope Doge",
+    "symbol": "POPEDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

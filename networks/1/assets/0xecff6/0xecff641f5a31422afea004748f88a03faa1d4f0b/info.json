@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecff641f5a31422afea004748f88a03faa1d4f0b",
+  "displayName": "JDOGE.Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JDOGE.Token",
+    "symbol": "JDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x229d1ed07310a9aaaf7bda570825b0c4089b88ad",
+  "displayName": "demetracoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "demetracoin",
+    "symbol": "dema",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

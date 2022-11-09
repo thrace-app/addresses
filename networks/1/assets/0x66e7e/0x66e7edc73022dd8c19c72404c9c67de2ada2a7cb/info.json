@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66e7edc73022dd8c19c72404c9c67de2ada2a7cb",
+  "displayName": "Wrapped LUNA 2.0",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped LUNA 2.0",
+    "symbol": "LUNA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

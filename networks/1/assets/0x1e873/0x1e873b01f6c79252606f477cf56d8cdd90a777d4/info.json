@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e873b01f6c79252606f477cf56d8cdd90a777d4",
+  "displayName": "Defi Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Defi Ape",
+    "symbol": "$DefiApe",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

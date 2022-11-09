@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25522c07cf7d4203b3cde50cb1fc6616ac1adca6",
+  "displayName": "Donut",
+  "type": "TOKEN",
+  "token": {
+    "name": "Donut",
+    "symbol": "DONUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

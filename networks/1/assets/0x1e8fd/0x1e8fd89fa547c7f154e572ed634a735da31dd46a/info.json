@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e8fd89fa547c7f154e572ed634a735da31dd46a",
+  "displayName": "Space X",
+  "type": "TOKEN",
+  "token": {
+    "name": "Space X",
+    "symbol": "SPCX",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

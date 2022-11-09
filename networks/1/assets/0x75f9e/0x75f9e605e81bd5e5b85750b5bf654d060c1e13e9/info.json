@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75f9e605e81bd5e5b85750b5bf654d060c1e13e9",
+  "displayName": "cucumber",
+  "type": "TOKEN",
+  "token": {
+    "name": "cucumber",
+    "symbol": "CUC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

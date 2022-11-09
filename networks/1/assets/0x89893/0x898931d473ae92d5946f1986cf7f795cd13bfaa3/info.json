@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x898931d473ae92d5946f1986cf7f795cd13bfaa3",
+  "displayName": "Monster Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monster Token",
+    "symbol": "MNST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

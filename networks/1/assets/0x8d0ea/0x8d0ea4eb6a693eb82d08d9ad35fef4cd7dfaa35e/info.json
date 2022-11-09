@@ -1,0 +1,11 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d0ea4eb6a693eb82d08d9ad35fef4cd7dfaa35e",
+  "displayName": "Hello Rekt Kitty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hello Rekt Kitty",
+    "symbol": "HRK",
+    "type": "ERC721"
+  }
+}

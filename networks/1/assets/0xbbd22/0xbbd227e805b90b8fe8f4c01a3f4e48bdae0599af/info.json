@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbd227e805b90b8fe8f4c01a3f4e48bdae0599af",
+  "displayName": "Phoneum Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Phoneum Token",
+    "symbol": "PHT",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

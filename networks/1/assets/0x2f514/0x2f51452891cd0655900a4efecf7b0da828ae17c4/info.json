@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f51452891cd0655900a4efecf7b0da828ae17c4",
+  "displayName": "Gong Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gong Token",
+    "symbol": "GONG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

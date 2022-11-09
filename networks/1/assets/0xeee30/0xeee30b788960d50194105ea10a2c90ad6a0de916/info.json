@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeee30b788960d50194105ea10a2c90ad6a0de916",
+  "displayName": "MadronCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MadronCoin",
+    "symbol": "MaDron",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

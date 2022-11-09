@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d1142519e302597e338b0eee209f80403112340",
+  "displayName": "Street Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Street Doge",
+    "symbol": "STDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

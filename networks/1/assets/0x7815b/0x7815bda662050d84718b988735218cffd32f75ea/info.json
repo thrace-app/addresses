@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7815bda662050d84718b988735218cffd32f75ea",
+  "displayName": "YEL Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YEL Token",
+    "symbol": "YEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

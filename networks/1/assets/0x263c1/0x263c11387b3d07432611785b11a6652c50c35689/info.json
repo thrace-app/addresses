@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x263c11387b3d07432611785b11a6652c50c35689",
+  "displayName": "CoinDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinDao",
+    "symbol": "CO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

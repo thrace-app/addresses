@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe85420c5885b39a1cf2523314b7e25d56fa143c2",
+  "displayName": "GardofToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GardofToken",
+    "symbol": "GARDOF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd566b28a954b032bce9fc43607c46897085ff7fd",
+  "displayName": "Chocolate Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chocolate Inu",
+    "symbol": "CHOCOINU",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

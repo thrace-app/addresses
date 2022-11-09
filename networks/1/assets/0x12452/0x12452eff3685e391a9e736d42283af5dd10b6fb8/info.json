@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12452eff3685e391a9e736d42283af5dd10b6fb8",
+  "displayName": "Satoshiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Satoshiba",
+    "symbol": "Satoshiba",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

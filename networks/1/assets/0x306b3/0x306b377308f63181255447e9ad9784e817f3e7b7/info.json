@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x306b377308f63181255447e9ad9784e817f3e7b7",
+  "displayName": "水果币",
+  "type": "TOKEN",
+  "token": {
+    "name": "水果币",
+    "symbol": "SGB",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

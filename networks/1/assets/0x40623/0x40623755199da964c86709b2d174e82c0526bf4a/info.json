@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40623755199da964c86709b2d174e82c0526bf4a",
+  "displayName": "Salt Miner",
+  "type": "TOKEN",
+  "token": {
+    "name": "Salt Miner",
+    "symbol": "SALT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

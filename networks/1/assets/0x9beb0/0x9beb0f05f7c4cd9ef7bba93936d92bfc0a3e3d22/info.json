@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9beb0f05f7c4cd9ef7bba93936d92bfc0a3e3d22",
+  "displayName": "eMOBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "eMOBank",
+    "symbol": "eMOB",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f0921f30555624143d427b340b1156914882c10",
+  "displayName": "Flyp.me Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flyp.me Token",
+    "symbol": "FYP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

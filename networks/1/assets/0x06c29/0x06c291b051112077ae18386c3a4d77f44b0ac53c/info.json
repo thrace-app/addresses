@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06c291b051112077ae18386c3a4d77f44b0ac53c",
+  "displayName": "Upbots.net Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Upbots.net Token",
+    "symbol": "UBXT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

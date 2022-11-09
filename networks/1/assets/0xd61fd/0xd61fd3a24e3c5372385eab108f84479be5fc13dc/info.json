@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd61fd3a24e3c5372385eab108f84479be5fc13dc",
+  "displayName": "Team Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Team Finance Token",
+    "symbol": "TFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

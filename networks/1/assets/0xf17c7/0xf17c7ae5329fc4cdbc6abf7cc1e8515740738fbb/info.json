@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf17c7ae5329fc4cdbc6abf7cc1e8515740738fbb",
+  "displayName": "Golden beans",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden beans",
+    "symbol": "GB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

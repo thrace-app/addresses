@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9624d1e7d028152d88b827177b36cfc368a5d0c7",
+  "displayName": "Khabby Fan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Khabby Fan Token",
+    "symbol": "KhabbFT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

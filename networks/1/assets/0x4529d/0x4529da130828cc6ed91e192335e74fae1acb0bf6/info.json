@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4529da130828cc6ed91e192335e74fae1acb0bf6",
+  "displayName": "Ducker Burn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ducker Burn Token",
+    "symbol": "DBT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

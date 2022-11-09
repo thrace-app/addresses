@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0dfb961b8f3276a4459189d0f959c15e30cdb877",
+  "displayName": "LVcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LVcoin",
+    "symbol": "LV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

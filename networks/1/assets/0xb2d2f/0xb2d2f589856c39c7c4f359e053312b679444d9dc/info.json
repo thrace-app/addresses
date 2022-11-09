@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb2d2f589856c39c7c4f359e053312b679444d9dc",
+  "displayName": "PKT",
+  "type": "TOKEN",
+  "token": {
+    "name": "PKT",
+    "symbol": "PKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64bb4fb88110e0ed617f4dc6368be72b0bd0f6bb",
+  "displayName": "Kirara",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kirara",
+    "symbol": "KIRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

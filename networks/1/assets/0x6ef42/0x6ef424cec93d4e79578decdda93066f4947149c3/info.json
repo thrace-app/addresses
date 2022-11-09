@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ef424cec93d4e79578decdda93066f4947149c3",
+  "displayName": "Fractal Protocol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fractal Protocol Token",
+    "symbol": "FCL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

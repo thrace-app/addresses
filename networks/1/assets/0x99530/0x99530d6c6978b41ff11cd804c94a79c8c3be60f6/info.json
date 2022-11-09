@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99530d6c6978b41ff11cd804c94a79c8c3be60f6",
+  "displayName": "BitNote",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitNote",
+    "symbol": "BTNS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

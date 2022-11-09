@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe18b0365d5d09f394f84ee56ed29dd2d8d6fba5f",
+  "displayName": "APY Pool Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "APY Pool Token",
+    "symbol": "APT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

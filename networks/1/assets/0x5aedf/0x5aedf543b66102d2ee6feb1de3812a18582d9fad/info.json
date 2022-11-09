@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5aedf543b66102d2ee6feb1de3812a18582d9fad",
+  "displayName": "Tether Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tether Inu",
+    "symbol": "TETHERINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

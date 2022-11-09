@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa966341fd23b6e0ab3593455ecf2261192b757e1",
+  "displayName": "Truffle Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Truffle Protocol",
+    "symbol": "TRUFFLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

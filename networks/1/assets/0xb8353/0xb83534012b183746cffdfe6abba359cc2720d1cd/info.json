@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb83534012b183746cffdfe6abba359cc2720d1cd",
+  "displayName": "Synth Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth Bitcoin",
+    "symbol": "xBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38655d64bd7a578a2232e191a8e83b8de46a681a",
+  "displayName": "Hiragana Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hiragana Token",
+    "symbol": "HIRAGANA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

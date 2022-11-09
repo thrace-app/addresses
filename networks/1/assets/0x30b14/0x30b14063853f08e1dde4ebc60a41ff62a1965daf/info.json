@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30b14063853f08e1dde4ebc60a41ff62a1965daf",
+  "displayName": "ArtoriousCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ArtoriousCoin",
+    "symbol": "ARTORIOUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b1cfe65185c950da8a33160cf96eeb34594310c",
+  "displayName": "서울사랑화폐",
+  "type": "TOKEN",
+  "token": {
+    "name": "서울사랑화폐",
+    "symbol": "SEOUL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

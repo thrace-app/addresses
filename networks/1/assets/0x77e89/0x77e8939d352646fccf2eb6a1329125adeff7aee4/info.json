@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77e8939d352646fccf2eb6a1329125adeff7aee4",
+  "displayName": "Humming Bird",
+  "type": "TOKEN",
+  "token": {
+    "name": "Humming Bird",
+    "symbol": "HBird",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

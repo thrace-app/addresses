@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x524ebc93beef838f70b4ae54b675d3e971d5884e",
+  "displayName": "Challenge Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Challenge Coin",
+    "symbol": "HERO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

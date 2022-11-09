@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9378e4fcc68d5bfb4d5531d80f44bdf2291126ad",
+  "displayName": "Mice Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mice Token",
+    "symbol": "MICE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

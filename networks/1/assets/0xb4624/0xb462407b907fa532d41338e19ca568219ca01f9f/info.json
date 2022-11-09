@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb462407b907fa532d41338e19ca568219ca01f9f",
+  "displayName": "Black Sheep",
+  "type": "TOKEN",
+  "token": {
+    "name": "Black Sheep",
+    "symbol": "BS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

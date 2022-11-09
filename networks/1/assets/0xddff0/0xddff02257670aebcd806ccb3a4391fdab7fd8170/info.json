@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xddff02257670aebcd806ccb3a4391fdab7fd8170",
+  "displayName": "Liquid Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Liquid Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

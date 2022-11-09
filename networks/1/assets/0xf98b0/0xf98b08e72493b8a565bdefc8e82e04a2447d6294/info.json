@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf98b08e72493b8a565bdefc8e82e04a2447d6294",
+  "displayName": "Decentralized Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Decentralized Token",
+    "symbol": "DC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

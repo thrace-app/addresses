@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40926aeab3828fda7b97b04dbd47d2fb876a7fa9",
+  "displayName": "No Use Case Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "No Use Case Token",
+    "symbol": "NUCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

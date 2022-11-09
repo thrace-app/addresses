@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8433514498513532c2b2aa4a79f330d956951d12",
+  "displayName": "Becho Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Becho Token",
+    "symbol": "BECHO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

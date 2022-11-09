@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0d2146d19ae7ae571e5a15ff682472b6229efd8",
+  "displayName": "KEEPTokenCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KEEPTokenCoin",
+    "symbol": "KTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

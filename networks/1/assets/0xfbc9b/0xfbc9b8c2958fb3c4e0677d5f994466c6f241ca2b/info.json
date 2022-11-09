@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfbc9b8c2958fb3c4e0677d5f994466c6f241ca2b",
+  "displayName": "LingLu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LingLu Token",
+    "symbol": "LLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

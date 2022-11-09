@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4a81c18816c9b0ab98fac51b36dcb63b0e58fde",
+  "displayName": "yieldwars.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "yieldwars.com",
+    "symbol": "WAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

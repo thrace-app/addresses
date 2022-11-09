@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83a03560d06d333c4beee519051a6aaee143c66d",
+  "displayName": "Bounty Pool Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bounty Pool Coin",
+    "symbol": "BPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

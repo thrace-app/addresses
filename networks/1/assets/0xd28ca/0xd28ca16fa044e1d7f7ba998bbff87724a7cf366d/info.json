@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd28ca16fa044e1d7f7ba998bbff87724a7cf366d",
+  "displayName": "NDEToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NDEToken",
+    "symbol": "NDE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

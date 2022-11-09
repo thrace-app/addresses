@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc272ac5c1ec219344fbf4d3be790cda6cc2d8ab8",
+  "displayName": "PROOF OF STAKE",
+  "type": "TOKEN",
+  "token": {
+    "name": "PROOF OF STAKE",
+    "symbol": "PoS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

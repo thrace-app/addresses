@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf74941046389c78f12fe44784c0ec9ca7ceb7dc2",
+  "displayName": "Dreamr Platform Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dreamr Platform Token",
+    "symbol": "DMR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

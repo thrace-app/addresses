@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23d5b30e6be22ff1b21ff3c700e5fed856995ba4",
+  "displayName": "SlingshotToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SlingshotToken",
+    "symbol": "SLC",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75b351d3fa8876761d6059b4006472c4281fed45",
+  "displayName": "Starlander",
+  "type": "TOKEN",
+  "token": {
+    "name": "Starlander",
+    "symbol": "STARLANDER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

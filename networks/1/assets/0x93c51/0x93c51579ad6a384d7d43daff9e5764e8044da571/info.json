@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93c51579ad6a384d7d43daff9e5764e8044da571",
+  "displayName": "Fan Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fan Doge",
+    "symbol": "FDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

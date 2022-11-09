@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba23485a04b897c957918fde2dabd4867838140b",
+  "displayName": "MARKET Protocol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MARKET Protocol Token",
+    "symbol": "MKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3c6abb23189b5767e397f288dd62e7938acc972",
+  "displayName": "meToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "meToken",
+    "symbol": "$SAIMANO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

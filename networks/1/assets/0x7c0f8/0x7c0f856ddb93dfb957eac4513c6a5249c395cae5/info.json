@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c0f856ddb93dfb957eac4513c6a5249c395cae5",
+  "displayName": "Easily Echangeable Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Easily Echangeable Token",
+    "symbol": "EET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

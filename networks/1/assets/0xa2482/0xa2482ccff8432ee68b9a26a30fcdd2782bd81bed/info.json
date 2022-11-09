@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa2482ccff8432ee68b9a26a30fcdd2782bd81bed",
+  "displayName": "Wrapped Leviathan",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Leviathan",
+    "symbol": "WLEV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

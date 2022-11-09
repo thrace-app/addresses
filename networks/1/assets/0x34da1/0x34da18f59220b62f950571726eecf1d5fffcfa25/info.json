@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34da18f59220b62f950571726eecf1d5fffcfa25",
+  "displayName": "Nitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nitcoin",
+    "symbol": "NTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

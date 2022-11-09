@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba9350a09382f9e8ecfb4fef0fb35351afa37133",
+  "displayName": "OPTUN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OPTUN Token",
+    "symbol": "OPTU",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

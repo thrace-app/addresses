@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9905b5e7bdba1484ba4d1163ab087b3e539257ea",
+  "displayName": "Electronic Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Electronic Gold",
+    "symbol": "eGOLD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

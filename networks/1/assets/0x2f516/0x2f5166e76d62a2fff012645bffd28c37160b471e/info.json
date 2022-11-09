@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f5166e76d62a2fff012645bffd28c37160b471e",
+  "displayName": "MiMi_token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MiMi_token",
+    "symbol": "MMI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b96eae2b946f8e430c0c36d5c94a5423ddaea02",
+  "displayName": "MicroDose",
+  "type": "TOKEN",
+  "token": {
+    "name": "MicroDose",
+    "symbol": "MICRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

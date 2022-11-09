@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1005d1b99cf0c0d6381578cf434eee107d5ed4fc",
+  "displayName": "DraculaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DraculaToken",
+    "symbol": "DRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

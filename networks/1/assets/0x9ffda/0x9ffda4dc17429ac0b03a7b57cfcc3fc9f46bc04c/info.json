@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ffda4dc17429ac0b03a7b57cfcc3fc9f46bc04c",
+  "displayName": "HydroMatic",
+  "type": "TOKEN",
+  "token": {
+    "name": "HydroMatic",
+    "symbol": "HYDRO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

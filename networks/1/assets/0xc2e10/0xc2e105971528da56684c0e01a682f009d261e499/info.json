@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2e105971528da56684c0e01a682f009d261e499",
+  "displayName": "Example Rewards Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Example Rewards Token",
+    "symbol": "RWRD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf78a401fa08b3ad32d87351f94fe4d78452dbf66",
+  "displayName": "Burn Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burn Ape",
+    "symbol": "$BAPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

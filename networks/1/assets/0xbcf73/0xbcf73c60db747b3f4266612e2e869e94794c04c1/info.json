@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbcf73c60db747b3f4266612e2e869e94794c04c1",
+  "displayName": "Quantum Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quantum Coin",
+    "symbol": "QUANTUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

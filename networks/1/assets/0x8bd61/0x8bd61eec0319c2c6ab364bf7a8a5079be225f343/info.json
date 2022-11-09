@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8bd61eec0319c2c6ab364bf7a8a5079be225f343",
+  "displayName": "Totally normal token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Totally normal token",
+    "symbol": "TONT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

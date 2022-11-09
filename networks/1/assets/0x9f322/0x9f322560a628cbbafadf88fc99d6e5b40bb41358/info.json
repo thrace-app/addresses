@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f322560a628cbbafadf88fc99d6e5b40bb41358",
+  "displayName": "Boboo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boboo Token",
+    "symbol": "BOBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

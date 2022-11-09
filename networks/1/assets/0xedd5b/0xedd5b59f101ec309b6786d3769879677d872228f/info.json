@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xedd5b59f101ec309b6786d3769879677d872228f",
+  "displayName": "Shockwave",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shockwave",
+    "symbol": "SHOCK",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

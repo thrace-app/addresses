@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08fadaccdc1872666d209dfcef1b1bbcb4cafb5e",
+  "displayName": "The Vision",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Vision",
+    "symbol": "VISION",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

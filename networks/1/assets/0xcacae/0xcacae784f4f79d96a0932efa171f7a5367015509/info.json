@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcacae784f4f79d96a0932efa171f7a5367015509",
+  "displayName": "Zappa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zappa Token",
+    "symbol": "ZAPPA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

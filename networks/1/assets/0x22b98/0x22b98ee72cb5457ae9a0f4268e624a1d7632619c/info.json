@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22b98ee72cb5457ae9a0f4268e624a1d7632619c",
+  "displayName": "Kuma Saitama",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kuma Saitama",
+    "symbol": "KUMATAMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

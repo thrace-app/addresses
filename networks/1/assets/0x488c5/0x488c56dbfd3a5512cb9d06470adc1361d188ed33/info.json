@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x488c56dbfd3a5512cb9d06470adc1361d188ed33",
+  "displayName": "FEStoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FEStoken",
+    "symbol": "FES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

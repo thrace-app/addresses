@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf4bdb270453b45b1785ae753f97853f11c79323",
+  "displayName": "Worker Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Worker Doge",
+    "symbol": "WDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

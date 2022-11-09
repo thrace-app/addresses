@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92e9bb06faa0f94af2d3f8ea1707318aa4757a77",
+  "displayName": "P2GaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "P2GaCoin",
+    "symbol": "P2Ga",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

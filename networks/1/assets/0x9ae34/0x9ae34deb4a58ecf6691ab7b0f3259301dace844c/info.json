@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ae34deb4a58ecf6691ab7b0f3259301dace844c",
+  "displayName": "BVBcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BVBcoin",
+    "symbol": "BVB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

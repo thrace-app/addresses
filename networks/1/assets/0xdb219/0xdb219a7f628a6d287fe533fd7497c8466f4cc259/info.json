@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb219a7f628a6d287fe533fd7497c8466f4cc259",
+  "displayName": "Howly Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Howly Token",
+    "symbol": "Howly",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

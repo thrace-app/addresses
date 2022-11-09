@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb46c550539ac3db72dc7af7c89b11c306c727c2",
+  "displayName": "Poly Ontology Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Poly Ontology Token",
+    "symbol": "pONT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ee2f70fb525596d8bdf5337c7aa9f8e4bba366d",
+  "displayName": "Kuki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kuki Token",
+    "symbol": "KUKI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

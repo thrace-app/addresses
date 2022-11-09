@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76ce0983e8f6250a1a959f13b0d84d6e5464a072",
+  "displayName": "Fractional Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fractional Shiba",
+    "symbol": "NFSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

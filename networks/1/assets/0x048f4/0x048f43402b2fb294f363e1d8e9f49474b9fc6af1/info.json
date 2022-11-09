@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x048f43402b2fb294f363e1d8e9f49474b9fc6af1",
+  "displayName": "FarmerToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FarmerToken",
+    "symbol": "BAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

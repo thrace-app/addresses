@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd434a09191d401da3283a5545bb3515d033b8c4",
+  "displayName": "GIX Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GIX Coin",
+    "symbol": "GIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

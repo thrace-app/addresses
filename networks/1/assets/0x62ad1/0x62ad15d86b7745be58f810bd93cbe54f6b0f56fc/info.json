@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62ad15d86b7745be58f810bd93cbe54f6b0f56fc",
+  "displayName": "Sodium",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sodium",
+    "symbol": "NA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15ea73918b200daac9aa4031856f42bc8ec0a8b7",
+  "displayName": "Anchor",
+  "type": "TOKEN",
+  "token": {
+    "name": "Anchor",
+    "symbol": "ANC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

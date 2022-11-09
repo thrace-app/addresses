@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecfaac1d527c227d4ad13ccaf544867f1cdc1d66",
+  "displayName": "Safe Rocket",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Rocket",
+    "symbol": "SRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x561079ada70fc6fd7d67a8189c86894a7c4a1d89",
+  "displayName": "TullyKoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TullyKoin",
+    "symbol": "TULLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

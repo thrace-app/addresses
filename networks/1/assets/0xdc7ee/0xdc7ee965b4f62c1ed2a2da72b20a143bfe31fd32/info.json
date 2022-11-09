@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc7ee965b4f62c1ed2a2da72b20a143bfe31fd32",
+  "displayName": "Twerky Pepe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Twerky Pepe",
+    "symbol": "TWERKY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

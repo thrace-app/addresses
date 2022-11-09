@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2644a905a7afff6c17ddc47308929a3fa072e66c",
+  "displayName": "SAM FTX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SAM FTX Token",
+    "symbol": "SAM FTX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

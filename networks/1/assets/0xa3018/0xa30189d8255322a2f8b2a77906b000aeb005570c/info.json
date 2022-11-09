@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa30189d8255322a2f8b2a77906b000aeb005570c",
+  "displayName": "Buy-Sell",
+  "type": "TOKEN",
+  "token": {
+    "name": "Buy-Sell",
+    "symbol": "BSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

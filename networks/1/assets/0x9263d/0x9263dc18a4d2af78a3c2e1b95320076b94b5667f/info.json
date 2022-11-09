@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9263dc18a4d2af78a3c2e1b95320076b94b5667f",
+  "displayName": "Vitalik Bee",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitalik Bee",
+    "symbol": "VBEE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

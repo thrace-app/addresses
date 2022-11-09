@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12683dc9eec95a5f742d40206e73319e6b9d8a91",
+  "displayName": "FAB Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FAB Token",
+    "symbol": "FAB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

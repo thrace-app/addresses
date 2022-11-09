@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad529cfbd5015572f51b7c994cacfda060ea4391",
+  "displayName": "The Black Horse",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Black Horse",
+    "symbol": "TBH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

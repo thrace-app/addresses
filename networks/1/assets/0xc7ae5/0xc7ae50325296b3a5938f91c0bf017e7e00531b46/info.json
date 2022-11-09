@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7ae50325296b3a5938f91c0bf017e7e00531b46",
+  "displayName": "Ethereum Development Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Development Token",
+    "symbol": "EDEV",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

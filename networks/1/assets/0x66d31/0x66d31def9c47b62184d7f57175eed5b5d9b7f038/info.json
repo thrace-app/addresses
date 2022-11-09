@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66d31def9c47b62184d7f57175eed5b5d9b7f038",
+  "displayName": "Elon Tickets",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Tickets",
+    "symbol": "ElonTickets",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

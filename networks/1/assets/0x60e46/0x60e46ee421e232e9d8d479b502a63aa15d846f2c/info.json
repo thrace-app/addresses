@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x60e46ee421e232e9d8d479b502a63aa15d846f2c",
+  "displayName": "My Monii",
+  "type": "TOKEN",
+  "token": {
+    "name": "My Monii",
+    "symbol": "MONII",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

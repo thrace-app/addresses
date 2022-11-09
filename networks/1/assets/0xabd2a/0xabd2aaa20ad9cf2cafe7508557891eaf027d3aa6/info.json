@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabd2aaa20ad9cf2cafe7508557891eaf027d3aa6",
+  "displayName": "CrossDEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "CrossDEX",
+    "symbol": "XDEX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

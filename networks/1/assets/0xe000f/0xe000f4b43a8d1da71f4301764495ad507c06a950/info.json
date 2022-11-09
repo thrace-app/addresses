@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe000f4b43a8d1da71f4301764495ad507c06a950",
+  "displayName": "BACD equity token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BACD equity token",
+    "symbol": "BACD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

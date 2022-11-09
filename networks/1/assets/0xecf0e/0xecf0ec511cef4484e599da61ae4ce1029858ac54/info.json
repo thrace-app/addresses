@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecf0ec511cef4484e599da61ae4ce1029858ac54",
+  "displayName": "Flamingo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flamingo",
+    "symbol": "FLM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

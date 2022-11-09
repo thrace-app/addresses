@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd2999baf621071739976dc56fed2f63a7d5b47c",
+  "displayName": "Stingy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stingy Token",
+    "symbol": "STINGY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

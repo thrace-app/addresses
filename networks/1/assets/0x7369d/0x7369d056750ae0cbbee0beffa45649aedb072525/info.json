@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7369d056750ae0cbbee0beffa45649aedb072525",
+  "displayName": "Chad Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chad Protocol",
+    "symbol": "$CHADS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

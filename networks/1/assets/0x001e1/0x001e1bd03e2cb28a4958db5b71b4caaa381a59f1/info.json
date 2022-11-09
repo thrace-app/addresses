@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x001e1bd03e2cb28a4958db5b71b4caaa381a59f1",
+  "displayName": "Monkey Island",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monkey Island",
+    "symbol": "MONKEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

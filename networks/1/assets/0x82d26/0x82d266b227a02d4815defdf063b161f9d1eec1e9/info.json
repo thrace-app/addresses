@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82d266b227a02d4815defdf063b161f9d1eec1e9",
+  "displayName": "HexTsukaTest",
+  "type": "TOKEN",
+  "token": {
+    "name": "HexTsukaTest",
+    "symbol": "HexTsukaTest",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

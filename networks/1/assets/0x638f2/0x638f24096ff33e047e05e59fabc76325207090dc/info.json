@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x638f24096ff33e047e05e59fabc76325207090dc",
+  "displayName": "SlimeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SlimeCoin",
+    "symbol": "SLIME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

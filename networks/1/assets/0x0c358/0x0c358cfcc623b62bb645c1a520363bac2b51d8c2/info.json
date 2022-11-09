@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c358cfcc623b62bb645c1a520363bac2b51d8c2",
+  "displayName": "ATOP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ATOP Token",
+    "symbol": "ATOP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

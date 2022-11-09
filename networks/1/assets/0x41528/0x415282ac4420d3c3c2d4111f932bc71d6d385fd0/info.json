@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x415282ac4420d3c3c2d4111f932bc71d6d385fd0",
+  "displayName": "PhantaBear",
+  "type": "TOKEN",
+  "token": {
+    "name": "PhantaBear",
+    "symbol": "BEAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

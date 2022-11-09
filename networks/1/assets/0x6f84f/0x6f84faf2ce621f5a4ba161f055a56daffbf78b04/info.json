@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f84faf2ce621f5a4ba161f055a56daffbf78b04",
+  "displayName": "Quantum Pay",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quantum Pay",
+    "symbol": "QPAY",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

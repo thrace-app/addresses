@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8978693749f6a22d674037baea7d82e3d74776db",
+  "displayName": "Ninja Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ninja Doge",
+    "symbol": "NINJU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd8c8442ee43d21edaddf660d3d734ceac0bbc0a",
+  "displayName": "Doge Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Cash",
+    "symbol": "DOGECASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1144298b6cb515ab140984221a7ffe4766a6879",
+  "displayName": "Matcha Dao",
+  "type": "TOKEN",
+  "token": {
+    "name": "Matcha Dao",
+    "symbol": "MATCHA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5e8b03ebbd68bcfb96dcd2ebf09230f52482239",
+  "displayName": "Free Bird Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Free Bird Token",
+    "symbol": "FREEBIRD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

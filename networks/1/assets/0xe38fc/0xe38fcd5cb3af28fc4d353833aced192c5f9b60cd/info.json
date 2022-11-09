@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe38fcd5cb3af28fc4d353833aced192c5f9b60cd",
+  "displayName": "TK Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TK Token",
+    "symbol": "TUK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

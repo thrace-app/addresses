@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c3a228510d246b78a3765c20221cbf3082b44a4",
+  "displayName": "Storiqa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Storiqa Token",
+    "symbol": "STQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

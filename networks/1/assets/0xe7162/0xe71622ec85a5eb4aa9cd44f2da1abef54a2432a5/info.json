@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe71622ec85a5eb4aa9cd44f2da1abef54a2432a5",
+  "displayName": "Cere Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cere Token",
+    "symbol": "CERE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

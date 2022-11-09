@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa84308c5d8522342e5fa86db98609dd08bf71f12",
+  "displayName": "EtherChibi",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherChibi",
+    "symbol": "eChibi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

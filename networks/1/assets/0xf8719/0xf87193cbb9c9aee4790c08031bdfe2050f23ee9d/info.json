@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf87193cbb9c9aee4790c08031bdfe2050f23ee9d",
+  "displayName": "Harbour",
+  "type": "TOKEN",
+  "token": {
+    "name": "Harbour",
+    "symbol": "HABR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

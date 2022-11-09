@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb6e6e05dd5ef37d703fd573e3b45bd20d31f085b",
+  "displayName": "ChangeGame Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChangeGame Token",
+    "symbol": "CGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

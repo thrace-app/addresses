@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fb1bbf804646f0aa689ed12c8b07afe81ada89c",
+  "displayName": "Ether Multi Payment",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether Multi Payment",
+    "symbol": "EMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

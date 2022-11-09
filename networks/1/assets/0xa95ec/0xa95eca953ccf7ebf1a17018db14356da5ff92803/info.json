@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa95eca953ccf7ebf1a17018db14356da5ff92803",
+  "displayName": "MammothToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MammothToken",
+    "symbol": "MAMMOTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

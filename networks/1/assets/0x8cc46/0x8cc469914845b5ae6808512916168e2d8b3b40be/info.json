@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8cc469914845b5ae6808512916168e2d8b3b40be",
+  "displayName": "EasyGram USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "EasyGram USD",
+    "symbol": "EGU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

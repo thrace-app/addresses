@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x319dca99721dc6b145583723060e9642cdae6719",
+  "displayName": "Okara Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Okara Token",
+    "symbol": "Okara",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

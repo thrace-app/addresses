@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f14cdbd815b79e9624121f564f24685c6b1211b",
+  "displayName": "Angry Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Angry Doge",
+    "symbol": "ANFD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbfad51b4c2a49e0f5d127f836f5dbe3849682b2a",
+  "displayName": "Clear Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Clear Token",
+    "symbol": "$CLEAR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

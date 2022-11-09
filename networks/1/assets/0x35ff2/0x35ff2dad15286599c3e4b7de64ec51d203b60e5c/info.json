@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35ff2dad15286599c3e4b7de64ec51d203b60e5c",
+  "displayName": "Sentiment Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sentiment Token",
+    "symbol": "Sent",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

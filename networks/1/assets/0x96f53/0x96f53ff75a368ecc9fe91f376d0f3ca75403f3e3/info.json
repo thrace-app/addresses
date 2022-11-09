@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96f53ff75a368ecc9fe91f376d0f3ca75403f3e3",
+  "displayName": "Busted Bean",
+  "type": "TOKEN",
+  "token": {
+    "name": "Busted Bean",
+    "symbol": "$BEAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc39cfc3e1bc0520bcbdbbc3a6bb24b4cb725377b",
+  "displayName": "EQK Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EQK Token",
+    "symbol": "EQK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

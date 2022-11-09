@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x995c5a542a2f038eff1d6cdc533a3b541408c5c6",
+  "displayName": "Akuto Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Akuto Token",
+    "symbol": "Akuto",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7af6ec6903633e088d578ffffef8c72769380aa",
+  "displayName": "FTT Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "FTT Protocol",
+    "symbol": "FTTP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

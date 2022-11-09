@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc87e590872763d280c573925f65fec2ad709d570",
+  "displayName": "Yearn.Farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn.Farm",
+    "symbol": "YEF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

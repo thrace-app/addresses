@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e06b9de07c7b6c4b714ce32f15ebffc038392b0",
+  "displayName": "BeerBase",
+  "type": "TOKEN",
+  "token": {
+    "name": "BeerBase",
+    "symbol": "BBase",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

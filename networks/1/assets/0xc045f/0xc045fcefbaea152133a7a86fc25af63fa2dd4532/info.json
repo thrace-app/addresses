@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc045fcefbaea152133a7a86fc25af63fa2dd4532",
+  "displayName": "MoneyInTheBag",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoneyInTheBag",
+    "symbol": "$Money$",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

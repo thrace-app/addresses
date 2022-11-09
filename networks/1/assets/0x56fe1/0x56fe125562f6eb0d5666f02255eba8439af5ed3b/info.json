@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56fe125562f6eb0d5666f02255eba8439af5ed3b",
+  "displayName": "PartyGhost",
+  "type": "TOKEN",
+  "token": {
+    "name": "PartyGhost",
+    "symbol": "$GHOST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

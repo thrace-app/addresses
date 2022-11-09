@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7873421ce110f5a48fe2ef4ae89eee30205de0e",
+  "displayName": "Daemon Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Daemon Chain",
+    "symbol": "DCN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05e037c0a0896e5140c18594681daff1ce728be7",
+  "displayName": "TheodoreCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TheodoreCoin",
+    "symbol": "TDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

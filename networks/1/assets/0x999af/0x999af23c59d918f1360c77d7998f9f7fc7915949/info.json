@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x999af23c59d918f1360c77d7998f9f7fc7915949",
+  "displayName": "Kiwi Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kiwi Swap",
+    "symbol": "KIWI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

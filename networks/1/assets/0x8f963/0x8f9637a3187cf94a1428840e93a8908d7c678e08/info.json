@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f9637a3187cf94a1428840e93a8908d7c678e08",
+  "displayName": "tbntoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "tbntoken",
+    "symbol": "TBN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

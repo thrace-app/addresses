@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6efcd22f0e3a4a9c35a8aabff52350dfb0c2621",
+  "displayName": "DegenLabsToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DegenLabsToken",
+    "symbol": "DEGLAB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

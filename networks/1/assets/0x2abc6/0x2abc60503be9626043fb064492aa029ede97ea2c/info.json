@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2abc60503be9626043fb064492aa029ede97ea2c",
+  "displayName": "IceCube",
+  "type": "TOKEN",
+  "token": {
+    "name": "IceCube",
+    "symbol": "ICECUBE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

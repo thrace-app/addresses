@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfaacb9018148dd8c9ef4d038ece2f197d10783b9",
+  "displayName": "Mars Gateway",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mars Gateway",
+    "symbol": "GATEWAY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

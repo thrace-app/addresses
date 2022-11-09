@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd18352b15a1dd8e6a07d372ef24ba2814e5bd8d3",
+  "displayName": "Block-Locker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Block-Locker",
+    "symbol": "B-Lock",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

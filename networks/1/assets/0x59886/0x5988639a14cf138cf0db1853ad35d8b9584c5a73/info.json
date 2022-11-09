@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5988639a14cf138cf0db1853ad35d8b9584c5a73",
+  "displayName": "chimp",
+  "type": "TOKEN",
+  "token": {
+    "name": "chimp",
+    "symbol": "CHIMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

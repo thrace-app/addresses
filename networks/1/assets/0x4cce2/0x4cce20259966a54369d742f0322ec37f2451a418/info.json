@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cce20259966a54369d742f0322ec37f2451a418",
+  "displayName": "Berenberg Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Berenberg Cash",
+    "symbol": "BBC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

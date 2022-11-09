@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41463ec456b3dd8d631c31ff4064af18393628a4",
+  "displayName": "INDIACoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "INDIACoin",
+    "symbol": "INDI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

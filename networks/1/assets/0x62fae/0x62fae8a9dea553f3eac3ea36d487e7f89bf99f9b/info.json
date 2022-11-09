@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62fae8a9dea553f3eac3ea36d487e7f89bf99f9b",
+  "displayName": "ACME ",
+  "type": "TOKEN",
+  "token": {
+    "name": "ACME ",
+    "symbol": "ACME",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

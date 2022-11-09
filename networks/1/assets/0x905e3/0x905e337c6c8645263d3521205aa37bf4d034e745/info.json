@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x905e337c6c8645263d3521205aa37bf4d034e745",
+  "displayName": "Medical Token Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Medical Token Currency",
+    "symbol": "MTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

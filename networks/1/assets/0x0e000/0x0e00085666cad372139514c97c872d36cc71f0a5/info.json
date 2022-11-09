@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e00085666cad372139514c97c872d36cc71f0a5",
+  "displayName": "Ether Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether Shiba",
+    "symbol": "ESHIBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

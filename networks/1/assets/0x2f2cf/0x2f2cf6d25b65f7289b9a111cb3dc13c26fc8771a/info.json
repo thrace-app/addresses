@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f2cf6d25b65f7289b9a111cb3dc13c26fc8771a",
+  "displayName": "EthereumLend",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumLend",
+    "symbol": "ELEND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

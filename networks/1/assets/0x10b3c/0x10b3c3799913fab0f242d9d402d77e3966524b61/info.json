@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10b3c3799913fab0f242d9d402d77e3966524b61",
+  "displayName": "TaxDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "TaxDAO",
+    "symbol": "TAX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

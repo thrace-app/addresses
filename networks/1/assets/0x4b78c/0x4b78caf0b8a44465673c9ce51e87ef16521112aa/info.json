@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b78caf0b8a44465673c9ce51e87ef16521112aa",
+  "displayName": "The Blue Whales",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Blue Whales",
+    "symbol": "WHALE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

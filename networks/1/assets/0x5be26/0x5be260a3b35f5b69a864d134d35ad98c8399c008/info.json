@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5be260a3b35f5b69a864d134d35ad98c8399c008",
+  "displayName": "The Lion King",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Lion King",
+    "symbol": "SIMBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x159f95587e98fc33d5a2db39540e6d0f4c4ef546",
+  "displayName": "ParadigmCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ParadigmCoin",
+    "symbol": "PDM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

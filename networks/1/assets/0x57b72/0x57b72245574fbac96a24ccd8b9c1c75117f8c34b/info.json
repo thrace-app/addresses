@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57b72245574fbac96a24ccd8b9c1c75117f8c34b",
+  "displayName": "GamyFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "GamyFi",
+    "symbol": "GFX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

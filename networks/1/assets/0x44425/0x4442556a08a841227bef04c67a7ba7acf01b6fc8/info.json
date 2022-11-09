@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4442556a08a841227bef04c67a7ba7acf01b6fc8",
+  "displayName": "Monarch Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monarch Token",
+    "symbol": "MT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

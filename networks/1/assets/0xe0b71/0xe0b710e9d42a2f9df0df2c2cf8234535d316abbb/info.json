@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0b710e9d42a2f9df0df2c2cf8234535d316abbb",
+  "displayName": "eNaira Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "eNaira Token",
+    "symbol": "eNaira",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

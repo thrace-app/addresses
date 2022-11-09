@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdaac74083497bd0d207d354d80deb60dfc7412b2",
+  "displayName": "Ever Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ever Token",
+    "symbol": "EVERTOKEN",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

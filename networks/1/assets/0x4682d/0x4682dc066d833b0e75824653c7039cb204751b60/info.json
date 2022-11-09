@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4682dc066d833b0e75824653c7039cb204751b60",
+  "displayName": "Charisma Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Charisma Token",
+    "symbol": "CHARISMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95adddb36d0be0162f30c1609d3ccd7bc37fa2ee",
+  "displayName": "ZeroUtilyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZeroUtilyToken",
+    "symbol": "ZU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

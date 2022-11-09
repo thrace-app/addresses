@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb47aec07810baca5840c1922607a21d4125fb842",
+  "displayName": "FlokiPunksToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlokiPunksToken",
+    "symbol": "FlokiPunks",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6731827cb6879a2091ce3ab3423f7bf20539b579",
+  "displayName": "Empower Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Empower Token",
+    "symbol": "MPWR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

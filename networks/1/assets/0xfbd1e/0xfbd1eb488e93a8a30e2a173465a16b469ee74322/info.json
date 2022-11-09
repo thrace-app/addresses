@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfbd1eb488e93a8a30e2a173465a16b469ee74322",
+  "displayName": "La Farm Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "La Farm Token",
+    "symbol": "LAFA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

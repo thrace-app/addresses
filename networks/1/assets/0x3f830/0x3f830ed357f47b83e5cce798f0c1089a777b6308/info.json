@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f830ed357f47b83e5cce798f0c1089a777b6308",
+  "displayName": "Top Gainer of the Day",
+  "type": "TOKEN",
+  "token": {
+    "name": "Top Gainer of the Day",
+    "symbol": "TGOD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

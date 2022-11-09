@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ca06986040d18d80acd34d0877e66f8e15f12fc",
+  "displayName": "Wrapped TenX Pay Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped TenX Pay Token",
+    "symbol": "WPAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

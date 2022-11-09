@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6489d67e21bd5d58c5fa993d426f07a9ea5c981d",
+  "displayName": "ChangeToCash",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChangeToCash",
+    "symbol": "C2CASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

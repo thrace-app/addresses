@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x144d150f0af4cf0341bec918fe51a07dad0d9827",
+  "displayName": "SquareFootCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SquareFootCoin",
+    "symbol": "SQFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

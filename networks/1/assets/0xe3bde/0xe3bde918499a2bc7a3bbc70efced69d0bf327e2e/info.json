@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3bde918499a2bc7a3bbc70efced69d0bf327e2e",
+  "displayName": "Mr Monkey King",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mr Monkey King",
+    "symbol": "MrKing",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

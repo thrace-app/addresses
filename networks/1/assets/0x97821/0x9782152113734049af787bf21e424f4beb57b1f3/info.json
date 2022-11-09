@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9782152113734049af787bf21e424f4beb57b1f3",
+  "displayName": "DeadPool Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeadPool Token",
+    "symbol": "DeadPool",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4599836c212cd988eaccc54c820ee9261cdaac71",
+  "displayName": "Cryptid",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryptid",
+    "symbol": "CID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

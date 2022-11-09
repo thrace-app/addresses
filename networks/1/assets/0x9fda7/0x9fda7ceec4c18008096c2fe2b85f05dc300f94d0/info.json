@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9fda7ceec4c18008096c2fe2b85f05dc300f94d0",
+  "displayName": "PolyGaj Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolyGaj Token",
+    "symbol": "GAJ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

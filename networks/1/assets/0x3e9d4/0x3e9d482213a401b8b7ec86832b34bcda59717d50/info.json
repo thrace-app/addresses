@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e9d482213a401b8b7ec86832b34bcda59717d50",
+  "displayName": "Bike Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bike Coin",
+    "symbol": "BKC",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

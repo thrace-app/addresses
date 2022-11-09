@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4758baab638b1bf5ab146010627f82953d5074c7",
+  "displayName": "Shill it Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shill it Token",
+    "symbol": "SHILL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

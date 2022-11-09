@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda6f74536decdda2bace91dacaaf6256a3400431",
+  "displayName": "Meta Mask Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meta Mask Token",
+    "symbol": "$MASK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

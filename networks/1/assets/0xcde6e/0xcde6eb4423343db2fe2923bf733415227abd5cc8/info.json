@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcde6eb4423343db2fe2923bf733415227abd5cc8",
+  "displayName": "Senzu beans",
+  "type": "TOKEN",
+  "token": {
+    "name": "Senzu beans",
+    "symbol": "仙豆",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc53488cec16050ec8eae52ce4fcd9187a3f1837f",
+  "displayName": "Astronaut Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Astronaut Doge",
+    "symbol": "AOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc362d21c659084cf62985907eb3dd609896e1842",
+  "displayName": "Sticky Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sticky Token",
+    "symbol": "SYRUP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

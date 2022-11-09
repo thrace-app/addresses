@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab846fb6c81370327e784ae7cbb6d6a6af6ff4bf",
+  "displayName": "Paladin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Paladin Token",
+    "symbol": "PAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

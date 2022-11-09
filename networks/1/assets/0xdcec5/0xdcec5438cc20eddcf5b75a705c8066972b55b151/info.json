@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdcec5438cc20eddcf5b75a705c8066972b55b151",
+  "displayName": "ShiA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShiA Token",
+    "symbol": "ShiA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

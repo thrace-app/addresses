@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2155a67ded74ea71502849dc47cf01e36d8a4cda",
+  "displayName": "Peking University Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Peking University Token",
+    "symbol": "PKU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

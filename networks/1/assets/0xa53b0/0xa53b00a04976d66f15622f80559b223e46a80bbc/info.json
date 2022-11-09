@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa53b00a04976d66f15622f80559b223e46a80bbc",
+  "displayName": "Sweetest Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sweetest Token",
+    "symbol": "SWEET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05007434b72a5e99348186f45fcd3660917da683",
+  "displayName": "NLC Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NLC Token",
+    "symbol": "NLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

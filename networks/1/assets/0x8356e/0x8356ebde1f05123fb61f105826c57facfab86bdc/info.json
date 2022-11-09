@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8356ebde1f05123fb61f105826c57facfab86bdc",
+  "displayName": "Marnotaur",
+  "type": "TOKEN",
+  "token": {
+    "name": "Marnotaur",
+    "symbol": "TAUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

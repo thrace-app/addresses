@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f9a80b199b41a4506205dea02cc2b56e6f31fa6",
+  "displayName": "SuperAAA",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperAAA",
+    "symbol": "AAA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

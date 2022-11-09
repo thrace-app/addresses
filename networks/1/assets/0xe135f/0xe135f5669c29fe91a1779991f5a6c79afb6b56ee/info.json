@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe135f5669c29fe91a1779991f5a6c79afb6b56ee",
+  "displayName": "Premfi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Premfi",
+    "symbol": "PREM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

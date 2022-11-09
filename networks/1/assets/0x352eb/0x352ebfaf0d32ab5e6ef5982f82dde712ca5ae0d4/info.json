@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x352ebfaf0d32ab5e6ef5982f82dde712ca5ae0d4",
+  "displayName": "Firespin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Firespin Token",
+    "symbol": "FST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511",
+  "displayName": "Sipher Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sipher Token",
+    "symbol": "SIPHER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2bf882ab9f22b09cf7e0235f0a10002c2f3b4c8f",
+  "displayName": "AXS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AXS Token",
+    "symbol": "AXS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

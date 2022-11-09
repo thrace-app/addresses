@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xece0fe911505b6e60587cfd2fbb295a879db8389",
+  "displayName": "The Centaur",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Centaur",
+    "symbol": "TCENT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

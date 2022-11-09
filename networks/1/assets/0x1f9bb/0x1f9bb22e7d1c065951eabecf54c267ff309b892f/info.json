@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f9bb22e7d1c065951eabecf54c267ff309b892f",
+  "displayName": "Infinite Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Infinite Ape",
+    "symbol": "IA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

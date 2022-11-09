@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa45db7eff011a5536c7d5e9fa76237da78d699b0",
+  "displayName": "Birdoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Birdoge",
+    "symbol": "BIRDOGE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

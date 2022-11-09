@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1eb988824ff17b13d863e452cdf946973825ed9e",
+  "displayName": "DeFinitely DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFinitely DAO Token",
+    "symbol": "DDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb65df0ced50b02a673d9f6fa2c91c987823ab19",
+  "displayName": "TaEM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TaEM Token",
+    "symbol": "TaEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

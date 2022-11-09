@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d2c95ba4e7e0244b713f131b200fa326e6b122e",
+  "displayName": "MoshiachCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoshiachCoin",
+    "symbol": "MC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

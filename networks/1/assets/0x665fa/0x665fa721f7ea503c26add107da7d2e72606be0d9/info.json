@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x665fa721f7ea503c26add107da7d2e72606be0d9",
+  "displayName": "Million Bucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Million Bucks",
+    "symbol": "MNB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

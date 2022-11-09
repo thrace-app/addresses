@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xede3f5b4ca4ba60dbd57abf99f17f7ff3c14ac0b",
+  "displayName": "Pluto Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pluto Token",
+    "symbol": "PLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

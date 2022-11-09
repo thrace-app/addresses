@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9469d013805bffb7d3debe5e7839237e535ec483",
+  "displayName": "Darwinia Network Native Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Darwinia Network Native Token",
+    "symbol": "RING",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

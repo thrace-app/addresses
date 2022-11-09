@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda49af8773cb162ca56f8431442c750896f8c87a",
+  "displayName": "BTC DynaSet",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTC DynaSet",
+    "symbol": "dynBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

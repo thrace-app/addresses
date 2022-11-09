@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97b05317de8b867c9f810692f6c6f7b10e57a258",
+  "displayName": "Electronic USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Electronic USD",
+    "symbol": "EUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43633640e920ffe89fe8db7b19d9247c380dcf33",
+  "displayName": "Mystery Food Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mystery Food Token",
+    "symbol": "MFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

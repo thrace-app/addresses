@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x710aa623c2c881b0d7357bcf9aeedf660e606c22",
+  "displayName": "Hearts",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hearts",
+    "symbol": "HEART",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9693dded163393f18810c7a799c662998bf8bf3e",
+  "displayName": "Bitcoin Tron",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Tron",
+    "symbol": "TRON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

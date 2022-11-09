@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x541996b1c10ab6366125e813640f1f81ec73023b",
+  "displayName": "Bonds Investment Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bonds Investment Token",
+    "symbol": "BIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

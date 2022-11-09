@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb5f107b5d4dfe5b1e79437b6020bc15e5b1212c",
+  "displayName": "YAR TEST",
+  "type": "TOKEN",
+  "token": {
+    "name": "YAR TEST",
+    "symbol": "YAR",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

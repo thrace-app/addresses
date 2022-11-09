@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5438de56a98712a15ec0985500dcb72b68730360",
+  "displayName": "ZigSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZigSwap",
+    "symbol": "ZIGSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

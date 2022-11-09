@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde9c566dc16fbe580f88261528007c841cae207d",
+  "displayName": "McBase",
+  "type": "TOKEN",
+  "token": {
+    "name": "McBase",
+    "symbol": "MCBASE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

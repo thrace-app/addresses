@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a16cfc0d9e56e83dd8c4bf78b59055e3eccceb4",
+  "displayName": "My Neighbor Alice",
+  "type": "TOKEN",
+  "token": {
+    "name": "My Neighbor Alice",
+    "symbol": "ALICE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

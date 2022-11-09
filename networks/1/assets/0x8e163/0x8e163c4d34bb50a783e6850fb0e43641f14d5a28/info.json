@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e163c4d34bb50a783e6850fb0e43641f14d5a28",
+  "displayName": "Ninja Beer",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ninja Beer",
+    "symbol": "NINJABEER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

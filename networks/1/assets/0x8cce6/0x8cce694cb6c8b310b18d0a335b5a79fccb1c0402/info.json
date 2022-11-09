@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8cce694cb6c8b310b18d0a335b5a79fccb1c0402",
+  "displayName": "TOKO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TOKO Token",
+    "symbol": "TKO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

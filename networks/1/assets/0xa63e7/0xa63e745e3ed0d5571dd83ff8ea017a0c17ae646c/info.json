@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa63e745e3ed0d5571dd83ff8ea017a0c17ae646c",
+  "displayName": "Marlowe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Marlowe",
+    "symbol": "MDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

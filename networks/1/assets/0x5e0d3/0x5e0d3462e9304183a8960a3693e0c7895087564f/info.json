@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e0d3462e9304183a8960a3693e0c7895087564f",
+  "displayName": "xRune",
+  "type": "TOKEN",
+  "token": {
+    "name": "xRune",
+    "symbol": "XRN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

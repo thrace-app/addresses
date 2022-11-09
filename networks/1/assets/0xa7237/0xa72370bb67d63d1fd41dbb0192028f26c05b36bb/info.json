@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa72370bb67d63d1fd41dbb0192028f26c05b36bb",
+  "displayName": "OTHERCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "OTHERCOIN",
+    "symbol": "OTHERCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

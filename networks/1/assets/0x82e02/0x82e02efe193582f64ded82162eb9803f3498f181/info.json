@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82e02efe193582f64ded82162eb9803f3498f181",
+  "displayName": "Zone 1",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zone 1",
+    "symbol": "SENTIENT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

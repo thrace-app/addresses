@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99297433ce5c25b7ea478f37848d6179ed831a75",
+  "displayName": "Bitcoin Tracker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Tracker",
+    "symbol": "BTCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

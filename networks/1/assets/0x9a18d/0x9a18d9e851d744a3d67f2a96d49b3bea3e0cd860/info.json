@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a18d9e851d744a3d67f2a96d49b3bea3e0cd860",
+  "displayName": "Dfinance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dfinance Token",
+    "symbol": "DFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

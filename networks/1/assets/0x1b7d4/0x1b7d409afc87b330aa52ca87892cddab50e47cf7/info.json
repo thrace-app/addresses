@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b7d409afc87b330aa52ca87892cddab50e47cf7",
+  "displayName": "FlashDai Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlashDai Stablecoin",
+    "symbol": "FlashDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

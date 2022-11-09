@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x722d59737aff493775c0521331a8c4cb30567e44",
+  "displayName": "Beluga Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Beluga Token",
+    "symbol": "BLG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a2810d3d859ed03ede523eb801a3b43b5e8979c",
+  "displayName": "Zodcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zodcoin",
+    "symbol": "ZDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

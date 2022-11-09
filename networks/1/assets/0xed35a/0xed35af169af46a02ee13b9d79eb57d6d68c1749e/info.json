@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed35af169af46a02ee13b9d79eb57d6d68c1749e",
+  "displayName": "OMI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OMI Token",
+    "symbol": "OMI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

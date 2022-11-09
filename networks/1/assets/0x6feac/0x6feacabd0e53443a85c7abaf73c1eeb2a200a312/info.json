@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6feacabd0e53443a85c7abaf73c1eeb2a200a312",
+  "displayName": "Z Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Z Bitcoin",
+    "symbol": "ZBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

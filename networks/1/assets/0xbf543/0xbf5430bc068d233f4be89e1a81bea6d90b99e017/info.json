@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf5430bc068d233f4be89e1a81bea6d90b99e017",
+  "displayName": "PageCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PageCoin",
+    "symbol": "Page",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

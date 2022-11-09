@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e6283dff4d0f1feb2bafa030704faa650d43eda",
+  "displayName": "ZillaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZillaToken",
+    "symbol": "$ZILLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

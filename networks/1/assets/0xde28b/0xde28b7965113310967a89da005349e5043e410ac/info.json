@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde28b7965113310967a89da005349e5043e410ac",
+  "displayName": "TeleToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TeleToken",
+    "symbol": "TELE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

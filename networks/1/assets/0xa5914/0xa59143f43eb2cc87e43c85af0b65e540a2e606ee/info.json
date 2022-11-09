@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa59143f43eb2cc87e43c85af0b65e540a2e606ee",
+  "displayName": "SafeMoon Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeMoon Doge",
+    "symbol": "smDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

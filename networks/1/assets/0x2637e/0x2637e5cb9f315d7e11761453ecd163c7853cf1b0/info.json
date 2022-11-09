@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2637e5cb9f315d7e11761453ecd163c7853cf1b0",
+  "displayName": "One Ring",
+  "type": "TOKEN",
+  "token": {
+    "name": "One Ring",
+    "symbol": "RING",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

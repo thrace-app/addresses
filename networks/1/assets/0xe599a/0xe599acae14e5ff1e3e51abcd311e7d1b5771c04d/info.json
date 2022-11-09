@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe599acae14e5ff1e3e51abcd311e7d1b5771c04d",
+  "displayName": "yRC20 Token Standart",
+  "type": "TOKEN",
+  "token": {
+    "name": "yRC20 Token Standart",
+    "symbol": "yRC20",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

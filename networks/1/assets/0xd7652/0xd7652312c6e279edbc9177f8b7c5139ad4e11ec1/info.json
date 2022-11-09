@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7652312c6e279edbc9177f8b7c5139ad4e11ec1",
+  "displayName": "Elon Pizza",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Pizza",
+    "symbol": "ElonPizza",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

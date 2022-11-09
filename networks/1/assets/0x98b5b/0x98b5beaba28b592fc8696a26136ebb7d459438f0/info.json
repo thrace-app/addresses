@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x98b5beaba28b592fc8696a26136ebb7d459438f0",
+  "displayName": "Golden Seed",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Seed",
+    "symbol": "SEED",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

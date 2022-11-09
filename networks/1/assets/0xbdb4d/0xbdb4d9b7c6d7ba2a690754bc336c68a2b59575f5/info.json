@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbdb4d9b7c6d7ba2a690754bc336c68a2b59575f5",
+  "displayName": "TSLA",
+  "type": "TOKEN",
+  "token": {
+    "name": "TSLA",
+    "symbol": "uTSLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

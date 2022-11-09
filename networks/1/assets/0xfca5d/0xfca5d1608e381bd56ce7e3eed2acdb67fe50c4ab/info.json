@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfca5d1608e381bd56ce7e3eed2acdb67fe50c4ab",
+  "displayName": "contestant",
+  "type": "TOKEN",
+  "token": {
+    "name": "contestant",
+    "symbol": "CTA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

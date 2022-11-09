@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdef058a630354e1081c7f3608f081e951d2a5570",
+  "displayName": "BitLand",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitLand",
+    "symbol": "BIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

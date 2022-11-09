@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d32916cfa6534d261ad53e2498ab95505bd2510",
+  "displayName": "YouSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "YouSwap",
+    "symbol": "YOU",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

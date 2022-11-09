@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2516bc7029acb31036d3738942e613809ea5619d",
+  "displayName": "BitMexCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitMexCoin",
+    "symbol": "BMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

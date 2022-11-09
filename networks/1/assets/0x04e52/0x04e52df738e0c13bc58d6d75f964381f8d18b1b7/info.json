@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04e52df738e0c13bc58d6d75f964381f8d18b1b7",
+  "displayName": "Sminem Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sminem Token",
+    "symbol": "SMNM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

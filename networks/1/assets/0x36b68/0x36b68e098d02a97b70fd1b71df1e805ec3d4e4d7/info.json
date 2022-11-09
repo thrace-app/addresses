@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36b68e098d02a97b70fd1b71df1e805ec3d4e4d7",
+  "displayName": "Blockball Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blockball Token",
+    "symbol": "BBT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

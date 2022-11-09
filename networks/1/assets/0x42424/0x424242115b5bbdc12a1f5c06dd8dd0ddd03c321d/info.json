@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x424242115b5bbdc12a1f5c06dd8dd0ddd03c321d",
+  "displayName": "AI42 Dust",
+  "type": "TOKEN",
+  "token": {
+    "name": "AI42 Dust",
+    "symbol": "DUST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

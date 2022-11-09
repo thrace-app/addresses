@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8948c85c75b73be21e7ad9cd723eb4ee2bb7934f",
+  "displayName": "BitMessage",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitMessage",
+    "symbol": "BMG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

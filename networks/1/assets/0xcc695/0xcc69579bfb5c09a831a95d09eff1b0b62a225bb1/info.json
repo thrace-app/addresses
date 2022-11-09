@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc69579bfb5c09a831a95d09eff1b0b62a225bb1",
+  "displayName": "OrochimaruToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "OrochimaruToken",
+    "symbol": "Orochimaru",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

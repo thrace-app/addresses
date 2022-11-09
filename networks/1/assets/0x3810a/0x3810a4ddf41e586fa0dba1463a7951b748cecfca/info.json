@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3810a4ddf41e586fa0dba1463a7951b748cecfca",
+  "displayName": "MPAY",
+  "type": "TOKEN",
+  "token": {
+    "name": "MPAY",
+    "symbol": "MPAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

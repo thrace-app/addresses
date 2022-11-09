@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2f4175f1619774f4a38b8a69fcb911022b667a4",
+  "displayName": "Brads Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brads Coin",
+    "symbol": "BDC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

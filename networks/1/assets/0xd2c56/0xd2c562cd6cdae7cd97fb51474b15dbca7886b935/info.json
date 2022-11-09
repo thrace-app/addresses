@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2c562cd6cdae7cd97fb51474b15dbca7886b935",
+  "displayName": "DigiRocks",
+  "type": "TOKEN",
+  "token": {
+    "name": "DigiRocks",
+    "symbol": "ROCKS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

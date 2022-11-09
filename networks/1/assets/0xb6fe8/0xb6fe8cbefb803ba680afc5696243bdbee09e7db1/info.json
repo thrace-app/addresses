@@ -1,0 +1,11 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb6fe8cbefb803ba680afc5696243bdbee09e7db1",
+  "displayName": "smol cats",
+  "type": "TOKEN",
+  "token": {
+    "name": "smol cats",
+    "symbol": "smats",
+    "type": "ERC721"
+  }
+}

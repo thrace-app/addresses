@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+  "displayName": "PoolTogether",
+  "type": "TOKEN",
+  "token": {
+    "name": "PoolTogether",
+    "symbol": "POOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

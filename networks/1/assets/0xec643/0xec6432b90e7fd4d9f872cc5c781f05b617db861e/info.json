@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec6432b90e7fd4d9f872cc5c781f05b617db861e",
+  "displayName": "DecimalChain native token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DecimalChain native token",
+    "symbol": "DEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

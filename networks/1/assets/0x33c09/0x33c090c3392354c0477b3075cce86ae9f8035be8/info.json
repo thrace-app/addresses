@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33c090c3392354c0477b3075cce86ae9f8035be8",
+  "displayName": "Saitter Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Saitter Token",
+    "symbol": "SAITTER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

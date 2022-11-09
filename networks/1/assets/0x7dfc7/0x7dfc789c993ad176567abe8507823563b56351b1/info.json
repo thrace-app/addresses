@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7dfc789c993ad176567abe8507823563b56351b1",
+  "displayName": "Tenr Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tenr Token",
+    "symbol": "TENR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

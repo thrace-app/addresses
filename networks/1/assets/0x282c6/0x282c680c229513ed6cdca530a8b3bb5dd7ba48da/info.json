@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x282c680c229513ed6cdca530a8b3bb5dd7ba48da",
+  "displayName": "Hank Poo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hank Poo",
+    "symbol": "POO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

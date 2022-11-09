@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4b3a2869b2e0addcb726d1ce8a44670da8c7c16",
+  "displayName": "L1on Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "L1on Token",
+    "symbol": "L1on",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

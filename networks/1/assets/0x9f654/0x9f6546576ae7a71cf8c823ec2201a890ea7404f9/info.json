@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f6546576ae7a71cf8c823ec2201a890ea7404f9",
+  "displayName": "SkidCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SkidCoin",
+    "symbol": "SKDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

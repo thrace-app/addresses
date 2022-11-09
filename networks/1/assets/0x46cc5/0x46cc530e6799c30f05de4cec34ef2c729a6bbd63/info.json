@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46cc530e6799c30f05de4cec34ef2c729a6bbd63",
+  "displayName": "Super Hash Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Hash Token",
+    "symbol": "ST",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

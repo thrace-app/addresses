@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7409856cae628f5d578b285b45669b36e7005283",
+  "displayName": "Jarvis Synthetic British Pound",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jarvis Synthetic British Pound",
+    "symbol": "jGBP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cab12f64f65627dfe9080c2d8b2fa50a08a06ca",
+  "displayName": "Shikoku Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shikoku Inu Token",
+    "symbol": "SHIKOKU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5f8472045c9177b545ea05fda73848291a3f8b8",
+  "displayName": "GoldMining Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoldMining Token",
+    "symbol": "GMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce7a811cd1a733ca30a4dfeb8c7cf76509d837cd",
+  "displayName": "Pixel Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pixel Doge",
+    "symbol": "POGE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

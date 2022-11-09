@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f4b23b8ea03598d25f1bc7d32aa45b832dbba16",
+  "displayName": "ETH FAN TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH FAN TOKEN",
+    "symbol": "$EFT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

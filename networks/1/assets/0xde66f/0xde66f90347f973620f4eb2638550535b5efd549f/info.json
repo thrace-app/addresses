@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde66f90347f973620f4eb2638550535b5efd549f",
+  "displayName": "Cardano uniswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cardano uniswap",
+    "symbol": "ADAU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

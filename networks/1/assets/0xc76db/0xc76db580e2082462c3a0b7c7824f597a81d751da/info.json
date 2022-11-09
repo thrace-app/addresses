@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc76db580e2082462c3a0b7c7824f597a81d751da",
+  "displayName": "Free Kitty Sends",
+  "type": "TOKEN",
+  "token": {
+    "name": "Free Kitty Sends",
+    "symbol": "FKS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

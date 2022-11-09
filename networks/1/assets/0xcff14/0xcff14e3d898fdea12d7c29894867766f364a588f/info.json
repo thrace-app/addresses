@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcff14e3d898fdea12d7c29894867766f364a588f",
+  "displayName": "EverDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "EverDoge",
+    "symbol": "EverDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

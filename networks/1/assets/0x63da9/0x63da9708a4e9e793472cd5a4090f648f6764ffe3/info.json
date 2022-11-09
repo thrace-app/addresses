@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63da9708a4e9e793472cd5a4090f648f6764ffe3",
+  "displayName": "Elon Walrus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Walrus",
+    "symbol": "EWAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb6c32d6ae27caa8e4d76804a91856ae833f418c0",
+  "displayName": "Bounce Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bounce Finance Token",
+    "symbol": "BoFi",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

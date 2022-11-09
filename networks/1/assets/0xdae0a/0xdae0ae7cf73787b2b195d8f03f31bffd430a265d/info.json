@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdae0ae7cf73787b2b195d8f03f31bffd430a265d",
+  "displayName": "QUACK",
+  "type": "TOKEN",
+  "token": {
+    "name": "QUACK",
+    "symbol": "DUCKER PREDATOR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

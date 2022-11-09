@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17a3bf104e1b96007b2da57e97733520123793f6",
+  "displayName": "WhiteArrow Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WhiteArrow Token",
+    "symbol": "WAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4daeb4a06f70f4b1a5c329115731fe4b89c0b227",
+  "displayName": "Quasacoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quasacoin",
+    "symbol": "QUA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

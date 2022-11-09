@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x436c3a52775002370e8467fd14d45f4aaf675876",
+  "displayName": "RD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RD Token",
+    "symbol": "RDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

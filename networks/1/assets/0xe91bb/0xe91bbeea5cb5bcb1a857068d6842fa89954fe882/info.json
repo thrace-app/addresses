@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe91bbeea5cb5bcb1a857068d6842fa89954fe882",
+  "displayName": "KodiakToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KodiakToken",
+    "symbol": "Kodiak",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd7303d2e523d6c0b53cbcda800a43f9b88033a0",
+  "displayName": "RopeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RopeToken",
+    "symbol": "ROPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

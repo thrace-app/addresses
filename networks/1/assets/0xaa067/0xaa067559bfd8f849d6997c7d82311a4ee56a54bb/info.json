@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa067559bfd8f849d6997c7d82311a4ee56a54bb",
+  "displayName": "Galapagos Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Galapagos Coin",
+    "symbol": "GLPG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

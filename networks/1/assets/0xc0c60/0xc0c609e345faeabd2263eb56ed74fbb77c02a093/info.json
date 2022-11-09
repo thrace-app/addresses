@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0c609e345faeabd2263eb56ed74fbb77c02a093",
+  "displayName": "DeFiable Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiable Coin",
+    "symbol": "DPC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

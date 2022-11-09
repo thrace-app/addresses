@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2d18c04e86b3c5eec42a59456b7f306f36394a04",
+  "displayName": "Dank Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dank Chain",
+    "symbol": "Dank",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

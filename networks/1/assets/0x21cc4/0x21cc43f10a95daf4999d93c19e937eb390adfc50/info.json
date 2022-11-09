@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21cc43f10a95daf4999d93c19e937eb390adfc50",
+  "displayName": "CapitalAggregatorRewards",
+  "type": "TOKEN",
+  "token": {
+    "name": "CapitalAggregatorRewards",
+    "symbol": "CAR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

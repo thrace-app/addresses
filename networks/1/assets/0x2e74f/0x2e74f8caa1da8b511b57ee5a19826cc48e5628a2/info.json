@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e74f8caa1da8b511b57ee5a19826cc48e5628a2",
+  "displayName": "UltraMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "UltraMoon",
+    "symbol": "UMOON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

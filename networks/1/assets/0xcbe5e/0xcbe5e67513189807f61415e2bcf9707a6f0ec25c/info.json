@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcbe5e67513189807f61415e2bcf9707a6f0ec25c",
+  "displayName": "The Bank Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Bank Protocol",
+    "symbol": "BANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

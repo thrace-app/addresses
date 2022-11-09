@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafd564242f36a9277a8f2e2de39037a1728f9d96",
+  "displayName": "LuckyBee",
+  "type": "TOKEN",
+  "token": {
+    "name": "LuckyBee",
+    "symbol": "LBE",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

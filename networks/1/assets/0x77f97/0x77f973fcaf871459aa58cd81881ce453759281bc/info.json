@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77f973fcaf871459aa58cd81881ce453759281bc",
+  "displayName": "Fulcrum ETH iToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fulcrum ETH iToken",
+    "symbol": "iETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

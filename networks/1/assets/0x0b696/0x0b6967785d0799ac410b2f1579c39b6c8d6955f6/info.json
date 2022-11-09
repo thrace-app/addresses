@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b6967785d0799ac410b2f1579c39b6c8d6955f6",
+  "displayName": "Luv Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luv Coin",
+    "symbol": "LUV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

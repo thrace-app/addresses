@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a254becb84ad2504d2c818d4e41bd1e4c7a4101",
+  "displayName": "Kitter",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kitter",
+    "symbol": "KTR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

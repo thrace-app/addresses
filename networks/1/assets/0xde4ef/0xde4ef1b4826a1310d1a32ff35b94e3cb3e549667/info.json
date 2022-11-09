@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde4ef1b4826a1310d1a32ff35b94e3cb3e549667",
+  "displayName": "Fat Cow",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fat Cow",
+    "symbol": "FAT COW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

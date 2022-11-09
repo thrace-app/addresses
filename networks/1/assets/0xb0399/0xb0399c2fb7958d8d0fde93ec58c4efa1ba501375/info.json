@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0399c2fb7958d8d0fde93ec58c4efa1ba501375",
+  "displayName": "USD Equalizer",
+  "type": "TOKEN",
+  "token": {
+    "name": "USD Equalizer",
+    "symbol": "USDEQ",
+    "decimals": 255,
+    "type": "ERC20"
+  }
+}

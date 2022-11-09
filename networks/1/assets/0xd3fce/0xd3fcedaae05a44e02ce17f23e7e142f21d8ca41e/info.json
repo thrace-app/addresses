@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3fcedaae05a44e02ce17f23e7e142f21d8ca41e",
+  "displayName": "AmmoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AmmoToken",
+    "symbol": "AMMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

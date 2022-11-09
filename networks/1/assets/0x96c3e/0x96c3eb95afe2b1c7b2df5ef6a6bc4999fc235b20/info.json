@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96c3eb95afe2b1c7b2df5ef6a6bc4999fc235b20",
+  "displayName": "JimCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "JimCoin",
+    "symbol": "JIMCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

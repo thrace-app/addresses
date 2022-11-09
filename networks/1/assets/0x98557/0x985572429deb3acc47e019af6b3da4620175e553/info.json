@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x985572429deb3acc47e019af6b3da4620175e553",
+  "displayName": "FeeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FeeToken",
+    "symbol": "FEE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

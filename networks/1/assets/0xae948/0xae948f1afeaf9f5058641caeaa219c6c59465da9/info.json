@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae948f1afeaf9f5058641caeaa219c6c59465da9",
+  "displayName": "Metadrift Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Metadrift Token",
+    "symbol": "$METADRIFT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

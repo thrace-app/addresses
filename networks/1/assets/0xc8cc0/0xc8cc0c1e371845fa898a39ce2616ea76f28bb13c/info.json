@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8cc0c1e371845fa898a39ce2616ea76f28bb13c",
+  "displayName": "Halo NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Halo NFT",
+    "symbol": "HALO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

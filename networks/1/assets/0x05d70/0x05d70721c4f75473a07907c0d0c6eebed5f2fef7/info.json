@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05d70721c4f75473a07907c0d0c6eebed5f2fef7",
+  "displayName": "Value Bond",
+  "type": "TOKEN",
+  "token": {
+    "name": "Value Bond",
+    "symbol": "VBOND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

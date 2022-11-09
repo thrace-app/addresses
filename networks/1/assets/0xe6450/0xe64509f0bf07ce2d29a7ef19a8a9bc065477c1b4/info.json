@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4",
+  "displayName": "PiplCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PiplCoin",
+    "symbol": "PIPL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

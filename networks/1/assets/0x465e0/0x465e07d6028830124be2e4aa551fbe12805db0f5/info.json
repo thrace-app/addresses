@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x465e07d6028830124be2e4aa551fbe12805db0f5",
+  "displayName": "Wrapped Monero",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Monero",
+    "symbol": "WXMR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

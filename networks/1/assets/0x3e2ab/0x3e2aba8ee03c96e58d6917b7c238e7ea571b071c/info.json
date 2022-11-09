@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e2aba8ee03c96e58d6917b7c238e7ea571b071c",
+  "displayName": "HokkaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "HokkaCoin",
+    "symbol": "HOK",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87e716238ad4225d9950ee3829ec07aaa26ba10e",
+  "displayName": "King of the Hill",
+  "type": "TOKEN",
+  "token": {
+    "name": "King of the Hill",
+    "symbol": "HANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

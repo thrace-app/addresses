@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23fa59242b6761acb71cac9ff667ced26c156dad",
+  "displayName": "Wrapped Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Ethereum",
+    "symbol": "WETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

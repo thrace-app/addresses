@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ff6be6f32775fe26ef006ca28057d59fac00c12",
+  "displayName": "MetaFloki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaFloki Token",
+    "symbol": "METAFLOKI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

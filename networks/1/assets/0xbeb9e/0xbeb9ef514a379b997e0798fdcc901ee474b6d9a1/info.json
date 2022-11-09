@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1",
+  "displayName": "Melon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Melon Token",
+    "symbol": "MLN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

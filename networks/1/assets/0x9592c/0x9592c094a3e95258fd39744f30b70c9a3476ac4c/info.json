@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9592c094a3e95258fd39744f30b70c9a3476ac4c",
+  "displayName": "Uniswap Apes",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uniswap Apes",
+    "symbol": "uAPES",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

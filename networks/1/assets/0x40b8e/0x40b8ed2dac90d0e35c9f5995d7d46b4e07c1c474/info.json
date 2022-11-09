@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40b8ed2dac90d0e35c9f5995d7d46b4e07c1c474",
+  "displayName": "ISS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ISS Token",
+    "symbol": "ISS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

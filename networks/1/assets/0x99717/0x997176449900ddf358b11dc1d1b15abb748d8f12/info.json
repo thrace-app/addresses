@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x997176449900ddf358b11dc1d1b15abb748d8f12",
+  "displayName": "The Dogepound",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Dogepound",
+    "symbol": "DOGEPOUND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

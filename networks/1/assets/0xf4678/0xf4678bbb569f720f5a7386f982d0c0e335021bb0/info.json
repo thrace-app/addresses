@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4678bbb569f720f5a7386f982d0c0e335021bb0",
+  "displayName": "BigRonnieToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BigRonnieToken",
+    "symbol": "BIG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

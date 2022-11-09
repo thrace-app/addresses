@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b87fbf0c26ede8e005ebba3894b427c282f91dd",
+  "displayName": "Safe Weed",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Weed",
+    "symbol": "SafeWeed",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd964bf5f85c024815089148031137ae6d269b08b",
+  "displayName": "Zero Value Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zero Value Token",
+    "symbol": "0VT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

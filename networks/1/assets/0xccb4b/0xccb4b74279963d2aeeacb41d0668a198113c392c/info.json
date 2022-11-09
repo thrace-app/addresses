@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccb4b74279963d2aeeacb41d0668a198113c392c",
+  "displayName": "POS DOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "POS DOGE",
+    "symbol": "POSD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

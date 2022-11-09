@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ee8abac67c798f9a11ed5dcc2c49faf2b5359e0",
+  "displayName": "This is Fine: an announced rug",
+  "type": "TOKEN",
+  "token": {
+    "name": "This is Fine: an announced rug",
+    "symbol": "TIF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

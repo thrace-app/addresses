@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x444997b7e7fc830e20089afea3078cd518fcf2a2",
+  "displayName": "EWO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EWO Token",
+    "symbol": "EWO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

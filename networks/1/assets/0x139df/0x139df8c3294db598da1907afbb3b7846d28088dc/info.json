@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x139df8c3294db598da1907afbb3b7846d28088dc",
+  "displayName": "Shurima Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shurima Token",
+    "symbol": "DESERT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

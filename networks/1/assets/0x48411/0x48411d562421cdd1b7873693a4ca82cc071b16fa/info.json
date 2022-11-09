@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48411d562421cdd1b7873693a4ca82cc071b16fa",
+  "displayName": "EthereumSun",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumSun",
+    "symbol": "ETHSUN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

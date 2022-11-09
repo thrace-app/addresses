@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45deac2f1149da1f9ead9f888b523b71acd98bf7",
+  "displayName": "Centrifuge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Centrifuge",
+    "symbol": "CFG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

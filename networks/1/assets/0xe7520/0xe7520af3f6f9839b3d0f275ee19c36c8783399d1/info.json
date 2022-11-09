@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7520af3f6f9839b3d0f275ee19c36c8783399d1",
+  "displayName": "BitcoinProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitcoinProtocol",
+    "symbol": "SEGWIT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

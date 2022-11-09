@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87c07ace6a097dd23acac671e75318d0857680c3",
+  "displayName": "Bonereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bonereum",
+    "symbol": "BONER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

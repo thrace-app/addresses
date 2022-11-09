@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f86f939700908dcdd37776ceec9181d7ab2eb9b",
+  "displayName": "The CatZilla Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The CatZilla Token",
+    "symbol": "CatZilla",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

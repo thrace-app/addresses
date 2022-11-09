@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba1824325b0dfc96c2b3575b693f71c32d099e50",
+  "displayName": "WorkToEarn",
+  "type": "TOKEN",
+  "token": {
+    "name": "WorkToEarn",
+    "symbol": "$WTE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

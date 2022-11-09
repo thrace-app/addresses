@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2009fbeacfa9228838fb61508db7f5925f9be2bb",
+  "displayName": "Finedoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Finedoge",
+    "symbol": "FINEDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

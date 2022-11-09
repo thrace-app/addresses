@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb913c80b8b8814597691ffbb8675f646f975d174",
+  "displayName": "Malamute Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Malamute Token",
+    "symbol": "MLM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

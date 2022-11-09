@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25bd12ae9bbac47dc730e2559feb5dbe8e226894",
+  "displayName": "Top Dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Top Dog",
+    "symbol": "TOPDOG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

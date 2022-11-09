@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f18940fe2a81ac462220e64ec11bb3430aac8b5",
+  "displayName": "NyanDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "NyanDoge",
+    "symbol": "NDOGE",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

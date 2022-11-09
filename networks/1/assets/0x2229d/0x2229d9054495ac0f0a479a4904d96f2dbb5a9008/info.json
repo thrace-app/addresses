@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2229d9054495ac0f0a479a4904d96f2dbb5a9008",
+  "displayName": "RocChain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RocChain Token",
+    "symbol": "RCH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x398e616b74832f26fb342913e0d81fffef70fb71",
+  "displayName": "Rambocoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rambocoin",
+    "symbol": "RBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

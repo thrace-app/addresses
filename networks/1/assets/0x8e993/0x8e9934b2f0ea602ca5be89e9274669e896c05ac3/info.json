@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e9934b2f0ea602ca5be89e9274669e896c05ac3",
+  "displayName": "Digital Australian Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Australian Dollar",
+    "symbol": "DAUD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

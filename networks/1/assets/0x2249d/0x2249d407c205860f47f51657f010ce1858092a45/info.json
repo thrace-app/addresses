@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2249d407c205860f47f51657f010ce1858092a45",
+  "displayName": "PY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PY Token",
+    "symbol": "PY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

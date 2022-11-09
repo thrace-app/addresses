@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x659aea7e51e16d136f79f90320163305c086a7f2",
+  "displayName": "GWAP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GWAP Token",
+    "symbol": "GWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

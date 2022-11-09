@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3207935ff56120f3499e8ad08461dd403bf16b8",
+  "displayName": "dAMM",
+  "type": "TOKEN",
+  "token": {
+    "name": "dAMM",
+    "symbol": "DAMM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

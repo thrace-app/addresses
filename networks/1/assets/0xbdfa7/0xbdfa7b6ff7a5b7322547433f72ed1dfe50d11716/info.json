@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbdfa7b6ff7a5b7322547433f72ed1dfe50d11716",
+  "displayName": "Evil Dead",
+  "type": "TOKEN",
+  "token": {
+    "name": "Evil Dead",
+    "symbol": "eDead",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

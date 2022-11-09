@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8544a51010c635b8e89e010a346e9219823921ea",
+  "displayName": "Network Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Network Coin",
+    "symbol": "NWC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

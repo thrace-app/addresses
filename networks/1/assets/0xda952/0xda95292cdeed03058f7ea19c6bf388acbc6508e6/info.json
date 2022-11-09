@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda95292cdeed03058f7ea19c6bf388acbc6508e6",
+  "displayName": "Ether Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether Bank",
+    "symbol": "EBANK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

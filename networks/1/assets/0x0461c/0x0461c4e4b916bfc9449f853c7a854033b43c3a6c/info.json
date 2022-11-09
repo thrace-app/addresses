@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0461c4e4b916bfc9449f853c7a854033b43c3a6c",
+  "displayName": "Poof.eth",
+  "type": "TOKEN",
+  "token": {
+    "name": "Poof.eth",
+    "symbol": "POOF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

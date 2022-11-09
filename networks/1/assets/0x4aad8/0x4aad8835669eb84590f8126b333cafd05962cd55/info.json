@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4aad8835669eb84590f8126b333cafd05962cd55",
+  "displayName": "PocketShiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "PocketShiba",
+    "symbol": "POSHIB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

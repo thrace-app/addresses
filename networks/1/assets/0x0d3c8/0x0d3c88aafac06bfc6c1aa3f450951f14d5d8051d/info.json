@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d3c88aafac06bfc6c1aa3f450951f14d5d8051d",
+  "displayName": "The Spade",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Spade",
+    "symbol": "SPADE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

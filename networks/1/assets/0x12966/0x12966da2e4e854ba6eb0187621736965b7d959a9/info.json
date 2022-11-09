@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12966da2e4e854ba6eb0187621736965b7d959a9",
+  "displayName": "Hero Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hero Coin",
+    "symbol": "HRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac5d7dff150b195c97fca77001f8ad596eda1761",
+  "displayName": "Wrapped GOVM",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped GOVM",
+    "symbol": "wGOVM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab47fbe8a0b75baa4ef846e99f6bb3b52007a115",
+  "displayName": "WIPcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WIPcoin",
+    "symbol": "WIPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

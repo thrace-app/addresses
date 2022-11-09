@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6c3511d265e407ef08173b365ba962ca5521965",
+  "displayName": "Tengu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tengu",
+    "symbol": "TenguA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

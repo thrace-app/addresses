@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae8e5eaab107852389b8610b930c8251bdc7b60f",
+  "displayName": "yBanano",
+  "type": "TOKEN",
+  "token": {
+    "name": "yBanano",
+    "symbol": "YBAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

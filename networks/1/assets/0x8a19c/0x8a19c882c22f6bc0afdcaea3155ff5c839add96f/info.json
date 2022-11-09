@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a19c882c22f6bc0afdcaea3155ff5c839add96f",
+  "displayName": "HhbToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "HhbToken",
+    "symbol": "HHB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7dec3191c2ca8b5a66534c6ffe8377c7e45106f6",
+  "displayName": "WEB3 X TEST",
+  "type": "TOKEN",
+  "token": {
+    "name": "WEB3 X TEST",
+    "symbol": "WEB3XTEST",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

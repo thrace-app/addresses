@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69c30f2715b027761b2b4bdb94a49b374c3ec70e",
+  "displayName": "Hex UFO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hex UFO",
+    "symbol": "HexUFO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

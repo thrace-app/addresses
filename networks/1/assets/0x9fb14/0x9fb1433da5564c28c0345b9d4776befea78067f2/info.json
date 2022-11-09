@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9fb1433da5564c28c0345b9d4776befea78067f2",
+  "displayName": "MegaMusk",
+  "type": "TOKEN",
+  "token": {
+    "name": "MegaMusk",
+    "symbol": "MEGAMUSK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

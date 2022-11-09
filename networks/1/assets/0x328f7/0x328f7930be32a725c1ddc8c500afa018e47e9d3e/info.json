@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x328f7930be32a725c1ddc8c500afa018e47e9d3e",
+  "displayName": "limited.Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "limited.Token",
+    "symbol": "LIMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

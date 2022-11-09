@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd30503375087d6de639bba83da9184e59f354a0",
+  "displayName": "ISWToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ISWToken",
+    "symbol": "ISW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

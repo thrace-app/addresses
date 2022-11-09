@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x610b4b7c9a47db4dda9c0b3e815cc6149880b002",
+  "displayName": "Mir coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mir coin",
+    "symbol": "MIR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfece45edad822042f6a707fa3e4e388568a2463",
+  "displayName": "Van Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Van Protocol",
+    "symbol": "VAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

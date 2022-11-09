@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d285f735998f36631f678ff41fb56a10a4d0429",
+  "displayName": "MixMarvel Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MixMarvel Token",
+    "symbol": "MIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

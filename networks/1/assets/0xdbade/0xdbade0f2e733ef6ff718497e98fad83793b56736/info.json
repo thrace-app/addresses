@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbade0f2e733ef6ff718497e98fad83793b56736",
+  "displayName": "Mushiswap token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mushiswap token",
+    "symbol": "MUSHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

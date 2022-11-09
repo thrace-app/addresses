@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65aa42cf3c4672911a776edbe780aacc8ba76b4c",
+  "displayName": "Republic Note Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Republic Note Token",
+    "symbol": "NOTE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

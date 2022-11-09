@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3f7ffb5d5869b3ade9448d094d81b0521e8326f",
+  "displayName": "FARM_USDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "FARM_USDC",
+    "symbol": "fUSDC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

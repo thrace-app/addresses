@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50522c769e01eb06c02bd299066509d8f97a69ae",
+  "displayName": "Rising Sun",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rising Sun",
+    "symbol": "SUN",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab73d61469c4310683310a1638074604b0a89c8b",
+  "displayName": "RapDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "RapDoge",
+    "symbol": "$RAPDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

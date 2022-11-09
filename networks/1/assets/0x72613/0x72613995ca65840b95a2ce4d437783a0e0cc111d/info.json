@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72613995ca65840b95a2ce4d437783a0e0cc111d",
+  "displayName": "Liquid Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Liquid Cat",
+    "symbol": "LiqCat",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfdd4e938bb067280a52ac4e02aaf1502cc882ba6",
+  "displayName": "EarnBet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EarnBet Token",
+    "symbol": "BET",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

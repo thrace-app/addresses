@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c8d43b8d85cc0d2ca2ccd3ea04d45c60be48622",
+  "displayName": "Super ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super ETH",
+    "symbol": "SETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23a1000ae9886356f13f29754aa2d0a727cd89ac",
+  "displayName": "DNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "DNFT",
+    "symbol": "DNFT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34c1b0befe829a1aedbef504c3618fd5de6e89fb",
+  "displayName": "OnlyNFTs",
+  "type": "TOKEN",
+  "token": {
+    "name": "OnlyNFTs",
+    "symbol": "ONLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

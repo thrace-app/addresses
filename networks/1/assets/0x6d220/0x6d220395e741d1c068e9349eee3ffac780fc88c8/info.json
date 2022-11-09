@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d220395e741d1c068e9349eee3ffac780fc88c8",
+  "displayName": "VTPay Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VTPay Token",
+    "symbol": "VTP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

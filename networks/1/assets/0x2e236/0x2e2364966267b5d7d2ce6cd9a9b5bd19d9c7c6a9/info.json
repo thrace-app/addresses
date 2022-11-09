@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e2364966267b5d7d2ce6cd9a9b5bd19d9c7c6a9",
+  "displayName": "NIX Bridge Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NIX Bridge Token",
+    "symbol": "NBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

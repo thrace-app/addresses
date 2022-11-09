@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb2f7eb1f2c37645be61d73953035360e768d81e6",
+  "displayName": "Cobinhood Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cobinhood Token",
+    "symbol": "COB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

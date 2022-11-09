@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc24103972c7087fb1fca2b3584407386051885f",
+  "displayName": "S&P500 Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "S&P500 Inu",
+    "symbol": "SP500",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

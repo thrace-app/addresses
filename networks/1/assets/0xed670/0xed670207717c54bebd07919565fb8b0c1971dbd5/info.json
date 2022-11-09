@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed670207717c54bebd07919565fb8b0c1971dbd5",
+  "displayName": "Lunatic Clock",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lunatic Clock",
+    "symbol": "TICKER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

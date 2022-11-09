@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b9a467a91f0a92dc6605725777a96ef6478dd37",
+  "displayName": "XRP Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "XRP Finance",
+    "symbol": "XRPF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

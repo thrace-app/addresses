@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb05b91801abc0f6a20850ba1cc47fad25266784c",
+  "displayName": "Co-op",
+  "type": "TOKEN",
+  "token": {
+    "name": "Co-op",
+    "symbol": "COP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

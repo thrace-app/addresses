@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec84cf75be194bf650654d1e45219f86a9726f78",
+  "displayName": "PZ1D Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PZ1D Token",
+    "symbol": "PZ1D",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

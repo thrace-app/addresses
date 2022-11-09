@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa0c24f31b9cab944ada34628f1840ce036166e30",
+  "displayName": "GivingTuesday",
+  "type": "TOKEN",
+  "token": {
+    "name": "GivingTuesday",
+    "symbol": "GT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

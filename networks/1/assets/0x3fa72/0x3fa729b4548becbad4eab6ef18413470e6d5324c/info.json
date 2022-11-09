@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fa729b4548becbad4eab6ef18413470e6d5324c",
+  "displayName": "Mover",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mover",
+    "symbol": "MOVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1424a1b3cbceec0346eecf1605e94bca8634a4a",
+  "displayName": "Linkoye Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Linkoye Token",
+    "symbol": "LIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

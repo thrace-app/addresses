@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a3f87c895edfac699b5758236fa5387914a847f",
+  "displayName": "Pandinow Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pandinow Token",
+    "symbol": "PANDINOW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

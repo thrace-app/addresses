@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c684ae972e67d191a89f486b8ec59893bccf949",
+  "displayName": "Chain Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chain Doge",
+    "symbol": "Chain Doge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

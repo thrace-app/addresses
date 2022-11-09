@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9799e1cc190def06d14270304164a7463173d7df",
+  "displayName": "KF BTC Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "KF BTC Fund",
+    "symbol": "KFBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

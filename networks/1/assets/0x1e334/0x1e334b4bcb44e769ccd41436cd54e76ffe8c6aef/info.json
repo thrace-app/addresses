@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e334b4bcb44e769ccd41436cd54e76ffe8c6aef",
+  "displayName": "WoW Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "WoW Protocol",
+    "symbol": "$WoW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

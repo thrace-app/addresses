@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33b9c0de79a9da85dd9dd51beb1bd63ce655914a",
+  "displayName": "Saudi Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Saudi Doge",
+    "symbol": "SAUDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

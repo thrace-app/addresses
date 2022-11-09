@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a77cf5507e184f82e108abd323e74e55bdf713f",
+  "displayName": "Trnsfr",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trnsfr",
+    "symbol": "TRNSFR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

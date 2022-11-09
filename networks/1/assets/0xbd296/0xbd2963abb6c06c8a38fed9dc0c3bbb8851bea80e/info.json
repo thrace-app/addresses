@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd2963abb6c06c8a38fed9dc0c3bbb8851bea80e",
+  "displayName": "ShibaFetus",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShibaFetus",
+    "symbol": "SHIF",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

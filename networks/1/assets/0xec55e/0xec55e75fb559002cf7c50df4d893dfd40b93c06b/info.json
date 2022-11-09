@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec55e75fb559002cf7c50df4d893dfd40b93c06b",
+  "displayName": "Wrapped Polkadot",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Polkadot",
+    "symbol": "WDOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

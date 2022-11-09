@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73e2aba91c4e64049c4ab55bffcec3ad25d51050",
+  "displayName": "Fat Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fat Ape",
+    "symbol": "FATAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

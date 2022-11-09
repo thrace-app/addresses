@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64a3f8e53abf6351ec9519941bfee70a24b91ded",
+  "displayName": "Free Speech token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Free Speech token",
+    "symbol": "freespeech",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

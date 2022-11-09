@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ccf98a13ed658678bfe9a319d4454e5f170114d",
+  "displayName": "stvcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "stvcoin",
+    "symbol": "STV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

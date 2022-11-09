@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d793000af70d30104f11b137fdc2f509b4020c0",
+  "displayName": "Japd Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Japd Token",
+    "symbol": "JAPD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

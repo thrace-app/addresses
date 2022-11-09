@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf62b40c2ad754cd38074e3a61e0185b375c59dbd",
+  "displayName": "Wika crypto coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wika crypto coin",
+    "symbol": "WIKACC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

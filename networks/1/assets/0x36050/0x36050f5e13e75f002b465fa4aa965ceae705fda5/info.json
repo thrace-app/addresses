@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36050f5e13e75f002b465fa4aa965ceae705fda5",
+  "displayName": "Bill Gate Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bill Gate Token",
+    "symbol": "BillGate",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

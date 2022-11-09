@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1dc1d30474c66e6ce95f471b6d2448c17d5671e",
+  "displayName": "SteakToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SteakToken",
+    "symbol": "steak",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

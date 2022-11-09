@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0a2be01f8330f56d6687458504081436bfd71be",
+  "displayName": "Kimbu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kimbu Token",
+    "symbol": "KIMBU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

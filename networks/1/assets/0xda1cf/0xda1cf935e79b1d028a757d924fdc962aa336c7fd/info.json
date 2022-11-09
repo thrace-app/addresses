@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda1cf935e79b1d028a757d924fdc962aa336c7fd",
+  "displayName": "Peter Schiff Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Peter Schiff Coin",
+    "symbol": "PSC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

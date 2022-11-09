@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x91edfc9e48a6f9a2da28a3dcdad310fb928641db",
+  "displayName": "Shopin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shopin Token",
+    "symbol": "SHOP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6b517e84bff29149a3194c97d8fac62e0ffca4e",
+  "displayName": "Gold BCR",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gold BCR",
+    "symbol": "GBCR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

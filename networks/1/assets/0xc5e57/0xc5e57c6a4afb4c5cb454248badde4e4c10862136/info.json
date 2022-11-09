@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc5e57c6a4afb4c5cb454248badde4e4c10862136",
+  "displayName": "AssangeDAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AssangeDAO Token",
+    "symbol": "ASSANGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

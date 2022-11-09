@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7346ad4c8cd1886ff6d16072bcea5dfc0bc24ca2",
+  "displayName": "Filecoin Standard Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Filecoin Standard Token",
+    "symbol": "FILST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

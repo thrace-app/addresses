@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4904beb2355126fe9b9b196fdd78bafbc6e46299",
+  "displayName": "Dogemon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dogemon",
+    "symbol": "GCTP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

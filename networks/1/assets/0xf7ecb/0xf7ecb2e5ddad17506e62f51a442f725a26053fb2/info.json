@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7ecb2e5ddad17506e62f51a442f725a26053fb2",
+  "displayName": "SpaceWorm",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpaceWorm",
+    "symbol": "$WORM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

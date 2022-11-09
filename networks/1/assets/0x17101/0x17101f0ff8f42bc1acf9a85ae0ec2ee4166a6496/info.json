@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17101f0ff8f42bc1acf9a85ae0ec2ee4166a6496",
+  "displayName": "DGT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DGT Token",
+    "symbol": "DGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

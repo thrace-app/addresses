@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87e357ae71e480f732a8a2c0a90da65679cb07f6",
+  "displayName": "Chad Detector",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chad Detector",
+    "symbol": "ETHchad",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

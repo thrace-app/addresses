@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8984444c8d85f567eafdcdd1dabc0d693d48961b",
+  "displayName": "ninja-finance.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "ninja-finance.com",
+    "symbol": "NINJA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3231b54a46b758e6241b0b8bad65dddefb536c25",
+  "displayName": "Equal ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Equal ETH",
+    "symbol": "EQUALETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14262203838b69c905d0254cc1a01aceea7a08d1",
+  "displayName": "PikaProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "PikaProtocol",
+    "symbol": "PIKA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

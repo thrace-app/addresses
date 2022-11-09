@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcceacc43583fbb705b6225627ce6844d46894b55",
+  "displayName": "Classic Terra",
+  "type": "TOKEN",
+  "token": {
+    "name": "Classic Terra",
+    "symbol": "ClassicTerra",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

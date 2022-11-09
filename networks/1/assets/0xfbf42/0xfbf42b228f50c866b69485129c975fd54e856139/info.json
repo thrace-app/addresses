@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfbf42b228f50c866b69485129c975fd54e856139",
+  "displayName": "SpiderEth",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpiderEth",
+    "symbol": "SPETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

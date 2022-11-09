@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30cd46964b06b2246efe58050a38cea4eba4ee39",
+  "displayName": "Protocol Printer",
+  "type": "TOKEN",
+  "token": {
+    "name": "Protocol Printer",
+    "symbol": "PRINTER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

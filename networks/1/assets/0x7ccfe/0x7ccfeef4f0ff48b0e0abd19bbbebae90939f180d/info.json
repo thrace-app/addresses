@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ccfeef4f0ff48b0e0abd19bbbebae90939f180d",
+  "displayName": "StarShip",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarShip",
+    "symbol": "STARS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

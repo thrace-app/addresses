@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf57c4b01d68de46bdb20cbaf32b7d816b01acee9",
+  "displayName": "Block Credit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Block Credit",
+    "symbol": "$BC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

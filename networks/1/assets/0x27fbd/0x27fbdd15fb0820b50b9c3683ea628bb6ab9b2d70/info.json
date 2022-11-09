@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27fbdd15fb0820b50b9c3683ea628bb6ab9b2d70",
+  "displayName": "Basic Attention Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

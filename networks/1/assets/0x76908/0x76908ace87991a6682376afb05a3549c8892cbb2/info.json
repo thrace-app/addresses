@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76908ace87991a6682376afb05a3549c8892cbb2",
+  "displayName": "Scooby Doo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Scooby Doo",
+    "symbol": "ScoobyDoo",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

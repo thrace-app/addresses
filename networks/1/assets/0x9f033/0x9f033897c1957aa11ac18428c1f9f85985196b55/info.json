@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f033897c1957aa11ac18428c1f9f85985196b55",
+  "displayName": "MyCryptoview.com token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyCryptoview.com token",
+    "symbol": "MCV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

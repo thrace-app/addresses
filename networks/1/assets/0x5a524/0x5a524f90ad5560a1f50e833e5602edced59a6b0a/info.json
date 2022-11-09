@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a524f90ad5560a1f50e833e5602edced59a6b0a",
+  "displayName": "Blue Check",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Check",
+    "symbol": "BlueCheck",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

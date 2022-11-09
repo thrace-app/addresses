@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x609bb134e28e1720332b9262051bbffcee613048",
+  "displayName": "NekoChanFeedToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NekoChanFeedToken",
+    "symbol": "NCFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

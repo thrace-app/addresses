@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba4e8eaa936393c67c696a7ec7ae9a7a6cbbad6b",
+  "displayName": "Mint Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mint Doge",
+    "symbol": "MINTDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

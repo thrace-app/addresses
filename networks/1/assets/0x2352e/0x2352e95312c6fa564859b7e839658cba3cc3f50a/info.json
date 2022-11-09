@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2352e95312c6fa564859b7e839658cba3cc3f50a",
+  "displayName": "Chain DEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chain DEX",
+    "symbol": "CDEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

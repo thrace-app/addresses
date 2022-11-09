@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea66cdadc30aa8eff077c9b3dcf83ad525da80d9",
+  "displayName": "Crypto Paint",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Paint",
+    "symbol": "$PAINT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07c6219393cfa3fbdc332f1f26ad742adca45425",
+  "displayName": "GoldenBurn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoldenBurn Token",
+    "symbol": "GOLDEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

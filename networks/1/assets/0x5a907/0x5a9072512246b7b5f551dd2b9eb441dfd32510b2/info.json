@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a9072512246b7b5f551dd2b9eb441dfd32510b2",
+  "displayName": "RareAlley Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RareAlley Token",
+    "symbol": "RALLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

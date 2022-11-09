@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58b6a8a3302369daec383334672404ee733ab239",
+  "displayName": "Livepeer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Livepeer Token",
+    "symbol": "LPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

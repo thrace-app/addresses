@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfbe122d0ba3c75e1f7c80bd27613c9f35b81feec",
+  "displayName": "FARM_renBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "FARM_renBTC",
+    "symbol": "frenBTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

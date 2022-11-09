@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14d23957d81f41750c7b4845b0897c3c802cb313",
+  "displayName": "Floki Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Floki Fund",
+    "symbol": "FLOKIFUND",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

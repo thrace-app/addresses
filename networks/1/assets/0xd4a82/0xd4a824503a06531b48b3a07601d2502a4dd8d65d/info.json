@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4a824503a06531b48b3a07601d2502a4dd8d65d",
+  "displayName": "SafeMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeMoon",
+    "symbol": "SAFEMOON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

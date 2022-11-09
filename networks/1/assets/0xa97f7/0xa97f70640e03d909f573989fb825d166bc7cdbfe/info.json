@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa97f70640e03d909f573989fb825d166bc7cdbfe",
+  "displayName": "DuckCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DuckCoin",
+    "symbol": "DUCK",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

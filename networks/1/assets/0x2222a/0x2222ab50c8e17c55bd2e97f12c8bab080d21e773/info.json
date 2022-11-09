@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2222ab50c8e17c55bd2e97f12c8bab080d21e773",
+  "displayName": "BrickYield",
+  "type": "TOKEN",
+  "token": {
+    "name": "BrickYield",
+    "symbol": "YBKD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

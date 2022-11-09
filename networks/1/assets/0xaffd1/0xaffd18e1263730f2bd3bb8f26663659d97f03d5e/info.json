@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaffd18e1263730f2bd3bb8f26663659d97f03d5e",
+  "displayName": "TUQR Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TUQR Token",
+    "symbol": "TUQR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

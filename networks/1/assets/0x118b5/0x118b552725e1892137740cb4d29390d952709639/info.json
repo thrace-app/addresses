@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x118b552725e1892137740cb4d29390d952709639",
+  "displayName": "Nyx Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nyx Token",
+    "symbol": "NYXT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

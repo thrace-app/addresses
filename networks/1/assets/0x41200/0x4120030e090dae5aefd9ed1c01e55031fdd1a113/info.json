@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4120030e090dae5aefd9ed1c01e55031fdd1a113",
+  "displayName": "BlockAid",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlockAid",
+    "symbol": "BACK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

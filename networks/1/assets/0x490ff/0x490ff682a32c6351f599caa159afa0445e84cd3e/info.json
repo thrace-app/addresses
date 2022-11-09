@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x490ff682a32c6351f599caa159afa0445e84cd3e",
+  "displayName": "AirCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AirCoin",
+    "symbol": "AIR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

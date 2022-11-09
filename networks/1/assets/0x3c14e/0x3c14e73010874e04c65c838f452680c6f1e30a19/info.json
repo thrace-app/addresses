@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c14e73010874e04c65c838f452680c6f1e30a19",
+  "displayName": "Wapacoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wapacoin",
+    "symbol": "WAPA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

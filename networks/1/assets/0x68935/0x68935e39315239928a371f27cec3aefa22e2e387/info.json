@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68935e39315239928a371f27cec3aefa22e2e387",
+  "displayName": "Warren Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Warren Token",
+    "symbol": "BUFF",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

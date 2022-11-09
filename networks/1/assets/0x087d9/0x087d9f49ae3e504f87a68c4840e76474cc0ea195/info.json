@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x087d9f49ae3e504f87a68c4840e76474cc0ea195",
+  "displayName": "MoonTube",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonTube",
+    "symbol": "mTUBE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

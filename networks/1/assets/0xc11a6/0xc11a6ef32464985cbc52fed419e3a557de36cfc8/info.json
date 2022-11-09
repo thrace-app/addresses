@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc11a6ef32464985cbc52fed419e3a557de36cfc8",
+  "displayName": "Our Shib",
+  "type": "TOKEN",
+  "token": {
+    "name": "Our Shib",
+    "symbol": "OSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

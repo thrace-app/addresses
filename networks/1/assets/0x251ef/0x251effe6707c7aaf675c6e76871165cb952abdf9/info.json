@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x251effe6707c7aaf675c6e76871165cb952abdf9",
+  "displayName": "ERC20 CK",
+  "type": "TOKEN",
+  "token": {
+    "name": "ERC20 CK",
+    "symbol": "ECK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

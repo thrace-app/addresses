@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3dc22f19a7dac77f56f934ec84ea4aa192a6c4d6",
+  "displayName": "The Pig",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Pig",
+    "symbol": "SWINE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

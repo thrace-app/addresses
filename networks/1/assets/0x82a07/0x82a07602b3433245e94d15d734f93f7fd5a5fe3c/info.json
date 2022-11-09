@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82a07602b3433245e94d15d734f93f7fd5a5fe3c",
+  "displayName": "Footballium",
+  "type": "TOKEN",
+  "token": {
+    "name": "Footballium",
+    "symbol": "$FOOT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

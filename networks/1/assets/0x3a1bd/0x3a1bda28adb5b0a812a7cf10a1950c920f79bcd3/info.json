@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a1bda28adb5b0a812a7cf10a1950c920f79bcd3",
+  "displayName": "FLIP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FLIP Token",
+    "symbol": "FLP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

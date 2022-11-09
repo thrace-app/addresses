@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a41775da459b38e641141e4c696df10ec1f4983",
+  "displayName": "ChainPort",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChainPort",
+    "symbol": "PORTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

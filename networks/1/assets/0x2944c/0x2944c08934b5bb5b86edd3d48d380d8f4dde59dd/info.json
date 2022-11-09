@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2944c08934b5bb5b86edd3d48d380d8f4dde59dd",
+  "displayName": "Baiden Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baiden Coin",
+    "symbol": "Baiden",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40a73cb5c034a4166cade46a76a9ffb6ee2cda39",
+  "displayName": "Simpson DeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Simpson DeFi",
+    "symbol": "SIMPSON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac8efdec3c1fa73723201bcdf81ccae14e760e15",
+  "displayName": "advertizer token",
+  "type": "TOKEN",
+  "token": {
+    "name": "advertizer token",
+    "symbol": "ertoken",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

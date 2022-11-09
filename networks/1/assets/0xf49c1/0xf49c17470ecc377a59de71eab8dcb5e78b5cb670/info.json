@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf49c17470ecc377a59de71eab8dcb5e78b5cb670",
+  "displayName": "Seppuku Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Seppuku Token",
+    "symbol": "Seppuku!",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

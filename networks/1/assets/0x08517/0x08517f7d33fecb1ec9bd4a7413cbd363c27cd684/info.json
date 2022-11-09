@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08517f7d33fecb1ec9bd4a7413cbd363c27cd684",
+  "displayName": "Bulbasaur",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bulbasaur",
+    "symbol": "SAUR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21e19121e1360e09aa1f810280c97a87b85d1069",
+  "displayName": "GriffinToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GriffinToken",
+    "symbol": "GFIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

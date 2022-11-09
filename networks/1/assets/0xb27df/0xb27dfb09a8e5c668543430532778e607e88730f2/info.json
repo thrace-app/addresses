@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb27dfb09a8e5c668543430532778e607e88730f2",
+  "displayName": "LiquidMultiplier",
+  "type": "TOKEN",
+  "token": {
+    "name": "LiquidMultiplier",
+    "symbol": "LIQM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

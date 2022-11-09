@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5fcd4b71a3e5a9dbc0a5cfe4e7d150694ec19c55",
+  "displayName": "APEE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "APEE Token",
+    "symbol": "APEE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

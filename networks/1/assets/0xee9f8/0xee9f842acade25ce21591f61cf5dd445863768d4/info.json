@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee9f842acade25ce21591f61cf5dd445863768d4",
+  "displayName": "Flipper",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flipper",
+    "symbol": "$Flipper",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

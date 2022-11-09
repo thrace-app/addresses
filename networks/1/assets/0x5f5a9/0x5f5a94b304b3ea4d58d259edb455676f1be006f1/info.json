@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f5a94b304b3ea4d58d259edb455676f1be006f1",
+  "displayName": "ZuniToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZuniToken",
+    "symbol": "ZUNI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

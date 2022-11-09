@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd60f9dd5b891b728955149bd59f42c6513c8dc6",
+  "displayName": "The Emperial Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Emperial Currency",
+    "symbol": "B0T",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

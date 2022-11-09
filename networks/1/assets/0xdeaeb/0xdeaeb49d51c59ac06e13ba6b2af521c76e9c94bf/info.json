@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdeaeb49d51c59ac06e13ba6b2af521c76e9c94bf",
+  "displayName": "Commissioner Gordon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Commissioner Gordon",
+    "symbol": "CG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

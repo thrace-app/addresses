@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1644ccd36f977aa125515536d7f90a7f6c13200d",
+  "displayName": "SapaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SapaToken",
+    "symbol": "SAPA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

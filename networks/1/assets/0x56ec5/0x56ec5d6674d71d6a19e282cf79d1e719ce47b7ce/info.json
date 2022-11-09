@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56ec5d6674d71d6a19e282cf79d1e719ce47b7ce",
+  "displayName": "Inflation Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inflation Shiba",
+    "symbol": "ISHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

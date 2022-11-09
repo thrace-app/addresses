@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4739af149a3902278b7af5b73c79fccc35b42ed4",
+  "displayName": "NodeSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "NodeSwap",
+    "symbol": "NODE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

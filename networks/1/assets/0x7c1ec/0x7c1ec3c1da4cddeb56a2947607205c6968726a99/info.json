@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c1ec3c1da4cddeb56a2947607205c6968726a99",
+  "displayName": "JUJU Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JUJU Token",
+    "symbol": "JUJU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

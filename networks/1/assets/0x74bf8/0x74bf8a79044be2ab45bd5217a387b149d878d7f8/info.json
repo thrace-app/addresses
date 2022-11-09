@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x74bf8a79044be2ab45bd5217a387b149d878d7f8",
+  "displayName": "BlueBucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlueBucks",
+    "symbol": "BBS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

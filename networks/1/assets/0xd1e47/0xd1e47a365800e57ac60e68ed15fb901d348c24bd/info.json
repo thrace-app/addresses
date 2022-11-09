@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1e47a365800e57ac60e68ed15fb901d348c24bd",
+  "displayName": "UniJackpot Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniJackpot Token",
+    "symbol": "UJT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

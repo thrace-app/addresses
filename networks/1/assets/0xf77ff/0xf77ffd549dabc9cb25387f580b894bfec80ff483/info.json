@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf77ffd549dabc9cb25387f580b894bfec80ff483",
+  "displayName": "PRToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PRToken",
+    "symbol": "PRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

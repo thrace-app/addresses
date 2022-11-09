@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64b753b7ca8347a79e5cfc487ea53ab9b9a42878",
+  "displayName": "Root Wrapped ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Root Wrapped ETH",
+    "symbol": "KETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

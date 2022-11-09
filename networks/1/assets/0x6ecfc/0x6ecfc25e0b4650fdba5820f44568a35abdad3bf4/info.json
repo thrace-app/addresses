@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ecfc25e0b4650fdba5820f44568a35abdad3bf4",
+  "displayName": "Bonk Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bonk Protocol",
+    "symbol": "$BONK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

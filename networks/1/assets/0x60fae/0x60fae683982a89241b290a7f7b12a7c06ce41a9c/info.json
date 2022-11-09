@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x60fae683982a89241b290a7f7b12a7c06ce41a9c",
+  "displayName": "Shibatama",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shibatama",
+    "symbol": "SHIBATAMA",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

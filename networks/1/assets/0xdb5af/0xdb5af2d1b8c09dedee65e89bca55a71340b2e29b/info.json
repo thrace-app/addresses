@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb5af2d1b8c09dedee65e89bca55a71340b2e29b",
+  "displayName": "The Mankind Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Mankind Token",
+    "symbol": "TMT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

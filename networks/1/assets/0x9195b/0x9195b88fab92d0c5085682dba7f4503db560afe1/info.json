@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9195b88fab92d0c5085682dba7f4503db560afe1",
+  "displayName": "Flying Pigs",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flying Pigs",
+    "symbol": "OINK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

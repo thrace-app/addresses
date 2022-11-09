@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76ac229b29002a1d2b2a8cc95bb22275895f19bd",
+  "displayName": "OdinPoC",
+  "type": "TOKEN",
+  "token": {
+    "name": "OdinPoC",
+    "symbol": "OdinPoC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

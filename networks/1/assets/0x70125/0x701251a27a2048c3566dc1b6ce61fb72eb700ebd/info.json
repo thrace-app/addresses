@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x701251a27a2048c3566dc1b6ce61fb72eb700ebd",
+  "displayName": "MemePad",
+  "type": "TOKEN",
+  "token": {
+    "name": "MemePad",
+    "symbol": "MEPAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

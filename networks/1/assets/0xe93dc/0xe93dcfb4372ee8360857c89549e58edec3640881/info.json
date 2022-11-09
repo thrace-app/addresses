@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe93dcfb4372ee8360857c89549e58edec3640881",
+  "displayName": "MakerCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MakerCoin",
+    "symbol": "MAKEC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

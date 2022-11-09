@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x601568d867d5b67e829bf8a8ff960ab3839831d8",
+  "displayName": "Ethereum Flamingo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Flamingo",
+    "symbol": "EFLAM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

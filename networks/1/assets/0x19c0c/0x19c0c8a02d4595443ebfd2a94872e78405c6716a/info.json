@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19c0c8a02d4595443ebfd2a94872e78405c6716a",
+  "displayName": "COMFY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "COMFY Token",
+    "symbol": "COMFY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

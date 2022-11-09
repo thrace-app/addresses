@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde98a16efd225fbfdcaa7ce4b41343af00bdb546",
+  "displayName": "SectorV Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SectorV Token",
+    "symbol": "SVC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

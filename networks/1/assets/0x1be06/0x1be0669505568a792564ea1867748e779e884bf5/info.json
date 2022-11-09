@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1be0669505568a792564ea1867748e779e884bf5",
+  "displayName": "BeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BeToken",
+    "symbol": "BETN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

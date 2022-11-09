@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64b70f0a7795c3729f52c77ee3559c2dbd64c32b",
+  "displayName": "GrouchyTigerToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GrouchyTigerToken",
+    "symbol": "GTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

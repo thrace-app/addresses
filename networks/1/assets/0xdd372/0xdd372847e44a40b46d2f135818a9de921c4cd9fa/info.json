@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd372847e44a40b46d2f135818a9de921c4cd9fa",
+  "displayName": "BoomBaby.io Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BoomBaby.io Token",
+    "symbol": "BoomBaby",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

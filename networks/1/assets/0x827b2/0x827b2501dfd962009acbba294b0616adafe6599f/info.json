@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x827b2501dfd962009acbba294b0616adafe6599f",
+  "displayName": "CocaCola NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "CocaCola NFT",
+    "symbol": "COCACOLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

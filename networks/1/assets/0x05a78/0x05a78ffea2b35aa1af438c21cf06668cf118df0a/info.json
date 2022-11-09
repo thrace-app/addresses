@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05a78ffea2b35aa1af438c21cf06668cf118df0a",
+  "displayName": "Migranet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Migranet Token",
+    "symbol": "MIG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

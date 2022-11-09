@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9712f4cadccc574a8d33a4cc225680d0eae732db",
+  "displayName": "FOMOCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "FOMOCOIN",
+    "symbol": "FOMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

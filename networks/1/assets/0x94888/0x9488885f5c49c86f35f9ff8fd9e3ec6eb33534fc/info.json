@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9488885f5c49c86f35f9ff8fd9e3ec6eb33534fc",
+  "displayName": "HYMAG Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HYMAG Token",
+    "symbol": "HYM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

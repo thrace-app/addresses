@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4789725a69e173e024772e764a9f6613ba6a7c7a",
+  "displayName": "Corn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Corn Token",
+    "symbol": "CORN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

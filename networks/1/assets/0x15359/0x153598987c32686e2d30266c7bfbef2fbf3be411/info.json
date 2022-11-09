@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x153598987c32686e2d30266c7bfbef2fbf3be411",
+  "displayName": "FDGCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FDGCoin",
+    "symbol": "FDG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

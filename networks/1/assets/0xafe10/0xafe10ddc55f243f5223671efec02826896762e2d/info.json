@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafe10ddc55f243f5223671efec02826896762e2d",
+  "displayName": "DriftCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DriftCoin",
+    "symbol": "DRIFTCITY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

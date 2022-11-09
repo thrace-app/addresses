@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x045d0365de672af215ac05e734748e77b18c67aa",
+  "displayName": "Perry the Platypus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Perry the Platypus",
+    "symbol": "PERRY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

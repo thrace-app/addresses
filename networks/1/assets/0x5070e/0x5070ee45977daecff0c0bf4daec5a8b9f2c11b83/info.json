@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5070ee45977daecff0c0bf4daec5a8b9f2c11b83",
+  "displayName": "Dog Supreme",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dog Supreme",
+    "symbol": "dSupreme",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

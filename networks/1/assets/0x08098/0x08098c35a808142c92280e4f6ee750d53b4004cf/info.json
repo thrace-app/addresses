@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08098c35a808142c92280e4f6ee750d53b4004cf",
+  "displayName": "MyFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyFinance",
+    "symbol": "MYFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

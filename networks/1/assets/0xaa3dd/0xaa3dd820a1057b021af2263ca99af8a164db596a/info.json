@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa3dd820a1057b021af2263ca99af8a164db596a",
+  "displayName": "SMASH token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SMASH token",
+    "symbol": "SMASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

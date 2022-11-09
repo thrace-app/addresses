@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e9dc214772632b4a01585728f7a8e26cfe28b42",
+  "displayName": "InuToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "InuToken",
+    "symbol": "InuT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

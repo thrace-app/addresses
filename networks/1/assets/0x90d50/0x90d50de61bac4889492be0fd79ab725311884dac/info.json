@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90d50de61bac4889492be0fd79ab725311884dac",
+  "displayName": "Meme Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meme Inu",
+    "symbol": "Minu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

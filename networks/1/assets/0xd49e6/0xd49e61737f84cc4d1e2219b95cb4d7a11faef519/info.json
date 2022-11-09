@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd49e61737f84cc4d1e2219b95cb4d7a11faef519",
+  "displayName": "Van Pelt",
+  "type": "TOKEN",
+  "token": {
+    "name": "Van Pelt",
+    "symbol": "VANPELT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

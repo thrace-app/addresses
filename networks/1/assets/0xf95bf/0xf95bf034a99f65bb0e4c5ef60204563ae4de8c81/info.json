@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf95bf034a99f65bb0e4c5ef60204563ae4de8c81",
+  "displayName": "CallersFavouriteToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CallersFavouriteToken",
+    "symbol": "CFT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

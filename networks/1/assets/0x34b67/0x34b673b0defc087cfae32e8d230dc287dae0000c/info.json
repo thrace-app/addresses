@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34b673b0defc087cfae32e8d230dc287dae0000c",
+  "displayName": "ROX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ROX Token",
+    "symbol": "ROX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

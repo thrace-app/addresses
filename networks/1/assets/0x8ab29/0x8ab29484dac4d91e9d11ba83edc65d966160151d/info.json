@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ab29484dac4d91e9d11ba83edc65d966160151d",
+  "displayName": "Chromia Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chromia Token",
+    "symbol": "CHR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

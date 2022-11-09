@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25f31e1bf972420c22810dd5c02a0c5f711967aa",
+  "displayName": "Pokemon Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pokemon Finance",
+    "symbol": "POK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

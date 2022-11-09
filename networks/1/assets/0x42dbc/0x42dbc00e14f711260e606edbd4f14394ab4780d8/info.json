@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42dbc00e14f711260e606edbd4f14394ab4780d8",
+  "displayName": "Black Lion Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Black Lion Coin",
+    "symbol": "BLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdcd48d12b73c43249ac2cea37eed1c544eec8268",
+  "displayName": "Blastoise",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blastoise",
+    "symbol": "Blast",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

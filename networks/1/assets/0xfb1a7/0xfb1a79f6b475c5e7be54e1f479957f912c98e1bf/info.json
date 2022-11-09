@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb1a79f6b475c5e7be54e1f479957f912c98e1bf",
+  "displayName": "Tuckermint Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tuckermint Burn",
+    "symbol": "TUCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

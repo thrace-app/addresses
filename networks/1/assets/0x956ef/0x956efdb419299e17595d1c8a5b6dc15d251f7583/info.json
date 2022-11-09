@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x956efdb419299e17595d1c8a5b6dc15d251f7583",
+  "displayName": "Digital Reserve Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Reserve Fund",
+    "symbol": "DRF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

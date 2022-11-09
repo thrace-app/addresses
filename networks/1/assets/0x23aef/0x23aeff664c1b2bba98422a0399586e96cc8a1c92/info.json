@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23aeff664c1b2bba98422a0399586e96cc8a1c92",
+  "displayName": "Fee Active Collateral Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fee Active Collateral Token",
+    "symbol": "Fact",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0930d97d82353ce03967d2b2f5420908bc57df0",
+  "displayName": "X3M Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "X3M Token",
+    "symbol": "X3MT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

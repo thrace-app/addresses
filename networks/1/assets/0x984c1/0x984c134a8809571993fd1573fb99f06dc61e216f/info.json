@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x984c134a8809571993fd1573fb99f06dc61e216f",
+  "displayName": "Artchain Global Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Artchain Global Token",
+    "symbol": "ACG",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

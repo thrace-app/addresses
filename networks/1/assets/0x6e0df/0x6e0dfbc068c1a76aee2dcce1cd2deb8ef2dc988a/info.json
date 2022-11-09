@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e0dfbc068c1a76aee2dcce1cd2deb8ef2dc988a",
+  "displayName": "Blue Origin Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Origin Coin",
+    "symbol": "BOC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb45cecdf04a0cd7dc30181572e2352b510ef7b93",
+  "displayName": "Tithe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tithe",
+    "symbol": "TEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

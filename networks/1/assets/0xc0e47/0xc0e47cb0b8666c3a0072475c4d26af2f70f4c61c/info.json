@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0e47cb0b8666c3a0072475c4d26af2f70f4c61c",
+  "displayName": "RevalueCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RevalueCoin",
+    "symbol": "RAC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

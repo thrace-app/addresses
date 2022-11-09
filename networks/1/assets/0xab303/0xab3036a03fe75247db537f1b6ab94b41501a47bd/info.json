@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab3036a03fe75247db537f1b6ab94b41501a47bd",
+  "displayName": "APEMOON",
+  "type": "TOKEN",
+  "token": {
+    "name": "APEMOON",
+    "symbol": "$APEMOON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

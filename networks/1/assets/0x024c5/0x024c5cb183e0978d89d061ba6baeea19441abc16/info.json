@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x024c5cb183e0978d89d061ba6baeea19441abc16",
+  "displayName": "TokensJam",
+  "type": "TOKEN",
+  "token": {
+    "name": "TokensJam",
+    "symbol": "JAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

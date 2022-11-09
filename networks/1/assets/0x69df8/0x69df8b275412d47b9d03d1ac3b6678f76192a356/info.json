@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69df8b275412d47b9d03d1ac3b6678f76192a356",
+  "displayName": "LibraDragonToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LibraDragonToken",
+    "symbol": "LDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

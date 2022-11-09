@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb7da9863e030495db8b4d067d665fc8433fff85",
+  "displayName": "PCC Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PCC Token",
+    "symbol": "PCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

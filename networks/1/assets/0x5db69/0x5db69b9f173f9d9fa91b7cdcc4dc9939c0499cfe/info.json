@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5db69b9f173f9d9fa91b7cdcc4dc9939c0499cfe",
+  "displayName": "Ethereum Mix",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Mix",
+    "symbol": "EMIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8681665f708f1a22eb23bc4b2edc0f998e5fe005",
+  "displayName": "TwiDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "TwiDoge",
+    "symbol": "TwiDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

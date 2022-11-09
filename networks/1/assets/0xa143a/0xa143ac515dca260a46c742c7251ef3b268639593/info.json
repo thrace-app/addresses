@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa143ac515dca260a46c742c7251ef3b268639593",
+  "displayName": "Bulk Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bulk Token",
+    "symbol": "BULK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

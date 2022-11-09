@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58d5736ede923a04053c9177f691abfef462896d",
+  "displayName": "BlackPool",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlackPool",
+    "symbol": "BPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7992e3757925cfc30359633125671318588a6e73",
+  "displayName": "Tsuka Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tsuka Fund",
+    "symbol": "TSUKAFUND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

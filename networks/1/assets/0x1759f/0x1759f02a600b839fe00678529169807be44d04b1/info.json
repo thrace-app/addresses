@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1759f02a600b839fe00678529169807be44d04b1",
+  "displayName": "Paul Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Paul Finance",
+    "symbol": "PAUL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

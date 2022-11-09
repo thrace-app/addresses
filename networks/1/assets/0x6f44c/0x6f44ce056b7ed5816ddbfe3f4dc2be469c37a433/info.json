@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f44ce056b7ed5816ddbfe3f4dc2be469c37a433",
+  "displayName": "MSCI",
+  "type": "TOKEN",
+  "token": {
+    "name": "MSCI",
+    "symbol": "MSCI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe6df87c5ca7853c1be02ea8952842e6263546b08",
+  "displayName": "Fantasy Ether Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fantasy Ether Token",
+    "symbol": "FET",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

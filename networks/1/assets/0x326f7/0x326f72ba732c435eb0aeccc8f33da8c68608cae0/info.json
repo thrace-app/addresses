@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x326f72ba732c435eb0aeccc8f33da8c68608cae0",
+  "displayName": "Nokia Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nokia Token",
+    "symbol": "$NOKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7db7ad3aea89c86d95595e2ae7463368225341cc",
+  "displayName": "Red Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Red Protocol",
+    "symbol": "RP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

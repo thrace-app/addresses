@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a91eecd3f6b6b7833fd6961e7f654c3d016a068",
+  "displayName": "Wowoo Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wowoo Exchange Token",
+    "symbol": "WWX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

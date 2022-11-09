@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2aef79a6ad64f218ccb09a1970b163388919fa34",
+  "displayName": "Snake Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Snake Doge",
+    "symbol": "SNOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

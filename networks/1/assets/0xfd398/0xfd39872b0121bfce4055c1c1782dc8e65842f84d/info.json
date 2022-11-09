@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd39872b0121bfce4055c1c1782dc8e65842f84d",
+  "displayName": "Schrodinger Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Schrodinger Doge",
+    "symbol": "SCHDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

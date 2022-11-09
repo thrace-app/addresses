@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x222728c202e7164dfbd127181d46409338c4328e",
+  "displayName": "MIND Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MIND Token",
+    "symbol": "MIND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

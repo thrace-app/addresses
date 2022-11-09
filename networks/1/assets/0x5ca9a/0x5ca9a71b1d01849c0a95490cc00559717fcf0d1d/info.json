@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+  "displayName": "Aeternity",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aeternity",
+    "symbol": "AE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

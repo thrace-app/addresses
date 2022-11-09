@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x28d603a738337b8d86ef529773930ec4b9cdc664",
+  "displayName": "Neyo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neyo Token",
+    "symbol": "NEYO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

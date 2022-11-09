@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64692e0dfa8e957fb4adebb8018933403ceba8cf",
+  "displayName": "Funky Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Funky Ape",
+    "symbol": "FAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

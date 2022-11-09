@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6df3007b20399082cd63889f989b16d103fa4ca8",
+  "displayName": "KBC",
+  "type": "TOKEN",
+  "token": {
+    "name": "KBC",
+    "symbol": "KBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

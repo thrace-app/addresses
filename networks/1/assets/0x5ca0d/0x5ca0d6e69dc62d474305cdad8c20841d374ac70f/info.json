@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ca0d6e69dc62d474305cdad8c20841d374ac70f",
+  "displayName": "TravelDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "TravelDoge",
+    "symbol": "TDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

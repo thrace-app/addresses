@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57b3e01ce66bb1ebb9b160ed25b0bfef3ae4b57b",
+  "displayName": "P2ZO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "P2ZO Token",
+    "symbol": "P2ZO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

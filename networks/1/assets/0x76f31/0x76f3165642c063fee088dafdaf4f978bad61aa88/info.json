@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76f3165642c063fee088dafdaf4f978bad61aa88",
+  "displayName": "Micro Ryoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Micro Ryoshi",
+    "symbol": "Ryoshi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

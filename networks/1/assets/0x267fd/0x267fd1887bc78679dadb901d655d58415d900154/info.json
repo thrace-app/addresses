@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x267fd1887bc78679dadb901d655d58415d900154",
+  "displayName": "SMTCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SMTCoin",
+    "symbol": "SMTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

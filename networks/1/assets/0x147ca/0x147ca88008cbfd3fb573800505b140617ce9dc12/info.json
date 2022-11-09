@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x147ca88008cbfd3fb573800505b140617ce9dc12",
+  "displayName": "Vape Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vape Coin",
+    "symbol": "VAPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

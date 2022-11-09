@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd57e6c52b78cd2a7a89aecd001ab01d96224ea9e",
+  "displayName": "PODcast Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PODcast Token",
+    "symbol": "POD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

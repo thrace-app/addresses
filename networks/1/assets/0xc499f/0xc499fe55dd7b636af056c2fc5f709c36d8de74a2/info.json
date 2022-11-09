@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc499fe55dd7b636af056c2fc5f709c36d8de74a2",
+  "displayName": "GiftToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GiftToken",
+    "symbol": "GIFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1d204d77861def49b6e769347a883b15ec397ff",
+  "displayName": "PayperEx",
+  "type": "TOKEN",
+  "token": {
+    "name": "PayperEx",
+    "symbol": "PAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

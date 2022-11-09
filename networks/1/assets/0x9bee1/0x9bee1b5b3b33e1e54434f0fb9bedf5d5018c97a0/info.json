@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9bee1b5b3b33e1e54434f0fb9bedf5d5018c97a0",
+  "displayName": "Lukso",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lukso",
+    "symbol": "LYX",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

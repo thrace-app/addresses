@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf961c0efc832090d12f3ed54bd2d4dfa13bb7f91",
+  "displayName": "DeFi Funding Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi Funding Token",
+    "symbol": "DFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd80f48a4303de7e3d58db486384747ab5bd8ecee",
+  "displayName": "Yellow Submarine Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yellow Submarine Token",
+    "symbol": "$YELLOW",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x407ac47f8fdc83d77809c778c76d7d4bd58ad7cb",
+  "displayName": "Hoard Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hoard Dollar",
+    "symbol": "USDH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

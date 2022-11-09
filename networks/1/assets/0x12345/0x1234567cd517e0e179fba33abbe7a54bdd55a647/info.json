@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1234567cd517e0e179fba33abbe7a54bdd55a647",
+  "displayName": "The7Chakras",
+  "type": "TOKEN",
+  "token": {
+    "name": "The7Chakras",
+    "symbol": "CHAKRAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

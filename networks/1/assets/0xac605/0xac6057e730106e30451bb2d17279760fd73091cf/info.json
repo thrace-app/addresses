@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac6057e730106e30451bb2d17279760fd73091cf",
+  "displayName": "Moon Cake Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moon Cake Token",
+    "symbol": "MOONCAKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

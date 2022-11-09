@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84",
+  "displayName": "Interest Compounding ETH Index",
+  "type": "TOKEN",
+  "token": {
+    "name": "Interest Compounding ETH Index",
+    "symbol": "icETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

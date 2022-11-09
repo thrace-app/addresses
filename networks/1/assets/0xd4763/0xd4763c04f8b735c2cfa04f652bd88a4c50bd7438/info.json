@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4763c04f8b735c2cfa04f652bd88a4c50bd7438",
+  "displayName": "Chromy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chromy Token",
+    "symbol": "Chromy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

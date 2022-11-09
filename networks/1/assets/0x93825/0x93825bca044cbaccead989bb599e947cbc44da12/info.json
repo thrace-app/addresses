@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93825bca044cbaccead989bb599e947cbc44da12",
+  "displayName": "Super Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Inu",
+    "symbol": "SINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

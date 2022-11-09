@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47331c546c77997669ea7c9fefb0c649be8644fd",
+  "displayName": "EarnToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "EarnToken",
+    "symbol": "EARN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

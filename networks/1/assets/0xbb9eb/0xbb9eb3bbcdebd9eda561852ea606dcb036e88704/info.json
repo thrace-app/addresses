@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb9eb3bbcdebd9eda561852ea606dcb036e88704",
+  "displayName": "RapDex",
+  "type": "TOKEN",
+  "token": {
+    "name": "RapDex",
+    "symbol": "RapDex",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

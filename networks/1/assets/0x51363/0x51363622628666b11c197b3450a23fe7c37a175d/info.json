@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51363622628666b11c197b3450a23fe7c37a175d",
+  "displayName": "P2PCASH",
+  "type": "TOKEN",
+  "token": {
+    "name": "P2PCASH",
+    "symbol": "P2PCASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

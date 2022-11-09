@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0960a8b4d7369f81cd0bc5df4bcd34eabd9d3a0b",
+  "displayName": "MoarDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoarDAO",
+    "symbol": "MOAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

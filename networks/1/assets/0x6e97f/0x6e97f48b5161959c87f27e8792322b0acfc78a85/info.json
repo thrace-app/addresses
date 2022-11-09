@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e97f48b5161959c87f27e8792322b0acfc78a85",
+  "displayName": "Liquidity Income",
+  "type": "TOKEN",
+  "token": {
+    "name": "Liquidity Income",
+    "symbol": "LBI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

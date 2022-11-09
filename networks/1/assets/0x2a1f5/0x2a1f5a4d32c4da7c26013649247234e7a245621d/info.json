@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a1f5a4d32c4da7c26013649247234e7a245621d",
+  "displayName": "Pot Of Gold X Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pot Of Gold X Token",
+    "symbol": "POGX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

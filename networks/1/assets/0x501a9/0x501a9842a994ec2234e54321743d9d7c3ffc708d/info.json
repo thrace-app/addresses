@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x501a9842a994ec2234e54321743d9d7c3ffc708d",
+  "displayName": "TetherMoney",
+  "type": "TOKEN",
+  "token": {
+    "name": "TetherMoney",
+    "symbol": "USDM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

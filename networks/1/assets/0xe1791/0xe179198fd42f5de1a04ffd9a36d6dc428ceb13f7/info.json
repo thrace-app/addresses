@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe179198fd42f5de1a04ffd9a36d6dc428ceb13f7",
+  "displayName": "normalized Wrapped Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "normalized Wrapped Ether",
+    "symbol": "nWETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

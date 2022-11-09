@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ad755e98d188e13a1d83e40d6f8da049bd9018c",
+  "displayName": "PaisaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PaisaCoin",
+    "symbol": "PAISA",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

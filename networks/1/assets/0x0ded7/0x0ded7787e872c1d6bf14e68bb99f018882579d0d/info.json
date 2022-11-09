@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ded7787e872c1d6bf14e68bb99f018882579d0d",
+  "displayName": "Candyland",
+  "type": "TOKEN",
+  "token": {
+    "name": "Candyland",
+    "symbol": "Candy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

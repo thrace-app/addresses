@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc859003e6215995537651d712093c67b6a3587c",
+  "displayName": "Bitcoin Turbo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Turbo",
+    "symbol": "BTCT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ef41e5197619f3912b3c14c834e3a102f77224e",
+  "displayName": "Pet Society Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pet Society Token",
+    "symbol": "PSOC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

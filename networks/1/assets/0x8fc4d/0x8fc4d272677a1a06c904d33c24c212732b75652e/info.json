@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8fc4d272677a1a06c904d33c24c212732b75652e",
+  "displayName": "AlphaSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlphaSwap",
+    "symbol": "ASWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

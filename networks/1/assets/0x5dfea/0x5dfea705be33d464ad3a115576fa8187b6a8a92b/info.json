@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5dfea705be33d464ad3a115576fa8187b6a8a92b",
+  "displayName": "Yeti Feti",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yeti Feti",
+    "symbol": "YETI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ddc4d0627b479240cb70243ce9ba246ba0a91a5",
+  "displayName": "SecondBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "SecondBTC",
+    "symbol": "SBTC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a29ec072d58c92acf3557f943dbe91b86d47965",
+  "displayName": "CoinStore",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinStore",
+    "symbol": "CSFI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

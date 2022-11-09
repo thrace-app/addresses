@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d5a0b2220d39f222f3c873b5a3dfc2907c7126d",
+  "displayName": "RubiCube",
+  "type": "TOKEN",
+  "token": {
+    "name": "RubiCube",
+    "symbol": "RUBI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

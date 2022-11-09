@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6af4429a10e14098da1f8839c9bd88a83bf84a2f",
+  "displayName": "Kadir Has Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kadir Has Token",
+    "symbol": "KHAS",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

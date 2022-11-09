@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fee5588cb1de19c70b6ad5399152d8c643fae7b",
+  "displayName": "PhunToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PhunToken",
+    "symbol": "PHTK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

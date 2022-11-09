@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x103e2932c8f0056db13ac1d2603949fd85206946",
+  "displayName": "Ban Z Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ban Z Token",
+    "symbol": "BANZ",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

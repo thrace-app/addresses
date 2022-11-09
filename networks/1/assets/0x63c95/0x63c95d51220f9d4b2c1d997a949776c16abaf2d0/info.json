@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63c95d51220f9d4b2c1d997a949776c16abaf2d0",
+  "displayName": "Soulbound Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Soulbound Token",
+    "symbol": "SBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

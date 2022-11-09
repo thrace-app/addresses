@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11f623c38b442425ec82fbc590e2d38ce777f6fe",
+  "displayName": "DexChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "DexChain",
+    "symbol": "DXCN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

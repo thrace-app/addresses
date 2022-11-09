@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x60a60806a0523490ea070cd8ca7a8159e4f1f4c8",
+  "displayName": "The Rocket Launcher",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Rocket Launcher",
+    "symbol": "Basuka",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

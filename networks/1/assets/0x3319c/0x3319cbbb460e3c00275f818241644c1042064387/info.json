@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3319cbbb460e3c00275f818241644c1042064387",
+  "displayName": "MoneyKong",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoneyKong",
+    "symbol": "$MoneyKong",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

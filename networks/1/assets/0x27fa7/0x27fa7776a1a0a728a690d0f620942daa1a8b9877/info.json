@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27fa7776a1a0a728a690d0f620942daa1a8b9877",
+  "displayName": "DiamondDuck",
+  "type": "TOKEN",
+  "token": {
+    "name": "DiamondDuck",
+    "symbol": "DDuck",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32879b5c0fdbc2a81597f019717b412b9d755a09",
+  "displayName": "ParaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ParaToken",
+    "symbol": "Para",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

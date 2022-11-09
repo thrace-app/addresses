@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac2508a7dd36a8475641d1b4e116e5154b0f3ad8",
+  "displayName": "PostMaloneCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PostMaloneCoin",
+    "symbol": "POSTMALONE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

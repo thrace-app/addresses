@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66eec269389101deb6e1fa495d56cc6c9cc016eb",
+  "displayName": "Yield Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yield Protocol",
+    "symbol": "YDP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

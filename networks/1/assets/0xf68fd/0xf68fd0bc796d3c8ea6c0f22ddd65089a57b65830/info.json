@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf68fd0bc796d3c8ea6c0f22ddd65089a57b65830",
+  "displayName": "Trash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trash",
+    "symbol": "TrashCoin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

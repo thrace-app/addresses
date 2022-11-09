@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b53b2c4b2f495d843a4e92e5c5511034d32bd15",
+  "displayName": "VAYLA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VAYLA Token",
+    "symbol": "VYA",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

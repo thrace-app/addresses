@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a922cc67cc0fcd6f3f5b1edac6df46eee251a2d",
+  "displayName": "Green Chart Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Chart Token",
+    "symbol": "GCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba9d4199fab4f26efe3551d490e3821486f135ba",
+  "displayName": "SwissBorg Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SwissBorg Token",
+    "symbol": "CHSB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

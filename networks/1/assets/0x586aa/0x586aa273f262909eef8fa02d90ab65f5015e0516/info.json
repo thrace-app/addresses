@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x586aa273f262909eef8fa02d90ab65f5015e0516",
+  "displayName": "Fixed Income Asset Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fixed Income Asset Token",
+    "symbol": "FIAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

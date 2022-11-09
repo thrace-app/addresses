@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb2a4604a5e1576e378fb60e576f3dca0e40e85b",
+  "displayName": "Pudgy Penguin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pudgy Penguin",
+    "symbol": "🐧",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

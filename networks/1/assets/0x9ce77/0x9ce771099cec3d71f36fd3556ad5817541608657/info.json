@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ce771099cec3d71f36fd3556ad5817541608657",
+  "displayName": "Max Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Max Ape",
+    "symbol": "MAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

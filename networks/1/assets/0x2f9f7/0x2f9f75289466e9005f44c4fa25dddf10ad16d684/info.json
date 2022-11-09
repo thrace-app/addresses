@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f9f75289466e9005f44c4fa25dddf10ad16d684",
+  "displayName": "AlbCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlbCoin",
+    "symbol": "ALBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

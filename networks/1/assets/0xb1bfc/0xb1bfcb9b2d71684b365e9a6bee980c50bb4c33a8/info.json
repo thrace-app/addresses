@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1bfcb9b2d71684b365e9a6bee980c50bb4c33a8",
+  "displayName": "PLUCKY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PLUCKY Token",
+    "symbol": "PLUCKY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

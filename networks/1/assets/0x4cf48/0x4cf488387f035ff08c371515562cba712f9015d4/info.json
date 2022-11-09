@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cf488387f035ff08c371515562cba712f9015d4",
+  "displayName": "WePower Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WePower Token",
+    "symbol": "WPR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

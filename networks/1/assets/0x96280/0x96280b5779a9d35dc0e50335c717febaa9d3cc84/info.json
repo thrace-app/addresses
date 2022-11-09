@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96280b5779a9d35dc0e50335c717febaa9d3cc84",
+  "displayName": "EthereumGame",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumGame",
+    "symbol": "EGAME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

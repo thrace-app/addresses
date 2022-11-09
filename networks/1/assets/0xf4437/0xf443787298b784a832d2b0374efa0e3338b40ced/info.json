@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf443787298b784a832d2b0374efa0e3338b40ced",
+  "displayName": "MetaBucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaBucks",
+    "symbol": "METABUCKS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

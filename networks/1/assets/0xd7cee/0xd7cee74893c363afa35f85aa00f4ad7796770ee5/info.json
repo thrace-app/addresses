@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7cee74893c363afa35f85aa00f4ad7796770ee5",
+  "displayName": "InterbitToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "InterbitToken",
+    "symbol": "ITB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

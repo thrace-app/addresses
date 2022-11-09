@@ -5,9 +5,8 @@ import { type Account, AccountType } from '../types/account'
 import { TokenType, type ERC721Token } from '../types/token'
 import type { Generator } from './generator'
 import { Network } from '../types/network'
+import { NULL_ADDRESS } from '../utils/constants'
 
-const GROUP = 'cell'
-const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
 
 const NETWORKS: Record<number, string> = {
@@ -84,12 +83,12 @@ export class CellResolver implements Generator {
       const currentTokensLength = Object.keys(tokens).length
 
       console.log(
-        `Fetched ${GROUP} (${networkId}): ${response.collections.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
+        `Fetched cell.computer (${networkId}): ${response.collections.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
       )
     } while (response.collections.length > 0)
 
     return {
-      [GROUP]: accounts,
+      erc721: accounts,
     }
   }
 }

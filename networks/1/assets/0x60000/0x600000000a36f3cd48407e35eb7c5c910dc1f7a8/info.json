@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x600000000a36f3cd48407e35eb7c5c910dc1f7a8",
+  "displayName": "Goo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goo",
+    "symbol": "GOO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

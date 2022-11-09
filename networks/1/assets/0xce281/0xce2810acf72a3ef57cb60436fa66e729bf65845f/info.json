@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce2810acf72a3ef57cb60436fa66e729bf65845f",
+  "displayName": "Vether Pre Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vether Pre Token",
+    "symbol": "VTT",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

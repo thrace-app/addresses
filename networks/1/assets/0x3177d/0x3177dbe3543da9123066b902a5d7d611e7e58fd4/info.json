@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3177dbe3543da9123066b902a5d7d611e7e58fd4",
+  "displayName": "ShibTrillion",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShibTrillion",
+    "symbol": "ShibTrillion",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

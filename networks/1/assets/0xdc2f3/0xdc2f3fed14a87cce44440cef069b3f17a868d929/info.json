@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc2f3fed14a87cce44440cef069b3f17a868d929",
+  "displayName": "test.uni.base",
+  "type": "TOKEN",
+  "token": {
+    "name": "test.uni.base",
+    "symbol": "test.U.BASE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

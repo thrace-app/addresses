@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b89d32cfb9b28dfcc7facc22453c812f9097655",
+  "displayName": "Harem Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Harem Token",
+    "symbol": "HAREM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

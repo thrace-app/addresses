@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae34fd52515e5fac35c78827b314798e12029505",
+  "displayName": "ParisToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ParisToken",
+    "symbol": "Paris",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

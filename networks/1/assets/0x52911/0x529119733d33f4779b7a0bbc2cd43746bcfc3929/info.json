@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x529119733d33f4779b7a0bbc2cd43746bcfc3929",
+  "displayName": "DyneCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DyneCoin",
+    "symbol": "DYNE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

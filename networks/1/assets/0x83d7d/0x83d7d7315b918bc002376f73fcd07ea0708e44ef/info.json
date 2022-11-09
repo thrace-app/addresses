@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83d7d7315b918bc002376f73fcd07ea0708e44ef",
+  "displayName": "Swee Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swee Token",
+    "symbol": "SWEE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

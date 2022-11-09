@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c4957c92459dfd862eb53a248d42f23881e73a0",
+  "displayName": "TAXABLE-TEST-TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "TAXABLE-TEST-TOKEN",
+    "symbol": "TAX-TEST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

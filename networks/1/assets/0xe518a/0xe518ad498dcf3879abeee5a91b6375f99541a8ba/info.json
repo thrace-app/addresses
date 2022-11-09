@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe518ad498dcf3879abeee5a91b6375f99541a8ba",
+  "displayName": "TestHuge",
+  "type": "TOKEN",
+  "token": {
+    "name": "TestHuge",
+    "symbol": "THG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

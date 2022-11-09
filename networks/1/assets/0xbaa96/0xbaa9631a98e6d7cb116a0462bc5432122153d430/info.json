@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbaa9631a98e6d7cb116a0462bc5432122153d430",
+  "displayName": "SUBTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "SUBTOKEN",
+    "symbol": "SBX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

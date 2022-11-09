@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2836e79ff48705b28cf498a9efba02c84e048926",
+  "displayName": "Silver Mining Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Silver Mining Token",
+    "symbol": "SMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

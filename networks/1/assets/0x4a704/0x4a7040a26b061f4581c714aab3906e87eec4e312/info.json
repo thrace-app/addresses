@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a7040a26b061f4581c714aab3906e87eec4e312",
+  "displayName": "RawElon",
+  "type": "TOKEN",
+  "token": {
+    "name": "RawElon",
+    "symbol": "ELON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

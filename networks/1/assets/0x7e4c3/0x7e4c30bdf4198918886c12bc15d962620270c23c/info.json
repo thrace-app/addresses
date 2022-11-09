@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e4c30bdf4198918886c12bc15d962620270c23c",
+  "displayName": "LinkFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "LinkFi",
+    "symbol": "LFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x739b9c59446a1e4ad23f78d82534b034b4b23525",
+  "displayName": "Diamond Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Diamond Burn",
+    "symbol": "DBurn",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

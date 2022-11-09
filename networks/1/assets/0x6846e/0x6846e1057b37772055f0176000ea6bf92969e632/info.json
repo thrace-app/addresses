@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6846e1057b37772055f0176000ea6bf92969e632",
+  "displayName": "Mochi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mochi",
+    "symbol": "Mochi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

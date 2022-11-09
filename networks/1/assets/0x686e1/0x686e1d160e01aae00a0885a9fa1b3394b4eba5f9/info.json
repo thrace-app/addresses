@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x686e1d160e01aae00a0885a9fa1b3394b4eba5f9",
+  "displayName": "Lamdo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lamdo Token",
+    "symbol": "LAMDO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

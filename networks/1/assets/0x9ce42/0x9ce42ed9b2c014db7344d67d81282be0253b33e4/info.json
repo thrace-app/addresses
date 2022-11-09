@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ce42ed9b2c014db7344d67d81282be0253b33e4",
+  "displayName": "Stinky Wallet Badge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stinky Wallet Badge",
+    "symbol": "STINK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

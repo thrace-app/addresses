@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x101f43d09d493eec6ddd41c3d770909f42fdd999",
+  "displayName": "EdgePunks",
+  "type": "TOKEN",
+  "token": {
+    "name": "EdgePunks",
+    "symbol": "EPUNK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

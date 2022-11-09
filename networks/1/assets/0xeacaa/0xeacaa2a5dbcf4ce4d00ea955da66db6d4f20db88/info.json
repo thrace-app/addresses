@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeacaa2a5dbcf4ce4d00ea955da66db6d4f20db88",
+  "displayName": "RecycleToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RecycleToken",
+    "symbol": "REC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

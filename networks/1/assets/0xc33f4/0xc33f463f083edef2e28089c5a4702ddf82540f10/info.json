@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc33f463f083edef2e28089c5a4702ddf82540f10",
+  "displayName": "D666 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "D666 Token",
+    "symbol": "D666",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x012264322126ae208c93e3898fdaba834ad70efc",
+  "displayName": "Loyalty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Loyalty",
+    "symbol": "LOYALTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

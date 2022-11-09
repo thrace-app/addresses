@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45d918e17e30872d7c1ccbaab4a0813ed0360e46",
+  "displayName": "Digital Rand",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Rand",
+    "symbol": "dZAR",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

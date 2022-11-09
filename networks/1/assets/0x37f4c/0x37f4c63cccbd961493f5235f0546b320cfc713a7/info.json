@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37f4c63cccbd961493f5235f0546b320cfc713a7",
+  "displayName": "SinghToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SinghToken",
+    "symbol": "SINGH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

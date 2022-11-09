@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa54c095731bd49a72a2cc3d07976435374323999",
+  "displayName": "Digital Currency Reserve",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Currency Reserve",
+    "symbol": "DCR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

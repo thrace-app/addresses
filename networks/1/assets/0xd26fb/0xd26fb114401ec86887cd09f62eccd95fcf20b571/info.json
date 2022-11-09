@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd26fb114401ec86887cd09f62eccd95fcf20b571",
+  "displayName": "bitcoinplatinums",
+  "type": "TOKEN",
+  "token": {
+    "name": "bitcoinplatinums",
+    "symbol": "BCP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

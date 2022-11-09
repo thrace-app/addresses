@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25168b494408a63b1394b6ecd2a93934590cfd03",
+  "displayName": "RLC Points Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RLC Points Token",
+    "symbol": "RLCP",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

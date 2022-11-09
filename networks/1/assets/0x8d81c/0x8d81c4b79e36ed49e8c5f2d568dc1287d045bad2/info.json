@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d81c4b79e36ed49e8c5f2d568dc1287d045bad2",
+  "displayName": "Yearn Recovery",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn Recovery",
+    "symbol": "YFIR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

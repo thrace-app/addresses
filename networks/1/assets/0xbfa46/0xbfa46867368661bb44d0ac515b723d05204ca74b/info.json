@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbfa46867368661bb44d0ac515b723d05204ca74b",
+  "displayName": "YMint Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YMint Token",
+    "symbol": "YMINT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

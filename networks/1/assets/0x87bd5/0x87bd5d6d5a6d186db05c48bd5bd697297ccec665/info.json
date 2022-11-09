@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87bd5d6d5a6d186db05c48bd5bd697297ccec665",
+  "displayName": "Proof of Saitama",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Saitama",
+    "symbol": "POS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

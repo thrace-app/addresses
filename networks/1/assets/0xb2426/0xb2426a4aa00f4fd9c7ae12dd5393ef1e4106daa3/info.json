@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb2426a4aa00f4fd9c7ae12dd5393ef1e4106daa3",
+  "displayName": "Bootleg NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bootleg NFT",
+    "symbol": "BOOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

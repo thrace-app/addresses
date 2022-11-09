@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7aeda18960bdbc982aa7b545af52d459f4c033a5",
+  "displayName": "Rivex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rivex",
+    "symbol": "RVX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

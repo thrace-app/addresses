@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07bcd169320392aa695d9557988d3c68820ae3ea",
+  "displayName": "Lightning Bitcoin Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lightning Bitcoin Protocol",
+    "symbol": "LIGHTNING",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3780a77959c7ab8e5d64463db6c0498cef83cc5e",
+  "displayName": "JAY-peg",
+  "type": "TOKEN",
+  "token": {
+    "name": "JAY-peg",
+    "symbol": "PEG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

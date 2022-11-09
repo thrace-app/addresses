@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5dde7b078aabd9e23c465e6e3c7ce86603f14ac0",
+  "displayName": "Boinks Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boinks Token",
+    "symbol": "Boinks",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4185cf99745b2a20727b37ee798193dd4a56cdfa",
+  "displayName": "DEUS Synthetic Coinbase IOU",
+  "type": "TOKEN",
+  "token": {
+    "name": "DEUS Synthetic Coinbase IOU",
+    "symbol": "wCOINBASE-IOU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64a5486a3a0f4148fd87909242ffe8e4633e81ef",
+  "displayName": "BatDog",
+  "type": "TOKEN",
+  "token": {
+    "name": "BatDog",
+    "symbol": "BATDOG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

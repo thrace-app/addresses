@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdcd6456aba437cd7a038b5b2ec767c0eec834d67",
+  "displayName": "PHICASH",
+  "type": "TOKEN",
+  "token": {
+    "name": "PHICASH",
+    "symbol": "Φ$",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89dff7476bc8048cb984a916641e31e3e365a90c",
+  "displayName": "SFEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "SFEX",
+    "symbol": "SSB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

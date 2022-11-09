@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x052b1b13c2de074b77023f96ca78bedf63c9fc07",
+  "displayName": "Kittens Garden",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kittens Garden",
+    "symbol": "KITT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

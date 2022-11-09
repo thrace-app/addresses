@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xefaebbcb97ca6987ffe3b9fe67da41fd7085ac34",
+  "displayName": "CPDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "CPDoge",
+    "symbol": "CPDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

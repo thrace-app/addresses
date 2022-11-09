@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x256ed1d83e3e4efdda977389a5389c3433137dda",
+  "displayName": "Bancor ETH Pool Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bancor ETH Pool Token",
+    "symbol": "bnETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

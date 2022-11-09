@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1b28a5a82feb952418bdf2008c8698bb09383d6",
+  "displayName": "BobaTea",
+  "type": "TOKEN",
+  "token": {
+    "name": "BobaTea",
+    "symbol": "TEA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

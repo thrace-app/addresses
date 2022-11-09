@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x29da0485280e465dc318dbcdde2c167813d04dc4",
+  "displayName": "Wrapped Cardano",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Cardano",
+    "symbol": "ⓌADA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

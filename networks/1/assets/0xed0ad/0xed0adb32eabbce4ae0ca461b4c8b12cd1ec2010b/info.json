@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed0adb32eabbce4ae0ca461b4c8b12cd1ec2010b",
+  "displayName": "Vanity",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vanity",
+    "symbol": "Vy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

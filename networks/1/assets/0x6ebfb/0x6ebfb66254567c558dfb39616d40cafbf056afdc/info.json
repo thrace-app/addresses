@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ebfb66254567c558dfb39616d40cafbf056afdc",
+  "displayName": "Say My Name",
+  "type": "TOKEN",
+  "token": {
+    "name": "Say My Name",
+    "symbol": "HEISENBERG",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

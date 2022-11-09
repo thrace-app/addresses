@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23164fc6f01702d0e6d632b99b8d1fffb8c93406",
+  "displayName": "Floppa Gold Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Floppa Gold Token",
+    "symbol": "Floppa",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1fd9227fe93fe7b2308e83b934206d0d5327a50",
+  "displayName": "Hamburglar Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hamburglar Coin",
+    "symbol": "HBC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e18e3a60c8470872c20aa9bdcf6ae73f8ee7ee9",
+  "displayName": "Mstable Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mstable Ethereum",
+    "symbol": "mETH",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0efc65bee84d4d18d04700642d22444a1f6419d",
+  "displayName": "French Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "French Inu",
+    "symbol": "FRIES",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

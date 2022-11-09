@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67bde71e98d69ba89a8f2e8df3d1aeea5a436137",
+  "displayName": "ZilchValueToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZilchValueToken",
+    "symbol": "ZVT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

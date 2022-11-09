@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9947a675cb4d4a19e020e1dd035955c0150b1e5e",
+  "displayName": "COVIDCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "COVIDCoin",
+    "symbol": "COVC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x130694599ca385eab7419bede50db062eed0c56d",
+  "displayName": "Bear Ninja",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bear Ninja",
+    "symbol": "BINJA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

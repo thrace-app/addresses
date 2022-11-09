@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27b5b94a7269e175864d2c5e584d8f1414a2d94f",
+  "displayName": "BBWCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BBWCoin",
+    "symbol": "BBW",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

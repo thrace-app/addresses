@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85c62dfcbdc48d4516b57960e74d95107a610958",
+  "displayName": "nyan-doge.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "nyan-doge.com",
+    "symbol": "Nyan Dodge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

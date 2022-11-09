@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90be3ba4123cb6a8fd57f1b5769d89383837ff36",
+  "displayName": "HedgeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "HedgeFi",
+    "symbol": "HeFi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

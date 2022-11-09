@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a133dfa1f65ff6f834205ed43d66344306fa02c",
+  "displayName": "JustEscrowCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "JustEscrowCoin",
+    "symbol": "SCRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

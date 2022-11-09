@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa15d87975f7c20d73a16515df36f6a6dd9bbc651",
+  "displayName": "BcbToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BcbToken",
+    "symbol": "BCB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

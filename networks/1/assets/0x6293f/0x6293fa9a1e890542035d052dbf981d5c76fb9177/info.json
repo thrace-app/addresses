@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6293fa9a1e890542035d052dbf981d5c76fb9177",
+  "displayName": "R2-D2 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "R2-D2 Token",
+    "symbol": "R2D2",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

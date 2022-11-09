@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96e55131f9abac500300e81cd2efcd1bdb265f2d",
+  "displayName": "Thetanuts Concentrated Position - WETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Thetanuts Concentrated Position - WETH",
+    "symbol": "concWETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

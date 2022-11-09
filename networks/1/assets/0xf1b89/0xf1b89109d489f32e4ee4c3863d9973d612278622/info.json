@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1b89109d489f32e4ee4c3863d9973d612278622",
+  "displayName": "Kitten Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kitten Token",
+    "symbol": "KTTN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

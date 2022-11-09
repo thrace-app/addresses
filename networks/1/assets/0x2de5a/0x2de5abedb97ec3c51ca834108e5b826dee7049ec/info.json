@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2de5abedb97ec3c51ca834108e5b826dee7049ec",
+  "displayName": "Hidden Gem",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hidden Gem",
+    "symbol": "$GEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

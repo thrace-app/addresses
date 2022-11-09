@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x637dc7eaaceb9806c18def359cd86c727bb0407a",
+  "displayName": "Dog Capital",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dog Capital",
+    "symbol": "DC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

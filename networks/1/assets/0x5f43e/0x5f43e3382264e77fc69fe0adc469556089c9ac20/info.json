@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f43e3382264e77fc69fe0adc469556089c9ac20",
+  "displayName": "JQMtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "JQMtoken",
+    "symbol": "JQM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

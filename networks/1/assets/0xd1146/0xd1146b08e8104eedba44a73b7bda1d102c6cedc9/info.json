@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1146b08e8104eedba44a73b7bda1d102c6cedc9",
+  "displayName": "USDB / BNT Relay Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDB / BNT Relay Token",
+    "symbol": "USDB / BNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

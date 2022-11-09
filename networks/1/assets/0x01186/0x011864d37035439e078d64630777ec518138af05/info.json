@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x011864d37035439e078d64630777ec518138af05",
+  "displayName": "Zerogoki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zerogoki Token",
+    "symbol": "REI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

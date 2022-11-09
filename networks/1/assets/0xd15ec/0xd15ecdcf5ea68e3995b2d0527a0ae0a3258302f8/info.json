@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd15ecdcf5ea68e3995b2d0527a0ae0a3258302f8",
+  "displayName": "MachiX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MachiX Token",
+    "symbol": "MCX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

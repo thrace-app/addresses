@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe752bbc786a14e2f74ac5a420a0f4f808180e98e",
+  "displayName": "upTether",
+  "type": "TOKEN",
+  "token": {
+    "name": "upTether",
+    "symbol": "upUSDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

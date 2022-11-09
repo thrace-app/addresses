@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a7f2092baa871f2b9c794d168bac217843301df",
+  "displayName": "SpaceFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpaceFi",
+    "symbol": "$SPF",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

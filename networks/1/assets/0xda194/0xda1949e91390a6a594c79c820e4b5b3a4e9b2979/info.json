@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda1949e91390a6a594c79c820e4b5b3a4e9b2979",
+  "displayName": "Iron Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Iron Bank",
+    "symbol": "iRON",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

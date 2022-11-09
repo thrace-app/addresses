@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe265161e3583ec25f3f0ae6f3c7397921f5f217",
+  "displayName": "PayBolt",
+  "type": "TOKEN",
+  "token": {
+    "name": "PayBolt",
+    "symbol": "PAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

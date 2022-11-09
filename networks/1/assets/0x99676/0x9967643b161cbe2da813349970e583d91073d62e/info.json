@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9967643b161cbe2da813349970e583d91073d62e",
+  "displayName": "Ethereum PoW [IOU]",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum PoW [IOU]",
+    "symbol": "ETHW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

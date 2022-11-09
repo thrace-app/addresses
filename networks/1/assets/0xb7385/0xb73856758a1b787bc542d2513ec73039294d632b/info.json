@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb73856758a1b787bc542d2513ec73039294d632b",
+  "displayName": "Proof of Tether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Tether",
+    "symbol": "POTHER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x761be23412a43e262f1d28fb4a34f4436c805e19",
+  "displayName": "Mona Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mona Shiba",
+    "symbol": "MonaShiba",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

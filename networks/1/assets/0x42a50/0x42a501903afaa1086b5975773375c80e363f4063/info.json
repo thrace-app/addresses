@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42a501903afaa1086b5975773375c80e363f4063",
+  "displayName": "Cryptyk Tokens",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryptyk Tokens",
+    "symbol": "CTK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

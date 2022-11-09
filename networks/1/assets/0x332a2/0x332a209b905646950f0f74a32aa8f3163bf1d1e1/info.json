@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x332a209b905646950f0f74a32aa8f3163bf1d1e1",
+  "displayName": "Pupper",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pupper",
+    "symbol": "PPR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

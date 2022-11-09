@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xababd019cde4fda9f426094231040c87c756b08d",
+  "displayName": "Mouse Protcol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mouse Protcol",
+    "symbol": "MOUSE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3270aefc1ed275faa3295843b2f2618a54447a5b",
+  "displayName": "NFT Alley",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT Alley",
+    "symbol": "ALLEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

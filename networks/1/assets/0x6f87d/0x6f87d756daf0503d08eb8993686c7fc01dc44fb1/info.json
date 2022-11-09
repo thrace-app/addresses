@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f87d756daf0503d08eb8993686c7fc01dc44fb1",
+  "displayName": "UniTrade",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniTrade",
+    "symbol": "TRADE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

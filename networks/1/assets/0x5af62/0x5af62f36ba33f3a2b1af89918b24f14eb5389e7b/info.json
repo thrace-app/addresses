@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5af62f36ba33f3a2b1af89918b24f14eb5389e7b",
+  "displayName": "Nodachi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nodachi Token",
+    "symbol": "Nodachi",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

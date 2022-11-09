@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafba2868d932a1885c53b7b1a9fbe3ce390493f7",
+  "displayName": "Taxes",
+  "type": "TOKEN",
+  "token": {
+    "name": "Taxes",
+    "symbol": "IRS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

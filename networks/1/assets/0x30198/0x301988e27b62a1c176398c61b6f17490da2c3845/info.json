@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x301988e27b62a1c176398c61b6f17490da2c3845",
+  "displayName": "Riot Games Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Riot Games Token",
+    "symbol": "RIOTG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

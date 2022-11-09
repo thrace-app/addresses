@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f27805a80ab9383188f541e537a2f7073f3e023",
+  "displayName": "GME Stock Split",
+  "type": "TOKEN",
+  "token": {
+    "name": "GME Stock Split",
+    "symbol": "GMESS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb92179b36794e169a2e5582ece92936480754da9",
+  "displayName": "STRAW Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "STRAW Coin",
+    "symbol": "STRAW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

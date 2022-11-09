@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9afc1dfdaf947adb77425bf21b5ce57f259b0c6a",
+  "displayName": "Simple Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Simple Protocol",
+    "symbol": "$SIMPLE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

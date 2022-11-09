@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a",
+  "displayName": "Wrapped Celo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Celo",
+    "symbol": "wCELO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

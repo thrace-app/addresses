@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf04af3f4e4929f7cd25a751e6149a3318373d4fe",
+  "displayName": "Spring Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spring Token",
+    "symbol": "SPRING",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

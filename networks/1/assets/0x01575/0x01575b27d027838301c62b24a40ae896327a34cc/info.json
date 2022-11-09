@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01575b27d027838301c62b24a40ae896327a34cc",
+  "displayName": "Unobtanium Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unobtanium Token",
+    "symbol": "UNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

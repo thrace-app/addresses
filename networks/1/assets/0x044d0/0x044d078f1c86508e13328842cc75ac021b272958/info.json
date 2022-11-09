@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x044d078f1c86508e13328842cc75ac021b272958",
+  "displayName": "WrappedPeercoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WrappedPeercoin",
+    "symbol": "wPPC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

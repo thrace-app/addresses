@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa8aff1e36523eb9213909a45b7044938c84d8ea2",
+  "displayName": "Makita Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Makita Token",
+    "symbol": "MAKITA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

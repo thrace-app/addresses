@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7403c15b2a28d7a75e6369b40b96883af9819ec5",
+  "displayName": "Curve Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve Coin",
+    "symbol": "CUC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

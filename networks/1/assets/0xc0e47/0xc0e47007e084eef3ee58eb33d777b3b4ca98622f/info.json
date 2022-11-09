@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0e47007e084eef3ee58eb33d777b3b4ca98622f",
+  "displayName": "StarCurve",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarCurve",
+    "symbol": "XSTAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

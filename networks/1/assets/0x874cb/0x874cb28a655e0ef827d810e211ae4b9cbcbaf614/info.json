@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x874cb28a655e0ef827d810e211ae4b9cbcbaf614",
+  "displayName": "GainDAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GainDAO Token",
+    "symbol": "GAIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

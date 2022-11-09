@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f546fcfbffd5507dce9fecce8f647a1727c225a",
+  "displayName": "Mend Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mend Token",
+    "symbol": "MEND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35beee5c44bc8f8c77b5650932bd8ed708b5f0d2",
+  "displayName": "The Rainbow Rabbit",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Rainbow Rabbit",
+    "symbol": "RRBT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

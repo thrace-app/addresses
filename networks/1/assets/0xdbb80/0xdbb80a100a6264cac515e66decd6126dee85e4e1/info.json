@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbb80a100a6264cac515e66decd6126dee85e4e1",
+  "displayName": "Super Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Shiba",
+    "symbol": "Super Shiba",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

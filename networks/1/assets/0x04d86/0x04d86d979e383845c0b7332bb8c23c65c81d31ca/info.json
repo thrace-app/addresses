@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04d86d979e383845c0b7332bb8c23c65c81d31ca",
+  "displayName": "SafeHamsters",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeHamsters",
+    "symbol": "SAFEHAMSTERS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

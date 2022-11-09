@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9991d424cb0d54afa908f73b7800940bf53538c8",
+  "displayName": "ETP",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETP",
+    "symbol": "ETP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

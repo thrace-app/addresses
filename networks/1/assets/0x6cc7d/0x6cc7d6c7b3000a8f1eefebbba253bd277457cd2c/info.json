@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6cc7d6c7b3000a8f1eefebbba253bd277457cd2c",
+  "displayName": "BlockFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlockFi Token",
+    "symbol": "BFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

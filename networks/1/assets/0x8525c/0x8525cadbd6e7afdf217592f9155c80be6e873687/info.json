@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8525cadbd6e7afdf217592f9155c80be6e873687",
+  "displayName": "Hooters",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hooters",
+    "symbol": "HOOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

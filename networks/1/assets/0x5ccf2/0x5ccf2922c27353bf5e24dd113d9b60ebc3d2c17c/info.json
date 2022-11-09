@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ccf2922c27353bf5e24dd113d9b60ebc3d2c17c",
+  "displayName": "CryptoKrippleToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoKrippleToken",
+    "symbol": "CKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

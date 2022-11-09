@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75f87737230efbe4accba902fab48baf18a29357",
+  "displayName": "Kaiju Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kaiju Doge",
+    "symbol": "KAIDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

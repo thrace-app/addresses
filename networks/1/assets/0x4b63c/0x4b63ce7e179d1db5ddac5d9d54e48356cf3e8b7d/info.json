@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b63ce7e179d1db5ddac5d9d54e48356cf3e8b7d",
+  "displayName": "AIB on ERC20 V1",
+  "type": "TOKEN",
+  "token": {
+    "name": "AIB on ERC20 V1",
+    "symbol": "AIB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xace0aaac3135d6f0d641d430d8dc17de2e70b39c",
+  "displayName": "Copor Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Copor Token",
+    "symbol": "Copor",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8bec6de760894ddd356e648add503cf544c90fb",
+  "displayName": "MINIBANK",
+  "type": "TOKEN",
+  "token": {
+    "name": "MINIBANK",
+    "symbol": "MINIBANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

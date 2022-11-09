@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb90ce415a916174e022d0961425ef9a48b816ca3",
+  "displayName": "Passive FREE ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Passive FREE ETH",
+    "symbol": "pETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

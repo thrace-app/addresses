@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a79dd60bedd1ef00bd7d6e3ec0d98b979e5fcdc",
+  "displayName": "Rain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rain",
+    "symbol": "RAIN",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

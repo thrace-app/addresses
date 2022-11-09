@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46c36d61e7fdd169a88011a1f2336c72e00e17e1",
+  "displayName": "Xy chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Xy chain",
+    "symbol": "xyc",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x756faabaa1a8d4760fc83b1e33fe89c2b0206844",
+  "displayName": "Taobao Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Taobao Token",
+    "symbol": "TAOB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

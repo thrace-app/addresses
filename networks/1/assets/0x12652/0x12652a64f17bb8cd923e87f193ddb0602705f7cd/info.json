@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12652a64f17bb8cd923e87f193ddb0602705f7cd",
+  "displayName": "Trillion Shiba Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trillion Shiba Inu",
+    "symbol": "TTShiba",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

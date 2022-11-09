@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x704f160cd2d67ccfb19a7fc7d70b41003c0f2a3d",
+  "displayName": "HADA Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "HADA Coin",
+    "symbol": "HADA",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

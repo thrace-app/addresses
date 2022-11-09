@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccb219852ec7fe22efd99e5843a6103a5be9a947",
+  "displayName": "CattyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CattyCoin",
+    "symbol": "CATTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

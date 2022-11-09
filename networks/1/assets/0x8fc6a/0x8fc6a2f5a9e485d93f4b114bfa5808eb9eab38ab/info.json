@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8fc6a2f5a9e485d93f4b114bfa5808eb9eab38ab",
+  "displayName": "ShibaLend",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShibaLend",
+    "symbol": "SHL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

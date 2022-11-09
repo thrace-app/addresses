@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11be5e4fb1d9384b0646eb5628f16c8802b32733",
+  "displayName": "Scarecrow",
+  "type": "TOKEN",
+  "token": {
+    "name": "Scarecrow",
+    "symbol": "CROW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

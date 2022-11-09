@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf249a592f09aa6df18ee921f247c1933f089f6a2",
+  "displayName": "Squawk Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Squawk Burn",
+    "symbol": "$SquawkBurn",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

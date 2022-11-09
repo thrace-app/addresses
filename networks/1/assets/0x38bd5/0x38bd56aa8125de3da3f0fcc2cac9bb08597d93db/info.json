@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38bd56aa8125de3da3f0fcc2cac9bb08597d93db",
+  "displayName": "THORSwap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "THORSwap Token",
+    "symbol": "THOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

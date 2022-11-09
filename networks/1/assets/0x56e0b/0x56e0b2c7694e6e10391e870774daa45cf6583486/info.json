@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56e0b2c7694e6e10391e870774daa45cf6583486",
+  "displayName": "DUO Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DUO Network Token",
+    "symbol": "DUO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

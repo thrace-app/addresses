@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90528aeb3a2b736b780fd1b6c478bb7e1d643170",
+  "displayName": "XPlay Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XPlay Token",
+    "symbol": "XPA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

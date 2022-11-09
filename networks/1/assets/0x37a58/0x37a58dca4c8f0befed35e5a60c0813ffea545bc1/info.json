@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37a58dca4c8f0befed35e5a60c0813ffea545bc1",
+  "displayName": "Unstoppable Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unstoppable Token",
+    "symbol": "UT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

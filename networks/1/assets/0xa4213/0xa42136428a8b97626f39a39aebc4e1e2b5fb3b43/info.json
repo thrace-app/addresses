@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa42136428a8b97626f39a39aebc4e1e2b5fb3b43",
+  "displayName": "MyHomeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyHomeCoin",
+    "symbol": "MYH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

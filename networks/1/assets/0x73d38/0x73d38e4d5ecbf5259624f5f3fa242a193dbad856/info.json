@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73d38e4d5ecbf5259624f5f3fa242a193dbad856",
+  "displayName": "Hoc Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hoc Token",
+    "symbol": "HOC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

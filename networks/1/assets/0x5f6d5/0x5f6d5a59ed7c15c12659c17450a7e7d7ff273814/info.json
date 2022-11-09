@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f6d5a59ed7c15c12659c17450a7e7d7ff273814",
+  "displayName": "Protocol of Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Protocol of Doge",
+    "symbol": "PROD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

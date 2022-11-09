@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5004f59991bfd9ee23a23159bd0883b23d39284c",
+  "displayName": "Blocto Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blocto Token",
+    "symbol": "BLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

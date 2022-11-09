@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec88e8dfbd0cfa60c6230e325fba94feca8df6da",
+  "displayName": "LeeSin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LeeSin Token",
+    "symbol": "LeeSin",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

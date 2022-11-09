@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12d42cc6d94939344409c0cc73ae14b5e6e5c372",
+  "displayName": "Burnie Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burnie Token",
+    "symbol": "Burnie",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

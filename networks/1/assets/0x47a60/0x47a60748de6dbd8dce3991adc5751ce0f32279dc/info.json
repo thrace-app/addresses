@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47a60748de6dbd8dce3991adc5751ce0f32279dc",
+  "displayName": "ClbrToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ClbrToken",
+    "symbol": "CLBR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd34e6b814e48cdfbd6dbc74073db5ba8ba9f3e7f",
+  "displayName": "Pump My Bags",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pump My Bags",
+    "symbol": "PMB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

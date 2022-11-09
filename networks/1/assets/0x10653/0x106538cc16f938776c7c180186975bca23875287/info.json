@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x106538cc16f938776c7c180186975bca23875287",
+  "displayName": "BASv2",
+  "type": "TOKEN",
+  "token": {
+    "name": "BASv2",
+    "symbol": "BASv2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

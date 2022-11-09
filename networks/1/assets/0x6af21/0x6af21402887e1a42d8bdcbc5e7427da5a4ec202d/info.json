@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6af21402887e1a42d8bdcbc5e7427da5a4ec202d",
+  "displayName": "Dead Pool Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dead Pool Cat",
+    "symbol": "CDP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

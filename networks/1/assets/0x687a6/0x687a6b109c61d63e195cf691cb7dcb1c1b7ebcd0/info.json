@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x687a6b109c61d63e195cf691cb7dcb1c1b7ebcd0",
+  "displayName": "El Salvador Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "El Salvador Coin",
+    "symbol": "ESDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2df94b8c3eaa7e6730c228819017ed5b31eab45e",
+  "displayName": "CowonCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CowonCoin",
+    "symbol": "COWON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

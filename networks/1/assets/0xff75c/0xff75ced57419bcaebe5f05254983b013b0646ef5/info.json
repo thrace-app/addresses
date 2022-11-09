@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff75ced57419bcaebe5f05254983b013b0646ef5",
+  "displayName": "Cook Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cook Token",
+    "symbol": "COOK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf904d13f3a0f755c436a8aaff1de5f66b1a5ccec",
+  "displayName": "Bacon and Eggs",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bacon and Eggs",
+    "symbol": "BE 🥓🥚",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

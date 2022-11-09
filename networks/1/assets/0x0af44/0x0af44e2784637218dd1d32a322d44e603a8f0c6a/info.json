@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0af44e2784637218dd1d32a322d44e603a8f0c6a",
+  "displayName": "MatryxToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MatryxToken",
+    "symbol": "MTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

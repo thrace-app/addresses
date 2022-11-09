@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25aa817c9ada2a7af51a5e36bf13d71eebee1164",
+  "displayName": "CutMe",
+  "type": "TOKEN",
+  "token": {
+    "name": "CutMe",
+    "symbol": "CME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb33d892b0d9e8ffd118267e54cd62b232678185b",
+  "displayName": "Mano Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mano Finance",
+    "symbol": "MANO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

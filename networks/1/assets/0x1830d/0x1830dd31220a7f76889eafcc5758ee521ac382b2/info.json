@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1830dd31220a7f76889eafcc5758ee521ac382b2",
+  "displayName": "Amacoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Amacoin",
+    "symbol": "AMA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

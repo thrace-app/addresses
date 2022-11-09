@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecc068952d1dfc5c9f2dd17654f5ee4f6ad347bd",
+  "displayName": "greytoken.net",
+  "type": "TOKEN",
+  "token": {
+    "name": "greytoken.net",
+    "symbol": "Grey Token",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

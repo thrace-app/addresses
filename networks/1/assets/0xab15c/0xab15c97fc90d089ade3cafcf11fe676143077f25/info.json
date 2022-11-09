@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab15c97fc90d089ade3cafcf11fe676143077f25",
+  "displayName": "BERRY TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BERRY TOKEN",
+    "symbol": "BERI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

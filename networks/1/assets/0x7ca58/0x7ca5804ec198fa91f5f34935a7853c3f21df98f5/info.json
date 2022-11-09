@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ca5804ec198fa91f5f34935a7853c3f21df98f5",
+  "displayName": "StarEth",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarEth",
+    "symbol": "STARETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

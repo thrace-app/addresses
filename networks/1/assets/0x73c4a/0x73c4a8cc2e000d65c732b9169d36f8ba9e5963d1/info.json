@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73c4a8cc2e000d65c732b9169d36f8ba9e5963d1",
+  "displayName": "Proof Of Cake",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof Of Cake",
+    "symbol": "POC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

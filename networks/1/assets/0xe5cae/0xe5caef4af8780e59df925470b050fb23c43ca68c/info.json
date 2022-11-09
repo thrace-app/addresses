@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+  "displayName": "Ferrum Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ferrum Network Token",
+    "symbol": "FRM",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

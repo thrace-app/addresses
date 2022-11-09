@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3055c1d64e1670dc7c61c7de578e9c6763ff1eb6",
+  "displayName": "Keroro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Keroro Token",
+    "symbol": "KERORO",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

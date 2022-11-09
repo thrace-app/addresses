@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a4e69bfef73e1b1cd4964e9788591226353ddf8",
+  "displayName": "ProofOfTweet",
+  "type": "TOKEN",
+  "token": {
+    "name": "ProofOfTweet",
+    "symbol": "POT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

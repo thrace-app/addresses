@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3d620ca72ff970f5b36a2b2d51afdbbdbce59b5",
+  "displayName": "ARTH Bond",
+  "type": "TOKEN",
+  "token": {
+    "name": "ARTH Bond",
+    "symbol": "ARTHB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

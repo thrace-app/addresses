@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24eba89651aa88810924d4669256bb56832902fe",
+  "displayName": "HiveMind",
+  "type": "TOKEN",
+  "token": {
+    "name": "HiveMind",
+    "symbol": "HIVED",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x514d27336b4f80419e20d2a772d14efede22f245",
+  "displayName": "dogfood",
+  "type": "TOKEN",
+  "token": {
+    "name": "dogfood",
+    "symbol": "DoFo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

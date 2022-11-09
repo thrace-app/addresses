@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa02dd07aca42179d7db5eb1a2a8adc11a7fb917a",
+  "displayName": "Xerol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Xerol Token",
+    "symbol": "XEROL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

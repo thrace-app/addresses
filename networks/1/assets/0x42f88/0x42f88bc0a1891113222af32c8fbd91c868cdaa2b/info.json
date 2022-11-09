@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42f88bc0a1891113222af32c8fbd91c868cdaa2b",
+  "displayName": "Ryu Agumon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ryu Agumon",
+    "symbol": "$AGUMON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

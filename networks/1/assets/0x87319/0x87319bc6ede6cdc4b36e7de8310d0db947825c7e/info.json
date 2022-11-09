@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87319bc6ede6cdc4b36e7de8310d0db947825c7e",
+  "displayName": "ComicsClubToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ComicsClubToken",
+    "symbol": "CSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

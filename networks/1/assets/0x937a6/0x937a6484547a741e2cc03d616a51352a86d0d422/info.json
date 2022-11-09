@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x937a6484547a741e2cc03d616a51352a86d0d422",
+  "displayName": "TomoChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "TomoChain",
+    "symbol": "TOMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

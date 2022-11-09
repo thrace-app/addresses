@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbad1ae784513e81689a66581a6e3b302056657e0",
+  "displayName": "Dogebird",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dogebird",
+    "symbol": "DIRD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2ce20835d18577971566604d36aa69291e919be",
+  "displayName": "Meta Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meta Ape",
+    "symbol": "METAPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

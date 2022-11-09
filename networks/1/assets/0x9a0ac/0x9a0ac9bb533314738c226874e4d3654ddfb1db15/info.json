@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a0ac9bb533314738c226874e4d3654ddfb1db15",
+  "displayName": "Radom Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Radom Network Token",
+    "symbol": "RNT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

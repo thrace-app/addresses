@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f67195f374d285921adecb20437503636bcd57c",
+  "displayName": "MMO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MMO Token",
+    "symbol": "MMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

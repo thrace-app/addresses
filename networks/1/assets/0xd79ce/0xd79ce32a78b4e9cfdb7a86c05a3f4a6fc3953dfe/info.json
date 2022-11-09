@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd79ce32a78b4e9cfdb7a86c05a3f4a6fc3953dfe",
+  "displayName": "MCM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MCM Token",
+    "symbol": "MCM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

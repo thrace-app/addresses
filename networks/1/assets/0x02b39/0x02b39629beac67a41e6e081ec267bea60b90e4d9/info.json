@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02b39629beac67a41e6e081ec267bea60b90e4d9",
+  "displayName": "Boson Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boson Protocol",
+    "symbol": "$BOSON",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

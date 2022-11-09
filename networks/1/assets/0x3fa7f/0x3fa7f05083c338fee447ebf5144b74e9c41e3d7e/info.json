@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fa7f05083c338fee447ebf5144b74e9c41e3d7e",
+  "displayName": "Neutrino Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neutrino Finance",
+    "symbol": "NEUTRINO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

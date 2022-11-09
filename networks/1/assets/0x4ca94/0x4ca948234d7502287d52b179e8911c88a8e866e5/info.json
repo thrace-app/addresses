@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ca948234d7502287d52b179e8911c88a8e866e5",
+  "displayName": "Star Wars NFT Network",
+  "type": "TOKEN",
+  "token": {
+    "name": "Star Wars NFT Network",
+    "symbol": "SWARS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

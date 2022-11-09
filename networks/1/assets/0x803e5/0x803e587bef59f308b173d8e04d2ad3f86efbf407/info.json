@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x803e587bef59f308b173d8e04d2ad3f86efbf407",
+  "displayName": "Error Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Error Token",
+    "symbol": "ERROR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

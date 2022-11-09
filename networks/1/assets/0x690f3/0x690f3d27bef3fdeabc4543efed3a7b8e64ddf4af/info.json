@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x690f3d27bef3fdeabc4543efed3a7b8e64ddf4af",
+  "displayName": "Flare Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flare Token",
+    "symbol": "FLARE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

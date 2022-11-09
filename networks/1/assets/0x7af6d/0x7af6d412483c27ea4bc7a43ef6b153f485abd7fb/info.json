@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7af6d412483c27ea4bc7a43ef6b153f485abd7fb",
+  "displayName": "BurnPajeet",
+  "type": "TOKEN",
+  "token": {
+    "name": "BurnPajeet",
+    "symbol": "bPajeet",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

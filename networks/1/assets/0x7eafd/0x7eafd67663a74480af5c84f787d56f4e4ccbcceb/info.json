@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7eafd67663a74480af5c84f787d56f4e4ccbcceb",
+  "displayName": "RugPulledTokenSwapper",
+  "type": "TOKEN",
+  "token": {
+    "name": "RugPulledTokenSwapper",
+    "symbol": "SWAPR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

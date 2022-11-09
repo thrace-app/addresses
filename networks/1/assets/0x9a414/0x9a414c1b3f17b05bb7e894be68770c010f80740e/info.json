@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a414c1b3f17b05bb7e894be68770c010f80740e",
+  "displayName": "IQ Doge Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "IQ Doge Coin",
+    "symbol": "IQDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

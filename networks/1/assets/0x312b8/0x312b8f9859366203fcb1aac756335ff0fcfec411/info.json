@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x312b8f9859366203fcb1aac756335ff0fcfec411",
+  "displayName": "ETCtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETCtoken",
+    "symbol": "etct",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

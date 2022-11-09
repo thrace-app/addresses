@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x418d9124263e88b1d395bfeff1135e23e20adcd3",
+  "displayName": "King Shiba Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "King Shiba Token",
+    "symbol": "KINGSHIBA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

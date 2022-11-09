@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbdec45952b5e234eddc2981b43eed360826d5087",
+  "displayName": "Mogu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mogu Token",
+    "symbol": "MOGX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

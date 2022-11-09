@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7890b98cac89fc0e994cc75f5a157b56f6252567",
+  "displayName": "CsaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CsaToken",
+    "symbol": "CSA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

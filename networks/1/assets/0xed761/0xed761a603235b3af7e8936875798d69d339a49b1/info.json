@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed761a603235b3af7e8936875798d69d339a49b1",
+  "displayName": "EquitySettlementProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "EquitySettlementProtocol",
+    "symbol": "ESP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

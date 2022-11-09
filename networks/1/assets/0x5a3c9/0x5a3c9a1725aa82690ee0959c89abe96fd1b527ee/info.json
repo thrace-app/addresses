@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a3c9a1725aa82690ee0959c89abe96fd1b527ee",
+  "displayName": "PiedPiperCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PiedPiperCoin",
+    "symbol": "PPI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

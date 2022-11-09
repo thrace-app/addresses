@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66315cee83299c37a5bc46740e8e28f80df98f62",
+  "displayName": "Golden Retriever Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Retriever Token",
+    "symbol": "GODRE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

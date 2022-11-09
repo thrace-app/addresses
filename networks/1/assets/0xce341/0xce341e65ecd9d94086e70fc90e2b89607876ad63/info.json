@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce341e65ecd9d94086e70fc90e2b89607876ad63",
+  "displayName": "Deriswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Deriswap",
+    "symbol": "DeriSwap",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

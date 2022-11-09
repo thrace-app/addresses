@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb8a8385a8c34e232c6e6a53eba77967bab1d117",
+  "displayName": "Finance Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Finance Protocol",
+    "symbol": "FPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

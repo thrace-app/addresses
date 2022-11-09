@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0",
+  "displayName": "Aave interest bearing LINK",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave interest bearing LINK",
+    "symbol": "aLINK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

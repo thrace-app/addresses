@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1410a4fc39be5ff5cd328e3a23f382423936ebd",
+  "displayName": "storeum",
+  "type": "TOKEN",
+  "token": {
+    "name": "storeum",
+    "symbol": "STO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2ebf6324331919c261d671213170dd51e6fa9fc",
+  "displayName": "The Golden Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Golden Ape",
+    "symbol": "GLDN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd9184fda87e17973634f8328c55e0558795f45a",
+  "displayName": "weis",
+  "type": "TOKEN",
+  "token": {
+    "name": "weis",
+    "symbol": "WEI ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

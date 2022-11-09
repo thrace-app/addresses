@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4fadc7a98f2dc96510e42dd1a74141eeae0c1543",
+  "displayName": "Wrapped AR",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped AR",
+    "symbol": "WAR",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

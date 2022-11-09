@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14c926f2290044b647e1bf2072e67b495eff1905",
+  "displayName": "Bethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bethereum",
+    "symbol": "BETHER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

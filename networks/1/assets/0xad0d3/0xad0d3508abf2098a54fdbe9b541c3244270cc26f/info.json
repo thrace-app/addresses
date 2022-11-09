@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad0d3508abf2098a54fdbe9b541c3244270cc26f",
+  "displayName": "New Shib",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Shib",
+    "symbol": "NewSHIB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

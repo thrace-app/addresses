@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6130ff302f24267380753e52ece48b852be3dd38",
+  "displayName": "IOB Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "IOB Token",
+    "symbol": "IOB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

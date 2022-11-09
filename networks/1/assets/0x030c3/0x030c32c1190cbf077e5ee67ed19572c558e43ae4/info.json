@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x030c32c1190cbf077e5ee67ed19572c558e43ae4",
+  "displayName": "BitBonus",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitBonus",
+    "symbol": "BONUS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

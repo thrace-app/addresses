@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16a1b78907311815b6727f8ddbdffe8ca557193a",
+  "displayName": "SUPERSTONK",
+  "type": "TOKEN",
+  "token": {
+    "name": "SUPERSTONK",
+    "symbol": "$SUPERSTONK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50d34eb1bf76c38159267e23a924cef08ae11d64",
+  "displayName": "Vitalik Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitalik Ape",
+    "symbol": "VAPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

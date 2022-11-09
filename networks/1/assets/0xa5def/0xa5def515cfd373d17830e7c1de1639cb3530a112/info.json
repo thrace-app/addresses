@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa5def515cfd373d17830e7c1de1639cb3530a112",
+  "displayName": "DePo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DePo Token",
+    "symbol": "DEPO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

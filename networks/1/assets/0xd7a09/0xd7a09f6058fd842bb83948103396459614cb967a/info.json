@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7a09f6058fd842bb83948103396459614cb967a",
+  "displayName": "Veella Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Veella Token",
+    "symbol": "VEELLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

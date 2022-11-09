@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66f087a057f0075dbbd8dcefc0b96761a313fd8d",
+  "displayName": "Cardano INU",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cardano INU",
+    "symbol": "Cardano",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

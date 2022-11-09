@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d10d0907acd2fbbdc1abba4cd714b3a40196011",
+  "displayName": "CoinJanitor",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinJanitor",
+    "symbol": "JAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

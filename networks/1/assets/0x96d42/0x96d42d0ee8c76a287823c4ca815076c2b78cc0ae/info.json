@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96d42d0ee8c76a287823c4ca815076c2b78cc0ae",
+  "displayName": "Kentucky Fried Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kentucky Fried Doge",
+    "symbol": "KFD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

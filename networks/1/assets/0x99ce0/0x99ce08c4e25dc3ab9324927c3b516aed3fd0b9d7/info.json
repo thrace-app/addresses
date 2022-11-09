@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99ce08c4e25dc3ab9324927c3b516aed3fd0b9d7",
+  "displayName": "The DIE Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The DIE Protocol",
+    "symbol": "TheDIE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

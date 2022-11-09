@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a4fa084bd8942dfa318c8aca4a3dbe59149f9cc",
+  "displayName": "The Fappening",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Fappening",
+    "symbol": "$FAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

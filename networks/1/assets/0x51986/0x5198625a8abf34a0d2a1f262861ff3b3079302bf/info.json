@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5198625a8abf34a0d2a1f262861ff3b3079302bf",
+  "displayName": "DeFi Forge",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi Forge",
+    "symbol": "Forge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

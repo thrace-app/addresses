@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61abd0ed65ff5ed4d57512dbb85642f24ae94086",
+  "displayName": "NFT Tech",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT Tech",
+    "symbol": "NFTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b7abb257e2dbdca0686aba11458f2d641b75406",
+  "displayName": "NXMtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NXMtoken",
+    "symbol": "NXM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47eb0e264893a230dfeefd6a5d8a892109eefb56",
+  "displayName": "Party Boy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Party Boy Token",
+    "symbol": "Party",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

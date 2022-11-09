@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b213f6cd343c203c673a4294546ed135d621fbf",
+  "displayName": "Cuckoo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cuckoo",
+    "symbol": "CUCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

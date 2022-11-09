@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a42b0702c7f9daf65489caea7aab2d52e8b1928",
+  "displayName": "Ape Slap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ape Slap",
+    "symbol": "SLAP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

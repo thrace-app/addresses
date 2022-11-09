@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb62aa4756d5911c9aa899dd01285753166d583e9",
+  "displayName": "CropsToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CropsToken",
+    "symbol": "CROPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

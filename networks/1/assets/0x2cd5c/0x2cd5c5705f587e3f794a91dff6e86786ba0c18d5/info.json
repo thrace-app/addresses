@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2cd5c5705f587e3f794a91dff6e86786ba0c18d5",
+  "displayName": "Sovi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sovi Token",
+    "symbol": "SOVI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

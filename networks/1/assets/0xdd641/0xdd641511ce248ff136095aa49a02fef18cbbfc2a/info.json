@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd641511ce248ff136095aa49a02fef18cbbfc2a",
+  "displayName": "Universal Synthetic Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Universal Synthetic Token",
+    "symbol": "UNISX",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

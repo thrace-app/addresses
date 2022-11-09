@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d68d247ee7520648338148fa7e604eb98d22510",
+  "displayName": "UniYield",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniYield",
+    "symbol": "UNY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

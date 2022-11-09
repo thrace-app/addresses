@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x74d248e2ce96b732172f0c57263cdef914324a58",
+  "displayName": "MakomoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MakomoToken",
+    "symbol": "MAKOMO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

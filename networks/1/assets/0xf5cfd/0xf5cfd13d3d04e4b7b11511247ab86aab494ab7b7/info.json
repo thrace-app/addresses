@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5cfd13d3d04e4b7b11511247ab86aab494ab7b7",
+  "displayName": "Feed The Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Feed The Inu",
+    "symbol": "KIBBLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

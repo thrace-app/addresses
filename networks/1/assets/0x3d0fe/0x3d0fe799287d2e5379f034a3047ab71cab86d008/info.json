@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d0fe799287d2e5379f034a3047ab71cab86d008",
+  "displayName": "UniLitecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniLitecoin",
+    "symbol": "UNILITECOIN",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

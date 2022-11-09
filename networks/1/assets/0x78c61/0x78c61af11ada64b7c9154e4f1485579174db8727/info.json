@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78c61af11ada64b7c9154e4f1485579174db8727",
+  "displayName": "JuraToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "JuraToken",
+    "symbol": "JRE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

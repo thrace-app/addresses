@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cc18add40343f94875e6b1c7585b649f074ddb3",
+  "displayName": "XYearn.Finance Bug Test Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XYearn.Finance Bug Test Token",
+    "symbol": "XYFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

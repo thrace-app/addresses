@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50d2d3406643bbc668f887aab833ca88989224cb",
+  "displayName": "HexShiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "HexShiba",
+    "symbol": "HEXS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

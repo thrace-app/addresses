@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6392a9f41cb230e6b8a3f8025ecead90e0010b55",
+  "displayName": "先富币",
+  "type": "TOKEN",
+  "token": {
+    "name": "先富币",
+    "symbol": "XFB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

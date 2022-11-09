@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x74b6e885fcda734a6c179b0a9380ff8751d66402",
+  "displayName": "Luna Classic Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luna Classic Doge",
+    "symbol": "LUNCD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

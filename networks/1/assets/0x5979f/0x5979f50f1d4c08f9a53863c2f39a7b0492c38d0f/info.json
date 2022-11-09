@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5979f50f1d4c08f9a53863c2f39a7b0492c38d0f",
+  "displayName": "pTokens LTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "pTokens LTC",
+    "symbol": "pLTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

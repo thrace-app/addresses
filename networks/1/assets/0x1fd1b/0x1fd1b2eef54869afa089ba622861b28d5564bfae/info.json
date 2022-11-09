@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fd1b2eef54869afa089ba622861b28d5564bfae",
+  "displayName": "MCOIN Utility Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MCOIN Utility Token",
+    "symbol": "MCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

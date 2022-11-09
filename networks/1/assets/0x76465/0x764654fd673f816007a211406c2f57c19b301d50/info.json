@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x764654fd673f816007a211406c2f57c19b301d50",
+  "displayName": "Silk Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Silk Token",
+    "symbol": "SILK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

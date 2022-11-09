@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd94b9deb677c9cdc60098f735af26c145f54ef05",
+  "displayName": "Blockchain Teddies",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blockchain Teddies",
+    "symbol": "TEDDY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

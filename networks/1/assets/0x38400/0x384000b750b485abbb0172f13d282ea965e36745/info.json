@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x384000b750b485abbb0172f13d282ea965e36745",
+  "displayName": "JimmChewCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "JimmChewCoin",
+    "symbol": "JCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

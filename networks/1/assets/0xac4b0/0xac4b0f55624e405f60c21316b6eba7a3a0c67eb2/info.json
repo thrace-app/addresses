@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac4b0f55624e405f60c21316b6eba7a3a0c67eb2",
+  "displayName": "Meme Gift Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meme Gift Token",
+    "symbol": "MGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

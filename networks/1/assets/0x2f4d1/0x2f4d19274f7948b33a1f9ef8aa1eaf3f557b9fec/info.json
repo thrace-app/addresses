@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f4d19274f7948b33a1f9ef8aa1eaf3f557b9fec",
+  "displayName": "FLIX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FLIX Token",
+    "symbol": "FLIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

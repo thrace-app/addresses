@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5ca46cf1da09248126682a7bd72401fd7a6b151",
+  "displayName": "Provoco Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Provoco Token",
+    "symbol": "VOCO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

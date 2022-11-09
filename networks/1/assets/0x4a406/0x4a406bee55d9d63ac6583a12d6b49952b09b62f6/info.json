@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a406bee55d9d63ac6583a12d6b49952b09b62f6",
+  "displayName": "tehPump",
+  "type": "TOKEN",
+  "token": {
+    "name": "tehPump",
+    "symbol": "tPump",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

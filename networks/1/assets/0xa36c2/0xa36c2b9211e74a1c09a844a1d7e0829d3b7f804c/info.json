@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa36c2b9211e74a1c09a844a1d7e0829d3b7f804c",
+  "displayName": "Buy Me a Coffee",
+  "type": "TOKEN",
+  "token": {
+    "name": "Buy Me a Coffee",
+    "symbol": "COFFEE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

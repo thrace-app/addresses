@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd57b4d497e01bb9053bafac595be5ca8dc412d18",
+  "displayName": "NoleCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NoleCoin",
+    "symbol": "NETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

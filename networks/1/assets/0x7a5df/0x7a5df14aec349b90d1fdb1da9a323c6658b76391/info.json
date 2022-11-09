@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a5df14aec349b90d1fdb1da9a323c6658b76391",
+  "displayName": "NyQuilToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NyQuilToken",
+    "symbol": "NyQuil",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

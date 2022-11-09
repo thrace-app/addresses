@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe73dd5a07e4d7d75229a180a713f80eea9e41cea",
+  "displayName": "Figure Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Figure Finance Token",
+    "symbol": "FFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

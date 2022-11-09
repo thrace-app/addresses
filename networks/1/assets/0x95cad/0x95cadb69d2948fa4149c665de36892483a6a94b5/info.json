@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95cadb69d2948fa4149c665de36892483a6a94b5",
+  "displayName": "KAUCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KAUCoin",
+    "symbol": "KAU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

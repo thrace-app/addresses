@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d6f8648beef6c29a151f0090be7da59214aaed0",
+  "displayName": "Yield Finance Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yield Finance Coin",
+    "symbol": "YFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

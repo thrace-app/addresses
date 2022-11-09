@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8761b5a333a2889cfc52f27fa025f42d94845b90",
+  "displayName": "Doge Pawtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Pawtocol",
+    "symbol": "DOGAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

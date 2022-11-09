@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x339c9044b54c0f411e9a7e7b1f09853e723ad9de",
+  "displayName": "Clutch Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Clutch Token",
+    "symbol": "CLUTCH",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

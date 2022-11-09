@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf85ffd155f4ac0cf7fc09b0016290aded222e8b3",
+  "displayName": "Eggz",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eggz",
+    "symbol": "EGGZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

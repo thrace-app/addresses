@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0942760f9bfdd37f1d60b699ae0d19babfacdda",
+  "displayName": "cow.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "cow.finance",
+    "symbol": "MOO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

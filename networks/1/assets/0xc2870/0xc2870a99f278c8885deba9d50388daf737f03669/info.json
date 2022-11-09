@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2870a99f278c8885deba9d50388daf737f03669",
+  "displayName": "PluralMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "PluralMoon",
+    "symbol": "PMoon",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

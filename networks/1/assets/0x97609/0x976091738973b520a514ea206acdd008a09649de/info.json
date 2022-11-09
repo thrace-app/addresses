@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x976091738973b520a514ea206acdd008a09649de",
+  "displayName": "Mishka Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mishka Token",
+    "symbol": "MISHKA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

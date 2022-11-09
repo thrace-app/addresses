@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2027abcd568b52cf448ed9593c3b64e9a4de90ad",
+  "displayName": "Delayed Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Delayed Protocol",
+    "symbol": "$DYP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

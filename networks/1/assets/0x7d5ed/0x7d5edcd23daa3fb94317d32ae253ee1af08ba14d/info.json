@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d5edcd23daa3fb94317d32ae253ee1af08ba14d",
+  "displayName": "Ethbet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethbet",
+    "symbol": "EBET",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

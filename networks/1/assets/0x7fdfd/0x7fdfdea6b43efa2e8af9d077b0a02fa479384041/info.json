@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fdfdea6b43efa2e8af9d077b0a02fa479384041",
+  "displayName": "N2x Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "N2x Token",
+    "symbol": "N2x",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

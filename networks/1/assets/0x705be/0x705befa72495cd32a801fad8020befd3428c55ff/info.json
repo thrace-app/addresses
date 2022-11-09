@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x705befa72495cd32a801fad8020befd3428c55ff",
+  "displayName": "Pacman",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pacman",
+    "symbol": "PAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

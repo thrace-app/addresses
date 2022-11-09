@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64d0dbf6b2e613fc290b44c77f963ed268c4f254",
+  "displayName": "nETHing",
+  "type": "TOKEN",
+  "token": {
+    "name": "nETHing",
+    "symbol": "nETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

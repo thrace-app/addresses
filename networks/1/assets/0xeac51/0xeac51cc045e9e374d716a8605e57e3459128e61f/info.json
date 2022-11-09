@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeac51cc045e9e374d716a8605e57e3459128e61f",
+  "displayName": "Advanced Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Advanced Token",
+    "symbol": "ADV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

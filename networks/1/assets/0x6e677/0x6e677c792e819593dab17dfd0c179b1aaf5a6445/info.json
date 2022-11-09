@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e677c792e819593dab17dfd0c179b1aaf5a6445",
+  "displayName": "DigitalGold",
+  "type": "TOKEN",
+  "token": {
+    "name": "DigitalGold",
+    "symbol": "DGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

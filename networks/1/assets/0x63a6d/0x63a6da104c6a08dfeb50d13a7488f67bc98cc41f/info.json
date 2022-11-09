@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63a6da104c6a08dfeb50d13a7488f67bc98cc41f",
+  "displayName": "TimeFarmer",
+  "type": "TOKEN",
+  "token": {
+    "name": "TimeFarmer",
+    "symbol": "FARM",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

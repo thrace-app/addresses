@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62c3b24c15986bcff4f01c2f680e9746be63c158",
+  "displayName": "SpaceGoat",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpaceGoat",
+    "symbol": "SGOAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

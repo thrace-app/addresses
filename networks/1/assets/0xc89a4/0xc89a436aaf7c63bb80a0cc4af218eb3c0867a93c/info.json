@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc89a436aaf7c63bb80a0cc4af218eb3c0867a93c",
+  "displayName": "Nothing Burger",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nothing Burger",
+    "symbol": "NOTHINBURGER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f8799e4cd8f0d7c4cf8d4d35c7a7cf514ee9a20",
+  "displayName": "Home Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Home Token",
+    "symbol": "HOME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

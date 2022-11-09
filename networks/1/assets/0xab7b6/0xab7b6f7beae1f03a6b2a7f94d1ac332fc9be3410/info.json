@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab7b6f7beae1f03a6b2a7f94d1ac332fc9be3410",
+  "displayName": "CryptoWorldNews Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoWorldNews Token",
+    "symbol": "CWN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

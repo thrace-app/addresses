@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098",
+  "displayName": "SANtiment network token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SANtiment network token",
+    "symbol": "SAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

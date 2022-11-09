@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb469bdc3099412fdfb9f4af7ba6c388eba9f4f45",
+  "displayName": "SARTO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SARTO Token",
+    "symbol": "SARTO",
+    "decimals": 13,
+    "type": "ERC20"
+  }
+}

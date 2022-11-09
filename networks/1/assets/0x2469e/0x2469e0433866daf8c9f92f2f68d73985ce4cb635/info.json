@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2469e0433866daf8c9f92f2f68d73985ce4cb635",
+  "displayName": "AvalonCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AvalonCoin",
+    "symbol": "AVC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

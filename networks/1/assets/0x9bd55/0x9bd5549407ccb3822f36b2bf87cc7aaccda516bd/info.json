@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9bd5549407ccb3822f36b2bf87cc7aaccda516bd",
+  "displayName": "The Vitalik Meme",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Vitalik Meme",
+    "symbol": "TVITALME",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

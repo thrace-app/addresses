@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09ccd2da5dcdd0510268d4979e792381337138b8",
+  "displayName": "Bodhi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bodhi Token",
+    "symbol": "NBOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

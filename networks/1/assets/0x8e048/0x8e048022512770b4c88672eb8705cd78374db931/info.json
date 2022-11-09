@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e048022512770b4c88672eb8705cd78374db931",
+  "displayName": "Bob's Burgers",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bob's Burgers",
+    "symbol": "$BBurgers",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

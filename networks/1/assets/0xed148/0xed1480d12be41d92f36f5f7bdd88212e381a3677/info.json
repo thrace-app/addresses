@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed1480d12be41d92f36f5f7bdd88212e381a3677",
+  "displayName": "FIAT DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FIAT DAO Token",
+    "symbol": "FDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5c033bc60a7d263ed13999e971c26cd758b5a77",
+  "displayName": "Bihodl Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bihodl Token",
+    "symbol": "HODL",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

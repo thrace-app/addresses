@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41933422dc4a1cb8c822e06f12f7b52fa5e7e094",
+  "displayName": " SPACE HOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": " SPACE HOGE",
+    "symbol": "SOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e569855338885bcfbcd492daa36a22619121581",
+  "displayName": "BoneToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BoneToken",
+    "symbol": "BONE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

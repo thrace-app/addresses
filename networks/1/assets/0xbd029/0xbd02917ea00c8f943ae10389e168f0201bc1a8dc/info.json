@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd02917ea00c8f943ae10389e168f0201bc1a8dc",
+  "displayName": "AuctionCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AuctionCoin",
+    "symbol": "ACT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

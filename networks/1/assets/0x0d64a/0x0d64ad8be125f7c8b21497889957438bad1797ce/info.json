@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d64ad8be125f7c8b21497889957438bad1797ce",
+  "displayName": "CJO Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CJO Coin",
+    "symbol": "CJO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

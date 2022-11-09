@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8cac208fd179f7f36869143a5ddd7c879aa34714",
+  "displayName": "Degen Farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Farm",
+    "symbol": "DEGENFARM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad72157aec83afe3e0a6d988e892a5800550fb59",
+  "displayName": "Uix Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uix Token",
+    "symbol": "UIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

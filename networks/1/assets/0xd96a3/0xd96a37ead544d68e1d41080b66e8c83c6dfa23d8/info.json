@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd96a37ead544d68e1d41080b66e8c83c6dfa23d8",
+  "displayName": "Money Printer",
+  "type": "TOKEN",
+  "token": {
+    "name": "Money Printer",
+    "symbol": "Printer",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

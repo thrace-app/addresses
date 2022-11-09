@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2a8e39849943bff73f808149dd5b128699e74ba",
+  "displayName": "EthereumHalf",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumHalf",
+    "symbol": "ETH.5",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

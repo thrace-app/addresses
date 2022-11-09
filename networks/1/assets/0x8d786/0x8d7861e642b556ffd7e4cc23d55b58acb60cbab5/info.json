@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d7861e642b556ffd7e4cc23d55b58acb60cbab5",
+  "displayName": "DragonSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "DragonSwap",
+    "symbol": "DSP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c57f2ed83bfba0167863fe85a91c8ff5ccdd523",
+  "displayName": "Patronus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Patronus",
+    "symbol": "$PRS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fa85aa3f44f296de1294e3c097872235215b822",
+  "displayName": "PublicBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "PublicBank",
+    "symbol": "PBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

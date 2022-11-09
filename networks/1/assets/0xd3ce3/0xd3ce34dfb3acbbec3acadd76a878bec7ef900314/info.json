@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3ce34dfb3acbbec3acadd76a878bec7ef900314",
+  "displayName": "SafeApe",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeApe",
+    "symbol": "SAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

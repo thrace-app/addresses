@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20527c24d387aa05d4e2d6cc266b60810db487d7",
+  "displayName": "MEVTrapper",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEVTrapper",
+    "symbol": "MEVT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7dee371a788f9bd6c546df83f0d74fbe37cbf006",
+  "displayName": "Teccoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Teccoin",
+    "symbol": "Tecn",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

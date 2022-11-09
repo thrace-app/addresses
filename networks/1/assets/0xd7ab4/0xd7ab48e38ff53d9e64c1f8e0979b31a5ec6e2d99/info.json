@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7ab48e38ff53d9e64c1f8e0979b31a5ec6e2d99",
+  "displayName": "SpaceMine Token V2",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpaceMine Token V2",
+    "symbol": "MINEV2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

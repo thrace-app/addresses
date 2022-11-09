@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd265eb9d910573b195bf0fd4c789fc80d3630d71",
+  "displayName": "IBM Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "IBM Finance",
+    "symbol": "YFIBM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

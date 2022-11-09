@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x819700f332affacb4f29595ddd3f05eed2a20f9b",
+  "displayName": "Masterchain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Masterchain",
+    "symbol": "MASTERCHAIN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

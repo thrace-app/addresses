@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde40baac4380332bfb5e6b5d9f9597ff2b456b34",
+  "displayName": "World Cup Champion",
+  "type": "TOKEN",
+  "token": {
+    "name": "World Cup Champion",
+    "symbol": "WCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

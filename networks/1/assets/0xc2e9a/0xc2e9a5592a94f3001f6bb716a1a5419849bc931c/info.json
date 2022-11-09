@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2e9a5592a94f3001f6bb716a1a5419849bc931c",
+  "displayName": "Uncle Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uncle Inu",
+    "symbol": "$UNC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

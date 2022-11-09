@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64a20352f977898b63dbc893d13dd26be654851a",
+  "displayName": "Ethereum KOJI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum KOJI",
+    "symbol": "eKOJI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

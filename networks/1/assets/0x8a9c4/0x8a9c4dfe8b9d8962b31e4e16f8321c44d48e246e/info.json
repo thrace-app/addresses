@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e",
+  "displayName": "NameChangeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NameChangeToken",
+    "symbol": "NCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

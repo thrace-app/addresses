@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a832c6809f793578e562fd16409e0b5a5dbd073",
+  "displayName": "DeFi Test Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi Test Token",
+    "symbol": "DFTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

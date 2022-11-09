@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8cbfc572dbbcff9f1b23ad7f0a8279de04a0312c",
+  "displayName": "BullBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "BullBank",
+    "symbol": "BULL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

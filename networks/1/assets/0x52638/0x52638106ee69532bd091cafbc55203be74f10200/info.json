@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52638106ee69532bd091cafbc55203be74f10200",
+  "displayName": "QEO",
+  "type": "TOKEN",
+  "token": {
+    "name": "QEO",
+    "symbol": "Queso",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb30a0e568b5a95c59d6f1c930bbbb7bd15a31811",
+  "displayName": "Saber Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Saber Token",
+    "symbol": "SABER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

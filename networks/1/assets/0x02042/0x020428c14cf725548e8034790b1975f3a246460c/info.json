@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x020428c14cf725548e8034790b1975f3a246460c",
+  "displayName": "UpOnly",
+  "type": "TOKEN",
+  "token": {
+    "name": "UpOnly",
+    "symbol": "FOMO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

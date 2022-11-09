@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01012022d43a3f85196a6bea96dfdb7350fdaa3c",
+  "displayName": "Happy New Year",
+  "type": "TOKEN",
+  "token": {
+    "name": "Happy New Year",
+    "symbol": "2022",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

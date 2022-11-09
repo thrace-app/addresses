@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xebc08709293fb7007f188ab23a1d34cb089a0695",
+  "displayName": "EURP Stable Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EURP Stable Coin",
+    "symbol": "EURP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

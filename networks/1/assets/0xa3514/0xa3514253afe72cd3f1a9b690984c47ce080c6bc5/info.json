@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa3514253afe72cd3f1a9b690984c47ce080c6bc5",
+  "displayName": "King Virtual Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "King Virtual Coin",
+    "symbol": "KVC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

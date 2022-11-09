@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12f6786e96208123d4d98e0f8d4a4f168099e4f0",
+  "displayName": "Cryptoswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryptoswap",
+    "symbol": "CRYP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

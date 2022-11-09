@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e9a4fbc08c7803f29359cfe05d85a5567b25f88",
+  "displayName": "Monkey TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monkey TOKEN",
+    "symbol": "MBY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

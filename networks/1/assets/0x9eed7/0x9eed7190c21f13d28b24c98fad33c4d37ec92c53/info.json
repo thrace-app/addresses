@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9eed7190c21f13d28b24c98fad33c4d37ec92c53",
+  "displayName": "GM Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "GM Doge",
+    "symbol": "GMDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

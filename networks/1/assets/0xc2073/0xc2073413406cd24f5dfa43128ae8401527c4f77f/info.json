@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2073413406cd24f5dfa43128ae8401527c4f77f",
+  "displayName": "Elon Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Ape",
+    "symbol": "ELONAPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

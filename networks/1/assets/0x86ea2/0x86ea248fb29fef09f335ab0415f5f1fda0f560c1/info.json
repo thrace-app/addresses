@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86ea248fb29fef09f335ab0415f5f1fda0f560c1",
+  "displayName": "SpareChange",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpareChange",
+    "symbol": "SpareSomeChange",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

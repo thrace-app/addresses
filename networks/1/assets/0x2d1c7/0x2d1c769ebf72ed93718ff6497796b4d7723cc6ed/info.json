@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2d1c769ebf72ed93718ff6497796b4d7723cc6ed",
+  "displayName": "BankOfGiza",
+  "type": "TOKEN",
+  "token": {
+    "name": "BankOfGiza",
+    "symbol": "BOGIZA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

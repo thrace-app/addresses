@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e8cb8692ad16a6584824673bbe48bf4c465d38b",
+  "displayName": "CoTrader",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoTrader",
+    "symbol": "COT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

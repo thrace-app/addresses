@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbfd05e6497b5be5d00bb798167fbc0cf419bd799",
+  "displayName": "Frozen Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Frozen Swap",
+    "symbol": "FROZEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

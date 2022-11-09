@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbab1e772d70300422312dff12daddcb60864bd41",
+  "displayName": "stETH Volatility Vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "stETH Volatility Vault",
+    "symbol": "stETHvv",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

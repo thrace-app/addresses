@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cac718a3ae330d361e39244bf9e67ab17514ce8",
+  "displayName": "CosplayToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CosplayToken",
+    "symbol": "COT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

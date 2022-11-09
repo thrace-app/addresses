@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4ddb92a2a36d14a655b391662343dd7aeff36cf",
+  "displayName": "Hammer Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hammer Coin",
+    "symbol": "HC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

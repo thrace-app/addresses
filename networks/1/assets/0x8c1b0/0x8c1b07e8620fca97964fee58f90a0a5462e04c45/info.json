@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c1b07e8620fca97964fee58f90a0a5462e04c45",
+  "displayName": "LH100 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LH100 Token",
+    "symbol": "LH100",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

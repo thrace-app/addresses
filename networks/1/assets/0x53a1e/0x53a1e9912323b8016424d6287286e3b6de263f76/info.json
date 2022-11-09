@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53a1e9912323b8016424d6287286e3b6de263f76",
+  "displayName": "PUTIN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PUTIN Token",
+    "symbol": "PTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

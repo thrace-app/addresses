@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6eb6adcd598dd3131e35cbed541c92cdbfe8dd93",
+  "displayName": "Blackrock USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blackrock USD",
+    "symbol": "BUSD",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

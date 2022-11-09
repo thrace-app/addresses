@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce15cb5fe641e0c083bb3e12aa3bf70072d23c1e",
+  "displayName": "LPDAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LPDAO Token",
+    "symbol": "LP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

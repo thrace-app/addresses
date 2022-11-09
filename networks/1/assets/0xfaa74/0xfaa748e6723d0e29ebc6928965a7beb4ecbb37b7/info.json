@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfaa748e6723d0e29ebc6928965a7beb4ecbb37b7",
+  "displayName": "Proof of Reserves",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Reserves",
+    "symbol": "POR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

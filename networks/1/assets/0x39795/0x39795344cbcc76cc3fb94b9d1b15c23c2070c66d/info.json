@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d",
+  "displayName": "Seigniorage Shares",
+  "type": "TOKEN",
+  "token": {
+    "name": "Seigniorage Shares",
+    "symbol": "SHARE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

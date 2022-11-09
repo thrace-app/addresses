@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d12408a21d30d1e28053dfcd9379906a0d38e6a",
+  "displayName": "MyCryptoCheckout",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyCryptoCheckout",
+    "symbol": "RWD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

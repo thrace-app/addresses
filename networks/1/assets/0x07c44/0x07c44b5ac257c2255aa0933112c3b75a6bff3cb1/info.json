@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07c44b5ac257c2255aa0933112c3b75a6bff3cb1",
+  "displayName": "BoringDAO LTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "BoringDAO LTC",
+    "symbol": "oLTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

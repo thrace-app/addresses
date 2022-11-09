@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9bd77fc9268f9111fe1a776ec89889fe2e84a705",
+  "displayName": "DeFiFeather Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiFeather Coin",
+    "symbol": "DFIF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

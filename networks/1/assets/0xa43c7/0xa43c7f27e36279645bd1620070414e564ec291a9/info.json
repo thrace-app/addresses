@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa43c7f27e36279645bd1620070414e564ec291a9",
+  "displayName": "Hedera Hashgraph Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hedera Hashgraph Token",
+    "symbol": "HBAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd111c8516bafed13fb2f50c2fdf4031c181cdc76",
+  "displayName": "Proof of Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Ape",
+    "symbol": "Apecoin 2.0",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

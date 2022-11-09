@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39a878d6b01b1e4c8105d880a20b778e9458ed57",
+  "displayName": "Swidity Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swidity Network Token",
+    "symbol": "SWID",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

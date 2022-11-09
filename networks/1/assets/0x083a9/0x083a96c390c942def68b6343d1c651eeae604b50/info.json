@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x083a96c390c942def68b6343d1c651eeae604b50",
+  "displayName": "Passive Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Passive Gold",
+    "symbol": "PASG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

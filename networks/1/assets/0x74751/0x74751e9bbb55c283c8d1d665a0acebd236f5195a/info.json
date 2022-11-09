@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x74751e9bbb55c283c8d1d665a0acebd236f5195a",
+  "displayName": "HMToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "HMToken",
+    "symbol": "HMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0857f22f33b21b99a4a79832ffb14c15808017c",
+  "displayName": "Porat Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Porat Token",
+    "symbol": "PORAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

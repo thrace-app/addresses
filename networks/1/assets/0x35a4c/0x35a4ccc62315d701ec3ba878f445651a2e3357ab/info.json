@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35a4ccc62315d701ec3ba878f445651a2e3357ab",
+  "displayName": "TURDCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "TURDCOIN",
+    "symbol": "TURD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

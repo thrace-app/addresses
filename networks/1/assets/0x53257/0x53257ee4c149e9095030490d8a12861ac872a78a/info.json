@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53257ee4c149e9095030490d8a12861ac872a78a",
+  "displayName": "Classic Elon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Classic Elon Token",
+    "symbol": "PRELON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

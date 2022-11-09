@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e58c6d34d1e055e8d3943ffb1fed662d0aa9c10",
+  "displayName": "BotzCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BotzCoin",
+    "symbol": "BOTZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

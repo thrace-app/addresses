@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a1c6efc82ce16a89a6c81c930dd50e00e4a39fc",
+  "displayName": "DPon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DPon Token",
+    "symbol": "DPon",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

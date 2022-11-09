@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6dda38a6af679e736ae02426f22e47383f2bfc6e",
+  "displayName": "Wrapped Leash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Leash",
+    "symbol": "WLEASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

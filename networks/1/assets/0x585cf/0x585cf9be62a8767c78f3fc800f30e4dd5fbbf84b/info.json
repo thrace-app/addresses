@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x585cf9be62a8767c78f3fc800f30e4dd5fbbf84b",
+  "displayName": "LOAN",
+  "type": "TOKEN",
+  "token": {
+    "name": "LOAN",
+    "symbol": "Uniloans",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7de43cd09b9e50ebc5fcc4f3c9ec563bae25bd9",
+  "displayName": "MEV Repellent",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEV Repellent",
+    "symbol": "MEVREPEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5585af18dcb44a732ba959fbc9e31968b3666a6f",
+  "displayName": "Bitcoin Uncle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Uncle",
+    "symbol": "BTCU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

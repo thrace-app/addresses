@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48b0a12d344934a01525e9572f4138d44751804a",
+  "displayName": "Shiba Chip",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Chip",
+    "symbol": "SHIBCHIP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

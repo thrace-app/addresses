@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b107e21ab46c264c3a9bf34444d473959ffc0f5",
+  "displayName": "Burrito Network",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burrito Network",
+    "symbol": "BURR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

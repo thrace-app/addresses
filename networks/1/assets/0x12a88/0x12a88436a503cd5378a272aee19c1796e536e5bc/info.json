@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12a88436a503cd5378a272aee19c1796e536e5bc",
+  "displayName": "CommunityETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "CommunityETH",
+    "symbol": "cETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

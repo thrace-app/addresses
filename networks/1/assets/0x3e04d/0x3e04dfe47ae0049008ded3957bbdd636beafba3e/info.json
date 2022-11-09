@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e04dfe47ae0049008ded3957bbdd636beafba3e",
+  "displayName": "TNSToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TNSToken",
+    "symbol": "TNS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

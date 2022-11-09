@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38c674160b3d3ec2861356437a1aa264190c1771",
+  "displayName": "Darth Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Darth Doge",
+    "symbol": "DDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

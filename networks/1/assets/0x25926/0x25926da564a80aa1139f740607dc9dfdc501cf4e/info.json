@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25926da564a80aa1139f740607dc9dfdc501cf4e",
+  "displayName": "ApeFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "ApeFinance",
+    "symbol": "APEFI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

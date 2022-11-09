@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x469c3ef8f4bf90166c43e63e2320b0e3ffda9642",
+  "displayName": "Algorand",
+  "type": "TOKEN",
+  "token": {
+    "name": "Algorand",
+    "symbol": "ALGOA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

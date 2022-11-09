@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc12ea2c1a2e3efc900ffe2ba2f137f2f1de320ca",
+  "displayName": "PayPal Token (Official)",
+  "type": "TOKEN",
+  "token": {
+    "name": "PayPal Token (Official)",
+    "symbol": "PAYPAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

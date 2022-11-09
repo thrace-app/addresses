@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9908aa563d3f1177cf6f300139f1510990c58e49",
+  "displayName": "Martell NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Martell NFT",
+    "symbol": "Martell",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17f8b6de7d1418489d3d153a1a36be4ae85ab90f",
+  "displayName": "Space Neko",
+  "type": "TOKEN",
+  "token": {
+    "name": "Space Neko",
+    "symbol": "SNEKO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

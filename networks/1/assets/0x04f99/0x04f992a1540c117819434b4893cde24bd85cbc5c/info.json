@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04f992a1540c117819434b4893cde24bd85cbc5c",
+  "displayName": "MEV Floki",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEV Floki",
+    "symbol": "MFLOKI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

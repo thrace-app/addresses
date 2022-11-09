@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x616379760a350731d75b3197d19043b3e75624c9",
+  "displayName": "MANA TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "MANA TOKEN",
+    "symbol": "MT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

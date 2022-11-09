@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd59509ef331c1ccddd2009338e65dee3ee320ad7",
+  "displayName": "AlaskaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlaskaToken",
+    "symbol": "ALA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

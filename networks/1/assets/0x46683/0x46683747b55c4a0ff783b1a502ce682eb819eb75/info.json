@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46683747b55c4a0ff783b1a502ce682eb819eb75",
+  "displayName": "Wrapped Car Token 1",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Car Token 1",
+    "symbol": "wCT1",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb983048e6fc0f445700699c023508317cbc18770",
+  "displayName": "Container Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Container Token",
+    "symbol": "CT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

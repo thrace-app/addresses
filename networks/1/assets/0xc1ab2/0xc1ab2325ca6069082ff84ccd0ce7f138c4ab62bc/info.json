@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1ab2325ca6069082ff84ccd0ce7f138c4ab62bc",
+  "displayName": "Wise TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wise TOKEN",
+    "symbol": "WISE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

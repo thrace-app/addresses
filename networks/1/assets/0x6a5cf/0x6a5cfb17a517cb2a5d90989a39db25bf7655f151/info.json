@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a5cfb17a517cb2a5d90989a39db25bf7655f151",
+  "displayName": "DAXToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAXToken",
+    "symbol": "DAX",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

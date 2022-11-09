@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc85344dba4fb2deb1848fac3c1b3fee698aa204",
+  "displayName": "Hell Dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hell Dog",
+    "symbol": "HELLDOG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

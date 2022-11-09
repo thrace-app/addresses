@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x978bcf5cec15a3da60c5f4e7b3481d0c1bee7b70",
+  "displayName": "Apollo token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Apollo token",
+    "symbol": "ABL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

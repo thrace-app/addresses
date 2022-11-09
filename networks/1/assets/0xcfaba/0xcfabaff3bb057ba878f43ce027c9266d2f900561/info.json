@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcfabaff3bb057ba878f43ce027c9266d2f900561",
+  "displayName": "BetaFunds Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BetaFunds Token",
+    "symbol": "BFZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

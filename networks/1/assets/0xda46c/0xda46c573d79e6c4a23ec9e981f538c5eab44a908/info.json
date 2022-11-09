@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda46c573d79e6c4a23ec9e981f538c5eab44a908",
+  "displayName": "EBeT token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EBeT token",
+    "symbol": "EBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

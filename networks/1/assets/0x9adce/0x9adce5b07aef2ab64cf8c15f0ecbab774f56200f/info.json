@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9adce5b07aef2ab64cf8c15f0ecbab774f56200f",
+  "displayName": "Crypto Chips",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Chips",
+    "symbol": "CCP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

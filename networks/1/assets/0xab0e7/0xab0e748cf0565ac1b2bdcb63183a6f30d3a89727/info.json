@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab0e748cf0565ac1b2bdcb63183a6f30d3a89727",
+  "displayName": "Pomsky",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pomsky",
+    "symbol": "POMSKY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

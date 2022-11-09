@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17692b46962a90197c23038145f22201ff0639bb",
+  "displayName": "Ethstasy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethstasy",
+    "symbol": "$MOLLY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

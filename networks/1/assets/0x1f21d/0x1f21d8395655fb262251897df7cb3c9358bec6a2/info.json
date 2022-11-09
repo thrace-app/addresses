@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f21d8395655fb262251897df7cb3c9358bec6a2",
+  "displayName": "IRONCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "IRONCOIN",
+    "symbol": "IRC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

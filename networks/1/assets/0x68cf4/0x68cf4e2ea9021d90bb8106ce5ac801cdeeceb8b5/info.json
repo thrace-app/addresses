@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68cf4e2ea9021d90bb8106ce5ac801cdeeceb8b5",
+  "displayName": "CryptoFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoFi",
+    "symbol": "CFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

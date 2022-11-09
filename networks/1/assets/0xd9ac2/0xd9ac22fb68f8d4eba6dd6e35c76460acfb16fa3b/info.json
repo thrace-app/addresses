@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9ac22fb68f8d4eba6dd6e35c76460acfb16fa3b",
+  "displayName": "LeBum Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LeBum Coin",
+    "symbol": "LBM",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

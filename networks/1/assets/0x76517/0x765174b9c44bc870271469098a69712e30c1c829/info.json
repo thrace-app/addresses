@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x765174b9c44bc870271469098a69712e30c1c829",
+  "displayName": "BNB vs FTT",
+  "type": "TOKEN",
+  "token": {
+    "name": "BNB vs FTT",
+    "symbol": "BNBvFTT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

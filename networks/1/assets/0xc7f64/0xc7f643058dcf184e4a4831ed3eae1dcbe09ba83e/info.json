@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7f643058dcf184e4a4831ed3eae1dcbe09ba83e",
+  "displayName": "Quakereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quakereum",
+    "symbol": "Quaker",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

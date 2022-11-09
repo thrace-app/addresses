@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x010e97bea62f04c52b338c83b59435f3d6306a42",
+  "displayName": "Clean DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Clean DAI",
+    "symbol": "CLEAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

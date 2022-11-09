@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c80e51c94fee8789281cd3378ff13c901453588",
+  "displayName": "BURGER Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "BURGER Finance",
+    "symbol": "BURGER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

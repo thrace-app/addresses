@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ad432ad3ccf0239dc56d3540a1e5e5cbafb37c3",
+  "displayName": "E Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "E Coin",
+    "symbol": "EECO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

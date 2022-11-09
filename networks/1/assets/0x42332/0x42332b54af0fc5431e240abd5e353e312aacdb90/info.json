@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42332b54af0fc5431e240abd5e353e312aacdb90",
+  "displayName": "Viral Crypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "Viral Crypto",
+    "symbol": "VC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50feb3237ddd0bed404f76154ebd898c00acacfe",
+  "displayName": "Pancake2",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pancake2",
+    "symbol": "PAN2",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

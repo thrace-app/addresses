@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81840a59fb0ad52b8841dd671e2c62cec6a4fc8b",
+  "displayName": "Missile",
+  "type": "TOKEN",
+  "token": {
+    "name": "Missile",
+    "symbol": "Projectile",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

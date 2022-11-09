@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x516895bef06442372abc66435f4a9755bbcedfa6",
+  "displayName": "FOTCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "FOTCOIN",
+    "symbol": "FOTCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

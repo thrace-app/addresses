@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36eec4ef3152773ed49be13497becad703d6b06e",
+  "displayName": "Nebula",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nebula",
+    "symbol": "NEBU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

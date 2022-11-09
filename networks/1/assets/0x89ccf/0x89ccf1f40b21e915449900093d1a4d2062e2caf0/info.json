@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89ccf1f40b21e915449900093d1a4d2062e2caf0",
+  "displayName": "Bongo Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bongo Cat",
+    "symbol": "BC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

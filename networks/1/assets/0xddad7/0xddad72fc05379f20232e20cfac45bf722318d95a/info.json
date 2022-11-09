@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xddad72fc05379f20232e20cfac45bf722318d95a",
+  "displayName": "Baby Mongoose Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Mongoose Coin",
+    "symbol": "BABYMONGOOSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

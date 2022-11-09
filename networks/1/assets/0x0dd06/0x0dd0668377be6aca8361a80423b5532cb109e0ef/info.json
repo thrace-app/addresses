@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0dd0668377be6aca8361a80423b5532cb109e0ef",
+  "displayName": "PolkaBeam",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkaBeam",
+    "symbol": "PBM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

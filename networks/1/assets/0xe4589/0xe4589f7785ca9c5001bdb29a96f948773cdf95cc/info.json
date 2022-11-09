@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4589f7785ca9c5001bdb29a96f948773cdf95cc",
+  "displayName": "SushiDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "SushiDoge",
+    "symbol": "SUSHIDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

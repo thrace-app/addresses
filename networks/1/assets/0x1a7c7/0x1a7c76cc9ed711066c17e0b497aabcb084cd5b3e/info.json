@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a7c76cc9ed711066c17e0b497aabcb084cd5b3e",
+  "displayName": "Rockstar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rockstar",
+    "symbol": "ROCK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

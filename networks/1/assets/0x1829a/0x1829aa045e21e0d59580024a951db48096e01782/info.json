@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1829aa045e21e0d59580024a951db48096e01782",
+  "displayName": "FuzeX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FuzeX Token",
+    "symbol": "FXT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

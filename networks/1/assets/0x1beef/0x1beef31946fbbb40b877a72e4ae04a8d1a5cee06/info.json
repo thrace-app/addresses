@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06",
+  "displayName": "Parachute",
+  "type": "TOKEN",
+  "token": {
+    "name": "Parachute",
+    "symbol": "PAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

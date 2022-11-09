@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa6c7776b27082a6c3b326d6fcb42b82d569d7227",
+  "displayName": "SigmaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SigmaCoin",
+    "symbol": "SIGMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

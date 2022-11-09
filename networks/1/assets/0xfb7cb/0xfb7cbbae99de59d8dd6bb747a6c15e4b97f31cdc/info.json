@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb7cbbae99de59d8dd6bb747a6c15e4b97f31cdc",
+  "displayName": "Ktro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ktro Token",
+    "symbol": "Ktro",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

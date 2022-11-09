@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb6e8a864d56e90f9d6202f1868220af8a3b87c31",
+  "displayName": "Nemo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nemo Token",
+    "symbol": "Nemo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

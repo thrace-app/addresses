@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7abc26de31dad72fdd1d504f234d09e36e756f30",
+  "displayName": "LID Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "LID Protocol",
+    "symbol": "LID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

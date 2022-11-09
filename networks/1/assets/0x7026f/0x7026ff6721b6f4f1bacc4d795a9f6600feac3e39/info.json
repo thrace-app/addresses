@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7026ff6721b6f4f1bacc4d795a9f6600feac3e39",
+  "displayName": "SneakerHeads",
+  "type": "TOKEN",
+  "token": {
+    "name": "SneakerHeads",
+    "symbol": "SNKH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

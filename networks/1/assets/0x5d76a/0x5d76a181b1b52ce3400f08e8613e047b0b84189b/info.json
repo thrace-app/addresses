@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d76a181b1b52ce3400f08e8613e047b0b84189b",
+  "displayName": "Pepe Guru",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pepe Guru",
+    "symbol": "GURU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

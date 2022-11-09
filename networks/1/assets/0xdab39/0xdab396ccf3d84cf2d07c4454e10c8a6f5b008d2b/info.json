@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b",
+  "displayName": "Goldfinch",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goldfinch",
+    "symbol": "GFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

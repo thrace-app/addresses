@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1714e8c79c1a5a5663e0c3259f661c93220dd5e",
+  "displayName": "Grim Ripper Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grim Ripper Token",
+    "symbol": "GrimRIP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

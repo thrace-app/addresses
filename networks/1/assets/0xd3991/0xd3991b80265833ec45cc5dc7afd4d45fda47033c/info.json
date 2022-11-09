@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3991b80265833ec45cc5dc7afd4d45fda47033c",
+  "displayName": "Red Pill Blue Pill",
+  "type": "TOKEN",
+  "token": {
+    "name": "Red Pill Blue Pill",
+    "symbol": "RPBP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

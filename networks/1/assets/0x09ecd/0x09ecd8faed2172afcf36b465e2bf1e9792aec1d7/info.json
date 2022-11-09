@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09ecd8faed2172afcf36b465e2bf1e9792aec1d7",
+  "displayName": "Blessed Moonshine",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blessed Moonshine",
+    "symbol": "BLESS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

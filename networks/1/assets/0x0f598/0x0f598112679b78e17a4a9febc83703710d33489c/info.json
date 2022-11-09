@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f598112679b78e17a4a9febc83703710d33489c",
+  "displayName": "Monero Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monero Gold",
+    "symbol": "XMRG",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

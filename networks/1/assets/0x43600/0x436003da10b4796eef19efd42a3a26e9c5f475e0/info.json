@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x436003da10b4796eef19efd42a3a26e9c5f475e0",
+  "displayName": "FIRO",
+  "type": "TOKEN",
+  "token": {
+    "name": "FIRO",
+    "symbol": "Firo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

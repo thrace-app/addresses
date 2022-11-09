@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb6ee9668771a79be7967ee29a63d4184f8097143",
+  "displayName": "CargoX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CargoX Token",
+    "symbol": "CXO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

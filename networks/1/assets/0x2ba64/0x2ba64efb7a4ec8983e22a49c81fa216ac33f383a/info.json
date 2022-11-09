@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ba64efb7a4ec8983e22a49c81fa216ac33f383a",
+  "displayName": "Wrapped BGL",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped BGL",
+    "symbol": "WBGL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79dc068b70a8cf71f7a577c30fd7e502a2e183bd",
+  "displayName": "Raijin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Raijin Token",
+    "symbol": "RAIJIN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

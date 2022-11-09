@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57a2bcba1902696b08b93c87451be71b024d2a4c",
+  "displayName": "Wrapped NXM",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped NXM",
+    "symbol": "wNXM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

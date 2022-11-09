@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8812fdf86245c811a5fb4387850f2ceaeceff086",
+  "displayName": "DaVinci",
+  "type": "TOKEN",
+  "token": {
+    "name": "DaVinci",
+    "symbol": "CODE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

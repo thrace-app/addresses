@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a1c74765ba1238780362fef95e28c14a91c588b",
+  "displayName": "Bilbo Swaggins",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bilbo Swaggins",
+    "symbol": "SWAG",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

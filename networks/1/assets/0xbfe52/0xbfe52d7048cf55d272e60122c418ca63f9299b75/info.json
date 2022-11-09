@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbfe52d7048cf55d272e60122c418ca63f9299b75",
+  "displayName": "v3Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "v3Doge",
+    "symbol": "v3DOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

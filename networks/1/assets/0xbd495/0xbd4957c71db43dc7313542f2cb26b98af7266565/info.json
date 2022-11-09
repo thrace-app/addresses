@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd4957c71db43dc7313542f2cb26b98af7266565",
+  "displayName": "double balance coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "double balance coin",
+    "symbol": "DBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

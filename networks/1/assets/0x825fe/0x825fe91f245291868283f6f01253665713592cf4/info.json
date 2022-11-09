@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x825fe91f245291868283f6f01253665713592cf4",
+  "displayName": "The Movement",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Movement",
+    "symbol": "Movement",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

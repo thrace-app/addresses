@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb52d2497cf9cb263d2bd3a2e980823d28d53c80b",
+  "displayName": "T. Rex",
+  "type": "TOKEN",
+  "token": {
+    "name": "T. Rex",
+    "symbol": "TREX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

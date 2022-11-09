@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf89d14675c227390f9e2329f26a70db65b6336bd",
+  "displayName": "ROMGAMEToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ROMGAMEToken",
+    "symbol": "ROMG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

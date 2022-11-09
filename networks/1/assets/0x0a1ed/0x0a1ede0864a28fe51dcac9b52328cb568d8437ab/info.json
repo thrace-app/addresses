@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a1ede0864a28fe51dcac9b52328cb568d8437ab",
+  "displayName": "AKC Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "AKC Doge",
+    "symbol": "AKC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

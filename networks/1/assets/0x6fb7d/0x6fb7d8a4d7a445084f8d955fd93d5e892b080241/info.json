@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fb7d8a4d7a445084f8d955fd93d5e892b080241",
+  "displayName": "CryptoCastleToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoCastleToken",
+    "symbol": "CASTLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

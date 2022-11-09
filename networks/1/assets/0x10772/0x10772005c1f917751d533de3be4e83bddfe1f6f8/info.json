@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10772005c1f917751d533de3be4e83bddfe1f6f8",
+  "displayName": "Five strokes Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Five strokes Token",
+    "symbol": "Five strokes",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

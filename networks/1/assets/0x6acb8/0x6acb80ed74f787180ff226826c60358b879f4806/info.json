@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6acb80ed74f787180ff226826c60358b879f4806",
+  "displayName": "Cheshire Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cheshire Token",
+    "symbol": "CAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

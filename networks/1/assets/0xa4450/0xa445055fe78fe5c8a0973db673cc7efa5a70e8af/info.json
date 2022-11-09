@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa445055fe78fe5c8a0973db673cc7efa5a70e8af",
+  "displayName": "Hitler Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hitler Coin",
+    "symbol": "HitCoin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

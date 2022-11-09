@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1ad5bffd084795954f222436d89a5a638a82d46",
+  "displayName": "Dollar Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dollar Inu",
+    "symbol": "FIAT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

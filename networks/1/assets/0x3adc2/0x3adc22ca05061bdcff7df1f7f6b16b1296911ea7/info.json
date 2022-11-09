@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3adc22ca05061bdcff7df1f7f6b16b1296911ea7",
+  "displayName": "BitcoinDEFI",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitcoinDEFI",
+    "symbol": "BTCYFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

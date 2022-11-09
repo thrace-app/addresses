@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe51f24b251430a6e615f66e0d3c3a97c442ab38c",
+  "displayName": "ART Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ART Token",
+    "symbol": "ART",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

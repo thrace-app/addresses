@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x779508466c23622ea40b07b32596adb025c84dfc",
+  "displayName": "PurrCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PurrCoin",
+    "symbol": "PURR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

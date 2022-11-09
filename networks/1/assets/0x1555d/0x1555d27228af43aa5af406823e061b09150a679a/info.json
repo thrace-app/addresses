@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1555d27228af43aa5af406823e061b09150a679a",
+  "displayName": "NFTshark",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFTshark",
+    "symbol": "NFTS",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd84745acbe5143e6656d3603d59aca20dd0b0c5",
+  "displayName": "Tokenization",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tokenization",
+    "symbol": "TKZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

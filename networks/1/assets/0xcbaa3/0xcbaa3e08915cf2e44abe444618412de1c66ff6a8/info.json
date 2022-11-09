@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcbaa3e08915cf2e44abe444618412de1c66ff6a8",
+  "displayName": "diem.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "diem.com",
+    "symbol": "DIEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

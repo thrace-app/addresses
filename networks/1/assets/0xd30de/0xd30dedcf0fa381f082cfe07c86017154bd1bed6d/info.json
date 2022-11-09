@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd30dedcf0fa381f082cfe07c86017154bd1bed6d",
+  "displayName": "BuyProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "BuyProtocol",
+    "symbol": "BUY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88d50b466be55222019d71f9e8fae17f5f45fca1",
+  "displayName": "Cryptaur",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryptaur",
+    "symbol": "CPT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

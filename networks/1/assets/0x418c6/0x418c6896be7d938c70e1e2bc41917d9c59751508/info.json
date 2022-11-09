@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x418c6896be7d938c70e1e2bc41917d9c59751508",
+  "displayName": "DDS",
+  "type": "TOKEN",
+  "token": {
+    "name": "DDS",
+    "symbol": "DEFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

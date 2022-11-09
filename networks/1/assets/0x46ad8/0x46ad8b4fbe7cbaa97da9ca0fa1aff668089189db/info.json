@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46ad8b4fbe7cbaa97da9ca0fa1aff668089189db",
+  "displayName": "Bank of Hati",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of Hati",
+    "symbol": "HATI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa9a85d9a4582f8b354b7569b6bc8251348f205ce",
+  "displayName": "LiraCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LiraCoin",
+    "symbol": "LBP",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

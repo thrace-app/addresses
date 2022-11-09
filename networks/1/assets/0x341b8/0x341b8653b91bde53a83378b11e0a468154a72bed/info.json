@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x341b8653b91bde53a83378b11e0a468154a72bed",
+  "displayName": "BuyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BuyToken",
+    "symbol": "BT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

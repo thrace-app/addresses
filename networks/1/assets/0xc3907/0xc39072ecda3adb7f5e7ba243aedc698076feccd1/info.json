@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc39072ecda3adb7f5e7ba243aedc698076feccd1",
+  "displayName": "Binance Fan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Binance Fan Token",
+    "symbol": "$BINANCE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

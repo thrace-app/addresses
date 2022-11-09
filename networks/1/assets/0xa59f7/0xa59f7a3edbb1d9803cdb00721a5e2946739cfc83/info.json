@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa59f7a3edbb1d9803cdb00721a5e2946739cfc83",
+  "displayName": "Sendy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sendy Token",
+    "symbol": "SNDY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

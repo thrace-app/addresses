@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x929ed1e23c231af97bca7760654994973a9d5bc4",
+  "displayName": "El Salvador Liquidity Reserve",
+  "type": "TOKEN",
+  "token": {
+    "name": "El Salvador Liquidity Reserve",
+    "symbol": "ESVD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

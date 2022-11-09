@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5aa98a2232691fc8ef7c9c911e3da9392671286d",
+  "displayName": "Rebase TEST",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rebase TEST",
+    "symbol": "TEST",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

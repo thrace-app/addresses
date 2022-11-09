@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b0119974e6b7c8b42ce36850749c55aacdeaf00",
+  "displayName": "FreeMoney",
+  "type": "TOKEN",
+  "token": {
+    "name": "FreeMoney",
+    "symbol": "FM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

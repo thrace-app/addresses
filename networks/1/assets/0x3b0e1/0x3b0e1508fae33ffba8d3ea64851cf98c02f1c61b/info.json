@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b0e1508fae33ffba8d3ea64851cf98c02f1c61b",
+  "displayName": "KeFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KeFi Token",
+    "symbol": "KFI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

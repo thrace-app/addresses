@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8bece7f1dac4834af77c6bb78b008a04cf861d53",
+  "displayName": "Rari Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rari Governance Token",
+    "symbol": "RGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e42bf60e29fc123f485d42dbe1a95afa33a3496",
+  "displayName": "DSH1 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DSH1 Token",
+    "symbol": "DSH1",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

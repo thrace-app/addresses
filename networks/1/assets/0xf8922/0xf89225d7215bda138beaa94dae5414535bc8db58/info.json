@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf89225d7215bda138beaa94dae5414535bc8db58",
+  "displayName": "LanA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LanA Token",
+    "symbol": "LanA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

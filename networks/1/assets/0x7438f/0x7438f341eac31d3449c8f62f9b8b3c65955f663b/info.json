@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7438f341eac31d3449c8f62f9b8b3c65955f663b",
+  "displayName": "YUSDToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "YUSDToken",
+    "symbol": "yUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

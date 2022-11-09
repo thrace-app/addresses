@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce30610081ad93ad38c6c36250a1eb189d7fefa7",
+  "displayName": "freeworld",
+  "type": "TOKEN",
+  "token": {
+    "name": "freeworld",
+    "symbol": "FWD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

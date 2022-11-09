@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb35ca5e82934bce77385fa4ab13f7116068287c",
+  "displayName": "Reward Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Reward Token",
+    "symbol": "Reward Token | t.me/RewardTokenGroup",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

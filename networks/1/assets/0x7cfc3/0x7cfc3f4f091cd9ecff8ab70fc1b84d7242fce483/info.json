@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7cfc3f4f091cd9ecff8ab70fc1b84d7242fce483",
+  "displayName": "FedReserve",
+  "type": "TOKEN",
+  "token": {
+    "name": "FedReserve",
+    "symbol": "BRRR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

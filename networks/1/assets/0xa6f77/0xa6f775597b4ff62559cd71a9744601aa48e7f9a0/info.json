@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa6f775597b4ff62559cd71a9744601aa48e7f9a0",
+  "displayName": "The Float",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Float",
+    "symbol": "FLOAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x333b2c5170b9425bd5b2dc5cfedef79d9de123c6",
+  "displayName": "Ichigo Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ichigo Inu",
+    "symbol": "IchigoInu",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

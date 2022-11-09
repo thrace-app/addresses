@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ea14bfd930c2421f5a97061b5798801cac65999",
+  "displayName": "Aave Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave Finance",
+    "symbol": "LEND2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

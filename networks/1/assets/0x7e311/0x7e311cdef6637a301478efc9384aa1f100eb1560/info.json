@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e311cdef6637a301478efc9384aa1f100eb1560",
+  "displayName": "RTCash Utility Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RTCash Utility Token",
+    "symbol": "RTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

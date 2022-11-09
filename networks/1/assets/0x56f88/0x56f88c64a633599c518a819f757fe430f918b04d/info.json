@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56f88c64a633599c518a819f757fe430f918b04d",
+  "displayName": "Shiba Aid",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Aid",
+    "symbol": "SHIBAID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

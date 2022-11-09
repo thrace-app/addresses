@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8978777f2c7602e30f6f75b64b226e3d5af338ed",
+  "displayName": "Money of love",
+  "type": "TOKEN",
+  "token": {
+    "name": "Money of love",
+    "symbol": "MOFL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

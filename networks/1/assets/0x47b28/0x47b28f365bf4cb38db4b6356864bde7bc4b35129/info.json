@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47b28f365bf4cb38db4b6356864bde7bc4b35129",
+  "displayName": "FNB Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FNB Token",
+    "symbol": "FNB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

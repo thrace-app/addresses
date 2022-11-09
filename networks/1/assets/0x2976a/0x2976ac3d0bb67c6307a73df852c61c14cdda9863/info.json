@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2976ac3d0bb67c6307a73df852c61c14cdda9863",
+  "displayName": "Bitcoin Neo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Neo",
+    "symbol": "BTCN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

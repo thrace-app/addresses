@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe99d0a815823dcf7f9e439b4992ea56e01c2b571",
+  "displayName": "Bong Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bong Doge",
+    "symbol": "BONG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

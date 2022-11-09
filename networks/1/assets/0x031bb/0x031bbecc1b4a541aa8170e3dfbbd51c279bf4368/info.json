@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x031bbecc1b4a541aa8170e3dfbbd51c279bf4368",
+  "displayName": "Tigerwallet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tigerwallet Token",
+    "symbol": "TWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

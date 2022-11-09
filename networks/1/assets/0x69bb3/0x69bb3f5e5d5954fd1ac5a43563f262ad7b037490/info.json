@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69bb3f5e5d5954fd1ac5a43563f262ad7b037490",
+  "displayName": "GenieSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "GenieSwap",
+    "symbol": "Genie",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

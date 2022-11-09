@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0dd6ddf329ad689eb48d2f4e29bc0ae9300ea7ec",
+  "displayName": "牛币",
+  "type": "TOKEN",
+  "token": {
+    "name": "牛币",
+    "symbol": "NB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

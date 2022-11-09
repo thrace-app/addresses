@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd485aa72c1af771fe3af1c42d8d0c3370ae30f82",
+  "displayName": "StarMatic",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarMatic",
+    "symbol": "StarMatic",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

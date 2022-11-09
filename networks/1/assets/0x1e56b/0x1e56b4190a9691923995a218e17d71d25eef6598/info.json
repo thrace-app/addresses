@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e56b4190a9691923995a218e17d71d25eef6598",
+  "displayName": "CopernicusDaProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "CopernicusDaProtocol",
+    "symbol": "CDP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

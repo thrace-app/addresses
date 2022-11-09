@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc98db8557249777a1566a577dca42ac4b893e44",
+  "displayName": "eLira",
+  "type": "TOKEN",
+  "token": {
+    "name": "eLira",
+    "symbol": "ELIRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

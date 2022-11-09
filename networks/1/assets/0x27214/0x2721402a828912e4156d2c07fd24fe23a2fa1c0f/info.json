@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2721402a828912e4156d2c07fd24fe23a2fa1c0f",
+  "displayName": "Happy Panda",
+  "type": "TOKEN",
+  "token": {
+    "name": "Happy Panda",
+    "symbol": "HPND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

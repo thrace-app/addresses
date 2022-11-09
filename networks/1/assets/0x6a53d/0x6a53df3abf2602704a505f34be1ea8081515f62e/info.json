@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a53df3abf2602704a505f34be1ea8081515f62e",
+  "displayName": "DISTV2 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DISTV2 Token",
+    "symbol": "DIST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

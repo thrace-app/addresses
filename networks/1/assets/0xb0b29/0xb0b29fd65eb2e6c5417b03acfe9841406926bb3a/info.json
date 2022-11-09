@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0b29fd65eb2e6c5417b03acfe9841406926bb3a",
+  "displayName": "Ganja Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ganja Token",
+    "symbol": "GANJA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

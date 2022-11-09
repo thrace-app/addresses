@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2343d8519980365d93135f04fecf574ccc8c4439",
+  "displayName": "CoraHarrisonToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoraHarrisonToken",
+    "symbol": "CHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

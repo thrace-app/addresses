@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88652845a5495983b70aebbf25102361552d5e54",
+  "displayName": "PhotochainToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PhotochainToken",
+    "symbol": "PHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

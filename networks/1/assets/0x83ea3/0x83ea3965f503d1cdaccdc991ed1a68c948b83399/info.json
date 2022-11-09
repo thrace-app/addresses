@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83ea3965f503d1cdaccdc991ed1a68c948b83399",
+  "displayName": "Super Running Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Running Coin",
+    "symbol": "SRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

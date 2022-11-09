@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1b4fd93d2f90c4c930254f651ccc495c76ee8a8",
+  "displayName": "DeFiDEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiDEX",
+    "symbol": "DFD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

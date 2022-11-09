@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8e8012df26dfa05617f1c92574e727a697a2b63",
+  "displayName": "Tom Nook",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tom Nook",
+    "symbol": "Tanukichi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

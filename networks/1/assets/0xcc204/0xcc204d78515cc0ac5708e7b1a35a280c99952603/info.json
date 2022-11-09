@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc204d78515cc0ac5708e7b1a35a280c99952603",
+  "displayName": "SentosaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SentosaCoin",
+    "symbol": "STSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

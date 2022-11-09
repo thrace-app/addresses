@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x519020fa558a52df57854135345c28024a596b68",
+  "displayName": "Ethereum Ontology Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Ontology Token",
+    "symbol": "eONT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13438d58afdc3c64bd72d72ca0386a004c2af638",
+  "displayName": "My Digital Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "My Digital Coin",
+    "symbol": "MDC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

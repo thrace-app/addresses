@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b850094edd673d5d74ad0b6ba528d72735987ec",
+  "displayName": "GrizzlyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GrizzlyToken",
+    "symbol": "GRIZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

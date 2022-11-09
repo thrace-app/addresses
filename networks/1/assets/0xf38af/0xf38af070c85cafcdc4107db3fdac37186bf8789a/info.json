@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf38af070c85cafcdc4107db3fdac37186bf8789a",
+  "displayName": "NFT Network",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT Network",
+    "symbol": "NFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa5ae14e6122176d626d732b7dad38a4f9418883",
+  "displayName": "HONEYTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "HONEYTOKEN",
+    "symbol": "HONT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

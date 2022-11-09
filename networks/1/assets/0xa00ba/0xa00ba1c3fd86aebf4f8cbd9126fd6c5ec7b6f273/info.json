@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa00ba1c3fd86aebf4f8cbd9126fd6c5ec7b6f273",
+  "displayName": "SoldOutToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SoldOutToken",
+    "symbol": "SOLD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

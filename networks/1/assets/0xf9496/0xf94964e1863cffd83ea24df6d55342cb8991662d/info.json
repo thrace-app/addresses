@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf94964e1863cffd83ea24df6d55342cb8991662d",
+  "displayName": "onChainMonsters",
+  "type": "TOKEN",
+  "token": {
+    "name": "onChainMonsters",
+    "symbol": "MONSTERS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

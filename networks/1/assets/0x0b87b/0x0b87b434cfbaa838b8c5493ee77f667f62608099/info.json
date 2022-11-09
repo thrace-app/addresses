@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b87b434cfbaa838b8c5493ee77f667f62608099",
+  "displayName": "Ethereum Bonus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Bonus",
+    "symbol": "ETHB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

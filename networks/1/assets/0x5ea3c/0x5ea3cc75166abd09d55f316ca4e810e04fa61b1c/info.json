@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ea3cc75166abd09d55f316ca4e810e04fa61b1c",
+  "displayName": "Potato",
+  "type": "TOKEN",
+  "token": {
+    "name": "Potato",
+    "symbol": "POT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

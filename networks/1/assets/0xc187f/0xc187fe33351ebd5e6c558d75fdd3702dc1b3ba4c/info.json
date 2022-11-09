@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc187fe33351ebd5e6c558d75fdd3702dc1b3ba4c",
+  "displayName": "STR Reward",
+  "type": "TOKEN",
+  "token": {
+    "name": "STR Reward",
+    "symbol": "STR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

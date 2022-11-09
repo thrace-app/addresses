@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b3350414286a14439b395ba1e88fa91d1702020",
+  "displayName": "Snoop Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Snoop Doge",
+    "symbol": "SNOOP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

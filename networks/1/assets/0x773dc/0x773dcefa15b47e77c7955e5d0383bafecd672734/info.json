@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x773dcefa15b47e77c7955e5d0383bafecd672734",
+  "displayName": "SignalCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SignalCoin",
+    "symbol": "SGC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

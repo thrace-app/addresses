@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba7b2c094c1a4757f9534a37d296a3bed7f544dc",
+  "displayName": "HlandToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "HlandToken",
+    "symbol": "HLAND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

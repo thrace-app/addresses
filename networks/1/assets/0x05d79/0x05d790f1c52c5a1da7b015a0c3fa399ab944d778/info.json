@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05d790f1c52c5a1da7b015a0c3fa399ab944d778",
+  "displayName": "Monster Goose",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monster Goose",
+    "symbol": "mGOOSE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

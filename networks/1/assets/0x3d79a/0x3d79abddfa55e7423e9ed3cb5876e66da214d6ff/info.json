@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d79abddfa55e7423e9ed3cb5876e66da214d6ff",
+  "displayName": "oextoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "oextoken",
+    "symbol": "OEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

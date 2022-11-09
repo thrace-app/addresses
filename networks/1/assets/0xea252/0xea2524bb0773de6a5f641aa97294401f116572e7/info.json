@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea2524bb0773de6a5f641aa97294401f116572e7",
+  "displayName": "XMD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XMD Token",
+    "symbol": "XMD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

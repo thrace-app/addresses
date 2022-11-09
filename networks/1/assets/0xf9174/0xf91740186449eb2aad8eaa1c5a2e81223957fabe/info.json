@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf91740186449eb2aad8eaa1c5a2e81223957fabe",
+  "displayName": "TokenBB.com Test Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TokenBB.com Test Token",
+    "symbol": "TBBTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

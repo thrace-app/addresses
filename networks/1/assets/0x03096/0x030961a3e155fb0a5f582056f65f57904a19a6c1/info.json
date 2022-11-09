@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x030961a3e155fb0a5f582056f65f57904a19a6c1",
+  "displayName": "Impermanent Loss Mitigator",
+  "type": "TOKEN",
+  "token": {
+    "name": "Impermanent Loss Mitigator",
+    "symbol": "SIL",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

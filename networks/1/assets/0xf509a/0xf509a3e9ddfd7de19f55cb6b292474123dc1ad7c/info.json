@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf509a3e9ddfd7de19f55cb6b292474123dc1ad7c",
+  "displayName": "ApachonToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ApachonToken",
+    "symbol": "Apa",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

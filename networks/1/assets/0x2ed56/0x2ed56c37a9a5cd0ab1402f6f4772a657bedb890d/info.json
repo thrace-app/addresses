@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ed56c37a9a5cd0ab1402f6f4772a657bedb890d",
+  "displayName": "Patron inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Patron inu",
+    "symbol": "patron",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

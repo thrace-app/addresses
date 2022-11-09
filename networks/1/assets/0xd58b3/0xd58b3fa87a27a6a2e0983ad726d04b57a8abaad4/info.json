@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd58b3fa87a27a6a2e0983ad726d04b57a8abaad4",
+  "displayName": "BlobChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlobChain",
+    "symbol": "BLOB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

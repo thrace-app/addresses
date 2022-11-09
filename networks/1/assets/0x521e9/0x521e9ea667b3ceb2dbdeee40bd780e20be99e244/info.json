@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x521e9ea667b3ceb2dbdeee40bd780e20be99e244",
+  "displayName": "The Boring Company",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Boring Company",
+    "symbol": "$TBC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

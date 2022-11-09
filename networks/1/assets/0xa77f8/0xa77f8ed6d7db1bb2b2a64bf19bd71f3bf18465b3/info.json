@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa77f8ed6d7db1bb2b2a64bf19bd71f3bf18465b3",
+  "displayName": "USDC Piggy Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDC Piggy Bank",
+    "symbol": "PBANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

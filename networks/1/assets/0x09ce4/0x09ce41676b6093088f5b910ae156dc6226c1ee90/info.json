@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09ce41676b6093088f5b910ae156dc6226c1ee90",
+  "displayName": "Different ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Different ETH",
+    "symbol": "DIFFERENT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

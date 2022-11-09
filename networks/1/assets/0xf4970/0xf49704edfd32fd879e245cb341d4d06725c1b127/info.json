@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf49704edfd32fd879e245cb341d4d06725c1b127",
+  "displayName": "cTAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "cTAI",
+    "symbol": "cTAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

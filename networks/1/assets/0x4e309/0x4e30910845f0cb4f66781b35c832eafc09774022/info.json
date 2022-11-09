@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e30910845f0cb4f66781b35c832eafc09774022",
+  "displayName": "Official Mars Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Official Mars Token",
+    "symbol": "OMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

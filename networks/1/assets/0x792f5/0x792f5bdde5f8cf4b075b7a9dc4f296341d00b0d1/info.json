@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x792f5bdde5f8cf4b075b7a9dc4f296341d00b0d1",
+  "displayName": "Stored Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stored Ethereum",
+    "symbol": "STE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

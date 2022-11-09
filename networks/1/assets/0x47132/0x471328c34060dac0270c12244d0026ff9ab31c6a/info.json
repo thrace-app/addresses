@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x471328c34060dac0270c12244d0026ff9ab31c6a",
+  "displayName": "ZOS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZOS Token",
+    "symbol": "ZOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

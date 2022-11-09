@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6bba85676ae497ebc6787b04c37ced3d5424852c",
+  "displayName": "Pepsi Man",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pepsi Man",
+    "symbol": "PEPSIMAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

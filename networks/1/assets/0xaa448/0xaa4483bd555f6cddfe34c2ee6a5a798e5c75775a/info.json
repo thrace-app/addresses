@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa4483bd555f6cddfe34c2ee6a5a798e5c75775a",
+  "displayName": "Moonriver",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moonriver",
+    "symbol": "MOVR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

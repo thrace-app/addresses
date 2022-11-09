@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbee1ba3664408fb99184c8ab91f79d7d1b68e86",
+  "displayName": "MyPokerCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyPokerCoin",
+    "symbol": "MPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

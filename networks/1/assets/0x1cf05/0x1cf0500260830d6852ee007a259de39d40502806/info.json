@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cf0500260830d6852ee007a259de39d40502806",
+  "displayName": "Frogger Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Frogger Token",
+    "symbol": "FROGGER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

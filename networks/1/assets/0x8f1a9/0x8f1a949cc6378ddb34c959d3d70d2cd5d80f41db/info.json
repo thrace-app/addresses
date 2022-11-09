@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f1a949cc6378ddb34c959d3d70d2cd5d80f41db",
+  "displayName": "Transformed Bitcash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Transformed Bitcash",
+    "symbol": "tBITC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

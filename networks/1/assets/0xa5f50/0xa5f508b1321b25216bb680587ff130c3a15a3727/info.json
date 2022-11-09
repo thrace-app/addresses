@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa5f508b1321b25216bb680587ff130c3a15a3727",
+  "displayName": "SafeDawgs Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeDawgs Token",
+    "symbol": "SAFEDAWGS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

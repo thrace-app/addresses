@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7153ed7cd729b3a99f372c618845bf5775adb619",
+  "displayName": "TDUN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TDUN Token",
+    "symbol": "TDUN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

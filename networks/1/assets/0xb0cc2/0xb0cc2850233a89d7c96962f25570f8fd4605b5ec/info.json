@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0cc2850233a89d7c96962f25570f8fd4605b5ec",
+  "displayName": "Side G Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Side G Token",
+    "symbol": "SGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

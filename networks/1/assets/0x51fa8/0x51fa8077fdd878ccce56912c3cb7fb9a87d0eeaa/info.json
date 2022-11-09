@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51fa8077fdd878ccce56912c3cb7fb9a87d0eeaa",
+  "displayName": "Scumcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Scumcoin",
+    "symbol": "CUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

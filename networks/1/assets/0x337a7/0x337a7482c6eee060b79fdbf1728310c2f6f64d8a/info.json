@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x337a7482c6eee060b79fdbf1728310c2f6f64d8a",
+  "displayName": "DFC",
+  "type": "TOKEN",
+  "token": {
+    "name": "DFC",
+    "symbol": "DFC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

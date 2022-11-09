@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09c07c439333e387e501df5cdba8cef3e26ad455",
+  "displayName": "YSTToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "YSTToken",
+    "symbol": "YST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

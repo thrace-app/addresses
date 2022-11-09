@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x310da5e1e61cd9d6eced092f085941089267e71e",
+  "displayName": "Money Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Money Token",
+    "symbol": "MNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

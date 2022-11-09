@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x673f9488619821ab4f4155fdffe06f6139de518f",
+  "displayName": "BarnBridge junior cDAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "BarnBridge junior cDAI",
+    "symbol": "bb_cDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

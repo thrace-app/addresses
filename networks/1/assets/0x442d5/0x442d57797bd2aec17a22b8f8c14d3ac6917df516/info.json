@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x442d57797bd2aec17a22b8f8c14d3ac6917df516",
+  "displayName": "WrappedTRX",
+  "type": "TOKEN",
+  "token": {
+    "name": "WrappedTRX",
+    "symbol": "WTRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

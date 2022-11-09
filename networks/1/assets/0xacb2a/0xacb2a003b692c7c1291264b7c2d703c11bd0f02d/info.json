@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacb2a003b692c7c1291264b7c2d703c11bd0f02d",
+  "displayName": "Verox Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Verox Token",
+    "symbol": "VRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

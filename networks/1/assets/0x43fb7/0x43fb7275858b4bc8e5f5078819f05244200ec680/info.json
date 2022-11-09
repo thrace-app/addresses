@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43fb7275858b4bc8e5f5078819f05244200ec680",
+  "displayName": "Michael Burry Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Michael Burry Coin",
+    "symbol": "BURRY",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

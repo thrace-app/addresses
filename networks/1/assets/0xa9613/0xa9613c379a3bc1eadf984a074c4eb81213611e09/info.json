@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa9613c379a3bc1eadf984a074c4eb81213611e09",
+  "displayName": "LiquidityStacker",
+  "type": "TOKEN",
+  "token": {
+    "name": "LiquidityStacker",
+    "symbol": "LPStack",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

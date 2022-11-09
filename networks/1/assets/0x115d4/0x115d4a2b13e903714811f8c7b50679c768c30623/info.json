@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x115d4a2b13e903714811f8c7b50679c768c30623",
+  "displayName": "Black Rabbit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Black Rabbit",
+    "symbol": "BLKRabbit",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

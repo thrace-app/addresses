@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x963bd1fb75ea1ac7a8571bd8387aade26bf070a4",
+  "displayName": "MiniPig",
+  "type": "TOKEN",
+  "token": {
+    "name": "MiniPig",
+    "symbol": "MINIPIG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

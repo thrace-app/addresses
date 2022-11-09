@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e4742e7b28db886e8659811ac86c2a1957661cd",
+  "displayName": "Skeleton Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Skeleton Protocol",
+    "symbol": "SP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

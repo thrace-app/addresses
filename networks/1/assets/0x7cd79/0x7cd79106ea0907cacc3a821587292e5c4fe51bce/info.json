@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7cd79106ea0907cacc3a821587292e5c4fe51bce",
+  "displayName": "LongDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "LongDoge",
+    "symbol": "WOW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

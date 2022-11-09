@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x777ad2358ba4a61dd74a1010116a7bc1ffaa81dc",
+  "displayName": "SDC Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "SDC Protocol",
+    "symbol": "SDCP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

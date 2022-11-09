@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x320d31183100280ccdf69366cd56180ea442a3e8",
+  "displayName": "Lightcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lightcoin",
+    "symbol": "LHC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

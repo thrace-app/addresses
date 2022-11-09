@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa52a1d5cb8f0a2d366828902a7c9b9c45f65d07",
+  "displayName": "Mickey Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mickey Money",
+    "symbol": "MKmoon",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

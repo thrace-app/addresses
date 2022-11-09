@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24973739260a00e93d8b2d95ac9346c432b87807",
+  "displayName": "Butcher",
+  "type": "TOKEN",
+  "token": {
+    "name": "Butcher",
+    "symbol": "MEAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

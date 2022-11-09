@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfadc6cac548f796d20363fde3568e98e7a35a6a7",
+  "displayName": "DeFiner",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiner",
+    "symbol": "FIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

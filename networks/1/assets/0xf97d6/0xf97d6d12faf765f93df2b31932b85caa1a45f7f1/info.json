@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf97d6d12faf765f93df2b31932b85caa1a45f7f1",
+  "displayName": "BURNING-BNB",
+  "type": "TOKEN",
+  "token": {
+    "name": "BURNING-BNB",
+    "symbol": "xBNB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6dee5b24dbdcb343cc64a256d6a3af4c77e3b41",
+  "displayName": "Cacio e Pepe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cacio e Pepe",
+    "symbol": "CacioePepe",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

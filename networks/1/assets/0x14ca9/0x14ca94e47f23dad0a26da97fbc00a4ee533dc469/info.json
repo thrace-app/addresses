@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14ca94e47f23dad0a26da97fbc00a4ee533dc469",
+  "displayName": "Doge Stablecoin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Stablecoin Token",
+    "symbol": "USDOGE",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

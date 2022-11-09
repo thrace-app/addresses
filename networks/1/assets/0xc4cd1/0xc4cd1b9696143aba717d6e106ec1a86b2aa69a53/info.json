@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4cd1b9696143aba717d6e106ec1a86b2aa69a53",
+  "displayName": "Roketto Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Roketto Token",
+    "symbol": "ROKETTO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

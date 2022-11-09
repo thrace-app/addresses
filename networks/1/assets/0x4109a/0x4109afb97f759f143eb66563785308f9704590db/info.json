@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4109afb97f759f143eb66563785308f9704590db",
+  "displayName": "NateCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NateCoin",
+    "symbol": "NTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

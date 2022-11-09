@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc4019975681e1e1f2f2c03405d6892e2e436595",
+  "displayName": "Swag Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swag Token",
+    "symbol": "SWAG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

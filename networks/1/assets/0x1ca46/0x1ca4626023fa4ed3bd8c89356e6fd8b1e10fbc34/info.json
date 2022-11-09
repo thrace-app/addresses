@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ca4626023fa4ed3bd8c89356e6fd8b1e10fbc34",
+  "displayName": "BucketBoy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BucketBoy Token",
+    "symbol": "BUCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

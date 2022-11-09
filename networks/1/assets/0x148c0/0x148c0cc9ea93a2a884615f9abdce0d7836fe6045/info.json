@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x148c0cc9ea93a2a884615f9abdce0d7836fe6045",
+  "displayName": "UselessToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "UselessToken",
+    "symbol": "UT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

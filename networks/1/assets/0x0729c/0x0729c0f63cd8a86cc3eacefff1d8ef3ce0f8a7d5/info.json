@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0729c0f63cd8a86cc3eacefff1d8ef3ce0f8a7d5",
+  "displayName": "Blue Aptos ERC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Aptos ERC",
+    "symbol": "BAPTERC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

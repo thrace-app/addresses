@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08803e2f66163b5c19eada170482ad80fe651568",
+  "displayName": "iExpress Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "iExpress Token",
+    "symbol": "IET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

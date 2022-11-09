@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x991f36d2fec39d442ab6ba43f110704414d91b62",
+  "displayName": "FurToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FurToken",
+    "symbol": "FUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

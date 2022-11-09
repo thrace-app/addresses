@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x345bd566198e5a6635b960937557da08d8bf2b92",
+  "displayName": "Dabcatz",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dabcatz",
+    "symbol": "DCATZ",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

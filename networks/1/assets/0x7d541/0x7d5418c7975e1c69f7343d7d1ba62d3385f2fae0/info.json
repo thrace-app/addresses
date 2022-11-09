@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d5418c7975e1c69f7343d7d1ba62d3385f2fae0",
+  "displayName": "pptoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "pptoken",
+    "symbol": "ppt",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

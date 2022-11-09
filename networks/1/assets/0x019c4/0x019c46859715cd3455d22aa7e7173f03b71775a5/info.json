@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x019c46859715cd3455d22aa7e7173f03b71775a5",
+  "displayName": "Cheesy Crust Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cheesy Crust Token",
+    "symbol": "CCT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

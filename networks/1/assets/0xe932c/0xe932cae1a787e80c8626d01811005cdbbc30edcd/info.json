@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe932cae1a787e80c8626d01811005cdbbc30edcd",
+  "displayName": "DefiCoin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DefiCoin Token",
+    "symbol": "DFCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

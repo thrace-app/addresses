@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19f3bb1f0507b27091b81d1271d36f27f374ff4a",
+  "displayName": "Sushi Horse",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sushi Horse",
+    "symbol": "HORSHI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

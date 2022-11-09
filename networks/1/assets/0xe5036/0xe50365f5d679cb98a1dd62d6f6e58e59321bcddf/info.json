@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf",
+  "displayName": "LAToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LAToken",
+    "symbol": "LAToken",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

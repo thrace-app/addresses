@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
+  "displayName": "GoMining Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoMining Token",
+    "symbol": "GMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

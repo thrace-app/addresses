@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x125f9d5daa039bdb79d36baff667e9e0bbcea998",
+  "displayName": "Fire Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fire Token",
+    "symbol": "FIRE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

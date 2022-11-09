@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07ea0aece21097875c53e4a75f373070a5498f53",
+  "displayName": "willscoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "willscoin",
+    "symbol": "COIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

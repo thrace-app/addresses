@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd75be05f48f89bd4d18b731a7c5479c195d1f48c",
+  "displayName": "Jotate Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jotate Token",
+    "symbol": "Jotate",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fd0f839ba94a8b0ef35708b5affdc3bee86b671",
+  "displayName": "Central Bank INU",
+  "type": "TOKEN",
+  "token": {
+    "name": "Central Bank INU",
+    "symbol": "CBI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

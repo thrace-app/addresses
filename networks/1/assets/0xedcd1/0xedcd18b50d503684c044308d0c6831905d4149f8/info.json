@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xedcd18b50d503684c044308d0c6831905d4149f8",
+  "displayName": "SF Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SF Token",
+    "symbol": "SF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

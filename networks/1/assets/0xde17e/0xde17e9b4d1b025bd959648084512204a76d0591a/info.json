@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde17e9b4d1b025bd959648084512204a76d0591a",
+  "displayName": "Bitcoin Fly",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Fly",
+    "symbol": "BTCf",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

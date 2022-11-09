@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabdb9b0a8059013684aac3d8c73f17acc9889e3c",
+  "displayName": "CloverCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CloverCoin",
+    "symbol": "CLVR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

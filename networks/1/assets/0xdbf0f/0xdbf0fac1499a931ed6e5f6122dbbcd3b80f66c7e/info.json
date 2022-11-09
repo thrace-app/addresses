@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbf0fac1499a931ed6e5f6122dbbcd3b80f66c7e",
+  "displayName": "RocketFuel",
+  "type": "TOKEN",
+  "token": {
+    "name": "RocketFuel",
+    "symbol": "RKFL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

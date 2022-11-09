@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4e12b224c316664ebb647f69abc1fb8bb2697c7",
+  "displayName": "Bribe Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bribe Token",
+    "symbol": "BRIBE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

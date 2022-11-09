@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41d89aca5fed32ef893c031499640741545adc56",
+  "displayName": "Shih Tzu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shih Tzu",
+    "symbol": "Tzu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

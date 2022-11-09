@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e38f7b07372fe5de185658bdb0a751ff61c9db0",
+  "displayName": "CopyCatCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CopyCatCoin",
+    "symbol": "CCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

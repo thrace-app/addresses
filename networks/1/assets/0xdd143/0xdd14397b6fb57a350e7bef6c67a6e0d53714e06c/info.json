@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd14397b6fb57a350e7bef6c67a6e0d53714e06c",
+  "displayName": "Misato Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Misato Token",
+    "symbol": "Misato",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

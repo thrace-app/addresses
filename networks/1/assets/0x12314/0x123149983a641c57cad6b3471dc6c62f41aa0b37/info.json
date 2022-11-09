@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x123149983a641c57cad6b3471dc6c62f41aa0b37",
+  "displayName": "Credit Sussin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Credit Sussin",
+    "symbol": "CSFR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

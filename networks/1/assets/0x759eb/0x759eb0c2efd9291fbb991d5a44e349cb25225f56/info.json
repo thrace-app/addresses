@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x759eb0c2efd9291fbb991d5a44e349cb25225f56",
+  "displayName": "FederalReserveCrypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "FederalReserveCrypto",
+    "symbol": "FED",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

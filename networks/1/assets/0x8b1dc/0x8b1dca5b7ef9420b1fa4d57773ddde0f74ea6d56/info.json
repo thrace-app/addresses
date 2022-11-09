@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b1dca5b7ef9420b1fa4d57773ddde0f74ea6d56",
+  "displayName": "Stork Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stork Coin",
+    "symbol": "STORK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

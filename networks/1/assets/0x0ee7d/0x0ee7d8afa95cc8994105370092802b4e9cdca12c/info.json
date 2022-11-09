@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ee7d8afa95cc8994105370092802b4e9cdca12c",
+  "displayName": "Blue Screen of Death",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Screen of Death",
+    "symbol": "BSoD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

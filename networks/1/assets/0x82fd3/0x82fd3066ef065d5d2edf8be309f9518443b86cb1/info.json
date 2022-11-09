@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82fd3066ef065d5d2edf8be309f9518443b86cb1",
+  "displayName": "SocketFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "SocketFinance",
+    "symbol": "SFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

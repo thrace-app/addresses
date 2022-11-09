@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf964f108731da4318e24b5cf38117328b95c7abb",
+  "displayName": "Polygon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polygon",
+    "symbol": "POLYGON",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79445ad0f44380e03c9733e81075aa4c20b91bdc",
+  "displayName": "PicoDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "PicoDoge",
+    "symbol": "PicoDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

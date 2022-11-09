@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4be5aa8f81b859d293a52b8bbff06d57ffc6963a",
+  "displayName": "Super Serum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Serum",
+    "symbol": "SSER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

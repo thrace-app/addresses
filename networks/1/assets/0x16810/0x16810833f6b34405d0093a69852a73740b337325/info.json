@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16810833f6b34405d0093a69852a73740b337325",
+  "displayName": "European Central Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "European Central Bank",
+    "symbol": "ECB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

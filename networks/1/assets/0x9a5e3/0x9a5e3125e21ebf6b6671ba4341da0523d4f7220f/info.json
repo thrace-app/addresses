@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a5e3125e21ebf6b6671ba4341da0523d4f7220f",
+  "displayName": "Kumi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kumi Token",
+    "symbol": "KUMI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

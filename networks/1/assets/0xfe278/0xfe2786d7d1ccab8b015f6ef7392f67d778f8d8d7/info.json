@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe2786d7d1ccab8b015f6ef7392f67d778f8d8d7",
+  "displayName": "Parsiq Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Parsiq Token",
+    "symbol": "PRQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

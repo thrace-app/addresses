@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ff8de35c9faa8b53ef06e41ed82bfbd8ce3242a",
+  "displayName": "Crypto King",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto King",
+    "symbol": "CK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

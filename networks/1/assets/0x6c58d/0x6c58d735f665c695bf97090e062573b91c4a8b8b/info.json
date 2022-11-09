@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c58d735f665c695bf97090e062573b91c4a8b8b",
+  "displayName": "SafeShib",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeShib",
+    "symbol": "SAFESHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

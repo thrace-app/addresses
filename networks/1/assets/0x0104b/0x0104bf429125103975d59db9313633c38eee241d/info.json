@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0104bf429125103975d59db9313633c38eee241d",
+  "displayName": "Green Beam",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Beam",
+    "symbol": "GREENBEAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56612bda57e08a64ab903671a5f172bf1110fcd0",
+  "displayName": "Royalties",
+  "type": "TOKEN",
+  "token": {
+    "name": "Royalties",
+    "symbol": "XRY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

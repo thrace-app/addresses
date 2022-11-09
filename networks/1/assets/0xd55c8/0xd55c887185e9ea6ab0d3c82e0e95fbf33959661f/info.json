@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd55c887185e9ea6ab0d3c82e0e95fbf33959661f",
+  "displayName": "Timeless Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Timeless Coin",
+    "symbol": "TIMELESS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1da3dc3ad2089b46e808c0e5a579ee6b74e28c65",
+  "displayName": "The Moon Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Moon Protocol",
+    "symbol": "THEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

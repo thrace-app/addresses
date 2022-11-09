@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf716c685328d24be2a652236f9e2b6406b4c8dc2",
+  "displayName": "Heavy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Heavy Token",
+    "symbol": "HEAVY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

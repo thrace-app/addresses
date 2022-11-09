@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e6605e28221f96b2eaf0738816f236325bd5b35",
+  "displayName": "McGoblin Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "McGoblin Coin",
+    "symbol": "MGC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

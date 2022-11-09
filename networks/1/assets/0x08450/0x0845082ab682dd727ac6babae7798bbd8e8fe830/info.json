@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0845082ab682dd727ac6babae7798bbd8e8fe830",
+  "displayName": "PulseDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "PulseDoge",
+    "symbol": "$PLSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

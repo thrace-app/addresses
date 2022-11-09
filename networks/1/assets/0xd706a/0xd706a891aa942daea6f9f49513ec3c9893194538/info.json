@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd706a891aa942daea6f9f49513ec3c9893194538",
+  "displayName": "hitachi token",
+  "type": "TOKEN",
+  "token": {
+    "name": "hitachi token",
+    "symbol": "hitachi",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

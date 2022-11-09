@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12b45bcad925edea89f9dd3162911b6784257a8e",
+  "displayName": "Viagra Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Viagra Token",
+    "symbol": "$VIAGRA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

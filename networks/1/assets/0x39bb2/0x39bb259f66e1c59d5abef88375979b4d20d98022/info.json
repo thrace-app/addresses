@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39bb259f66e1c59d5abef88375979b4d20d98022",
+  "displayName": "Wax Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wax Token",
+    "symbol": "WAX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

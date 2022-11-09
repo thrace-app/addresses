@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92171d1fee989bdfb2f5764ee4c84f9506619e17",
+  "displayName": "1TUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "1TUSD",
+    "symbol": "1TUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

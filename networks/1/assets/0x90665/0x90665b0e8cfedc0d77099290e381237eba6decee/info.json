@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90665b0e8cfedc0d77099290e381237eba6decee",
+  "displayName": "DeFi Kingdom token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi Kingdom token",
+    "symbol": "DFK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

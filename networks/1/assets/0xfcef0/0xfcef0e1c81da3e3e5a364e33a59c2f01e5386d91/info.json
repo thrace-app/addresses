@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfcef0e1c81da3e3e5a364e33a59c2f01e5386d91",
+  "displayName": "FoxOracle",
+  "type": "TOKEN",
+  "token": {
+    "name": "FoxOracle",
+    "symbol": "fxOracle",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

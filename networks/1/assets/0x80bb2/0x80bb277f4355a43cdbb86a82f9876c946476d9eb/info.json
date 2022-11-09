@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80bb277f4355a43cdbb86a82f9876c946476d9eb",
+  "displayName": "DogDefiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogDefiCoin",
+    "symbol": "DOGDEFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

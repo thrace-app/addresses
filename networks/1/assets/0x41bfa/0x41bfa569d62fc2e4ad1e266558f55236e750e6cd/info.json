@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41bfa569d62fc2e4ad1e266558f55236e750e6cd",
+  "displayName": "Safe Tornado",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Tornado",
+    "symbol": "STD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

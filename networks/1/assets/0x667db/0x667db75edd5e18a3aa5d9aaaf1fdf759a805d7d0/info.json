@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x667db75edd5e18a3aa5d9aaaf1fdf759a805d7d0",
+  "displayName": "BillionDollarDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "BillionDollarDoge",
+    "symbol": "$BDD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

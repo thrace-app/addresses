@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3bed0991eafe3361ae2c2420eac8dba0578d5279",
+  "displayName": "Wrapped Revelation Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Revelation Token",
+    "symbol": "WREVX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

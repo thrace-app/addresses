@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ea324283ee1e03c8bd218111aebe83e8b1ff1ae",
+  "displayName": "G8mo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "G8mo Token",
+    "symbol": "G8mo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

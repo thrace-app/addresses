@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d358d1a40d83b4da12daf686dc0dee4d4f18c46",
+  "displayName": "The Last McAfee Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Last McAfee Token",
+    "symbol": "MCAFEE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

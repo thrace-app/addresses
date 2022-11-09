@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb04bd11f553c57005e938260f159b9e9a13e8bd",
+  "displayName": "M6x Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "M6x Token",
+    "symbol": "M6x",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

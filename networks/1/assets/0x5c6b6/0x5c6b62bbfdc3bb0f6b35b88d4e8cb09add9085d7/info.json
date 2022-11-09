@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c6b62bbfdc3bb0f6b35b88d4e8cb09add9085d7",
+  "displayName": "DefiSummer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DefiSummer Token",
+    "symbol": "DFS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

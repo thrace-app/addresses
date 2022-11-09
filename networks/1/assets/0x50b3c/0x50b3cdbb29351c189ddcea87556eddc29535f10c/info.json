@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50b3cdbb29351c189ddcea87556eddc29535f10c",
+  "displayName": "Red Wave",
+  "type": "TOKEN",
+  "token": {
+    "name": "Red Wave",
+    "symbol": "REDWAVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

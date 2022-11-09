@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4589d894150bdfe5d89c6c6c19a371b5ce6f1f37",
+  "displayName": "Mishu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mishu Token",
+    "symbol": "MISHU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

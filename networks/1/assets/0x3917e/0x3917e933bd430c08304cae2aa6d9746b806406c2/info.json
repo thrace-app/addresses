@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3917e933bd430c08304cae2aa6d9746b806406c2",
+  "displayName": "Bitcoin EVO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin EVO",
+    "symbol": "BTV",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

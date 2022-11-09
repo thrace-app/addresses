@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b1a10732213b402c45d441ffead40b730da7312",
+  "displayName": "Yearn Finance DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn Finance DAO Token",
+    "symbol": "YF-DAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

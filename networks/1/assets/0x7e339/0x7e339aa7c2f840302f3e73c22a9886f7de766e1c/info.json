@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e339aa7c2f840302f3e73c22a9886f7de766e1c",
+  "displayName": "Mitscoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mitscoin",
+    "symbol": "MTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd8a7073cacd1ca51a8a1403225c7342b369076f",
+  "displayName": "HaroldCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "HaroldCoin",
+    "symbol": "HAROLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1edc2694b7271d8aab0caa0ff1db93653b2159d9",
+  "displayName": "Proof Of Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof Of Burn",
+    "symbol": "POB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

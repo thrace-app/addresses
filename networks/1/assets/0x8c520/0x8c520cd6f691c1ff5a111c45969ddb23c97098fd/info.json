@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c520cd6f691c1ff5a111c45969ddb23c97098fd",
+  "displayName": "Burning Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burning Token",
+    "symbol": "BURNING",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

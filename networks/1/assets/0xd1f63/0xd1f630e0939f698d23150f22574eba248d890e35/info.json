@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1f630e0939f698d23150f22574eba248d890e35",
+  "displayName": "UnaTest",
+  "type": "TOKEN",
+  "token": {
+    "name": "UnaTest",
+    "symbol": "UTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

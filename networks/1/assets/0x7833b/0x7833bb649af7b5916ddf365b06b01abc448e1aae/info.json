@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7833bb649af7b5916ddf365b06b01abc448e1aae",
+  "displayName": "Dot Based (xDOT)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dot Based (xDOT)",
+    "symbol": "XDOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

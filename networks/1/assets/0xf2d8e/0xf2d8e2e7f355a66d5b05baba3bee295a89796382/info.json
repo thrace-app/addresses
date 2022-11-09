@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2d8e2e7f355a66d5b05baba3bee295a89796382",
+  "displayName": "US Crypto Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "US Crypto Bank",
+    "symbol": "BANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

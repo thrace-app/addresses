@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x040c142a172769b872d685f1e896f286b63bcc41",
+  "displayName": "Suzume Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Suzume Burn",
+    "symbol": "SuzuBurn",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

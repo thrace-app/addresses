@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x509a7ade58d463b105fd46099a955e6a56ed0396",
+  "displayName": "FTXProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "FTXProtocol",
+    "symbol": "FTXP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f5743bc597d3159a8fcba25185db9bff1fa3c1b",
+  "displayName": "HexEther",
+  "type": "TOKEN",
+  "token": {
+    "name": "HexEther",
+    "symbol": "HETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

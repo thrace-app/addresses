@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe837503418272cd586bc940cf566f488770edfa8",
+  "displayName": "Litecoin Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Litecoin Swap",
+    "symbol": "LCS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

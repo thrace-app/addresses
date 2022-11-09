@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb634babe1698c8e102416b0f7fe6a68053dccb3b",
+  "displayName": "Central Bank of Memes",
+  "type": "TOKEN",
+  "token": {
+    "name": "Central Bank of Memes",
+    "symbol": "PRINT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

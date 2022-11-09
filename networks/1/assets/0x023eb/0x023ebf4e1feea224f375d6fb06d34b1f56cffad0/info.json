@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x023ebf4e1feea224f375d6fb06d34b1f56cffad0",
+  "displayName": "e-ETHREAL token",
+  "type": "TOKEN",
+  "token": {
+    "name": "e-ETHREAL token",
+    "symbol": "e-HR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

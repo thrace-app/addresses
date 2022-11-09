@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48f2640b6180d54954394363583e2d92ccb3d80f",
+  "displayName": "BrightToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BrightToken",
+    "symbol": "BrightToken",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

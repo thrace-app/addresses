@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c1fb59c3a01fcc6d830c17b9b62320947aafc40",
+  "displayName": "Mushroom Keeper",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mushroom Keeper",
+    "symbol": "MUSH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x171d750d42d661b62c277a6b486adb82348c3eca",
+  "displayName": "Omnitude Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Omnitude Token",
+    "symbol": "ECOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

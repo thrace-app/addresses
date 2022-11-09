@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x031b5c47f7610b4c4471241653d06423111553b5",
+  "displayName": "ZK-EVMs",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZK-EVMs",
+    "symbol": "ZK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

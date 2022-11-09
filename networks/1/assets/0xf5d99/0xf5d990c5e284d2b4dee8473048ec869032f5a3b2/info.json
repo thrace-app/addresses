@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5d990c5e284d2b4dee8473048ec869032f5a3b2",
+  "displayName": "Fox vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fox vault",
+    "symbol": "FOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

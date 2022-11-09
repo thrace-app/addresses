@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb104677a88ebf06c51be5572a6c012ff3f93da57",
+  "displayName": "Cyber Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cyber Token",
+    "symbol": "CYBER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

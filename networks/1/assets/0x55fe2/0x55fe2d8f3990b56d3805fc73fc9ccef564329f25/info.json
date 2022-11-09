@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55fe2d8f3990b56d3805fc73fc9ccef564329f25",
+  "displayName": "Safe Charge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Charge",
+    "symbol": "SFCHG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

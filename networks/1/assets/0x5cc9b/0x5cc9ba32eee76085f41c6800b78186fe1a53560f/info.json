@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cc9ba32eee76085f41c6800b78186fe1a53560f",
+  "displayName": "PRan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PRan Token",
+    "symbol": "PRan",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

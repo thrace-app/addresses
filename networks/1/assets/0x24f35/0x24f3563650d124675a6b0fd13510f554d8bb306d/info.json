@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24f3563650d124675a6b0fd13510f554d8bb306d",
+  "displayName": "cURL",
+  "type": "TOKEN",
+  "token": {
+    "name": "cURL",
+    "symbol": "$cURL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

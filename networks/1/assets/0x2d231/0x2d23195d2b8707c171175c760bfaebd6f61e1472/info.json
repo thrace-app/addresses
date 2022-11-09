@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2d23195d2b8707c171175c760bfaebd6f61e1472",
+  "displayName": "VCA",
+  "type": "TOKEN",
+  "token": {
+    "name": "VCA",
+    "symbol": "$VCA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

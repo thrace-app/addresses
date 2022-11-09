@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x339529889dab41cb6f175e2eebcd688c73a4d57e",
+  "displayName": "Clash Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Clash Token",
+    "symbol": "CLASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

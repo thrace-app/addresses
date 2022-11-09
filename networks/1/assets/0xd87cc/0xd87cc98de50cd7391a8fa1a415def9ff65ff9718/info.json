@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd87cc98de50cd7391a8fa1a415def9ff65ff9718",
+  "displayName": "Ebaycoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ebaycoin",
+    "symbol": "EBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf02bde1df182bef9e419600394ec76d7bbeeb0d",
+  "displayName": "Zethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zethereum",
+    "symbol": "$ZEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a9e4ee86f1c01b1529d05099f8d2906b3769211",
+  "displayName": "GoldMint",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoldMint",
+    "symbol": "GLDM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

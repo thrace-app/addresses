@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79bb7502a8cf1057acb644d679a39cd560910a41",
+  "displayName": "Mean Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mean Doge",
+    "symbol": "MDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

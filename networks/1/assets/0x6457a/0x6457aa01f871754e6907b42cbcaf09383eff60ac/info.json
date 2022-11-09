@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6457aa01f871754e6907b42cbcaf09383eff60ac",
+  "displayName": "Vampire",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vampire",
+    "symbol": "Vampires",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

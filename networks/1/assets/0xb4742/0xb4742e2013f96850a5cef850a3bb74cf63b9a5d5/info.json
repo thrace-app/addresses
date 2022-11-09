@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4742e2013f96850a5cef850a3bb74cf63b9a5d5",
+  "displayName": "EANTO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EANTO Token",
+    "symbol": "EAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6bd58cf7e86a5eac4f504cec016c7176fbaaa508",
+  "displayName": "Extra Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Extra Cash",
+    "symbol": "EXTRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

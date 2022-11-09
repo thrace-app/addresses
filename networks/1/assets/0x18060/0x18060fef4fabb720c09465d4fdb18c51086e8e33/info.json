@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18060fef4fabb720c09465d4fdb18c51086e8e33",
+  "displayName": "In memory of Satoshi Nakamoto",
+  "type": "TOKEN",
+  "token": {
+    "name": "In memory of Satoshi Nakamoto",
+    "symbol": "BTCsn",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

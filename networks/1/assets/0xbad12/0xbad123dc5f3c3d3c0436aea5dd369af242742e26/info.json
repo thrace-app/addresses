@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbad123dc5f3c3d3c0436aea5dd369af242742e26",
+  "displayName": "Eva Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eva Inu",
+    "symbol": "EVA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

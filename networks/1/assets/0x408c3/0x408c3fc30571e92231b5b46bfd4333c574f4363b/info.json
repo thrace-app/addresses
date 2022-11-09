@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x408c3fc30571e92231b5b46bfd4333c574f4363b",
+  "displayName": "Covid-19",
+  "type": "TOKEN",
+  "token": {
+    "name": "Covid-19",
+    "symbol": "cov",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

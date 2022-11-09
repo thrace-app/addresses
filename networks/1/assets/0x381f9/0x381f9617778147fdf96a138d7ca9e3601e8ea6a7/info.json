@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x381f9617778147fdf96a138d7ca9e3601e8ea6a7",
+  "displayName": "talky Mechanism",
+  "type": "TOKEN",
+  "token": {
+    "name": "talky Mechanism",
+    "symbol": "talkyM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

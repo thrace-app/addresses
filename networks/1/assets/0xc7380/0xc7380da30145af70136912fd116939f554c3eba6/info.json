@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7380da30145af70136912fd116939f554c3eba6",
+  "displayName": "EthereumMercury",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumMercury",
+    "symbol": "ETHMY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

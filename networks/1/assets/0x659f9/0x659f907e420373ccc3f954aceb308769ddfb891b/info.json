@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x659f907e420373ccc3f954aceb308769ddfb891b",
+  "displayName": "Hamburg Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hamburg Token",
+    "symbol": "HAMBU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

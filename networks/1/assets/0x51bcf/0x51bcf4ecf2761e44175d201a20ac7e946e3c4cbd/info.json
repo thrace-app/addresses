@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51bcf4ecf2761e44175d201a20ac7e946e3c4cbd",
+  "displayName": "Bitcoin Max",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Max",
+    "symbol": "BMAX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

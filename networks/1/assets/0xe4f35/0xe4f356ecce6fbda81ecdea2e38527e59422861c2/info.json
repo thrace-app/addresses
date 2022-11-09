@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4f356ecce6fbda81ecdea2e38527e59422861c2",
+  "displayName": "BitStash",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitStash",
+    "symbol": "STASH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

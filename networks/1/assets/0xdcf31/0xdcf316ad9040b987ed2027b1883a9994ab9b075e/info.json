@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdcf316ad9040b987ed2027b1883a9994ab9b075e",
+  "displayName": "The Dice",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Dice",
+    "symbol": "🎲",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

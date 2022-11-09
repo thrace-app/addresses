@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f0d4887a7aee20d103f7aa5d648971f07176310",
+  "displayName": "OMcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "OMcoin",
+    "symbol": "OM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

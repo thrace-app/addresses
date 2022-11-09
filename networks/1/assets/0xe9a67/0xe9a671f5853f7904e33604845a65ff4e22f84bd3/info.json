@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe9a671f5853f7904e33604845a65ff4e22f84bd3",
+  "displayName": "SoujaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SoujaCoin",
+    "symbol": "SJC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

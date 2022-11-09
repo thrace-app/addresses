@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f6236e400d62d9d7bd7afb0d675a32af46b9066",
+  "displayName": "iEtheum",
+  "type": "TOKEN",
+  "token": {
+    "name": "iEtheum",
+    "symbol": "iEth",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

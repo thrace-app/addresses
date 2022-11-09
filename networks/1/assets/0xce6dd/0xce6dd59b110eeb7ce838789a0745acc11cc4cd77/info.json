@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce6dd59b110eeb7ce838789a0745acc11cc4cd77",
+  "displayName": "pairsDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "pairsDAO",
+    "symbol": "PAIRS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

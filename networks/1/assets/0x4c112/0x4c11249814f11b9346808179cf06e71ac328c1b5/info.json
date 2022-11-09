@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c11249814f11b9346808179cf06e71ac328c1b5",
+  "displayName": "Oraichain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Oraichain Token",
+    "symbol": "ORAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

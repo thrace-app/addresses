@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f0a2fb10d6ba34eb1573a3c86dfe8053ae8c4df",
+  "displayName": "3DS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "3DS Token",
+    "symbol": "3DS",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

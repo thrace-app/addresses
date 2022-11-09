@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d79b5c12a70ac0bf78b6ca43edda06c0b73901f",
+  "displayName": "Safehokk Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safehokk Token",
+    "symbol": "SAFEHOKK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

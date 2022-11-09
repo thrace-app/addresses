@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11d89b2ca6626084099eb67040c9bb41c9233bf7",
+  "displayName": "Looki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Looki Token",
+    "symbol": "LOOKI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

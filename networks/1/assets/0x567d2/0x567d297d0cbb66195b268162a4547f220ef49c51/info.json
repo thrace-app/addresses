@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x567d297d0cbb66195b268162a4547f220ef49c51",
+  "displayName": "VaccinaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "VaccinaCoin",
+    "symbol": "SERUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

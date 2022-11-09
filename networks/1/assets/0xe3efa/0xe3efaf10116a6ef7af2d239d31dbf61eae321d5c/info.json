@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3efaf10116a6ef7af2d239d31dbf61eae321d5c",
+  "displayName": "tweek.network token",
+  "type": "TOKEN",
+  "token": {
+    "name": "tweek.network token",
+    "symbol": "TWEEK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

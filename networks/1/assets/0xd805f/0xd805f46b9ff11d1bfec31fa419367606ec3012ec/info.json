@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd805f46b9ff11d1bfec31fa419367606ec3012ec",
+  "displayName": "Medicus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Medicus",
+    "symbol": "DOCTOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

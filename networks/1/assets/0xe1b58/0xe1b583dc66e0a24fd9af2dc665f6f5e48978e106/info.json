@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106",
+  "displayName": "MEE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEE Token",
+    "symbol": "MEE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

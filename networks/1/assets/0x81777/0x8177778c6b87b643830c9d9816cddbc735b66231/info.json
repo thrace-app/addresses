@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8177778c6b87b643830c9d9816cddbc735b66231",
+  "displayName": "Friday Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Friday Token",
+    "symbol": "Friday",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

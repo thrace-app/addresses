@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92446b00281dc85185053fe4d7e5062f65fe820e",
+  "displayName": "PigToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PigToken",
+    "symbol": "PIG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

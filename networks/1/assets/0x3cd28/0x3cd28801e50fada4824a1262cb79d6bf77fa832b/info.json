@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3cd28801e50fada4824a1262cb79d6bf77fa832b",
+  "displayName": "Buy & Earn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Buy & Earn",
+    "symbol": "B&R",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

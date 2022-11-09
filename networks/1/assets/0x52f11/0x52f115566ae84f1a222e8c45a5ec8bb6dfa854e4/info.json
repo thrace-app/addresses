@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52f115566ae84f1a222e8c45a5ec8bb6dfa854e4",
+  "displayName": "Mini Baby ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini Baby ETH",
+    "symbol": "miniBABY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

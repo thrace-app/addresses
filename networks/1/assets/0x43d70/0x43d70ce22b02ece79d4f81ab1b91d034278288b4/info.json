@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43d70ce22b02ece79d4f81ab1b91d034278288b4",
+  "displayName": "KindCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KindCoin",
+    "symbol": "KDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

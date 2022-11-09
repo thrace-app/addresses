@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x091a45328da303ef1e68402460453cd88916680e",
+  "displayName": "Doggo Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doggo Finance",
+    "symbol": "DOGGO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7053b6e0430d0b475ca90df1321249be80b6ca45",
+  "displayName": "NovaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NovaToken",
+    "symbol": "NOVA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

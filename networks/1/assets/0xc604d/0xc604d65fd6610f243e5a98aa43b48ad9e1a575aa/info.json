@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc604d65fd6610f243e5a98aa43b48ad9e1a575aa",
+  "displayName": "Konkey Dong",
+  "type": "TOKEN",
+  "token": {
+    "name": "Konkey Dong",
+    "symbol": "DONG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

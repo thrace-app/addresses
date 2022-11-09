@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc5edf6410e44b0a6a5a00b302ee83a016c0c048d",
+  "displayName": "Moonsafe Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moonsafe Token",
+    "symbol": "Moonsafe",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

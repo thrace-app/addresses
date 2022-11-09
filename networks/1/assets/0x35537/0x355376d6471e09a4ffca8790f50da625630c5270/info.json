@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x355376d6471e09a4ffca8790f50da625630c5270",
+  "displayName": "libartysharetoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "libartysharetoken",
+    "symbol": "LST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

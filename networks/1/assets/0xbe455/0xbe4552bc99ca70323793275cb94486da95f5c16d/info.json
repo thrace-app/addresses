@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe4552bc99ca70323793275cb94486da95f5c16d",
+  "displayName": "Wrapped TRON Governance Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped TRON Governance Protocol",
+    "symbol": "ETRON",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

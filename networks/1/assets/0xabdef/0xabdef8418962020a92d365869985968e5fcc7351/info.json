@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabdef8418962020a92d365869985968e5fcc7351",
+  "displayName": "Wingz",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wingz",
+    "symbol": "WINGZ",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

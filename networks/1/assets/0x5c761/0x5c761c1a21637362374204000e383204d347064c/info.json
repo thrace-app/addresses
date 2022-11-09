@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c761c1a21637362374204000e383204d347064c",
+  "displayName": "SRSC Chiz Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SRSC Chiz Token",
+    "symbol": "CHIZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

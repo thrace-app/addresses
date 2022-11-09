@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x511232281bcd64d15b08c7f78825c45968cadbbf",
+  "displayName": "Tritecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tritecoin",
+    "symbol": "TRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

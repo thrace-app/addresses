@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b1683b742976a46603453a918773e46e666b12c",
+  "displayName": "myBcert",
+  "type": "TOKEN",
+  "token": {
+    "name": "myBcert",
+    "symbol": "MBC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

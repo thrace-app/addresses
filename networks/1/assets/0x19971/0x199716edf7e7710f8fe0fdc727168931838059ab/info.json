@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x199716edf7e7710f8fe0fdc727168931838059ab",
+  "displayName": "Doge Pox",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Pox",
+    "symbol": "DOGEPOX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

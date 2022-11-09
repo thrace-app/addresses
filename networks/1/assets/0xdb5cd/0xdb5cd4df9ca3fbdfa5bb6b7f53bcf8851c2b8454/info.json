@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb5cd4df9ca3fbdfa5bb6b7f53bcf8851c2b8454",
+  "displayName": "DoesNothingToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DoesNothingToken",
+    "symbol": "DNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

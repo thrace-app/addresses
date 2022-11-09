@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42eb0d497c84af18c8367e6980a1eb715cb1ec3d",
+  "displayName": "Metric Payments",
+  "type": "TOKEN",
+  "token": {
+    "name": "Metric Payments",
+    "symbol": "MET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

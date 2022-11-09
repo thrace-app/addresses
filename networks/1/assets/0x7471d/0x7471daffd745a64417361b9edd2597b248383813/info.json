@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7471daffd745a64417361b9edd2597b248383813",
+  "displayName": "New World Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "New World Token",
+    "symbol": "NWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

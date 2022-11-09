@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3962aa2e9f724f8fc8abfa18fc20b57ddd5e03f",
+  "displayName": "CopeDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "CopeDoge",
+    "symbol": "$COPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x715bd1cf10f51940bef3f5cd17216863d50eeba2",
+  "displayName": "RubicCube",
+  "type": "TOKEN",
+  "token": {
+    "name": "RubicCube",
+    "symbol": "CUBE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

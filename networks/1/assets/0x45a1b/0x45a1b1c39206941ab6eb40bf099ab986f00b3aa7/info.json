@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45a1b1c39206941ab6eb40bf099ab986f00b3aa7",
+  "displayName": "Scott Alexander",
+  "type": "TOKEN",
+  "token": {
+    "name": "Scott Alexander",
+    "symbol": "SA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

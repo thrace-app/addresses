@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x654a9d61afc9475368b4fbab0479e43bf5b0438d",
+  "displayName": "test Anonarchy",
+  "type": "TOKEN",
+  "token": {
+    "name": "test Anonarchy",
+    "symbol": "tAnon2.0",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

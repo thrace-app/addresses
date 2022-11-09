@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3da77bb5f19a25c8fd19a0cf0c633b30870f5652",
+  "displayName": "RomaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RomaCoin",
+    "symbol": "ROMA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

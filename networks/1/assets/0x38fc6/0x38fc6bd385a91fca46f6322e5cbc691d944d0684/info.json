@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38fc6bd385a91fca46f6322e5cbc691d944d0684",
+  "displayName": "Stake Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stake Ether",
+    "symbol": "Stake",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

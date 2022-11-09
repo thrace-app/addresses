@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8472ac55876a491f787e8366e36771a0e8d1ed71",
+  "displayName": "Chimom Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chimom Token",
+    "symbol": "$CHIMOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

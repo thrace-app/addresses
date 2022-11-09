@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1abcce8e5247b9e75db770170e876e9f819f6f10",
+  "displayName": "The Doge Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Doge Protocol",
+    "symbol": "TDP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

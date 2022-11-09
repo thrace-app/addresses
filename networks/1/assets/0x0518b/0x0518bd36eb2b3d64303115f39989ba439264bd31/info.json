@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0518bd36eb2b3d64303115f39989ba439264bd31",
+  "displayName": "Walnut Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Walnut Finance Token",
+    "symbol": "WTF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

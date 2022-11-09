@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b",
+  "displayName": "Synth sDEFI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth sDEFI",
+    "symbol": "sDEFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

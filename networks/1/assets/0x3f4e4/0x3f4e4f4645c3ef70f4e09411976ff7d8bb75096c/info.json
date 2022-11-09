@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f4e4f4645c3ef70f4e09411976ff7d8bb75096c",
+  "displayName": "Eth Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eth Inu",
+    "symbol": "ETHINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

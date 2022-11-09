@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc27df48c23ad414431907ed5bfa18b9dc337b139",
+  "displayName": "Mamba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mamba",
+    "symbol": "MAMBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

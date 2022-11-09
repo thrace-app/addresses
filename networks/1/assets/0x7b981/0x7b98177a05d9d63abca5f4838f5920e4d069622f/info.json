@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b98177a05d9d63abca5f4838f5920e4d069622f",
+  "displayName": "Shylock Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shylock Coin",
+    "symbol": "SLKC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b600583a1dbea66f5c0c94705bc0a6a5976fa23",
+  "displayName": "HogeShiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "HogeShiba",
+    "symbol": "SHIBH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

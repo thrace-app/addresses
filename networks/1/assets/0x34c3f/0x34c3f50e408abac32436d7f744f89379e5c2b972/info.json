@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34c3f50e408abac32436d7f744f89379e5c2b972",
+  "displayName": "CocktailToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CocktailToken",
+    "symbol": "COCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

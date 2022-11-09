@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5a0f66767c1e447b36aed7000238120780827ac",
+  "displayName": "PoMChain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PoMChain Token",
+    "symbol": "PoMChain",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

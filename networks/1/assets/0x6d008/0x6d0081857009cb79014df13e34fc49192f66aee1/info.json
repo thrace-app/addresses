@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d0081857009cb79014df13e34fc49192f66aee1",
+  "displayName": "Celo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Celo",
+    "symbol": "CELO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

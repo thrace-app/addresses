@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6cf4f534b4aedfe7d06243a5ff69e028014f85b",
+  "displayName": "Rainbow Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rainbow Coin",
+    "symbol": "RANC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

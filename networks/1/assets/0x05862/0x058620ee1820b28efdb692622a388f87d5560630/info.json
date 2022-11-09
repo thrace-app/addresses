@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x058620ee1820b28efdb692622a388f87d5560630",
+  "displayName": "BlackstoneCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlackstoneCoin",
+    "symbol": "BKTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

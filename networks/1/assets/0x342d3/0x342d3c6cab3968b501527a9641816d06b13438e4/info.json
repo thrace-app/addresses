@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x342d3c6cab3968b501527a9641816d06b13438e4",
+  "displayName": "Reese Puffs",
+  "type": "TOKEN",
+  "token": {
+    "name": "Reese Puffs",
+    "symbol": "PUFFS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88a23c650e8c72960596acad5901cae56ce6ef35",
+  "displayName": "BRKToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BRKToken",
+    "symbol": "BRK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1beea34e5f7a32dd65c74d4d63fb5d1cf869d59e",
+  "displayName": "Yummy Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yummy Shiba",
+    "symbol": "YUMSHIBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

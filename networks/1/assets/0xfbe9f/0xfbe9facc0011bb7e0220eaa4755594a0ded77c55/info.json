@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfbe9facc0011bb7e0220eaa4755594a0ded77c55",
+  "displayName": "Purge Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Purge Token",
+    "symbol": "PRG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

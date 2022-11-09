@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf943760b7668bd81d90679e94033381fa4e6111",
+  "displayName": "CloudToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CloudToken",
+    "symbol": "FF7",
+    "decimals": 11,
+    "type": "ERC20"
+  }
+}

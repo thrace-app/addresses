@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x095142f5a3ac51465b5add20c1e528b604afeab2",
+  "displayName": "Toking Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Toking Inu",
+    "symbol": "TOKING",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

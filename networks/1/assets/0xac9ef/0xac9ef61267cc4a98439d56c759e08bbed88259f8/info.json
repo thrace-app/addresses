@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac9ef61267cc4a98439d56c759e08bbed88259f8",
+  "displayName": "Rocket Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rocket Cat",
+    "symbol": "RKTCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

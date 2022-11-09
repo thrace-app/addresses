@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f044eaad59c28eee8e6393a4c8bcee3200a474b",
+  "displayName": "Eagle Platform Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eagle Platform Token",
+    "symbol": "EPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

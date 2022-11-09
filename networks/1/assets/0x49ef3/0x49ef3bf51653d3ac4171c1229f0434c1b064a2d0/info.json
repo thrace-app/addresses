@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49ef3bf51653d3ac4171c1229f0434c1b064a2d0",
+  "displayName": "Royalty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Royalty",
+    "symbol": "Royalty",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

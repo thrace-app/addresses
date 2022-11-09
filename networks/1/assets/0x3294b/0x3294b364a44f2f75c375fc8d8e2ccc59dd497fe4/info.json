@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3294b364a44f2f75c375fc8d8e2ccc59dd497fe4",
+  "displayName": "TheTokenNetwork",
+  "type": "TOKEN",
+  "token": {
+    "name": "TheTokenNetwork",
+    "symbol": "TTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

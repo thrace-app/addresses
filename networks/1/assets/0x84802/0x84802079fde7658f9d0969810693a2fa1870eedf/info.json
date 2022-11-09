@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84802079fde7658f9d0969810693a2fa1870eedf",
+  "displayName": "Goofball Gang Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goofball Gang Token",
+    "symbol": "GOOF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

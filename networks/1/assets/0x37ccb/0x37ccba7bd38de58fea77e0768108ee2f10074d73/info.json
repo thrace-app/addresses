@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37ccba7bd38de58fea77e0768108ee2f10074d73",
+  "displayName": "FyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FyCoin",
+    "symbol": "FYDA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

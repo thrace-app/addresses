@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71010a9d003445ac60c4e6a7017c1e89a477b438",
+  "displayName": "Aave Interest bearing REP",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave Interest bearing REP",
+    "symbol": "aREP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3777487d437b51f2d4c835592b72279da150120c",
+  "displayName": "South African Rand",
+  "type": "TOKEN",
+  "token": {
+    "name": "South African Rand",
+    "symbol": "ZAR",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

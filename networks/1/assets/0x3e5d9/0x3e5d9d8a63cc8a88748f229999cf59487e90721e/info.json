@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e5d9d8a63cc8a88748f229999cf59487e90721e",
+  "displayName": "MetalSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetalSwap",
+    "symbol": "XMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

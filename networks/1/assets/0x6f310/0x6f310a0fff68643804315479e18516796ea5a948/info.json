@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f310a0fff68643804315479e18516796ea5a948",
+  "displayName": "BotFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "BotFi",
+    "symbol": "BOTFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

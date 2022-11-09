@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe299a3922ad0e1ed39cc122c78efe68807b6eb80",
+  "displayName": "Banana Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Banana Inu",
+    "symbol": "BANINU",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

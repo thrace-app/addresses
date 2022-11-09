@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1e628b3ebf6d7a19749822b0d224ada7e1ac862",
+  "displayName": "Inverse ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inverse ETH",
+    "symbol": "invETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

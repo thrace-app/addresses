@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55cd0adf85d8c5ab846e40d503e68ea35429b26b",
+  "displayName": "ethduck.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "ethduck.com",
+    "symbol": "eDuck",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

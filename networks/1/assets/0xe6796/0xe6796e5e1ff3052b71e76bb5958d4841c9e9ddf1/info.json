@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe6796e5e1ff3052b71e76bb5958d4841c9e9ddf1",
+  "displayName": "Reichsmark",
+  "type": "TOKEN",
+  "token": {
+    "name": "Reichsmark",
+    "symbol": "RM",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

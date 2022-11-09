@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcbe3ca372eaf9a25af48f0ca3968f7da2e4e22cc",
+  "displayName": "xILT",
+  "type": "TOKEN",
+  "token": {
+    "name": "xILT",
+    "symbol": "ILT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

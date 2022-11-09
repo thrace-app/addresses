@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa19b6af43bd8dde3d313c2e04d4115770462c3b",
+  "displayName": "APESwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "APESwap",
+    "symbol": "APES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

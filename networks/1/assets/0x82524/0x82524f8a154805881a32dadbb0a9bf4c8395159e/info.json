@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82524f8a154805881a32dadbb0a9bf4c8395159e",
+  "displayName": "DefiYield",
+  "type": "TOKEN",
+  "token": {
+    "name": "DefiYield",
+    "symbol": "DEFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

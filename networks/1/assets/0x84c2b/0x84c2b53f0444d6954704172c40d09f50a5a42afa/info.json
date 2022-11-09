@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84c2b53f0444d6954704172c40d09f50a5a42afa",
+  "displayName": "The Than Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Than Token",
+    "symbol": "$Than",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

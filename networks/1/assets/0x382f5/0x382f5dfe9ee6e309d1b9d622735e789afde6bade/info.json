@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x382f5dfe9ee6e309d1b9d622735e789afde6bade",
+  "displayName": "Global Scan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Global Scan Token",
+    "symbol": "GST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

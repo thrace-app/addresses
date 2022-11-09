@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd67a167ec1af3378e64267857796d2e1cf8954ea",
+  "displayName": "Kadena",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kadena",
+    "symbol": "KDA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

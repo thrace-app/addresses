@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23300566045573dfd6c675a4b7febe364346ed51",
+  "displayName": "AlwaysBurningToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlwaysBurningToken",
+    "symbol": "ALBUR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

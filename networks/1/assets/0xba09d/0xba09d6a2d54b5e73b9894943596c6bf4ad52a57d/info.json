@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba09d6a2d54b5e73b9894943596c6bf4ad52a57d",
+  "displayName": "PigstyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PigstyToken",
+    "symbol": "STY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

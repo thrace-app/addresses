@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb9bf5345d7715ad70793a616e998c418ef94ac50",
+  "displayName": "EtherToaster",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherToaster",
+    "symbol": "ETH🥖",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

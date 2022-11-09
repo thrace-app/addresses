@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa7e6b2ce535b83e82ab598e9e432705f8d7ce929",
+  "displayName": "CoinHunt Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinHunt Token",
+    "symbol": "CHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

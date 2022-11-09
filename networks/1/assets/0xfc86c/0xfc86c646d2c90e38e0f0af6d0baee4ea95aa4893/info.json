@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc86c646d2c90e38e0f0af6d0baee4ea95aa4893",
+  "displayName": "Crypto Projects Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Projects Token",
+    "symbol": "CPT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

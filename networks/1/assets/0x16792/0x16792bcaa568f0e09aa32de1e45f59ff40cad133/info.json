@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16792bcaa568f0e09aa32de1e45f59ff40cad133",
+  "displayName": "Squawk",
+  "type": "TOKEN",
+  "token": {
+    "name": "Squawk",
+    "symbol": "SQUAWK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

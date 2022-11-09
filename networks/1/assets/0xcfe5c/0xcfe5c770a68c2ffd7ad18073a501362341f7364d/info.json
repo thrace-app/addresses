@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcfe5c770a68c2ffd7ad18073a501362341f7364d",
+  "displayName": "Fridge Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fridge Coin",
+    "symbol": "REFRG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

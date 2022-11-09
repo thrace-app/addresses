@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d2c4764560041c146e998c1127dc4150d2ca2de",
+  "displayName": "BCool",
+  "type": "TOKEN",
+  "token": {
+    "name": "BCool",
+    "symbol": "BCool",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

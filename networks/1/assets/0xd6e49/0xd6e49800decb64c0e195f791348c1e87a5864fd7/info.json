@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6e49800decb64c0e195f791348c1e87a5864fd7",
+  "displayName": "ReceiptCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ReceiptCoin",
+    "symbol": "RC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

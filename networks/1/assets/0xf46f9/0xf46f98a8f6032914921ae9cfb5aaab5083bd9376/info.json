@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf46f98a8f6032914921ae9cfb5aaab5083bd9376",
+  "displayName": "OpenSourceChain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OpenSourceChain Token",
+    "symbol": "OSCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

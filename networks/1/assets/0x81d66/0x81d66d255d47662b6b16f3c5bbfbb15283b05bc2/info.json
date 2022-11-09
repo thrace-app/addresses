@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81d66d255d47662b6b16f3c5bbfbb15283b05bc2",
+  "displayName": "Iron Bank ZAR",
+  "type": "TOKEN",
+  "token": {
+    "name": "Iron Bank ZAR",
+    "symbol": "ibZAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

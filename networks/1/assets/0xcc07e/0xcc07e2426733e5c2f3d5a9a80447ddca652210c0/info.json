@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc07e2426733e5c2f3d5a9a80447ddca652210c0",
+  "displayName": "Dotn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dotn Token",
+    "symbol": "DOTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

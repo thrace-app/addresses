@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x29a641de445795b6f89f0535d9c37e9c087468a1",
+  "displayName": "Stock DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stock DAO",
+    "symbol": "StockDAO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

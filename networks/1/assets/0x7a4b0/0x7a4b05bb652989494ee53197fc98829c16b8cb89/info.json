@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a4b05bb652989494ee53197fc98829c16b8cb89",
+  "displayName": "BaseDev",
+  "type": "TOKEN",
+  "token": {
+    "name": "BaseDev",
+    "symbol": "beDEV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

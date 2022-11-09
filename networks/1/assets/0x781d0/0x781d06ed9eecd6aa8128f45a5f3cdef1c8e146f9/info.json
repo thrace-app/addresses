@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x781d06ed9eecd6aa8128f45a5f3cdef1c8e146f9",
+  "displayName": "foodstamps",
+  "type": "TOKEN",
+  "token": {
+    "name": "foodstamps",
+    "symbol": "STAMPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

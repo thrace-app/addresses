@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe70abde5a276f504fa560b80b3866956caba76ae",
+  "displayName": "A Rocket To The Moon",
+  "type": "TOKEN",
+  "token": {
+    "name": "A Rocket To The Moon",
+    "symbol": "SPACESHIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c12654a9b06cab723caf5ff7fca2344b1d3bd9a",
+  "displayName": "Kyodai Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kyodai Coin",
+    "symbol": "KYO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

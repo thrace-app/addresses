@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8281ee37f164c0e26e6b6f87e7695baac256df07",
+  "displayName": "DegenArts.com Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DegenArts.com Coin",
+    "symbol": "DAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

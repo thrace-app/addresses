@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7df3b21371e59385db9bfcfa45301ffd659c43a0",
+  "displayName": "Degree Crypto Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degree Crypto Token",
+    "symbol": "DCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

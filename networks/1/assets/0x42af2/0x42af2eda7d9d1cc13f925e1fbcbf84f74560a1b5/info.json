@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42af2eda7d9d1cc13f925e1fbcbf84f74560a1b5",
+  "displayName": "SmokeDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "SmokeDoge",
+    "symbol": "SMOGE",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

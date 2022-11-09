@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42103ec26aa7cbdd0ebfd23466254ca741f1cf5c",
+  "displayName": "Opener",
+  "type": "TOKEN",
+  "token": {
+    "name": "Opener",
+    "symbol": "OPEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

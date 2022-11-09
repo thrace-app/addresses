@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea60f506c41affd44c3a51a14b408be388a96a1e",
+  "displayName": "ETH Killer",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH Killer",
+    "symbol": "ETHK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

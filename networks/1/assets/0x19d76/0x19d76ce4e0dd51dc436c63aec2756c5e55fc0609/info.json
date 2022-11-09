@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19d76ce4e0dd51dc436c63aec2756c5e55fc0609",
+  "displayName": "Mortal Kombat Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mortal Kombat Token",
+    "symbol": "MKTRv2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

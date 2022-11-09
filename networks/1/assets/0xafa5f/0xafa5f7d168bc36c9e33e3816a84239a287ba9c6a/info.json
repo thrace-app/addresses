@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafa5f7d168bc36c9e33e3816a84239a287ba9c6a",
+  "displayName": "Teh Golden Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Teh Golden Bitcoin",
+    "symbol": "GOLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

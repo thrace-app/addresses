@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26391c3a67a4d59c71d99dcdeb2ff0d9b206b37f",
+  "displayName": "Duck Norris",
+  "type": "TOKEN",
+  "token": {
+    "name": "Duck Norris",
+    "symbol": "$RANGER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

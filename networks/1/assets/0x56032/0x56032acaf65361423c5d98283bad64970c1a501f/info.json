@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56032acaf65361423c5d98283bad64970c1a501f",
+  "displayName": "Elonreum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elonreum",
+    "symbol": "$ELRUM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8b4ba291766d214ad3bd558143b21f969f3483c",
+  "displayName": "Monoswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monoswap",
+    "symbol": "MONO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

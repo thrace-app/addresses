@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xceffd4de4fc0b6b3479aa63699dd2c4988fe99f3",
+  "displayName": "Serving Leader Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Serving Leader Token",
+    "symbol": "LEADER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

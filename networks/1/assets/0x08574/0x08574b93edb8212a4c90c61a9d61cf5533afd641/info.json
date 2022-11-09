@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08574b93edb8212a4c90c61a9d61cf5533afd641",
+  "displayName": "HFIToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "HFIToken",
+    "symbol": "HFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

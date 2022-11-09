@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x424e2a83c1cba4ab57734c237ead7a255c79570f",
+  "displayName": "Libra",
+  "type": "TOKEN",
+  "token": {
+    "name": "Libra",
+    "symbol": "FBL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

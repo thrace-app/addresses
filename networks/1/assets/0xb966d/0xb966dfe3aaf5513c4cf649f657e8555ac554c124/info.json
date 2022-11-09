@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb966dfe3aaf5513c4cf649f657e8555ac554c124",
+  "displayName": "SuperMoon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperMoon Token",
+    "symbol": "SUPERMOON",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

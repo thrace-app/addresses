@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c858151a41ea6f258e904ef4e2d3c310639cced",
+  "displayName": "Generic Altcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Generic Altcoin",
+    "symbol": "GA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

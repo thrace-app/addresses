@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc0acc037df7bb237f0ae6aae8884c4dc8cb64c4",
+  "displayName": "BlackHole",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlackHole",
+    "symbol": "BLACK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

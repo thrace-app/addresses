@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab5b3b546bf39e661bf92431a41ba302e15a6af4",
+  "displayName": "SpaceY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpaceY Token",
+    "symbol": "Spay",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcea81e39f33c60e55cc2dce753764a077219e990",
+  "displayName": "CarrotFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "CarrotFinance",
+    "symbol": "CRF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde52a16c6db7914e6953e27a7df4ce6a315f8b45",
+  "displayName": "OUCHI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OUCHI Token",
+    "symbol": "OUCHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a200ea10ba78b7e1422bcbbbe23b78f5627edf0",
+  "displayName": "Satoshi Samurai",
+  "type": "TOKEN",
+  "token": {
+    "name": "Satoshi Samurai",
+    "symbol": "SatoshiSamurai",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

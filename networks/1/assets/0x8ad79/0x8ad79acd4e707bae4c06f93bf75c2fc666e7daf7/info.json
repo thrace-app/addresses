@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ad79acd4e707bae4c06f93bf75c2fc666e7daf7",
+  "displayName": "Silver Ounce",
+  "type": "TOKEN",
+  "token": {
+    "name": "Silver Ounce",
+    "symbol": "SCOZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

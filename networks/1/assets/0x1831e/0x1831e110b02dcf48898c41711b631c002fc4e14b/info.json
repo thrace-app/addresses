@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1831e110b02dcf48898c41711b631c002fc4e14b",
+  "displayName": "Golden Timer",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Timer",
+    "symbol": "GT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

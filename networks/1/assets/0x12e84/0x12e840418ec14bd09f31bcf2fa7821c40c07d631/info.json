@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12e840418ec14bd09f31bcf2fa7821c40c07d631",
+  "displayName": "Woofereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Woofereum",
+    "symbol": "WOOFER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

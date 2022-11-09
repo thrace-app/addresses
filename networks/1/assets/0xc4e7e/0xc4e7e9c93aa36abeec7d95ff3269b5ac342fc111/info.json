@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4e7e9c93aa36abeec7d95ff3269b5ac342fc111",
+  "displayName": "RTME Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RTME Token",
+    "symbol": "RTME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

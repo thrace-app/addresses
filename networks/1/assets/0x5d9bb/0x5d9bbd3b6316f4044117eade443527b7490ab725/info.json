@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d9bbd3b6316f4044117eade443527b7490ab725",
+  "displayName": "Sweet Coin Wrapped",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sweet Coin Wrapped",
+    "symbol": "SWCW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

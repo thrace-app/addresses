@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d7bf54563da54bf574102c1cb34718f32ecade3",
+  "displayName": "Ethereum Balance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Balance",
+    "symbol": "ETB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

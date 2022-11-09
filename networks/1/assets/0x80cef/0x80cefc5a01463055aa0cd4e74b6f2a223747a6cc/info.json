@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80cefc5a01463055aa0cd4e74b6f2a223747a6cc",
+  "displayName": "Prato Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Prato Token",
+    "symbol": "PRATO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

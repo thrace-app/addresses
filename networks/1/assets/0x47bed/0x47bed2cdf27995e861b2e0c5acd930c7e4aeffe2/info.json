@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47bed2cdf27995e861b2e0c5acd930c7e4aeffe2",
+  "displayName": "BSBEXToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BSBEXToken",
+    "symbol": "BSB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

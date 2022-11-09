@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb491963f13c670b2b8e48f2c616762737bfc25e2",
+  "displayName": "kWh",
+  "type": "TOKEN",
+  "token": {
+    "name": "kWh",
+    "symbol": "kWh",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58fdc64dc54b380c83332005206515a2f7e48c92",
+  "displayName": "StarFox",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarFox",
+    "symbol": "STARFOX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

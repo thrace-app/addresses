@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9fe16cf3068cfc1341053a5633e01d7e4806835a",
+  "displayName": "Tokyo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tokyo Token",
+    "symbol": "TKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

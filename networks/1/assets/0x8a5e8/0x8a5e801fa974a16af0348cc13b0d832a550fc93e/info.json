@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a5e801fa974a16af0348cc13b0d832a550fc93e",
+  "displayName": "Killer Whale Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Killer Whale Token",
+    "symbol": "KWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

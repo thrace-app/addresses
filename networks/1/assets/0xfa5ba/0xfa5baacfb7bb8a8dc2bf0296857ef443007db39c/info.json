@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa5baacfb7bb8a8dc2bf0296857ef443007db39c",
+  "displayName": "Kareem Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kareem Token",
+    "symbol": "KAREE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

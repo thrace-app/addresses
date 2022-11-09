@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c23edc1ceee0d8877b9d441de7cc1adf3249b8d",
+  "displayName": "The First Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The First Protocol",
+    "symbol": "The Genesis Protocol ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

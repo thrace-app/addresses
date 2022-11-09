@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7603e4af0b020d1a66cc37d60902c0fbe31ae6e4",
+  "displayName": "Logan Paul Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Logan Paul Token",
+    "symbol": "LOGAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

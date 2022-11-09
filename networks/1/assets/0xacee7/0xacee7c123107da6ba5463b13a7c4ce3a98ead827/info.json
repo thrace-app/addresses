@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacee7c123107da6ba5463b13a7c4ce3a98ead827",
+  "displayName": "Flexy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flexy Token",
+    "symbol": "FLXT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

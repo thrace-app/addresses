@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf013ee5974df93832f68c1e2c610be438f767f70",
+  "displayName": "Token Graveyard",
+  "type": "TOKEN",
+  "token": {
+    "name": "Token Graveyard",
+    "symbol": "GRAVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

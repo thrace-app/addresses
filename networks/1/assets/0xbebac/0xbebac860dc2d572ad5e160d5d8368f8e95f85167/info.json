@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbebac860dc2d572ad5e160d5d8368f8e95f85167",
+  "displayName": "Wage.Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wage.Money",
+    "symbol": "$WAGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

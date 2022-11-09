@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35612a781721944118ef90353554bc6c1cd51e24",
+  "displayName": "trip token",
+  "type": "TOKEN",
+  "token": {
+    "name": "trip token",
+    "symbol": "TRIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

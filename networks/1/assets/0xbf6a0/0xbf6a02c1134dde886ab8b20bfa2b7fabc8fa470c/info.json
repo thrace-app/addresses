@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf6a02c1134dde886ab8b20bfa2b7fabc8fa470c",
+  "displayName": "Smart Gas",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smart Gas",
+    "symbol": "SMG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

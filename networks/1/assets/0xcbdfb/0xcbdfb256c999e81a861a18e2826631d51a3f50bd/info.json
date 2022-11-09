@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcbdfb256c999e81a861a18e2826631d51a3f50bd",
+  "displayName": "Simba Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Simba Inu Token",
+    "symbol": "SINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

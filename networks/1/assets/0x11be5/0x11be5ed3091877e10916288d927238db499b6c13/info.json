@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11be5ed3091877e10916288d927238db499b6c13",
+  "displayName": "multisig",
+  "type": "TOKEN",
+  "token": {
+    "name": "multisig",
+    "symbol": "multisig",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

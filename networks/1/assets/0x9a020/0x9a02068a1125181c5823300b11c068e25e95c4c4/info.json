@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a02068a1125181c5823300b11c068e25e95c4c4",
+  "displayName": "Conditional Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Conditional Burn",
+    "symbol": "BURNX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

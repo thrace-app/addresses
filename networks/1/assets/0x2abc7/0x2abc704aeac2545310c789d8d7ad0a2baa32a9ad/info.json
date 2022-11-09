@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2abc704aeac2545310c789d8d7ad0a2baa32a9ad",
+  "displayName": "BullvBear",
+  "type": "TOKEN",
+  "token": {
+    "name": "BullvBear",
+    "symbol": "BVB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd93e875d8421619ce8a60257ab2dbb0bf957e9e4",
+  "displayName": "Defi Test",
+  "type": "TOKEN",
+  "token": {
+    "name": "Defi Test",
+    "symbol": "DefiT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

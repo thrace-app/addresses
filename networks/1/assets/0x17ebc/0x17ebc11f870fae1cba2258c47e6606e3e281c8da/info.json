@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17ebc11f870fae1cba2258c47e6606e3e281c8da",
+  "displayName": "TEST DONT BUY",
+  "type": "TOKEN",
+  "token": {
+    "name": "TEST DONT BUY",
+    "symbol": "TDB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

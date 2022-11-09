@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c2a309d9005433c1bc2c92ef1be06489e5bf258",
+  "displayName": "Wrapped PCI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped PCI",
+    "symbol": "WPCI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

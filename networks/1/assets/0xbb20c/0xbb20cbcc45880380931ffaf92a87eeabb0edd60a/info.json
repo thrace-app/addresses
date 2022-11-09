@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb20cbcc45880380931ffaf92a87eeabb0edd60a",
+  "displayName": "Meme Man",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meme Man",
+    "symbol": "SUCC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

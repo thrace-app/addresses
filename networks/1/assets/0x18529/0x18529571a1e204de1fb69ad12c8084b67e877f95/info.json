@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18529571a1e204de1fb69ad12c8084b67e877f95",
+  "displayName": "MaPro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MaPro Token",
+    "symbol": "MaPro",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

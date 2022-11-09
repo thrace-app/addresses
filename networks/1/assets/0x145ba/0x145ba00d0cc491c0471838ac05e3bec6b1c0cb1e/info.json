@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x145ba00d0cc491c0471838ac05e3bec6b1c0cb1e",
+  "displayName": "Stanton Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stanton Coin",
+    "symbol": "STAN",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

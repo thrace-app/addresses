@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab8e67a974762a7679f03dd67d1352dfd019aa1f",
+  "displayName": "CIRN Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CIRN Coin",
+    "symbol": "CIRN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

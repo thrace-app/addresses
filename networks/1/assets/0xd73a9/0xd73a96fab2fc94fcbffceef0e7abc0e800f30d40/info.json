@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd73a96fab2fc94fcbffceef0e7abc0e800f30d40",
+  "displayName": "BTCSU",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTCSU",
+    "symbol": "BTCSU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

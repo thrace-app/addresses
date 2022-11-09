@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x370fb734862e3ff3746a1f55dbc539ef08b87644",
+  "displayName": "Fed Pivot",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fed Pivot",
+    "symbol": "FOMC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

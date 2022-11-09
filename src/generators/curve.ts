@@ -5,9 +5,8 @@ import retry from 'async-retry'
 import { type Account, AccountType } from '../types/account'
 import { TokenType, ERC20Token } from '../types/token'
 import type { Generator } from './generator'
+import { NULL_ADDRESS } from '../utils/constants'
 
-const GROUP = 'curve'
-const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
 
 const NETWORKS: Record<number, string> = {
@@ -155,13 +154,13 @@ export class CurveResolver implements Generator {
       const currentTokensLength = Object.keys(tokens).length
 
       console.log(
-        `Fetched ${GROUP} (${networkId}): ${response.liquidityPools.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
+        `Fetched curve.fi (${networkId}): ${response.liquidityPools.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
       )
     } while (response.liquidityPools.length > 0)
 
     return {
-      [GROUP]: accounts,
-      tokens: Object.values(tokens),
+      'curve-fi': accounts,
+      erc20: Object.values(tokens),
     }
   }
 }

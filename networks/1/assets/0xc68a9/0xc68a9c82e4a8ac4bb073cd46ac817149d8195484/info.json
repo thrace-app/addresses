@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc68a9c82e4a8ac4bb073cd46ac817149d8195484",
+  "displayName": "DuckLiquidityPool",
+  "type": "TOKEN",
+  "token": {
+    "name": "DuckLiquidityPool",
+    "symbol": "DLP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

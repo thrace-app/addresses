@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4f522c5f52ebf54b61c52f5547ea8d93d59b9f0",
+  "displayName": "Binance Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Binance Coin",
+    "symbol": "BNB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x449e59b2a2064014cd4ed359c397153ab8f8ffaf",
+  "displayName": "OndoTest",
+  "type": "TOKEN",
+  "token": {
+    "name": "OndoTest",
+    "symbol": "ONDOTEST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

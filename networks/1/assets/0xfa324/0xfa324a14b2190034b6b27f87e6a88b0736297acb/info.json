@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa324a14b2190034b6b27f87e6a88b0736297acb",
+  "displayName": "CCRich",
+  "type": "TOKEN",
+  "token": {
+    "name": "CCRich",
+    "symbol": "CCR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

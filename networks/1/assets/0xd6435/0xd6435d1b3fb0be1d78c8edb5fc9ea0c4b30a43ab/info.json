@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6435d1b3fb0be1d78c8edb5fc9ea0c4b30a43ab",
+  "displayName": "PhantNet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PhantNet Token",
+    "symbol": "PNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

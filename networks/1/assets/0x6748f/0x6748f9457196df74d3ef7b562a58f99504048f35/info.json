@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6748f9457196df74d3ef7b562a58f99504048f35",
+  "displayName": "Kelvin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kelvin Token",
+    "symbol": "KELVIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

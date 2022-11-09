@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4099ead28e22b9cd6b1b6f5cb354a99631c64404",
+  "displayName": "PrivateNess Network (Wrapped ERC20)",
+  "type": "TOKEN",
+  "token": {
+    "name": "PrivateNess Network (Wrapped ERC20)",
+    "symbol": "WNESS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

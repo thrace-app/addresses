@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf71982762d141f8679eb944faec8cec415fb5e23",
+  "displayName": "NIAXToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NIAXToken",
+    "symbol": "NIAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

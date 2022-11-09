@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x095f592f68cefea7129321b4cb84caabf80ad70d",
+  "displayName": "Protocol of Degens",
+  "type": "TOKEN",
+  "token": {
+    "name": "Protocol of Degens",
+    "symbol": "POD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

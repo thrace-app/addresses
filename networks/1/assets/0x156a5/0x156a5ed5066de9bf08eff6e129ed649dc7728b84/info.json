@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x156a5ed5066de9bf08eff6e129ed649dc7728b84",
+  "displayName": "alphaScan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "alphaScan Token",
+    "symbol": "ASCAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

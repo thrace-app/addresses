@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8051c181c67a2a033af6e3bf7c71e91de0fc3b7e",
+  "displayName": "ETH over 9000",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH over 9000",
+    "symbol": "ETH9k",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

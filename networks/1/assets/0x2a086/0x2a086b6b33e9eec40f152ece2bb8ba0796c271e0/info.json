@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a086b6b33e9eec40f152ece2bb8ba0796c271e0",
+  "displayName": "Scorpion Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Scorpion Doge",
+    "symbol": "SCOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x974750deea1267c2af49125970140f90ac087933",
+  "displayName": "SafeMoon Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeMoon Shiba",
+    "symbol": "SMS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

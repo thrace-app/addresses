@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x396ec402b42066864c406d1ac3bc86b575003ed8",
+  "displayName": "Wrapped BUY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped BUY Token",
+    "symbol": "WBUY",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

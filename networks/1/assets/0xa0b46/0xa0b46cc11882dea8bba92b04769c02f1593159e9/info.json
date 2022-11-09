@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa0b46cc11882dea8bba92b04769c02f1593159e9",
+  "displayName": "Monke Koin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monke Koin",
+    "symbol": "MNK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63df509293106fdfbb32299eeeddb14f58e6ebab",
+  "displayName": "BitXchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitXchange",
+    "symbol": "BXE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

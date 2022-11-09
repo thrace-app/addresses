@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ff881a988263bc5742b7fcf47ebded3961fd9f9",
+  "displayName": "FlexiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlexiCoin",
+    "symbol": "FLEXI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

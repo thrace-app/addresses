@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe9d107275486de80ca9a272053c888d92599f43",
+  "displayName": "Token Maker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Token Maker",
+    "symbol": "TMKR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

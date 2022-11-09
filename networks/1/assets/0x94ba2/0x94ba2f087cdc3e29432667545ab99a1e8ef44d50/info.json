@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x94ba2f087cdc3e29432667545ab99a1e8ef44d50",
+  "displayName": "Otto Farming",
+  "type": "TOKEN",
+  "token": {
+    "name": "Otto Farming",
+    "symbol": "OTTO",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

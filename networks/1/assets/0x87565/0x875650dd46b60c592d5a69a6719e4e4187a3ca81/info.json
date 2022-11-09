@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x875650dd46b60c592d5a69a6719e4e4187a3ca81",
+  "displayName": "XUSD Share",
+  "type": "TOKEN",
+  "token": {
+    "name": "XUSD Share",
+    "symbol": "XUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

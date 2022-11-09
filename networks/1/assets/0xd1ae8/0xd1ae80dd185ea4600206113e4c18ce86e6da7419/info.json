@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1ae80dd185ea4600206113e4c18ce86e6da7419",
+  "displayName": "ABE coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ABE coin",
+    "symbol": "ABE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

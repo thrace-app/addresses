@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4b2657f2efffac2a146bedad962f00682e04f4f",
+  "displayName": "DvF Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DvF Token",
+    "symbol": "DVF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

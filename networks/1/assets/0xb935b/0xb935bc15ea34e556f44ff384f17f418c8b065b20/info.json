@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb935bc15ea34e556f44ff384f17f418c8b065b20",
+  "displayName": "MilitaryCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MilitaryCoin",
+    "symbol": "MLTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

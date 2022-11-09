@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x321b41b117128c5bf2f29aa7bda682bf0a1e4b7b",
+  "displayName": "Zero Tax",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zero Tax",
+    "symbol": "zerotax",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

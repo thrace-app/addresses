@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9622e1b0ac29525441b02d192f20e9bafb1a16b7",
+  "displayName": "Oil Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Oil Coin",
+    "symbol": "CRUDE",
+    "decimals": 1,
+    "type": "ERC20"
+  }
+}

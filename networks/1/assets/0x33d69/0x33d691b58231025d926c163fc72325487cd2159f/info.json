@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33d691b58231025d926c163fc72325487cd2159f",
+  "displayName": "Borderless",
+  "type": "TOKEN",
+  "token": {
+    "name": "Borderless",
+    "symbol": "BLESS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

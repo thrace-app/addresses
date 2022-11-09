@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec2d692f902b3f289aa9d644602986a0df1af687",
+  "displayName": "AVNRich Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AVNRich Token",
+    "symbol": "AVN",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

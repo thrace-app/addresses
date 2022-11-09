@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8fa12f8409da31a4fc43d15c4c78c33d8213b9b",
+  "displayName": "CaliCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CaliCoin",
+    "symbol": "CALI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

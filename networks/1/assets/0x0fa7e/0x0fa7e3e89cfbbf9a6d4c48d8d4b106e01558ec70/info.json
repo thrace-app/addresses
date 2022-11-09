@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0fa7e3e89cfbbf9a6d4c48d8d4b106e01558ec70",
+  "displayName": "DonoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DonoToken",
+    "symbol": "DONO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x885e8d7735f61626b7311602a51fa9299a053400",
+  "displayName": "BigSmoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "BigSmoge",
+    "symbol": "BSMG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

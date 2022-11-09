@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ba4b812b5567696922e605351d088f8c5dc1971",
+  "displayName": "Etherlink",
+  "type": "TOKEN",
+  "token": {
+    "name": "Etherlink",
+    "symbol": "ETLK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

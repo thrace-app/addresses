@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93a42c57335ac93c4de944831a9ff36435b68da0",
+  "displayName": "TimiHealth Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TimiHealth Token",
+    "symbol": "THT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

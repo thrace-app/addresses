@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc64f836f5185c58cca0e1611b40bb7e64d511306",
+  "displayName": "Gary the Snail",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gary the Snail",
+    "symbol": "GARY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

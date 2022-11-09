@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cc481ce2bd2ec7bf67d1be64d4878b16078f309",
+  "displayName": "Iron Bank CHF",
+  "type": "TOKEN",
+  "token": {
+    "name": "Iron Bank CHF",
+    "symbol": "ibCHF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x456f5ef135be74491a7646cfa2f9d23780c53300",
+  "displayName": "Humanitarian Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Humanitarian Token",
+    "symbol": "HUMANS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

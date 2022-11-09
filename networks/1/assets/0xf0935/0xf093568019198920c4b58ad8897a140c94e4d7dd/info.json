@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf093568019198920c4b58ad8897a140c94e4d7dd",
+  "displayName": "Mop Bucket",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mop Bucket",
+    "symbol": "BUCKET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

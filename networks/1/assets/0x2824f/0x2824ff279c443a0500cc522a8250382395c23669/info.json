@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2824ff279c443a0500cc522a8250382395c23669",
+  "displayName": "KONT Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KONT Coin",
+    "symbol": "KONT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

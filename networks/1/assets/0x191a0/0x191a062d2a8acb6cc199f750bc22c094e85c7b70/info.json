@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x191a062d2a8acb6cc199f750bc22c094e85c7b70",
+  "displayName": "MINOTAUR",
+  "type": "TOKEN",
+  "token": {
+    "name": "MINOTAUR",
+    "symbol": "The Bear Killer",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

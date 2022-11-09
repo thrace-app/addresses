@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1226451caddf71ae5dce676b15b0ce5ad9460b87",
+  "displayName": "My Fucking Pickle",
+  "type": "TOKEN",
+  "token": {
+    "name": "My Fucking Pickle",
+    "symbol": "PICKLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

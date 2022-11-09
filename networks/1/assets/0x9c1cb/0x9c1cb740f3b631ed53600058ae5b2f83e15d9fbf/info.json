@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c1cb740f3b631ed53600058ae5b2f83e15d9fbf",
+  "displayName": "SEI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SEI Token",
+    "symbol": "SEI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

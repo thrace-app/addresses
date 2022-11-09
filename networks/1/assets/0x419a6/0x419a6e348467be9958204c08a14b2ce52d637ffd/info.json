@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x419a6e348467be9958204c08a14b2ce52d637ffd",
+  "displayName": "Daocoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Daocoin",
+    "symbol": "DAOZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf32dadc4f3eb42f1ffb15ccb5821572bedd66ebe",
+  "displayName": "Slap Me Smith",
+  "type": "TOKEN",
+  "token": {
+    "name": "Slap Me Smith",
+    "symbol": "SMS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

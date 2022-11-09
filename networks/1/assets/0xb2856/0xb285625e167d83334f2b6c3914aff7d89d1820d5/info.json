@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb285625e167d83334f2b6c3914aff7d89d1820d5",
+  "displayName": "Ethereum Dinero",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Dinero",
+    "symbol": "eDinero",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

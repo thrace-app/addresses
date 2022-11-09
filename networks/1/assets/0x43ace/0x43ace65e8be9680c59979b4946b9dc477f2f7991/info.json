@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43ace65e8be9680c59979b4946b9dc477f2f7991",
+  "displayName": "Ender Dragon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ender Dragon",
+    "symbol": "END",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

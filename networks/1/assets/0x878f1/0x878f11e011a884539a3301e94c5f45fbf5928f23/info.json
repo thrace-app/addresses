@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x878f11e011a884539a3301e94c5f45fbf5928f23",
+  "displayName": "Predator Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Predator Token",
+    "symbol": "PDTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe22aac86f800d2f66e18c22de92032036e637166",
+  "displayName": "Mafia Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mafia Token",
+    "symbol": "$MAFIA",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

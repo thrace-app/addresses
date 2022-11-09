@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe17093967e43d37ad615a64cb86ae11826d6e58b",
+  "displayName": "Bored Banana Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bored Banana Token",
+    "symbol": "$BANANA",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

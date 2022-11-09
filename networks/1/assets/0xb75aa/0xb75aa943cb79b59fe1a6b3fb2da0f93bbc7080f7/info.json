@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb75aa943cb79b59fe1a6b3fb2da0f93bbc7080f7",
+  "displayName": "PussyCake Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PussyCake Token",
+    "symbol": "PSCK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

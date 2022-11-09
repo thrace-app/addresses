@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed351575b9869aada94435e0066ba38e08800b60",
+  "displayName": "Mcr Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mcr Stablecoin",
+    "symbol": "MCR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

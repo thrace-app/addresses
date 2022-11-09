@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2177194e073d02dd6c3b839dd3091fd27c2c9e32",
+  "displayName": "EU Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EU Coin",
+    "symbol": "EUC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

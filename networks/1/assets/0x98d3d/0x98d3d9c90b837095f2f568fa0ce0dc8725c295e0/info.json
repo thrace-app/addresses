@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x98d3d9c90b837095f2f568fa0ce0dc8725c295e0",
+  "displayName": "LazyDogechain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LazyDogechain Token",
+    "symbol": "LDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

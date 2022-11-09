@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8730f0b574229d1c0d00db5c4bdb0c375a2efd9d",
+  "displayName": "Bitcoin King",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin King",
+    "symbol": "BTCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

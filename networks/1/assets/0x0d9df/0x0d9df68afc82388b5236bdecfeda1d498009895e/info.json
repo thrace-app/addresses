@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d9df68afc82388b5236bdecfeda1d498009895e",
+  "displayName": "BBD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BBD Token",
+    "symbol": "BBD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10aa0249d7389ab10d2fb63c3b7ef073b758110f",
+  "displayName": "SSH Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SSH Token",
+    "symbol": "SSHU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

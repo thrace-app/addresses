@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36824dc0955b8bec0845c520e878045ac86a7b00",
+  "displayName": "CryptoGirls",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoGirls",
+    "symbol": "CGIRL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

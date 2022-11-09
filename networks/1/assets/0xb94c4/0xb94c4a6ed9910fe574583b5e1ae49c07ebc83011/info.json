@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb94c4a6ed9910fe574583b5e1ae49c07ebc83011",
+  "displayName": "Los Pepe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Los Pepe",
+    "symbol": "COKE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

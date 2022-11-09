@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95a4492f028aa1fd432ea71146b433e7b4446611",
+  "displayName": "APY Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "APY Governance Token",
+    "symbol": "APY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

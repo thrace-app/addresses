@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4a062d4da2d89a854a85bda19bb3ff9b24e3778",
+  "displayName": "ICYMI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ICYMI Token",
+    "symbol": "ICYMI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

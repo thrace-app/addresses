@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5219d24caa72040f055fc547cc786a29e025e767",
+  "displayName": "Linden Lab",
+  "type": "TOKEN",
+  "token": {
+    "name": "Linden Lab",
+    "symbol": "LDL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

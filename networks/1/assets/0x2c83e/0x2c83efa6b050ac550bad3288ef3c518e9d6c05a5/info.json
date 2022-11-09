@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c83efa6b050ac550bad3288ef3c518e9d6c05a5",
+  "displayName": "Galaxy Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Galaxy Cat",
+    "symbol": "GalaxyCat",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

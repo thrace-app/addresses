@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea6fee8c517fbeec2d8203c0b04e16278a10884c",
+  "displayName": "Madness",
+  "type": "TOKEN",
+  "token": {
+    "name": "Madness",
+    "symbol": "MAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

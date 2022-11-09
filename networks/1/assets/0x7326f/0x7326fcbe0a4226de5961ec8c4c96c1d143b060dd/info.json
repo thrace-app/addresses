@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7326fcbe0a4226de5961ec8c4c96c1d143b060dd",
+  "displayName": "QuickSwap Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "QuickSwap Protocol",
+    "symbol": "QCS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

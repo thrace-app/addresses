@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38fe31a634c04d62d52ee4dcff1b76a11285c6ec",
+  "displayName": "mooniswap.exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "mooniswap.exchange",
+    "symbol": "MSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

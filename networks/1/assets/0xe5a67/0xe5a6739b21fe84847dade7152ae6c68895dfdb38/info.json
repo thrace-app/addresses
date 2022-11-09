@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5a6739b21fe84847dade7152ae6c68895dfdb38",
+  "displayName": "Rebalance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rebalance Token",
+    "symbol": "RBAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

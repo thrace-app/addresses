@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba40621bc7708b1d83e7ce116db5391b5d0c56f1",
+  "displayName": "Cowboy Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cowboy Finance",
+    "symbol": "COW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf189610ec9ba0be44eeb127d89b2ad668fbac46",
+  "displayName": "Rollbit Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rollbit Coin",
+    "symbol": "RBC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

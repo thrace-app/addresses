@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x91d408d19a31aab036f5f6d08b741022fa51aa46",
+  "displayName": "Step Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Step Doge",
+    "symbol": "STEPDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

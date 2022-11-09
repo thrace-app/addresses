@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80d850cd87fe60014dc33590091096fa44c968cc",
+  "displayName": "Carrot Company",
+  "type": "TOKEN",
+  "token": {
+    "name": "Carrot Company",
+    "symbol": "CRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

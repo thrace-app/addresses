@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x846cbe8756ae681404ec30c451d232f34237aa80",
+  "displayName": "LeDex",
+  "type": "TOKEN",
+  "token": {
+    "name": "LeDex",
+    "symbol": "LEDEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

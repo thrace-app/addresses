@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x317eb4ad9cfac6232f0046831322e895507bcbeb",
+  "displayName": "Tidex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tidex Token",
+    "symbol": "TDX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

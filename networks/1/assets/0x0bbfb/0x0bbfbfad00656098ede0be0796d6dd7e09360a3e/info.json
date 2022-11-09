@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0bbfbfad00656098ede0be0796d6dd7e09360a3e",
+  "displayName": "Fred Flinstone",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fred Flinstone",
+    "symbol": "FRED",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38c4687b5a58bdc3f4f7ea6b5305d681fa29030c",
+  "displayName": "Authenticator",
+  "type": "TOKEN",
+  "token": {
+    "name": "Authenticator",
+    "symbol": "AUTH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

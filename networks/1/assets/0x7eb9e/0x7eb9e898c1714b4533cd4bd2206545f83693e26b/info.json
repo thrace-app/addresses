@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7eb9e898c1714b4533cd4bd2206545f83693e26b",
+  "displayName": "Cococoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cococoin",
+    "symbol": "COCOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

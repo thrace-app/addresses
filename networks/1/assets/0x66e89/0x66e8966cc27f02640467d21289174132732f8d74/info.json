@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66e8966cc27f02640467d21289174132732f8d74",
+  "displayName": "红包",
+  "type": "TOKEN",
+  "token": {
+    "name": "红包",
+    "symbol": "HBB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

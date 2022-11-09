@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x081235b35fd3040ca2717a498f9551308128a484",
+  "displayName": "Icarus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Icarus",
+    "symbol": "ICARUS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

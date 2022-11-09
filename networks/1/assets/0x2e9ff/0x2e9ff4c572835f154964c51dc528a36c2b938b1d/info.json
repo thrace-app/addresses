@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e9ff4c572835f154964c51dc528a36c2b938b1d",
+  "displayName": "Whitehorse Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Whitehorse Coin",
+    "symbol": "WHC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ec08990b13010fb899bc0c04415316c321811ac",
+  "displayName": "Bank wBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank wBTC",
+    "symbol": "BANKWBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

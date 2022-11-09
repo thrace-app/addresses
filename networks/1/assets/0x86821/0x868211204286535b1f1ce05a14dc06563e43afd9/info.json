@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x868211204286535b1f1ce05a14dc06563e43afd9",
+  "displayName": "EthereumOrigin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumOrigin",
+    "symbol": "ETO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

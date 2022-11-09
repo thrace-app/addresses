@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x456cd8af1e936ad47a31579a5fb462393c6a6851",
+  "displayName": "XAUETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "XAUETH",
+    "symbol": "GOLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x141da01020de35c5ef8373a71db34d6406e0ed65",
+  "displayName": "Water For All",
+  "type": "TOKEN",
+  "token": {
+    "name": "Water For All",
+    "symbol": "$WATER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

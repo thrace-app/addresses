@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08a13263ce0848811fed4dfc32162c0fa3585c70",
+  "displayName": "NFT Mint Lottery",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT Mint Lottery",
+    "symbol": "INFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

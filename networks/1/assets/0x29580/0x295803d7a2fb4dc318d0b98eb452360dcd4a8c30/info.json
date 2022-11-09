@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x295803d7a2fb4dc318d0b98eb452360dcd4a8c30",
+  "displayName": "OneGold",
+  "type": "TOKEN",
+  "token": {
+    "name": "OneGold",
+    "symbol": "GOLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

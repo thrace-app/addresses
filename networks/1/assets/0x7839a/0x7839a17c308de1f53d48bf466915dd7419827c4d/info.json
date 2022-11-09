@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7839a17c308de1f53d48bf466915dd7419827c4d",
+  "displayName": "MuskDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "MuskDoge",
+    "symbol": "MUDO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

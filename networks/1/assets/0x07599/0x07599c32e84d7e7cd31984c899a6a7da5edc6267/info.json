@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07599c32e84d7e7cd31984c899a6a7da5edc6267",
+  "displayName": "foorp",
+  "type": "TOKEN",
+  "token": {
+    "name": "foorp",
+    "symbol": "foorp",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

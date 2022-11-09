@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a8365064f4cdcb3517d33c89050bb99096904dc",
+  "displayName": "GobbleFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "GobbleFi",
+    "symbol": "EAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

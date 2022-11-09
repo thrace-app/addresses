@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5aadcafed284ee4b04babbdca46a5d0aafaf4600",
+  "displayName": "Electric Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Electric Coin",
+    "symbol": "EC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

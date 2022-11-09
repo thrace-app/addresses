@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0482b9e74c5fcea9aa8a8a89a05bd9d21073f9f3",
+  "displayName": "Verified Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Verified Coin",
+    "symbol": "VERIFIED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

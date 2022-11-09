@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa2da5f5917e57daaf4baee1953a22dd589c89edf",
+  "displayName": "Transfuse Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Transfuse Token",
+    "symbol": "TT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

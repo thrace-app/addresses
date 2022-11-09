@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2604fa406be957e542beb89e6754fcde6815e83f",
+  "displayName": "Playkey Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Playkey Token",
+    "symbol": "PKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x74fec88946d90b87f40f04165bf64542751f779e",
+  "displayName": "AV Group token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AV Group token",
+    "symbol": "AVGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

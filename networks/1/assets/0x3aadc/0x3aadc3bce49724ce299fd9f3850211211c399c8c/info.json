@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3aadc3bce49724ce299fd9f3850211211c399c8c",
+  "displayName": "Coinstox Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coinstox Token",
+    "symbol": "CSX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

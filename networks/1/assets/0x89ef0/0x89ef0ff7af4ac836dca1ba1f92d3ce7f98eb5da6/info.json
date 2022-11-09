@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89ef0ff7af4ac836dca1ba1f92d3ce7f98eb5da6",
+  "displayName": "Elastic Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elastic Bitcoin",
+    "symbol": "XBT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

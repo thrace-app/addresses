@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51a1294b5a0a4874480ff58cf59be27c06d4ffa3",
+  "displayName": "SociToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SociToken",
+    "symbol": "SOCI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

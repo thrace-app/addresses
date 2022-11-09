@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ddc25514e222b4cd92e3f353b60372839ab0984",
+  "displayName": "Pie",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pie",
+    "symbol": "SLICE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

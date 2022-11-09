@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb0d954c93cc1d55e133e8eaef6eea812cc7b90d",
+  "displayName": "PENNY",
+  "type": "TOKEN",
+  "token": {
+    "name": "PENNY",
+    "symbol": "PN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

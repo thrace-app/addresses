@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb61d7fe488f04af326a163e4bebc30772c48de59",
+  "displayName": "AIDOGE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AIDOGE Token",
+    "symbol": "AIDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

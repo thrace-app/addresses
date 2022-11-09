@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x98ad9b32dd10f8d8486927d846d4df8baf39abe2",
+  "displayName": "VELO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VELO Token",
+    "symbol": "VLO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

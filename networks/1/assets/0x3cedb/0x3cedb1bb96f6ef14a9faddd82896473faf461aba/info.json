@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3cedb1bb96f6ef14a9faddd82896473faf461aba",
+  "displayName": "Shibuffy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shibuffy",
+    "symbol": "Buffy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

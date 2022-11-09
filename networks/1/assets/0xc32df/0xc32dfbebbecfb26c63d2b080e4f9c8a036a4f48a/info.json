@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc32dfbebbecfb26c63d2b080e4f9c8a036a4f48a",
+  "displayName": "Lobster",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lobster",
+    "symbol": "LBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

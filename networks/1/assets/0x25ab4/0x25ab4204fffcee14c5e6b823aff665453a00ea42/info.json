@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25ab4204fffcee14c5e6b823aff665453a00ea42",
+  "displayName": "DEGEN Deflationary Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DEGEN Deflationary Token",
+    "symbol": "DDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

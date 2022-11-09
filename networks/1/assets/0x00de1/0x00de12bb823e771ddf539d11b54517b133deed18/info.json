@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00de12bb823e771ddf539d11b54517b133deed18",
+  "displayName": "HesDefiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "HesDefiCoin",
+    "symbol": "HDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

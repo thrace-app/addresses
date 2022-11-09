@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37a62ebb15ccbec56e9d81f9e02b9905375a2cf7",
+  "displayName": "CryptKeeper",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptKeeper",
+    "symbol": "CREEPER",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

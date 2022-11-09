@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
+  "displayName": "Walton Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Walton Token",
+    "symbol": "WTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

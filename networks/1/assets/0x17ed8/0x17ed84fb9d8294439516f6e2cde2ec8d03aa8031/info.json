@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17ed84fb9d8294439516f6e2cde2ec8d03aa8031",
+  "displayName": "Dibs Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dibs Token",
+    "symbol": "Dibs",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

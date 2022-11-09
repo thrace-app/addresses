@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x865deba07d60a3b1875b0f685d39dc6e6ba7e78f",
+  "displayName": "PayPal Pro",
+  "type": "TOKEN",
+  "token": {
+    "name": "PayPal Pro",
+    "symbol": "PAYPRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

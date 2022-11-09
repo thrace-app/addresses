@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42bcede7757a0e410c52fd2f78853f366900291b",
+  "displayName": "Turbo Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Turbo Shiba",
+    "symbol": "TUSHIBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

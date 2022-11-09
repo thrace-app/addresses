@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70b066307cfc104ed8d09c2a53c543fa5faf051b",
+  "displayName": "Bitfast",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitfast",
+    "symbol": "BTF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

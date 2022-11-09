@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a2595f93a35cfa79b134ce75199f849eb74b3f4",
+  "displayName": "Elrond eGold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elrond eGold",
+    "symbol": "EGLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

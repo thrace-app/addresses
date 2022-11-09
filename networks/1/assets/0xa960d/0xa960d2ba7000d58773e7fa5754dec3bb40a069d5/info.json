@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa960d2ba7000d58773e7fa5754dec3bb40a069d5",
+  "displayName": "One DEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "One DEX",
+    "symbol": "ODEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

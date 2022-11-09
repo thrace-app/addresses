@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02a0ef3d7f97561f209a2582813ba6cf170098de",
+  "displayName": "Shield",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shield",
+    "symbol": "SLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

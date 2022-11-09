@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd2ecb5582d86ad3602e7797ca66d0cc3395deb2",
+  "displayName": "Ethyield",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethyield",
+    "symbol": "YILD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

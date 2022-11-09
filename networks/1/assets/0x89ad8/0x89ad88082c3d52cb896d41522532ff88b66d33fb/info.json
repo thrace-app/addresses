@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89ad88082c3d52cb896d41522532ff88b66d33fb",
+  "displayName": "earthfi",
+  "type": "TOKEN",
+  "token": {
+    "name": "earthfi",
+    "symbol": "EFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

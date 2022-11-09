@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaaceb15586468a7a72b9496b541d4703dee1a9ea",
+  "displayName": "Korin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Korin Token",
+    "symbol": "KORIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

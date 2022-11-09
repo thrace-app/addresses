@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa671d088ef820e1547c46f5ef833a79c8516cac8",
+  "displayName": "Lite Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lite Token",
+    "symbol": "LITE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e05fdce1ca8bfb66965eeab429609533f29db56",
+  "displayName": "Venus Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Venus Protocol",
+    "symbol": "VENUS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

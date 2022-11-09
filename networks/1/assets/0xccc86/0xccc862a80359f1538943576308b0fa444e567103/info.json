@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccc862a80359f1538943576308b0fa444e567103",
+  "displayName": "Husky Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Husky Inu",
+    "symbol": "$HI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

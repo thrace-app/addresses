@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2350212f8481df48bde8613c7c911d2105176cc6",
+  "displayName": "Wrapped LUNB Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped LUNB Token",
+    "symbol": "LUNB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

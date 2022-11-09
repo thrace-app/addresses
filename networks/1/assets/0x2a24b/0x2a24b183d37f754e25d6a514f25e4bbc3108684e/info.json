@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a24b183d37f754e25d6a514f25e4bbc3108684e",
+  "displayName": "Doge INU",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge INU",
+    "symbol": "DINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

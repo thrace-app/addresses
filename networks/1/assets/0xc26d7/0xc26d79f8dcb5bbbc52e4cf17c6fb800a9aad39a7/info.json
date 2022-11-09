@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc26d79f8dcb5bbbc52e4cf17c6fb800a9aad39a7",
+  "displayName": "MiqiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MiqiToken",
+    "symbol": "MQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

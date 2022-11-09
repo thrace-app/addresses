@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa518da976484c38c84bfaec7762f98f2f2e58088",
+  "displayName": "Bogus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bogus Token",
+    "symbol": "BOGUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

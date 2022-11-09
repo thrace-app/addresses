@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e6370e20d6ead5599291589bcedf1df858f0eee",
+  "displayName": "Burger",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burger",
+    "symbol": "BRGR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

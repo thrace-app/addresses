@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c3563796612723003fb315208ad08623c54d758",
+  "displayName": "This Rocks",
+  "type": "TOKEN",
+  "token": {
+    "name": "This Rocks",
+    "symbol": "MAGMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

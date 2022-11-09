@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba455c7dc754392c786078ad62ae81ddf4ef9f5f",
+  "displayName": "Cabbage",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cabbage",
+    "symbol": "CABBAGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

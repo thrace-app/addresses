@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x944b89f20394dbb08db903711a3e0a95ba3af735",
+  "displayName": "Club Penguin Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Club Penguin Coin",
+    "symbol": "CPC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

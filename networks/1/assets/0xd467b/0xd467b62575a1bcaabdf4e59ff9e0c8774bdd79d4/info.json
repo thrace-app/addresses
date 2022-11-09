@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd467b62575a1bcaabdf4e59ff9e0c8774bdd79d4",
+  "displayName": "DeFi Cryptokitties",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi Cryptokitties",
+    "symbol": "MEOW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

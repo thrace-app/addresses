@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a3a63659b209d6df2538fe8e8e8672da1354862",
+  "displayName": "Dog3Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dog3Coin",
+    "symbol": "DOG3",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

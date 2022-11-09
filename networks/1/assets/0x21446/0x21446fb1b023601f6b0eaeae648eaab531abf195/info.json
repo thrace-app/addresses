@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21446fb1b023601f6b0eaeae648eaab531abf195",
+  "displayName": "EtherMoney",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherMoney",
+    "symbol": "EMONEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

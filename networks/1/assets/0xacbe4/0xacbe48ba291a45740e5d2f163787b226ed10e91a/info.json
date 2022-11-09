@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacbe48ba291a45740e5d2f163787b226ed10e91a",
+  "displayName": "Prophecy coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Prophecy coin",
+    "symbol": "POC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

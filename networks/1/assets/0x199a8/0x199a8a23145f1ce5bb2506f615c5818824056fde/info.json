@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x199a8a23145f1ce5bb2506f615c5818824056fde",
+  "displayName": "Starbase Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Starbase Token",
+    "symbol": "STARBASE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

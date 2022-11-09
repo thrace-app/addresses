@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25729defccff2cc18803206d3955d6ccc694fd4d",
+  "displayName": "G-Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "G-Token",
+    "symbol": "GT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

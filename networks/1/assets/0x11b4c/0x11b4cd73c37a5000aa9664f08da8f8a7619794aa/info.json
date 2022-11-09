@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11b4cd73c37a5000aa9664f08da8f8a7619794aa",
+  "displayName": "Cap Liquidity Points",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cap Liquidity Points",
+    "symbol": "CapLP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

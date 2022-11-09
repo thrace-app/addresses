@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92d75eab138f1c587f841d64937fcdddcbbc86aa",
+  "displayName": "Yet Another Dog Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yet Another Dog Coin",
+    "symbol": "YADC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

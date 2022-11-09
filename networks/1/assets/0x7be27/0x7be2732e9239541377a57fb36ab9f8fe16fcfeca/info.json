@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7be2732e9239541377a57fb36ab9f8fe16fcfeca",
+  "displayName": "IngushCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "IngushCoin",
+    "symbol": "ING",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

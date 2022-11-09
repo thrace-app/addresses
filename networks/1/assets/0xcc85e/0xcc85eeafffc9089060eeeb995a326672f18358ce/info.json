@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc85eeafffc9089060eeeb995a326672f18358ce",
+  "displayName": "The Hang Man",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Hang Man",
+    "symbol": "HANGMAN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

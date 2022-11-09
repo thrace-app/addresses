@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93e1d610aef3bc366778a3a8465caf530555d2ae",
+  "displayName": "Sock Dao",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sock Dao",
+    "symbol": "Sock",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

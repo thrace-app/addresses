@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7362318a19bee70d1dad79fabe1d2b9f5ea722a",
+  "displayName": "Favor Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Favor Token",
+    "symbol": "FVR",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

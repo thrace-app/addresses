@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89a1645edc58797133625869b3d7b571938d321e",
+  "displayName": "Rising ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rising ETH",
+    "symbol": "RISE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

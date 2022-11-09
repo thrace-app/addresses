@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc271ae570e709f170bc78889449092ceb5183cc1",
+  "displayName": "Wondereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wondereum",
+    "symbol": "Wonder",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

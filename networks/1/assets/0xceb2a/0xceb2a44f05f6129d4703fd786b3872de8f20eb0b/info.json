@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xceb2a44f05f6129d4703fd786b3872de8f20eb0b",
+  "displayName": "DOBBY",
+  "type": "TOKEN",
+  "token": {
+    "name": "DOBBY",
+    "symbol": "Dobby Inu",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

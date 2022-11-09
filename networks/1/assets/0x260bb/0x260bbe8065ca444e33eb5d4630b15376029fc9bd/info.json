@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x260bbe8065ca444e33eb5d4630b15376029fc9bd",
+  "displayName": "GenAnSoncoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GenAnSoncoin",
+    "symbol": "GAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

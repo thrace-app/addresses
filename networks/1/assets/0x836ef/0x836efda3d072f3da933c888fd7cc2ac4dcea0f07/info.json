@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x836efda3d072f3da933c888fd7cc2ac4dcea0f07",
+  "displayName": "Test",
+  "type": "TOKEN",
+  "token": {
+    "name": "Test",
+    "symbol": "NCC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb7c20027172e5d143fb030d50f91cece2d1485d",
+  "displayName": "eBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "eBTC",
+    "symbol": "EBTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

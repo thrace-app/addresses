@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+  "displayName": "Injective Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Injective Token",
+    "symbol": "INJ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

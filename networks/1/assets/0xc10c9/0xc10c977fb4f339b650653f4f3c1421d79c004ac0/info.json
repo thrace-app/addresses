@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc10c977fb4f339b650653f4f3c1421d79c004ac0",
+  "displayName": "talky",
+  "type": "TOKEN",
+  "token": {
+    "name": "talky",
+    "symbol": "talky",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1106787eccf5e661b9fbc33e66b2ed3edf17a8a7",
+  "displayName": "BeauTiful.Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BeauTiful.Token",
+    "symbol": "BTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

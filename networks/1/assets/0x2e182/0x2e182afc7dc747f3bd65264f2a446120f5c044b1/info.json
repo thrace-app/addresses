@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e182afc7dc747f3bd65264f2a446120f5c044b1",
+  "displayName": "KRON Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KRON Token",
+    "symbol": "KRON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

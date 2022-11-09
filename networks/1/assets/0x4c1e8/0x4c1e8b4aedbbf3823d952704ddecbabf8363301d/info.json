@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c1e8b4aedbbf3823d952704ddecbabf8363301d",
+  "displayName": "The Limited Supply",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Limited Supply",
+    "symbol": "LIMITED",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb76517cc8ddf1322c197562170a2c387eccecaa",
+  "displayName": "Coinyee Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coinyee Token",
+    "symbol": "CT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

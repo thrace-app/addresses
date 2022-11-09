@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x555a451eabf31219a9c6211dcd07c5d5cf13990a",
+  "displayName": "Optimus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Optimus",
+    "symbol": "$Prime",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

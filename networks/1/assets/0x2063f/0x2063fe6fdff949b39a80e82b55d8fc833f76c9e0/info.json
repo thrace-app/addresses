@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2063fe6fdff949b39a80e82b55d8fc833f76c9e0",
+  "displayName": "UPua Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UPua Token",
+    "symbol": "UPua",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

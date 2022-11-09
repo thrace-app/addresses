@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f56462b1f302c832fd5cfb81971a759ff9d16cf",
+  "displayName": "Rubber Ducky",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rubber Ducky",
+    "symbol": "DUCKY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

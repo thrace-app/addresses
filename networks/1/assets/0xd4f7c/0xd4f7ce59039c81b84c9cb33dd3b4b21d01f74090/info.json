@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4f7ce59039c81b84c9cb33dd3b4b21d01f74090",
+  "displayName": "Hexthereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hexthereum",
+    "symbol": "HEXTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

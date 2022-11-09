@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76ad95022de45fbb89ece3a723762826465a6bd9",
+  "displayName": "SPump Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SPump Token",
+    "symbol": "SPUMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

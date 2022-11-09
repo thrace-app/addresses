@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ff5253e2304e3f5ed6547ac5d9952a62b91e3e8",
+  "displayName": "Stabinol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stabinol Token",
+    "symbol": "STOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

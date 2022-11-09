@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a0c83788a8f280c181aa7c016be89b16fe198c4",
+  "displayName": "Zoronu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zoronu Token",
+    "symbol": "ZORONU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

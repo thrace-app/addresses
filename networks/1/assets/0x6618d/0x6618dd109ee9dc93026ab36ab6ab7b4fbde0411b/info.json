@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6618dd109ee9dc93026ab36ab6ab7b4fbde0411b",
+  "displayName": "plutus.it",
+  "type": "TOKEN",
+  "token": {
+    "name": "plutus.it",
+    "symbol": "PLU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1296d25654adf4ed518fe83be406493af949345e",
+  "displayName": "WaPo Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "WaPo Protocol",
+    "symbol": "$WaPo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

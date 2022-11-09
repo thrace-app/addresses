@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19d4beb2bc410b80084fcbd0ac024326f4d3a370",
+  "displayName": "ViCA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ViCA Token",
+    "symbol": "ViCA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

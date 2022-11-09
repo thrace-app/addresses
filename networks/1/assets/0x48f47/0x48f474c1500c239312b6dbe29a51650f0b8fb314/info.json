@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48f474c1500c239312b6dbe29a51650f0b8fb314",
+  "displayName": "ACAcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ACAcoin",
+    "symbol": "ACA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

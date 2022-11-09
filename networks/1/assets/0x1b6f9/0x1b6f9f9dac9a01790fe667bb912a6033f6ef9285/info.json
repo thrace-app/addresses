@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b6f9f9dac9a01790fe667bb912a6033f6ef9285",
+  "displayName": "catnip.exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "catnip.exchange",
+    "symbol": "catnip",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

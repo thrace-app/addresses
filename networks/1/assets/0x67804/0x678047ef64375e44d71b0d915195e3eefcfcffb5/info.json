@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x678047ef64375e44d71b0d915195e3eefcfcffb5",
+  "displayName": "White Bear",
+  "type": "TOKEN",
+  "token": {
+    "name": "White Bear",
+    "symbol": "WhiteBear",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb36df92a75aa4d24a538c0102c671eb28f9d339b",
+  "displayName": "PuppyDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "PuppyDAO",
+    "symbol": "PDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

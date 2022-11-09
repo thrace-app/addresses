@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56e507f5999d99e2141263e37c586040f78e14fb",
+  "displayName": "ENS",
+  "type": "TOKEN",
+  "token": {
+    "name": "ENS",
+    "symbol": "ENS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

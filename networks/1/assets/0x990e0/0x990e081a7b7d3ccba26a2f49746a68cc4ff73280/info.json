@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x990e081a7b7d3ccba26a2f49746a68cc4ff73280",
+  "displayName": "KStarCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KStarCoin",
+    "symbol": "KSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

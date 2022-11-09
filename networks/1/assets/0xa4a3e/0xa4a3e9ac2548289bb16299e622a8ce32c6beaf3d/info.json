@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa4a3e9ac2548289bb16299e622a8ce32c6beaf3d",
+  "displayName": "PumpingETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "PumpingETH",
+    "symbol": "PAMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

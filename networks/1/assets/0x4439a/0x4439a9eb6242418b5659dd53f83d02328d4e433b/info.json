@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4439a9eb6242418b5659dd53f83d02328d4e433b",
+  "displayName": "Star Wars Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Star Wars Finance",
+    "symbol": "SWS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

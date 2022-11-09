@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae0dc81e68bfc2430f30a97ca62343d56aa0be02",
+  "displayName": "SpringRollToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpringRollToken",
+    "symbol": "SPRINGROLL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

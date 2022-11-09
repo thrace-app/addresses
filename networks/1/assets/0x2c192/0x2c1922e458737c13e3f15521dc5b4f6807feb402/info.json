@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c1922e458737c13e3f15521dc5b4f6807feb402",
+  "displayName": "Multi Stake Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Multi Stake Token",
+    "symbol": "MS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

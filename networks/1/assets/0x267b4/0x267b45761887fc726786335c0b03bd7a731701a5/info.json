@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x267b45761887fc726786335c0b03bd7a731701a5",
+  "displayName": "BabyDoge Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BabyDoge Coin",
+    "symbol": "BABYDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

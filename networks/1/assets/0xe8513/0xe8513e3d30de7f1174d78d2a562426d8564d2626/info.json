@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe8513e3d30de7f1174d78d2a562426d8564d2626",
+  "displayName": "BoredApeFungible",
+  "type": "TOKEN",
+  "token": {
+    "name": "BoredApeFungible",
+    "symbol": "BAPEF",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

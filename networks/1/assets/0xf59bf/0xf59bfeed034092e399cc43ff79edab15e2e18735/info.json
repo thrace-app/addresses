@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf59bfeed034092e399cc43ff79edab15e2e18735",
+  "displayName": "Krill Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Krill Token",
+    "symbol": "KRILL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

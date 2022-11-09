@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25fadd49c8d95108d2f86af7998431277e35fc01",
+  "displayName": "CrowCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CrowCoin",
+    "symbol": "CROW",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd90ab5c10bbbd06c50973a782fa352d7ac95fdba",
+  "displayName": "HERE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HERE Token",
+    "symbol": "HERE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

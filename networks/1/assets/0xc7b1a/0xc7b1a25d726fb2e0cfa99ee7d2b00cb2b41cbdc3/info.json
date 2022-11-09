@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7b1a25d726fb2e0cfa99ee7d2b00cb2b41cbdc3",
+  "displayName": "Ripley Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ripley Token",
+    "symbol": "Ripley",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

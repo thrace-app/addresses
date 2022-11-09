@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82f6d1c09cf4add02c5ae941a42addb1df8b70ac",
+  "displayName": "Opaque Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Opaque Bank",
+    "symbol": "OBNK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

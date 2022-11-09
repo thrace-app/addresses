@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdcd2484dc333a7697d6aa47e6597bf926b439d5b",
+  "displayName": "StinkyDog",
+  "type": "TOKEN",
+  "token": {
+    "name": "StinkyDog",
+    "symbol": "STD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

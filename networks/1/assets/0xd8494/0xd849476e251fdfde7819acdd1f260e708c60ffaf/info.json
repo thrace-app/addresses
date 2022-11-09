@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd849476e251fdfde7819acdd1f260e708c60ffaf",
+  "displayName": "DEFE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DEFE Token",
+    "symbol": "DEFE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

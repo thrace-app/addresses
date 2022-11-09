@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62ba3d7ccededfc19117bdba63bf864b1829d5ce",
+  "displayName": "WokeDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "WokeDAO",
+    "symbol": "WOKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

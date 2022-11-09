@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee0965367982e486fecdec096acf89be5b38a8f4",
+  "displayName": "Federal Reserve",
+  "type": "TOKEN",
+  "token": {
+    "name": "Federal Reserve",
+    "symbol": "FRE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

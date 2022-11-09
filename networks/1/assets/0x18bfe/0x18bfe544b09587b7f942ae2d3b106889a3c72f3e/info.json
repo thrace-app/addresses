@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18bfe544b09587b7f942ae2d3b106889a3c72f3e",
+  "displayName": "Simpson Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Simpson Finance",
+    "symbol": "SIMF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

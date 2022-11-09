@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9dd350e30fc1ebb40bdaf9aef061269869602fb1",
+  "displayName": "Weave Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Weave Token",
+    "symbol": "WTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

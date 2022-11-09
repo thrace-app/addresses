@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x949de4351a87fa13993f9af83ef238aeba00605a",
+  "displayName": "CoinExchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinExchange",
+    "symbol": "CNE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

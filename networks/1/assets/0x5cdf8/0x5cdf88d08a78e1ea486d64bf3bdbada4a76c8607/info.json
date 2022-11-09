@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cdf88d08a78e1ea486d64bf3bdbada4a76c8607",
+  "displayName": "Apard Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Apard Token",
+    "symbol": "Apard",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

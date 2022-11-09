@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfaa58a839bd37b7e8df728f80a55acfb724cd85",
+  "displayName": "FTS",
+  "type": "TOKEN",
+  "token": {
+    "name": "FTS",
+    "symbol": "FootballStars",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

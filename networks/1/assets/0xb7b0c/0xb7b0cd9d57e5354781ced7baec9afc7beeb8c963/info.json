@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7b0cd9d57e5354781ced7baec9afc7beeb8c963",
+  "displayName": "Ethereum Yield",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Yield",
+    "symbol": "ETHY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

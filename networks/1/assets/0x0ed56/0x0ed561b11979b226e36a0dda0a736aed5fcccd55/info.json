@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ed561b11979b226e36a0dda0a736aed5fcccd55",
+  "displayName": "Shiba Burn Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Burn Protocol",
+    "symbol": "$SBP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

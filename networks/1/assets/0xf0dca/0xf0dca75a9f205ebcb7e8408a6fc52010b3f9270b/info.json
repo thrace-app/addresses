@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0dca75a9f205ebcb7e8408a6fc52010b3f9270b",
+  "displayName": "BankOfPearl",
+  "type": "TOKEN",
+  "token": {
+    "name": "BankOfPearl",
+    "symbol": "BOPEARL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

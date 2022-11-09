@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x564e2d5e53c018ddd6df8e0236664e778641c513",
+  "displayName": "Magiccoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Magiccoin",
+    "symbol": "MC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b4571925e94ccd8c546b39462a270cc9b3ed1e4",
+  "displayName": "Wrapped Shift",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Shift",
+    "symbol": "wSHIFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

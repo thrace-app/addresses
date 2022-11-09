@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb9b8da6282e7fb852a354455318b49f05a7325d9",
+  "displayName": "Koma Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Koma Inu Token",
+    "symbol": "KOMAINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa5ca06c97f84f36e0d562e237a83d421ea24bcae",
+  "displayName": "Golden Ball",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Ball",
+    "symbol": "GOLDENBALL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

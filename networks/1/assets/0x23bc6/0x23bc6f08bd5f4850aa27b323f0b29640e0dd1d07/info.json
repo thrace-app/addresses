@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23bc6f08bd5f4850aa27b323f0b29640e0dd1d07",
+  "displayName": "FUNGUY",
+  "type": "TOKEN",
+  "token": {
+    "name": "FUNGUY",
+    "symbol": "FUNGUY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

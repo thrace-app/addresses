@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x201850680b79bbeff4e00684248b237a77bded0c",
+  "displayName": "Nerdling Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nerdling Token",
+    "symbol": "NERDLING",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

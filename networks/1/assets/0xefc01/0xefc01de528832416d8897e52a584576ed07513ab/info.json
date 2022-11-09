@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xefc01de528832416d8897e52a584576ed07513ab",
+  "displayName": "MisoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MisoToken",
+    "symbol": "MISO",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

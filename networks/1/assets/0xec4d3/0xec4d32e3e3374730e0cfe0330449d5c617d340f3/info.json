@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec4d32e3e3374730e0cfe0330449d5c617d340f3",
+  "displayName": "LilDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "LilDoge",
+    "symbol": "LDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

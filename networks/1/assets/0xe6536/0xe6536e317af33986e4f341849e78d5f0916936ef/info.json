@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe6536e317af33986e4f341849e78d5f0916936ef",
+  "displayName": "Brasil token coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brasil token coin",
+    "symbol": "tBRL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

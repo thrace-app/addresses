@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf276aad49776a219004c2bd2fc46fecf3b5f024f",
+  "displayName": "Burger Kong",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burger Kong",
+    "symbol": "BK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

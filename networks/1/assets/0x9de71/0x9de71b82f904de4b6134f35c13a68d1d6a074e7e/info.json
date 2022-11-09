@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9de71b82f904de4b6134f35c13a68d1d6a074e7e",
+  "displayName": "Grumpy Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grumpy Inu",
+    "symbol": "GRINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

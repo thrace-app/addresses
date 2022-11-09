@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc0e58a6ea532c3151ef4d5a23626511b5017852",
+  "displayName": "Wrapped RHAT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped RHAT",
+    "symbol": "WRHAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

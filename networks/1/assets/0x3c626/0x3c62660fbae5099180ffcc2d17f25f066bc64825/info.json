@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c62660fbae5099180ffcc2d17f25f066bc64825",
+  "displayName": "MemePet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MemePet Token",
+    "symbol": "PET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

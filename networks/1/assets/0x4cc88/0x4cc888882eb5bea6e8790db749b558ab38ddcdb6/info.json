@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cc888882eb5bea6e8790db749b558ab38ddcdb6",
+  "displayName": "Housekeeping Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Housekeeping Coin",
+    "symbol": "CLEAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84bb61eb0336b309ccf14cc68bd1888cfa4846ea",
+  "displayName": "The Official MINE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Official MINE Token",
+    "symbol": "MINE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

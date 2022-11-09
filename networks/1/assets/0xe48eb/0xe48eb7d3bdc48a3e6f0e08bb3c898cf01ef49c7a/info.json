@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe48eb7d3bdc48a3e6f0e08bb3c898cf01ef49c7a",
+  "displayName": "TerraBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "TerraBank",
+    "symbol": "TB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

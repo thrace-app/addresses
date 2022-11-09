@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13af0147b4ca3f24f11cc059b4c1c17b34cce199",
+  "displayName": "DireShiba Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DireShiba Token",
+    "symbol": "DIRESHIBA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

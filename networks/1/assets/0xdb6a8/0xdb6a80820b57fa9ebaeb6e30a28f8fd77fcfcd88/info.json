@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb6a80820b57fa9ebaeb6e30a28f8fd77fcfcd88",
+  "displayName": "Seagull Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Seagull Token",
+    "symbol": "SGULL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

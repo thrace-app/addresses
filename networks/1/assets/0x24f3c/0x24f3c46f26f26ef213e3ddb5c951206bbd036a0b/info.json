@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24f3c46f26f26ef213e3ddb5c951206bbd036a0b",
+  "displayName": "Vitalik Musk",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitalik Musk",
+    "symbol": "VIMU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b681d4c65075633091ab3be2357adae1cb0550c",
+  "displayName": "Pokemon Go Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pokemon Go Token",
+    "symbol": "POKEGO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

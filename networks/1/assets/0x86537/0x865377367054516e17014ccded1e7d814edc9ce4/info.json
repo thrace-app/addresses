@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x865377367054516e17014ccded1e7d814edc9ce4",
+  "displayName": "Dola USD Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dola USD Stablecoin",
+    "symbol": "DOLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

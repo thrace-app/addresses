@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22b5493c7e45efa9740d1af6f71e7f745768b776",
+  "displayName": "Super Shark",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Shark",
+    "symbol": "SSK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

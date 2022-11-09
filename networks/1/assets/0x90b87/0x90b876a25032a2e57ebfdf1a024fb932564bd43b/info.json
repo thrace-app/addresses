@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90b876a25032a2e57ebfdf1a024fb932564bd43b",
+  "displayName": "Response Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Response Coin",
+    "symbol": "REC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

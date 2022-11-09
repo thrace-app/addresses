@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x505dc36edf469c0063e8c27e06cad3d0ed5695c3",
+  "displayName": "Degen Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Protocol",
+    "symbol": "DPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

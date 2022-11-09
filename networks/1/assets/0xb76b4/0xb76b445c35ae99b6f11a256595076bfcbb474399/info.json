@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb76b445c35ae99b6f11a256595076bfcbb474399",
+  "displayName": "Gelato Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gelato Network Token",
+    "symbol": "GNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

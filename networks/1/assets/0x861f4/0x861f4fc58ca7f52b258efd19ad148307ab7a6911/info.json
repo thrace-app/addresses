@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x861f4fc58ca7f52b258efd19ad148307ab7a6911",
+  "displayName": "DRY Farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "DRY Farm",
+    "symbol": "DRYF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacdbc7928f6ccf5f320f778df6c9df39be8ad86d",
+  "displayName": "Golden Eagle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Eagle",
+    "symbol": "GE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

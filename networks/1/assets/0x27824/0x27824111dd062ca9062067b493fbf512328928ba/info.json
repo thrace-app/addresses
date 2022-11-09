@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27824111dd062ca9062067b493fbf512328928ba",
+  "displayName": "UNI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UNI Token",
+    "symbol": "UXT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

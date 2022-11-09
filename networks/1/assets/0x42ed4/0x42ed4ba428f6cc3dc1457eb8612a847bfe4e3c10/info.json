@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42ed4ba428f6cc3dc1457eb8612a847bfe4e3c10",
+  "displayName": "The Choice Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Choice Protocol",
+    "symbol": "CHOICE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd147bb43937b4e16caf73e3ddff85377e3c6d461",
+  "displayName": "Fasting rocks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fasting rocks",
+    "symbol": "rocks",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

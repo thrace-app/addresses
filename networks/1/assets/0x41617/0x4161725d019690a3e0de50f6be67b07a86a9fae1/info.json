@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4161725d019690a3e0de50f6be67b07a86a9fae1",
+  "displayName": "TokenPocket Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TokenPocket Token",
+    "symbol": "TPT",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

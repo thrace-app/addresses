@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbaf2e1ecabe3193836506144cdccb84e08248b9",
+  "displayName": "Penguin Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Penguin Inu",
+    "symbol": "PENGU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

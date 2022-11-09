@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c0a9d9b70a253b47443470a28e2d8422b9c882f",
+  "displayName": "Pekker Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pekker Token",
+    "symbol": "PKR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

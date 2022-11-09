@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbe319b73744db9d54f5d29df7d8256b7e43995c",
+  "displayName": "Aragon China Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aragon China Token",
+    "symbol": "ANC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

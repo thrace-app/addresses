@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1aa6a360112a21f082098b6f938433ef784ac374",
+  "displayName": "MINID",
+  "type": "TOKEN",
+  "token": {
+    "name": "MINID",
+    "symbol": "Mini Daruma",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

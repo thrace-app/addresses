@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c08fe6f7716188c08272b32d881dcec9d3990bb",
+  "displayName": "TimsonCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TimsonCoin",
+    "symbol": "TIMSON",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

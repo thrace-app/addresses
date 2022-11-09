@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc3f2661a91e0f518928b33a0a7a403e9ea6404f",
+  "displayName": "BTswap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTswap Token",
+    "symbol": "BT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

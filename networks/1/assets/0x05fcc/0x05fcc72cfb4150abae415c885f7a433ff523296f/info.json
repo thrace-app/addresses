@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05fcc72cfb4150abae415c885f7a433ff523296f",
+  "displayName": "YOKcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "YOKcoin",
+    "symbol": "YOK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

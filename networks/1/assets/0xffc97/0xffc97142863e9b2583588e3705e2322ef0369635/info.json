@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xffc97142863e9b2583588e3705e2322ef0369635",
+  "displayName": "Surge Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Surge Token",
+    "symbol": "SVG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

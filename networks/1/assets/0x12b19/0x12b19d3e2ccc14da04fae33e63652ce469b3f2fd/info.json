@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd",
+  "displayName": "GRID Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GRID Token",
+    "symbol": "GRID",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

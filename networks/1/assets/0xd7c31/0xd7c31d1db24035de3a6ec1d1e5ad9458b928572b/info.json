@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7c31d1db24035de3a6ec1d1e5ad9458b928572b",
+  "displayName": "2nd Wave Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "2nd Wave Token",
+    "symbol": "2ndWVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

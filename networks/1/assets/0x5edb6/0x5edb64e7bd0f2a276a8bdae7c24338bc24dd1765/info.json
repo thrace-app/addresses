@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5edb64e7bd0f2a276a8bdae7c24338bc24dd1765",
+  "displayName": "Zelensky Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zelensky Coin",
+    "symbol": "Zelensky",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

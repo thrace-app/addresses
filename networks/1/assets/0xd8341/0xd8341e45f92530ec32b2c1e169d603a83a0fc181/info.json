@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8341e45f92530ec32b2c1e169d603a83a0fc181",
+  "displayName": "Take Profit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Take Profit",
+    "symbol": "TP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

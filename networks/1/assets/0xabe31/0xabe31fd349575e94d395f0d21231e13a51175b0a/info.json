@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabe31fd349575e94d395f0d21231e13a51175b0a",
+  "displayName": "BTGG",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTGG",
+    "symbol": "BTG",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5",
+  "displayName": "Blockchain Certified Data Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blockchain Certified Data Token",
+    "symbol": "BCDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19db8395caa3e711366fcd857b32d03f84159e47",
+  "displayName": "VBC",
+  "type": "TOKEN",
+  "token": {
+    "name": "VBC",
+    "symbol": "VBC(radr)",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f051d2fd265899b8dece589b20f0cb0a5ab509d",
+  "displayName": "SMILE DOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "SMILE DOGE",
+    "symbol": "SMILEDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

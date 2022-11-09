@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x257e2d60b234aa08ce9c0dffeb8e123dba59cf8a",
+  "displayName": "Doge With A Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge With A Chain",
+    "symbol": "DWAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

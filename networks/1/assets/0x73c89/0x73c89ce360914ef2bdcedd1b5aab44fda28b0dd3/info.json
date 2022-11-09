@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73c89ce360914ef2bdcedd1b5aab44fda28b0dd3",
+  "displayName": "Zoug Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zoug Token",
+    "symbol": "$ZOUG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

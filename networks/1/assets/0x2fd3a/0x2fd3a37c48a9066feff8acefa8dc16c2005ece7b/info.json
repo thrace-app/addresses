@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2fd3a37c48a9066feff8acefa8dc16c2005ece7b",
+  "displayName": "DeFiBench",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiBench",
+    "symbol": "EDDA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

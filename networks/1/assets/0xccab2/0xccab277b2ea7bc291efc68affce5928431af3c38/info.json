@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccab277b2ea7bc291efc68affce5928431af3c38",
+  "displayName": "Fantasy World Cup",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fantasy World Cup",
+    "symbol": "$FWC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

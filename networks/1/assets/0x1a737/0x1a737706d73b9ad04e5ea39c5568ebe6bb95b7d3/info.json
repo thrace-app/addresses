@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a737706d73b9ad04e5ea39c5568ebe6bb95b7d3",
+  "displayName": "MonsterCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MonsterCoin",
+    "symbol": "MONSTER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

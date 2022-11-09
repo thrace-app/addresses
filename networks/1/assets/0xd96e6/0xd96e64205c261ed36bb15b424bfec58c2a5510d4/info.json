@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd96e64205c261ed36bb15b424bfec58c2a5510d4",
+  "displayName": "SINS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SINS Token",
+    "symbol": "SINS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

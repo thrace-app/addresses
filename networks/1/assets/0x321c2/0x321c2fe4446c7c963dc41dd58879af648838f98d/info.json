@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x321c2fe4446c7c963dc41dd58879af648838f98d",
+  "displayName": "Cryptex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryptex",
+    "symbol": "CTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

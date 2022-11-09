@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfe41cca4316016ad771730c06ee4f75f289fe59",
+  "displayName": "Airdrop",
+  "type": "TOKEN",
+  "token": {
+    "name": "Airdrop",
+    "symbol": "BLUNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

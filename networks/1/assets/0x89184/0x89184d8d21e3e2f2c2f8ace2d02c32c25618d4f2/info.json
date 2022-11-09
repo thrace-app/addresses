@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89184d8d21e3e2f2c2f8ace2d02c32c25618d4f2",
+  "displayName": "NewEtherium",
+  "type": "TOKEN",
+  "token": {
+    "name": "NewEtherium",
+    "symbol": "NETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

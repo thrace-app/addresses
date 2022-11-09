@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2456ace5d3979b28558635a3ee8fee228d06ae96",
+  "displayName": "Dollar cost average",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dollar cost average",
+    "symbol": "DCA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

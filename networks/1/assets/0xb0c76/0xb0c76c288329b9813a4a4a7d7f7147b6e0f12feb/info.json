@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0c76c288329b9813a4a4a7d7f7147b6e0f12feb",
+  "displayName": "Safe Moon Cake",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Moon Cake",
+    "symbol": "SMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

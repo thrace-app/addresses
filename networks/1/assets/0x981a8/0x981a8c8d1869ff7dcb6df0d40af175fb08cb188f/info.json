@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x981a8c8d1869ff7dcb6df0d40af175fb08cb188f",
+  "displayName": "Consortium Bot",
+  "type": "TOKEN",
+  "token": {
+    "name": "Consortium Bot",
+    "symbol": "CBOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

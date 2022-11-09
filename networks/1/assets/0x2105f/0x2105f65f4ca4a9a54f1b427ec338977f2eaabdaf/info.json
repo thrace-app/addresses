@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2105f65f4ca4a9a54f1b427ec338977f2eaabdaf",
+  "displayName": "PETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "PETH",
+    "symbol": "PETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

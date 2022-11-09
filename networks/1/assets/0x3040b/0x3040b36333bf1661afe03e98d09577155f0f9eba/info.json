@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3040b36333bf1661afe03e98d09577155f0f9eba",
+  "displayName": "Brucecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brucecoin",
+    "symbol": "BRUCE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

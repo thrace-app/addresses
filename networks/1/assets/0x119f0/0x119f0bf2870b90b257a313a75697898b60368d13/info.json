@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x119f0bf2870b90b257a313a75697898b60368d13",
+  "displayName": "Daruma Burn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Daruma Burn Token",
+    "symbol": "DBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0adb905e46ffd36a20c843af7a094b3590ff5836",
+  "displayName": "croc.cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "croc.cash",
+    "symbol": "CROC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

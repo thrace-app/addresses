@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9560be3e8436a288c43b21ce2b566355a800394f",
+  "displayName": "AMPLL token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AMPLL token",
+    "symbol": "AMPLL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

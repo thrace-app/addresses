@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2cdafcd7ae98547ae369a1f6e4f912a5f9e5e77",
+  "displayName": "BTC Printer",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTC Printer",
+    "symbol": "BPTR",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f6415e9c3ebff48ac21115829971e656817d44c",
+  "displayName": "MIOTA",
+  "type": "TOKEN",
+  "token": {
+    "name": "MIOTA",
+    "symbol": "MIOTAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c169a2ec825ff4f02789af2dcd86e380a153b09",
+  "displayName": "Lord of the Rings",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lord of the Rings",
+    "symbol": "LORD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

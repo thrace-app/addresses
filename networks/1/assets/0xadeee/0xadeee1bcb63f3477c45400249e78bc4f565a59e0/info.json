@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xadeee1bcb63f3477c45400249e78bc4f565a59e0",
+  "displayName": "RIFT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RIFT Token",
+    "symbol": "RIFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

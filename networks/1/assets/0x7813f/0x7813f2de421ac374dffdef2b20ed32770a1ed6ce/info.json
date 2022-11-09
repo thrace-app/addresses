@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7813f2de421ac374dffdef2b20ed32770a1ed6ce",
+  "displayName": "FlashCompound Dai",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlashCompound Dai",
+    "symbol": "FlashcDAI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

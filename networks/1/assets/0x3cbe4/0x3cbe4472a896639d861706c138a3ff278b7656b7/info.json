@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3cbe4472a896639d861706c138a3ff278b7656b7",
+  "displayName": "YFBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "YFBurn",
+    "symbol": "YFB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

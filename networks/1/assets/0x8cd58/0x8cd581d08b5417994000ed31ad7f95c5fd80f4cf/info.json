@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8cd581d08b5417994000ed31ad7f95c5fd80f4cf",
+  "displayName": "BergiselCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BergiselCoin",
+    "symbol": "BGSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

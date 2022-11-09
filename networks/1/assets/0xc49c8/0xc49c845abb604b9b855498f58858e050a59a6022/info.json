@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc49c845abb604b9b855498f58858e050a59a6022",
+  "displayName": "Matg Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Matg Token",
+    "symbol": "MATG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

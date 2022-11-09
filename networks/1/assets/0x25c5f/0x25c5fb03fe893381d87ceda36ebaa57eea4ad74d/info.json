@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25c5fb03fe893381d87ceda36ebaa57eea4ad74d",
+  "displayName": "Nugs Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nugs Token",
+    "symbol": "NUGS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

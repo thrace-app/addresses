@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1eb8d6a677bccb53ff4f8845bb4202c61c793759",
+  "displayName": "Jupiter Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jupiter Coin",
+    "symbol": "JPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

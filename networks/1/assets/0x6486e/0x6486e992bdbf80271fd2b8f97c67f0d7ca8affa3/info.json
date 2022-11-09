@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6486e992bdbf80271fd2b8f97c67f0d7ca8affa3",
+  "displayName": "Bitcoin Anonymous",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Anonymous",
+    "symbol": "BTCA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

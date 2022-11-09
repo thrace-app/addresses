@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1b8e582d1ee88829b8edea62fd38ffc95575175",
+  "displayName": "One Dollar Experiment",
+  "type": "TOKEN",
+  "token": {
+    "name": "One Dollar Experiment",
+    "symbol": "DOLLAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

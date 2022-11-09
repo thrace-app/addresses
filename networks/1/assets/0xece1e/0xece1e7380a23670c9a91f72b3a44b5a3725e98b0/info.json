@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xece1e7380a23670c9a91f72b3a44b5a3725e98b0",
+  "displayName": "Primitive Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Primitive Token",
+    "symbol": "PRM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

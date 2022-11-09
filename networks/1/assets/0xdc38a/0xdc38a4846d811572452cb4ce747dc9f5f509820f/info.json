@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc38a4846d811572452cb4ce747dc9f5f509820f",
+  "displayName": "SimpleYFI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SimpleYFI Token",
+    "symbol": "SYFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f66b5f94e387f0fc69ed9cc7cf688714cf0c28c",
+  "displayName": "RIP Paulie",
+  "type": "TOKEN",
+  "token": {
+    "name": "RIP Paulie",
+    "symbol": "WALNUTS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

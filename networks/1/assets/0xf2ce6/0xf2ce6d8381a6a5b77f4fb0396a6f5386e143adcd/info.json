@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2ce6d8381a6a5b77f4fb0396a6f5386e143adcd",
+  "displayName": "Kruze Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kruze Token",
+    "symbol": "KRUZE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

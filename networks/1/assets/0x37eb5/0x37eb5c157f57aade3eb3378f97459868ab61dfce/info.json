@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37eb5c157f57aade3eb3378f97459868ab61dfce",
+  "displayName": "InterPass",
+  "type": "TOKEN",
+  "token": {
+    "name": "InterPass",
+    "symbol": "PASS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

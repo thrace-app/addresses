@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf9d08c590ca32d68af061957b9a2cc9ebf1bf117",
+  "displayName": "Money Maker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Money Maker",
+    "symbol": "MM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

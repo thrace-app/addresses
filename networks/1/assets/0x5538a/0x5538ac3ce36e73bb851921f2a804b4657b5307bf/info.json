@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5538ac3ce36e73bb851921f2a804b4657b5307bf",
+  "displayName": "Wrapped SZO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped SZO",
+    "symbol": "WSZO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

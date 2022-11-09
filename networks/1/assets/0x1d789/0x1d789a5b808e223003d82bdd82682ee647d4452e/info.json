@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d789a5b808e223003d82bdd82682ee647d4452e",
+  "displayName": "The Last Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Last Ape",
+    "symbol": "$TLA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

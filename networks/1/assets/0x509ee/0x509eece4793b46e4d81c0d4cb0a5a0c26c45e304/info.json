@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x509eece4793b46e4d81c0d4cb0a5a0c26c45e304",
+  "displayName": "First Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "First Gold",
+    "symbol": "FGLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

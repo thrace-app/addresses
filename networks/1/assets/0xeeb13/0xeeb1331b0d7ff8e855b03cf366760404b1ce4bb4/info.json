@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeeb1331b0d7ff8e855b03cf366760404b1ce4bb4",
+  "displayName": "TwoPercent",
+  "type": "TOKEN",
+  "token": {
+    "name": "TwoPercent",
+    "symbol": "2 %",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

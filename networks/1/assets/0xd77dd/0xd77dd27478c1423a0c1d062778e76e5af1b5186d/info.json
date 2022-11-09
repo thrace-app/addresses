@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd77dd27478c1423a0c1d062778e76e5af1b5186d",
+  "displayName": "Standard Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Standard Cash",
+    "symbol": "STC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

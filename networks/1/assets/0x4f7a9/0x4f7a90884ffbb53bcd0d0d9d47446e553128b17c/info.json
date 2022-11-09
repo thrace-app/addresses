@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f7a90884ffbb53bcd0d0d9d47446e553128b17c",
+  "displayName": "DragonBear",
+  "type": "TOKEN",
+  "token": {
+    "name": "DragonBear",
+    "symbol": "DBEAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

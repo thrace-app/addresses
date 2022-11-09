@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa7bce694379ac66d885347b871c2f73b6c38f726",
+  "displayName": "Claim Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Claim Token",
+    "symbol": "CLAIM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

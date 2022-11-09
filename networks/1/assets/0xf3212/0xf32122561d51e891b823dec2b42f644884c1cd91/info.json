@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf32122561d51e891b823dec2b42f644884c1cd91",
+  "displayName": "DeFido",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFido",
+    "symbol": "DEFIDO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

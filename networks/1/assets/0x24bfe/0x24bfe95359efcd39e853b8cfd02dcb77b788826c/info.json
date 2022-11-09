@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24bfe95359efcd39e853b8cfd02dcb77b788826c",
+  "displayName": "SpiderX",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpiderX",
+    "symbol": "SPIDX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

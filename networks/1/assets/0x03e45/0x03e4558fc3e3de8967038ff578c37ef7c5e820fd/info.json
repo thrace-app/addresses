@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03e4558fc3e3de8967038ff578c37ef7c5e820fd",
+  "displayName": "The Dragon Wei",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Dragon Wei",
+    "symbol": "WEI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

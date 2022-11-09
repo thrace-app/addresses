@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cece14b95578285ea6eb393e84a6df84fc521b9",
+  "displayName": "Trigon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trigon Token",
+    "symbol": "TRGN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

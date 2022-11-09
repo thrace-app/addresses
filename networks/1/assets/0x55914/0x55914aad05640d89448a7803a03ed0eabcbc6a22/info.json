@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55914aad05640d89448a7803a03ed0eabcbc6a22",
+  "displayName": "Ethereum Crystal",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Crystal",
+    "symbol": "ETHC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

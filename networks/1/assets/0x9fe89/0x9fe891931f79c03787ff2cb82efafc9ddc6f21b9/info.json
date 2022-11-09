@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9fe891931f79c03787ff2cb82efafc9ddc6f21b9",
+  "displayName": "Quyum Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quyum Token",
+    "symbol": "QT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

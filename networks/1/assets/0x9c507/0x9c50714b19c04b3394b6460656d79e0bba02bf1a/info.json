@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c50714b19c04b3394b6460656d79e0bba02bf1a",
+  "displayName": "The Rock Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Rock Coin",
+    "symbol": "ROCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

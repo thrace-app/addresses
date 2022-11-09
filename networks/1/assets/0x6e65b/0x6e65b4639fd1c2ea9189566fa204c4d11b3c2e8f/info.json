@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e65b4639fd1c2ea9189566fa204c4d11b3c2e8f",
+  "displayName": "MaRe Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MaRe Token",
+    "symbol": "MaRe",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2eeef35fb8d20c81b4ce57578087f24fc8fcd537",
+  "displayName": "PsiComCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PsiComCoin",
+    "symbol": "PCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

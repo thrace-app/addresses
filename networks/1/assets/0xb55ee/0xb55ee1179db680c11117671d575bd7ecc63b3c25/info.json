@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb55ee1179db680c11117671d575bd7ecc63b3c25",
+  "displayName": "FeistyDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "FeistyDoge",
+    "symbol": "FD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

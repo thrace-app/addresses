@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69dd2f1268697b6d793f04d66f9b173799d1ef53",
+  "displayName": "KalaCloud Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KalaCloud Token",
+    "symbol": "KALA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

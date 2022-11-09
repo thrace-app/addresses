@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f51c173ea204cc842cb6fa605b10cc038148ad8",
+  "displayName": "Hulk Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hulk Token",
+    "symbol": "HULK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

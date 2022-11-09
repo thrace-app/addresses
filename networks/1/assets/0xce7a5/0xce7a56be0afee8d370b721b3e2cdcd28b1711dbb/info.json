@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce7a56be0afee8d370b721b3e2cdcd28b1711dbb",
+  "displayName": "SharkSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "SharkSwap",
+    "symbol": "SHARK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8af228ac9c75aded2bf89a46632686b15a77f156",
+  "displayName": "Millennium Falcon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Millennium Falcon",
+    "symbol": "FALCON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

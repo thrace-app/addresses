@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71cd6791dfbacd9ad8ab72f5d50ea2fa9021b93e",
+  "displayName": "Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inu Token",
+    "symbol": "INU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc4b6222f66689550cb4205658ca6c0a275ddde5",
+  "displayName": "The Crypto Community Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Crypto Community Coin",
+    "symbol": "CCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

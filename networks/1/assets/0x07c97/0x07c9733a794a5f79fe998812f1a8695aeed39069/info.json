@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07c9733a794a5f79fe998812f1a8695aeed39069",
+  "displayName": "Inuzula Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inuzula Token",
+    "symbol": "INUZULA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

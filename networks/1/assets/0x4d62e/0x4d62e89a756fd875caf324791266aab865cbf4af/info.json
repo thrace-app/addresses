@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d62e89a756fd875caf324791266aab865cbf4af",
+  "displayName": "World Cup Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "World Cup Doge",
+    "symbol": "WCD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

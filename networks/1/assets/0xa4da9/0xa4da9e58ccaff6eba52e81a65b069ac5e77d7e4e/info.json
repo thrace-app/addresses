@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa4da9e58ccaff6eba52e81a65b069ac5e77d7e4e",
+  "displayName": "DeBet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeBet Token",
+    "symbol": "DBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

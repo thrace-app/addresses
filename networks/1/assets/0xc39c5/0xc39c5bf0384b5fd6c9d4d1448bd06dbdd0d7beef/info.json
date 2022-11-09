@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc39c5bf0384b5fd6c9d4d1448bd06dbdd0d7beef",
+  "displayName": "TAU Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TAU Token",
+    "symbol": "TAU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

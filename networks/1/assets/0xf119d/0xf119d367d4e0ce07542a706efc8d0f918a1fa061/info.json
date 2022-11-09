@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf119d367d4e0ce07542a706efc8d0f918a1fa061",
+  "displayName": "NFT Aggregator Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT Aggregator Token",
+    "symbol": "NFTAT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

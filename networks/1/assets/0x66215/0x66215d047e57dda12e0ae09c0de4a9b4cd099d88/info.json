@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66215d047e57dda12e0ae09c0de4a9b4cd099d88",
+  "displayName": "Binance Vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "Binance Vault",
+    "symbol": "BNBV",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

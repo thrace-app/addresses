@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1238f2711eeddd8f0a7b8b83dbedc30c0bda41b",
+  "displayName": "CoinsPaid Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinsPaid Token",
+    "symbol": "CPD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8eb4ed0ed585363d3855299c3f80c39db3cfb393",
+  "displayName": "The Crypto Dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Crypto Dog",
+    "symbol": "TCDOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

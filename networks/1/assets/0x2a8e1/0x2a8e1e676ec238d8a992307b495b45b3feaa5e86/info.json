@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
+  "displayName": "Origin Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Origin Dollar",
+    "symbol": "OUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

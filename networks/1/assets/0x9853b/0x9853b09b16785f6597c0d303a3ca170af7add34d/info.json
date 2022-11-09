@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9853b09b16785f6597c0d303a3ca170af7add34d",
+  "displayName": "Ethereum Exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Exchange",
+    "symbol": "ETHX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

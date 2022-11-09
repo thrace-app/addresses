@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77c43ce4ae73147e6cff4de9eaf2dffd5e766290",
+  "displayName": "Doge Poppa",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Poppa",
+    "symbol": "DPOP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

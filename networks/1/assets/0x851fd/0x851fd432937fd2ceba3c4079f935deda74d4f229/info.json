@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x851fd432937fd2ceba3c4079f935deda74d4f229",
+  "displayName": "The Maker",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Maker",
+    "symbol": "$MAKER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

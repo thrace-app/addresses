@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c38688e5acb9ed6049c8502650db5ac8ef96465",
+  "displayName": "LifToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LifToken",
+    "symbol": "LIF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

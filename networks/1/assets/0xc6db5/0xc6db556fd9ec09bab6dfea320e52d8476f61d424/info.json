@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6db556fd9ec09bab6dfea320e52d8476f61d424",
+  "displayName": "Cool Monke Banana",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cool Monke Banana",
+    "symbol": "CMB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xffb5d4cc0e7e91c71263778b20518d3e9cec935a",
+  "displayName": "Return of The Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Return of The Doge",
+    "symbol": "ROD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

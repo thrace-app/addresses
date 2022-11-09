@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac9749c854b31bba3b3e71b30fdd7aea4fcc0db9",
+  "displayName": "FightBackCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FightBackCoin",
+    "symbol": "FBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

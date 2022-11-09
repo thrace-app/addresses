@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3428bdeaa220ab41bac8e45752fee2f1a82b33c",
+  "displayName": "Go Green",
+  "type": "TOKEN",
+  "token": {
+    "name": "Go Green",
+    "symbol": "GOGREEN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

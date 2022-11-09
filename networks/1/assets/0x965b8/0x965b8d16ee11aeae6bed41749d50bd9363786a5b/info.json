@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x965b8d16ee11aeae6bed41749d50bd9363786a5b",
+  "displayName": "Japanese Yen",
+  "type": "TOKEN",
+  "token": {
+    "name": "Japanese Yen",
+    "symbol": "JPYN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

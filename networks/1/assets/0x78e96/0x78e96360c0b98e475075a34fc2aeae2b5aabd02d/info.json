@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78e96360c0b98e475075a34fc2aeae2b5aabd02d",
+  "displayName": "RealGold",
+  "type": "TOKEN",
+  "token": {
+    "name": "RealGold",
+    "symbol": "REALGOLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

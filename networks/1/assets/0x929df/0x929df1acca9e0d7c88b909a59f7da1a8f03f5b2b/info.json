@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x929df1acca9e0d7c88b909a59f7da1a8f03f5b2b",
+  "displayName": "Gengar Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gengar Token",
+    "symbol": "GENGAR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

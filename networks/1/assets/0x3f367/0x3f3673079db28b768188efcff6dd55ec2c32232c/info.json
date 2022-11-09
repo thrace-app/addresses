@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f3673079db28b768188efcff6dd55ec2c32232c",
+  "displayName": "Pucca Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pucca Token",
+    "symbol": "Pucca",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

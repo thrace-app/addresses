@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca1212450630a982cd5b67912fb431944fd71783",
+  "displayName": "Native Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Native Bitcoin",
+    "symbol": "NBTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18e19a6ca3ed0c112ba6302250077c2e4f9ddd46",
+  "displayName": "WenPay me",
+  "type": "TOKEN",
+  "token": {
+    "name": "WenPay me",
+    "symbol": "WenPay",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

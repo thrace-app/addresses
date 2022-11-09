@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d9bb4caf2e1197d09120f4270e3396121feee9a",
+  "displayName": "Gensler coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gensler coin",
+    "symbol": "GARY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

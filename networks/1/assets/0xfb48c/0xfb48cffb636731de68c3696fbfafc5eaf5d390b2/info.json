@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb48cffb636731de68c3696fbfafc5eaf5d390b2",
+  "displayName": "BoringDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "BoringDAO",
+    "symbol": "BOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

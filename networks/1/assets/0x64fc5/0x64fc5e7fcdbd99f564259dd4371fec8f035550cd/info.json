@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64fc5e7fcdbd99f564259dd4371fec8f035550cd",
+  "displayName": "NewPolkadot",
+  "type": "TOKEN",
+  "token": {
+    "name": "NewPolkadot",
+    "symbol": "NDOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

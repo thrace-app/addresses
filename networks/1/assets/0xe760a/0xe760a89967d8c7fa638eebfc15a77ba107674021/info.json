@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe760a89967d8c7fa638eebfc15a77ba107674021",
+  "displayName": "Ziggurat Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ziggurat Token",
+    "symbol": "ZIG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

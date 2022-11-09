@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62f58ffbfe6302f3d139716ba6385f21a93f751b",
+  "displayName": "Einstein",
+  "type": "TOKEN",
+  "token": {
+    "name": "Einstein",
+    "symbol": "E=Mc2",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

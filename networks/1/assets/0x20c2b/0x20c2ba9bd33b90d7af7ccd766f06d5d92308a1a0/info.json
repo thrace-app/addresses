@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20c2ba9bd33b90d7af7ccd766f06d5d92308a1a0",
+  "displayName": "Nero Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nero Token",
+    "symbol": "NRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d3bafae7a76807177b269041a334c829de7570f",
+  "displayName": "GiNext Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GiNext Token",
+    "symbol": "GiNext",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

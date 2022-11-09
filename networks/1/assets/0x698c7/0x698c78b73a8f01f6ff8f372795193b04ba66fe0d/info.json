@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x698c78b73a8f01f6ff8f372795193b04ba66fe0d",
+  "displayName": "NinjaCat",
+  "type": "TOKEN",
+  "token": {
+    "name": "NinjaCat",
+    "symbol": "NinjaCat",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f5e1d10ad30ac8b695b8646cf2be8eeb3d02fee",
+  "displayName": "EthereumMax",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumMax",
+    "symbol": "eMax",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

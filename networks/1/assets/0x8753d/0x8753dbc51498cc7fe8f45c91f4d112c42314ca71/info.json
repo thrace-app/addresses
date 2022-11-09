@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8753dbc51498cc7fe8f45c91f4d112c42314ca71",
+  "displayName": "Koinu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Koinu",
+    "symbol": "$KOINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

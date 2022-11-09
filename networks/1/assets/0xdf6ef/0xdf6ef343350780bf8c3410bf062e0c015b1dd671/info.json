@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf6ef343350780bf8c3410bf062e0c015b1dd671",
+  "displayName": "Blackmoon Crypto Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blackmoon Crypto Token",
+    "symbol": "BMC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

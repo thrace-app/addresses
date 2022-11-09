@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc66278ca08d5bf8fc1da3783bc267dc527a90bee",
+  "displayName": "Dracula Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dracula Coin",
+    "symbol": "Dracula",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

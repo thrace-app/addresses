@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a1fa70c6d81013272a56e79a4aa24e5048e8158",
+  "displayName": "SuperFlokiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperFlokiToken",
+    "symbol": "SuperFloki",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

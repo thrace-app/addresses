@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4a4468dd6f20b8bdff1549640075a2cd308e861",
+  "displayName": "MiniCommission",
+  "type": "TOKEN",
+  "token": {
+    "name": "MiniCommission",
+    "symbol": "MiniCMSN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

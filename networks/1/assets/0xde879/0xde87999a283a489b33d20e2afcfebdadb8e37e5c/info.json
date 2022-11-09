@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde87999a283a489b33d20e2afcfebdadb8e37e5c",
+  "displayName": "Time Locked YFIR",
+  "type": "TOKEN",
+  "token": {
+    "name": "Time Locked YFIR",
+    "symbol": "tlYFIR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

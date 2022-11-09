@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97bedf6bca151287302ad200d26488faa2545a5e",
+  "displayName": "Stoploss",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stoploss",
+    "symbol": "SL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa21ddec9a019e6e0d2472ef37d8adb51cfbff93",
+  "displayName": "CRYPTOLUCK",
+  "type": "TOKEN",
+  "token": {
+    "name": "CRYPTOLUCK",
+    "symbol": "LUCKY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

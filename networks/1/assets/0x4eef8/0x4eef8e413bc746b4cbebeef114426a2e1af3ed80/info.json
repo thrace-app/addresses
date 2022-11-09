@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4eef8e413bc746b4cbebeef114426a2e1af3ed80",
+  "displayName": "the hidden chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "the hidden chain",
+    "symbol": "STRING",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0709e962221dd8ac9ec5c56f85ef789d3c1b9776",
+  "displayName": "Primez Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Primez Token",
+    "symbol": "PRM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

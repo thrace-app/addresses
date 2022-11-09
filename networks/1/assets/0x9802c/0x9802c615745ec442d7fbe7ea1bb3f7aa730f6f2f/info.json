@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9802c615745ec442d7fbe7ea1bb3f7aa730f6f2f",
+  "displayName": "Wealthcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wealthcoin",
+    "symbol": "WTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9da91d7cb48fbbe531458ce79a0b0e9d8dd2ba50",
+  "displayName": "Loot Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Loot Token",
+    "symbol": "LOOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb17d0486bae7e5a7becfa366fd1cc83898c44838",
+  "displayName": "Lizard",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lizard",
+    "symbol": "LZRD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c6e796bbfe5eb37f9e3e0f66c009c8bf2a5f428",
+  "displayName": "FC Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FC Bitcoin",
+    "symbol": "FCBTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

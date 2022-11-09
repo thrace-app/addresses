@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72aa40952217bb1ae7b27ea567207cb10af756e8",
+  "displayName": "Ohmeow Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ohmeow Token",
+    "symbol": "OHMEOW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

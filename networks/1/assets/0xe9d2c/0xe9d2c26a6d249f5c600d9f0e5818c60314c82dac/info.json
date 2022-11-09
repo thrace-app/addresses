@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe9d2c26a6d249f5c600d9f0e5818c60314c82dac",
+  "displayName": "SMGATE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SMGATE Token",
+    "symbol": "SMGATE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

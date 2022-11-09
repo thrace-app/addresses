@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05e41cde9baa229349cf31b0c4695441de504dde",
+  "displayName": "DGTVBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "DGTVBurn",
+    "symbol": "DGTVB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

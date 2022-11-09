@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46898e1b1cf9d1a9136029388f37be91b84998a2",
+  "displayName": "First Billion",
+  "type": "TOKEN",
+  "token": {
+    "name": "First Billion",
+    "symbol": "FB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22c67cdae0a117736bb17c64045f250ac8b7b70c",
+  "displayName": "Alora Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Alora Token",
+    "symbol": "ALORA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

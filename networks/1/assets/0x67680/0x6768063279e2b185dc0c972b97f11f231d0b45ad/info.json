@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6768063279e2b185dc0c972b97f11f231d0b45ad",
+  "displayName": "yield-farming.io",
+  "type": "TOKEN",
+  "token": {
+    "name": "yield-farming.io",
+    "symbol": "YIELD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

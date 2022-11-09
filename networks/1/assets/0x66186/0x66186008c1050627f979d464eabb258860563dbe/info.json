@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66186008c1050627f979d464eabb258860563dbe",
+  "displayName": "MediShares Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MediShares Token",
+    "symbol": "MDS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b8d1729ef3e24157523ba11efe6b9c353f55671",
+  "displayName": "TOTToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TOTToken",
+    "symbol": "TOT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

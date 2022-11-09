@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x345dadb10a200f10814ad8523fca0f2d958c3370",
+  "displayName": "Kori Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kori Inu",
+    "symbol": "KORI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

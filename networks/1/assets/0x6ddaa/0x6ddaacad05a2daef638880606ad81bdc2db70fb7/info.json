@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ddaacad05a2daef638880606ad81bdc2db70fb7",
+  "displayName": "OrbMEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "OrbMEX",
+    "symbol": "OrbX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

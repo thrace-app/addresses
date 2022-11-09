@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3235b13708f178af6f110de7177ed5de10c1093d",
+  "displayName": "MNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "MNFT",
+    "symbol": "MNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

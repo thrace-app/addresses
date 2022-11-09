@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7775a6e9bcf904eb39da2b68c5efb4f9360e08c",
+  "displayName": "Token-as-a-Service",
+  "type": "TOKEN",
+  "token": {
+    "name": "Token-as-a-Service",
+    "symbol": "TAAS",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

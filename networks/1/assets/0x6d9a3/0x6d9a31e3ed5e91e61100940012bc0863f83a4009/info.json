@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d9a31e3ed5e91e61100940012bc0863f83a4009",
+  "displayName": "FATPUG Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FATPUG Token",
+    "symbol": "FPUG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

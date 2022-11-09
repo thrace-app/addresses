@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dcf322d66cb77a05f66fdff93e3678df7e44dea",
+  "displayName": "USDCow",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDCow",
+    "symbol": "USDCow",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

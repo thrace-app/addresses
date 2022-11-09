@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe775709a234cb44c389d1a2ff23f99ba094e757",
+  "displayName": "Pepe The Frog Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pepe The Frog Coin",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

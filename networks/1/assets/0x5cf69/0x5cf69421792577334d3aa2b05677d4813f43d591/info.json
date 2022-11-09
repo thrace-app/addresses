@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cf69421792577334d3aa2b05677d4813f43d591",
+  "displayName": "Cool People",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cool People",
+    "symbol": "COOL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

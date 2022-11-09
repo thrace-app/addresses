@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba10a5587242ab674e95a294f2c8fe2d288e884b",
+  "displayName": "3WAY TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "3WAY TOKEN",
+    "symbol": "3WAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

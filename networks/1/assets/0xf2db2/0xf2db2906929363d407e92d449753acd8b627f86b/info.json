@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2db2906929363d407e92d449753acd8b627f86b",
+  "displayName": "Shibuza Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shibuza Token",
+    "symbol": "Shibuza",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

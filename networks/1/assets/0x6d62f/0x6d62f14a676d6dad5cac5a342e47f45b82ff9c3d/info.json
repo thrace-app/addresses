@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d62f14a676d6dad5cac5a342e47f45b82ff9c3d",
+  "displayName": "SmartAmple",
+  "type": "TOKEN",
+  "token": {
+    "name": "SmartAmple",
+    "symbol": "SAMP",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1ad2c188a012391b51a153ea4a2e8ec3d84ad0f",
+  "displayName": "NFCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFCoin",
+    "symbol": "NFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

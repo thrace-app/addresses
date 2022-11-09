@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccb70cd8602c5f15575ec6d0dd45c1e741cab51f",
+  "displayName": "Blomper.token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blomper.token",
+    "symbol": "BLMR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

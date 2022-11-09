@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac59badc3487bdc3c077a9061f4c9c9871390153",
+  "displayName": "Song A Day",
+  "type": "TOKEN",
+  "token": {
+    "name": "Song A Day",
+    "symbol": "SONG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

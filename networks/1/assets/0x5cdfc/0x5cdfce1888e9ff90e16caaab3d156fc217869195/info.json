@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cdfce1888e9ff90e16caaab3d156fc217869195",
+  "displayName": "Nuclear Finances Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nuclear Finances Token",
+    "symbol": "NCL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

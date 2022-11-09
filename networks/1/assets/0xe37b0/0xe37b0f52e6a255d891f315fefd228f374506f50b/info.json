@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe37b0f52e6a255d891f315fefd228f374506f50b",
+  "displayName": "Groot Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Groot Token",
+    "symbol": "Groot",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

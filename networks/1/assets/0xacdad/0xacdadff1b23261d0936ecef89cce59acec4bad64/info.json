@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacdadff1b23261d0936ecef89cce59acec4bad64",
+  "displayName": "Bridger DOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bridger DOGE",
+    "symbol": "BROGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

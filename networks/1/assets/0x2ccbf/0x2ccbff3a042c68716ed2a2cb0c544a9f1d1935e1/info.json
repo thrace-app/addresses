@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1",
+  "displayName": "DMarket Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DMarket Token",
+    "symbol": "DMT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

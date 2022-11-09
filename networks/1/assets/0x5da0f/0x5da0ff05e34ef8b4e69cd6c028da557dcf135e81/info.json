@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5da0ff05e34ef8b4e69cd6c028da557dcf135e81",
+  "displayName": "Classic Lambo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Classic Lambo",
+    "symbol": "CLAMBO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

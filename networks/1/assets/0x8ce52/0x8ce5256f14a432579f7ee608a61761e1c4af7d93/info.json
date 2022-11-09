@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ce5256f14a432579f7ee608a61761e1c4af7d93",
+  "displayName": "Knyazev SA token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Knyazev SA token",
+    "symbol": "KNZV",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

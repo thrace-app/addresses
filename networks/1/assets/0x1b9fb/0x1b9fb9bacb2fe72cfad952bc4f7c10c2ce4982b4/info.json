@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b9fb9bacb2fe72cfad952bc4f7c10c2ce4982b4",
+  "displayName": "QuickSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "QuickSwap",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

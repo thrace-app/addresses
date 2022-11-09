@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3521c85c3000bff57eac04489eb05bbd3193a531",
+  "displayName": "METAWHALE BTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "METAWHALE BTC",
+    "symbol": "mwBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

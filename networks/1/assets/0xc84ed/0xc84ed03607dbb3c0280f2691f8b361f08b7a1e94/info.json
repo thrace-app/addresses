@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc84ed03607dbb3c0280f2691f8b361f08b7a1e94",
+  "displayName": "Dividend Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dividend Token",
+    "symbol": "DIV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

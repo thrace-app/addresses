@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ed421b19e7a6a91f2ce0e1285435e8fc43b4e5c",
+  "displayName": "Eagles community Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eagles community Token",
+    "symbol": "EAGLES",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f54c9d50684945cd0b716553119d94e48078e14",
+  "displayName": "Fit Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fit Coin",
+    "symbol": "$FIT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

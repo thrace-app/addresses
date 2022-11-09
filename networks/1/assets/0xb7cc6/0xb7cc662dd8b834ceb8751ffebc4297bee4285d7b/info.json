@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7cc662dd8b834ceb8751ffebc4297bee4285d7b",
+  "displayName": "Dawicoin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dawicoin Token",
+    "symbol": "DAWI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48f1d250c30b647873ae02ec36fc10821852f010",
+  "displayName": "Wrapped LQX",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped LQX",
+    "symbol": "WLQX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

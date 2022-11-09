@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x509f7d8395da27daf35fe5dd51951ec74960ac41",
+  "displayName": "OnlyFarms",
+  "type": "TOKEN",
+  "token": {
+    "name": "OnlyFarms",
+    "symbol": "FARMERS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

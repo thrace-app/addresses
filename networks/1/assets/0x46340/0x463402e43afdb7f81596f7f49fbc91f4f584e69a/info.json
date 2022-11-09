@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x463402e43afdb7f81596f7f49fbc91f4f584e69a",
+  "displayName": "Not Another Anime Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Not Another Anime Token",
+    "symbol": "NAAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x840572fd7e45ada38957e4c5c44aeaaa29e64dce",
+  "displayName": "InuCrypt",
+  "type": "TOKEN",
+  "token": {
+    "name": "InuCrypt",
+    "symbol": "INUX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

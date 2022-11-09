@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x506f017808551bc41a39eecfe44cca7605509871",
+  "displayName": "Scrappy Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Scrappy Inu",
+    "symbol": "SCRAP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

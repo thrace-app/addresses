@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea0c972a3b108acb62dd5bfe1bfba1f00b306116",
+  "displayName": "CryptoNight",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoNight",
+    "symbol": "CRY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

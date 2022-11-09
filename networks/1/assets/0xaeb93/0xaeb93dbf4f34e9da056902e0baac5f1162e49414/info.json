@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaeb93dbf4f34e9da056902e0baac5f1162e49414",
+  "displayName": "Two Gwei One Gas",
+  "type": "TOKEN",
+  "token": {
+    "name": "Two Gwei One Gas",
+    "symbol": "2g1g",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

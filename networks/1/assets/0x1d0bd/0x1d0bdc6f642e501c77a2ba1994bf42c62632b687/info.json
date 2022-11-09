@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d0bdc6f642e501c77a2ba1994bf42c62632b687",
+  "displayName": "MyHeroAcademia",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyHeroAcademia",
+    "symbol": "MHA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

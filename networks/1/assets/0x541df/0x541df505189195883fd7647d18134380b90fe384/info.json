@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x541df505189195883fd7647d18134380b90fe384",
+  "displayName": "BarcoCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BarcoCoin",
+    "symbol": "BRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x704c47384e3214ab8e947d9e3afdb0254f7c20c6",
+  "displayName": "McAfee",
+  "type": "TOKEN",
+  "token": {
+    "name": "McAfee",
+    "symbol": "$McAfee",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

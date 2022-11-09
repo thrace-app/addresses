@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06b3a10cd9af9a463bdb18a49785b61de2e377c1",
+  "displayName": "Grand Theft Pepe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grand Theft Pepe",
+    "symbol": "GTP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

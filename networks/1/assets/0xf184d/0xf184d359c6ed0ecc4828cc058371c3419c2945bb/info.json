@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf184d359c6ed0ecc4828cc058371c3419c2945bb",
+  "displayName": "TimeKeeper",
+  "type": "TOKEN",
+  "token": {
+    "name": "TimeKeeper",
+    "symbol": "KEEP",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

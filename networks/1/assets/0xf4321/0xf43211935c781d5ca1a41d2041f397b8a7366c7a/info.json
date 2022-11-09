@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf43211935c781d5ca1a41d2041f397b8a7366c7a",
+  "displayName": "Curve.fi ETH/frxETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve.fi ETH/frxETH",
+    "symbol": "frxETHCRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

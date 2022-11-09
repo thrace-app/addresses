@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7ff7290c83a4b82accdf68247e47cf8a1589e51",
+  "displayName": "COMP dToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "COMP dToken",
+    "symbol": "dCOMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

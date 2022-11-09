@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf48b1dcdeaeddb402b3d4b649a1eafdc45b52f68",
+  "displayName": "Charon Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Charon Coin",
+    "symbol": "CHC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

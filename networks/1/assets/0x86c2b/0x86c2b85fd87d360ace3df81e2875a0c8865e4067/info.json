@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86c2b85fd87d360ace3df81e2875a0c8865e4067",
+  "displayName": "TubbyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TubbyCoin",
+    "symbol": "TUBBY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

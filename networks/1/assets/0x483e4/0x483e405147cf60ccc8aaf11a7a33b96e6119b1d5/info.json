@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x483e405147cf60ccc8aaf11a7a33b96e6119b1d5",
+  "displayName": "MetaFox",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaFox",
+    "symbol": "METAFOX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

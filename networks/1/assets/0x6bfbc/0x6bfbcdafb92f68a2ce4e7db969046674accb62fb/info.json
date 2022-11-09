@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6bfbcdafb92f68a2ce4e7db969046674accb62fb",
+  "displayName": "Chillio Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chillio Token",
+    "symbol": "CHLO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

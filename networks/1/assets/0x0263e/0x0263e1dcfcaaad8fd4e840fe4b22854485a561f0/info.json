@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0263e1dcfcaaad8fd4e840fe4b22854485a561f0",
+  "displayName": "Bitles Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitles Token",
+    "symbol": "BTL",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

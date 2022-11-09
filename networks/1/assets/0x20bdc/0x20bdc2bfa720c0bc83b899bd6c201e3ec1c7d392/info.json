@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20bdc2bfa720c0bc83b899bd6c201e3ec1c7d392",
+  "displayName": "Epic DOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "Epic DOGE",
+    "symbol": "EpicDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12bcbf1fd0e166463c03847a210bb6f61ca04605",
+  "displayName": "Give Global",
+  "type": "TOKEN",
+  "token": {
+    "name": "Give Global",
+    "symbol": "GIVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37d09a30e122bc68554f0d134c3c31ddf0d8d98d",
+  "displayName": "Faten Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Faten Token",
+    "symbol": "FATEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

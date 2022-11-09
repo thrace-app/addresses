@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34f797e7190c131cf630524655a618b5bd8738e7",
+  "displayName": "BaconDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "BaconDAO",
+    "symbol": "BACON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

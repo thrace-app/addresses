@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65fdf4b89cb72e28d31afe71720a5bc3eb662974",
+  "displayName": "PunkCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PunkCoin",
+    "symbol": "PUNK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

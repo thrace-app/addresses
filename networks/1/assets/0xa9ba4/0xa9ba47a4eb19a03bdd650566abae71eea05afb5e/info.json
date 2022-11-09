@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa9ba47a4eb19a03bdd650566abae71eea05afb5e",
+  "displayName": "Ardor Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ardor Token",
+    "symbol": "ARDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

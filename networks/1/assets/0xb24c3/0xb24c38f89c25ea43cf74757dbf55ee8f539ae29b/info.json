@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb24c38f89c25ea43cf74757dbf55ee8f539ae29b",
+  "displayName": "VoxFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "VoxFinance",
+    "symbol": "VoxFi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

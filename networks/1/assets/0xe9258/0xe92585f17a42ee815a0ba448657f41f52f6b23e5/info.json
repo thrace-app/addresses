@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe92585f17a42ee815a0ba448657f41f52f6b23e5",
+  "displayName": "DLP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DLP Token",
+    "symbol": "DLP",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

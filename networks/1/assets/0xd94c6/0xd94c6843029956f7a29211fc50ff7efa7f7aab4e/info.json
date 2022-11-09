@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd94c6843029956f7a29211fc50ff7efa7f7aab4e",
+  "displayName": "Turnt Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Turnt Token",
+    "symbol": "TNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

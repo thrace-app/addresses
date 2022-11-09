@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x225927f8fa71d16ee07968b8746364d1d9f839bd",
+  "displayName": "Bitcoin Fast",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Fast",
+    "symbol": "BTCF",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

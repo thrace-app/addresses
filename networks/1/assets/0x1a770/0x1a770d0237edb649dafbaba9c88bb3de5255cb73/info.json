@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a770d0237edb649dafbaba9c88bb3de5255cb73",
+  "displayName": "LFCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LFCoin",
+    "symbol": "LF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

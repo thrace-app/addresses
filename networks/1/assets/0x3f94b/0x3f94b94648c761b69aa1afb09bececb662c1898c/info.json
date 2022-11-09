@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f94b94648c761b69aa1afb09bececb662c1898c",
+  "displayName": "DogeFan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogeFan Token",
+    "symbol": "$DFT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb60d429e02928e494516ce0a81f185ef52f20d4",
+  "displayName": "Simple Yearn Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Simple Yearn Finance",
+    "symbol": "SYF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

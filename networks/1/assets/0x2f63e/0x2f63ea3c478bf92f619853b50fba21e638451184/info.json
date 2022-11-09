@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f63ea3c478bf92f619853b50fba21e638451184",
+  "displayName": "MoonWallets",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonWallets",
+    "symbol": "MNW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

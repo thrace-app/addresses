@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b7453d2783a4915311c0bd435b3e5fa23a433ee",
+  "displayName": "McDoanlds",
+  "type": "TOKEN",
+  "token": {
+    "name": "McDoanlds",
+    "symbol": "$MCD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

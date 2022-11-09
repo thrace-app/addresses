@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4919386ec676a61f59974cc45a61148440665b58",
+  "displayName": "Swedish Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swedish Token",
+    "symbol": "SWEDISH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x929942e07d088b7c7f471451913727c93b3d9f73",
+  "displayName": "bZx Protocol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "bZx Protocol Token",
+    "symbol": "BZRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

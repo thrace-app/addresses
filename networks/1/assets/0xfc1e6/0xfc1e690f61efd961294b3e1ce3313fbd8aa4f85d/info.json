@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d",
+  "displayName": "Aave Interest bearing DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave Interest bearing DAI",
+    "symbol": "aDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

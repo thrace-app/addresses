@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaba2b920db501dbeb8651bcec8660cb871cecac1",
+  "displayName": "James McCall",
+  "type": "TOKEN",
+  "token": {
+    "name": "James McCall",
+    "symbol": "TIME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

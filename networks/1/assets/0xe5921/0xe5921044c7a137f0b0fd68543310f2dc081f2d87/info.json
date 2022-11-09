@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5921044c7a137f0b0fd68543310f2dc081f2d87",
+  "displayName": "Proof of Pepe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Pepe",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

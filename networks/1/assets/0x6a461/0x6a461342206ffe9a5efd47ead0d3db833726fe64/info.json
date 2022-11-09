@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a461342206ffe9a5efd47ead0d3db833726fe64",
+  "displayName": "Chariba Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chariba Token",
+    "symbol": "Chariba",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15eb510a346e1db58427d8665ec7a6568a863165",
+  "displayName": "BridgeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BridgeToken",
+    "symbol": "BTO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

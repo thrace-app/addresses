@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80e3e85a8cf3b71037b6a370cd985f1d024bdb53",
+  "displayName": "Burger DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burger DAO",
+    "symbol": "BUGR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f160f33c1c34ab560562ed08ab50ccc5b01b2a1",
+  "displayName": "Buh Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Buh Cat",
+    "symbol": "BUHCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

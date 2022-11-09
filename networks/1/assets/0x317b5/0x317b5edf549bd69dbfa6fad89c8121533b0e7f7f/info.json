@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x317b5edf549bd69dbfa6fad89c8121533b0e7f7f",
+  "displayName": "Medical Block Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Medical Block Token",
+    "symbol": "MBT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

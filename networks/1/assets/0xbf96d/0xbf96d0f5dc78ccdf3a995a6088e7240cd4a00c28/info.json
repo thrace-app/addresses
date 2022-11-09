@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf96d0f5dc78ccdf3a995a6088e7240cd4a00c28",
+  "displayName": "Eagle One Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eagle One Token",
+    "symbol": "EOTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

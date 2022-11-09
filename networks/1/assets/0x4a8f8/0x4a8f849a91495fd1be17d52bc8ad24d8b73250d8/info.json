@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a8f849a91495fd1be17d52bc8ad24d8b73250d8",
+  "displayName": "Michael Myers",
+  "type": "TOKEN",
+  "token": {
+    "name": "Michael Myers",
+    "symbol": "MM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

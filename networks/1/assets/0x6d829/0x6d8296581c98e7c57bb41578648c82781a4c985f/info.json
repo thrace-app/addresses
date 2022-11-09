@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d8296581c98e7c57bb41578648c82781a4c985f",
+  "displayName": "$atoshiMoney",
+  "type": "TOKEN",
+  "token": {
+    "name": "$atoshiMoney",
+    "symbol": "$ATOSHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

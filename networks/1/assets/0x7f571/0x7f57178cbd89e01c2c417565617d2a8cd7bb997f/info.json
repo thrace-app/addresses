@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f57178cbd89e01c2c417565617d2a8cd7bb997f",
+  "displayName": "OracleTendies",
+  "type": "TOKEN",
+  "token": {
+    "name": "OracleTendies",
+    "symbol": "OTEND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

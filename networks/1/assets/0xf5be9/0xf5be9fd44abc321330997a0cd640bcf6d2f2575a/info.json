@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5be9fd44abc321330997a0cd640bcf6d2f2575a",
+  "displayName": "Coyote Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coyote Token",
+    "symbol": "COYOTE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

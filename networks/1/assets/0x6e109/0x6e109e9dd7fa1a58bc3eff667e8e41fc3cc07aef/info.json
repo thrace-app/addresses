@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e109e9dd7fa1a58bc3eff667e8e41fc3cc07aef",
+  "displayName": "Tether CNH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tether CNH",
+    "symbol": "CNHT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

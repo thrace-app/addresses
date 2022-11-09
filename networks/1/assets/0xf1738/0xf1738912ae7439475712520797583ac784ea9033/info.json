@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1738912ae7439475712520797583ac784ea9033",
+  "displayName": "XionGlobal Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XionGlobal Token",
+    "symbol": "XGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

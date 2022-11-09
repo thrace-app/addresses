@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b323b7508984742fb9655a04819069bffb62863",
+  "displayName": "JollyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "JollyCoin",
+    "symbol": "JLC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

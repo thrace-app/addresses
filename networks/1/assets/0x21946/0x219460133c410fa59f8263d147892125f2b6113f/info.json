@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x219460133c410fa59f8263d147892125f2b6113f",
+  "displayName": "Levi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Levi Token",
+    "symbol": "LEVI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+  "displayName": "OriginToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "OriginToken",
+    "symbol": "OGN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

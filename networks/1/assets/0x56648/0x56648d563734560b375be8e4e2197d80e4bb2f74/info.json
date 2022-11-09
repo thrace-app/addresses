@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56648d563734560b375be8e4e2197d80e4bb2f74",
+  "displayName": "Flow Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flow Protocol",
+    "symbol": "FLW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

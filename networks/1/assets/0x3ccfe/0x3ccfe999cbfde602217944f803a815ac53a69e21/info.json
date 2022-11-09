@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ccfe999cbfde602217944f803a815ac53a69e21",
+  "displayName": "Mini Panther",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini Panther",
+    "symbol": "MiniPanther",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

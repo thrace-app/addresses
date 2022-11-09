@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66975862ff77bcc5ff845cf69e3dbcfce3f0cf92",
+  "displayName": "ONGToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ONGToken",
+    "symbol": "ONG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

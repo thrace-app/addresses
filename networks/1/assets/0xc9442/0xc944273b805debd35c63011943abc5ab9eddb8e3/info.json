@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc944273b805debd35c63011943abc5ab9eddb8e3",
+  "displayName": "Crypto Shield",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Shield",
+    "symbol": "SHIELD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

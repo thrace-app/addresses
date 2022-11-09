@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84d821f7fbdd595c4c4a50842913e6b1e07d7a53",
+  "displayName": "BNPL Pay",
+  "type": "TOKEN",
+  "token": {
+    "name": "BNPL Pay",
+    "symbol": "BNPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

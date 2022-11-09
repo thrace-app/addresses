@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x408865a24f0b02e43409c7c23cd3362da427c122",
+  "displayName": "Jungle Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jungle Coin",
+    "symbol": "JDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

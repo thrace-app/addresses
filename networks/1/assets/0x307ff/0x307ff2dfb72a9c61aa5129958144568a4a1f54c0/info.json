@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x307ff2dfb72a9c61aa5129958144568a4a1f54c0",
+  "displayName": "ETHPad",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETHPad",
+    "symbol": "ETHPAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

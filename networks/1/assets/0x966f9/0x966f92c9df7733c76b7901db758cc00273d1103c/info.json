@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x966f92c9df7733c76b7901db758cc00273d1103c",
+  "displayName": "Bank of Gold1",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of Gold1",
+    "symbol": "BankG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

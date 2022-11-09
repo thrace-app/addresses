@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x024db8665c2f63d5a48dd0c813701c7dc40eb404",
+  "displayName": "Smuppy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smuppy Token",
+    "symbol": "SMUPPY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

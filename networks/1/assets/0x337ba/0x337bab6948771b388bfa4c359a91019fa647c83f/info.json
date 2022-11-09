@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x337bab6948771b388bfa4c359a91019fa647c83f",
+  "displayName": "K9ex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "K9ex Token",
+    "symbol": "K9ex",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

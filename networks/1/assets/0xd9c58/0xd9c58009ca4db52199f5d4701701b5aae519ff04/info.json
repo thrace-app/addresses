@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9c58009ca4db52199f5d4701701b5aae519ff04",
+  "displayName": "KtDex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KtDex Token",
+    "symbol": "KT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19c492210982bb4b0d70ab4c641f65a11423ad8a",
+  "displayName": "Euro Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Euro Shiba",
+    "symbol": "EUSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

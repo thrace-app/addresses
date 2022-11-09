@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf1c36e1b508dcf94b98c518c59e80b29d8a918a",
+  "displayName": "ThorNetwork",
+  "type": "TOKEN",
+  "token": {
+    "name": "ThorNetwork",
+    "symbol": "THN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

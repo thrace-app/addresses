@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a61988e2d412a0d1983f1685a0ddc9356be3751",
+  "displayName": "Zapaygo Holding Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zapaygo Holding Token",
+    "symbol": "ZHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

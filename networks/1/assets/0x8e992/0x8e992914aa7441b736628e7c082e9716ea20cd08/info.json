@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e992914aa7441b736628e7c082e9716ea20cd08",
+  "displayName": "North Stream Pipeline",
+  "type": "TOKEN",
+  "token": {
+    "name": "North Stream Pipeline",
+    "symbol": "FIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

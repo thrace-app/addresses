@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb28eaaa4f2f31474dfa98d425fa8a681cf2db333",
+  "displayName": "LiveDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "LiveDoge",
+    "symbol": "LD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

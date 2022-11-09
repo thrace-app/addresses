@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02f61fd266da6e8b102d4121f5ce7b992640cf98",
+  "displayName": "LikeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LikeCoin",
+    "symbol": "LIKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03223c647554cf4dd77785e4daaa05fe35622817",
+  "displayName": "FAMFUNToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FAMFUNToken",
+    "symbol": "FAFU",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

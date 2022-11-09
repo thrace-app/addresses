@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62f3ec00fd4d3e778d0f2506301fe372e5d97b84",
+  "displayName": "Bank Of Dogger",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank Of Dogger",
+    "symbol": "DOGGER BANK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23ec026590d6cccfece04097f9b49ae6a442c3ba",
+  "displayName": "OtoCo",
+  "type": "TOKEN",
+  "token": {
+    "name": "OtoCo",
+    "symbol": "OTOCO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

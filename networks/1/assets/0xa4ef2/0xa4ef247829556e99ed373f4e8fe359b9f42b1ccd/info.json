@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa4ef247829556e99ed373f4e8fe359b9f42b1ccd",
+  "displayName": "Gintoki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gintoki Token",
+    "symbol": "TOKI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

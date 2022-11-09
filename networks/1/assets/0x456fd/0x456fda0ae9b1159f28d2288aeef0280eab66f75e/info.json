@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x456fda0ae9b1159f28d2288aeef0280eab66f75e",
+  "displayName": "Kai Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kai Inu",
+    "symbol": "KaiInu",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

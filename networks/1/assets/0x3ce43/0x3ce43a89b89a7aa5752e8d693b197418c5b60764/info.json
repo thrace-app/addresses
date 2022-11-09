@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ce43a89b89a7aa5752e8d693b197418c5b60764",
+  "displayName": "Unbound Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unbound Dollar",
+    "symbol": "UND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

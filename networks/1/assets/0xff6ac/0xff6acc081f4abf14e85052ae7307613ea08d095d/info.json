@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff6acc081f4abf14e85052ae7307613ea08d095d",
+  "displayName": "ElonDollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "ElonDollar",
+    "symbol": "ED",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f0aea16ab37b082c3ef61628bbc59cc011d4703",
+  "displayName": "UNIFARM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UNIFARM Token",
+    "symbol": "UFARM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

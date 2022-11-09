@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a8d84cb362c87f20c8ae50de5fb6dfb8081e73f",
+  "displayName": "ACoolObject",
+  "type": "TOKEN",
+  "token": {
+    "name": "ACoolObject",
+    "symbol": "ACO",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb963750b4e02e044e9b91a68ef1fb0d35787654",
+  "displayName": "Creation Engine Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Creation Engine Token",
+    "symbol": "CET",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

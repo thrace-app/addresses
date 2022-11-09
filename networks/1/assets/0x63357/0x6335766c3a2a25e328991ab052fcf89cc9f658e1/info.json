@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6335766c3a2a25e328991ab052fcf89cc9f658e1",
+  "displayName": "DDD Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "DDD Finance",
+    "symbol": "DDD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

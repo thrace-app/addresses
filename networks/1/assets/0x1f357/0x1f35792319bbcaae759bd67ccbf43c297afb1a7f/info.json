@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f35792319bbcaae759bd67ccbf43c297afb1a7f",
+  "displayName": "MTShu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MTShu Token",
+    "symbol": "MTShu",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

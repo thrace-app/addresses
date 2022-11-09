@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d7e5eee4873bbebb8071d21fc436022d369d83f",
+  "displayName": "Gold Bull Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gold Bull Coin",
+    "symbol": "GBULL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

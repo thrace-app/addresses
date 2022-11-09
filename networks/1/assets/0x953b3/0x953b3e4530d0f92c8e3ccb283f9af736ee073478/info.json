@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x953b3e4530d0f92c8e3ccb283f9af736ee073478",
+  "displayName": "EarnETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "EarnETH",
+    "symbol": "EETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

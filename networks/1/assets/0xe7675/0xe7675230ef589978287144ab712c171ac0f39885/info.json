@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7675230ef589978287144ab712c171ac0f39885",
+  "displayName": "Hipster Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hipster Protocol",
+    "symbol": "Hipster",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

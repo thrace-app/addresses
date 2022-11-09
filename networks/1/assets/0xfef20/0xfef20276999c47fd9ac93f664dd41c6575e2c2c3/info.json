@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfef20276999c47fd9ac93f664dd41c6575e2c2c3",
+  "displayName": "Oxy Tether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Oxy Tether",
+    "symbol": "OUSDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

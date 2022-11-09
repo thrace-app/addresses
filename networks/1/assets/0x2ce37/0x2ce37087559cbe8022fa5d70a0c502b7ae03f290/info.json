@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ce37087559cbe8022fa5d70a0c502b7ae03f290",
+  "displayName": "Bancor WBTC Pool Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bancor WBTC Pool Token",
+    "symbol": "bnWBTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

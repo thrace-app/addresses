@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b801a8f55bdcbcd45ba11020fa3ef3b5f72a0ed",
+  "displayName": "Aurum Reserve",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aurum Reserve",
+    "symbol": "AURE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

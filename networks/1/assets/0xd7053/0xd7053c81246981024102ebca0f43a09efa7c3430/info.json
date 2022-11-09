@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7053c81246981024102ebca0f43a09efa7c3430",
+  "displayName": "GetBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "GetBTC",
+    "symbol": "GetBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

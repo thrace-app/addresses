@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e06c5f938257f401e8983959142b64b53f6d1ff",
+  "displayName": "RicottaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RicottaToken",
+    "symbol": "RICOTTA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73d40afa19ee962b12fe4b523d6bebbe050cb227",
+  "displayName": "Papa Doge Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Papa Doge Coin",
+    "symbol": "PAPADOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22586d2cea564b1512b136b0db0110d4c5ebf98e",
+  "displayName": "King Koopa",
+  "type": "TOKEN",
+  "token": {
+    "name": "King Koopa",
+    "symbol": "King Koopa",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

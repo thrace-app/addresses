@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe79dc2bc244aefe9129b5b5e6c49d0fbd358c091",
+  "displayName": "Micro Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Micro Doge",
+    "symbol": "MiDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xefa694bc75fbb291bdb0fa86bfabed9cbd065acb",
+  "displayName": "JACS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JACS Token",
+    "symbol": "JACS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

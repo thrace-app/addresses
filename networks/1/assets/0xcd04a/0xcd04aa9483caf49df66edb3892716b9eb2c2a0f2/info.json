@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd04aa9483caf49df66edb3892716b9eb2c2a0f2",
+  "displayName": "GoldBezos Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoldBezos Token",
+    "symbol": "GBEZOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

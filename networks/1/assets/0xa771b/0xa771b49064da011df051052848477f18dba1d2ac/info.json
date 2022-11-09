@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa771b49064da011df051052848477f18dba1d2ac",
+  "displayName": "Wrapped HNS",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped HNS",
+    "symbol": "WHNS",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

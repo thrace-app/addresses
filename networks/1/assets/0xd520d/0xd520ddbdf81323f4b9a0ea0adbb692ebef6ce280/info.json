@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd520ddbdf81323f4b9a0ea0adbb692ebef6ce280",
+  "displayName": "Holdefi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Holdefi Token",
+    "symbol": "HLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

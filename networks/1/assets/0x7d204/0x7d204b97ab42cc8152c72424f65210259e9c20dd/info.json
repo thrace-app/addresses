@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d204b97ab42cc8152c72424f65210259e9c20dd",
+  "displayName": "DW3 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DW3 Token",
+    "symbol": "DW3",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

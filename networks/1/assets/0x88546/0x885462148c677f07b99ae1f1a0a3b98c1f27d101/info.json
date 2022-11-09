@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x885462148c677f07b99ae1f1a0a3b98c1f27d101",
+  "displayName": "NaitToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NaitToken",
+    "symbol": "NAIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

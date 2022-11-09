@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfeab3920f0a1721c5bc8429bf6a3edf60f232f75",
+  "displayName": "Binamon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Binamon Token",
+    "symbol": "Ban",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

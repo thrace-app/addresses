@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa2d573c6ba8321b17f3574b83451d7857da4704c",
+  "displayName": "Pre Merge Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pre Merge Token",
+    "symbol": "PREM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

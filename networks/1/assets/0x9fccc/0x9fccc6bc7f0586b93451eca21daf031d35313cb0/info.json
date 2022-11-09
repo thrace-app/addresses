@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9fccc6bc7f0586b93451eca21daf031d35313cb0",
+  "displayName": "Big Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Big Coin",
+    "symbol": "BIG COIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

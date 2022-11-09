@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8fa76a3b1f6593d224696c1dc719b81b6caa68a1",
+  "displayName": "CardDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "CardDoge",
+    "symbol": "CDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

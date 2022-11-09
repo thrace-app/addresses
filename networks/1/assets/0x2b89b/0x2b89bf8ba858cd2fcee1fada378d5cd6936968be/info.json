@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b89bf8ba858cd2fcee1fada378d5cd6936968be",
+  "displayName": "Wrapped SCRT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped SCRT",
+    "symbol": "WSCRT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

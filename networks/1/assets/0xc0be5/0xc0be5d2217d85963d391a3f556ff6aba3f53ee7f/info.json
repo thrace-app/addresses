@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0be5d2217d85963d391a3f556ff6aba3f53ee7f",
+  "displayName": "The hacker token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The hacker token",
+    "symbol": "HAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

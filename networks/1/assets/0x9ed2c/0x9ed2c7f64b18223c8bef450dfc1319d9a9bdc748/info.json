@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ed2c7f64b18223c8bef450dfc1319d9a9bdc748",
+  "displayName": "Kiwi yield",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kiwi yield",
+    "symbol": "Kiyi",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

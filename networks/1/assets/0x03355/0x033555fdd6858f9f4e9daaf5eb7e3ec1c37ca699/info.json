@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x033555fdd6858f9f4e9daaf5eb7e3ec1c37ca699",
+  "displayName": "SudoSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "SudoSwap",
+    "symbol": "SSW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

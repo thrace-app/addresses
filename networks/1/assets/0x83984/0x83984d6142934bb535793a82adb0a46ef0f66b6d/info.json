@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83984d6142934bb535793a82adb0a46ef0f66b6d",
+  "displayName": "REMME token",
+  "type": "TOKEN",
+  "token": {
+    "name": "REMME token",
+    "symbol": "REM",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

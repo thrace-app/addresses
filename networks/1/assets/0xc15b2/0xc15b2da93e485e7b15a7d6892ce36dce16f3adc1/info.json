@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc15b2da93e485e7b15a7d6892ce36dce16f3adc1",
+  "displayName": "Bank of DoKwon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of DoKwon",
+    "symbol": "BDK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

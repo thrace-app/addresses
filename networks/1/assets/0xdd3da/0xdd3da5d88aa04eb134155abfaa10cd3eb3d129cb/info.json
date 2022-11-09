@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd3da5d88aa04eb134155abfaa10cd3eb3d129cb",
+  "displayName": "Grinch",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grinch",
+    "symbol": "GNCH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

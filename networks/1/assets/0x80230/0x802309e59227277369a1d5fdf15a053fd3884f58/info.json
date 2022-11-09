@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x802309e59227277369a1d5fdf15a053fd3884f58",
+  "displayName": "QueenDogeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "QueenDogeToken",
+    "symbol": "QueenDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

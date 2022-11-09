@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac23a3a82cf97e8ed783043545d8bd2c75d5246c",
+  "displayName": "whaleinu",
+  "type": "TOKEN",
+  "token": {
+    "name": "whaleinu",
+    "symbol": "WETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

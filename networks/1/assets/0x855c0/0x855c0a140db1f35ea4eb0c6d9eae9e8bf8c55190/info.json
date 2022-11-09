@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x855c0a140db1f35ea4eb0c6d9eae9e8bf8c55190",
+  "displayName": "The Crypto Procotol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Crypto Procotol",
+    "symbol": "Crypto",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

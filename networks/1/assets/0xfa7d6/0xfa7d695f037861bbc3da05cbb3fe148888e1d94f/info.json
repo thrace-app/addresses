@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa7d695f037861bbc3da05cbb3fe148888e1d94f",
+  "displayName": "GoldChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoldChain",
+    "symbol": "GC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

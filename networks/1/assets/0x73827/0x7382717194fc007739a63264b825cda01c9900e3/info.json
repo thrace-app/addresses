@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7382717194fc007739a63264b825cda01c9900e3",
+  "displayName": "BurningFarm",
+  "type": "TOKEN",
+  "token": {
+    "name": "BurningFarm",
+    "symbol": "BARM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabe07448358369867c2c3acf891b7124c85ac5cc",
+  "displayName": "zkSync",
+  "type": "TOKEN",
+  "token": {
+    "name": "zkSync",
+    "symbol": "zkSync",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

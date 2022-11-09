@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd21a75e8200e4fc2ff2929d150a3f7219b1123c6",
+  "displayName": "Smol Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smol Inu",
+    "symbol": "SMOLU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

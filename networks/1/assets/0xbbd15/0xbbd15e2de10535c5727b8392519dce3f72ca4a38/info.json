@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbd15e2de10535c5727b8392519dce3f72ca4a38",
+  "displayName": "Boujie Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boujie Doge",
+    "symbol": "BoujieDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

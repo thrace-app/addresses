@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82ced7b239fc06e59f11819883d68a0e0925e59e",
+  "displayName": "Proof of Profit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Profit",
+    "symbol": "POP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

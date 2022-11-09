@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x865d176351f287fe1b0010805b110d08699c200a",
+  "displayName": "BananaCoin Extended",
+  "type": "TOKEN",
+  "token": {
+    "name": "BananaCoin Extended",
+    "symbol": "BCO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

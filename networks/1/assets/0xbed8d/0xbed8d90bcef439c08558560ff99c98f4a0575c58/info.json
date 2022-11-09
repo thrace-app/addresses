@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbed8d90bcef439c08558560ff99c98f4a0575c58",
+  "displayName": "Kappa coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kappa coin",
+    "symbol": "KAPP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

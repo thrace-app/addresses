@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23764c1ef10b458da9bbb6b180b50c4acbbb5732",
+  "displayName": "BOT Trader",
+  "type": "TOKEN",
+  "token": {
+    "name": "BOT Trader",
+    "symbol": "BOT Trade",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

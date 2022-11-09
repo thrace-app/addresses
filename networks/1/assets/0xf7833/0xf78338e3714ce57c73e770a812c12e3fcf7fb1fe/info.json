@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf78338e3714ce57c73e770a812c12e3fcf7fb1fe",
+  "displayName": "Meter",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meter",
+    "symbol": "MTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

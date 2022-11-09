@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe23215bcdf04eb2571a812a4d10538b6ff40a461",
+  "displayName": "FeetToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FeetToken",
+    "symbol": "FEET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

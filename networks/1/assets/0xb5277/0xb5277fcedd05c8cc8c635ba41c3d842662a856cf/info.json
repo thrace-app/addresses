@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5277fcedd05c8cc8c635ba41c3d842662a856cf",
+  "displayName": "SatoshiBitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SatoshiBitcoin",
+    "symbol": "SBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

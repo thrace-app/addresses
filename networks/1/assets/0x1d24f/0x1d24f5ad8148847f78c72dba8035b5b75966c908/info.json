@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d24f5ad8148847f78c72dba8035b5b75966c908",
+  "displayName": "Bitcoin Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "decimals": 13,
+    "type": "ERC20"
+  }
+}

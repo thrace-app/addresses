@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a43cb5d818c718e525d7a68a755f7df06695001",
+  "displayName": "ABCD",
+  "type": "TOKEN",
+  "token": {
+    "name": "ABCD",
+    "symbol": "ZTOS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

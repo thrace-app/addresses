@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e",
+  "displayName": "MXCToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MXCToken",
+    "symbol": "MXC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0530525d4f9ae2c0bbcb87465993f8e4b951d2e5",
+  "displayName": "Base Protocol (test 3)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Base Protocol (test 3)",
+    "symbol": "BTEST3",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

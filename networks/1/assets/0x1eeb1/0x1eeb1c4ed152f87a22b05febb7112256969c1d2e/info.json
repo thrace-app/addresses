@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1eeb1c4ed152f87a22b05febb7112256969c1d2e",
+  "displayName": "myobu eth",
+  "type": "TOKEN",
+  "token": {
+    "name": "myobu eth",
+    "symbol": "myb",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

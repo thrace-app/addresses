@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b95396fa5edd700c0cba9506bc54629b9881dc9",
+  "displayName": "Swingy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swingy",
+    "symbol": "SWING",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

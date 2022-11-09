@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f5b26b0fa3e9d8547b7cf6725871f96ee91313a",
+  "displayName": "SprinkleCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SprinkleCoin",
+    "symbol": "SCOI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

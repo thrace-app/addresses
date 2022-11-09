@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac27f7ac8dbb26b6105c2facdb6b827c3bc0a6c4",
+  "displayName": "Alien ApeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Alien ApeCoin",
+    "symbol": "AAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

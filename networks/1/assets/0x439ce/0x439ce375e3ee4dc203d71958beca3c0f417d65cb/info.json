@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x439ce375e3ee4dc203d71958beca3c0f417d65cb",
+  "displayName": "BOI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BOI Token",
+    "symbol": "BOI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

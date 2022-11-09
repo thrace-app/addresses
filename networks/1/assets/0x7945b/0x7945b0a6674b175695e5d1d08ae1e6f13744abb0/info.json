@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7945b0a6674b175695e5d1d08ae1e6f13744abb0",
+  "displayName": "BaoUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "BaoUSD",
+    "symbol": "BaoUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

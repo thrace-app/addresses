@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x420b595d8b648971b3bfcf46e66544c384860536",
+  "displayName": "VenmoCash",
+  "type": "TOKEN",
+  "token": {
+    "name": "VenmoCash",
+    "symbol": "VMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3865b8eaa4a771bce1c6c1d99cd5798271255a3a",
+  "displayName": "DogeSon Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogeSon Coin",
+    "symbol": "DSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

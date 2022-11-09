@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b26dffbab442a13e34545bb83491555424d60b8",
+  "displayName": "Unstable Dollar Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unstable Dollar Coin",
+    "symbol": "UDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

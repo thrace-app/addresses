@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a9b22a627079176ac838d56fbf3f8396ef15e9b",
+  "displayName": "Bitcoin Road",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Road",
+    "symbol": "BTCRD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

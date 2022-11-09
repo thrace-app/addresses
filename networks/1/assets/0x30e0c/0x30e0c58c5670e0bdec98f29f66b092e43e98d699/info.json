@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30e0c58c5670e0bdec98f29f66b092e43e98d699",
+  "displayName": "Zetcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zetcoin",
+    "symbol": "ZTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

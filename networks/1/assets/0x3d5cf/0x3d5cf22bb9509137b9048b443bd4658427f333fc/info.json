@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d5cf22bb9509137b9048b443bd4658427f333fc",
+  "displayName": "ToFu Exchange Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "ToFu Exchange Protocol",
+    "symbol": "TOFU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

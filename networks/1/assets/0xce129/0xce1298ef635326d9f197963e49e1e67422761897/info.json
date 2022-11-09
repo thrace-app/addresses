@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce1298ef635326d9f197963e49e1e67422761897",
+  "displayName": "PiSwap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PiSwap Token",
+    "symbol": "PIS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

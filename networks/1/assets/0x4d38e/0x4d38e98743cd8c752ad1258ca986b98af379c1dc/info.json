@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d38e98743cd8c752ad1258ca986b98af379c1dc",
+  "displayName": "AIC.coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AIC.coin",
+    "symbol": "AIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

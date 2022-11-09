@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x312e3e640944657ea2832f326a765bc6210ab646",
+  "displayName": "WassieCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WassieCoin",
+    "symbol": "WASSIE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

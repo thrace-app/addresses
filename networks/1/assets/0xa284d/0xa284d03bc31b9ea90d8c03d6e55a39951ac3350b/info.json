@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa284d03bc31b9ea90d8c03d6e55a39951ac3350b",
+  "displayName": "PizzaSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "PizzaSwap",
+    "symbol": "PISW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

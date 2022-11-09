@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cb7c52cfb356f4a9197734715dedff51cb65273",
+  "displayName": "DigitalTokenGame",
+  "type": "TOKEN",
+  "token": {
+    "name": "DigitalTokenGame",
+    "symbol": "DTG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

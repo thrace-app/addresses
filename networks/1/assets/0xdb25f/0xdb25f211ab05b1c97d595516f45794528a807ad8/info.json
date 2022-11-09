@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
+  "displayName": "STASIS EURS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "STASIS EURS Token",
+    "symbol": "EURS",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

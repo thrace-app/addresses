@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x98ddc72bd02d448f68c4226f26122c66c5bd711e",
+  "displayName": "Non-Fungible TOKE",
+  "type": "TOKEN",
+  "token": {
+    "name": "Non-Fungible TOKE",
+    "symbol": "TOKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

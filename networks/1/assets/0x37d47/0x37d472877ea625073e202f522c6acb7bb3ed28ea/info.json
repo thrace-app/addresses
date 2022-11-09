@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37d472877ea625073e202f522c6acb7bb3ed28ea",
+  "displayName": "DoraLamCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DoraLamCoin",
+    "symbol": "DLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

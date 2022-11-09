@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa159cba85ad0878cdf2f7bf85bf0d576566c726d",
+  "displayName": "moonbread",
+  "type": "TOKEN",
+  "token": {
+    "name": "moonbread",
+    "symbol": "MBD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

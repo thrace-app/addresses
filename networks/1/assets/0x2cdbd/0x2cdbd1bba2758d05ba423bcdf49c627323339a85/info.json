@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2cdbd1bba2758d05ba423bcdf49c627323339a85",
+  "displayName": "Radial Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Radial Token",
+    "symbol": "RAD",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

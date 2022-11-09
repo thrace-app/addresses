@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3388e524ec740359a31892a04ddbe03dd17e6fc6",
+  "displayName": "Pyro Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pyro Doge",
+    "symbol": "PYRODOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

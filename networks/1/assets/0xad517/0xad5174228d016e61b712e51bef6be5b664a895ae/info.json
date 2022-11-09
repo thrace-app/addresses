@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad5174228d016e61b712e51bef6be5b664a895ae",
+  "displayName": "ArkLend",
+  "type": "TOKEN",
+  "token": {
+    "name": "ArkLend",
+    "symbol": "ArkLend",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ba57c536453417918bb59081beea7b296eb4cb9",
+  "displayName": "Glide Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Glide Token",
+    "symbol": "LUBE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

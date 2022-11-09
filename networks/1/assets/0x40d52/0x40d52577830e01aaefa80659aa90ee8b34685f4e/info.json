@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40d52577830e01aaefa80659aa90ee8b34685f4e",
+  "displayName": "Bilaxy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bilaxy Token",
+    "symbol": "BIA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

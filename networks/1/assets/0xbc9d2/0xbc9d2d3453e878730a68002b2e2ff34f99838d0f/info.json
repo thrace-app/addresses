@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc9d2d3453e878730a68002b2e2ff34f99838d0f",
+  "displayName": "Matsuri",
+  "type": "TOKEN",
+  "token": {
+    "name": "Matsuri",
+    "symbol": "MATSURI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

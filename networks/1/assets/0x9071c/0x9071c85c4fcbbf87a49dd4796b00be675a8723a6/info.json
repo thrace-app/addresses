@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9071c85c4fcbbf87a49dd4796b00be675a8723a6",
+  "displayName": "MinionCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MinionCoin",
+    "symbol": "MINION",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

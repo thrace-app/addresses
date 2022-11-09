@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa3c4dc4a9ce2a6b40b57f25f8b50decc2c64dec2",
+  "displayName": "SeedSwap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SeedSwap Token",
+    "symbol": "SNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

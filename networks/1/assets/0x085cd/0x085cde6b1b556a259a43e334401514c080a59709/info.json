@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x085cde6b1b556a259a43e334401514c080a59709",
+  "displayName": "Cest La Vie",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cest La Vie",
+    "symbol": "LIFE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

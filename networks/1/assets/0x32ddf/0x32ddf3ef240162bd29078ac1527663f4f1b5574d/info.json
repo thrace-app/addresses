@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32ddf3ef240162bd29078ac1527663f4f1b5574d",
+  "displayName": "HAVA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HAVA Token",
+    "symbol": "$HAVA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

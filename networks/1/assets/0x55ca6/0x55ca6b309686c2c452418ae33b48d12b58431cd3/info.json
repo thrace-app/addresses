@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55ca6b309686c2c452418ae33b48d12b58431cd3",
+  "displayName": "Bounty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bounty",
+    "symbol": "BOUNTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46f7dc65550e5a53e968352add70ef632b9a06a8",
+  "displayName": "Dorsin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dorsin Token",
+    "symbol": "Dorsin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x188588b6c0e370efc45482e1ca715107dc62b3e1",
+  "displayName": "MoonBoyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonBoyToken",
+    "symbol": "MBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

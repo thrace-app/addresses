@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80f4f38b3e951750fff1616063282152c32f66a6",
+  "displayName": "Iceberg Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Iceberg Token",
+    "symbol": "ICEBERG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

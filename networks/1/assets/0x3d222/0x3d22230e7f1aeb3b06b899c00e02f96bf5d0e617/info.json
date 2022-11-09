@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d22230e7f1aeb3b06b899c00e02f96bf5d0e617",
+  "displayName": "GoNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoNFT",
+    "symbol": "GNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

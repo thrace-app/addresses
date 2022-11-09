@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66bd2bccb3e4e8aeae22fa5b51cefc03fbecf602",
+  "displayName": "Vitalik Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitalik Protocol",
+    "symbol": "VITAPRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

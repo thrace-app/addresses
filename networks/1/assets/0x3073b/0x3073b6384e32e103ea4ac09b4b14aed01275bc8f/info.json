@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3073b6384e32e103ea4ac09b4b14aed01275bc8f",
+  "displayName": "Moonbase",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moonbase",
+    "symbol": "MNBASE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6758cc6e9ddb5677dcff09200dde1d260e9be09f",
+  "displayName": "StealthSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "StealthSwap",
+    "symbol": "sWAP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08a647fbe57c846e3b9ce9caa5689d305e5f5259",
+  "displayName": "Test Aquasis token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Test Aquasis token",
+    "symbol": "$TAQS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

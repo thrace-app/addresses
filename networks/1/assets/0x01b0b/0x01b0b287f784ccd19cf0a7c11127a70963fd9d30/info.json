@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01b0b287f784ccd19cf0a7c11127a70963fd9d30",
+  "displayName": "Party Penguins",
+  "type": "TOKEN",
+  "token": {
+    "name": "Party Penguins",
+    "symbol": "PPENG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

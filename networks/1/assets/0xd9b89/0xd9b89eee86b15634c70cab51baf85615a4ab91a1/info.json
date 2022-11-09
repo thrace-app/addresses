@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9b89eee86b15634c70cab51baf85615a4ab91a1",
+  "displayName": "Locklet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Locklet",
+    "symbol": "LKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

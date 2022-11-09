@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3516415161c478df10adbb8bb884cc83fbd5f11a",
+  "displayName": "AlphaDex",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlphaDex",
+    "symbol": "DEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

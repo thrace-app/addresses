@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x789f969e02a96d9fdc5b86618d1bc746af0ea8e6",
+  "displayName": "Crypto Kaisen",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Kaisen",
+    "symbol": "KAISEN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

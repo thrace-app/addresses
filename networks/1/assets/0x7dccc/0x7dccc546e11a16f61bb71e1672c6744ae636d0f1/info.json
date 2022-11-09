@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7dccc546e11a16f61bb71e1672c6744ae636d0f1",
+  "displayName": "Matrix",
+  "type": "TOKEN",
+  "token": {
+    "name": "Matrix",
+    "symbol": "$Matrix",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe45d47ca65982dd43a8d29fe35cd67de4629493c",
+  "displayName": "Sushib Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sushib Token",
+    "symbol": "SUSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

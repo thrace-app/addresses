@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69221be8c8e769d10385cc8fafbf5349a249c8a9",
+  "displayName": "Optimism Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Optimism Token",
+    "symbol": "OP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

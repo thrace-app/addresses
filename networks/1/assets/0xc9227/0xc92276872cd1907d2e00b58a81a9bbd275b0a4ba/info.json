@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc92276872cd1907d2e00b58a81a9bbd275b0a4ba",
+  "displayName": "Collateral Governance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Collateral Governance",
+    "symbol": "COLLG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

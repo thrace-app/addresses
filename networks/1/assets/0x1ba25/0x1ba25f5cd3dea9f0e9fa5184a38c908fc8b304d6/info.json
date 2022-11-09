@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ba25f5cd3dea9f0e9fa5184a38c908fc8b304d6",
+  "displayName": "SpaceViki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpaceViki Token",
+    "symbol": "SpaceViki",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

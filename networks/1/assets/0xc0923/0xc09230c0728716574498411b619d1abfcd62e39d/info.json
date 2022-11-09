@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc09230c0728716574498411b619d1abfcd62e39d",
+  "displayName": "The KittyButts",
+  "type": "TOKEN",
+  "token": {
+    "name": "The KittyButts",
+    "symbol": "KBUTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

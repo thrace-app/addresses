@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48cf01fcbbf6a471b2b37a8e199eae6335ab1d9c",
+  "displayName": "Argon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Argon Token",
+    "symbol": "ARGON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

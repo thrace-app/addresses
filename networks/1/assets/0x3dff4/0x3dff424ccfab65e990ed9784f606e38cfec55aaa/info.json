@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3dff424ccfab65e990ed9784f606e38cfec55aaa",
+  "displayName": "ShibMaster",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShibMaster",
+    "symbol": "MASTER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

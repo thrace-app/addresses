@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb19ddcda9a7005b168c7e84911fc5f88066dfc9",
+  "displayName": "DeversiFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeversiFi Token",
+    "symbol": "DVF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

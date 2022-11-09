@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86632544e69c8019babd01be75393f9c2d46ee70",
+  "displayName": "Dynamic Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dynamic Network Token",
+    "symbol": "DNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

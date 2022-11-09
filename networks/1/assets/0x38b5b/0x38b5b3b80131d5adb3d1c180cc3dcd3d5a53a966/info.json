@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38b5b3b80131d5adb3d1c180cc3dcd3d5a53a966",
+  "displayName": "McAfeeDex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "McAfeeDex Token",
+    "symbol": "MFDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

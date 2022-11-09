@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d31d192db1863a7ffc821f6960c0ae57546a7da",
+  "displayName": "Santa Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Santa Cat",
+    "symbol": "BLINKIE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

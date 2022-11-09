@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a3d5384910405abfc6db2cfac6c62f9aab36270",
+  "displayName": "FIISwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "FIISwap",
+    "symbol": "FII",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

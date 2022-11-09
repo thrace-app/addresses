@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+  "displayName": "Wrapped MIR Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped MIR Token",
+    "symbol": "MIR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

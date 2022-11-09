@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6263db8371a633ee97793dfe26c533a1edd3920",
+  "displayName": "Mega Eth",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mega Eth",
+    "symbol": "METH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

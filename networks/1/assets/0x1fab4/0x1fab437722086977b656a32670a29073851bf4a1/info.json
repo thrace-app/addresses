@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fab437722086977b656a32670a29073851bf4a1",
+  "displayName": "NiftyGateway",
+  "type": "TOKEN",
+  "token": {
+    "name": "NiftyGateway",
+    "symbol": "NIFTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

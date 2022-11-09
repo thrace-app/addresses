@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x461adb04ef357b638e486a4133b4b9869e0d79cc",
+  "displayName": "BitGo",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitGo",
+    "symbol": "PAYPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

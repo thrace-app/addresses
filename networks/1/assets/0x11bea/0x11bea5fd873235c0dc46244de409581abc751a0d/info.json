@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11bea5fd873235c0dc46244de409581abc751a0d",
+  "displayName": "OUD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OUD Token",
+    "symbol": "OUD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

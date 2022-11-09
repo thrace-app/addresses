@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14c1bfbf60853b89b571b5e13bf0ce601be6e245",
+  "displayName": "DYOR.net Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DYOR.net Token",
+    "symbol": "DYOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

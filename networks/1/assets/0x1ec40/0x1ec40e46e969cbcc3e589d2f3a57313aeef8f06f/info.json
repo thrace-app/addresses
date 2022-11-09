@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ec40e46e969cbcc3e589d2f3a57313aeef8f06f",
+  "displayName": "Dronair Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dronair Token",
+    "symbol": "DAIR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfc548ca26f88644152f50592c21e31675a6fe4d",
+  "displayName": "Iron Fish",
+  "type": "TOKEN",
+  "token": {
+    "name": "Iron Fish",
+    "symbol": "IRON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

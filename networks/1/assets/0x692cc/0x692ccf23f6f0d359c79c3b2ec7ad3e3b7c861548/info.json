@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x692ccf23f6f0d359c79c3b2ec7ad3e3b7c861548",
+  "displayName": "Sakazuki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sakazuki Token",
+    "symbol": "SAKAZUKI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

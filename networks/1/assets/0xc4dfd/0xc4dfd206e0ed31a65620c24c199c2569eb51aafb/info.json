@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4dfd206e0ed31a65620c24c199c2569eb51aafb",
+  "displayName": "Mamoto Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mamoto Token",
+    "symbol": "Mamoto",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcf498f97dd44a385b9da3ef7206bc1347008a2ee",
+  "displayName": "DetroitCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DetroitCoin",
+    "symbol": "DTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

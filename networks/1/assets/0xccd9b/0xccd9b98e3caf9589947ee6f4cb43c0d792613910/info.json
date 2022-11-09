@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccd9b98e3caf9589947ee6f4cb43c0d792613910",
+  "displayName": "wordcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "wordcoin",
+    "symbol": "Wrd",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

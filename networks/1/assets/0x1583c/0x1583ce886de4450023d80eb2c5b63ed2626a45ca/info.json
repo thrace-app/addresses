@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1583ce886de4450023d80eb2c5b63ed2626a45ca",
+  "displayName": "Stellar Diamond",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stellar Diamond",
+    "symbol": "XLD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

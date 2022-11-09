@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa5b28c022074ed95408135b3f1585a83218334a7",
+  "displayName": "Sushi Swap Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sushi Swap Dollar",
+    "symbol": "ssUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

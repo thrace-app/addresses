@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e459407da71df11f40b96c5719c5c1c4cf41e16",
+  "displayName": "SnowSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "SnowSwap",
+    "symbol": "SNOW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f4560ad0fa3491618f292f54f58c60dc1b7fef5",
+  "displayName": "Tethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tethereum",
+    "symbol": "TETHER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

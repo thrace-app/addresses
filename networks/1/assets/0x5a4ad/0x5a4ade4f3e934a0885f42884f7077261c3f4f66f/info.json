@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a4ade4f3e934a0885f42884f7077261c3f4f66f",
+  "displayName": "Synthetix Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93445867d344bcf1279edb40396973062043a84a",
+  "displayName": "bonded.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "bonded.finance",
+    "symbol": "BOND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

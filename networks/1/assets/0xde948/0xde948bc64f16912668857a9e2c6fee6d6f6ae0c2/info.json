@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde948bc64f16912668857a9e2c6fee6d6f6ae0c2",
+  "displayName": "MONETA",
+  "type": "TOKEN",
+  "token": {
+    "name": "MONETA",
+    "symbol": "MONETA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

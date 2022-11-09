@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfab46e002bbf0b4509813474841e0716e6730136",
+  "displayName": "FaucetToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FaucetToken",
+    "symbol": "FAU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

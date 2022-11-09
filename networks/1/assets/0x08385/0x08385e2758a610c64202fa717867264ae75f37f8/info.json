@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08385e2758a610c64202fa717867264ae75f37f8",
+  "displayName": "Nakamoto",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nakamoto",
+    "symbol": "NAKA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

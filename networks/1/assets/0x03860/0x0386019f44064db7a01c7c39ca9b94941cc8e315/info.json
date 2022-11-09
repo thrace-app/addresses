@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0386019f44064db7a01c7c39ca9b94941cc8e315",
+  "displayName": "Kenshin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kenshin Token",
+    "symbol": "KENSHIN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

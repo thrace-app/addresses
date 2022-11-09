@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfeddc3de664b5c15664066e74492e74f93aebda7",
+  "displayName": "Rich As Duck",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rich As Duck",
+    "symbol": "RAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

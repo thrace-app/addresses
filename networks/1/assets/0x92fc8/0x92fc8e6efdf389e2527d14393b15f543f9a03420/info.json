@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92fc8e6efdf389e2527d14393b15f543f9a03420",
+  "displayName": "Fixed USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fixed USD",
+    "symbol": "USDF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

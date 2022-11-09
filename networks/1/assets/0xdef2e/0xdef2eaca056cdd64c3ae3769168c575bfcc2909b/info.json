@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdef2eaca056cdd64c3ae3769168c575bfcc2909b",
+  "displayName": "Raijin Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Raijin Chain",
+    "symbol": "RC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

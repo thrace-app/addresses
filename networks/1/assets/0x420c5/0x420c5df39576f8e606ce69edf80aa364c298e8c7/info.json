@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x420c5df39576f8e606ce69edf80aa364c298e8c7",
+  "displayName": "CryptoBossCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoBossCoin",
+    "symbol": "CBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

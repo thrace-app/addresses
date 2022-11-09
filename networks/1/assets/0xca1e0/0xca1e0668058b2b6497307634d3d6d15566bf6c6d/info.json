@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca1e0668058b2b6497307634d3d6d15566bf6c6d",
+  "displayName": "ChainLink",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChainLink",
+    "symbol": "CLink",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

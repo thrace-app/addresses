@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ccc863ece2e15bc45ac0565d410da7a3340ad98",
+  "displayName": "Dotify Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dotify Token",
+    "symbol": "DFY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

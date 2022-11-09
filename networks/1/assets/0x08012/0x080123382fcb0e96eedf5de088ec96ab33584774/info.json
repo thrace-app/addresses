@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x080123382fcb0e96eedf5de088ec96ab33584774",
+  "displayName": "UltraLock",
+  "type": "TOKEN",
+  "token": {
+    "name": "UltraLock",
+    "symbol": "LCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

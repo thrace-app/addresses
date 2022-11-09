@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcabaa659f92ba19cad021a8d8cf7a212971ba7ce",
+  "displayName": "MiliTrumNetworkToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MiliTrumNetworkToken",
+    "symbol": "MMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

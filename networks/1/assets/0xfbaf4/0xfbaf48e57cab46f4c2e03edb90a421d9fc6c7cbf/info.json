@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfbaf48e57cab46f4c2e03edb90a421d9fc6c7cbf",
+  "displayName": "MIKScoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MIKScoin",
+    "symbol": "MIKS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

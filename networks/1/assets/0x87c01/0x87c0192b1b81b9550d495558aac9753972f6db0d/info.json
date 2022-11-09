@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87c0192b1b81b9550d495558aac9753972f6db0d",
+  "displayName": "UniCat Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniCat Token",
+    "symbol": "UNICAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

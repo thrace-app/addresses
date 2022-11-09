@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55f1d3486dcdcb38b4cfff1fa557e9bcebe282fc",
+  "displayName": "Pecorino Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pecorino Token",
+    "symbol": "PECORINO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

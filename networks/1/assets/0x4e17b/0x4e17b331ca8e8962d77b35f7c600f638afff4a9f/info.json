@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e17b331ca8e8962d77b35f7c600f638afff4a9f",
+  "displayName": "Gruyere Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gruyere Token",
+    "symbol": "GRUYERE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

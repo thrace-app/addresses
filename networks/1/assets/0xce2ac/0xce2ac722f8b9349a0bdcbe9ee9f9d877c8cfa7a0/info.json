@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce2ac722f8b9349a0bdcbe9ee9f9d877c8cfa7a0",
+  "displayName": "UUnit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UUnit Token",
+    "symbol": "UUN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

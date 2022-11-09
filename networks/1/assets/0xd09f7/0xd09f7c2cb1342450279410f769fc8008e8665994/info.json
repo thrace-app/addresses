@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd09f7c2cb1342450279410f769fc8008e8665994",
+  "displayName": "Jimmy Buffer",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jimmy Buffer",
+    "symbol": "BUFFET",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

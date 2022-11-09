@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b956b24388cb3100dd7af9d04e7f98d717f4bef",
+  "displayName": "NFT Lambo",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT Lambo",
+    "symbol": "NFTL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

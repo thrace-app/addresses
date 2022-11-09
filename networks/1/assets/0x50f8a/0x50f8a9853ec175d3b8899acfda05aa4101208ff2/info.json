@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50f8a9853ec175d3b8899acfda05aa4101208ff2",
+  "displayName": "Three-Body Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Three-Body Token",
+    "symbol": "THB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

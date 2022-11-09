@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x091f84d6806d15fb8d1b7cad944b75392ff48c92",
+  "displayName": "Complex Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Complex Protocol",
+    "symbol": "COMPRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

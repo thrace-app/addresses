@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcf74457c2cce74344515eae291ebe039b69960fc",
+  "displayName": "Cool Shiba Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cool Shiba Inu",
+    "symbol": "CSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82b30acb5f21ca671fc6a14cf322edc4d3c05af3",
+  "displayName": "Pizza Hut Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pizza Hut Token",
+    "symbol": "PHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

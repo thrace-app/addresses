@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac0a5d624237b6c53c5f756490e38d2ae329e561",
+  "displayName": "SuperBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperBurn",
+    "symbol": "SBURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

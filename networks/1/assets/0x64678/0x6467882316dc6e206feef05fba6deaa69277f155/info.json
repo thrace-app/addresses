@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6467882316dc6e206feef05fba6deaa69277f155",
+  "displayName": "FAPcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FAPcoin",
+    "symbol": "FAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

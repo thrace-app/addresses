@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x155fe94928f5ba6fa4ad93fa82b8d59d668305dd",
+  "displayName": "MopedCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MopedCoin",
+    "symbol": "MDC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

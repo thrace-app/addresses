@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c4b3cb062653f6a55232328f036a078ff5531cf",
+  "displayName": "trusttoken.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "trusttoken.com",
+    "symbol": "TRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

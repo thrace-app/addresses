@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c062d9754ba09b42b9d361c0867b02b72aba462",
+  "displayName": "Pulse DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pulse DAI",
+    "symbol": "PULSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

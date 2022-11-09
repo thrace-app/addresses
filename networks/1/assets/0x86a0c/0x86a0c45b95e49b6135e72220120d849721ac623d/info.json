@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86a0c45b95e49b6135e72220120d849721ac623d",
+  "displayName": "ybitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ybitcoin",
+    "symbol": "YBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

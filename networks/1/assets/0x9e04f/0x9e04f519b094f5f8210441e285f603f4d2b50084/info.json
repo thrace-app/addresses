@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e04f519b094f5f8210441e285f603f4d2b50084",
+  "displayName": "EarthFund",
+  "type": "TOKEN",
+  "token": {
+    "name": "EarthFund",
+    "symbol": "1EARTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

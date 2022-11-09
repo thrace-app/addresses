@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37fea75e46166939c38bcc1f9f9ce5ca590ca1b7",
+  "displayName": "Savings",
+  "type": "TOKEN",
+  "token": {
+    "name": "Savings",
+    "symbol": "SVG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

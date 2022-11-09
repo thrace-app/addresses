@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37e8789bb9996cac9156cd5f5fd32599e6b91289",
+  "displayName": "AidCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AidCoin",
+    "symbol": "AID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

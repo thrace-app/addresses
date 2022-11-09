@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x600ff15d3cf655d1521c86dddb72c511c785b594",
+  "displayName": "Googlier Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Googlier Token",
+    "symbol": "googlier",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

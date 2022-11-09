@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x982f1af31e1d835c9e84162c0c026278729205d1",
+  "displayName": "Dfinity Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dfinity Token",
+    "symbol": "DFTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

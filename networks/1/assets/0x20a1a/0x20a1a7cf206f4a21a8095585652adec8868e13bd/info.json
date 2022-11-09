@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20a1a7cf206f4a21a8095585652adec8868e13bd",
+  "displayName": "YenSafe",
+  "type": "TOKEN",
+  "token": {
+    "name": "YenSafe",
+    "symbol": "YEN",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

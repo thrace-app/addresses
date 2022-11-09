@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x483ddcc0bc6480f87054c7649a6edea2c4aa6fae",
+  "displayName": "World Reserve Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "World Reserve Token",
+    "symbol": "WRDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb697945ece164386f02783697b37f2ca75bd72eb",
+  "displayName": "Degen Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Inu",
+    "symbol": "$DInu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

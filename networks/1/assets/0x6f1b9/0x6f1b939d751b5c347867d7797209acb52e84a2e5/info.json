@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f1b939d751b5c347867d7797209acb52e84a2e5",
+  "displayName": "TUNA Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TUNA Coin",
+    "symbol": "TUNAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

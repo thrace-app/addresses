@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b1385e62febf72dc17e2c5804605d476ad404ff",
+  "displayName": "Instadapp",
+  "type": "TOKEN",
+  "token": {
+    "name": "Instadapp",
+    "symbol": "INST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

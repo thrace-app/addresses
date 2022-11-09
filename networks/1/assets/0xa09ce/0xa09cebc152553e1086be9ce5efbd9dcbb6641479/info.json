@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa09cebc152553e1086be9ce5efbd9dcbb6641479",
+  "displayName": "Swissy Stable Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swissy Stable Coin",
+    "symbol": "SSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

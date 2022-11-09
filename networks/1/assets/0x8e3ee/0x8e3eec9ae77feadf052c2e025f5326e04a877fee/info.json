@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e3eec9ae77feadf052c2e025f5326e04a877fee",
+  "displayName": "Borary Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Borary Token",
+    "symbol": "BORARY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

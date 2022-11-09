@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4b895820f163b957d166f5a8ccc444e1fac4ff3",
+  "displayName": "NiftyDegen",
+  "type": "TOKEN",
+  "token": {
+    "name": "NiftyDegen",
+    "symbol": "DEGEN20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

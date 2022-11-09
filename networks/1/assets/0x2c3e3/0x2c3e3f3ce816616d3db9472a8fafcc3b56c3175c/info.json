@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c3e3f3ce816616d3db9472a8fafcc3b56c3175c",
+  "displayName": "GenieCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GenieCoin",
+    "symbol": "GNC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

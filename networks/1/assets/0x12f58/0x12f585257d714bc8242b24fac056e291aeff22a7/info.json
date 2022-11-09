@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12f585257d714bc8242b24fac056e291aeff22a7",
+  "displayName": "Gallery Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gallery Finance Token",
+    "symbol": "GLF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

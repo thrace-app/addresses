@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc358c3bb6e22d4f52de6e39ae4190a19543ee8f7",
+  "displayName": "FreeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FreeToken",
+    "symbol": "FRE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

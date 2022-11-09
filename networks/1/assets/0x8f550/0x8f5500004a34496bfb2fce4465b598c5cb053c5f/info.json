@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f5500004a34496bfb2fce4465b598c5cb053c5f",
+  "displayName": "FrenChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "FrenChain",
+    "symbol": "FREN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

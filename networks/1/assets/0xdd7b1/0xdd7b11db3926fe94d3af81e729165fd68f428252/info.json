@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd7b11db3926fe94d3af81e729165fd68f428252",
+  "displayName": "BurnFury",
+  "type": "TOKEN",
+  "token": {
+    "name": "BurnFury",
+    "symbol": "BFURY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

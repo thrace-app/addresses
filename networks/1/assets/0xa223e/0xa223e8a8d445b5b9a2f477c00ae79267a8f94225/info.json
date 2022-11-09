@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa223e8a8d445b5b9a2f477c00ae79267a8f94225",
+  "displayName": "Meme Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meme Protocol",
+    "symbol": "MEME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

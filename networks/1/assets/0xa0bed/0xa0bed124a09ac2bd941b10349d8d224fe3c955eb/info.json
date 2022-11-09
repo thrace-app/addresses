@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa0bed124a09ac2bd941b10349d8d224fe3c955eb",
+  "displayName": "DePay",
+  "type": "TOKEN",
+  "token": {
+    "name": "DePay",
+    "symbol": "DEPAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

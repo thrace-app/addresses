@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc1d7143f7f31d187d51b04c78d00d4cea4e0613",
+  "displayName": "Only Thousand Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Only Thousand Token",
+    "symbol": "ONLY1000",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

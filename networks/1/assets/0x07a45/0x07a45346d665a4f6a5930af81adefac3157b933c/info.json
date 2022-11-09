@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07a45346d665a4f6a5930af81adefac3157b933c",
+  "displayName": "CircleOfEthereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "CircleOfEthereum",
+    "symbol": "$COE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

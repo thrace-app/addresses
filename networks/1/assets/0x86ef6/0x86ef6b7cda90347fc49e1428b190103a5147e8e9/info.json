@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86ef6b7cda90347fc49e1428b190103a5147e8e9",
+  "displayName": "Lido DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lido DAO Token",
+    "symbol": "LDO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

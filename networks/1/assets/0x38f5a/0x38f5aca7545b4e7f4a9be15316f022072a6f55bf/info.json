@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38f5aca7545b4e7f4a9be15316f022072a6f55bf",
+  "displayName": "System Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "System Token",
+    "symbol": "SYT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

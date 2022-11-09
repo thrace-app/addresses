@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e065f924c7edc9f535ba9ccc5baa17b7d770d42",
+  "displayName": "DFINITY",
+  "type": "TOKEN",
+  "token": {
+    "name": "DFINITY",
+    "symbol": "ICP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

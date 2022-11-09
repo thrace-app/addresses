@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe222bb53b134c51de8bd982609493763829e88c8",
+  "displayName": "Gucci Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gucci Token",
+    "symbol": "GUCCI",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

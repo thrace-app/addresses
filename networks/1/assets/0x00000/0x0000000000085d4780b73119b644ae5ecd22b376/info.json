@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0000000000085d4780b73119b644ae5ecd22b376",
+  "displayName": "TrueUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

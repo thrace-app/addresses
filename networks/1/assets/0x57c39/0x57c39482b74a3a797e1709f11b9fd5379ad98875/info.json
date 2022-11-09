@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57c39482b74a3a797e1709f11b9fd5379ad98875",
+  "displayName": "Parity Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Parity Token",
+    "symbol": "PRY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

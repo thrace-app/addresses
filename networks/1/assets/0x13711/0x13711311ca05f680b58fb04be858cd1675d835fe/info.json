@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13711311ca05f680b58fb04be858cd1675d835fe",
+  "displayName": "Apple Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Apple Token",
+    "symbol": "APPLE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

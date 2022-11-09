@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14b7d296129245da4cbdbeb861296f5f87737096",
+  "displayName": "BirdNest",
+  "type": "TOKEN",
+  "token": {
+    "name": "BirdNest",
+    "symbol": "NEST",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe40aa2e41aa3381ed28740ae949592951e769331",
+  "displayName": "FUDX_Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FUDX_Token",
+    "symbol": "FUDX",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

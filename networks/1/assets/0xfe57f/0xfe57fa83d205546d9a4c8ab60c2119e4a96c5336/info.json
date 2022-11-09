@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe57fa83d205546d9a4c8ab60c2119e4a96c5336",
+  "displayName": "DIGIBYTE",
+  "type": "TOKEN",
+  "token": {
+    "name": "DIGIBYTE",
+    "symbol": "DGB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

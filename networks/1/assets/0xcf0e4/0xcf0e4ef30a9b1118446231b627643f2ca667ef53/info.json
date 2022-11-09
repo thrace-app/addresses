@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcf0e4ef30a9b1118446231b627643f2ca667ef53",
+  "displayName": "Ecoin chain token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ecoin chain token",
+    "symbol": "ECOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

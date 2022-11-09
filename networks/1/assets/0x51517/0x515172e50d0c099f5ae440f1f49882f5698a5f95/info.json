@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x515172e50d0c099f5ae440f1f49882f5698a5f95",
+  "displayName": "Crypto Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Protocol",
+    "symbol": "EVERYDAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

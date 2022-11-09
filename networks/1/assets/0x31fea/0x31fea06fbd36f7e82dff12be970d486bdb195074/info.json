@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x31fea06fbd36f7e82dff12be970d486bdb195074",
+  "displayName": "Big Eggs",
+  "type": "TOKEN",
+  "token": {
+    "name": "Big Eggs",
+    "symbol": "BEGGS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

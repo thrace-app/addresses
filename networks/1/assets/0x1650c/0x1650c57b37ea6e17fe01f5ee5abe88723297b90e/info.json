@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1650c57b37ea6e17fe01f5ee5abe88723297b90e",
+  "displayName": "Dead Bull Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dead Bull Token",
+    "symbol": "DEADBULL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

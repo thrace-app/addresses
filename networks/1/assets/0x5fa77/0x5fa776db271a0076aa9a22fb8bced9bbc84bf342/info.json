@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5fa776db271a0076aa9a22fb8bced9bbc84bf342",
+  "displayName": "Anti bot token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Anti bot token",
+    "symbol": "NOBUY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

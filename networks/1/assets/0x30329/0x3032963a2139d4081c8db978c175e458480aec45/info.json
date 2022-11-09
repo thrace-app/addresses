@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3032963a2139d4081c8db978c175e458480aec45",
+  "displayName": "PeskyDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "PeskyDoge",
+    "symbol": "POGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63d91fede831209f52383a5cdda8b83597b06072",
+  "displayName": "CashApp",
+  "type": "TOKEN",
+  "token": {
+    "name": "CashApp",
+    "symbol": "CASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

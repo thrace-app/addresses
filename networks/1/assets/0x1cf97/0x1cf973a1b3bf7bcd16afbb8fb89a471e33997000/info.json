@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cf973a1b3bf7bcd16afbb8fb89a471e33997000",
+  "displayName": "HexUSDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "HexUSDC",
+    "symbol": "HEXU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

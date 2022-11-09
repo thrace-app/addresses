@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf667c465e54e24a92e986625c3e0f87418e68d47",
+  "displayName": "SolStarterToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SolStarterToken",
+    "symbol": "SoS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

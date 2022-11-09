@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87eac6849597f0abacb8db909073b78ad18e3916",
+  "displayName": "FaaS PG Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FaaS PG Token",
+    "symbol": "FaaS PG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

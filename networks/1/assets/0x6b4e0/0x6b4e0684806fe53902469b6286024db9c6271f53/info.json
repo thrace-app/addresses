@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b4e0684806fe53902469b6286024db9c6271f53",
+  "displayName": "TuneToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TuneToken",
+    "symbol": "TUNE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

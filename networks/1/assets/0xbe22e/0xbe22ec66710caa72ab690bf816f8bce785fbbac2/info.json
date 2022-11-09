@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe22ec66710caa72ab690bf816f8bce785fbbac2",
+  "displayName": "Add A New Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Add A New Token",
+    "symbol": "AANT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb0387e8216d296fc053afda790d870212577004",
+  "displayName": "random.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "random.finance",
+    "symbol": "RAND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

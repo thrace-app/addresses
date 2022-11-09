@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf52e83d80edf8e5b39476316e9e5247caae58411",
+  "displayName": "P2V Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "P2V Token",
+    "symbol": "P2V",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

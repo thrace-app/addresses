@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x378bdfe849fffbe0b5a9995b9d9b7f707a4a4715",
+  "displayName": "Scam Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Scam Token",
+    "symbol": "SCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

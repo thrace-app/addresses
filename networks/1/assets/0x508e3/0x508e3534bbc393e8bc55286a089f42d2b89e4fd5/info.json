@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x508e3534bbc393e8bc55286a089f42d2b89e4fd5",
+  "displayName": "Tellor",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tellor",
+    "symbol": "TRB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

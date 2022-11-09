@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b2b0559081c41e962777b5049632fdb30f7e652",
+  "displayName": "BitDEFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitDEFi",
+    "symbol": "BFi",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

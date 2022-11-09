@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30e822af375e47d6dfe572efd3bd9a8c5c0e7698",
+  "displayName": "AiTrades Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AiTrades Coin",
+    "symbol": "ATC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

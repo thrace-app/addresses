@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8",
+  "displayName": "dForce USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "dForce USD",
+    "symbol": "USX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

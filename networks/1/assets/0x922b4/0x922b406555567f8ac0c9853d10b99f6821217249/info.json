@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x922b406555567f8ac0c9853d10b99f6821217249",
+  "displayName": "Axina Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Axina Token",
+    "symbol": "AXIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb5873ae9ecb74a94fc88eeca67b6791ab25667c",
+  "displayName": "BART",
+  "type": "TOKEN",
+  "token": {
+    "name": "BART",
+    "symbol": "BART",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

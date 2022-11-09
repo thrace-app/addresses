@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbfe4ccbe3f48da873042c2890f9b598dcaf233c3",
+  "displayName": "HelloKittie",
+  "type": "TOKEN",
+  "token": {
+    "name": "HelloKittie",
+    "symbol": "HEKI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

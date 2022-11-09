@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc523062f7e84f81a3fd87348178f28555418b377",
+  "displayName": "DeFi Staker",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi Staker",
+    "symbol": "DEFIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

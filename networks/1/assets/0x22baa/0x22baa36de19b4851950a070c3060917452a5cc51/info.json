@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22baa36de19b4851950a070c3060917452a5cc51",
+  "displayName": "J3dx Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "J3dx Token",
+    "symbol": "J3dx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

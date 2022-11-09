@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37d66ff3bb84bd9f63684eb8999ffbedb1213172",
+  "displayName": "TreeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TreeCoin",
+    "symbol": "TREE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

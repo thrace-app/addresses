@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8c6fc3c4f6342c5291e747268625f979a888ebf",
+  "displayName": "Green Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Money",
+    "symbol": "GRM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

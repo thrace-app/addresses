@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa478a13242b64629bff309125770b69f75bd77cb",
+  "displayName": "Bitcoin SB",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin SB",
+    "symbol": "BSB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

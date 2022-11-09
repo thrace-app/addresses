@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05ca8ea7d2ef06489639a00c5fb49bef74ef5459",
+  "displayName": "Polkamon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polkamon",
+    "symbol": "PMON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

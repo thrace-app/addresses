@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa4e0104085017800567d72a0bfa864b88018a318",
+  "displayName": "Sifchain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sifchain Token",
+    "symbol": "ERWN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

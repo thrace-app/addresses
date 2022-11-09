@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3e150dda0dd426a1b5a119c43e4e9ad8d9040f6",
+  "displayName": "Proof of Pump",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Pump",
+    "symbol": "POP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+  "displayName": "Compound USD Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Compound USD Coin",
+    "symbol": "cUSDC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6eeb539d662bb971a4a01211c67cb7f65b09b802",
+  "displayName": "Ethereum-bridged Zilliqa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum-bridged Zilliqa Token",
+    "symbol": "eZIL",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa89b5934863447f6e4fc53b315a93e873bda69a3",
+  "displayName": "LuminoCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LuminoCoin",
+    "symbol": "LUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

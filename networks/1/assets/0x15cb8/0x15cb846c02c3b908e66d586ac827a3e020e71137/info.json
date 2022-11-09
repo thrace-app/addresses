@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15cb846c02c3b908e66d586ac827a3e020e71137",
+  "displayName": "Ethereum Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Cash",
+    "symbol": "eCash",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x531261a091f31bfd93dd393a6ca447ed6fb2043c",
+  "displayName": "Harvest fCASH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Harvest fCASH",
+    "symbol": "fCASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

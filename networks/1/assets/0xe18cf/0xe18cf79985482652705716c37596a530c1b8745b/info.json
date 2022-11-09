@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe18cf79985482652705716c37596a530c1b8745b",
+  "displayName": "MoonLink",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonLink",
+    "symbol": "MoonL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

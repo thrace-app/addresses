@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fbf38e776cca1111a823675d4ce5720d144cce0",
+  "displayName": "YoKen",
+  "type": "TOKEN",
+  "token": {
+    "name": "YoKen",
+    "symbol": "YoKen",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

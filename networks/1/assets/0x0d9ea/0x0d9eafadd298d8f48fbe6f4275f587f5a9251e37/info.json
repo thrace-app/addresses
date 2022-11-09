@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d9eafadd298d8f48fbe6f4275f587f5a9251e37",
+  "displayName": "CopyTradeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CopyTradeCoin",
+    "symbol": "CTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

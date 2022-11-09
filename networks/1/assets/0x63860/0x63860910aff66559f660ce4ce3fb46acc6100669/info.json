@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63860910aff66559f660ce4ce3fb46acc6100669",
+  "displayName": "Samoyed coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Samoyed coin",
+    "symbol": "SAMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

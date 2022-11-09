@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbad567b733588df6ff41a641867c1c67e9adbb9d",
+  "displayName": "Hachiko Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hachiko Token",
+    "symbol": "HACHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

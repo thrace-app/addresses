@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x120224bd972957731f1b99b164b26ee311528c54",
+  "displayName": "Wrapped BNB ERC20",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped BNB ERC20",
+    "symbol": "WETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

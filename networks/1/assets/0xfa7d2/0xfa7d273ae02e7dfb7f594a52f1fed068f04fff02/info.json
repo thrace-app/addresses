@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa7d273ae02e7dfb7f594a52f1fed068f04fff02",
+  "displayName": "WalkerCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WalkerCoin",
+    "symbol": "WKC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

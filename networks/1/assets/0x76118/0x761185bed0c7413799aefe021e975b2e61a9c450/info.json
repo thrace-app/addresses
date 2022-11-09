@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x761185bed0c7413799aefe021e975b2e61a9c450",
+  "displayName": "HackMoney",
+  "type": "TOKEN",
+  "token": {
+    "name": "HackMoney",
+    "symbol": "H4KR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9acc71aa02793e4bd5610c3a4f85f5a5a4e89195",
+  "displayName": "OwnerCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "OwnerCoin",
+    "symbol": "OWN",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

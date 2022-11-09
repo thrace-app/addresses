@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9cff839eedd353e1b108093c8a35b6325abd67c1",
+  "displayName": "SugiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SugiCoin",
+    "symbol": "SUGI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

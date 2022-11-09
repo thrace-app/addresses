@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc53b06f73580072052fd5861d204d5a79aa1ed19",
+  "displayName": "Ghost Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ghost Doge",
+    "symbol": "Ghost Doge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

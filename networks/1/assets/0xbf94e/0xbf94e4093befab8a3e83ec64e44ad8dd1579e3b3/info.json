@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf94e4093befab8a3e83ec64e44ad8dd1579e3b3",
+  "displayName": "Wusd Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wusd Token",
+    "symbol": "WUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

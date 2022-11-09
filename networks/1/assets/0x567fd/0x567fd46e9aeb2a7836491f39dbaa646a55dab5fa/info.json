@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x567fd46e9aeb2a7836491f39dbaa646a55dab5fa",
+  "displayName": "The Founder",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Founder",
+    "symbol": "FOUNDER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d7f6540b8d592e81def42904c853a6dd01bd486",
+  "displayName": "Bizcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bizcoin",
+    "symbol": "BIZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

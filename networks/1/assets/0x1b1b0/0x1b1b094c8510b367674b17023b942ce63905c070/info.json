@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b1b094c8510b367674b17023b942ce63905c070",
+  "displayName": "Hiswap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hiswap Token",
+    "symbol": "HISWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

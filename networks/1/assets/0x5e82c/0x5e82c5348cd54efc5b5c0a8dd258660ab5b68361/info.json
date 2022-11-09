@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e82c5348cd54efc5b5c0a8dd258660ab5b68361",
+  "displayName": "Plebereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Plebereum",
+    "symbol": "Pleber",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

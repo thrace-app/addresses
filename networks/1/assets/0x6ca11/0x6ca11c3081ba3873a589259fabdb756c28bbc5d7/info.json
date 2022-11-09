@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ca11c3081ba3873a589259fabdb756c28bbc5d7",
+  "displayName": "Dwight Schrute Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dwight Schrute Token",
+    "symbol": "SCHRUTE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67e8a4f84cc2ba2547d2b2c2d7d67b7bb137b203",
+  "displayName": "Tether Fan",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tether Fan",
+    "symbol": "USDTFAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

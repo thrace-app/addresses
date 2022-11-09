@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd96d1b495778fd207bb699031865ae8ab182e000",
+  "displayName": "Matcha",
+  "type": "TOKEN",
+  "token": {
+    "name": "Matcha",
+    "symbol": "MATCHA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

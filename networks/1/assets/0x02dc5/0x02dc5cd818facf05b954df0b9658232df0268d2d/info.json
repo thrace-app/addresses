@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02dc5cd818facf05b954df0b9658232df0268d2d",
+  "displayName": "EtherImpact",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherImpact",
+    "symbol": "eImpact",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

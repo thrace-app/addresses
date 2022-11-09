@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc27cccf42b5803a5410f19c369e06511eb9a26b1",
+  "displayName": "White List",
+  "type": "TOKEN",
+  "token": {
+    "name": "White List",
+    "symbol": "WL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

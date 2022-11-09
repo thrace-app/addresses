@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b3be37ce83539802cc63919937ddae3dce8096c",
+  "displayName": "Synth USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth USD",
+    "symbol": "xUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

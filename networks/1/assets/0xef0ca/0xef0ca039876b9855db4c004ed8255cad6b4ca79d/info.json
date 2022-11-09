@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef0ca039876b9855db4c004ed8255cad6b4ca79d",
+  "displayName": "Confidential",
+  "type": "TOKEN",
+  "token": {
+    "name": "Confidential",
+    "symbol": "PVT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

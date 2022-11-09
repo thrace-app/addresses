@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x436e29d38f81afafa08903c5dc268b6be5722e1b",
+  "displayName": "Fibonacci",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fibonacci",
+    "symbol": "FIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

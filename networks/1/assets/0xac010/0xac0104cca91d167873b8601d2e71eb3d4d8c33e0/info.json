@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
+  "displayName": "Crowns",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crowns",
+    "symbol": "CWS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

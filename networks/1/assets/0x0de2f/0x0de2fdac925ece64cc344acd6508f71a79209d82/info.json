@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0de2fdac925ece64cc344acd6508f71a79209d82",
+  "displayName": "SpaceTube",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpaceTube",
+    "symbol": "TUBE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

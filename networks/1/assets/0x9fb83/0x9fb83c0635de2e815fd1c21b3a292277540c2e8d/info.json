@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9fb83c0635de2e815fd1c21b3a292277540c2e8d",
+  "displayName": "FevrToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FevrToken",
+    "symbol": "FEVR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

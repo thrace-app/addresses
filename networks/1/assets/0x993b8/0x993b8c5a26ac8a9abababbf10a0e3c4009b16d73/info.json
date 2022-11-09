@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x993b8c5a26ac8a9abababbf10a0e3c4009b16d73",
+  "displayName": "The Americans Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Americans Token",
+    "symbol": "$TAs",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

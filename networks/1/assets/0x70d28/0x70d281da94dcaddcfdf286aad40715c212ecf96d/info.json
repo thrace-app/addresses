@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70d281da94dcaddcfdf286aad40715c212ecf96d",
+  "displayName": "Titan.Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Titan.Finance Token",
+    "symbol": "TFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

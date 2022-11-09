@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbef81556ef066ec840a540595c8d12f516b6378f",
+  "displayName": "BinanceCZ",
+  "type": "TOKEN",
+  "token": {
+    "name": "BinanceCZ",
+    "symbol": "BCZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

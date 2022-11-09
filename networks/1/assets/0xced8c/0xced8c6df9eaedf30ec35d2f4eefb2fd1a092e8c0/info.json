@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xced8c6df9eaedf30ec35d2f4eefb2fd1a092e8c0",
+  "displayName": "MedChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "MedChain",
+    "symbol": "MDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

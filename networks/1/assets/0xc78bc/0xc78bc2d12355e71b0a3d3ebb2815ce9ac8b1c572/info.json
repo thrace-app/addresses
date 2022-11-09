@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc78bc2d12355e71b0a3d3ebb2815ce9ac8b1c572",
+  "displayName": "KiCool Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KiCool Token",
+    "symbol": "KiCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

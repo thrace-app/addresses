@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x790540ff6117205ac6ef132a5782ba4f4a611355",
+  "displayName": "Dogioh Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dogioh Token",
+    "symbol": "Dogioh",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

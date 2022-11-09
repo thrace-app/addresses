@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa63b9af5596720a1dad0ce704ddd03d27a4e38d5",
+  "displayName": "MFA Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MFA Coin",
+    "symbol": "MFA",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43f919706a559757b8e3118d4a539fd4b3564d20",
+  "displayName": "DarkLucidToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DarkLucidToken",
+    "symbol": "DLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

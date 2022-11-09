@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5dec0abe47278b4611913166834dc0d7fd7f27d0",
+  "displayName": "The Sentinel",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Sentinel",
+    "symbol": "SENTINEL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

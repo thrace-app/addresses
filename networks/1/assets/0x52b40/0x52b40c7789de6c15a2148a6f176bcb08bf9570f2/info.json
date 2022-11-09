@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52b40c7789de6c15a2148a6f176bcb08bf9570f2",
+  "displayName": "Wackercoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wackercoin",
+    "symbol": "WKC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

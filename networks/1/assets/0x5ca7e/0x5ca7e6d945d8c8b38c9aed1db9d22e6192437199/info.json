@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ca7e6d945d8c8b38c9aed1db9d22e6192437199",
+  "displayName": "Undead Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Undead Token",
+    "symbol": "UNDEAD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

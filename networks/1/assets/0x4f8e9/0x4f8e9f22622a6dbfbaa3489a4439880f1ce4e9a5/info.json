@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f8e9f22622a6dbfbaa3489a4439880f1ce4e9a5",
+  "displayName": "Cryptodate Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryptodate Token",
+    "symbol": "CDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

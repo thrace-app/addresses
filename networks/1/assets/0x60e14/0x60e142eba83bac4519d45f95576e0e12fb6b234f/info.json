@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x60e142eba83bac4519d45f95576e0e12fb6b234f",
+  "displayName": "Safe Umbrella",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Umbrella",
+    "symbol": "SUB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

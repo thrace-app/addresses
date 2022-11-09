@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7ce60c200a6d0e01c76b180f40927efe531829a",
+  "displayName": "FastBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "FastBurn",
+    "symbol": "FASTBURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

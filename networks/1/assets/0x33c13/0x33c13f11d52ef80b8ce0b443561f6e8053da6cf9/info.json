@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33c13f11d52ef80b8ce0b443561f6e8053da6cf9",
+  "displayName": "CopperFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "CopperFi",
+    "symbol": "COPPERFI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

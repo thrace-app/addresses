@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6448b9b20da6ebb005f0fa9aba8f9ccbb624c732",
+  "displayName": "Lucky Key",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucky Key",
+    "symbol": "LKK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

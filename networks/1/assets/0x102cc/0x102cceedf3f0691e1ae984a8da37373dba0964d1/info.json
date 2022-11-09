@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x102cceedf3f0691e1ae984a8da37373dba0964d1",
+  "displayName": "Maru Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Maru Inu",
+    "symbol": "MARUINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

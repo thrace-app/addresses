@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e56041525b7058d519e652da386e04a9191111c",
+  "displayName": "Inu Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inu Gold",
+    "symbol": "IGOLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

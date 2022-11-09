@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbcb1459b3b430d0c7a7f50431322b380f18f24cf",
+  "displayName": "Gronkowski Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gronkowski Token",
+    "symbol": "GRONK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

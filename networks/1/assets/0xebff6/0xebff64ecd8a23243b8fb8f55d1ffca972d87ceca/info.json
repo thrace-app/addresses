@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xebff64ecd8a23243b8fb8f55d1ffca972d87ceca",
+  "displayName": "Thor Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Thor Coin",
+    "symbol": "TRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

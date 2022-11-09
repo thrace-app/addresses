@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3182b10c8fdc88bf9d2ee8c3de05997c95f2aca",
+  "displayName": "Grinch Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grinch Inu",
+    "symbol": "GRINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

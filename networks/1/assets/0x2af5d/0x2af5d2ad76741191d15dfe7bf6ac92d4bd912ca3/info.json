@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+  "displayName": "Bitfinex LEO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitfinex LEO Token",
+    "symbol": "LEO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

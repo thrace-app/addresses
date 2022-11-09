@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78b8f1b15f89554e18496e5580475e6d53d0240b",
+  "displayName": "GamExToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GamExToken",
+    "symbol": "GMX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

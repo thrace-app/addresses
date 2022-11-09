@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e4780b64825024e510a54b8dd4ef58a54c4f73d",
+  "displayName": "QuackCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "QuackCoin",
+    "symbol": "QUACK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

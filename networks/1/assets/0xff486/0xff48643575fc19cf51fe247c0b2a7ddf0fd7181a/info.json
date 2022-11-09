@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff48643575fc19cf51fe247c0b2a7ddf0fd7181a",
+  "displayName": "Swingby Token (ERC20)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swingby Token (ERC20)",
+    "symbol": "SBY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

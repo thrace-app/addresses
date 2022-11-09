@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7aa09cf621f72cf3fa0417d76fa0cdd24ebe1dfb",
+  "displayName": "CRYPTOX",
+  "type": "TOKEN",
+  "token": {
+    "name": "CRYPTOX",
+    "symbol": "CYX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

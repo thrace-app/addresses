@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5fd16824a73af1f823cf164bb96c65ee393dabb6",
+  "displayName": "FLOKICHAIN TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "FLOKICHAIN TOKEN",
+    "symbol": "FC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

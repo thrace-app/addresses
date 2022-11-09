@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x736b5cc1617f61bd774994d03ac7f6e570a82e44",
+  "displayName": "AnotherNewDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "AnotherNewDAO",
+    "symbol": "AND",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

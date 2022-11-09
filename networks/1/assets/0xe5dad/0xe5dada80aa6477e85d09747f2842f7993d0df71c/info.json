@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5dada80aa6477e85d09747f2842f7993d0df71c",
+  "displayName": "DockToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DockToken",
+    "symbol": "DOCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77271813bd9167e75b5df9c230cf58d64f0a58fd",
+  "displayName": "Balkari Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Balkari Token",
+    "symbol": "BKR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

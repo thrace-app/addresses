@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf2edc981525e601011a56410213d2c94cd443ea",
+  "displayName": "Maple Syrup",
+  "type": "TOKEN",
+  "token": {
+    "name": "Maple Syrup",
+    "symbol": "MapleSyrup",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

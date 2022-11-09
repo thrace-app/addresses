@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35747eb4c027ebbf0a7f4e642627afcd7fd8cd7a",
+  "displayName": "Musicoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Musicoin",
+    "symbol": "MUSIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

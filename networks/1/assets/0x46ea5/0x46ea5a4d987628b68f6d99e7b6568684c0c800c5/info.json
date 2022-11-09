@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46ea5a4d987628b68f6d99e7b6568684c0c800c5",
+  "displayName": "DegenKitty",
+  "type": "TOKEN",
+  "token": {
+    "name": "DegenKitty",
+    "symbol": "DGI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

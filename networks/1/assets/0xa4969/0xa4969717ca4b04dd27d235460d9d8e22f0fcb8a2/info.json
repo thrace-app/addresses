@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa4969717ca4b04dd27d235460d9d8e22f0fcb8a2",
+  "displayName": "FUNE Protocol Secondary Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FUNE Protocol Secondary Token",
+    "symbol": "FUNE",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

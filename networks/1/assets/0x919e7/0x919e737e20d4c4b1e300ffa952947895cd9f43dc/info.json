@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x919e737e20d4c4b1e300ffa952947895cd9f43dc",
+  "displayName": "ErgoDEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "ErgoDEX",
+    "symbol": "ErgoDEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

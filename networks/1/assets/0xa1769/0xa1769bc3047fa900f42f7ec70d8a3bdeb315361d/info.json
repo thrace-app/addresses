@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1769bc3047fa900f42f7ec70d8a3bdeb315361d",
+  "displayName": "Crypto Price Index",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Price Index",
+    "symbol": "CPI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

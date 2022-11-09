@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff66231b7ffc9f8153bcc979921aff5b06edc17d",
+  "displayName": "Poll Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Poll Token",
+    "symbol": "POLL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

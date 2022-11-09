@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc52e363a84e9165cce7fa1ad977c5d991d41b85c",
+  "displayName": "Base on Credit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Base on Credit Token",
+    "symbol": "BOCT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

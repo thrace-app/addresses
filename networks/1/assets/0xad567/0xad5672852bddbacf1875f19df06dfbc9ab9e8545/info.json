@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad5672852bddbacf1875f19df06dfbc9ab9e8545",
+  "displayName": "Legacy Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Legacy Shiba",
+    "symbol": "LSHIB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

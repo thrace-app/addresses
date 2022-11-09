@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a81de87fecc55aa1be09864777d8d91fdfa063d",
+  "displayName": "Knight Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Knight Coin",
+    "symbol": "KNIGHT COIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

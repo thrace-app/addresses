@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2375ec44934fe96ee5ffb8ed597c6f9349771fd",
+  "displayName": "DiBi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DiBi Token",
+    "symbol": "DIBI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

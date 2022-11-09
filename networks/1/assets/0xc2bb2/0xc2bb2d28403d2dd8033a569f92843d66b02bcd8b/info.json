@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2bb2d28403d2dd8033a569f92843d66b02bcd8b",
+  "displayName": "StormX.io Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "StormX.io Token",
+    "symbol": "StormX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

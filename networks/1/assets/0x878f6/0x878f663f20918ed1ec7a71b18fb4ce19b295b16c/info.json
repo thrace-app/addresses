@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x878f663f20918ed1ec7a71b18fb4ce19b295b16c",
+  "displayName": "Forever Alone Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Forever Alone Token",
+    "symbol": "FAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1cd6e4153b2a390cf00a6556b0fc1458c4a5533",
+  "displayName": "BNT Smart Token Relay",
+  "type": "TOKEN",
+  "token": {
+    "name": "BNT Smart Token Relay",
+    "symbol": "ETHBNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

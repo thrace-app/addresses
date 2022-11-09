@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5463aeeb6de43049a49dc02d7fc50604765eeecc",
+  "displayName": "Sam Bankman-Fried",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sam Bankman-Fried",
+    "symbol": "SBF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

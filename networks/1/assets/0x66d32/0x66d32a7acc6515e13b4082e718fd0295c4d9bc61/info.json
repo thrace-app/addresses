@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66d32a7acc6515e13b4082e718fd0295c4d9bc61",
+  "displayName": "Baby Ripple",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Ripple",
+    "symbol": "BABYXRP",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

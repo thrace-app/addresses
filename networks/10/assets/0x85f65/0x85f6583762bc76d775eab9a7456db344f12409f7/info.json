@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85f6583762bc76d775eab9a7456db344f12409f7",
+  "displayName": "renBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "renBTC",
+    "symbol": "renBTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

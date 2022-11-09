@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18afbdd5bcb7ed0b3e51c049b963b59219377699",
+  "displayName": "Ethereum Mart",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Mart",
+    "symbol": "EMART",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

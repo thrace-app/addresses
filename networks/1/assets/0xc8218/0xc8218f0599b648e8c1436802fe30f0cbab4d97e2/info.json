@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8218f0599b648e8c1436802fe30f0cbab4d97e2",
+  "displayName": "Minter Vault Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Minter Vault Token",
+    "symbol": "MVT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

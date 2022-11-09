@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05484e280743ae0ca8072ea0faf571dda0b75fa8",
+  "displayName": "PowerCore Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PowerCore Token",
+    "symbol": "PCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

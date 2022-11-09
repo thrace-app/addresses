@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x517c62136a2d0ba66d0590644c9763992253e90b",
+  "displayName": "ITSToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ITSToken",
+    "symbol": "ITS",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

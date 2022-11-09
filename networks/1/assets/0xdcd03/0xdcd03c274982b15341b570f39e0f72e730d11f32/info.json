@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdcd03c274982b15341b570f39e0f72e730d11f32",
+  "displayName": "Bitherum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitherum",
+    "symbol": "BTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

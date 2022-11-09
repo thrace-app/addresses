@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a511d10d9b409538160016a9a3a05e3ec1954cb",
+  "displayName": "SushiroFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "SushiroFinance",
+    "symbol": "SUSHIRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb30233241a39e9405757584aa43551a2596088fc",
+  "displayName": "Pumpty Dumpty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pumpty Dumpty",
+    "symbol": "PUMPTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

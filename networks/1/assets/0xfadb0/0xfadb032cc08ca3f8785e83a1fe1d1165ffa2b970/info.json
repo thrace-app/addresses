@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfadb032cc08ca3f8785e83a1fe1d1165ffa2b970",
+  "displayName": "Ape DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ape DAI",
+    "symbol": "APEDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

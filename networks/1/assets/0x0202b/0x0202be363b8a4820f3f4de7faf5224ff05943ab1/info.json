@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0202be363b8a4820f3f4de7faf5224ff05943ab1",
+  "displayName": "UniLend Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniLend Finance Token",
+    "symbol": "UFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

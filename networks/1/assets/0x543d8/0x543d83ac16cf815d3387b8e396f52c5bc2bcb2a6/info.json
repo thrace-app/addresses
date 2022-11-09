@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x543d83ac16cf815d3387b8e396f52c5bc2bcb2a6",
+  "displayName": "Ripple Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ripple Cash",
+    "symbol": "XRPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

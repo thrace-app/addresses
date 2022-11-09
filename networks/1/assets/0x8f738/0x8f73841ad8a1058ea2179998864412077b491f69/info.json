@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f73841ad8a1058ea2179998864412077b491f69",
+  "displayName": "Ethereum 3.0",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum 3.0",
+    "symbol": "ETH3.0",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

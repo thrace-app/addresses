@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35c5a595e631280e01187f402269e490e07ec58b",
+  "displayName": "LandLab",
+  "type": "TOKEN",
+  "token": {
+    "name": "LandLab",
+    "symbol": "land",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

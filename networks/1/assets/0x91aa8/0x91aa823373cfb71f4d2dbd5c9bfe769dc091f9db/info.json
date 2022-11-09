@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x91aa823373cfb71f4d2dbd5c9bfe769dc091f9db",
+  "displayName": "BWS Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BWS Coin",
+    "symbol": "BWS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

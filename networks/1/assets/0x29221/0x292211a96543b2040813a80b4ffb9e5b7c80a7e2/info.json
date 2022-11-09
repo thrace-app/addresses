@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x292211a96543b2040813a80b4ffb9e5b7c80a7e2",
+  "displayName": "sumtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "sumtoken",
+    "symbol": "sum",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

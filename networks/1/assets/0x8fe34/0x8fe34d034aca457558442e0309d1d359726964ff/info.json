@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8fe34d034aca457558442e0309d1d359726964ff",
+  "displayName": "Bitcoin Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Gold",
+    "symbol": "BTC GOLD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

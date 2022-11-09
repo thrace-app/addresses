@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45b9d0f2a4d9339a9a8070678bd995505941500c",
+  "displayName": "Bitchcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitchcoin",
+    "symbol": "BTCH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

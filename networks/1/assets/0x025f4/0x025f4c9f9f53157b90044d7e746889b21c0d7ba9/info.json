@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x025f4c9f9f53157b90044d7e746889b21c0d7ba9",
+  "displayName": "Charm Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Charm Token",
+    "symbol": "CHARM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

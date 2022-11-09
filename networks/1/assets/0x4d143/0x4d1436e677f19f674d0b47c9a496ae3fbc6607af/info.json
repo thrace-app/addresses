@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d1436e677f19f674d0b47c9a496ae3fbc6607af",
+  "displayName": "Reversible Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Reversible Ether",
+    "symbol": "rETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

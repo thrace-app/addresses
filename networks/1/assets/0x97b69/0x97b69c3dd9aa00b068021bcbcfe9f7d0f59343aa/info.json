@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97b69c3dd9aa00b068021bcbcfe9f7d0f59343aa",
+  "displayName": "Pay Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pay Protocol",
+    "symbol": "PCI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

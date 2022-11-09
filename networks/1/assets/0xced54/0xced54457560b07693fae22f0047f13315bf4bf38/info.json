@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xced54457560b07693fae22f0047f13315bf4bf38",
+  "displayName": "MUGToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MUGToken",
+    "symbol": "MUG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ab0f368399d4bea29594bd3c9ce12e73a50231a",
+  "displayName": "Scooby Snacks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Scooby Snacks",
+    "symbol": "SCOOBYSNAX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

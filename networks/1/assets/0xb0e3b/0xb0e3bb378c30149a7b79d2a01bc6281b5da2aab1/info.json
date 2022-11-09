@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0e3bb378c30149a7b79d2a01bc6281b5da2aab1",
+  "displayName": "Dota Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dota Token",
+    "symbol": "DOTA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

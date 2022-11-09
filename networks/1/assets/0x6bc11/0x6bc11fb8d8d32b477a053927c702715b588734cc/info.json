@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6bc11fb8d8d32b477a053927c702715b588734cc",
+  "displayName": "PPP TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "PPP TOKEN",
+    "symbol": "PPP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6619078bdd8324e01e9a8d4b3d761b050e5ecf06",
+  "displayName": "My Alpha Leaderboard",
+  "type": "TOKEN",
+  "token": {
+    "name": "My Alpha Leaderboard",
+    "symbol": "MAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

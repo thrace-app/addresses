@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf28b5ebc98be9a7d58269c782938180dde3b40ed",
+  "displayName": "BitcoinEco",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitcoinEco",
+    "symbol": "BTCECO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4156d3342d5c385a87d264f90653733592000581",
+  "displayName": "Salt",
+  "type": "TOKEN",
+  "token": {
+    "name": "Salt",
+    "symbol": "SALT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

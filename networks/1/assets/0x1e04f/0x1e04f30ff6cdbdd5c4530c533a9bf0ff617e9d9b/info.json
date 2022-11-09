@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e04f30ff6cdbdd5c4530c533a9bf0ff617e9d9b",
+  "displayName": "NIXBT",
+  "type": "TOKEN",
+  "token": {
+    "name": "NIXBT",
+    "symbol": "NBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

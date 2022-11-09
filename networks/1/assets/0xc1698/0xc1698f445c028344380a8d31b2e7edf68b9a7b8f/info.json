@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1698f445c028344380a8d31b2e7edf68b9a7b8f",
+  "displayName": "Vitana Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitana Token",
+    "symbol": "VITANA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

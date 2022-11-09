@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ebdc31a24f4a61e5e86399b24f3d19d7fbd869f",
+  "displayName": "WeWin Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WeWin Coin",
+    "symbol": "WWC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

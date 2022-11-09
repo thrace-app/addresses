@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea99891ec706acdc672576738b7ceddbe85df0c2",
+  "displayName": "Hashmax Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hashmax Coin",
+    "symbol": "HASHMAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

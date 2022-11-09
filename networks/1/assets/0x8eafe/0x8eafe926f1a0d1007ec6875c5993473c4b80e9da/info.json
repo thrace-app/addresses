@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8eafe926f1a0d1007ec6875c5993473c4b80e9da",
+  "displayName": "Direct Token V1",
+  "type": "TOKEN",
+  "token": {
+    "name": "Direct Token V1",
+    "symbol": "DTV1",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

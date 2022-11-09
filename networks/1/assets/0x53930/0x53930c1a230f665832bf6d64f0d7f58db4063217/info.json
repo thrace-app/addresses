@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53930c1a230f665832bf6d64f0d7f58db4063217",
+  "displayName": "Bitfrost",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitfrost",
+    "symbol": "BNC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

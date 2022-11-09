@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x577e56c834998f8fa7eaca666582691ad4fd9de4",
+  "displayName": "ZUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZUSD",
+    "symbol": "ZUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

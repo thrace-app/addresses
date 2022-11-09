@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8dc9947b6662485252e49b04f2e445100ab5804a",
+  "displayName": "TradeX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TradeX Token",
+    "symbol": "TXH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

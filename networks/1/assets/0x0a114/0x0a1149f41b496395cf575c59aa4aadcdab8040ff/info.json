@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a1149f41b496395cf575c59aa4aadcdab8040ff",
+  "displayName": "ProofOfPoodle",
+  "type": "TOKEN",
+  "token": {
+    "name": "ProofOfPoodle",
+    "symbol": "POP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7da71805da1031a4b304caefc7bd527ce61254ca",
+  "displayName": "Dynamic Network",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dynamic Network",
+    "symbol": "DYN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

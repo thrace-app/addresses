@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a3e5be4eadf1ea21b13bb9e843b3689e035582d",
+  "displayName": "Satoshi Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Satoshi Inu",
+    "symbol": "SATOINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

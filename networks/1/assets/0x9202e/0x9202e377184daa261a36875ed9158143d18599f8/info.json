@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9202e377184daa261a36875ed9158143d18599f8",
+  "displayName": "USDL Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDL Token",
+    "symbol": "USDL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

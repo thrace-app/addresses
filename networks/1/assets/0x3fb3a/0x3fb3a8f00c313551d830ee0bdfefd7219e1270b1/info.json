@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fb3a8f00c313551d830ee0bdfefd7219e1270b1",
+  "displayName": "Dojecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dojecoin",
+    "symbol": "doje.co",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

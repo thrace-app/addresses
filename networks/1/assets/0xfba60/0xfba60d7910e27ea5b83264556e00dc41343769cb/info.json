@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfba60d7910e27ea5b83264556e00dc41343769cb",
+  "displayName": "Tai Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tai Token",
+    "symbol": "Tai",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1745be113f03d9f9020e34b125867d54169bf268",
+  "displayName": "Senpai",
+  "type": "TOKEN",
+  "token": {
+    "name": "Senpai",
+    "symbol": "SENPAI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

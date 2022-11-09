@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97872eafd79940c7b24f7bcc1eadb1457347adc9",
+  "displayName": "Strips Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Strips Token",
+    "symbol": "STRP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

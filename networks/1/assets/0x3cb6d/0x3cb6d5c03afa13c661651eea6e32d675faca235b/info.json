@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3cb6d5c03afa13c661651eea6e32d675faca235b",
+  "displayName": "MillionNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "MillionNFT",
+    "symbol": "MMNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

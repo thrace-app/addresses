@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0dbb4b96a23ea7943bb72a8f16cc2c248f372935",
+  "displayName": "LightToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LightToken",
+    "symbol": "LIGHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

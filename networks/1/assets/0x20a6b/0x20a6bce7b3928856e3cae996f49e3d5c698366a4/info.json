@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20a6bce7b3928856e3cae996f49e3d5c698366a4",
+  "displayName": "AlgoVest",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlgoVest",
+    "symbol": "AVS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

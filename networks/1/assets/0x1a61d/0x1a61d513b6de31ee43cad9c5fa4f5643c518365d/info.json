@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a61d513b6de31ee43cad9c5fa4f5643c518365d",
+  "displayName": "DUSD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DUSD Token",
+    "symbol": "DUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

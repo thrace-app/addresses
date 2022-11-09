@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72929e4818ca5f71d53c6714d5438932e716164f",
+  "displayName": "Mone Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mone Protocol",
+    "symbol": "MONE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

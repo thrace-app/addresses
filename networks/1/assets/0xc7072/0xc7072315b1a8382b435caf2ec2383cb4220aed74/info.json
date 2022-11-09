@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7072315b1a8382b435caf2ec2383cb4220aed74",
+  "displayName": "RabbitSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "RabbitSwap",
+    "symbol": "RABB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

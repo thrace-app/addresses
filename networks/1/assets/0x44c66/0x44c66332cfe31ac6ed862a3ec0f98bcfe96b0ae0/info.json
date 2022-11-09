@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44c66332cfe31ac6ed862a3ec0f98bcfe96b0ae0",
+  "displayName": "Exodus Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Exodus Protocol",
+    "symbol": "$EXODUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

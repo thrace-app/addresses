@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63518fa947a0b9c61fc69369015c68630fda910e",
+  "displayName": "KXM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KXM Token",
+    "symbol": "KXM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

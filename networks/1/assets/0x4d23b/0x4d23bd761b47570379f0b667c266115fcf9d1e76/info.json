@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d23bd761b47570379f0b667c266115fcf9d1e76",
+  "displayName": "Tsuka Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tsuka Doge",
+    "symbol": "TDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

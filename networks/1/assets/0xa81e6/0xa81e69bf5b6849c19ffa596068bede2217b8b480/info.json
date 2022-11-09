@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa81e69bf5b6849c19ffa596068bede2217b8b480",
+  "displayName": "PapaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PapaToken",
+    "symbol": "PAPA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

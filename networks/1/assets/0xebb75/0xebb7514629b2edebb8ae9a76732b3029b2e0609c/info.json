@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xebb7514629b2edebb8ae9a76732b3029b2e0609c",
+  "displayName": "Cane Corso Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cane Corso Token",
+    "symbol": "CORSO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

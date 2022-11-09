@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f0f6d4f83b108a98f066bc95023404452683e9d",
+  "displayName": "EXP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EXP Token",
+    "symbol": "EXP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

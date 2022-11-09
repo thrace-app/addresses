@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x925b672563a1400be7c4d1cbc03ae737921d673d",
+  "displayName": "CrazyPump",
+  "type": "TOKEN",
+  "token": {
+    "name": "CrazyPump",
+    "symbol": "CPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

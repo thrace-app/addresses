@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89b413994d546cf81b6b36df294753e15fcd8f35",
+  "displayName": "Plexcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Plexcoin",
+    "symbol": "PLEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

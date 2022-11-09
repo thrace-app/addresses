@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27ec7e416d54a6c4a693d3691c54defef39bd814",
+  "displayName": "HotDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "HotDoge",
+    "symbol": "HOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

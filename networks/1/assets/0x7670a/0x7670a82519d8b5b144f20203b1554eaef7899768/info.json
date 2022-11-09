@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7670a82519d8b5b144f20203b1554eaef7899768",
+  "displayName": "ICP protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "ICP protocol",
+    "symbol": "ICP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

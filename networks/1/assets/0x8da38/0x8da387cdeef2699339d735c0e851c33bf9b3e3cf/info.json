@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8da387cdeef2699339d735c0e851c33bf9b3e3cf",
+  "displayName": "Risk Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Risk Protocol",
+    "symbol": "$RISK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

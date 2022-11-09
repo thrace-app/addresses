@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d0a3200a9ce84ff50a798101097cf2c2dda989c",
+  "displayName": "Tux Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tux Bitcoin",
+    "symbol": "tBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

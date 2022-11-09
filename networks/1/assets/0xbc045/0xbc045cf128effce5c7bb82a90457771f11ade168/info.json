@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc045cf128effce5c7bb82a90457771f11ade168",
+  "displayName": "Chunk Norris Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chunk Norris Coin",
+    "symbol": "CHUNK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

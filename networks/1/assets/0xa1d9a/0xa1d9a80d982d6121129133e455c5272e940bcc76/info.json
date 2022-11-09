@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1d9a80d982d6121129133e455c5272e940bcc76",
+  "displayName": "Eloneum Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eloneum Token",
+    "symbol": "ELNM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

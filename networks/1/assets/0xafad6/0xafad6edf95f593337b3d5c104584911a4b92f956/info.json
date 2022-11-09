@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafad6edf95f593337b3d5c104584911a4b92f956",
+  "displayName": "FedNow",
+  "type": "TOKEN",
+  "token": {
+    "name": "FedNow",
+    "symbol": "FedNow",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

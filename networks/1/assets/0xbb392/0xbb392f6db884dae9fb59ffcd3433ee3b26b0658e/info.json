@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb392f6db884dae9fb59ffcd3433ee3b26b0658e",
+  "displayName": "FlappyBird",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlappyBird",
+    "symbol": "FlappyBird",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

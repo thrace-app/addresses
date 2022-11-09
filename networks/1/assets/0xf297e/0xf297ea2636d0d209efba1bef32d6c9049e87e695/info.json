@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf297ea2636d0d209efba1bef32d6c9049e87e695",
+  "displayName": "Steve Jobs",
+  "type": "TOKEN",
+  "token": {
+    "name": "Steve Jobs",
+    "symbol": "JOBS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

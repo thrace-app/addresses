@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7856f05ec4141c8bedeb5ea4280c577251181545",
+  "displayName": "FamaX",
+  "type": "TOKEN",
+  "token": {
+    "name": "FamaX",
+    "symbol": "FMX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27abe40aab963270589bdc2e67d92fe07ccab972",
+  "displayName": "Balr Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Balr Coin",
+    "symbol": "BALR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x139838869d3e1ab94c798917840da1c079103c84",
+  "displayName": "Binantex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Binantex",
+    "symbol": "BNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

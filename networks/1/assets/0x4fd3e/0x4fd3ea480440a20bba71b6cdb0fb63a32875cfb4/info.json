@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4fd3ea480440a20bba71b6cdb0fb63a32875cfb4",
+  "displayName": "STE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "STE Token",
+    "symbol": "RSTEADT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

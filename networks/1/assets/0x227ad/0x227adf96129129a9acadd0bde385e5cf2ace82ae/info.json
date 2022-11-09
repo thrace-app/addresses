@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x227adf96129129a9acadd0bde385e5cf2ace82ae",
+  "displayName": "FTT GEM",
+  "type": "TOKEN",
+  "token": {
+    "name": "FTT GEM",
+    "symbol": "FTTG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x795dbf627484f8248d3d6c09c309825c1563e873",
+  "displayName": "SNP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SNP Token",
+    "symbol": "SNP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa075e05f261effac09522cef6cf66233753858f1",
+  "displayName": "CyberCats",
+  "type": "TOKEN",
+  "token": {
+    "name": "CyberCats",
+    "symbol": "CyberCats",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

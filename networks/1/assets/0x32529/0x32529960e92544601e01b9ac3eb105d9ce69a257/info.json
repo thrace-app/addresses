@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32529960e92544601e01b9ac3eb105d9ce69a257",
+  "displayName": "Baby Satoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Satoshi",
+    "symbol": "BabySatoshi",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

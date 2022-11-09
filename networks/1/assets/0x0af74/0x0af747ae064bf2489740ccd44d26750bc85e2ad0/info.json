@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0af747ae064bf2489740ccd44d26750bc85e2ad0",
+  "displayName": "APDT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "APDT Token",
+    "symbol": "APDT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x604b139c4e63412b188cb5eadf89a4580cf4cef9",
+  "displayName": "Bowser Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bowser Token",
+    "symbol": "Bowser Token",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

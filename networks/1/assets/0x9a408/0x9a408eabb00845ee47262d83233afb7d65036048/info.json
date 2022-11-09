@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a408eabb00845ee47262d83233afb7d65036048",
+  "displayName": "Monster",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monster",
+    "symbol": "kenzo",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

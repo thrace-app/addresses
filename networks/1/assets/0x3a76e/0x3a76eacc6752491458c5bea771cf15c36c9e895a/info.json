@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a76eacc6752491458c5bea771cf15c36c9e895a",
+  "displayName": "Synthetix RUNE",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synthetix RUNE",
+    "symbol": "sRUNE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

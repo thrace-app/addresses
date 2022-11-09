@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6011d4e55453614279b41a309fbf61bebc324de",
+  "displayName": "WrappedHBAR",
+  "type": "TOKEN",
+  "token": {
+    "name": "WrappedHBAR",
+    "symbol": "WHBAR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

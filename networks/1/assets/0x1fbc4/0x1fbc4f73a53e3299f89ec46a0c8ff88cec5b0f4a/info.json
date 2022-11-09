@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fbc4f73a53e3299f89ec46a0c8ff88cec5b0f4a",
+  "displayName": "Rug Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rug Finance",
+    "symbol": "RUGFINANCE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

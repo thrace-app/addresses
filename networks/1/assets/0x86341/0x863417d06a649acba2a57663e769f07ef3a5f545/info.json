@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x863417d06a649acba2a57663e769f07ef3a5f545",
+  "displayName": "Non-Fungible Yearn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Non-Fungible Yearn",
+    "symbol": "NFY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

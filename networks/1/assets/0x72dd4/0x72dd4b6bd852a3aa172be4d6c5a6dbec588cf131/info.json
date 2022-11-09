@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131",
+  "displayName": "NAGA Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NAGA Coin",
+    "symbol": "NGC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

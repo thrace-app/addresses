@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2552d16c6e72399a43d9e495e7488b4ad863d3a6",
+  "displayName": "Spooky Apes",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spooky Apes",
+    "symbol": "SAPES",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

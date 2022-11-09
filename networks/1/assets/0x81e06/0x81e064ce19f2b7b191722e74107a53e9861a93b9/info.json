@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81e064ce19f2b7b191722e74107a53e9861a93b9",
+  "displayName": "ether farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "ether farm",
+    "symbol": "ETHF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

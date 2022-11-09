@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ba081392ada2d2526baa5a7992de80648622d2b",
+  "displayName": "European Central Bank Digital Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "European Central Bank Digital Currency",
+    "symbol": "ECBDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

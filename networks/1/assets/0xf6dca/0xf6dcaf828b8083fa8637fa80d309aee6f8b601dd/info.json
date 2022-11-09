@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6dcaf828b8083fa8637fa80d309aee6f8b601dd",
+  "displayName": "BoRap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BoRap Token",
+    "symbol": "BoRap",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

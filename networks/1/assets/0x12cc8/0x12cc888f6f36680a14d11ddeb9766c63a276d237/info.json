@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12cc888f6f36680a14d11ddeb9766c63a276d237",
+  "displayName": "SuperMaMa",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperMaMa",
+    "symbol": "$SMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

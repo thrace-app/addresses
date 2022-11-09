@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86cfec32b37c2321be14bd0fdcbf4b5d8b50bc73",
+  "displayName": "Platinum Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Platinum Doge",
+    "symbol": "PDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

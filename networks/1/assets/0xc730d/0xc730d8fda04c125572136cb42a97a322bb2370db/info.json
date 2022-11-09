@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc730d8fda04c125572136cb42a97a322bb2370db",
+  "displayName": "Shiba Coffee",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Coffee",
+    "symbol": "SHIBCOFFEE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

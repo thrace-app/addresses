@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30412a2bca67a7a93c445fc6fa4c21d52fd81c08",
+  "displayName": "BullRun",
+  "type": "TOKEN",
+  "token": {
+    "name": "BullRun",
+    "symbol": "BULLRUN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

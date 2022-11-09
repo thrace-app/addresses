@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8aeeb52c06f6adb4a78d736403df5fb3f0483342",
+  "displayName": "Animebucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Animebucks",
+    "symbol": "@animebucks",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

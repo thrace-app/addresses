@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7b9207a772292cdedd7951850e9b2202c5fb024",
+  "displayName": "FortuneCookie",
+  "type": "TOKEN",
+  "token": {
+    "name": "FortuneCookie",
+    "symbol": "FORTUNE",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

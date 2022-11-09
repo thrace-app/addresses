@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5efd6e6e8c0f1721f449d831a9916cc670f21a85",
+  "displayName": "Monet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monet",
+    "symbol": "MNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

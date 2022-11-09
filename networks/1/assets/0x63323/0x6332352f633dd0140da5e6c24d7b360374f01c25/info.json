@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6332352f633dd0140da5e6c24d7b360374f01c25",
+  "displayName": "Bearno Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bearno Token",
+    "symbol": "BEARNO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe61d175ef09f41de42311aa58e3667ed42282e40",
+  "displayName": "Pharaoh Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pharaoh Token",
+    "symbol": "PHARAOH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

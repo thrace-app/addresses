@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3092ef31c14d365d1660cbd51afba8a8c8840fa",
+  "displayName": "TrollCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrollCoin",
+    "symbol": "TROLL",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

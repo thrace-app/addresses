@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1036c90a7dea8a392901147870f74a40af812bb4",
+  "displayName": "Ring USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ring USD",
+    "symbol": "RUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

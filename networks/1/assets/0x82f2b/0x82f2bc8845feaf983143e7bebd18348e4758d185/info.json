@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82f2bc8845feaf983143e7bebd18348e4758d185",
+  "displayName": "Proof of Something",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Something",
+    "symbol": "POS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

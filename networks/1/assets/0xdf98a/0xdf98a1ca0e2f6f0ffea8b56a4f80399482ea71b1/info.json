@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf98a1ca0e2f6f0ffea8b56a4f80399482ea71b1",
+  "displayName": "PenguinCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PenguinCoin",
+    "symbol": "PGC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

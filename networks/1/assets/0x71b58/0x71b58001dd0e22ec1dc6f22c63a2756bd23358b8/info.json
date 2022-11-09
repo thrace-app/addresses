@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71b58001dd0e22ec1dc6f22c63a2756bd23358b8",
+  "displayName": "Pink Poo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pink Poo",
+    "symbol": "PPOO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

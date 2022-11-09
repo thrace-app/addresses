@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f8e7927443507ba47116dcd4cf956680e43ff3c",
+  "displayName": "Grano Protocol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grano Protocol Token",
+    "symbol": "GRANO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

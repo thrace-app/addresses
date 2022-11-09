@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf70c2b934fe43f2b8c5aa545f759575ea1fd50d0",
+  "displayName": "TSS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TSS Token",
+    "symbol": "TSS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

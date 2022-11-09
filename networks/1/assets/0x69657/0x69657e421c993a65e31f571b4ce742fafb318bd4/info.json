@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69657e421c993a65e31f571b4ce742fafb318bd4",
+  "displayName": "Wrapped OMG",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped OMG",
+    "symbol": "WOMG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

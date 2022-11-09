@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4429ad3d60721fe71afe62684ed6492ae4363326",
+  "displayName": "VegasCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "VegasCoin",
+    "symbol": "VEGAS",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

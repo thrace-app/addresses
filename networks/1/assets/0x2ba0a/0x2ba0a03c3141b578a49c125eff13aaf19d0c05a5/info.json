@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ba0a03c3141b578a49c125eff13aaf19d0c05a5",
+  "displayName": "The Milestone Proposal",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Milestone Proposal",
+    "symbol": "EIP1559",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

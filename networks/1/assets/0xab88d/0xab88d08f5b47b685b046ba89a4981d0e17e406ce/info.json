@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab88d08f5b47b685b046ba89a4981d0e17e406ce",
+  "displayName": "DAO Research Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAO Research Token",
+    "symbol": "DRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

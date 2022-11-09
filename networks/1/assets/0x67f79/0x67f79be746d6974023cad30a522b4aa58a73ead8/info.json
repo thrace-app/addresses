@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67f79be746d6974023cad30a522b4aa58a73ead8",
+  "displayName": "Akiba Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Akiba Token",
+    "symbol": "AKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

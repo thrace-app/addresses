@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e359523f3084d3761e1422366736aa6799e50db",
+  "displayName": "Shibtama",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shibtama",
+    "symbol": "STAMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

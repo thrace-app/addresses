@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c13a23b33bd212c6470e605173d97f6ce31284e",
+  "displayName": "http://coinadmin.net",
+  "type": "TOKEN",
+  "token": {
+    "name": "http://coinadmin.net",
+    "symbol": "COINAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

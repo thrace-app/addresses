@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e656797a8c494ab9148b21e30250ced0afd9f17",
+  "displayName": "realcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "realcoin",
+    "symbol": "real",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

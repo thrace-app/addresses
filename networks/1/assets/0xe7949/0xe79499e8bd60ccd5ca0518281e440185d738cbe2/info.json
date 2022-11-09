@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe79499e8bd60ccd5ca0518281e440185d738cbe2",
+  "displayName": "TONToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TONToken",
+    "symbol": "TON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

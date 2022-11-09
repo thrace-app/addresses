@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f34edea365750f354c8b4e45599c4cdda888a16",
+  "displayName": "Swole Dogecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swole Dogecoin",
+    "symbol": "SDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

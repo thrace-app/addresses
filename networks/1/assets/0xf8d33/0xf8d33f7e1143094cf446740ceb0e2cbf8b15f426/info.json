@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8d33f7e1143094cf446740ceb0e2cbf8b15f426",
+  "displayName": "Ezo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ezo Token",
+    "symbol": "EZO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef8fcf06b571af22dd10a4e7c821758100d3abc3",
+  "displayName": "PainToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PainToken",
+    "symbol": "Pain",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc9c88264f77bc8b7dc8deb4674a74abeab0bce4b",
+  "displayName": "UNBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "UNBTC",
+    "symbol": "UNBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

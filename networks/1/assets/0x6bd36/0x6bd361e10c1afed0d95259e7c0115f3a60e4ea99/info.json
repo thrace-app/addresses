@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6bd361e10c1afed0d95259e7c0115f3a60e4ea99",
+  "displayName": "Bollycoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bollycoin",
+    "symbol": "BOLLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

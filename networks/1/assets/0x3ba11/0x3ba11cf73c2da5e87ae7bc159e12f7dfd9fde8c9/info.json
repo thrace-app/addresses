@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ba11cf73c2da5e87ae7bc159e12f7dfd9fde8c9",
+  "displayName": "HeroSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "HeroSwap",
+    "symbol": "HERO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

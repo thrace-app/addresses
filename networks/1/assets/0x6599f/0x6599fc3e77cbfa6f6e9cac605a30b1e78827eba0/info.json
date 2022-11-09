@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6599fc3e77cbfa6f6e9cac605a30b1e78827eba0",
+  "displayName": "Non-Fungible Token series",
+  "type": "TOKEN",
+  "token": {
+    "name": "Non-Fungible Token series",
+    "symbol": "NFTs",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

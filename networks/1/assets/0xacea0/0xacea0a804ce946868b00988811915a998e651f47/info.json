@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacea0a804ce946868b00988811915a998e651f47",
+  "displayName": "ChiefToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChiefToken",
+    "symbol": "CHIF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

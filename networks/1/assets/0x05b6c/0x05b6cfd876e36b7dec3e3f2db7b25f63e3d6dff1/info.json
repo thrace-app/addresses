@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05b6cfd876e36b7dec3e3f2db7b25f63e3d6dff1",
+  "displayName": "RIA token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RIA token",
+    "symbol": "RIA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

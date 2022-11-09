@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x106f2d734e12545b4d78fc057934905508f1fe24",
+  "displayName": "Conexao Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Conexao Coin",
+    "symbol": "COINN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

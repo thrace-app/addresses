@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb90ddac798456195e048fcd563c92eeb66a71c9",
+  "displayName": "DSC",
+  "type": "TOKEN",
+  "token": {
+    "name": "DSC",
+    "symbol": "DSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

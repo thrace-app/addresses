@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d0fca1f7342a237a23ee94a53268ae352970207",
+  "displayName": "Mama Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mama Doge",
+    "symbol": "MOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

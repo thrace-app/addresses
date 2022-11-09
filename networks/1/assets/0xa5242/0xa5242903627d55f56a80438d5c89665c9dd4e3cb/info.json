@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa5242903627d55f56a80438d5c89665c9dd4e3cb",
+  "displayName": "Shoebill Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shoebill Token",
+    "symbol": "$SHBL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

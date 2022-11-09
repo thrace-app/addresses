@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7be42aee96d5babb33ed8ef688d119333e4d7d9b",
+  "displayName": "Crypto Creepers",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Creepers",
+    "symbol": "CC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

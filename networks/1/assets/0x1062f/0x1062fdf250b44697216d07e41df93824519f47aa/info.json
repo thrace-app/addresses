@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1062fdf250b44697216d07e41df93824519f47aa",
+  "displayName": "Cryptolandy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryptolandy",
+    "symbol": "CRYPL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc2908de55877e6baf2faad7ae63ac8b26bd3de5",
+  "displayName": "BEEF Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BEEF Token",
+    "symbol": "BEEF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

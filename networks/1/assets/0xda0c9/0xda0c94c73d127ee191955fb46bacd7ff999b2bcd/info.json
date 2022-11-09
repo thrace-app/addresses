@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda0c94c73d127ee191955fb46bacd7ff999b2bcd",
+  "displayName": "Stakeborg Standard",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stakeborg Standard",
+    "symbol": "STANDARD",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

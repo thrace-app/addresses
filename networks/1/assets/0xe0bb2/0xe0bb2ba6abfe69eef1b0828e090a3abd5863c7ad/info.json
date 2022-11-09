@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0bb2ba6abfe69eef1b0828e090a3abd5863c7ad",
+  "displayName": "HorseChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "HorseChain",
+    "symbol": "HRS",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

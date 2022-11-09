@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec7d3e835da3f6118079fa9a236b267d044fd7ca",
+  "displayName": "CryptoRewards",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoRewards",
+    "symbol": "CRS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

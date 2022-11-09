@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e6fcd3f4ae535e43e60e28de4b754b41c9824a7",
+  "displayName": "Sauce Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sauce Token",
+    "symbol": "DIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

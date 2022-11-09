@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe36ac872eb1aefcf746feb6728b81b38fc6d75b2",
+  "displayName": "HexApe Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "HexApe Coin",
+    "symbol": "Hape",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x693c894c0c81f2b9f2bb653434ef1dca2aa933e8",
+  "displayName": "Blue Label Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Label Token",
+    "symbol": "BLB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

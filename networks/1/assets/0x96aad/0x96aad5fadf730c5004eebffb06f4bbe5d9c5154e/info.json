@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96aad5fadf730c5004eebffb06f4bbe5d9c5154e",
+  "displayName": "LuckyBurnToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LuckyBurnToken",
+    "symbol": "LBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

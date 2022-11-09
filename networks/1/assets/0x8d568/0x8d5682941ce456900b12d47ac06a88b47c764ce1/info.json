@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d5682941ce456900b12d47ac06a88b47c764ce1",
+  "displayName": "RightMesh Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RightMesh Token",
+    "symbol": "RMESH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

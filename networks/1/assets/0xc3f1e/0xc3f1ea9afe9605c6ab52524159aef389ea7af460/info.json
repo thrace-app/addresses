@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3f1ea9afe9605c6ab52524159aef389ea7af460",
+  "displayName": "Synthetic Oil Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synthetic Oil Coin",
+    "symbol": "SNOIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

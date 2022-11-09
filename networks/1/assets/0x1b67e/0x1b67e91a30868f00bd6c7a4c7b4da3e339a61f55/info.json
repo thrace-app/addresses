@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b67e91a30868f00bd6c7a4c7b4da3e339a61f55",
+  "displayName": "lilcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "lilcoin",
+    "symbol": "LIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

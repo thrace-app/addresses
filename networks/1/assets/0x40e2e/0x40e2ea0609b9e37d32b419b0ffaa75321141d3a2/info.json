@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40e2ea0609b9e37d32b419b0ffaa75321141d3a2",
+  "displayName": "ETHWORM",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETHWORM",
+    "symbol": "ETHWORM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

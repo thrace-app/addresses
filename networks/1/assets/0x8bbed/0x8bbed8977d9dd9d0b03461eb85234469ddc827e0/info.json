@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8bbed8977d9dd9d0b03461eb85234469ddc827e0",
+  "displayName": "Lamadoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lamadoge",
+    "symbol": "LAMA",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

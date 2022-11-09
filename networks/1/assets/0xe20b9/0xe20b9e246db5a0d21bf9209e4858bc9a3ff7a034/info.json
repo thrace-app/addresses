@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+  "displayName": "Wrapped Banano",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Banano",
+    "symbol": "wBAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

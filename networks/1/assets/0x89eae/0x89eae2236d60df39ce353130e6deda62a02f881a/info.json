@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89eae2236d60df39ce353130e6deda62a02f881a",
+  "displayName": "Shimzo Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shimzo Coin",
+    "symbol": "SZC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc77b1af458b2d9dfffeb344b6ddc29aa52b01d81",
+  "displayName": "RU Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RU Token",
+    "symbol": "DRU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

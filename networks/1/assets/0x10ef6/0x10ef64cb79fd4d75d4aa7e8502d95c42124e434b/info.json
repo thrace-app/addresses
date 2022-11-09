@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10ef64cb79fd4d75d4aa7e8502d95c42124e434b",
+  "displayName": "CoronaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoronaCoin",
+    "symbol": "NCOV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

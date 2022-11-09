@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb94fb9e4baac2cd0b05bdd4bdd04818455240e0",
+  "displayName": "Bank of Okinami",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of Okinami",
+    "symbol": "BOO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

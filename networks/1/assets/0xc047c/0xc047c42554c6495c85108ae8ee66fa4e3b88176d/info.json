@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc047c42554c6495c85108ae8ee66fa4e3b88176d",
+  "displayName": "Mcn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mcn Token",
+    "symbol": "MCN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

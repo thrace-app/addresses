@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d375a6670a5eb277156d52af0cf53d7a9a409dd",
+  "displayName": "ZRTX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZRTX Token",
+    "symbol": "ZRTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2fe269292f74f0a98c5786088317b4f86313c211",
+  "displayName": "Pawn Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pawn Coin",
+    "symbol": "$Pc",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x528a935ca27c21e227ad29128da963e66b158050",
+  "displayName": "HBDSatoshiBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "HBDSatoshiBTC",
+    "symbol": "HBDSatoshiBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

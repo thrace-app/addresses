@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36ee4ab875c6fb7c9c3de5e32386e99e26fa3f43",
+  "displayName": "Crazy Ivan",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crazy Ivan",
+    "symbol": "CIVN",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

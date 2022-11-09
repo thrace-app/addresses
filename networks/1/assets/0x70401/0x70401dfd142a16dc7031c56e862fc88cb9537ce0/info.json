@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70401dfd142a16dc7031c56e862fc88cb9537ce0",
+  "displayName": "Bird.Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bird.Money",
+    "symbol": "BIRD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

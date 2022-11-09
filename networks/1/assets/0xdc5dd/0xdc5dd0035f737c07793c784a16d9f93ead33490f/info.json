@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc5dd0035f737c07793c784a16d9f93ead33490f",
+  "displayName": "Catharsis Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Catharsis Token",
+    "symbol": "CATHARSIS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

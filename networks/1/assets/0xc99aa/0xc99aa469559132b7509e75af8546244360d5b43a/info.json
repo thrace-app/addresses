@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc99aa469559132b7509e75af8546244360d5b43a",
+  "displayName": "Fina Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fina Token",
+    "symbol": "Fina",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

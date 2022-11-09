@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x819f711862974250c986f064928bfdda7b5af9fd",
+  "displayName": "Horse Kingdom Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Horse Kingdom Coin",
+    "symbol": "HKC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

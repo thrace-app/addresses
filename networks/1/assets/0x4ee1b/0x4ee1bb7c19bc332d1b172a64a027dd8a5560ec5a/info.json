@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ee1bb7c19bc332d1b172a64a027dd8a5560ec5a",
+  "displayName": "JMP Group Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JMP Group Token",
+    "symbol": "JMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

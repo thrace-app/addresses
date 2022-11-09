@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2ab1a2161892c14c2fb36e445290eecb1349b0d",
+  "displayName": "Eth index fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eth index fund",
+    "symbol": "EIF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3702ff495cbebb35d0e2934160cf135fd4c72c11",
+  "displayName": "Invader",
+  "type": "TOKEN",
+  "token": {
+    "name": "Invader",
+    "symbol": "VAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

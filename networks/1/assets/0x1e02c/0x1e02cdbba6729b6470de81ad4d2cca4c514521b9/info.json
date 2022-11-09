@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e02cdbba6729b6470de81ad4d2cca4c514521b9",
+  "displayName": "Mobius Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mobius Token",
+    "symbol": "MOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

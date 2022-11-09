@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x60a62340c5935239f85f3500795ea9f747856ea3",
+  "displayName": "Wine",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wine",
+    "symbol": "WINE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

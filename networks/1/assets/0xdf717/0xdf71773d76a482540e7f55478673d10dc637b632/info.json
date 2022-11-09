@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf71773d76a482540e7f55478673d10dc637b632",
+  "displayName": "Fat Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fat Cat",
+    "symbol": "FAT CAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

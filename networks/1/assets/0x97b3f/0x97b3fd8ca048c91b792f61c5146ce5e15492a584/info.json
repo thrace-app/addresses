@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97b3fd8ca048c91b792f61c5146ce5e15492a584",
+  "displayName": "Exempli Gratia",
+  "type": "TOKEN",
+  "token": {
+    "name": "Exempli Gratia",
+    "symbol": "$EG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

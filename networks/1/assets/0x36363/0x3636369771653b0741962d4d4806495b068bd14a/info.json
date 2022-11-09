@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3636369771653b0741962d4d4806495b068bd14a",
+  "displayName": "Shelter Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shelter Token",
+    "symbol": "SHELTER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

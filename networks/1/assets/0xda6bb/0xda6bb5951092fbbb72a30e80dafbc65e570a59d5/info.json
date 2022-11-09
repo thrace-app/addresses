@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda6bb5951092fbbb72a30e80dafbc65e570a59d5",
+  "displayName": "ETHDox",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETHDox",
+    "symbol": "ETHDOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

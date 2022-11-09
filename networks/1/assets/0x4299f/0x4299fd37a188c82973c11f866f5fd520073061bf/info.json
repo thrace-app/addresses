@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4299fd37a188c82973c11f866f5fd520073061bf",
+  "displayName": "Blue Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Protocol",
+    "symbol": "BLUE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

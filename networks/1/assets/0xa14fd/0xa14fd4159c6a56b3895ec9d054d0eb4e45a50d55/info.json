@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa14fd4159c6a56b3895ec9d054d0eb4e45a50d55",
+  "displayName": "Acoustic Frog Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Acoustic Frog Token",
+    "symbol": "FROG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

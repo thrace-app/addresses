@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba6ca0caff1d688ed6e899271d46fd70160bf4df",
+  "displayName": "PoorQuack",
+  "type": "TOKEN",
+  "token": {
+    "name": "PoorQuack",
+    "symbol": "pQCK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d8065db4807da7f45fef6dad914535df712d61e",
+  "displayName": "Bee Gees Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bee Gees Token",
+    "symbol": "BGT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

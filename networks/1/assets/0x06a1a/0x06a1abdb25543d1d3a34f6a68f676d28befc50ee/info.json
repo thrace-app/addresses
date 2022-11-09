@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06a1abdb25543d1d3a34f6a68f676d28befc50ee",
+  "displayName": "Moopy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moopy Token",
+    "symbol": "MOOPY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

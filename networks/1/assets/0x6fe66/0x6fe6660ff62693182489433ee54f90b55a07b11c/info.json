@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fe6660ff62693182489433ee54f90b55a07b11c",
+  "displayName": "Blood Moon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blood Moon",
+    "symbol": "RED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

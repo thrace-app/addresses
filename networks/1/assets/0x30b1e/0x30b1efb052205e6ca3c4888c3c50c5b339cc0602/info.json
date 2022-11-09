@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30b1efb052205e6ca3c4888c3c50c5b339cc0602",
+  "displayName": "Cargo Gems",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cargo Gems",
+    "symbol": "GEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

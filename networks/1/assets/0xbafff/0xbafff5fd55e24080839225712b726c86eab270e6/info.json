@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbafff5fd55e24080839225712b726c86eab270e6",
+  "displayName": "Doge Classic",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Classic",
+    "symbol": "DogeC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

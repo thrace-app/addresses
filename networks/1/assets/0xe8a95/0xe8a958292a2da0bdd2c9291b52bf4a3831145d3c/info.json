@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe8a958292a2da0bdd2c9291b52bf4a3831145d3c",
+  "displayName": "HoneyDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "HoneyDAO",
+    "symbol": "HONEY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

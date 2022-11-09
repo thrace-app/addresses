@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68aa3f232da9bdc2343465545794ef3eea5209bd",
+  "displayName": "Mothership Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mothership Token",
+    "symbol": "MSP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

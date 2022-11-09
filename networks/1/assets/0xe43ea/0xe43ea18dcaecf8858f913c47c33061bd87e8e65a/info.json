@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe43ea18dcaecf8858f913c47c33061bd87e8e65a",
+  "displayName": "Lean Potato",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lean Potato",
+    "symbol": "LEAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

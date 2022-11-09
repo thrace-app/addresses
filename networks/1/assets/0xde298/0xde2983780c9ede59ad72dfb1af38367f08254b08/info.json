@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde2983780c9ede59ad72dfb1af38367f08254b08",
+  "displayName": "CrypDough",
+  "type": "TOKEN",
+  "token": {
+    "name": "CrypDough",
+    "symbol": "Dough",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

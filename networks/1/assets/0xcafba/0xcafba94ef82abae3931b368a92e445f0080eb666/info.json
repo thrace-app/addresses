@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcafba94ef82abae3931b368a92e445f0080eb666",
+  "displayName": "Burn Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burn Inu",
+    "symbol": "BINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

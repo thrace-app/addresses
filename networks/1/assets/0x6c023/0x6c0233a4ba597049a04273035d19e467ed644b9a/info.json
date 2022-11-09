@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c0233a4ba597049a04273035d19e467ed644b9a",
+  "displayName": "Simple Yield",
+  "type": "TOKEN",
+  "token": {
+    "name": "Simple Yield",
+    "symbol": "SYD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x847e322588d3477169ed288335b352fc3093b90c",
+  "displayName": "marionft.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "marionft.com",
+    "symbol": "MARIO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

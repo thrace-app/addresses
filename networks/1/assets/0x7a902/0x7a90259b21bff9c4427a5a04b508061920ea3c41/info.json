@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a90259b21bff9c4427a5a04b508061920ea3c41",
+  "displayName": "DNFT-TEST",
+  "type": "TOKEN",
+  "token": {
+    "name": "DNFT-TEST",
+    "symbol": "DNFT-TEST",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

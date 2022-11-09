@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c3ee4f778e282b59d42d693a97b80b1ed80f4ee",
+  "displayName": "SatoPay",
+  "type": "TOKEN",
+  "token": {
+    "name": "SatoPay",
+    "symbol": "STOP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

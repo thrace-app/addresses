@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2e59584b4ecd863f8efd008e4029d968ffad26c",
+  "displayName": "Dynamics Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dynamics Token",
+    "symbol": "DYNA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

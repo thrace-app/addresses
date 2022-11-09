@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda48c42517affb3bf3fc13ce26561092e1a61a80",
+  "displayName": "Neonious Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neonious Token",
+    "symbol": "MDSIM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

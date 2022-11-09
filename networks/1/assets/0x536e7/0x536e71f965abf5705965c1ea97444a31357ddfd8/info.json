@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x536e71f965abf5705965c1ea97444a31357ddfd8",
+  "displayName": "Yuga Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yuga Coin",
+    "symbol": "Yuga",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

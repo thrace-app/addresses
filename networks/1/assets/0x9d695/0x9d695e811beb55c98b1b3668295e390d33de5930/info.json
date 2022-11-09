@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d695e811beb55c98b1b3668295e390d33de5930",
+  "displayName": "KoolAid",
+  "type": "TOKEN",
+  "token": {
+    "name": "KoolAid",
+    "symbol": "KOOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

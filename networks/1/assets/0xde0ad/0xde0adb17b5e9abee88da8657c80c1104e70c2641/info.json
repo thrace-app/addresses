@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde0adb17b5e9abee88da8657c80c1104e70c2641",
+  "displayName": "BeadSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "BeadSwap",
+    "symbol": "BEAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

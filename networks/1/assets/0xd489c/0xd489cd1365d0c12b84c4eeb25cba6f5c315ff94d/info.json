@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd489cd1365d0c12b84c4eeb25cba6f5c315ff94d",
+  "displayName": "Cardano Hard Fork",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cardano Hard Fork",
+    "symbol": "ADA2.0",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

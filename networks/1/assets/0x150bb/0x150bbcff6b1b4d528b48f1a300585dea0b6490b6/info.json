@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x150bbcff6b1b4d528b48f1a300585dea0b6490b6",
+  "displayName": "czz-eth",
+  "type": "TOKEN",
+  "token": {
+    "name": "czz-eth",
+    "symbol": "ECZZ",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f3ae4df441d08b28804b73ad21943b0b4fc614a",
+  "displayName": "Ethereum Eats",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Eats",
+    "symbol": "eEATS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

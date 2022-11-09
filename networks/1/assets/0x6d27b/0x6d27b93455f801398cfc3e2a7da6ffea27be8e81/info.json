@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d27b93455f801398cfc3e2a7da6ffea27be8e81",
+  "displayName": "Celsius Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Celsius Doge",
+    "symbol": "COGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

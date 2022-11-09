@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a3faab02e2f8b72d6f95a094e62ab57f784b061",
+  "displayName": "Kimchi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kimchi Token",
+    "symbol": "KIMCHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

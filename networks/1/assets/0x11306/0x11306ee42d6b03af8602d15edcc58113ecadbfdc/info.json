@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11306ee42d6b03af8602d15edcc58113ecadbfdc",
+  "displayName": "EthereumInfitnity",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumInfitnity",
+    "symbol": "eInf",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

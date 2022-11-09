@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2b5d47de737700f1119d9c65ba401070f8bfb4c",
+  "displayName": "BitUPX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitUPX Token",
+    "symbol": "BUTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

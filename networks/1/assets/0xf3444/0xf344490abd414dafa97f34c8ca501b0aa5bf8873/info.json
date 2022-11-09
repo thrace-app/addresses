@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf344490abd414dafa97f34c8ca501b0aa5bf8873",
+  "displayName": "Webcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Webcoin",
+    "symbol": "WEB",
+    "decimals": 1,
+    "type": "ERC20"
+  }
+}

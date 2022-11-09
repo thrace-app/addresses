@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ec28195b94261e10f28b7dd3d14b8bf1498d83a",
+  "displayName": "FOX Candy",
+  "type": "TOKEN",
+  "token": {
+    "name": "FOX Candy",
+    "symbol": "FOXCAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

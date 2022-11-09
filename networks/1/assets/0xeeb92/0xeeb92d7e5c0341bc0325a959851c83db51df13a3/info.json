@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeeb92d7e5c0341bc0325a959851c83db51df13a3",
+  "displayName": "burger.money",
+  "type": "TOKEN",
+  "token": {
+    "name": "burger.money",
+    "symbol": "BURGER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

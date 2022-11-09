@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf9b3d9cad6f4febcab305e754dc8ab958e141935",
+  "displayName": "Giant Pelican",
+  "type": "TOKEN",
+  "token": {
+    "name": "Giant Pelican",
+    "symbol": "GPelican",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ec24195a2b9c55cda751b5ec0d599037844f545",
+  "displayName": "Evil Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Evil Doge",
+    "symbol": "Cerberus",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

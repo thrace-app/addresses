@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6dd0420af2138a60bffab00f4e6096b6ebf6efaa",
+  "displayName": "RapSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "RapSwap",
+    "symbol": "RapSwap",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

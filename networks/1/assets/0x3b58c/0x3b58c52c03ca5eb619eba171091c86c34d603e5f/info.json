@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b58c52c03ca5eb619eba171091c86c34d603e5f",
+  "displayName": "MCI Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MCI Coin",
+    "symbol": "MCI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

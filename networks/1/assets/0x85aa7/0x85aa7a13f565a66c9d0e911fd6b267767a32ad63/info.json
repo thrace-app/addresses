@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85aa7a13f565a66c9d0e911fd6b267767a32ad63",
+  "displayName": "INK Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "INK Token",
+    "symbol": "INK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

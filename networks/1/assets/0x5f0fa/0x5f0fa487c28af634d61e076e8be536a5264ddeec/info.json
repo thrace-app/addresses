@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f0fa487c28af634d61e076e8be536a5264ddeec",
+  "displayName": "ApeFarm",
+  "type": "TOKEN",
+  "token": {
+    "name": "ApeFarm",
+    "symbol": "aFARM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

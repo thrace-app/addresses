@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09e2fa92942ab7019b9ec3b19939f3fc008e94a2",
+  "displayName": "Ethereum Kiddo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Kiddo",
+    "symbol": "eKiddo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

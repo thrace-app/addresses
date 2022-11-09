@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x437c0755338e2be2e6b34dc5651978d3bf99ad42",
+  "displayName": "MART Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MART Token",
+    "symbol": "MART",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

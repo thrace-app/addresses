@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x710f0db53b411eaef8faadca4c3aaf2a25165cad",
+  "displayName": "share",
+  "type": "TOKEN",
+  "token": {
+    "name": "share",
+    "symbol": "SHARE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76f9932c234195553664a30e4608cfa9ec87d7d0",
+  "displayName": "Super Satoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Satoshi",
+    "symbol": "S",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

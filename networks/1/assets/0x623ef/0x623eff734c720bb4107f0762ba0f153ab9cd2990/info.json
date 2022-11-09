@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x623eff734c720bb4107f0762ba0f153ab9cd2990",
+  "displayName": "DogeSend",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogeSend",
+    "symbol": "DSEND",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

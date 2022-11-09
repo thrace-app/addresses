@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99e11352d5c5e0ad09a4065bc91c978536999e84",
+  "displayName": "Tmon Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tmon Coin",
+    "symbol": "Tmon",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

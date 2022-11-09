@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x648ccf0c1039f6b4070df53570793f915876642a",
+  "displayName": "Wowb Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wowb Token",
+    "symbol": "WOWB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

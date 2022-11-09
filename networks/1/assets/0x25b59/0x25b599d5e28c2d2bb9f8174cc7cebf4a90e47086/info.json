@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25b599d5e28c2d2bb9f8174cc7cebf4a90e47086",
+  "displayName": "Elon For President",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon For President",
+    "symbol": "$ELON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

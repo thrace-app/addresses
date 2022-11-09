@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f1b76bad843d389961bf609262d75b998a4b52d",
+  "displayName": "Farmzoly Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Farmzoly Token",
+    "symbol": "Farmzoly",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

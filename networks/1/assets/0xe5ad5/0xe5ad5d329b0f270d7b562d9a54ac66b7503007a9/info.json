@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5ad5d329b0f270d7b562d9a54ac66b7503007a9",
+  "displayName": "TestShitToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TestShitToken",
+    "symbol": "TSHT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

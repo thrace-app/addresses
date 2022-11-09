@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa209aa89681195cebf6dbb79c544061649b003d3",
+  "displayName": "DexRunner",
+  "type": "TOKEN",
+  "token": {
+    "name": "DexRunner",
+    "symbol": "DEXR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

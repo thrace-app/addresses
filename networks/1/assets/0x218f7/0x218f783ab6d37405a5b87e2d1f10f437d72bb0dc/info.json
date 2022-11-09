@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x218f783ab6d37405a5b87e2d1f10f437d72bb0dc",
+  "displayName": "BlondeDogecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlondeDogecoin",
+    "symbol": "BDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35609dc59e15d03c5c865507e1348fa5abb319a8",
+  "displayName": "GhostMarket Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GhostMarket Token",
+    "symbol": "GM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

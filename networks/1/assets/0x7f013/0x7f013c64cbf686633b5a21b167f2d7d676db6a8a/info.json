@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f013c64cbf686633b5a21b167f2d7d676db6a8a",
+  "displayName": "Cuvac Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cuvac Token",
+    "symbol": "CUT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

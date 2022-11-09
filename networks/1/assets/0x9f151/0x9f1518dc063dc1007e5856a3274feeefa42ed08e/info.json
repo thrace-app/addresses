@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f1518dc063dc1007e5856a3274feeefa42ed08e",
+  "displayName": "以太币",
+  "type": "TOKEN",
+  "token": {
+    "name": "以太币",
+    "symbol": "ETB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

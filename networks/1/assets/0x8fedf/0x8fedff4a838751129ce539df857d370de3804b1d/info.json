@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8fedff4a838751129ce539df857d370de3804b1d",
+  "displayName": "Saylor Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Saylor Coin",
+    "symbol": "SAYLOR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

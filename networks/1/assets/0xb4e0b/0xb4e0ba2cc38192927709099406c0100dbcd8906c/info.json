@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4e0ba2cc38192927709099406c0100dbcd8906c",
+  "displayName": "BlueCat",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlueCat",
+    "symbol": "BLUECAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

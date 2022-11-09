@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c111a840d9a3041dc67f792c2243463e8e5c8c3",
+  "displayName": "Seed Club Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Seed Club Token",
+    "symbol": "$CLUB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x483fdcdbaa96011124d94b783b7b90b2e4869f66",
+  "displayName": "Ethereum Bank Trust",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Bank Trust",
+    "symbol": "EBT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

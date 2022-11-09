@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x060924fb947e37eee230d0b1a71d9618aec269fc",
+  "displayName": "A lot of money",
+  "type": "TOKEN",
+  "token": {
+    "name": "A lot of money",
+    "symbol": "AOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

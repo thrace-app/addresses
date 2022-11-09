@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf0b1fdf9c6bfec7b3512f207553c0ba00d7f1a2",
+  "displayName": "Test Citadel",
+  "type": "TOKEN",
+  "token": {
+    "name": "Test Citadel",
+    "symbol": "Test CTDL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

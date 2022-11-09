@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42456d7084eacf4083f1140d3229471bba2949a8",
+  "displayName": "Synth sETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth sETH",
+    "symbol": "sETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

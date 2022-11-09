@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc58e686faffbba265ae023f8fe52c07307a4ac3f",
+  "displayName": "Ethereum Uniswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Uniswap",
+    "symbol": "ETHU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

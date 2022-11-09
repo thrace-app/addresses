@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbfce6d8b48238baa5f48306b747faec30635e720",
+  "displayName": "zcash",
+  "type": "TOKEN",
+  "token": {
+    "name": "zcash",
+    "symbol": "zec",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

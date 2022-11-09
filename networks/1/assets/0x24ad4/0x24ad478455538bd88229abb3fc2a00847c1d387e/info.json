@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24ad478455538bd88229abb3fc2a00847c1d387e",
+  "displayName": "BikeBit",
+  "type": "TOKEN",
+  "token": {
+    "name": "BikeBit",
+    "symbol": "BikeBit",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

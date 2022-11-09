@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x331a4589516eae384ea5f557853af6af73b9534e",
+  "displayName": "CashPay",
+  "type": "TOKEN",
+  "token": {
+    "name": "CashPay",
+    "symbol": "TCP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

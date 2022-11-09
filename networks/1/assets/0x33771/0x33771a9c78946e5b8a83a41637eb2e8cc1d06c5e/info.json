@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33771a9c78946e5b8a83a41637eb2e8cc1d06c5e",
+  "displayName": "Lucky Corgi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucky Corgi",
+    "symbol": "LCORGI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x375e910eb6ffe35794031cfbab15f680e0a9f340",
+  "displayName": "PinkDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "PinkDoge",
+    "symbol": "pDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

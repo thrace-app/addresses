@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17a425f7807cf00206e1b6a5b25201dea334d595",
+  "displayName": "Super Teddy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Teddy",
+    "symbol": "SUPERTE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

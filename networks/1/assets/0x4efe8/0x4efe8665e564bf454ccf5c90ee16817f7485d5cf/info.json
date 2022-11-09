@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4efe8665e564bf454ccf5c90ee16817f7485d5cf",
+  "displayName": "BlackDragon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlackDragon Token",
+    "symbol": "BDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

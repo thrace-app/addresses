@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d1677c605c27d2147ad7a9f220dee64ea4d05d6",
+  "displayName": "Jeethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jeethereum",
+    "symbol": "JETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

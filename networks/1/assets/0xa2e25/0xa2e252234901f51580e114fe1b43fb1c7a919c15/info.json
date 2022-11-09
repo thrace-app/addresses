@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa2e252234901f51580e114fe1b43fb1c7a919c15",
+  "displayName": "Blue Dragon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Dragon",
+    "symbol": "蓝色的龙",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

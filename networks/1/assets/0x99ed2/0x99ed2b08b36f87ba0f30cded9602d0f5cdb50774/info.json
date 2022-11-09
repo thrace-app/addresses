@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99ed2b08b36f87ba0f30cded9602d0f5cdb50774",
+  "displayName": "presaledex",
+  "type": "TOKEN",
+  "token": {
+    "name": "presaledex",
+    "symbol": "PSDEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

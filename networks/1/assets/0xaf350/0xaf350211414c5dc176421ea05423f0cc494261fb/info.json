@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf350211414c5dc176421ea05423f0cc494261fb",
+  "displayName": "Saturn DAO token (ERC20)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Saturn DAO token (ERC20)",
+    "symbol": "SATURN",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4dae435d872b91a9239df3d96f485f437c523d0",
+  "displayName": "GraduallyDestroyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GraduallyDestroyToken",
+    "symbol": "GDTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4dffa52fee44bd493f12d85829d775ec8017691",
+  "displayName": "Congruent DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Congruent DAO Token",
+    "symbol": "Gaas",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

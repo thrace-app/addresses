@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73d2ce24643f785261204c6d256aaf565bbbf5ea",
+  "displayName": "Tasty Town",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tasty Town",
+    "symbol": "Tasty",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

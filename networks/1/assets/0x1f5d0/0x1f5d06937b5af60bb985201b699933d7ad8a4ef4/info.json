@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f5d06937b5af60bb985201b699933d7ad8a4ef4",
+  "displayName": "GreenProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "GreenProtocol",
+    "symbol": "$GREEN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

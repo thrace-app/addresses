@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0f05d3d4e4d1243ac826d8c6171180c58eaa9bc",
+  "displayName": "Value Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Value Network Token",
+    "symbol": "VNTW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

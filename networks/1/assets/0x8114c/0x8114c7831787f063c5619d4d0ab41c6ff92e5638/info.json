@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8114c7831787f063c5619d4d0ab41c6ff92e5638",
+  "displayName": "Ignite Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ignite Token",
+    "symbol": "IGNITE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

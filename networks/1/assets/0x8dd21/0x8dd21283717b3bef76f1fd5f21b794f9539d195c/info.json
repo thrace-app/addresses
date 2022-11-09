@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8dd21283717b3bef76f1fd5f21b794f9539d195c",
+  "displayName": "cSOL",
+  "type": "TOKEN",
+  "token": {
+    "name": "cSOL",
+    "symbol": "cSOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x266f312848d5644a1977771e25e5ce84978cf5fc",
+  "displayName": "KongTor Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KongTor Token",
+    "symbol": "KongTor",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

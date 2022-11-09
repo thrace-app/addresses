@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f95767c5ed8d1d837cd56e536174c7f60dd4c44",
+  "displayName": "DireFox Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DireFox Token",
+    "symbol": "DIREFOX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

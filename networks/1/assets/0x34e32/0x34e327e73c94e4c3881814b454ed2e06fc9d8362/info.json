@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34e327e73c94e4c3881814b454ed2e06fc9d8362",
+  "displayName": "The Reserve",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Reserve",
+    "symbol": "$TRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

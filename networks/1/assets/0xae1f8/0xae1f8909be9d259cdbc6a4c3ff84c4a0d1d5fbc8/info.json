@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae1f8909be9d259cdbc6a4c3ff84c4a0d1d5fbc8",
+  "displayName": "Ham the Chimp",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ham the Chimp",
+    "symbol": "HAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa49c8c60a5c0c2350012793d69dbb97f47ff4f76",
+  "displayName": "PuddleToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PuddleToken",
+    "symbol": "PUD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

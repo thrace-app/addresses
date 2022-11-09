@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4795b92c3ef7d3774c6e8d23e29c419e02c8f592",
+  "displayName": "DUCK",
+  "type": "TOKEN",
+  "token": {
+    "name": "DUCK",
+    "symbol": "https://t.me/MysteryDuckToken",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

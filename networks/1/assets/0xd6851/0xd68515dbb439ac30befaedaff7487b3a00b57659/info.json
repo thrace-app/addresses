@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd68515dbb439ac30befaedaff7487b3a00b57659",
+  "displayName": "Reearn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Reearn Token",
+    "symbol": "RET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

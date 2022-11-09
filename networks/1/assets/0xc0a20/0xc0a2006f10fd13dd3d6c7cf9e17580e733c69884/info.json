@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0a2006f10fd13dd3d6c7cf9e17580e733c69884",
+  "displayName": "NewFateChain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NewFateChain Token",
+    "symbol": "NFCT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

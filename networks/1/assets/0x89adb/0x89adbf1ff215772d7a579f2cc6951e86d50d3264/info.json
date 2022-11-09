@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89adbf1ff215772d7a579f2cc6951e86d50d3264",
+  "displayName": "Shinobu Kochou Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shinobu Kochou Token",
+    "symbol": "Shinobu",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

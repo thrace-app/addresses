@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73eacaa09d400eecd10b87784fd29d024505da3b",
+  "displayName": "1Planet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "1Planet Token",
+    "symbol": "1PL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

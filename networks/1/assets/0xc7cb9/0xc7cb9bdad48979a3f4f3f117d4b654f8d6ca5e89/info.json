@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7cb9bdad48979a3f4f3f117d4b654f8d6ca5e89",
+  "displayName": "coinmarketcap.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "coinmarketcap.com",
+    "symbol": "coinmark",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

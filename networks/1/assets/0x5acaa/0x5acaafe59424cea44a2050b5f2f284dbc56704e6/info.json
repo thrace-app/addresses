@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5acaafe59424cea44a2050b5f2f284dbc56704e6",
+  "displayName": "Pumping Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pumping Doge",
+    "symbol": "Pumping Doge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

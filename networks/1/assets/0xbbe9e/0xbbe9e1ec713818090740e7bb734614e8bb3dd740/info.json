@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbe9e1ec713818090740e7bb734614e8bb3dd740",
+  "displayName": "DAO To Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAO To Ethereum",
+    "symbol": "DETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

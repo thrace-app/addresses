@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51c8e4f3777945f10f75b260d3c180a74d633db8",
+  "displayName": "Quokka Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quokka Coin",
+    "symbol": "QUOK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8f9d2b6cf81e21a3c6212a0e97c5ed1aba0da99",
+  "displayName": "SDG Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SDG Token",
+    "symbol": "SDG",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

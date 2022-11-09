@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x873642b734ed748bf4088617d7fc3002f7e9a0ad",
+  "displayName": "CuiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CuiToken",
+    "symbol": "CUI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

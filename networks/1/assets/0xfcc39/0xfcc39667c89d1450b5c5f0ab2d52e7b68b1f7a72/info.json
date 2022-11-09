@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfcc39667c89d1450b5c5f0ab2d52e7b68b1f7a72",
+  "displayName": "HolyGrail",
+  "type": "TOKEN",
+  "token": {
+    "name": "HolyGrail",
+    "symbol": "$HG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

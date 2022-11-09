@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x251815ac0c4e1563136c3b584d4cf930cf62b4ae",
+  "displayName": "Mallard Duck",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mallard Duck",
+    "symbol": "Duck",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

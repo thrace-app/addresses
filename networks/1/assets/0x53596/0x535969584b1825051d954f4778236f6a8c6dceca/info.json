@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x535969584b1825051d954f4778236f6a8c6dceca",
+  "displayName": "Bank Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank Protocol",
+    "symbol": "BKP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

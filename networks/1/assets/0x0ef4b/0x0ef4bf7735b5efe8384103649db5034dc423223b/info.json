@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ef4bf7735b5efe8384103649db5034dc423223b",
+  "displayName": "Wrapped ONUS",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped ONUS",
+    "symbol": "WONUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

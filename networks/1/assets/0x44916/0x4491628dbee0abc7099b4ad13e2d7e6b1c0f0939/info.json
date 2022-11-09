@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4491628dbee0abc7099b4ad13e2d7e6b1c0f0939",
+  "displayName": "CARAC Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CARAC Token",
+    "symbol": "CRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

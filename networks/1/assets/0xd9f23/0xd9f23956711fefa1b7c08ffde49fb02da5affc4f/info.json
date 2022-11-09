@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9f23956711fefa1b7c08ffde49fb02da5affc4f",
+  "displayName": "Tigers Eye Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tigers Eye Token",
+    "symbol": "TET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

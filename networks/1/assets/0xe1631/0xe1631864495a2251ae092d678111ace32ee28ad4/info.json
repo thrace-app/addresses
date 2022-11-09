@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1631864495a2251ae092d678111ace32ee28ad4",
+  "displayName": "FuraCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FuraCoin",
+    "symbol": "FURA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

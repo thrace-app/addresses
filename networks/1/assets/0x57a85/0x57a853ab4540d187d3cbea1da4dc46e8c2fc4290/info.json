@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57a853ab4540d187d3cbea1da4dc46e8c2fc4290",
+  "displayName": "Mystery Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mystery Token",
+    "symbol": "MYSTERYTOKEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

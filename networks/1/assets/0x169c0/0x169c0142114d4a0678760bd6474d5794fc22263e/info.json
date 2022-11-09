@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x169c0142114d4a0678760bd6474d5794fc22263e",
+  "displayName": "TJQToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TJQToken",
+    "symbol": "TJQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

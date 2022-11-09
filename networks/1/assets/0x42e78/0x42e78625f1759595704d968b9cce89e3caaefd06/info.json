@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42e78625f1759595704d968b9cce89e3caaefd06",
+  "displayName": "Fortnite ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fortnite ETH",
+    "symbol": "NITE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

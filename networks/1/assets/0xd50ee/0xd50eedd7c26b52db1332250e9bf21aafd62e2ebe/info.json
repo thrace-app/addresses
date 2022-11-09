@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd50eedd7c26b52db1332250e9bf21aafd62e2ebe",
+  "displayName": "Buterin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Buterin Token",
+    "symbol": "VITALIK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

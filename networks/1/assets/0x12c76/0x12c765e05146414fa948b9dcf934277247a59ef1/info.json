@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12c765e05146414fa948b9dcf934277247a59ef1",
+  "displayName": "baseprotocol.org",
+  "type": "TOKEN",
+  "token": {
+    "name": "baseprotocol.org",
+    "symbol": "BASE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

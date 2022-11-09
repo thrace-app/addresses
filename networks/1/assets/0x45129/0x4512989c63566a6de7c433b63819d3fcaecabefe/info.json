@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4512989c63566a6de7c433b63819d3fcaecabefe",
+  "displayName": "Ethoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethoge",
+    "symbol": "$ETHOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

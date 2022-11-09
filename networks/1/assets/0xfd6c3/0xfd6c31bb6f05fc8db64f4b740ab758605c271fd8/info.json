@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd6c31bb6f05fc8db64f4b740ab758605c271fd8",
+  "displayName": "Contracoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Contracoin",
+    "symbol": "CTCN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

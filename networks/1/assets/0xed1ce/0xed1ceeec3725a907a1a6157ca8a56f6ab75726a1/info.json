@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed1ceeec3725a907a1a6157ca8a56f6ab75726a1",
+  "displayName": "MetaFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaFinance",
+    "symbol": "MetaFi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

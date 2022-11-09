@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb008856fd7617ff284883812000844e912c3bdbd",
+  "displayName": "FBMarket",
+  "type": "TOKEN",
+  "token": {
+    "name": "FBMarket",
+    "symbol": "FBM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

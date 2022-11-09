@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x984e516c6a89fc622e89f5af8fcf89c927470a7b",
+  "displayName": "Dagger",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dagger",
+    "symbol": "$DGR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

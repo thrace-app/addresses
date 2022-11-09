@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbbc727138927b87de9d0334858581bcfdb7520f",
+  "displayName": "Oxcelo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Oxcelo Token",
+    "symbol": "Oxcelo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

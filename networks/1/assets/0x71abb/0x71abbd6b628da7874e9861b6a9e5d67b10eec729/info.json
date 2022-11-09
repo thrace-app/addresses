@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71abbd6b628da7874e9861b6a9e5d67b10eec729",
+  "displayName": "Wrapped EtherLite",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped EtherLite",
+    "symbol": "WETL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

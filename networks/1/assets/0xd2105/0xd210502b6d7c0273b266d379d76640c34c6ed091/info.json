@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd210502b6d7c0273b266d379d76640c34c6ed091",
+  "displayName": "Turtoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Turtoge",
+    "symbol": "TOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

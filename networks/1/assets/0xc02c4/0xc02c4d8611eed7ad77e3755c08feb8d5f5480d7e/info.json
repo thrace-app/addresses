@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc02c4d8611eed7ad77e3755c08feb8d5f5480d7e",
+  "displayName": "CellFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CellFi Token",
+    "symbol": "CELL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51d01615f8d5af8f64c3d754f156e03d988f7771",
+  "displayName": "xDeFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "xDeFi Token",
+    "symbol": "XDFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

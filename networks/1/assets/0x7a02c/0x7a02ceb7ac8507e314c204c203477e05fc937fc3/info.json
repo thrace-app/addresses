@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a02ceb7ac8507e314c204c203477e05fc937fc3",
+  "displayName": "AS Roma Fan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AS Roma Fan Token",
+    "symbol": "ASR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

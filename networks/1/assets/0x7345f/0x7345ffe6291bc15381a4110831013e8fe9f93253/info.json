@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7345ffe6291bc15381a4110831013e8fe9f93253",
+  "displayName": "Fantasy World Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fantasy World Gold",
+    "symbol": "FWG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

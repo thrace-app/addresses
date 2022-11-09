@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x691df623981d7b4188b8815c20a79683323d79a6",
+  "displayName": "DLiquidityGauge",
+  "type": "TOKEN",
+  "token": {
+    "name": "DLiquidityGauge",
+    "symbol": "DLGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

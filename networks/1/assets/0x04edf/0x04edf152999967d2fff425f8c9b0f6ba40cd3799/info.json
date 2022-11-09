@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04edf152999967d2fff425f8c9b0f6ba40cd3799",
+  "displayName": "DeltaFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeltaFi",
+    "symbol": "DTF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f274d2035ba16214b17b0798fb31df7c0497d90",
+  "displayName": "Super Shiba DeFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Shiba DeFi Token",
+    "symbol": "SSDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

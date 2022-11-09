@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2bb16cf38ca086cab5128d5c25de9477ebd596b",
+  "displayName": "xCrypt Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "xCrypt Token",
+    "symbol": "XCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

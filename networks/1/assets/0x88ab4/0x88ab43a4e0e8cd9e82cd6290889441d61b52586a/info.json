@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88ab43a4e0e8cd9e82cd6290889441d61b52586a",
+  "displayName": "Just One Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Just One Token",
+    "symbol": "ONE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

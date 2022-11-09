@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1ad1cdc4f067186ec2c1326619dd04dd282c8ab",
+  "displayName": "Guardian Bot",
+  "type": "TOKEN",
+  "token": {
+    "name": "Guardian Bot",
+    "symbol": "GUARD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

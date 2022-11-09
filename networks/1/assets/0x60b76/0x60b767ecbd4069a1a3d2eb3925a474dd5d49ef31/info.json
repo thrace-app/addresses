@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x60b767ecbd4069a1a3d2eb3925a474dd5d49ef31",
+  "displayName": "ViskaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ViskaCoin",
+    "symbol": "VSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

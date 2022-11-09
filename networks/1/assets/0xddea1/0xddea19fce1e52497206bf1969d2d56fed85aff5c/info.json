@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xddea19fce1e52497206bf1969d2d56fed85aff5c",
+  "displayName": "Firn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Firn Token",
+    "symbol": "FIRN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

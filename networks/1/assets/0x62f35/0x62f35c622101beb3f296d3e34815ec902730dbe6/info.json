@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62f35c622101beb3f296d3e34815ec902730dbe6",
+  "displayName": "KaibaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KaibaCoin",
+    "symbol": "KAIBA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

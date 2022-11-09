@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7659ce147d0e714454073a5dd7003544234b6aa0",
+  "displayName": "XCAD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XCAD Token",
+    "symbol": "XCAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

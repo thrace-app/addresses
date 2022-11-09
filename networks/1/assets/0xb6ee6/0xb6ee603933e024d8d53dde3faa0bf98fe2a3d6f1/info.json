@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb6ee603933e024d8d53dde3faa0bf98fe2a3d6f1",
+  "displayName": "DeFiat",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiat",
+    "symbol": "DFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

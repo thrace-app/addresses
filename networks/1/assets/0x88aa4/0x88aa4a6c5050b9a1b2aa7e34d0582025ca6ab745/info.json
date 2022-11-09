@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88aa4a6c5050b9a1b2aa7e34d0582025ca6ab745",
+  "displayName": "Dexpools Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dexpools Token",
+    "symbol": "DXP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

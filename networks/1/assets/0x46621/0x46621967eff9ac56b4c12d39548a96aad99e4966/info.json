@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46621967eff9ac56b4c12d39548a96aad99e4966",
+  "displayName": "KernCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KernCoin",
+    "symbol": "KERN",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

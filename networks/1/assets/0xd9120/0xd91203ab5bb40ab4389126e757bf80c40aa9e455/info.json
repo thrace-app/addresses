@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd91203ab5bb40ab4389126e757bf80c40aa9e455",
+  "displayName": "Pet Rock",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pet Rock",
+    "symbol": "ROCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5aa7c403c7de4b3bb0cc07079a03e389671a4771",
+  "displayName": "IBIZA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "IBIZA Token",
+    "symbol": "IBZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

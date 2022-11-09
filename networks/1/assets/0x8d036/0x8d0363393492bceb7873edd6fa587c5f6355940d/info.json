@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d0363393492bceb7873edd6fa587c5f6355940d",
+  "displayName": "Hope coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hope coin",
+    "symbol": "HC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

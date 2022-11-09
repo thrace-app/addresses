@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23f0772f32508bc02bed26ef8bc29acafbdf39a6",
+  "displayName": "CryptoArt",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoArt",
+    "symbol": "ART",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

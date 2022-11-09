@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x555decb11ac8ab485dec5e5341a45cc15495b9ec",
+  "displayName": "Hajime No Ippo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hajime No Ippo",
+    "symbol": "IPPO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

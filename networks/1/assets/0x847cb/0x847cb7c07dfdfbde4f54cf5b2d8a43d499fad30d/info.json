@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x847cb7c07dfdfbde4f54cf5b2d8a43d499fad30d",
+  "displayName": "Koraon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Koraon Token",
+    "symbol": "KORAON",
+    "decimals": 11,
+    "type": "ERC20"
+  }
+}

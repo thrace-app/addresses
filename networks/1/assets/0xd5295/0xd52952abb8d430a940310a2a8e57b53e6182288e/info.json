@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd52952abb8d430a940310a2a8e57b53e6182288e",
+  "displayName": "TakaSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "TakaSwap",
+    "symbol": "TAKA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7f5c06fa44dfe2eaf631c5a8dc24b6aea6bc081",
+  "displayName": "SuToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuToken",
+    "symbol": "SUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

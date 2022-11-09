@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d2452b77e7cd8e2fce15ddc27a4da0a9e0a688b",
+  "displayName": "The Wild West Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Wild West Token",
+    "symbol": "WildWest",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

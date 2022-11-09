@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+  "displayName": "Ocean Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ocean Token",
+    "symbol": "OCEAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf24974615ded4718a11eb8342a7a27a5dda90d2",
+  "displayName": "PurgEthereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "PurgEthereum",
+    "symbol": "PURGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

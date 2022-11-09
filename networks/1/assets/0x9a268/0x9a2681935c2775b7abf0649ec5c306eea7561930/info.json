@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a2681935c2775b7abf0649ec5c306eea7561930",
+  "displayName": "EasyOption.io Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EasyOption.io Token",
+    "symbol": "EOPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

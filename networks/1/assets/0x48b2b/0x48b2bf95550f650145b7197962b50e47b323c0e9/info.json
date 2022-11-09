@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48b2bf95550f650145b7197962b50e47b323c0e9",
+  "displayName": "Eijiru Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eijiru Token",
+    "symbol": "$EIJIRU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

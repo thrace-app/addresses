@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41cb82934a671f52379a96af034674945ff03d3b",
+  "displayName": "SNX token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SNX token",
+    "symbol": "SNX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

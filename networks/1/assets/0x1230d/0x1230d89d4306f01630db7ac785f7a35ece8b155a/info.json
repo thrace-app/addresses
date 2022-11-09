@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1230d89d4306f01630db7ac785f7a35ece8b155a",
+  "displayName": "Kinu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kinu",
+    "symbol": "Kinu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

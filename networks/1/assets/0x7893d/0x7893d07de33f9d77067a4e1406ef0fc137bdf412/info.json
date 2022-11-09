@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7893d07de33f9d77067a4e1406ef0fc137bdf412",
+  "displayName": "Trustless",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trustless",
+    "symbol": "TRUSTLESS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

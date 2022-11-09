@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4299c2a17d776f7fd2c0baf0025a135ed30cf15c",
+  "displayName": "Salad Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Salad Cat",
+    "symbol": "SALCAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

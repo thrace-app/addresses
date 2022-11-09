@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69cf3091c91eb72db05e45c76e58225177dea742",
+  "displayName": "CoinZoom",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinZoom",
+    "symbol": "ZOOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

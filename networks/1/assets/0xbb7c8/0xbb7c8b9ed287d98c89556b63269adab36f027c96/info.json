@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb7c8b9ed287d98c89556b63269adab36f027c96",
+  "displayName": "MuskCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MuskCoin",
+    "symbol": "MSKC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

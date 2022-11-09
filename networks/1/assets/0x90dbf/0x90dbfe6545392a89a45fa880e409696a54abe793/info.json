@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90dbfe6545392a89a45fa880e409696a54abe793",
+  "displayName": "BeneficentDAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BeneficentDAO Token",
+    "symbol": "BVT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

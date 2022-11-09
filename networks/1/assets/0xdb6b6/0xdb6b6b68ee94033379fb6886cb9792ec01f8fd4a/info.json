@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb6b6b68ee94033379fb6886cb9792ec01f8fd4a",
+  "displayName": "OKC Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OKC Token",
+    "symbol": "OKC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

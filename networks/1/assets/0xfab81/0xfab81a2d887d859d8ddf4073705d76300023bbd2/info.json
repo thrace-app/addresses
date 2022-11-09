@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfab81a2d887d859d8ddf4073705d76300023bbd2",
+  "displayName": "Classic Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Classic Ethereum",
+    "symbol": "CETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

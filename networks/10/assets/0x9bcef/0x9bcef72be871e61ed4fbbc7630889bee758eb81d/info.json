@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9bcef72be871e61ed4fbbc7630889bee758eb81d",
+  "displayName": "Rocket Pool ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6f36dafca99ed780169470f3fe58d631d011968",
+  "displayName": "Zebra Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zebra Finance",
+    "symbol": "zBRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

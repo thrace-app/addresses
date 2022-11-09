@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdba4663879c50f2db66739587d0204a44827e976",
+  "displayName": "Liamon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Liamon Token",
+    "symbol": "Liamon",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

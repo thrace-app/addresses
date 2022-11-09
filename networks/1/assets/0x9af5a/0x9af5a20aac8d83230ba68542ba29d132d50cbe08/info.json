@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9af5a20aac8d83230ba68542ba29d132d50cbe08",
+  "displayName": "Marsan Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Marsan Exchange Token",
+    "symbol": "MRS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

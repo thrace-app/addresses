@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ded9f2bfffb5864e159f598b0d57ce1bdad272c",
+  "displayName": "Crypto Patrol Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Patrol Coin",
+    "symbol": "CPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

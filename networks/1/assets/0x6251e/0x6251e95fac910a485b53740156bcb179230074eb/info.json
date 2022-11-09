@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6251e95fac910a485b53740156bcb179230074eb",
+  "displayName": "BoogerCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BoogerCoin",
+    "symbol": "BOOGER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

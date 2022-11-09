@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb610fef7af3bf08a42e9debc01bb28eefa511693",
+  "displayName": "ScalpToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ScalpToken",
+    "symbol": "SCALP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

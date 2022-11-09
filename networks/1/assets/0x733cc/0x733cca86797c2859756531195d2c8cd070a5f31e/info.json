@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x733cca86797c2859756531195d2c8cd070a5f31e",
+  "displayName": "BNC",
+  "type": "TOKEN",
+  "token": {
+    "name": "BNC",
+    "symbol": "BNC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

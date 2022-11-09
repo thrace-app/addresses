@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb92c8d91172156dfea4ee54845b12ef2bee00c90",
+  "displayName": "GROW DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GROW DAO Token",
+    "symbol": "GROW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

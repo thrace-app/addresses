@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b29ea99096c191155972f99f822c10ab995747d",
+  "displayName": "coinbird.eth",
+  "type": "TOKEN",
+  "token": {
+    "name": "coinbird.eth",
+    "symbol": "$BIRD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

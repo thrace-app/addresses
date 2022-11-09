@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ad406dd08d0aba38c1fe23b72e09969d5291e0f",
+  "displayName": "MixSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "MixSwap",
+    "symbol": "MXS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

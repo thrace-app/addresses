@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56ee175fe37cd461486ce3c3166e0cafccd9843f",
+  "displayName": "eWit",
+  "type": "TOKEN",
+  "token": {
+    "name": "eWit",
+    "symbol": "EWIT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

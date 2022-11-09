@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca4b28b4cabdd1b45dc859443e466dd98d3cd2c2",
+  "displayName": "TBO Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TBO Coin",
+    "symbol": "TBO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

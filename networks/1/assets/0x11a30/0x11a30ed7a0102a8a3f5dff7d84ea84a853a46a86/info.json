@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11a30ed7a0102a8a3f5dff7d84ea84a853a46a86",
+  "displayName": "CoquiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoquiCoin",
+    "symbol": "COQUI",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

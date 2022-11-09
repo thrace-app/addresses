@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc9f2c3255b5164806ceacf07da6a9f7343a769d",
+  "displayName": "TribToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TribToken",
+    "symbol": "TRIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

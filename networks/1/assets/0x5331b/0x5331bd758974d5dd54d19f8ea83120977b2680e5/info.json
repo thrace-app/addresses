@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5331bd758974d5dd54d19f8ea83120977b2680e5",
+  "displayName": "BurnDucker",
+  "type": "TOKEN",
+  "token": {
+    "name": "BurnDucker",
+    "symbol": "bDucker",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

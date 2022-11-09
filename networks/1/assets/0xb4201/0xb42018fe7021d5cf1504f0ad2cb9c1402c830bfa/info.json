@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb42018fe7021d5cf1504f0ad2cb9c1402c830bfa",
+  "displayName": "TheBlockPad",
+  "type": "TOKEN",
+  "token": {
+    "name": "TheBlockPad",
+    "symbol": "BPAD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

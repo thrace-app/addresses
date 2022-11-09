@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3d088842dcf02c13699f936bb83dfbbc6f721ab",
+  "displayName": "Voucher Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Voucher Ethereum",
+    "symbol": "vETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

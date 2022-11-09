@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8becd197da72a8c8623a2fb86c826b23ce83fa3",
+  "displayName": "BigTipper",
+  "type": "TOKEN",
+  "token": {
+    "name": "BigTipper",
+    "symbol": "BTIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

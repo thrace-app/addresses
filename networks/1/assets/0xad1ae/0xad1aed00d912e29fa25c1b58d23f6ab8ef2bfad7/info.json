@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad1aed00d912e29fa25c1b58d23f6ab8ef2bfad7",
+  "displayName": "virtual world",
+  "type": "TOKEN",
+  "token": {
+    "name": "virtual world",
+    "symbol": "virtual world",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8255c5899b12a41d945b14f4525fc8fa645a6916",
+  "displayName": "GBlood Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GBlood Token",
+    "symbol": "GBlood",
+    "decimals": 16,
+    "type": "ERC20"
+  }
+}

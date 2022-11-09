@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x103d7469a78e20f062459b71a9142574dc30efdb",
+  "displayName": "Opal Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Opal Doge",
+    "symbol": "ODOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c945ac5533b53e44b2056343a461133fcc4d80d",
+  "displayName": "CZ Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "CZ Protocol",
+    "symbol": "CZP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

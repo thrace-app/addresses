@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9bbd51ab0a7fddcfa0ec739960c3505e9342d5b6",
+  "displayName": "NudeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NudeCoin",
+    "symbol": "NUDE",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

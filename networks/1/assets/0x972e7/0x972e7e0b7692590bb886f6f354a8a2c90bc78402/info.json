@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x972e7e0b7692590bb886f6f354a8a2c90bc78402",
+  "displayName": "Official Buterin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Official Buterin Token",
+    "symbol": "OBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

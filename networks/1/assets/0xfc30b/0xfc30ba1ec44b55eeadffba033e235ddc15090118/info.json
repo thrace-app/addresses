@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc30ba1ec44b55eeadffba033e235ddc15090118",
+  "displayName": "New Year Goose",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Year Goose",
+    "symbol": "NYG",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0c15f5066fcbafad6d1972125fb0cc1d2200bbe",
+  "displayName": "MakeTime Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MakeTime Token",
+    "symbol": "MTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

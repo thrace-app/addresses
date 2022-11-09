@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82dccd9ff371ea22582fbc215a2970fac107a750",
+  "displayName": "KorosaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KorosaCoin",
+    "symbol": "Korosa",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

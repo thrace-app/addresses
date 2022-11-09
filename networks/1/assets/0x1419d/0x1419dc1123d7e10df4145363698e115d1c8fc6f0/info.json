@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1419dc1123d7e10df4145363698e115d1c8fc6f0",
+  "displayName": "EthereumEarth",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumEarth",
+    "symbol": "ETHE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

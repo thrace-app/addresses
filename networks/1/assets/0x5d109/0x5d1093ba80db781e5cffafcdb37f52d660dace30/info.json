@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d1093ba80db781e5cffafcdb37f52d660dace30",
+  "displayName": "Spiff Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spiff Coin",
+    "symbol": "SPIFF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

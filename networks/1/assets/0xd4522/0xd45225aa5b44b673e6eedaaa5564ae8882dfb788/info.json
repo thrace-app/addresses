@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd45225aa5b44b673e6eedaaa5564ae8882dfb788",
+  "displayName": "LightOracleProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "LightOracleProtocol",
+    "symbol": "LOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

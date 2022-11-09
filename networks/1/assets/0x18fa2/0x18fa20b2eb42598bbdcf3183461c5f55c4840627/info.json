@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18fa20b2eb42598bbdcf3183461c5f55c4840627",
+  "displayName": "Blockchain Puppies",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blockchain Puppies",
+    "symbol": "PUPPY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

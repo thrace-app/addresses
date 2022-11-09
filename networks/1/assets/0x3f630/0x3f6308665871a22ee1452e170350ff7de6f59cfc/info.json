@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f6308665871a22ee1452e170350ff7de6f59cfc",
+  "displayName": "Blow It Up!",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blow It Up!",
+    "symbol": "KaBOOM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

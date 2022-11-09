@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a87593cffb2ffd5fca992a644b264e684012485",
+  "displayName": "Cosmic dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cosmic dog",
+    "symbol": "Cosmicdog",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

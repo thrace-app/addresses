@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4588835bd67ea998bb2ab45977f6ec45d94502d6",
+  "displayName": "Gandalf",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gandalf",
+    "symbol": "The Grey",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd4b800859ea4a488e5d6ecfeb5d5ca324a478f4",
+  "displayName": "Jack O' Lantern",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jack O' Lantern",
+    "symbol": "$JACK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

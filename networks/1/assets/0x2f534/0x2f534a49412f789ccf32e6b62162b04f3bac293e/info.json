@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f534a49412f789ccf32e6b62162b04f3bac293e",
+  "displayName": "MEME Crypt",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEME Crypt",
+    "symbol": "MEMEX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

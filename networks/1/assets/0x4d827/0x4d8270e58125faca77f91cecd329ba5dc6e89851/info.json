@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d8270e58125faca77f91cecd329ba5dc6e89851",
+  "displayName": "POSSWAP",
+  "type": "TOKEN",
+  "token": {
+    "name": "POSSWAP",
+    "symbol": "POS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

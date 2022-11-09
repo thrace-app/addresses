@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0913cc633d7a49d9dd22e13e77a00ef2a34065e",
+  "displayName": "Great Bool Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Great Bool Token",
+    "symbol": "GBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39d16074e090c499ef3e574b646e35e21a513615",
+  "displayName": "Kibble",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kibble",
+    "symbol": "Bits",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

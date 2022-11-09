@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb550fe68131e2556bb966ec1767814b5e8070eac",
+  "displayName": "Global USD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Global USD Token",
+    "symbol": "GUSDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

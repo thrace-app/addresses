@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57ff6c50cec21fb5910ce07bb09d0dd776709c87",
+  "displayName": "Willy Musk",
+  "type": "TOKEN",
+  "token": {
+    "name": "Willy Musk",
+    "symbol": "WMUSK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

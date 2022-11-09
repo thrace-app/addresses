@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a0109c5d877e89f2b5c80ca127907f790095973",
+  "displayName": "TotemFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "TotemFi",
+    "symbol": "TOTM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

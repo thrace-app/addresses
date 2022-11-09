@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x336555b15d778f9cf9b1c292f97285785fe45860",
+  "displayName": "Ottereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ottereum",
+    "symbol": "Otter",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd656824655d63014cd0907359e18a30681caf8a7",
+  "displayName": "PNG Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PNG Token",
+    "symbol": "PNG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

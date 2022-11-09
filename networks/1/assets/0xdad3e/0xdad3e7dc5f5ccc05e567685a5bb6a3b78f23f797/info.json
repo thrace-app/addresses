@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdad3e7dc5f5ccc05e567685a5bb6a3b78f23f797",
+  "displayName": "Hotdog Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hotdog Finance",
+    "symbol": "HOTDOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

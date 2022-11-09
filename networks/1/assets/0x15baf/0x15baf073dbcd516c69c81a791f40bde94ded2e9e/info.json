@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15baf073dbcd516c69c81a791f40bde94ded2e9e",
+  "displayName": "SAASProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "SAASProtocol",
+    "symbol": "SAAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

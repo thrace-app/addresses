@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e7085e3f1d585d876eb879ea2d3fd863a531c50",
+  "displayName": "Doge Leg",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Leg",
+    "symbol": "LEG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

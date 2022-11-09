@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x862b479d60573b482480fe28075058fcdde06d6d",
+  "displayName": "TixCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TixCoin",
+    "symbol": "TIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

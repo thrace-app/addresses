@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835",
+  "displayName": "COR Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "COR Token",
+    "symbol": "COR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

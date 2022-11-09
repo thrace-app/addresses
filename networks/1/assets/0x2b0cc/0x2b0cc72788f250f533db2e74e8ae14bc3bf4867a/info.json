@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b0cc72788f250f533db2e74e8ae14bc3bf4867a",
+  "displayName": "Tom Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tom Coin",
+    "symbol": "TMC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

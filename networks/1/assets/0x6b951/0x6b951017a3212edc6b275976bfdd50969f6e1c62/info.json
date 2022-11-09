@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b951017a3212edc6b275976bfdd50969f6e1c62",
+  "displayName": "Food Pyramid USDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Food Pyramid USDC",
+    "symbol": "FUSDC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

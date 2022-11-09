@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xddaddd4f73abc3a6552de43aba325f506232fa8a",
+  "displayName": "Memefund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Memefund",
+    "symbol": "MFUND",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

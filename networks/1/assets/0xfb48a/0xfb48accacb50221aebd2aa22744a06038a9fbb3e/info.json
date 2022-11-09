@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb48accacb50221aebd2aa22744a06038a9fbb3e",
+  "displayName": "Badger DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Badger DAO",
+    "symbol": "BADGER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

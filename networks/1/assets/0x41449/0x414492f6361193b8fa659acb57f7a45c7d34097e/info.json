@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x414492f6361193b8fa659acb57f7a45c7d34097e",
+  "displayName": "Ratl Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ratl Token",
+    "symbol": "RATL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1aa30a520b00be0d379600a48768db7d3daa238a",
+  "displayName": "FuckTheDevs",
+  "type": "TOKEN",
+  "token": {
+    "name": "FuckTheDevs",
+    "symbol": "$FTD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

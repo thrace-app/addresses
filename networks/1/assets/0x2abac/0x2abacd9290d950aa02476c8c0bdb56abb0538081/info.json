@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2abacd9290d950aa02476c8c0bdb56abb0538081",
+  "displayName": "TOSHIBA TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "TOSHIBA TOKEN",
+    "symbol": "TOSHIBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

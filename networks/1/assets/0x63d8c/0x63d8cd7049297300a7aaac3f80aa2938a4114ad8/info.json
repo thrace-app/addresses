@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63d8cd7049297300a7aaac3f80aa2938a4114ad8",
+  "displayName": "YinKu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YinKu Token",
+    "symbol": "YINKU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

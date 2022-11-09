@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f1b76e135a63d227cba46dff0c4f793d491e9fe",
+  "displayName": "Toyota",
+  "type": "TOKEN",
+  "token": {
+    "name": "Toyota",
+    "symbol": "Toyota",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

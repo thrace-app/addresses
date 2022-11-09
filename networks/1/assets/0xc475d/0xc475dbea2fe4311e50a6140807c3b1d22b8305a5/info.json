@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc475dbea2fe4311e50a6140807c3b1d22b8305a5",
+  "displayName": "RottenToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RottenToken",
+    "symbol": "ROT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

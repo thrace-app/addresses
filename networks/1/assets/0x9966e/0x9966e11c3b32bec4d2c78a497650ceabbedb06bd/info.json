@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9966e11c3b32bec4d2c78a497650ceabbedb06bd",
+  "displayName": "Blind Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blind Ape",
+    "symbol": "BLIND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

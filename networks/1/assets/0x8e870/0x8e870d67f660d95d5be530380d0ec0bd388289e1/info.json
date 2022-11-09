@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+  "displayName": "Paxos Standard",
+  "type": "TOKEN",
+  "token": {
+    "name": "Paxos Standard",
+    "symbol": "PAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeefdad6a480496875172ada1bafd03b81575166c",
+  "displayName": "LoyalToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LoyalToken",
+    "symbol": "LYL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77a9f44833810d1428fbb67a0bac6b74f85916d9",
+  "displayName": "Zeus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zeus",
+    "symbol": "ZEUS",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ccf191169a613eca433a249d3f40131178caebc",
+  "displayName": "MicroChains Gov Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MicroChains Gov Token",
+    "symbol": "MCG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

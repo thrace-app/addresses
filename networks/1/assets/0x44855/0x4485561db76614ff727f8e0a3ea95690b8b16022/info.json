@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4485561db76614ff727f8e0a3ea95690b8b16022",
+  "displayName": "Invox Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Invox Finance Token",
+    "symbol": "INVOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

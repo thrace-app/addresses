@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2918e6eb3c155529544fc4a71590486063e91fa3",
+  "displayName": "DoubleTheGameToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DoubleTheGameToken",
+    "symbol": "DTGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

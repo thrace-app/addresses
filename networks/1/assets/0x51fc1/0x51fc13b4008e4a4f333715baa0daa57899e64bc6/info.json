@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51fc13b4008e4a4f333715baa0daa57899e64bc6",
+  "displayName": "Dog Meme",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dog Meme",
+    "symbol": "DOMEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

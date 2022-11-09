@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6df6e06347a2b8c910db54df17d05adb38853dd",
+  "displayName": "MillionCoins",
+  "type": "TOKEN",
+  "token": {
+    "name": "MillionCoins",
+    "symbol": "BWC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

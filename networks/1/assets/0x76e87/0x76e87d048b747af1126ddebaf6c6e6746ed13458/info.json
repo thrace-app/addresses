@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76e87d048b747af1126ddebaf6c6e6746ed13458",
+  "displayName": "Zapper finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zapper finance",
+    "symbol": "Zapper",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

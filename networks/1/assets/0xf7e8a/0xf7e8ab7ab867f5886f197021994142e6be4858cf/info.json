@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7e8ab7ab867f5886f197021994142e6be4858cf",
+  "displayName": "SUPER SATOSHI",
+  "type": "TOKEN",
+  "token": {
+    "name": "SUPER SATOSHI",
+    "symbol": "$SATOSHI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

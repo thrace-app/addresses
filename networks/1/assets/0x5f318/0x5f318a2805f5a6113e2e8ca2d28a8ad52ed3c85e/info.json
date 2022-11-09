@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f318a2805f5a6113e2e8ca2d28a8ad52ed3c85e",
+  "displayName": "SafeElon",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeElon",
+    "symbol": "SAFELON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81f96469518dd8be534c14c69fb45d99355cb48d",
+  "displayName": "LinkDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "LinkDao",
+    "symbol": "LD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

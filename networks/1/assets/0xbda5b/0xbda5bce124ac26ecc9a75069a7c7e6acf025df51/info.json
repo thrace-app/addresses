@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbda5bce124ac26ecc9a75069a7c7e6acf025df51",
+  "displayName": "Wombat Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wombat Coin",
+    "symbol": "WOMBAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

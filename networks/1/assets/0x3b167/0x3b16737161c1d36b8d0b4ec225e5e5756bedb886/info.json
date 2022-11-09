@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b16737161c1d36b8d0b4ec225e5e5756bedb886",
+  "displayName": "LP TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "LP TOKEN",
+    "symbol": "LPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

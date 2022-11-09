@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20d4bba1caada713ae3253589e967a77fe389df1",
+  "displayName": "YZZtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "YZZtoken",
+    "symbol": "YZZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

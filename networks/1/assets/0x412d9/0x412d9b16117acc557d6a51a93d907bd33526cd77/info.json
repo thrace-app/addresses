@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x412d9b16117acc557d6a51a93d907bd33526cd77",
+  "displayName": "G-CASH",
+  "type": "TOKEN",
+  "token": {
+    "name": "G-CASH",
+    "symbol": "GCASH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

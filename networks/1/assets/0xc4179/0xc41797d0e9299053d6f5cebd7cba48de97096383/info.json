@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc41797d0e9299053d6f5cebd7cba48de97096383",
+  "displayName": "FineToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FineToken",
+    "symbol": "FINE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

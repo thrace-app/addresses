@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4bd4628e6efb0cb521d9ec35050c75840320374",
+  "displayName": "frETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "frETH",
+    "symbol": "frETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

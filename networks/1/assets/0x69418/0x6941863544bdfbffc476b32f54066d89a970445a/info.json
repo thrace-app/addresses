@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6941863544bdfbffc476b32f54066d89a970445a",
+  "displayName": "Rugged Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rugged Doge",
+    "symbol": "RUGDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb792b1d8869a7cfc34916d6c845ff05a7c9b789",
+  "displayName": "Cross-Chain BCH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cross-Chain BCH",
+    "symbol": "ccBCH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

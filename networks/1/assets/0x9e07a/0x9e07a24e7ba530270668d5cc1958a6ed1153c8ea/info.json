@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e07a24e7ba530270668d5cc1958a6ed1153c8ea",
+  "displayName": "Cashback coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cashback coin",
+    "symbol": "CABC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

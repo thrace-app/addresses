@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20c1584dc25770703639539bad6f20cadba9d24b",
+  "displayName": "Mario Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mario Ape",
+    "symbol": "MARIOAPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

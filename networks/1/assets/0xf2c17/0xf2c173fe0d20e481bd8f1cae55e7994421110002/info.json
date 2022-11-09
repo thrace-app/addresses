@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2c173fe0d20e481bd8f1cae55e7994421110002",
+  "displayName": "Happy Halloween",
+  "type": "TOKEN",
+  "token": {
+    "name": "Happy Halloween",
+    "symbol": "$Halloween",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80c57751444b021b8f916d164bd994743d059738",
+  "displayName": "On Chain Capital",
+  "type": "TOKEN",
+  "token": {
+    "name": "On Chain Capital",
+    "symbol": "OCC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

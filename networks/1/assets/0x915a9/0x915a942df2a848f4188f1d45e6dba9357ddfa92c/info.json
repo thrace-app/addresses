@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x915a942df2a848f4188f1d45e6dba9357ddfa92c",
+  "displayName": "GameCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GameCoin",
+    "symbol": "1337",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa9ed80cb42757d8150a8f006dcb1728ecd97c98b",
+  "displayName": "MGS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MGS Token",
+    "symbol": "MGS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

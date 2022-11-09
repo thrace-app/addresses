@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d8779d6fae7c21303a021a8bba0431dd2aa027b",
+  "displayName": "Ribbit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ribbit Token",
+    "symbol": "Ribbit",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

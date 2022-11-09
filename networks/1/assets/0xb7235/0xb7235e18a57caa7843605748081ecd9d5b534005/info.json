@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7235e18a57caa7843605748081ecd9d5b534005",
+  "displayName": "Satoshi Kiyoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Satoshi Kiyoshi",
+    "symbol": "KIYOSHI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

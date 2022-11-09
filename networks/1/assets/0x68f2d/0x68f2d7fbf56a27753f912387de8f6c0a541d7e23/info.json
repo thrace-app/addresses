@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68f2d7fbf56a27753f912387de8f6c0a541d7e23",
+  "displayName": "FPX token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FPX token",
+    "symbol": "FPX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

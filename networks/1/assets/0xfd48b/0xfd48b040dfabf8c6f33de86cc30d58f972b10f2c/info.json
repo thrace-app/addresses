@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd48b040dfabf8c6f33de86cc30d58f972b10f2c",
+  "displayName": "Token of Power",
+  "type": "TOKEN",
+  "token": {
+    "name": "Token of Power",
+    "symbol": "Valar",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

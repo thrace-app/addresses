@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64237de2a291be08b77bbd57dd186daecd4c64c0",
+  "displayName": "RubbishCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RubbishCoin",
+    "symbol": "Rubbish",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08b4c866ae9d1be56a06e0c302054b4ffe067b43",
+  "displayName": "BitCar",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitCar",
+    "symbol": "BITCAR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

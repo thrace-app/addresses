@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ceccfaff78ca2cd2ab1190a488777cfcff1acc2",
+  "displayName": "EthereumBuckeyeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumBuckeyeToken",
+    "symbol": "$EBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

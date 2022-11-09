@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef7a985e4ff9b5dccd6eddf58577486887288711",
+  "displayName": "HOM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HOM Token",
+    "symbol": "HOMT",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

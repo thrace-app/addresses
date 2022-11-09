@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xace64c97c32fe4e6f3916c2911dc75557f3792f9",
+  "displayName": "JonCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "JonCoin",
+    "symbol": "JH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56fdaafcc7e9cc66531f04898942b646638621c0",
+  "displayName": "Liquid Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Liquid Finance",
+    "symbol": "LiqFin",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

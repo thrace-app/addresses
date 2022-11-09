@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0fc6f768458d8e1dfe18037b035596e4a19615f1",
+  "displayName": "Feuzing Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Feuzing Token",
+    "symbol": "FEUZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

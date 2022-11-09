@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85117168851e99b6fa06bc8a58e035dc50587541",
+  "displayName": "Fetch.ai tokens",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fetch.ai tokens",
+    "symbol": "FET(Fetch.AI)",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

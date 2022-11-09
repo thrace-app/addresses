@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42c2a3cbca66a6795802e2991c896d8256a0cf05",
+  "displayName": "Sacred Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sacred Token",
+    "symbol": "SACRED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

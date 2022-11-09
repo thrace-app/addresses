@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa2ded323944b25c0b6f1f891bc96f010b65622c",
+  "displayName": "Radioreum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Radioreum",
+    "symbol": "TheRadio",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

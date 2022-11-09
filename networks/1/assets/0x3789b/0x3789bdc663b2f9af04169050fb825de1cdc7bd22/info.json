@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3789bdc663b2f9af04169050fb825de1cdc7bd22",
+  "displayName": "ElonCrypt",
+  "type": "TOKEN",
+  "token": {
+    "name": "ElonCrypt",
+    "symbol": "ECX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26dfc73366740d29c2dbca639eee960522166dc4",
+  "displayName": "ABCMETA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ABCMETA Token",
+    "symbol": "META",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

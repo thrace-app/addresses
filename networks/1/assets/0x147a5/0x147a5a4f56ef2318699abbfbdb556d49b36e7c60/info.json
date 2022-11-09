@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x147a5a4f56ef2318699abbfbdb556d49b36e7c60",
+  "displayName": "The Binance DeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Binance DeFi",
+    "symbol": "BinaFi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

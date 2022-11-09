@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x747f564d258612ec5c4e24742c5fd4110bcbe46b",
+  "displayName": "Nodeseeds.com Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nodeseeds.com Token",
+    "symbol": "NDS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

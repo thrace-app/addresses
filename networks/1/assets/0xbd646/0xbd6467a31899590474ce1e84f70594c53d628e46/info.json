@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd6467a31899590474ce1e84f70594c53d628e46",
+  "displayName": "KardiaChain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KardiaChain Token",
+    "symbol": "KAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

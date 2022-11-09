@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6505549f5919f1ea19e6cda7a8560d0add551669",
+  "displayName": "Vishicoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vishicoin",
+    "symbol": "Vishi",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

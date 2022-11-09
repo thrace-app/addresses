@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65e0b5dda9f520d936e52c16f2899443601acd1f",
+  "displayName": "Kermit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kermit",
+    "symbol": "FROG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

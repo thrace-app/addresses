@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73d5379360ab696aad4ae43f2787ef09b826f075",
+  "displayName": "Easy Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Easy Money",
+    "symbol": "EASY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

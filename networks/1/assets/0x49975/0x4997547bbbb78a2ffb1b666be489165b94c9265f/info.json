@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4997547bbbb78a2ffb1b666be489165b94c9265f",
+  "displayName": "MongoliaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MongoliaCoin",
+    "symbol": "MGLC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

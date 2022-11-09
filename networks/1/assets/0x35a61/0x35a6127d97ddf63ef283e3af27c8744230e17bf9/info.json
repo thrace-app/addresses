@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35a6127d97ddf63ef283e3af27c8744230e17bf9",
+  "displayName": "Bank of Satoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of Satoshi",
+    "symbol": "SATOSHI CULT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

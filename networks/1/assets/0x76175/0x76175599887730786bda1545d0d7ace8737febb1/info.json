@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76175599887730786bda1545d0d7ace8737febb1",
+  "displayName": "ENS DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "ENS DAO",
+    "symbol": "ENS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

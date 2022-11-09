@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a4506c199d73b711a9518bc77b4eea8caf726b0",
+  "displayName": "SustainabilityToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SustainabilityToken",
+    "symbol": "STK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

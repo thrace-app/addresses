@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3e97e4397c97052abfe9e43c15ba988f9a1abe8",
+  "displayName": "Free wealth coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Free wealth coin",
+    "symbol": "FWC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

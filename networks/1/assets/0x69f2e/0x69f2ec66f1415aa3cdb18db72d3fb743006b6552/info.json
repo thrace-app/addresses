@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69f2ec66f1415aa3cdb18db72d3fb743006b6552",
+  "displayName": "ShibuCat",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShibuCat",
+    "symbol": "SHIBUCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

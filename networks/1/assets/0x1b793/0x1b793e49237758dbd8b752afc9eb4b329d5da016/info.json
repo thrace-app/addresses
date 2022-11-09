@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b793e49237758dbd8b752afc9eb4b329d5da016",
+  "displayName": "ViteToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ViteToken",
+    "symbol": "VITE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ef1081ecc8b5b5b130656a41d4ce4f89dbbcc8c",
+  "displayName": "CP3RToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CP3RToken",
+    "symbol": "CP3R",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

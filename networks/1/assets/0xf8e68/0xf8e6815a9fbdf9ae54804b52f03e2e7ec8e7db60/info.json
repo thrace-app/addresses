@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8e6815a9fbdf9ae54804b52f03e2e7ec8e7db60",
+  "displayName": "Infinitus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Infinitus Token",
+    "symbol": "INF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

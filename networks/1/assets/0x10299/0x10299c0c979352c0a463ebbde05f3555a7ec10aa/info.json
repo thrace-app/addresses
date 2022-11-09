@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10299c0c979352c0a463ebbde05f3555a7ec10aa",
+  "displayName": "HoneyFarm",
+  "type": "TOKEN",
+  "token": {
+    "name": "HoneyFarm",
+    "symbol": "HFM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

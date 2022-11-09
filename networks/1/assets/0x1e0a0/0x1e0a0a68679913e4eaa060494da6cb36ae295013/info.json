@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e0a0a68679913e4eaa060494da6cb36ae295013",
+  "displayName": "SBT",
+  "type": "TOKEN",
+  "token": {
+    "name": "SBT",
+    "symbol": "SBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

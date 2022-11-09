@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2a1e217e9a59a715128258ef575c70006ed2aaa",
+  "displayName": "BerProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "BerProtocol",
+    "symbol": "BER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27ccabc547a1ac7b8cb69f8c9ec3a2973418003b",
+  "displayName": "V3x Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "V3x Token",
+    "symbol": "V3x",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1bdc5e5aa2749b4934c33441e050b8854b77a331",
+  "displayName": "First Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "First Inu",
+    "symbol": "FINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

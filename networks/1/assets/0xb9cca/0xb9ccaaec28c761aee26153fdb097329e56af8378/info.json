@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb9ccaaec28c761aee26153fdb097329e56af8378",
+  "displayName": "The Rapture",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Rapture",
+    "symbol": "Rapture",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

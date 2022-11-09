@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0cc4682b1465bd3bf3b9b13dbd310a1f37c7500d",
+  "displayName": "StaFi Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "StaFi Protocol",
+    "symbol": "FIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

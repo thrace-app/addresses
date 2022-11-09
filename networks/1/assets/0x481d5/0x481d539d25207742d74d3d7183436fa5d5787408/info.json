@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x481d539d25207742d74d3d7183436fa5d5787408",
+  "displayName": "Classic Meme",
+  "type": "TOKEN",
+  "token": {
+    "name": "Classic Meme",
+    "symbol": "CLASSICMEME",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

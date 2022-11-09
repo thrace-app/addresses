@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa09dd10b4758e155202e3711b0624176a9d572e",
+  "displayName": "MongooseCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MongooseCoin",
+    "symbol": "GOOSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

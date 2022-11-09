@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2234b9983ea8c645baf04449bb646864720073dc",
+  "displayName": "MOANO",
+  "type": "TOKEN",
+  "token": {
+    "name": "MOANO",
+    "symbol": "MOIX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9950ca72131f82884ff6513367aacce69ba18a81",
+  "displayName": "Coinect core coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coinect core coin",
+    "symbol": "CCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

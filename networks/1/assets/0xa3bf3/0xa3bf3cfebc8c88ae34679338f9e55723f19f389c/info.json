@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa3bf3cfebc8c88ae34679338f9e55723f19f389c",
+  "displayName": "Arate Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Arate Token",
+    "symbol": "Arate",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

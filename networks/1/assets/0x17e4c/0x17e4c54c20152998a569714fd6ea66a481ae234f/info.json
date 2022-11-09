@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17e4c54c20152998a569714fd6ea66a481ae234f",
+  "displayName": "XdexToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "XdexToken",
+    "symbol": "XDEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

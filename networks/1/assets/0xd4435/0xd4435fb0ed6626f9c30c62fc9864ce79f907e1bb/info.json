@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4435fb0ed6626f9c30c62fc9864ce79f907e1bb",
+  "displayName": "Beran Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Beran Token",
+    "symbol": "BeRan",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

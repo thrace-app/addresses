@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdffc110572c354cecea359fb2e258c9247acbd0d",
+  "displayName": "SuperSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperSwap",
+    "symbol": "SSP",
+    "decimals": 14,
+    "type": "ERC20"
+  }
+}

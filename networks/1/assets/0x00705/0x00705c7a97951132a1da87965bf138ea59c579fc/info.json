@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00705c7a97951132a1da87965bf138ea59c579fc",
+  "displayName": "DYOR",
+  "type": "TOKEN",
+  "token": {
+    "name": "DYOR",
+    "symbol": "YUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

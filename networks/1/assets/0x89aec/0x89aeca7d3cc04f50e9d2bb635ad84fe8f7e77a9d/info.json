@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89aeca7d3cc04f50e9d2bb635ad84fe8f7e77a9d",
+  "displayName": "Authmen Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Authmen Token",
+    "symbol": "AUTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

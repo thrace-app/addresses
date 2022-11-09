@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x688f53ffd2346fe31b28a94614e207d915c75ee1",
+  "displayName": "Luxury Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luxury Token",
+    "symbol": "LUX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

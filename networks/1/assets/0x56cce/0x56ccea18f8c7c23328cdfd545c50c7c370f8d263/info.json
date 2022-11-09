@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56ccea18f8c7c23328cdfd545c50c7c370f8d263",
+  "displayName": "RSCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "RSCOIN",
+    "symbol": "RSC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

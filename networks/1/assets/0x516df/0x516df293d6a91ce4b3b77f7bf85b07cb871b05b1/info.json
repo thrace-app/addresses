@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x516df293d6a91ce4b3b77f7bf85b07cb871b05b1",
+  "displayName": "Boom",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boom",
+    "symbol": "BFY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8afde8be6d047a0eca574abf89de10e288a229a2",
+  "displayName": "HausToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "HausToken",
+    "symbol": "HT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x579e211b2e5a046a1e5e631cf2d087e59412916e",
+  "displayName": "YourFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "YourFinance",
+    "symbol": "YOFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

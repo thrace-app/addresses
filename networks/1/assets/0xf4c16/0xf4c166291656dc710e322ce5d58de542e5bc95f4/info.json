@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4c166291656dc710e322ce5d58de542e5bc95f4",
+  "displayName": "SOBcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SOBcoin",
+    "symbol": "SOBc",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

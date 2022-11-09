@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17d6aa8f0e324e48590e6812429477006d7f617e",
+  "displayName": "crypto split",
+  "type": "TOKEN",
+  "token": {
+    "name": "crypto split",
+    "symbol": "COST",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

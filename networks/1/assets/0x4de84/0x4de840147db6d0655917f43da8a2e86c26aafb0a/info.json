@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4de840147db6d0655917f43da8a2e86c26aafb0a",
+  "displayName": "Percent IOU",
+  "type": "TOKEN",
+  "token": {
+    "name": "Percent IOU",
+    "symbol": "PIOU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb0461a59da62d9114c30c224952562725da7fdc",
+  "displayName": "UJBToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "UJBToken",
+    "symbol": "UJB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

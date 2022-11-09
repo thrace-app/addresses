@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ca097578911d5b731449a0f8bb91b321e1bcdd0",
+  "displayName": "Bane Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bane Token",
+    "symbol": "BANE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa2054b1cf61b12dd4cc16f6c181b98486ed931aa",
+  "displayName": "PolkaFoundry",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkaFoundry",
+    "symbol": "PKF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

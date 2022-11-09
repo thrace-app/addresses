@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66c02f414f7117e433da3aec6b34a370f0933baf",
+  "displayName": "GoldInu",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoldInu",
+    "symbol": "GODI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

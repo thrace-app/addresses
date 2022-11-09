@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5bb1632fa0023e1aa76a1ae92b4635c8dba49fa2",
+  "displayName": "GastroAdvisorToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GastroAdvisorToken",
+    "symbol": "FORK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

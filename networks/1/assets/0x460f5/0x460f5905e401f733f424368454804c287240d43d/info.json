@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x460f5905e401f733f424368454804c287240d43d",
+  "displayName": "Safe Galaxy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Galaxy",
+    "symbol": "SAXY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

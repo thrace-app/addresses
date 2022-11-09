@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb10d98c8ffd65336d6717a225551fd065d381958",
+  "displayName": "FlexTon",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlexTon",
+    "symbol": "FTON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

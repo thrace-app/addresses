@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecacd768fe160b79eb88e48b1df797bf4cb341c5",
+  "displayName": "Seed phrase",
+  "type": "TOKEN",
+  "token": {
+    "name": "Seed phrase",
+    "symbol": "SEED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

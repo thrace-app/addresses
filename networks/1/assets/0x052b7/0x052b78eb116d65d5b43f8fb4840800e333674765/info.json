@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x052b78eb116d65d5b43f8fb4840800e333674765",
+  "displayName": "cryptobuy",
+  "type": "TOKEN",
+  "token": {
+    "name": "cryptobuy",
+    "symbol": "CEC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

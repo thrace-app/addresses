@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ee31c2d82a13169c00664ce80fc78ac3ba2ea00",
+  "displayName": "SuperCorgi",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperCorgi",
+    "symbol": "SCORGI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

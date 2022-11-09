@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x300b3ca11a8332aed6002ad1432f8c40ab04f819",
+  "displayName": "Foreign Set - EURO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Foreign Set - EURO",
+    "symbol": "FSEUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

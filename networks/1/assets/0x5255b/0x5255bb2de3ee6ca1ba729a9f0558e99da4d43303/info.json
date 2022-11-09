@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5255bb2de3ee6ca1ba729a9f0558e99da4d43303",
+  "displayName": "Kerberos Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kerberos Token",
+    "symbol": "KBRF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3844412a0769f7634fa26f883daa2afd6972df0c",
+  "displayName": "Nonki Shiba Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nonki Shiba Token",
+    "symbol": "NONKI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

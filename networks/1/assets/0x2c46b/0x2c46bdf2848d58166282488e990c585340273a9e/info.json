@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c46bdf2848d58166282488e990c585340273a9e",
+  "displayName": "Cornichon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cornichon",
+    "symbol": "CORN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

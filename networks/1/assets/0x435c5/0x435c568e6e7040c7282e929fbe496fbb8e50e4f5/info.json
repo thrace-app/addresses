@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x435c568e6e7040c7282e929fbe496fbb8e50e4f5",
+  "displayName": "DDRT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DDRT Token",
+    "symbol": "DDRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

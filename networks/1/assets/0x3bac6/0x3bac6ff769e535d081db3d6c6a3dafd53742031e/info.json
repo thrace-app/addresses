@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3bac6ff769e535d081db3d6c6a3dafd53742031e",
+  "displayName": "BetaExchangeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BetaExchangeToken",
+    "symbol": "BET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

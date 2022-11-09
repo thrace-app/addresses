@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8134998b4ce4464a4e775ab849a7e216c621118",
+  "displayName": "NewStar",
+  "type": "TOKEN",
+  "token": {
+    "name": "NewStar",
+    "symbol": "NStar",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

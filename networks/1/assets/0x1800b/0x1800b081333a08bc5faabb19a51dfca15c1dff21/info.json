@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1800b081333a08bc5faabb19a51dfca15c1dff21",
+  "displayName": "ShibPrinter",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShibPrinter",
+    "symbol": "SHIBP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

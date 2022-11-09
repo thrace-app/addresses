@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ebfc2d400549e8599722a719587c662389ab8da",
+  "displayName": "Staking Platform Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Staking Platform Token",
+    "symbol": "SKC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

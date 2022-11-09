@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf92f11faec382a7949710ddc0d4caaaa39cb4f9",
+  "displayName": "A&BCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "A&BCoin",
+    "symbol": "A&B",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

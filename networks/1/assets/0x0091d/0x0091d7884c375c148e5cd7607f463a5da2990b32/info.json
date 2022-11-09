@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0091d7884c375c148e5cd7607f463a5da2990b32",
+  "displayName": "Litecoin Uniswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Litecoin Uniswap",
+    "symbol": "LTCu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

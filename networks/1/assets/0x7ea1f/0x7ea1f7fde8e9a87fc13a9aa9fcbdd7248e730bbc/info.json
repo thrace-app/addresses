@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ea1f7fde8e9a87fc13a9aa9fcbdd7248e730bbc",
+  "displayName": "Simulator Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Simulator Protocol",
+    "symbol": "PRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc260707f74ce3676f8085f2964115f9b9cb7d841",
+  "displayName": "DDOS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DDOS Token",
+    "symbol": "DDOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

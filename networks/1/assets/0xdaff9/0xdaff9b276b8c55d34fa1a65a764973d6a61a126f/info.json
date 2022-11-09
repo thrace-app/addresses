@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdaff9b276b8c55d34fa1a65a764973d6a61a126f",
+  "displayName": "Mr Burns",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mr Burns",
+    "symbol": "MRBURNS",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

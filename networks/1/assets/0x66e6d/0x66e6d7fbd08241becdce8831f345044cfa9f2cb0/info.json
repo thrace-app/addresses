@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66e6d7fbd08241becdce8831f345044cfa9f2cb0",
+  "displayName": "Ryu Stamp",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ryu Stamp",
+    "symbol": "RSTAMP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

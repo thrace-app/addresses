@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea8f5d815a482cc752f89faa9da6b2d6a55d9b47",
+  "displayName": "Cryptopolitain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryptopolitain Token",
+    "symbol": "CTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

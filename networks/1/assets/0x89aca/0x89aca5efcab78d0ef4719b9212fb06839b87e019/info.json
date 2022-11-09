@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89aca5efcab78d0ef4719b9212fb06839b87e019",
+  "displayName": "Proof of Genesis",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Genesis",
+    "symbol": "POG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

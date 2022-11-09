@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa22d22488af481d46ec85f1410ddd9187937d48",
+  "displayName": "National Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "National Money",
+    "symbol": "RUBC",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

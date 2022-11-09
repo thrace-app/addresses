@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f3afeea19fd9d59eb19a69776cc906556c49f26",
+  "displayName": "Elon Birthday",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Birthday",
+    "symbol": "ElonBirthday",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

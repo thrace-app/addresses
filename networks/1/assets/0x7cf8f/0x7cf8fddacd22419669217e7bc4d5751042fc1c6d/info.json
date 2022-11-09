@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7cf8fddacd22419669217e7bc4d5751042fc1c6d",
+  "displayName": "EURO vs USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "EURO vs USD",
+    "symbol": "EURvUSD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

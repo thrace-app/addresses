@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaba91acde738a0bdce53584252d5526d75556da5",
+  "displayName": "lido.fi",
+  "type": "TOKEN",
+  "token": {
+    "name": "lido.fi",
+    "symbol": "LDO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

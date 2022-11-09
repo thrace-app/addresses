@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe6410569602124506658ff992f258616ea2d4a3d",
+  "displayName": "KatanaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KatanaToken",
+    "symbol": "KATANA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33be026eff080859eb9dfff6029232b094732c52",
+  "displayName": "giip Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "giip Token",
+    "symbol": "GIIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

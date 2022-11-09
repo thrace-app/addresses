@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e9b56d2233ea2b5883861754435f9c51dbca141",
+  "displayName": "Rare Pepe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rare Pepe",
+    "symbol": "rPepe",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

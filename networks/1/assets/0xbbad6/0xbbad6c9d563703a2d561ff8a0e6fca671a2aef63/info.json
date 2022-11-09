@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbad6c9d563703a2d561ff8a0e6fca671a2aef63",
+  "displayName": "BitchSlapCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitchSlapCoin",
+    "symbol": "SLAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

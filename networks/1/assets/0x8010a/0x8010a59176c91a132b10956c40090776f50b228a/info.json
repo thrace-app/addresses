@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8010a59176c91a132b10956c40090776f50b228a",
+  "displayName": "facebook.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "facebook.com",
+    "symbol": "LIBRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

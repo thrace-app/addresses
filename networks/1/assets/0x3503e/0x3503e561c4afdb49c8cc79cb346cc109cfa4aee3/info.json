@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3503e561c4afdb49c8cc79cb346cc109cfa4aee3",
+  "displayName": "MetaTron",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaTron",
+    "symbol": "MTRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

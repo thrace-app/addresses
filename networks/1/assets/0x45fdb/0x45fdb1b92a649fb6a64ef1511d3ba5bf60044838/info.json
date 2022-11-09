@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45fdb1b92a649fb6a64ef1511d3ba5bf60044838",
+  "displayName": "Spice USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spice USD",
+    "symbol": "USDS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

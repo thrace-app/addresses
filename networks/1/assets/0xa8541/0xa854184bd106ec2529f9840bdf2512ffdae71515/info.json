@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa854184bd106ec2529f9840bdf2512ffdae71515",
+  "displayName": "CaffeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CaffeToken",
+    "symbol": "COF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

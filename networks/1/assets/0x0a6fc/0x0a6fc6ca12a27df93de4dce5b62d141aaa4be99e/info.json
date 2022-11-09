@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a6fc6ca12a27df93de4dce5b62d141aaa4be99e",
+  "displayName": "lpxtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "lpxtoken",
+    "symbol": "LPX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

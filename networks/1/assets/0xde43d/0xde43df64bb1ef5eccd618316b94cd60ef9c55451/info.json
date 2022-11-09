@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde43df64bb1ef5eccd618316b94cd60ef9c55451",
+  "displayName": "CookiesSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "CookiesSwap",
+    "symbol": "Cook",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf567ed7dc9a5993529bdeedbd1ce9ae8653506a6",
+  "displayName": "ExtendedCornToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ExtendedCornToken",
+    "symbol": "ECT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

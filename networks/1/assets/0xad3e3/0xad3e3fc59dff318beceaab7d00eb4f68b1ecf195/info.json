@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad3e3fc59dff318beceaab7d00eb4f68b1ecf195",
+  "displayName": "Wrapped Celo USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Celo USD",
+    "symbol": "wCUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

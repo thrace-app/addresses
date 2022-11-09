@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1864ce27e9f7517047933caae530674e8c70b8a7",
+  "displayName": "Pibble Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pibble Token",
+    "symbol": "PIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

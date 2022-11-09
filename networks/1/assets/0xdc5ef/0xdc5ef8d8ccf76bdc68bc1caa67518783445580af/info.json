@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc5ef8d8ccf76bdc68bc1caa67518783445580af",
+  "displayName": "EarmDeFiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EarmDeFiCoin",
+    "symbol": "EDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

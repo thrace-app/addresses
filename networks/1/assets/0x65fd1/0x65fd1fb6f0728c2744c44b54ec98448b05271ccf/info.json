@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65fd1fb6f0728c2744c44b54ec98448b05271ccf",
+  "displayName": "Dapmcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dapmcoin",
+    "symbol": "DPCN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

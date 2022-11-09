@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d781ca2870ae3683e0854e388d655e8e775cd45",
+  "displayName": "RUB",
+  "type": "TOKEN",
+  "token": {
+    "name": "RUB",
+    "symbol": "RUB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

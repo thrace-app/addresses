@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc9efde742b003d7b8ece40ffc35c0cedf26e665",
+  "displayName": "FujiDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "FujiDoge",
+    "symbol": "FUJI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

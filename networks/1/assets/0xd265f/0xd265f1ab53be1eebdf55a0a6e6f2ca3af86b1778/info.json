@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd265f1ab53be1eebdf55a0a6e6f2ca3af86b1778",
+  "displayName": "gzclub token",
+  "type": "TOKEN",
+  "token": {
+    "name": "gzclub token",
+    "symbol": "GZB",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ca512ea05e04172b105912608ec39ea140ab01b",
+  "displayName": "CoreFinanceToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoreFinanceToken",
+    "symbol": "CFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

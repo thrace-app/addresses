@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa10e7c415e90a47547ba84fec41f5ff57f493b0",
+  "displayName": "Buy this if you can",
+  "type": "TOKEN",
+  "token": {
+    "name": "Buy this if you can",
+    "symbol": "IMPOSSIBLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

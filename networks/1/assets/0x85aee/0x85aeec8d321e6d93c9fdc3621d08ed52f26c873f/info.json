@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85aeec8d321e6d93c9fdc3621d08ed52f26c873f",
+  "displayName": "The New York Times",
+  "type": "TOKEN",
+  "token": {
+    "name": "The New York Times",
+    "symbol": "$TNYT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

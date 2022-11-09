@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9534a50af8569a4411bbbb551bdb9561cbb55956",
+  "displayName": "NGN Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NGN Coin",
+    "symbol": "NGNC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

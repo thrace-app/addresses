@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x012f90820186a780b725b384eb5c8c17aeb6bfd1",
+  "displayName": "GoldSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoldSwap",
+    "symbol": "GOLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

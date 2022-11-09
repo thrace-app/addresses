@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ffe235b83985b174d5ed9d2782d647a5144bb1f",
+  "displayName": "StellarStarter",
+  "type": "TOKEN",
+  "token": {
+    "name": "StellarStarter",
+    "symbol": "XLS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

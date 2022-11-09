@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77fac34b0654328bfa015a3ff488bfa9cc0f20bc",
+  "displayName": "Doge Yen",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Yen",
+    "symbol": "DEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

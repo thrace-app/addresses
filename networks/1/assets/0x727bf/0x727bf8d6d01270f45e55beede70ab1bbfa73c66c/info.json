@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x727bf8d6d01270f45e55beede70ab1bbfa73c66c",
+  "displayName": "Lyra Tether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lyra Tether",
+    "symbol": "TLYR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

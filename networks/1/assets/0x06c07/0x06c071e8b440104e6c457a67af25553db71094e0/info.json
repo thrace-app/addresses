@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06c071e8b440104e6c457a67af25553db71094e0",
+  "displayName": "Rogue Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rogue Token",
+    "symbol": "Rogue",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

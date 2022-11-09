@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f5f3cfd7a32700c93f971637407ff17b91c7342",
+  "displayName": "ScryDddToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ScryDddToken",
+    "symbol": "DDD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

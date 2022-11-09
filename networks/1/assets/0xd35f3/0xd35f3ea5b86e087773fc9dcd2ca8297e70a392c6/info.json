@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd35f3ea5b86e087773fc9dcd2ca8297e70a392c6",
+  "displayName": "Bluesky",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bluesky",
+    "symbol": "$BLUE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

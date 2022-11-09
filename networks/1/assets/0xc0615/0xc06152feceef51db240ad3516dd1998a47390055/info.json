@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc06152feceef51db240ad3516dd1998a47390055",
+  "displayName": "Minter BIP",
+  "type": "TOKEN",
+  "token": {
+    "name": "Minter BIP",
+    "symbol": "EBIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

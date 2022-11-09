@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x675aef704eee6c67c0f260b6fe9ddc5f34df63a7",
+  "displayName": "Validator",
+  "type": "TOKEN",
+  "token": {
+    "name": "Validator",
+    "symbol": "VAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

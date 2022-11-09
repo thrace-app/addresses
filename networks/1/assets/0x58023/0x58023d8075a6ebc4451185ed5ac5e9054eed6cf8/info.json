@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58023d8075a6ebc4451185ed5ac5e9054eed6cf8",
+  "displayName": "SmolsToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SmolsToken",
+    "symbol": "SMOLS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

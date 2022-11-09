@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89e3a96f2e7a81462a8f8da22f0639dbf2883785",
+  "displayName": "Z2xt Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Z2xt Token",
+    "symbol": "Z2xt",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

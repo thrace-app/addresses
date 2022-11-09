@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d980c7268f74286ab959fd13f4d8cae937ae0bd",
+  "displayName": "DATO Minter",
+  "type": "TOKEN",
+  "token": {
+    "name": "DATO Minter",
+    "symbol": "DMINT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

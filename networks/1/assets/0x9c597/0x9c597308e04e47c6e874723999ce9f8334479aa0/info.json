@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c597308e04e47c6e874723999ce9f8334479aa0",
+  "displayName": "Doge Eats Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Eats Doge",
+    "symbol": "OMNOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

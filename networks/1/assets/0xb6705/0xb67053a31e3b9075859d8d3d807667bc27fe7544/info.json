@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb67053a31e3b9075859d8d3d807667bc27fe7544",
+  "displayName": "Hoge Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hoge Inu",
+    "symbol": "HONU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

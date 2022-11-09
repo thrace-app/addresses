@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed025a9fe4b30bcd68460bca42583090c2266468",
+  "displayName": "Ripio Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ripio Coin",
+    "symbol": "RPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

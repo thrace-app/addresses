@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6bf64e0652da122007f95cdbff38046a88f9d0d",
+  "displayName": "Safe Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Fund",
+    "symbol": "XTF.XXXBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf27b1287ff256da6a431f935feb5ae674ebb1e1c",
+  "displayName": "Club Degen",
+  "type": "TOKEN",
+  "token": {
+    "name": "Club Degen",
+    "symbol": "$DEGEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

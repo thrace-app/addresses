@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x800964c1eac80de0ed79ea3fa4c63681da5ee5cb",
+  "displayName": "SafeCrypt Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeCrypt Protocol",
+    "symbol": "SCP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

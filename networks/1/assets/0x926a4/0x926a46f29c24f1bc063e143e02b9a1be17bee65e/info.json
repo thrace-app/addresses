@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x926a46f29c24f1bc063e143e02b9a1be17bee65e",
+  "displayName": "Starlink",
+  "type": "TOKEN",
+  "token": {
+    "name": "Starlink",
+    "symbol": "STARLINK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

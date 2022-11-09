@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8e1c9ee537c5b1a795ae40900c155b97a9500a3",
+  "displayName": "leverage",
+  "type": "TOKEN",
+  "token": {
+    "name": "leverage",
+    "symbol": "LEVER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

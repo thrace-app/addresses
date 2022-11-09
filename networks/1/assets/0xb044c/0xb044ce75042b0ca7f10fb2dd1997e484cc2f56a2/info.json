@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb044ce75042b0ca7f10fb2dd1997e484cc2f56a2",
+  "displayName": "Cryptocurrency one",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryptocurrency one",
+    "symbol": "CONE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84a47398bca504aa97608fa7abb5db0ee9bad4cc",
+  "displayName": "UNAN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UNAN Token",
+    "symbol": "UNAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

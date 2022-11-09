@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34dea1ef42ec430e690e5cfdccef60d164c27cca",
+  "displayName": "LhtI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LhtI Token",
+    "symbol": "LHTI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

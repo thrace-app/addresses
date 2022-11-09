@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d5c7b59be978ec3f10bd449a6ea6190b15c828f",
+  "displayName": "Digimon Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digimon Coin",
+    "symbol": "DGC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

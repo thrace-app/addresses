@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6beb8630a3649cc3451c4b0e486734476fb55ea8",
+  "displayName": "Lunar Lander",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lunar Lander",
+    "symbol": "LUNAR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

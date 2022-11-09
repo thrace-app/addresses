@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc5e70524885b4e31aa9c7fb1d45b4de32d6d9226",
+  "displayName": "Nasty Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nasty Token",
+    "symbol": "NASTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

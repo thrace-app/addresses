@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe05538f120a112e912d31e69b1dc0543ce668caf",
+  "displayName": "LivesToken on Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "LivesToken on Chain",
+    "symbol": "LVTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

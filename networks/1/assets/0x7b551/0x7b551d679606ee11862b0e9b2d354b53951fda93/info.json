@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b551d679606ee11862b0e9b2d354b53951fda93",
+  "displayName": "Hydrolic Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hydrolic Token",
+    "symbol": "HDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

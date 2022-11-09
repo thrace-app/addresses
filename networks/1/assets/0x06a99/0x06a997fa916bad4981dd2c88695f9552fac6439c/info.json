@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06a997fa916bad4981dd2c88695f9552fac6439c",
+  "displayName": "JuFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JuFi Token",
+    "symbol": "JFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

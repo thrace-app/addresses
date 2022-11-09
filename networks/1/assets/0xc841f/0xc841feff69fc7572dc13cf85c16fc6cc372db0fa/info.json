@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc841feff69fc7572dc13cf85c16fc6cc372db0fa",
+  "displayName": "BEEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "BEEX",
+    "symbol": "BEEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

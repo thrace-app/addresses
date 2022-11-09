@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7300eab43eeeaf3e4cf55573a4cf386347d2bcad",
+  "displayName": "COOLDOG",
+  "type": "TOKEN",
+  "token": {
+    "name": "COOLDOG",
+    "symbol": "COOLDOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

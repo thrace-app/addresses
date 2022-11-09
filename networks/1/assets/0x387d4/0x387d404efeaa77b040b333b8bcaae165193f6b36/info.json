@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x387d404efeaa77b040b333b8bcaae165193f6b36",
+  "displayName": "Fat Pug Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fat Pug Token",
+    "symbol": "PUG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

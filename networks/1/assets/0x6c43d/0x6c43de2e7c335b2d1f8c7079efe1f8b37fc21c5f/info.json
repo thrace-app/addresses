@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c43de2e7c335b2d1f8c7079efe1f8b37fc21c5f",
+  "displayName": "CryptoCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoCoin",
+    "symbol": "CRYPTOCOIN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

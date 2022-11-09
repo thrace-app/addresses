@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c12d9b1223130b641154d8d3db35f91d81c8dfd",
+  "displayName": "InBit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "InBit Token",
+    "symbol": "InBit",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2121c1fe5e7dd8f3dd2917ab8124a86e9d10d911",
+  "displayName": "LADYMOON Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LADYMOON Token",
+    "symbol": "LADY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c671dda97a95c9f453118a47480ec783cbc626f",
+  "displayName": "Bitcoin Green",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Green",
+    "symbol": "BTG",
+    "decimals": 20,
+    "type": "ERC20"
+  }
+}

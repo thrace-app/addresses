@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1bd7efe5523123acac9e79dd85bab48bed7442d0",
+  "displayName": "Color the World",
+  "type": "TOKEN",
+  "token": {
+    "name": "Color the World",
+    "symbol": "Crayola",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

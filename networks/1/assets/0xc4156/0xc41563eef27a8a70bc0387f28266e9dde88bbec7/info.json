@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc41563eef27a8a70bc0387f28266e9dde88bbec7",
+  "displayName": "Fumo Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fumo Coin",
+    "symbol": "FUMO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

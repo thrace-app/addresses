@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89f1fa9726f0da0af566234385b824f29ad9e45e",
+  "displayName": "XSpace Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XSpace Token",
+    "symbol": "XEV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

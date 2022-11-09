@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12b7d6e13896968174f2d8c71dc9d1226f3651be",
+  "displayName": "OCC wallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "OCC wallet",
+    "symbol": "OCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

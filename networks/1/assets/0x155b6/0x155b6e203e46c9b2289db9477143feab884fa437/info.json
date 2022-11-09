@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x155b6e203e46c9b2289db9477143feab884fa437",
+  "displayName": "Floki Forever Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Floki Forever Token",
+    "symbol": "FlokiForever",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc5fb956002924b3aca72fec91ca3f252e3e45fb",
+  "displayName": "Evil Okinami",
+  "type": "TOKEN",
+  "token": {
+    "name": "Evil Okinami",
+    "symbol": "EOKINAMI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

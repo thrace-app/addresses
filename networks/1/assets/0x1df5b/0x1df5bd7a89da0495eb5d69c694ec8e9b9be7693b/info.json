@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1df5bd7a89da0495eb5d69c694ec8e9b9be7693b",
+  "displayName": "ECB",
+  "type": "TOKEN",
+  "token": {
+    "name": "ECB",
+    "symbol": "ECB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

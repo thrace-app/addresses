@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d422dbd46f07f96e4d30936c4665022549197ce",
+  "displayName": "Conroe Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Conroe Token",
+    "symbol": "CETN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

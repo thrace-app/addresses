@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7eee481a4d5da73132be51111da7c202aafc230c",
+  "displayName": "JoySwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "JoySwap",
+    "symbol": "JOYS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

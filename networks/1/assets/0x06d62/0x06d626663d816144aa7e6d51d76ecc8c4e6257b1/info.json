@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06d626663d816144aa7e6d51d76ecc8c4e6257b1",
+  "displayName": "Perp.Fi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Perp.Fi",
+    "symbol": "PERP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

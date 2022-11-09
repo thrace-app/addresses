@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x869e3d8852972fd49b03a3339ab171fbb2c6d460",
+  "displayName": "Ash Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ash Token",
+    "symbol": "ASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

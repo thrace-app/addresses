@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42956624a19eaaf9de2ce37ee05ef45c331fd9f6",
+  "displayName": "Balls DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Balls DAO",
+    "symbol": "BALLSDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

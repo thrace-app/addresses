@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3982e6274275ff1ed6513d33b1e6b883d3e7576",
+  "displayName": "Dope Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dope Token",
+    "symbol": "DOPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

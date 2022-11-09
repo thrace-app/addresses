@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4d17a28fa69d0d7aad886d17b68aa7424972744",
+  "displayName": "FullSend",
+  "type": "TOKEN",
+  "token": {
+    "name": "FullSend",
+    "symbol": "FULLSEND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

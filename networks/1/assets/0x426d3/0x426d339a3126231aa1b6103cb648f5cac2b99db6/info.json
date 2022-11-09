@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x426d339a3126231aa1b6103cb648f5cac2b99db6",
+  "displayName": "Jejedoge Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jejedoge Token",
+    "symbol": "JEJEDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

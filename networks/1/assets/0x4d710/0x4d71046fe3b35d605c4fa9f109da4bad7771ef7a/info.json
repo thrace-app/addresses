@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d71046fe3b35d605c4fa9f109da4bad7771ef7a",
+  "displayName": "SUS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SUS Token",
+    "symbol": "SUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

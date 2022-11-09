@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7a7148d3366527666dda5594256c66c2957fad5",
+  "displayName": "KYCDefi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KYCDefi Token",
+    "symbol": "KYCD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

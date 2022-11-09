@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc5cef436eadacadfa8dafb63088f09f21dea7e9",
+  "displayName": "Gwei Token (Forked from WETH10)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gwei Token (Forked from WETH10)",
+    "symbol": "GWEI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

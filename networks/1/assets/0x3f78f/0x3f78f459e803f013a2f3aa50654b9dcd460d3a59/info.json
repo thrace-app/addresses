@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f78f459e803f013a2f3aa50654b9dcd460d3a59",
+  "displayName": "RevolutionCurrency",
+  "type": "TOKEN",
+  "token": {
+    "name": "RevolutionCurrency",
+    "symbol": "rvrc",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

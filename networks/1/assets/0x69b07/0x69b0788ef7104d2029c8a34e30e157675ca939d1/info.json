@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69b0788ef7104d2029c8a34e30e157675ca939d1",
+  "displayName": "MinkToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MinkToken",
+    "symbol": "MINK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

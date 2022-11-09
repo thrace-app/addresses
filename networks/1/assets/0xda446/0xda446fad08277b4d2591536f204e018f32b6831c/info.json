@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda446fad08277b4d2591536f204e018f32b6831c",
+  "displayName": "NZD Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NZD Stablecoin",
+    "symbol": "NZDS",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

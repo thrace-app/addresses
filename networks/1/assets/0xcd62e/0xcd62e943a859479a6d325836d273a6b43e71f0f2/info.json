@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd62e943a859479a6d325836d273a6b43e71f0f2",
+  "displayName": "Short Squeeze",
+  "type": "TOKEN",
+  "token": {
+    "name": "Short Squeeze",
+    "symbol": "SHORTSQUEEZE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

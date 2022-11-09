@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f02afb65f1540cca96635bee4071a96b5b38e9b",
+  "displayName": "The Matrix Exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Matrix Exchange",
+    "symbol": "Matrix",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

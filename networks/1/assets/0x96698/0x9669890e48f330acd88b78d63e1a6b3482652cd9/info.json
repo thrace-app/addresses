@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9669890e48f330acd88b78d63e1a6b3482652cd9",
+  "displayName": "Bincentive Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bincentive Token",
+    "symbol": "BCNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

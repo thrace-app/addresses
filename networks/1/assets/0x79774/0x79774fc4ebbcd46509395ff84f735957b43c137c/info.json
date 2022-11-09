@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79774fc4ebbcd46509395ff84f735957b43c137c",
+  "displayName": "Particle X",
+  "type": "TOKEN",
+  "token": {
+    "name": "Particle X",
+    "symbol": "X",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fdd20442e5078ba10bf5584a493188d710f45e5",
+  "displayName": "CORS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CORS Token",
+    "symbol": "CRS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

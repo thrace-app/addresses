@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80142dd9ce90b30eab6b3265323d678abe099dae",
+  "displayName": "Kakarot Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kakarot Protocol",
+    "symbol": "$KAKAROT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

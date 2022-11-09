@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1fc68a52802f80cddf89b3634d22a4de8000b2d",
+  "displayName": "Cola World",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cola World",
+    "symbol": "COLAWORLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

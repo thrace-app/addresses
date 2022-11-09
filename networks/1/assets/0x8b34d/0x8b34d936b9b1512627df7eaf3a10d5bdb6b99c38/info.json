@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b34d936b9b1512627df7eaf3a10d5bdb6b99c38",
+  "displayName": "TsukaChain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TsukaChain Token",
+    "symbol": "TC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

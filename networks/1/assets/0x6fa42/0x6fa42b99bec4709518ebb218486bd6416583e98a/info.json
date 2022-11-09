@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fa42b99bec4709518ebb218486bd6416583e98a",
+  "displayName": "Goerli Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goerli Inu",
+    "symbol": "GNU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

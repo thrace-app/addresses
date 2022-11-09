@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b83ac391c59fea54e48517fd5b5b1084f81c50b",
+  "displayName": "Bit Dividend",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bit Dividend",
+    "symbol": "BitDiv",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

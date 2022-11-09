@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0622769d566b3c4c1c58ca4fabee8e60bb3163e5",
+  "displayName": "Yellow Tether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yellow Tether",
+    "symbol": "YUSDT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

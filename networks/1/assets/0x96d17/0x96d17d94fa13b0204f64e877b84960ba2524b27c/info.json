@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96d17d94fa13b0204f64e877b84960ba2524b27c",
+  "displayName": "Volt",
+  "type": "TOKEN",
+  "token": {
+    "name": "Volt",
+    "symbol": "V",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

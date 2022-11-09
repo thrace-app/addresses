@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1600c5502e7e94cacf73c124331cfa3e20add40e",
+  "displayName": "Ricoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ricoin",
+    "symbol": "RCO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

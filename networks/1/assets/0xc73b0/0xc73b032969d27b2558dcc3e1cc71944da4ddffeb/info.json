@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc73b032969d27b2558dcc3e1cc71944da4ddffeb",
+  "displayName": "Goku Bank Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goku Bank Coin",
+    "symbol": "GBC",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

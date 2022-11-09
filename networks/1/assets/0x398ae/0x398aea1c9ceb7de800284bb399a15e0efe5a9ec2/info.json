@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x398aea1c9ceb7de800284bb399a15e0efe5a9ec2",
+  "displayName": "Escrowed Illuvium",
+  "type": "TOKEN",
+  "token": {
+    "name": "Escrowed Illuvium",
+    "symbol": "sILV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

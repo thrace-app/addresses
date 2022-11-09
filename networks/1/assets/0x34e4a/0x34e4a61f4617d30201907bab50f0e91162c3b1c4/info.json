@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34e4a61f4617d30201907bab50f0e91162c3b1c4",
+  "displayName": "CANDIES",
+  "type": "TOKEN",
+  "token": {
+    "name": "CANDIES",
+    "symbol": "CAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37472814e5c6146e6ca7ed1753cd1b18b733e5d4",
+  "displayName": "Wrapped Blurt",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Blurt",
+    "symbol": "WBLURT",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

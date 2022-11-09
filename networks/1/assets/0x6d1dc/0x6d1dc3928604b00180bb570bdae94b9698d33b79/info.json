@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d1dc3928604b00180bb570bdae94b9698d33b79",
+  "displayName": "UnitedCrowd Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UnitedCrowd Token",
+    "symbol": "UCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

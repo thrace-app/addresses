@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x034cbf434e9c3fdd00c3e3f52c204ae6e5296ea7",
+  "displayName": "Vitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitcoin",
+    "symbol": "VTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4aaa91ded0b700d57880b04f1656a4be03232a9d",
+  "displayName": "Miki Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Miki Inu",
+    "symbol": "MIKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

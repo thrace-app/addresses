@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93ecd2ecdfb91ab2fee28a8779a6adfe2851cda6",
+  "displayName": "LoanBurst",
+  "type": "TOKEN",
+  "token": {
+    "name": "LoanBurst",
+    "symbol": "LBurst",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

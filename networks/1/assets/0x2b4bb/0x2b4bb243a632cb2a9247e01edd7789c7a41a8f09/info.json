@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b4bb243a632cb2a9247e01edd7789c7a41a8f09",
+  "displayName": "Bombs Away TEST",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bombs Away TEST",
+    "symbol": "XBOMB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

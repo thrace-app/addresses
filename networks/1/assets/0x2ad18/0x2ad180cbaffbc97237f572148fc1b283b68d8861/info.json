@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ad180cbaffbc97237f572148fc1b283b68d8861",
+  "displayName": "IZX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "IZX Token",
+    "symbol": "IZX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

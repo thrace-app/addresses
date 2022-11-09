@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x827eed050df933f6fda3a606b5f716cec660ecba",
+  "displayName": "BurnDrop",
+  "type": "TOKEN",
+  "token": {
+    "name": "BurnDrop",
+    "symbol": "BD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

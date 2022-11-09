@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe8f3805412a0f693bd6e9d5f2eefdbb048edcf54",
+  "displayName": "Gimme Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gimme Money",
+    "symbol": "GMONEY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

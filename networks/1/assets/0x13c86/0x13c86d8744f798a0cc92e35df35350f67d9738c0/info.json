@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13c86d8744f798a0cc92e35df35350f67d9738c0",
+  "displayName": "The Last Test",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Last Test",
+    "symbol": "TLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

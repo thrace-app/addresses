@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a61ee93e6aea0ba5b4ef0292ae78b65f2bd17f3",
+  "displayName": "BonFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "BonFi",
+    "symbol": "BNF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

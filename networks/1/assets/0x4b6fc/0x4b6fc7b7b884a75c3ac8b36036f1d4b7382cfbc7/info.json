@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b6fc7b7b884a75c3ac8b36036f1d4b7382cfbc7",
+  "displayName": "MergeChain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MergeChain Token",
+    "symbol": "MergeChain",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

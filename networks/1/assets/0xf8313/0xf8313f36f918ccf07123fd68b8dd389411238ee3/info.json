@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8313f36f918ccf07123fd68b8dd389411238ee3",
+  "displayName": "Auspicious Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Auspicious Coin",
+    "symbol": "AUSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

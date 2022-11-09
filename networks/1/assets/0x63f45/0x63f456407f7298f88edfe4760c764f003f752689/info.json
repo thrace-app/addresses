@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63f456407f7298f88edfe4760c764f003f752689",
+  "displayName": "fabspace",
+  "type": "TOKEN",
+  "token": {
+    "name": "fabspace",
+    "symbol": "FAB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

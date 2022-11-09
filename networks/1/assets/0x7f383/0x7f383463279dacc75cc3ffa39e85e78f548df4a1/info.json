@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f383463279dacc75cc3ffa39e85e78f548df4a1",
+  "displayName": "Brex Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brex Coin",
+    "symbol": "BRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

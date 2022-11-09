@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x903ce64cdfec04d8c93b431786f9ff4a7718bb20",
+  "displayName": "BDCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BDCoin",
+    "symbol": "BDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19f9b64058b00824bf26520496f70650010a97d4",
+  "displayName": "Suran Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Suran Token",
+    "symbol": "SURAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50378b3b1054b75f0935fb2bff46a2b324370b3f",
+  "displayName": "MonkeyBeast",
+  "type": "TOKEN",
+  "token": {
+    "name": "MonkeyBeast",
+    "symbol": "MNB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

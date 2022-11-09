@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x098af16554f87546b35beccded6a5adad7b315e9",
+  "displayName": "HerCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "HerCoin",
+    "symbol": "VNS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

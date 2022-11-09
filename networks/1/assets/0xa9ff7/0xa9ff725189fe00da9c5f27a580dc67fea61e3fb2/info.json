@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa9ff725189fe00da9c5f27a580dc67fea61e3fb2",
+  "displayName": "Armors Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Armors Token",
+    "symbol": "ARM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

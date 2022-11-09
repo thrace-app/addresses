@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfff05d839b399ef1cf5e485b9695c39da11698bb",
+  "displayName": "MINFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "MINFT",
+    "symbol": "MIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

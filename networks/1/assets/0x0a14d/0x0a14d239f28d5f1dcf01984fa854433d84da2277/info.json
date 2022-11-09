@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a14d239f28d5f1dcf01984fa854433d84da2277",
+  "displayName": "Battle Pets",
+  "type": "TOKEN",
+  "token": {
+    "name": "Battle Pets",
+    "symbol": "PET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

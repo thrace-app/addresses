@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4c220ccac0335334d425a90f58de7c667896a06",
+  "displayName": "Kine USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kine USD",
+    "symbol": "kUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

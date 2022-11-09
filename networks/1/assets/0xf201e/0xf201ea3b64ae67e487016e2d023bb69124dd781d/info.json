@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf201ea3b64ae67e487016e2d023bb69124dd781d",
+  "displayName": "Rotki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rotki Token",
+    "symbol": "ROTKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

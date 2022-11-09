@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0fe611be221752fdb6598f3d14bb1518c1bd1f89",
+  "displayName": "DollarSafe",
+  "type": "TOKEN",
+  "token": {
+    "name": "DollarSafe",
+    "symbol": "DOLLARS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3599911f6ddc993062599e53ceb9785f8f31ee4",
+  "displayName": "xBSE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "xBSE Token",
+    "symbol": "xBSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

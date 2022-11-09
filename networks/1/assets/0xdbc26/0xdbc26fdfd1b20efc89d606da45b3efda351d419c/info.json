@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbc26fdfd1b20efc89d606da45b3efda351d419c",
+  "displayName": "XENBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "XENBurn",
+    "symbol": "XENB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

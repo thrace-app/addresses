@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8af38d3530bbd802ff2d132ae361897aca004ec1",
+  "displayName": "PulseApeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PulseApeCoin",
+    "symbol": "PLSA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

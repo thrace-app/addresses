@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8580b33c39273c874b224671862926a91ede7c16",
+  "displayName": "Snape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Snape",
+    "symbol": "SNAPE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

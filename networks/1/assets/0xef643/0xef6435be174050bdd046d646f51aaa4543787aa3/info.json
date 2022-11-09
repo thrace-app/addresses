@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef6435be174050bdd046d646f51aaa4543787aa3",
+  "displayName": "NDCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "NDCOIN",
+    "symbol": "NDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

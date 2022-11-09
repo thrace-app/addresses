@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87c509bb798f05a95e8b6c72ec6e2c2abb5f6a57",
+  "displayName": "The Cooked Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Cooked Doge",
+    "symbol": "DAOKA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

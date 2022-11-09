@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbad1ff60b1604f63fa2f8989a4a64ca1bde74d45",
+  "displayName": "Ducker Pay",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ducker Pay",
+    "symbol": "DUCKP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

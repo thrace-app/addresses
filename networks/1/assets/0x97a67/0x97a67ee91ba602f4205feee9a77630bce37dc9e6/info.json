@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97a67ee91ba602f4205feee9a77630bce37dc9e6",
+  "displayName": "Solra Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Solra Token",
+    "symbol": "SLR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

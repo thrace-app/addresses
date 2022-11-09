@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72ac6ca60027af1328290c5192960c0a27ded6f7",
+  "displayName": "TheRunCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TheRunCoin",
+    "symbol": "RUN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

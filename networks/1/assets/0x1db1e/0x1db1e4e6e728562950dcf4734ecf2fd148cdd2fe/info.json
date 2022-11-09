@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1db1e4e6e728562950dcf4734ecf2fd148cdd2fe",
+  "displayName": "Mean Dev",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mean Dev",
+    "symbol": "MDEV",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23cec92ddec2b65aad1f281c08ff45755bcaef97",
+  "displayName": "Buzzard Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Buzzard Token",
+    "symbol": "BUZZARD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

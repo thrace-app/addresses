@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5aaf1e10af616b335699d00189a12324b617f2d8",
+  "displayName": "Missy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Missy Token",
+    "symbol": "Missy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

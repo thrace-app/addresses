@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0267b84302a3c72792f04e01c83ff48d3cda03c",
+  "displayName": "CoinBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinBank",
+    "symbol": "CB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

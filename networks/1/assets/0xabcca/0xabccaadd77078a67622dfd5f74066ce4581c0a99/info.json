@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabccaadd77078a67622dfd5f74066ce4581c0a99",
+  "displayName": "mameCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "mameCoin",
+    "symbol": "MAME",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

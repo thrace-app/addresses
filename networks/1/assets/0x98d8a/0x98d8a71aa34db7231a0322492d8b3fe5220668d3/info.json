@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x98d8a71aa34db7231a0322492d8b3fe5220668d3",
+  "displayName": "Stoned Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stoned Inu",
+    "symbol": "STONEDINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65b36997f6c428434c6b7bce3cabc78721b66f89",
+  "displayName": "APE",
+  "type": "TOKEN",
+  "token": {
+    "name": "APE",
+    "symbol": "APE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

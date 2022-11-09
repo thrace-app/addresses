@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0d99676387611ecc3e0f3110591e068da2236d2",
+  "displayName": "Near Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Near Protocol",
+    "symbol": "NEAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x583418c5bd6dee13f1feb480dab1b60f036d16b2",
+  "displayName": "UniDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniDoge",
+    "symbol": "UNIGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

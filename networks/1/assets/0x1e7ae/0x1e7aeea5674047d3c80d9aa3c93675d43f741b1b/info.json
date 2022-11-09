@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e7aeea5674047d3c80d9aa3c93675d43f741b1b",
+  "displayName": "Kung Fu Panda",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kung Fu Panda",
+    "symbol": "KFP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

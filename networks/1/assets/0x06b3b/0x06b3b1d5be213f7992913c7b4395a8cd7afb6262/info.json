@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06b3b1d5be213f7992913c7b4395a8cd7afb6262",
+  "displayName": "SYX token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SYX token",
+    "symbol": "SYX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19a4d1e05bab404a4282d96ec26f40a69379780d",
+  "displayName": "Bank Of Kodachi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank Of Kodachi",
+    "symbol": "KodachiBank",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

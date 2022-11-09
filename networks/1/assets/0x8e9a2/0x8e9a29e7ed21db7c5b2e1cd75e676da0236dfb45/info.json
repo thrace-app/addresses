@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e9a29e7ed21db7c5b2e1cd75e676da0236dfb45",
+  "displayName": "Minter Hub",
+  "type": "TOKEN",
+  "token": {
+    "name": "Minter Hub",
+    "symbol": "HUB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

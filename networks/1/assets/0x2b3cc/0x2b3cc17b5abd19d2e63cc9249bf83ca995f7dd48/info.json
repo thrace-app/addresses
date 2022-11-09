@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b3cc17b5abd19d2e63cc9249bf83ca995f7dd48",
+  "displayName": "Mineral Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mineral Coin",
+    "symbol": "MC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

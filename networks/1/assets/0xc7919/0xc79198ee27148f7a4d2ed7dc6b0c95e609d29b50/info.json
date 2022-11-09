@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc79198ee27148f7a4d2ed7dc6b0c95e609d29b50",
+  "displayName": "http://maximusdog.org",
+  "type": "TOKEN",
+  "token": {
+    "name": "http://maximusdog.org",
+    "symbol": "MaxV2",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

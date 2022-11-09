@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18a4cb7d57b826d34228c730fe55161824b47e0a",
+  "displayName": "stake.wallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "stake.wallet",
+    "symbol": "STWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

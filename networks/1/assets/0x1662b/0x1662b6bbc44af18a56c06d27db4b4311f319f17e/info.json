@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1662b6bbc44af18a56c06d27db4b4311f319f17e",
+  "displayName": "CDS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CDS Token",
+    "symbol": "CDS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

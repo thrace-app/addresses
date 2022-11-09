@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x916b409654a0c1e7caf498b7f3436dacd4ff4ced",
+  "displayName": "SkyFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "SkyFi",
+    "symbol": "SF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

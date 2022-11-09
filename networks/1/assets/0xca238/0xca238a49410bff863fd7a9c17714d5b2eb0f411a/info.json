@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca238a49410bff863fd7a9c17714d5b2eb0f411a",
+  "displayName": "Wrapped Jax",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Jax",
+    "symbol": "WJAX",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

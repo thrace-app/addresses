@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7358c1713c25ba308157eeba454c2c6e2ba7617f",
+  "displayName": "Gemini Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gemini Protocol",
+    "symbol": "GEMINI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

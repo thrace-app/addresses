@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf098c2eb8989772a07ad66d988031e736018beae",
+  "displayName": "WhaleMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "WhaleMoon",
+    "symbol": "$WLM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

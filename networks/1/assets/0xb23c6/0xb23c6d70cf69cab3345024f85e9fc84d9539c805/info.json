@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb23c6d70cf69cab3345024f85e9fc84d9539c805",
+  "displayName": "Ramp Defi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ramp Defi",
+    "symbol": "RAMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

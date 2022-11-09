@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8647e90c0645152fccf4d9abb6b59eb4aa99052",
+  "displayName": "KeyFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KeyFi Token",
+    "symbol": "KEYFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

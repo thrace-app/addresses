@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03fee2e88ce1651bcd5abe4b81af4e8cc69af039",
+  "displayName": "yearn.gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "yearn.gold",
+    "symbol": "YAU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

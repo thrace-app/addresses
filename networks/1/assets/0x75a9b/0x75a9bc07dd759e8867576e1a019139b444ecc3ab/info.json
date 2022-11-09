@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75a9bc07dd759e8867576e1a019139b444ecc3ab",
+  "displayName": "King Bunny",
+  "type": "TOKEN",
+  "token": {
+    "name": "King Bunny",
+    "symbol": "KBUNNY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

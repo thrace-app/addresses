@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x800cad13c2287484c05c3d726955c0bc4fba010c",
+  "displayName": "Kunai Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kunai Coin",
+    "symbol": "KUNAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

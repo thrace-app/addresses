@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d5717264c0bd4b5d8795bf5df4194fe74395ba4",
+  "displayName": "Age of Rust Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Age of Rust Token",
+    "symbol": "AGRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

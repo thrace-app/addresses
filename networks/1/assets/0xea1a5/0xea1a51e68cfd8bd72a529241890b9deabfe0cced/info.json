@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea1a51e68cfd8bd72a529241890b9deabfe0cced",
+  "displayName": "Aragon Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aragon Chain",
+    "symbol": "ARA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

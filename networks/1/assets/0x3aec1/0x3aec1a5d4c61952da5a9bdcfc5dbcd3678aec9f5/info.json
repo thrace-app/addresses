@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3aec1a5d4c61952da5a9bdcfc5dbcd3678aec9f5",
+  "displayName": "SusiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SusiToken",
+    "symbol": "SUSI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

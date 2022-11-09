@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf392debfe4477bdb3dd748ed4bee214e0c897f85",
+  "displayName": "KraCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KraCoin",
+    "symbol": "KRAC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

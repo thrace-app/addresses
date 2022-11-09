@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa3118b34522580c35ae27f6cf52da1dbb756288",
+  "displayName": "LinkEye Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LinkEye Token",
+    "symbol": "LET",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

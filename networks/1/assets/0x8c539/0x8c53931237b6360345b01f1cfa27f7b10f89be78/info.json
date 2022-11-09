@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c53931237b6360345b01f1cfa27f7b10f89be78",
+  "displayName": "Cycloshield Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cycloshield Coin",
+    "symbol": "CYS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

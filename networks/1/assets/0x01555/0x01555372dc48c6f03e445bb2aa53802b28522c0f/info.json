@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01555372dc48c6f03e445bb2aa53802b28522c0f",
+  "displayName": "Saiki Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Saiki Inu",
+    "symbol": "SAIKI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

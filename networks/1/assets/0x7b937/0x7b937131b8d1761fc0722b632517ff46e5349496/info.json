@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b937131b8d1761fc0722b632517ff46e5349496",
+  "displayName": "Quitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quitcoin",
+    "symbol": "QUIT",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

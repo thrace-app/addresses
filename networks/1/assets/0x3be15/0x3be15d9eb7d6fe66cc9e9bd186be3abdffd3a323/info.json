@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3be15d9eb7d6fe66cc9e9bd186be3abdffd3a323",
+  "displayName": "Yorki Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yorki Finance Token",
+    "symbol": "YORKITOKEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

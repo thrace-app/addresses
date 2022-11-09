@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37486f16ceeb2433353cb1d0df3719757cc4bb93",
+  "displayName": "LinkedIn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LinkedIn Token",
+    "symbol": "LIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

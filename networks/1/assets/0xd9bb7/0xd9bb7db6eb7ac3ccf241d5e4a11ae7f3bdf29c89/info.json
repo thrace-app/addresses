@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9bb7db6eb7ac3ccf241d5e4a11ae7f3bdf29c89",
+  "displayName": "BFF Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BFF Token",
+    "symbol": "BFF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

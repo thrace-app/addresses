@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x165569b8cb75c44e2c884a5aa51f427153dff11a",
+  "displayName": "Polkasol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polkasol",
+    "symbol": "PSOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

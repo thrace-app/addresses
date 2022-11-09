@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22597bf0db183de5e4b01b0c2ac575039a1604d6",
+  "displayName": "Yearn Finance Dividends",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn Finance Dividends",
+    "symbol": "YFID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

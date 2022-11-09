@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c3b123a02d3c1d3806b5612d5ebd0ed7618c8f8",
+  "displayName": "SafeGOLD",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeGOLD",
+    "symbol": "SafeGOLD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e1b7e93e41ef860dc4e2c38ebaa123990f06cbb",
+  "displayName": "Chainlock",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chainlock",
+    "symbol": "LOCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

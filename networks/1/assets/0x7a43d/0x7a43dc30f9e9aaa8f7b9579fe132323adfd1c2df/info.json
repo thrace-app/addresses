@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a43dc30f9e9aaa8f7b9579fe132323adfd1c2df",
+  "displayName": "MetaMask Swap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaMask Swap Token",
+    "symbol": "MEST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

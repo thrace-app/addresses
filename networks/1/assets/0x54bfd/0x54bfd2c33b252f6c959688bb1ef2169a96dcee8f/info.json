@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x54bfd2c33b252f6c959688bb1ef2169a96dcee8f",
+  "displayName": "Bliss Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bliss Exchange Token",
+    "symbol": "BLISS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

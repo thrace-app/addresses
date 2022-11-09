@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",
+  "displayName": "Pundi X Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pundi X Token",
+    "symbol": "PUNDIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

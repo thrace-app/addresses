@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35352a97214942f5c6054923b8dbd5e4ff0434df",
+  "displayName": "My Super Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "My Super Token",
+    "symbol": "MST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9bd107f65c8ef054dcf2926c28fe7ef8dc8c8060",
+  "displayName": "Terrifier's Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Terrifier's Token",
+    "symbol": "TF",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

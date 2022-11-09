@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1b154c326439b20c864d68db65fa02f92202883",
+  "displayName": "Jojo's Bizarre Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jojo's Bizarre Token",
+    "symbol": "JOJOT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26e1664fdb9217dd4fb6b74448f189ee0f06f4f3",
+  "displayName": "Squid Game Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Squid Game Token",
+    "symbol": "SquidGame",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

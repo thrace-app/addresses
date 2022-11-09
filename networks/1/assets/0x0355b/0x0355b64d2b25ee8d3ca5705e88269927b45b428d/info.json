@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0355b64d2b25ee8d3ca5705e88269927b45b428d",
+  "displayName": "AURIC Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AURIC Token",
+    "symbol": "AURIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

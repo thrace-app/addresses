@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa0c448256e38647db5e44326a219146ceaf3576f",
+  "displayName": "RapidPumpToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RapidPumpToken",
+    "symbol": "RPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

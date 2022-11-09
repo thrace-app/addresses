@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5067006f830224960fb419d7f25a3a53e9919bb0",
+  "displayName": "PAD",
+  "type": "TOKEN",
+  "token": {
+    "name": "PAD",
+    "symbol": "PAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

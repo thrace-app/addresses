@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66bd3aa17a70659ffa4f97abe79a1d1b92c54459",
+  "displayName": "Dogs Chip",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dogs Chip",
+    "symbol": "DCHP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c83d52140ff0fdb1a46fbe7a7f15216cbe70896",
+  "displayName": "Second Shards Test",
+  "type": "TOKEN",
+  "token": {
+    "name": "Second Shards Test",
+    "symbol": "SST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

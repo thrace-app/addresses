@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc03096605f00855a241eb2e746f0b988f9bcbccf",
+  "displayName": "Peeny",
+  "type": "TOKEN",
+  "token": {
+    "name": "Peeny",
+    "symbol": "PP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

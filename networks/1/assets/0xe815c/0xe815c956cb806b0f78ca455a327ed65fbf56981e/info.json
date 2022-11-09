@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe815c956cb806b0f78ca455a327ed65fbf56981e",
+  "displayName": "Shiberion Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiberion Token",
+    "symbol": "SHIBER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

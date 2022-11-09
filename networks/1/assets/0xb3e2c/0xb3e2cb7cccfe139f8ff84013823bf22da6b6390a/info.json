@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3e2cb7cccfe139f8ff84013823bf22da6b6390a",
+  "displayName": "Iconiq Lab Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Iconiq Lab Token",
+    "symbol": "ICNQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

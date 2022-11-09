@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x610740af3f25b72892ba21b98bfb8595f2cde386",
+  "displayName": "Garuda Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Garuda Token",
+    "symbol": "GAD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

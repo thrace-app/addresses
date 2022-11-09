@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02859f75af3ef1fe31dc90969eb8cd508c52f2ff",
+  "displayName": "Glitter",
+  "type": "TOKEN",
+  "token": {
+    "name": "Glitter",
+    "symbol": "GLIT",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

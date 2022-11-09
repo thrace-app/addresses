@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa9215aca9821c6c2d6801ae6ed63cd7817ca4faf",
+  "displayName": "AIA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AIA Token",
+    "symbol": "AIA",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

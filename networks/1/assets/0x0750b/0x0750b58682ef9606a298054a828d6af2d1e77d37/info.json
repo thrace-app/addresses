@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0750b58682ef9606a298054a828d6af2d1e77d37",
+  "displayName": "TrasherToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrasherToken",
+    "symbol": "TRASHER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

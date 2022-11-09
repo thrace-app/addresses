@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e5faeecd8dd476e3d2c0a8cafb76cc135a2cbe7",
+  "displayName": "Red Bear",
+  "type": "TOKEN",
+  "token": {
+    "name": "Red Bear",
+    "symbol": "RBEAR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

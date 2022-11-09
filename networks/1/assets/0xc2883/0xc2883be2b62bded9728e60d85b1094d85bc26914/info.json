@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2883be2b62bded9728e60d85b1094d85bc26914",
+  "displayName": "TestShitCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TestShitCoin",
+    "symbol": "TSC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

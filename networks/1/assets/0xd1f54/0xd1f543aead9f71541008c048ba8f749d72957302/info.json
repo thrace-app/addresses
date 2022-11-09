@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1f543aead9f71541008c048ba8f749d72957302",
+  "displayName": "Esoteric meme of the day",
+  "type": "TOKEN",
+  "token": {
+    "name": "Esoteric meme of the day",
+    "symbol": "EMEME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

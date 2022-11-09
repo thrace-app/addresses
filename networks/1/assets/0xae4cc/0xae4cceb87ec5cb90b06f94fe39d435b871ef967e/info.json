@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae4cceb87ec5cb90b06f94fe39d435b871ef967e",
+  "displayName": "Wandernauts",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wandernauts",
+    "symbol": "NAUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

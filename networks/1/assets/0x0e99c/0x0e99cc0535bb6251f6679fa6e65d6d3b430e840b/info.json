@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e99cc0535bb6251f6679fa6e65d6d3b430e840b",
+  "displayName": "Wrapped Mirror FB Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Mirror FB Token",
+    "symbol": "mFB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

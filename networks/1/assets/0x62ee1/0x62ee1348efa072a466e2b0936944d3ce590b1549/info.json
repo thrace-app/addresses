@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62ee1348efa072a466e2b0936944d3ce590b1549",
+  "displayName": "Falcon protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Falcon protocol",
+    "symbol": "FALCON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

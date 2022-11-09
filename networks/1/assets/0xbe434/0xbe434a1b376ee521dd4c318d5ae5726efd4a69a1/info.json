@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe434a1b376ee521dd4c318d5ae5726efd4a69a1",
+  "displayName": "Silver Squeeze",
+  "type": "TOKEN",
+  "token": {
+    "name": "Silver Squeeze",
+    "symbol": "XAG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

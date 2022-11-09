@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1234e4cc64a329747652765a2a2b9d8ffe87376",
+  "displayName": "IS",
+  "type": "TOKEN",
+  "token": {
+    "name": "IS",
+    "symbol": "ISHIB",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

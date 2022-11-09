@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc2aba1733337ec987bb25d95c06c27f92f06acf",
+  "displayName": "Golden Ticket",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Ticket",
+    "symbol": "GLDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

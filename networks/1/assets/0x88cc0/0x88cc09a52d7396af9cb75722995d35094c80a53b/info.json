@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88cc09a52d7396af9cb75722995d35094c80a53b",
+  "displayName": "Horse Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Horse Protocol",
+    "symbol": "HRS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

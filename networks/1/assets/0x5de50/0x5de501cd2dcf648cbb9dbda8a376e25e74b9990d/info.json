@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5de501cd2dcf648cbb9dbda8a376e25e74b9990d",
+  "displayName": "Something Official",
+  "type": "TOKEN",
+  "token": {
+    "name": "Something Official",
+    "symbol": "ZAPP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

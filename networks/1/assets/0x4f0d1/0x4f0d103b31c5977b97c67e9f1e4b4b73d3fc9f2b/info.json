@@ -1,0 +1,11 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f0d103b31c5977b97c67e9f1e4b4b73d3fc9f2b",
+  "displayName": "NFT Circus Test",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT Circus Test",
+    "symbol": "TEST",
+    "type": "ERC721"
+  }
+}

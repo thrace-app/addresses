@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad7a514939e37cbe01d1501ba1cddc894055625f",
+  "displayName": "Elon Fiat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Fiat",
+    "symbol": "A12",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

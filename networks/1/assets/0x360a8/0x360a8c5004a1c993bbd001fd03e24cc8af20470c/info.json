@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x360a8c5004a1c993bbd001fd03e24cc8af20470c",
+  "displayName": "Farmageddon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Farmageddon",
+    "symbol": "FARM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

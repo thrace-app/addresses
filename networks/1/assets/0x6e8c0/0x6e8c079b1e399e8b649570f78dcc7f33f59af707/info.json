@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e8c079b1e399e8b649570f78dcc7f33f59af707",
+  "displayName": "FarmerDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "FarmerDAO",
+    "symbol": "OnlyFarms",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

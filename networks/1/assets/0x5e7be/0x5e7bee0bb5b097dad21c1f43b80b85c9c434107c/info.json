@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e7bee0bb5b097dad21c1f43b80b85c9c434107c",
+  "displayName": "SwftCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SwftCoin",
+    "symbol": "SWFTCS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

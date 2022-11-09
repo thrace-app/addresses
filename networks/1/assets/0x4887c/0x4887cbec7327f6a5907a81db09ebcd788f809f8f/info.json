@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4887cbec7327f6a5907a81db09ebcd788f809f8f",
+  "displayName": "The Spy",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Spy",
+    "symbol": "SPY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

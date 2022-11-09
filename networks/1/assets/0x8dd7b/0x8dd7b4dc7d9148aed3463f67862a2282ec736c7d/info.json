@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8dd7b4dc7d9148aed3463f67862a2282ec736c7d",
+  "displayName": "TokenHarbor",
+  "type": "TOKEN",
+  "token": {
+    "name": "TokenHarbor",
+    "symbol": "TEST-TH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

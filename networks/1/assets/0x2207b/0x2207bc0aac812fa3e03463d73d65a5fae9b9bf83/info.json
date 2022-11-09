@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2207bc0aac812fa3e03463d73d65a5fae9b9bf83",
+  "displayName": "PeasantCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PeasantCoin",
+    "symbol": "PSNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8625d37a7132ba85ab8bf2e22d085a02881e3595",
+  "displayName": "BUBU Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BUBU Token",
+    "symbol": "BUBU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

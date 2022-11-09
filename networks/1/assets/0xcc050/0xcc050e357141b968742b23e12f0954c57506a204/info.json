@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc050e357141b968742b23e12f0954c57506a204",
+  "displayName": "DoggyBuddyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DoggyBuddyCoin",
+    "symbol": "DGYBN",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53c22b67713a987c27796ba0e9dea92ea74c2fd4",
+  "displayName": "MiniSwap Core",
+  "type": "TOKEN",
+  "token": {
+    "name": "MiniSwap Core",
+    "symbol": "MINC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

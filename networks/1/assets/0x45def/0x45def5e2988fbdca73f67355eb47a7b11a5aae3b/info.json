@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45def5e2988fbdca73f67355eb47a7b11a5aae3b",
+  "displayName": "Degen Proof of Satoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Proof of Satoshi",
+    "symbol": "DPOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

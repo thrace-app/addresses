@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff76f12008161b52f9ad8d0a6e59ad01d89c2ef9",
+  "displayName": "AT Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "AT Protocol",
+    "symbol": "ATP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

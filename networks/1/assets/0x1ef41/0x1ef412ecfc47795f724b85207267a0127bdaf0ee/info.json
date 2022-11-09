@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ef412ecfc47795f724b85207267a0127bdaf0ee",
+  "displayName": "PEACECOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "PEACECOIN",
+    "symbol": "$PEACE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

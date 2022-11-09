@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x364a7381a5b378ced7ab33d1cdf6ff1bf162bfd6",
+  "displayName": "DeFi-X Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi-X Token",
+    "symbol": "TGX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

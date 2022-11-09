@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4781b33f2aa5977ccecaa53519c06571985116b",
+  "displayName": "Tsinghua University Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tsinghua University Token",
+    "symbol": "THU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

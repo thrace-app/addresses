@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c96933a2ca4cb8c57e2e7ec4ad7331a388cc1d5",
+  "displayName": "Mancity Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mancity Token",
+    "symbol": "Mancity",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

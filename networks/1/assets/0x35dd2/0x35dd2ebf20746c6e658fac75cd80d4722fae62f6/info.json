@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35dd2ebf20746c6e658fac75cd80d4722fae62f6",
+  "displayName": "CryptoBet",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoBet",
+    "symbol": "CBET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

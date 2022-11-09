@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45cb98e53bffa1bd89824d7515d8be37b067fe30",
+  "displayName": "Typhoon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Typhoon Token",
+    "symbol": "TYPHOON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

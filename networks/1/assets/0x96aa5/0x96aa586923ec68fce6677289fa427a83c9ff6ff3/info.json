@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96aa586923ec68fce6677289fa427a83c9ff6ff3",
+  "displayName": "Digital Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Coin",
+    "symbol": "DCB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

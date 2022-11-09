@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34a62a4fb1bf78ef9cc1a996cc71e3c6218e36f7",
+  "displayName": "StarWolff Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarWolff Token",
+    "symbol": "STARWOLFF",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

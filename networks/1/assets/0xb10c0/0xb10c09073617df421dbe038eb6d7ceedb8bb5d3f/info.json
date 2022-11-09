@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb10c09073617df421dbe038eb6d7ceedb8bb5d3f",
+  "displayName": "Crypto Monkey",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Monkey",
+    "symbol": "CMonkey 🐵",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

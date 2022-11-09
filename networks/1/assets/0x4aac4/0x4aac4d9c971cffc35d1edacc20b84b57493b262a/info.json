@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4aac4d9c971cffc35d1edacc20b84b57493b262a",
+  "displayName": "Da Vinci Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Da Vinci Token",
+    "symbol": "DVT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

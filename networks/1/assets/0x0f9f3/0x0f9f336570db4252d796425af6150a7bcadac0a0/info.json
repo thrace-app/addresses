@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f9f336570db4252d796425af6150a7bcadac0a0",
+  "displayName": "Yogacoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yogacoin",
+    "symbol": "YOGA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

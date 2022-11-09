@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96550c5cdcea735e8a0a48eb6e72be69cf11db8b",
+  "displayName": "Smoothy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smoothy Token",
+    "symbol": "SMTHY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

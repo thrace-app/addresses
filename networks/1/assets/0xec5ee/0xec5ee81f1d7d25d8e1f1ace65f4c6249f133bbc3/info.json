@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec5ee81f1d7d25d8e1f1ace65f4c6249f133bbc3",
+  "displayName": "Dapp Staking Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dapp Staking Token",
+    "symbol": "DSTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

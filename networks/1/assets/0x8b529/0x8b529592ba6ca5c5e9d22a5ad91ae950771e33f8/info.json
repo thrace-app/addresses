@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b529592ba6ca5c5e9d22a5ad91ae950771e33f8",
+  "displayName": "Music Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Music Coin",
+    "symbol": "MUSIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

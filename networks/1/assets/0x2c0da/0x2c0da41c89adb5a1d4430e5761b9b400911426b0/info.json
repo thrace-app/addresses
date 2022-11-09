@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c0da41c89adb5a1d4430e5761b9b400911426b0",
+  "displayName": "DAMA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAMA Token",
+    "symbol": "DAMA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

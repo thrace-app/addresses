@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d0649d9ddf09bc86a7d987aae249be4c26127aa",
+  "displayName": "CokomelCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CokomelCoin",
+    "symbol": "COKO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

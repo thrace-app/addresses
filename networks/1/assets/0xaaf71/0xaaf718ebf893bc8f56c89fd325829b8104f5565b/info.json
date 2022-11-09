@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaaf718ebf893bc8f56c89fd325829b8104f5565b",
+  "displayName": "DCG",
+  "type": "TOKEN",
+  "token": {
+    "name": "DCG",
+    "symbol": "DCG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

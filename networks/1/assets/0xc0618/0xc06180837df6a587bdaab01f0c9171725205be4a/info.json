@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc06180837df6a587bdaab01f0c9171725205be4a",
+  "displayName": "The Tasty Dogs DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Tasty Dogs DAO Token",
+    "symbol": "TTDD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

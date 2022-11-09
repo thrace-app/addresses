@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0643def9014b055823bdf2ec57ef02da619b0711",
+  "displayName": "Conor McGregor Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Conor McGregor Token",
+    "symbol": "McGregor",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

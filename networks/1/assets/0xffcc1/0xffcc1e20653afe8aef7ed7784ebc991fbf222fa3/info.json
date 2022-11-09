@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xffcc1e20653afe8aef7ed7784ebc991fbf222fa3",
+  "displayName": "EthereumSafe",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumSafe",
+    "symbol": "eSafe",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

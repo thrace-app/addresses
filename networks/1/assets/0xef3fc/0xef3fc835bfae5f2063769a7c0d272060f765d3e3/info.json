@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef3fc835bfae5f2063769a7c0d272060f765d3e3",
+  "displayName": "Crypto Tweet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Tweet",
+    "symbol": "CT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

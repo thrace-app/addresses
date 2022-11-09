@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd92fcc07e116175cf0c4eb4695fd91380cbca698",
+  "displayName": "Cluck",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cluck",
+    "symbol": "CLUCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

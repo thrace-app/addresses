@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
+  "displayName": "Frontier Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Frontier Token",
+    "symbol": "FRONT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

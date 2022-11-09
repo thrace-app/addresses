@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x692ecd47a64ddb91edc8f569723667fba6b84eb5",
+  "displayName": "Flamingo DAO Secondary Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flamingo DAO Secondary Token",
+    "symbol": "FLAM",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

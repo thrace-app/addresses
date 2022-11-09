@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92c5387ace61f5c505bf2c2d4c84120f0a813d4b",
+  "displayName": "DPlay Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DPlay Coin",
+    "symbol": "DC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

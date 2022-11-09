@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69b1ab7c93d94d32e0794b119aabdeec91539376",
+  "displayName": "DELUGE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DELUGE Token",
+    "symbol": "DELUGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

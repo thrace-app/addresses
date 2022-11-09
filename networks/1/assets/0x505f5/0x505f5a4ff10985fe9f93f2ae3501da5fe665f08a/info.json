@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x505f5a4ff10985fe9f93f2ae3501da5fe665f08a",
+  "displayName": "StaFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "StaFi",
+    "symbol": "rDOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

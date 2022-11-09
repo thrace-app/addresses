@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ce67148227051319d3cd7ce4187ebad18ac88ed",
+  "displayName": "BitcoinSun",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitcoinSun",
+    "symbol": "BTCSUN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

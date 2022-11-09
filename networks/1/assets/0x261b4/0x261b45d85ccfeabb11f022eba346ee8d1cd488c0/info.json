@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x261b45d85ccfeabb11f022eba346ee8d1cd488c0",
+  "displayName": "Redeemable DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Redeemable DAI",
+    "symbol": "rDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

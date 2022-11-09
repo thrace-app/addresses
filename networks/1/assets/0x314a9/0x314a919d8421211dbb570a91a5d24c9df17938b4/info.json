@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x314a919d8421211dbb570a91a5d24c9df17938b4",
+  "displayName": "Bitcoinus   Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoinus   Token",
+    "symbol": "BIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

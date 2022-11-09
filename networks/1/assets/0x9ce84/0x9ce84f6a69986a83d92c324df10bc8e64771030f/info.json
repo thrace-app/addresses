@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ce84f6a69986a83d92c324df10bc8e64771030f",
+  "displayName": "Chintai Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chintai Exchange Token",
+    "symbol": "CHEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

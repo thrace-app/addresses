@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x386e9b50b2204dfc958ca70799a780509d239a40",
+  "displayName": "汇现金",
+  "type": "TOKEN",
+  "token": {
+    "name": "汇现金",
+    "symbol": "HBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3427f999e9958196a0da402145ba3ae0a8970b31",
+  "displayName": "NMT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NMT Token",
+    "symbol": "NMTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

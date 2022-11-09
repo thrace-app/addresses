@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63ca8ecdc18c39bec9a060c4421badf6cabd6a3b",
+  "displayName": "APO Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "APO Coin",
+    "symbol": "APO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

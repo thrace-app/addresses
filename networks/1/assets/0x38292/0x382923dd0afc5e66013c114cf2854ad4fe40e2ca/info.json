@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x382923dd0afc5e66013c114cf2854ad4fe40e2ca",
+  "displayName": "ALICE",
+  "type": "TOKEN",
+  "token": {
+    "name": "ALICE",
+    "symbol": "ALICE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf4e577ccb4524c47c68b385ddc316d6c7a55d47",
+  "displayName": "Shaddai Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shaddai Token",
+    "symbol": "I AM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

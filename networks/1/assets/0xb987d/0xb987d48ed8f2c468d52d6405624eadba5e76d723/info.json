@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb987d48ed8f2c468d52d6405624eadba5e76d723",
+  "displayName": "Stabilize Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stabilize Token",
+    "symbol": "STBZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

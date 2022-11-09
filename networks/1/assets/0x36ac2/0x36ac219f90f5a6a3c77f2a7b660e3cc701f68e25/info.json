@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25",
+  "displayName": "CoinMetro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinMetro Token",
+    "symbol": "XCM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

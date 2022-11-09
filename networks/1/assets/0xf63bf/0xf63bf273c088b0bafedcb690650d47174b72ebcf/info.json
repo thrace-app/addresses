@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf63bf273c088b0bafedcb690650d47174b72ebcf",
+  "displayName": "NMLToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NMLToken",
+    "symbol": "NML",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

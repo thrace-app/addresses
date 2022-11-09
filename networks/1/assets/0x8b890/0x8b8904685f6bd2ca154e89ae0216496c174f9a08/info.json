@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b8904685f6bd2ca154e89ae0216496c174f9a08",
+  "displayName": "Black Node",
+  "type": "TOKEN",
+  "token": {
+    "name": "Black Node",
+    "symbol": "NODE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

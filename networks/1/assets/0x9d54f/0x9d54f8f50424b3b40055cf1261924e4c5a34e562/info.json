@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d54f8f50424b3b40055cf1261924e4c5a34e562",
+  "displayName": "HilkCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "HilkCoin",
+    "symbol": "HILK",
+    "decimals": 16,
+    "type": "ERC20"
+  }
+}

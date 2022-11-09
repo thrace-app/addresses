@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00c2fb6f4f7b7ca30ed1412b08881e638c180d79",
+  "displayName": "Nera Platform Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nera Platform Token",
+    "symbol": "NP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

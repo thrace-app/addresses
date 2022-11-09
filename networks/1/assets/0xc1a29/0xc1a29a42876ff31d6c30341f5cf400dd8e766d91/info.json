@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1a29a42876ff31d6c30341f5cf400dd8e766d91",
+  "displayName": "SetoCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SetoCoin",
+    "symbol": "SET",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

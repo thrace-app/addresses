@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6480261fc6b1bcb9347eb8fac5ed502f0de79a2",
+  "displayName": "Google",
+  "type": "TOKEN",
+  "token": {
+    "name": "Google",
+    "symbol": "GOOGLE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

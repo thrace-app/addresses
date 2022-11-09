@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a93539701c58be226f01169f1b39368eae1f496",
+  "displayName": "Gold Doge Miner",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gold Doge Miner",
+    "symbol": "$MINER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

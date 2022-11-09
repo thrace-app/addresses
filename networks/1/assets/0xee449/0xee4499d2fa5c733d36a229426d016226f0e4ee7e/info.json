@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee4499d2fa5c733d36a229426d016226f0e4ee7e",
+  "displayName": "FUB",
+  "type": "TOKEN",
+  "token": {
+    "name": "FUB",
+    "symbol": "FUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2ba5524df13935ce27aa0a94ccbdec29a09733e",
+  "displayName": "localbitcoins",
+  "type": "TOKEN",
+  "token": {
+    "name": "localbitcoins",
+    "symbol": "LBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

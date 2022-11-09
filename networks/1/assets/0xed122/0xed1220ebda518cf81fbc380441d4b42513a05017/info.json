@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed1220ebda518cf81fbc380441d4b42513a05017",
+  "displayName": "SENDING",
+  "type": "TOKEN",
+  "token": {
+    "name": "SENDING",
+    "symbol": "SEND",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3df0f58dc7ef7453d9345ac1bc79dc82b3fadc2c",
+  "displayName": "DegenRewards",
+  "type": "TOKEN",
+  "token": {
+    "name": "DegenRewards",
+    "symbol": "DR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

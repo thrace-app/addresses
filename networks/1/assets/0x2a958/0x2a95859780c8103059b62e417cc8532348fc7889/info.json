@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a95859780c8103059b62e417cc8532348fc7889",
+  "displayName": "Metamorphosis",
+  "type": "TOKEN",
+  "token": {
+    "name": "Metamorphosis",
+    "symbol": "Meta",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

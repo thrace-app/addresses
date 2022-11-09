@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf98971d3e9ab16aa8833277beb5549c2b03a8b84",
+  "displayName": "The Golden Egg",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Golden Egg",
+    "symbol": "TAMAGO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

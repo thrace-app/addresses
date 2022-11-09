@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x002ef27dee7a7d74ba59671385c51aa3d561d228",
+  "displayName": "Super Core Reserve Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Core Reserve Token",
+    "symbol": "SCRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

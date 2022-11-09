@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42c787562a24ce7ef2246f691db0a18ead8866b8",
+  "displayName": "Pink",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pink",
+    "symbol": "PNK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

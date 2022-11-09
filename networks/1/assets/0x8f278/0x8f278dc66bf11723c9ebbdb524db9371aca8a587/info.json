@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f278dc66bf11723c9ebbdb524db9371aca8a587",
+  "displayName": "SaiDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "SaiDoge",
+    "symbol": "SAIDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

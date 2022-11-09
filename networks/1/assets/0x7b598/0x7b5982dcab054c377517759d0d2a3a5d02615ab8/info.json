@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b5982dcab054c377517759d0d2a3a5d02615ab8",
+  "displayName": "cVault.finance/cBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "cVault.finance/cBTC",
+    "symbol": "cBTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

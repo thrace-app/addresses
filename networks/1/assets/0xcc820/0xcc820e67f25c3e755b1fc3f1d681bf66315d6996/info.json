@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc820e67f25c3e755b1fc3f1d681bf66315d6996",
+  "displayName": "CoinDesk",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinDesk",
+    "symbol": "DESK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

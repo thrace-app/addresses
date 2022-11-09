@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2033a5c413ed318854c5230e524edfb0936244cc",
+  "displayName": "Stella Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stella Coin",
+    "symbol": "STELLA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

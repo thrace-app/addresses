@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdff8cd1313c6bde1b9282a24f8c996e487f74f80",
+  "displayName": "GovernToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GovernToken",
+    "symbol": "GOV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

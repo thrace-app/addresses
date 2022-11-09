@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb66bf30db87fe2635dcc1c958b1bb2c0b2bcd2d5",
+  "displayName": "Shib Rewards Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shib Rewards Token",
+    "symbol": "Shrt",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

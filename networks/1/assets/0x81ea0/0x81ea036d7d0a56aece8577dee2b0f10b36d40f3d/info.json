@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81ea036d7d0a56aece8577dee2b0f10b36d40f3d",
+  "displayName": "A Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "A Swap",
+    "symbol": "ASWP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

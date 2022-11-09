@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc527e48fd47eae5f96b278c103d6c2696b76f714",
+  "displayName": "Peri Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Peri Finance Token",
+    "symbol": "PERI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

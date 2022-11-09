@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24c97264a536793eeb1d61ac3662ae49353bbd83",
+  "displayName": "Elon Tweet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Tweet",
+    "symbol": "ELONTWTTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

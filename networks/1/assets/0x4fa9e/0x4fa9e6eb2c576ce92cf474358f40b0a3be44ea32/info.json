@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4fa9e6eb2c576ce92cf474358f40b0a3be44ea32",
+  "displayName": "tiny dinos (eth)",
+  "type": "TOKEN",
+  "token": {
+    "name": "tiny dinos (eth)",
+    "symbol": "TINY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

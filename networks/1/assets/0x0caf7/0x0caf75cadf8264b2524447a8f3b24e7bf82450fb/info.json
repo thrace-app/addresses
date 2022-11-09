@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0caf75cadf8264b2524447a8f3b24e7bf82450fb",
+  "displayName": "Colendi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Colendi Token",
+    "symbol": "COLENDI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69dafecab9cd5647d467e8974ae223f5f6b2a83a",
+  "displayName": "GoodFellaDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoodFellaDoge",
+    "symbol": "GOODFELLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

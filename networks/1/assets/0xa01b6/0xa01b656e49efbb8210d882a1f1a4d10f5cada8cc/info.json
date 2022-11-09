@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa01b656e49efbb8210d882a1f1a4d10f5cada8cc",
+  "displayName": "Eco Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eco Gold",
+    "symbol": "ECGO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

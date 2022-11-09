@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa44d9f50b0decb13713fc5f0df44b4eb5fb300ca",
+  "displayName": "BitPumps Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitPumps Token",
+    "symbol": "BPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

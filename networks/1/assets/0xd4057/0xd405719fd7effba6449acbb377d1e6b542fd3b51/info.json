@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd405719fd7effba6449acbb377d1e6b542fd3b51",
+  "displayName": "Cap Check",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cap Check",
+    "symbol": "CAP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

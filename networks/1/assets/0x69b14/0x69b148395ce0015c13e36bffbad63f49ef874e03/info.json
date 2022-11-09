@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69b148395ce0015c13e36bffbad63f49ef874e03",
+  "displayName": "Data Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Data Token",
+    "symbol": "DTA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

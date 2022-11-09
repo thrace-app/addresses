@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f880f959f922ce59f763a441d69bff86791f05a",
+  "displayName": "ForeverDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "ForeverDoge",
+    "symbol": "ForeverDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

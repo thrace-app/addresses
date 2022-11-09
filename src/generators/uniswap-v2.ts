@@ -4,12 +4,12 @@ import retry from 'async-retry'
 import { Account, AccountType } from '../types/account'
 import { TokenType, type ERC20Token } from '../types/token'
 import type { Generator } from './generator'
+import { NULL_ADDRESS } from '../utils/constants'
 
-const GROUP = 'uniswap-v2'
-const NULL_ADDRESS = '0x0000000000000000000000000000000000000000'
 const STEP = 1000
 const SUBGRAPH_URL =
   'https://api.thegraph.com/subgraphs/name/uniswap/uniswap-v2'
+
 const LP_QUERY = gql`
   query LiquidityProviders($first: Int, $lastId: ID) {
     pairs(first: $first, where: { id_gt: $lastId }) {
@@ -34,20 +34,20 @@ const LP_QUERY = gql`
 const DEPLOYMENTS: Account[] = [
   {
     address: '0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f',
-    displayName: `${GROUP}: Factory`,
-    group: GROUP,
+    displayName: `Uniswap V2: Factory`,
+    group: 'Uniswap V2',
     type: AccountType.Other,
   },
   {
     address: '0xf164fC0Ec4E93095b804a4795bBe1e041497b92a',
-    displayName: `${GROUP}: Router`,
-    group: GROUP,
+    displayName: `Uniswap V2: Router`,
+    group: 'Uniswap V2',
     type: AccountType.LiquidityProvider,
   },
   {
     address: '0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D',
-    displayName: `${GROUP}: Router 2`,
-    group: GROUP,
+    displayName: `Uniswap V2: Router 2`,
+    group: 'Uniswap V2',
     type: AccountType.LiquidityProvider,
   },
 ]
@@ -134,13 +134,13 @@ export class UniswapV2Resolver implements Generator {
       const currentTokensLength = Object.keys(tokens).length
 
       console.log(
-        `Fetched ${GROUP}: ${response.pairs.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
+        `Fetched Uniswap V2: ${response.pairs.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
       )
     } while (response.pairs.length > 0)
 
     return {
-      [GROUP]: accounts,
-      tokens: Object.values(tokens),
+      'uniswap-v2': accounts,
+      erc20: Object.values(tokens),
     }
   }
 }

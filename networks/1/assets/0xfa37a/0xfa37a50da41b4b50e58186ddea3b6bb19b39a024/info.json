@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa37a50da41b4b50e58186ddea3b6bb19b39a024",
+  "displayName": "Algorithmic Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Algorithmic Bitcoin",
+    "symbol": "ABTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

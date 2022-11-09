@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe05eafc722a994a242bd12c99c10c18568072aa4",
+  "displayName": "The First DIE",
+  "type": "TOKEN",
+  "token": {
+    "name": "The First DIE",
+    "symbol": "FDIE",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

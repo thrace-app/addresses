@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc30884dcc62e01bce7789e20dfebf9a97193ad78",
+  "displayName": "BonfireToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BonfireToken",
+    "symbol": "BONFIRE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

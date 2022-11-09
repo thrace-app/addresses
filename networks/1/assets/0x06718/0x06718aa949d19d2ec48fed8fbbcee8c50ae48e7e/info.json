@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06718aa949d19d2ec48fed8fbbcee8c50ae48e7e",
+  "displayName": "Nana Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nana Token",
+    "symbol": "NANA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

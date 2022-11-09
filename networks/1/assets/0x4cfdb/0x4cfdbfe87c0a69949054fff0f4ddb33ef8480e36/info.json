@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cfdbfe87c0a69949054fff0f4ddb33ef8480e36",
+  "displayName": "yearn link",
+  "type": "TOKEN",
+  "token": {
+    "name": "yearn link",
+    "symbol": "YLINK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

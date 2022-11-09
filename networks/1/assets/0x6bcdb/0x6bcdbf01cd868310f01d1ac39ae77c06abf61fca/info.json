@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6bcdbf01cd868310f01d1ac39ae77c06abf61fca",
+  "displayName": "FINRA",
+  "type": "TOKEN",
+  "token": {
+    "name": "FINRA",
+    "symbol": "FINRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

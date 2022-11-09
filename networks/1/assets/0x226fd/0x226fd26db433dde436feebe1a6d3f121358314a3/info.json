@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x226fd26db433dde436feebe1a6d3f121358314a3",
+  "displayName": "BTA TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTA TOKEN",
+    "symbol": "BTAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

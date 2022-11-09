@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb61b5c8175b9230fbd0c6563b999f4fbc931c5ac",
+  "displayName": "The Great Wave",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Great Wave",
+    "symbol": "WAVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

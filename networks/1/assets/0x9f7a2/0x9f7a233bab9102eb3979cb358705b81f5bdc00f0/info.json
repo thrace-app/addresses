@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f7a233bab9102eb3979cb358705b81f5bdc00f0",
+  "displayName": "TheOldMarket",
+  "type": "TOKEN",
+  "token": {
+    "name": "TheOldMarket",
+    "symbol": "Old",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cc00cca0692b9b34af816e5439cdb47d3b63691",
+  "displayName": "WooshCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WooshCoin",
+    "symbol": "XWO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

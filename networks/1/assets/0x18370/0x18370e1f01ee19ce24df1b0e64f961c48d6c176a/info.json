@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18370e1f01ee19ce24df1b0e64f961c48d6c176a",
+  "displayName": "TVL",
+  "type": "TOKEN",
+  "token": {
+    "name": "TVL",
+    "symbol": "TVL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

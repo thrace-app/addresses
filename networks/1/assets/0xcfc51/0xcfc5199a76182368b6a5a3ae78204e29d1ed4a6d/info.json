@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcfc5199a76182368b6a5a3ae78204e29d1ed4a6d",
+  "displayName": "GXX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GXX Token",
+    "symbol": "GXX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

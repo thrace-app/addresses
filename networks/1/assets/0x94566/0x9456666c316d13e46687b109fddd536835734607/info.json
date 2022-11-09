@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9456666c316d13e46687b109fddd536835734607",
+  "displayName": "Wrapped NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped NFT",
+    "symbol": "WNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

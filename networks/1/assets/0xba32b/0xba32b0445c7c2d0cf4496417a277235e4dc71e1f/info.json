@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba32b0445c7c2d0cf4496417a277235e4dc71e1f",
+  "displayName": "Dresin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dresin Token",
+    "symbol": "Dresin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

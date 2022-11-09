@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23ccc43365d9dd3882eab88f43d515208f832430",
+  "displayName": "MidasProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "MidasProtocol",
+    "symbol": "MAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

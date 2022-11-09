@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13991e8aa26f1cb560d50c5cc23b8df744f2110e",
+  "displayName": "Frank and Beans",
+  "type": "TOKEN",
+  "token": {
+    "name": "Frank and Beans",
+    "symbol": "FRANKBEANS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49c4be97529904093bf33895ac03bef587f02219",
+  "displayName": "SojuToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SojuToken",
+    "symbol": "SOJU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

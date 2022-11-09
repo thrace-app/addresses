@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x212c489b399349be22d5311c9ca3194961853be1",
+  "displayName": "Timmy Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Timmy Inu",
+    "symbol": "TIMMY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

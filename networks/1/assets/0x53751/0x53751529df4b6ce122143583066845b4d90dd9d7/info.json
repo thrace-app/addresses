@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53751529df4b6ce122143583066845b4d90dd9d7",
+  "displayName": "Luna Cake",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luna Cake",
+    "symbol": "LUNACAKE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

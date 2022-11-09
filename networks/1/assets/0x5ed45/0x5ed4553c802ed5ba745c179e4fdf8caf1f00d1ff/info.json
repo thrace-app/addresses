@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ed4553c802ed5ba745c179e4fdf8caf1f00d1ff",
+  "displayName": "Retro Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Retro Doge",
+    "symbol": "RDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

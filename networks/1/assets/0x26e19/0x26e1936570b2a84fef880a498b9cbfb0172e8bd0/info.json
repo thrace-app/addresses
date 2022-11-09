@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26e1936570b2a84fef880a498b9cbfb0172e8bd0",
+  "displayName": "HyperToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "HyperToken",
+    "symbol": "HYPER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

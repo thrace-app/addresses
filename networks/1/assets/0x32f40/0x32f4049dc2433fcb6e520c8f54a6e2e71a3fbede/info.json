@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32f4049dc2433fcb6e520c8f54a6e2e71a3fbede",
+  "displayName": "Rare Kollectibles Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rare Kollectibles Token",
+    "symbol": "RKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

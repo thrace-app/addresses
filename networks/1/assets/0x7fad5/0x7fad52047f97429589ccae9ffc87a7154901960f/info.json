@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fad52047f97429589ccae9ffc87a7154901960f",
+  "displayName": "SafeBitProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeBitProtocol",
+    "symbol": "SAFEBIT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

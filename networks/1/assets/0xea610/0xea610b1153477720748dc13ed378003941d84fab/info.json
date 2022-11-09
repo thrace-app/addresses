@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea610b1153477720748dc13ed378003941d84fab",
+  "displayName": "AlisToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlisToken",
+    "symbol": "ALIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

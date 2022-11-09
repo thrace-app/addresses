@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34da1caf5a4fd2ec884f8cc1b239ba6978d6fcfd",
+  "displayName": "VOGUE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VOGUE Token",
+    "symbol": "VOGUE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

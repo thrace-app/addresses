@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ca9017c054cb24bd6fe9ea54fc3165c65f29983",
+  "displayName": "eAlphaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "eAlphaToken",
+    "symbol": "eALPHA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

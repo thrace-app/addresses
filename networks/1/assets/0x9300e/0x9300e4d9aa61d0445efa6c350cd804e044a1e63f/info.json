@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9300e4d9aa61d0445efa6c350cd804e044a1e63f",
+  "displayName": "EtherTulips",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherTulips",
+    "symbol": "TULIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

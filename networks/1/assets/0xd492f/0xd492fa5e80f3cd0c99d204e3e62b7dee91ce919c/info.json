@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd492fa5e80f3cd0c99d204e3e62b7dee91ce919c",
+  "displayName": "Swapex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swapex Token",
+    "symbol": "SWX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

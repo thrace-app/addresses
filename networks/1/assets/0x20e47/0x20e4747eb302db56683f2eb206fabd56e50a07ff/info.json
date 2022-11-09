@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20e4747eb302db56683f2eb206fabd56e50a07ff",
+  "displayName": "ChainLink DAO v2 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChainLink DAO v2 Token",
+    "symbol": "LINKv2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

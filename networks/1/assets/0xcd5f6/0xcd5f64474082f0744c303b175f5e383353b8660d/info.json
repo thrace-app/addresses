@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd5f64474082f0744c303b175f5e383353b8660d",
+  "displayName": "EthereumGiveaway",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumGiveaway",
+    "symbol": "ETGW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

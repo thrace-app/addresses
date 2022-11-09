@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1abd7aba7d99bbefb33d1dfc66b0dd522335350",
+  "displayName": "EURO Stable Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EURO Stable Token",
+    "symbol": "EURST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

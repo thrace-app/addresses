@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xedb0414627e6f1e3f082de65cd4f9c693d78cca9",
+  "displayName": "Wrapped Mirror TWTR Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Mirror TWTR Token",
+    "symbol": "mTWTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

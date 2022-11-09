@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d3bbf6d0d47799f4fd9687a64686e3288a68651",
+  "displayName": "MGM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MGM Token",
+    "symbol": "MGM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

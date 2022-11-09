@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76691dac313b22ceedbb3f635e909ef09de3c581",
+  "displayName": "AgeOfEther",
+  "type": "TOKEN",
+  "token": {
+    "name": "AgeOfEther",
+    "symbol": "AOE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

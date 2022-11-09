@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa32321af5bdaf3c6feba2da7da1d80f33435b73d",
+  "displayName": "Perpetual ETH/BTC [DAI]",
+  "type": "TOKEN",
+  "token": {
+    "name": "Perpetual ETH/BTC [DAI]",
+    "symbol": "pETHBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

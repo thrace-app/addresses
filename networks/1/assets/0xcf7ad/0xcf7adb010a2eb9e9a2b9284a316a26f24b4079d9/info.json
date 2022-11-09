@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcf7adb010a2eb9e9a2b9284a316a26f24b4079d9",
+  "displayName": "Repay Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Repay Token",
+    "symbol": "REPAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

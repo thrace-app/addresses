@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58ca23f163391ecde8625786643c279968fae4ec",
+  "displayName": "WedgeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WedgeToken",
+    "symbol": "WDG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

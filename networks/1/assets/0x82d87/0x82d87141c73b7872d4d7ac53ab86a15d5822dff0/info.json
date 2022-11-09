@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82d87141c73b7872d4d7ac53ab86a15d5822dff0",
+  "displayName": "LSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "LSD",
+    "symbol": "LSD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

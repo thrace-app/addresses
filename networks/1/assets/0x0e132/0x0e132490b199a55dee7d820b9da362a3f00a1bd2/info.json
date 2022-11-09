@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e132490b199a55dee7d820b9da362a3f00a1bd2",
+  "displayName": "Evil Council",
+  "type": "TOKEN",
+  "token": {
+    "name": "Evil Council",
+    "symbol": "COUNCIL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

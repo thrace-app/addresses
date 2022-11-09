@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb314afd79e685493077da09db17e775cd553db7d",
+  "displayName": "Oracle DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Oracle DAO",
+    "symbol": "ORACLED",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

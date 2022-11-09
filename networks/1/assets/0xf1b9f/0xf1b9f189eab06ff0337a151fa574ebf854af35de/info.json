@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1b9f189eab06ff0337a151fa574ebf854af35de",
+  "displayName": "Black Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Black Ether",
+    "symbol": "Deth",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

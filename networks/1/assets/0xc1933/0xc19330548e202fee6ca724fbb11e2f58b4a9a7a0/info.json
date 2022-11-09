@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc19330548e202fee6ca724fbb11e2f58b4a9a7a0",
+  "displayName": "VoltronToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "VoltronToken",
+    "symbol": "VTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

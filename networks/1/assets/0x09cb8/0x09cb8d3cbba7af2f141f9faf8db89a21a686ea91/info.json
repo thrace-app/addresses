@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09cb8d3cbba7af2f141f9faf8db89a21a686ea91",
+  "displayName": "Foster Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Foster Token",
+    "symbol": "FSTR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

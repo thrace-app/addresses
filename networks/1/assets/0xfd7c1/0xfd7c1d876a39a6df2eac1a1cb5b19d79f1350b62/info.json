@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd7c1d876a39a6df2eac1a1cb5b19d79f1350b62",
+  "displayName": "Initial Public Offering",
+  "type": "TOKEN",
+  "token": {
+    "name": "Initial Public Offering",
+    "symbol": "IPO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

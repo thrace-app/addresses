@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95a1796437bad6502d1c1cce165cd76e522409a9",
+  "displayName": "Official Crypto Cowboy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Official Crypto Cowboy Token",
+    "symbol": "OCCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

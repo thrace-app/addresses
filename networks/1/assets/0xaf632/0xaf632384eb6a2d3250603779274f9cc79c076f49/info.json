@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf632384eb6a2d3250603779274f9cc79c076f49",
+  "displayName": "EUR Luxembourg",
+  "type": "TOKEN",
+  "token": {
+    "name": "EUR Luxembourg",
+    "symbol": "EURLU",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

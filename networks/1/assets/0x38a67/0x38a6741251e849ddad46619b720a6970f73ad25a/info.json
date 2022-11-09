@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38a6741251e849ddad46619b720a6970f73ad25a",
+  "displayName": "TRAMSV1 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TRAMSV1 Token",
+    "symbol": "TRAMSV1",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

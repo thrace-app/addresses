@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13e7e06ed54bbf1ecbe879127862cc747874742d",
+  "displayName": "SwiftMint",
+  "type": "TOKEN",
+  "token": {
+    "name": "SwiftMint",
+    "symbol": "MINT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

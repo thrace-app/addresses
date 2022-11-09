@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb85d7eec59c21b78713277a189f89e68f969221a",
+  "displayName": "RiskedNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "RiskedNFT",
+    "symbol": "RNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

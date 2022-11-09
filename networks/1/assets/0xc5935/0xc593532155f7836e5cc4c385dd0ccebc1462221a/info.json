@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc593532155f7836e5cc4c385dd0ccebc1462221a",
+  "displayName": "Bazillion",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bazillion",
+    "symbol": "BB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

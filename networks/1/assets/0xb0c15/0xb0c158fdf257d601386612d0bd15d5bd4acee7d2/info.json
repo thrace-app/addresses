@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0c158fdf257d601386612d0bd15d5bd4acee7d2",
+  "displayName": "USDT",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

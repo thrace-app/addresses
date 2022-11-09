@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53563dad06c7709a505d5725312d7a966990fc1b",
+  "displayName": "CustyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CustyCoin",
+    "symbol": "CUSTY",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

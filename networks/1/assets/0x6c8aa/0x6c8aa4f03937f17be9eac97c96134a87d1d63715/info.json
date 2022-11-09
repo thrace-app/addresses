@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c8aa4f03937f17be9eac97c96134a87d1d63715",
+  "displayName": "Karin Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Karin Network Token",
+    "symbol": "KARIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

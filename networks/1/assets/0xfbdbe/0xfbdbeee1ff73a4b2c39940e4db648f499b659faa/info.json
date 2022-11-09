@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfbdbeee1ff73a4b2c39940e4db648f499b659faa",
+  "displayName": "BTC CAKE",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTC CAKE",
+    "symbol": "btccake",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

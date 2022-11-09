@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafda752f49e78c1362ba7760cfea04ab96f44010",
+  "displayName": "Becimi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Becimi Token",
+    "symbol": "Becimi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

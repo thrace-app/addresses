@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7d39fcbda2559a1d91eefc75d0994bbccd47cf3",
+  "displayName": "Tubacoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tubacoin",
+    "symbol": "TBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

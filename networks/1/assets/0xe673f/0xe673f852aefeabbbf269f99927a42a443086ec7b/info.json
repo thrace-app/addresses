@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe673f852aefeabbbf269f99927a42a443086ec7b",
+  "displayName": "MoonPig",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonPig",
+    "symbol": "MPIG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

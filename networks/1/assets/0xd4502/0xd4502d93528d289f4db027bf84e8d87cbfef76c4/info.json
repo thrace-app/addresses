@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4502d93528d289f4db027bf84e8d87cbfef76c4",
+  "displayName": "Cheese Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cheese Inu",
+    "symbol": "CINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

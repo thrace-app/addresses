@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30a148d77014be19258b970ca47f302f37e130ac",
+  "displayName": "DestroyAppreciationToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DestroyAppreciationToken",
+    "symbol": "DAPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

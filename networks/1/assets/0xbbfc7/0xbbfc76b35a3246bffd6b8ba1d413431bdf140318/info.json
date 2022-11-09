@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbfc76b35a3246bffd6b8ba1d413431bdf140318",
+  "displayName": "Gala Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gala Doge",
+    "symbol": "GOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

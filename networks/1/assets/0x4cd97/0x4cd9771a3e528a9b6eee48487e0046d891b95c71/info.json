@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cd9771a3e528a9b6eee48487e0046d891b95c71",
+  "displayName": "Action Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Action Coin",
+    "symbol": "ATC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

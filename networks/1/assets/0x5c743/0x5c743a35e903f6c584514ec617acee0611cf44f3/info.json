@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c743a35e903f6c584514ec617acee0611cf44f3",
+  "displayName": "Experty Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Experty Token",
+    "symbol": "EXY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

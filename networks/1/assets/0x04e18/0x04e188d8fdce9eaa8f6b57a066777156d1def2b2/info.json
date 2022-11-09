@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04e188d8fdce9eaa8f6b57a066777156d1def2b2",
+  "displayName": "Proof Of Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof Of Ether",
+    "symbol": "POE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

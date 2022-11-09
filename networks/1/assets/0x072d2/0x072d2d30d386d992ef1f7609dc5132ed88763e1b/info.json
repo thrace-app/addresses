@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x072d2d30d386d992ef1f7609dc5132ed88763e1b",
+  "displayName": "DAO Farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAO Farm",
+    "symbol": "DFARM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

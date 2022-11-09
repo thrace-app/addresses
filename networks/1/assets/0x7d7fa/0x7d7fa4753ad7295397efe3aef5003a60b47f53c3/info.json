@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d7fa4753ad7295397efe3aef5003a60b47f53c3",
+  "displayName": "SPider Monkey",
+  "type": "TOKEN",
+  "token": {
+    "name": "SPider Monkey",
+    "symbol": "MSPIDER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

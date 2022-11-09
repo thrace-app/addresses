@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55d4dfc50d441625b7feb8161e0f7d565b56d5ed",
+  "displayName": "STOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "STOKEN",
+    "symbol": "STKN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

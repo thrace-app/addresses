@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35561fa615d320b0a4511d1d79a223de63394661",
+  "displayName": "CNFT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CNFT Token",
+    "symbol": "CNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f004d3fdd33c1a16647ccf587a56088b831eab2",
+  "displayName": "Challenge Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Challenge Protocol",
+    "symbol": "$CHALLENGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x282eb00ab8c0e1e4396cd58bd0150200a94195c6",
+  "displayName": "Khabib Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Khabib Token",
+    "symbol": "KHABIB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

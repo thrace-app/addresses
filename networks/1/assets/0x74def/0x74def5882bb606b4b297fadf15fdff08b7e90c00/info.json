@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x74def5882bb606b4b297fadf15fdff08b7e90c00",
+  "displayName": "Dwagon Keeper",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dwagon Keeper",
+    "symbol": "DWAGO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

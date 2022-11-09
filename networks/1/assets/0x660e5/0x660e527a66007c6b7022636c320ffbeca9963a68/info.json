@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x660e527a66007c6b7022636c320ffbeca9963a68",
+  "displayName": "$Variable Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "$Variable Token",
+    "symbol": "$VARIABLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2aaf29aea9d354139e58f17a176fed24d7c68c11",
+  "displayName": "CopperMineCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CopperMineCoin",
+    "symbol": "CopperMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

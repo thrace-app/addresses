@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c34eafdbfcc04999e568015c2b6cec89b1a550d",
+  "displayName": "PLOW Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PLOW Token",
+    "symbol": "PLOW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

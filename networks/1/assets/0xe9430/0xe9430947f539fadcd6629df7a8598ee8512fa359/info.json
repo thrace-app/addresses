@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe9430947f539fadcd6629df7a8598ee8512fa359",
+  "displayName": "Shiba Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Burn",
+    "symbol": "SHIBURN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

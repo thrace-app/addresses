@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c6d91436bf19e72395a4e075a6b987d7c246ea8",
+  "displayName": "Sun Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sun Coin",
+    "symbol": "SUN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

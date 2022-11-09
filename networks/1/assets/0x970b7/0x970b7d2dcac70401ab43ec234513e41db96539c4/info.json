@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x970b7d2dcac70401ab43ec234513e41db96539c4",
+  "displayName": "RandomChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "RandomChain",
+    "symbol": "RD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

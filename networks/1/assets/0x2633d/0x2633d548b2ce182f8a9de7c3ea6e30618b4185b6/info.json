@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2633d548b2ce182f8a9de7c3ea6e30618b4185b6",
+  "displayName": "Canadian",
+  "type": "TOKEN",
+  "token": {
+    "name": "Canadian",
+    "symbol": "CAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

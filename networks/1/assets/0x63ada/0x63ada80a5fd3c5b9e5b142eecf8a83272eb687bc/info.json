@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63ada80a5fd3c5b9e5b142eecf8a83272eb687bc",
+  "displayName": "Kodachi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kodachi Token",
+    "symbol": "KDC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

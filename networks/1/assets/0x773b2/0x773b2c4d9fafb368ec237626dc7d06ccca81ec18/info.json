@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x773b2c4d9fafb368ec237626dc7d06ccca81ec18",
+  "displayName": "ERC20-Hacash",
+  "type": "TOKEN",
+  "token": {
+    "name": "ERC20-Hacash",
+    "symbol": "EHAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

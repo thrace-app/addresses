@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4812a17987418b6e53f518034445a758429b1977",
+  "displayName": "RyukToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RyukToken",
+    "symbol": "RYUK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

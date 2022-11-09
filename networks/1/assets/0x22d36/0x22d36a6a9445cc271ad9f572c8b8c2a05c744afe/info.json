@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22d36a6a9445cc271ad9f572c8b8c2a05c744afe",
+  "displayName": "Birdycoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Birdycoin",
+    "symbol": "BDY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

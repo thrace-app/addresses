@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ab62e351c03087727aae8ccd45bf484a8217998",
+  "displayName": "defi.farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "defi.farm",
+    "symbol": "DFARM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

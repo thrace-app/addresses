@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb44ec098d469cdae0acca94cc30beb1e4263ab4b",
+  "displayName": "Strawberries Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Strawberries Finance",
+    "symbol": "SBR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

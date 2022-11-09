@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc61e699b4110ff7107faff16c5e00ccbb4aff45a",
+  "displayName": "Red Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Red Ethereum",
+    "symbol": "RETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

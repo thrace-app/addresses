@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd242d2b6cc6d501df0a2ae0d906f26bdfb31ae2d",
+  "displayName": "SatoshiSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "SatoshiSwap",
+    "symbol": "SSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

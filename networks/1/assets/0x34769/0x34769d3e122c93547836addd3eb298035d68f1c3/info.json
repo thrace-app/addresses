@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34769d3e122c93547836addd3eb298035d68f1c3",
+  "displayName": "NumisMe Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NumisMe Token",
+    "symbol": "NUME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

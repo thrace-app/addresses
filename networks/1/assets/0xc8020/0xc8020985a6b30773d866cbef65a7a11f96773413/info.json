@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8020985a6b30773d866cbef65a7a11f96773413",
+  "displayName": "EnviCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EnviCoin",
+    "symbol": "ENVI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

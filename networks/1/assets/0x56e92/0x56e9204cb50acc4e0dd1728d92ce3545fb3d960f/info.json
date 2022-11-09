@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56e9204cb50acc4e0dd1728d92ce3545fb3d960f",
+  "displayName": "Elon Weed",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Weed",
+    "symbol": "eWeed",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37b7822f6274c5497498d77675a77e6d8e622bfd",
+  "displayName": "MemeCoinCapital",
+  "type": "TOKEN",
+  "token": {
+    "name": "MemeCoinCapital",
+    "symbol": "MCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

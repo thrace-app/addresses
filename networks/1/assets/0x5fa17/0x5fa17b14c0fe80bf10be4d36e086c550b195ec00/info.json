@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5fa17b14c0fe80bf10be4d36e086c550b195ec00",
+  "displayName": "BumpTest",
+  "type": "TOKEN",
+  "token": {
+    "name": "BumpTest",
+    "symbol": "HBUMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c515302aab47d0783ae217829dc6427c72bccba",
+  "displayName": "卢布",
+  "type": "TOKEN",
+  "token": {
+    "name": "卢布",
+    "symbol": "RUB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

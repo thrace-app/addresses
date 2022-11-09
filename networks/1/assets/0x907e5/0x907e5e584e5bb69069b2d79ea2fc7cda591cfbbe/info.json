@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x907e5e584e5bb69069b2d79ea2fc7cda591cfbbe",
+  "displayName": "YellowRoad",
+  "type": "TOKEN",
+  "token": {
+    "name": "YellowRoad",
+    "symbol": "ROAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

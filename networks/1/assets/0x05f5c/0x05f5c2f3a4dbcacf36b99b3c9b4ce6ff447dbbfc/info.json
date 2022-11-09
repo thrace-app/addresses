@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05f5c2f3a4dbcacf36b99b3c9b4ce6ff447dbbfc",
+  "displayName": "STAH Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "STAH Token",
+    "symbol": "STAH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

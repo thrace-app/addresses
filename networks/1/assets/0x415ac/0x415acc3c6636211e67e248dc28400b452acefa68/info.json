@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x415acc3c6636211e67e248dc28400b452acefa68",
+  "displayName": "Wrapped FCT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped FCT",
+    "symbol": "WFCT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

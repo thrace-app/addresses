@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c9f4c87d911613fe9ca58b579f737911aad2d43",
+  "displayName": "Wrapped Matic (Wormhole)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Matic (Wormhole)",
+    "symbol": "WMATIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

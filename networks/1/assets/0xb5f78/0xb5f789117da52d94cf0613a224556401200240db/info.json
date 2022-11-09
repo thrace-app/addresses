@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5f789117da52d94cf0613a224556401200240db",
+  "displayName": "Magic8Ball",
+  "type": "TOKEN",
+  "token": {
+    "name": "Magic8Ball",
+    "symbol": "M8B",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77ccb667299cb5f38422ab79e98fd8c2c6e841f8",
+  "displayName": "Bank of Saitama",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of Saitama",
+    "symbol": "CMSN Bank",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

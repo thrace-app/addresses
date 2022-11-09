@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b2466b332530dcefe285bdd4baab4153465b365",
+  "displayName": "Minting Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Minting Money",
+    "symbol": "$MM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

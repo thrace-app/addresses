@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0da064edef8f42449e2bde26f34db2b759d40f04",
+  "displayName": "Iron Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Iron Shiba",
+    "symbol": "IRONSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

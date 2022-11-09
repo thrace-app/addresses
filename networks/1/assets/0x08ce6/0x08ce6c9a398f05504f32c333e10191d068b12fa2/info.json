@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08ce6c9a398f05504f32c333e10191d068b12fa2",
+  "displayName": "Puff Puff",
+  "type": "TOKEN",
+  "token": {
+    "name": "Puff Puff",
+    "symbol": "PASS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

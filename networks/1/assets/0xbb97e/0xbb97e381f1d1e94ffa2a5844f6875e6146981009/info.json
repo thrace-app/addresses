@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb97e381f1d1e94ffa2a5844f6875e6146981009",
+  "displayName": "WiBX Utility Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WiBX Utility Token",
+    "symbol": "WBX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

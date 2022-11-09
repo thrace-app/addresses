@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b1717dd9e439de3d437c3d4215119b839bf9416",
+  "displayName": "TYFi ToKen",
+  "type": "TOKEN",
+  "token": {
+    "name": "TYFi ToKen",
+    "symbol": "TYFi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

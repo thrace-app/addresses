@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40395044ac3c0c57051906da938b54bd6557f212",
+  "displayName": "MobileGo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MobileGo Token",
+    "symbol": "MGO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

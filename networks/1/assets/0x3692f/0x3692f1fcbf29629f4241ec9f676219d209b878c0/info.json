@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3692f1fcbf29629f4241ec9f676219d209b878c0",
+  "displayName": "GenesisChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "GenesisChain",
+    "symbol": "GENC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

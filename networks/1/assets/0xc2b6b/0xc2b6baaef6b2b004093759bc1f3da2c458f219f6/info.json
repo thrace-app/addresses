@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2b6baaef6b2b004093759bc1f3da2c458f219f6",
+  "displayName": "Hayek Defi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hayek Defi Token",
+    "symbol": "HFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6d118c5bb00007b859e7d2e0ae4cb8703758e95",
+  "displayName": "Conflux",
+  "type": "TOKEN",
+  "token": {
+    "name": "Conflux",
+    "symbol": "CFX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

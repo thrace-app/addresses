@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30e193bd3f52713d5562cf316f35115034525f44",
+  "displayName": "Green Tech Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Tech Coin",
+    "symbol": "GTEC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

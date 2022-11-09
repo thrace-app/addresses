@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b5f89eb59e508917f0cec8134c3f4f1c386f792",
+  "displayName": "KuCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KuCoin",
+    "symbol": "KUCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b1c36e844532fa75fb6c2be2efd148cb0676698",
+  "displayName": "BitcoinRama",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitcoinRama",
+    "symbol": "BTCR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

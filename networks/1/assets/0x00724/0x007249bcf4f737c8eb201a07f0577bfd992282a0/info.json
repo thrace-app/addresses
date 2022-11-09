@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x007249bcf4f737c8eb201a07f0577bfd992282a0",
+  "displayName": "Billion token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Billion token",
+    "symbol": "BBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

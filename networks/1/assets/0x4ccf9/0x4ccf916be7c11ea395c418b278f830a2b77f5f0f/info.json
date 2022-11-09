@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ccf916be7c11ea395c418b278f830a2b77f5f0f",
+  "displayName": "HomoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "HomoToken",
+    "symbol": "HOMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x085f69b3fd19b94f5511ee59fd5049f18172d608",
+  "displayName": "Hamster DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hamster DAO",
+    "symbol": "HAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

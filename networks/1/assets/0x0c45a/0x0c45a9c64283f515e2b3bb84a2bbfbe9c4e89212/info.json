@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c45a9c64283f515e2b3bb84a2bbfbe9c4e89212",
+  "displayName": "Uplift DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uplift DAO Token",
+    "symbol": "UDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbde9dc45403b55654cdc9dc877a428327b196ead",
+  "displayName": "Cartman Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cartman Token",
+    "symbol": "CARTMAN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

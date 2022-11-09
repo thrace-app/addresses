@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x451c2220a761dc5759e5c6d17bd28a568318a26b",
+  "displayName": "KbarToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KbarToken",
+    "symbol": "KBAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

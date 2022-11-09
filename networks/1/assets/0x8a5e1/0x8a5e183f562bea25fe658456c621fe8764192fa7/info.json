@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a5e183f562bea25fe658456c621fe8764192fa7",
+  "displayName": "BennuProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "BennuProtocol",
+    "symbol": "Bennu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa2782fbecb16163bcc1c4351833af1b89133236c",
+  "displayName": "My Camp Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "My Camp Coin",
+    "symbol": "MCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

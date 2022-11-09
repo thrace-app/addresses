@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee6fdb475c76f32ebbbef0817fa99f1f059ba286",
+  "displayName": "BigTiddyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BigTiddyToken",
+    "symbol": "BTT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

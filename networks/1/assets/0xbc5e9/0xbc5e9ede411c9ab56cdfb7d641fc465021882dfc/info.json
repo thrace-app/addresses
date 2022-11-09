@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc5e9ede411c9ab56cdfb7d641fc465021882dfc",
+  "displayName": "BitSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitSwap",
+    "symbol": "BTCS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

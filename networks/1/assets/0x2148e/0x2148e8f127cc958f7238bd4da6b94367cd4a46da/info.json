@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2148e8f127cc958f7238bd4da6b94367cd4a46da",
+  "displayName": "EHR Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EHR Token",
+    "symbol": "EHR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

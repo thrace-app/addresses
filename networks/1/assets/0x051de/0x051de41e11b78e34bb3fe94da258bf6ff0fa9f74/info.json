@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x051de41e11b78e34bb3fe94da258bf6ff0fa9f74",
+  "displayName": "JETB Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JETB Token",
+    "symbol": "JETB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

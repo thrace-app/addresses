@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c0b94efeac33fd001d4fd3aaa497385ad9ecb1a",
+  "displayName": "Mozilla Browser Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mozilla Browser Token",
+    "symbol": "MZL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

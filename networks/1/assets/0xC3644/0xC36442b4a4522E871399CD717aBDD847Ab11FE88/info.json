@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+  "displayName": "Uniswap V3: Positions NFT",
+  "group": "Uniswap V3",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uniswap V3 Positions",
+    "symbol": "UNI-V3-POS",
+    "type": "ERC721"
+  }
+}

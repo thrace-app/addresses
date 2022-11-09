@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5aa562496a59984980db181e581da1729b37dba2",
+  "displayName": "FUNGIBLEBOND",
+  "type": "TOKEN",
+  "token": {
+    "name": "FUNGIBLEBOND",
+    "symbol": "BND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

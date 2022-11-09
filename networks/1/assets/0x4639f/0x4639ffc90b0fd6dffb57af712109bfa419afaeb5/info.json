@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4639ffc90b0fd6dffb57af712109bfa419afaeb5",
+  "displayName": "Concave Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Concave Token",
+    "symbol": "CNV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

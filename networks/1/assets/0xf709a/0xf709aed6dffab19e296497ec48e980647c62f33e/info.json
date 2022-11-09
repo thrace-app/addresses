@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf709aed6dffab19e296497ec48e980647c62f33e",
+  "displayName": "ByteSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "ByteSwap",
+    "symbol": "ByteSwap",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

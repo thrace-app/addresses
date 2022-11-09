@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fdcd7fe38b0f0d2c248c8296c4a29bf024d4d64",
+  "displayName": "CryptoJobster",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoJobster",
+    "symbol": "cryptojobster",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

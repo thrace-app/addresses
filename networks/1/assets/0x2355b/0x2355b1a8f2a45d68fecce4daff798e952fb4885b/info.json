@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2355b1a8f2a45d68fecce4daff798e952fb4885b",
+  "displayName": "PulseSaitamaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PulseSaitamaCoin",
+    "symbol": "PLSS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

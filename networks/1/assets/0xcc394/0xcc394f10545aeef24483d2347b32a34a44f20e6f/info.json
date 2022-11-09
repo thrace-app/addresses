@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc394f10545aeef24483d2347b32a34a44f20e6f",
+  "displayName": "Vault Guardian Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vault Guardian Token",
+    "symbol": "VGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

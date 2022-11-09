@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a72b63108cba590e8ffebbdcaafb785fd759c68",
+  "displayName": "BankOfEtherica",
+  "type": "TOKEN",
+  "token": {
+    "name": "BankOfEtherica",
+    "symbol": "Etherican",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

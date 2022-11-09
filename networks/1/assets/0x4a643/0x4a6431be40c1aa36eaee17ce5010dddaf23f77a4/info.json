@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a6431be40c1aa36eaee17ce5010dddaf23f77a4",
+  "displayName": "PizzaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PizzaToken",
+    "symbol": "PZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

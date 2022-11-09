@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4206bf44a478607a8e456e2c668763f0175982a3",
+  "displayName": "BumbleBee Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BumbleBee Coin",
+    "symbol": "BUMB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

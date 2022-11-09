@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6bc1f3a1ae56231dbb64d3e82e070857eae86045",
+  "displayName": "xensor",
+  "type": "TOKEN",
+  "token": {
+    "name": "xensor",
+    "symbol": "XSR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

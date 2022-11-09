@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1627b87e895bacc22237ebe966cf074c4c732e31",
+  "displayName": "SAD2Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SAD2Token",
+    "symbol": "SAD2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

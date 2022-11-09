@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34cc8427a8191b119b9be2ed5f08e14119046c10",
+  "displayName": "SolExchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "SolExchange",
+    "symbol": "SOLEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

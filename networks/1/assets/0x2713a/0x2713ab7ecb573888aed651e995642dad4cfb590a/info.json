@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2713ab7ecb573888aed651e995642dad4cfb590a",
+  "displayName": "Medi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Medi Token",
+    "symbol": "Medi",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

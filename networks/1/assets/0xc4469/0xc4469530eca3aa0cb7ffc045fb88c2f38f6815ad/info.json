@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4469530eca3aa0cb7ffc045fb88c2f38f6815ad",
+  "displayName": "poap.xyz",
+  "type": "TOKEN",
+  "token": {
+    "name": "poap.xyz",
+    "symbol": "POAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

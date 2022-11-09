@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x60ad870f394207ba930cfba4886ae1ed29516685",
+  "displayName": "ducat.network",
+  "type": "TOKEN",
+  "token": {
+    "name": "ducat.network",
+    "symbol": "DUCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

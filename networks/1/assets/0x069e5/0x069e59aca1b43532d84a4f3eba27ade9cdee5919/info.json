@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x069e59aca1b43532d84a4f3eba27ade9cdee5919",
+  "displayName": "Shiba FTX",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba FTX",
+    "symbol": "SHIBAFTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

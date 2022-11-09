@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x347a29ea126a746c70e1ead570fddf438e66231a",
+  "displayName": "CurrentCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CurrentCoin",
+    "symbol": "CUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

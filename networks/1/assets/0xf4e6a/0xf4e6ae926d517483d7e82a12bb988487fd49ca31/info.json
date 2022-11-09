@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4e6ae926d517483d7e82a12bb988487fd49ca31",
+  "displayName": "OpenSea Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OpenSea Token",
+    "symbol": "OST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

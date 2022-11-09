@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4c4782985134f927be86821f52b073c95b5ffd7",
+  "displayName": "Darth Vader Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Darth Vader Token",
+    "symbol": "VADR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

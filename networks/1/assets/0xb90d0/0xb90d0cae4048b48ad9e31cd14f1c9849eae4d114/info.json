@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb90d0cae4048b48ad9e31cd14f1c9849eae4d114",
+  "displayName": "Zuck Bucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zuck Bucks",
+    "symbol": "Zuck Bucks",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

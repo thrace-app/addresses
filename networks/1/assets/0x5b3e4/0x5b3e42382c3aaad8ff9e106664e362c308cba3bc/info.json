@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b3e42382c3aaad8ff9e106664e362c308cba3bc",
+  "displayName": "The POD Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The POD Governance Token",
+    "symbol": "POD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

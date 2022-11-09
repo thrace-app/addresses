@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95e01aafc27f2c0d9a1aa435bd220e617c2718f0",
+  "displayName": "Hydra Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hydra Token",
+    "symbol": "HYRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

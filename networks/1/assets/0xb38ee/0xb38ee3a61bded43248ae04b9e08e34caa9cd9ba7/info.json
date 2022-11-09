@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb38ee3a61bded43248ae04b9e08e34caa9cd9ba7",
+  "displayName": "MicroValidator",
+  "type": "TOKEN",
+  "token": {
+    "name": "MicroValidator",
+    "symbol": "MICROV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

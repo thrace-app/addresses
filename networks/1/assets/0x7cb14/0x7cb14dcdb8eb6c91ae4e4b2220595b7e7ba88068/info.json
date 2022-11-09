@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7cb14dcdb8eb6c91ae4e4b2220595b7e7ba88068",
+  "displayName": "GMD",
+  "type": "TOKEN",
+  "token": {
+    "name": "GMD",
+    "symbol": "GMD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x057c51fb1d1d7962ebbe7b330d7bb92db932b69e",
+  "displayName": "Unigrab Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unigrab Token",
+    "symbol": "GRAB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

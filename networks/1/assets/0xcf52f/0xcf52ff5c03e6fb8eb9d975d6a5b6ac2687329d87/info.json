@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcf52ff5c03e6fb8eb9d975d6a5b6ac2687329d87",
+  "displayName": "hoge.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "hoge.finance",
+    "symbol": "HOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

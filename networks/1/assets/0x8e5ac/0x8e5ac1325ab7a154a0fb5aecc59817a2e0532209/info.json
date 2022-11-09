@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e5ac1325ab7a154a0fb5aecc59817a2e0532209",
+  "displayName": "Purple coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Purple coin",
+    "symbol": "PURPLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

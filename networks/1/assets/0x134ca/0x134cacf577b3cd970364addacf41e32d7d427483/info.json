@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x134cacf577b3cd970364addacf41e32d7d427483",
+  "displayName": "Earth to Moon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Earth to Moon",
+    "symbol": "ETM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

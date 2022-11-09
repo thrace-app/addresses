@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf123476b9f908216c65292a0f0c232e892467aec",
+  "displayName": "SERGS",
+  "type": "TOKEN",
+  "token": {
+    "name": "SERGS",
+    "symbol": "SERGS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

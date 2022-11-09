@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c948cb2de5c3fec1a095c1a475f5612c5194302",
+  "displayName": "LTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "LTC",
+    "symbol": "LTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

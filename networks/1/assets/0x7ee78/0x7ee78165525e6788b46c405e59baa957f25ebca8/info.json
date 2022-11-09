@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ee78165525e6788b46c405e59baa957f25ebca8",
+  "displayName": "NIS Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "NIS Protocol",
+    "symbol": "NIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

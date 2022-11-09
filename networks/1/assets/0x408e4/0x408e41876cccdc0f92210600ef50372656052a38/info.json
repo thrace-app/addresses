@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+  "displayName": "Republic Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Republic Token",
+    "symbol": "REN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

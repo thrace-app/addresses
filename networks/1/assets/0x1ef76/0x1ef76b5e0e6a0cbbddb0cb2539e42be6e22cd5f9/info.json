@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ef76b5e0e6a0cbbddb0cb2539e42be6e22cd5f9",
+  "displayName": "D1L Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "D1L Token",
+    "symbol": "D1L",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

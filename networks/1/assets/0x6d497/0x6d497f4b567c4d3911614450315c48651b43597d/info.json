@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d497f4b567c4d3911614450315c48651b43597d",
+  "displayName": "EKYToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "EKYToken",
+    "symbol": "EKY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

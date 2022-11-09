@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95e7eb844a1df96fcaf727927c221d5aea8c3941",
+  "displayName": "CoinSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinSwap",
+    "symbol": "CNS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

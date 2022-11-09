@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x793a522915f4f133538a0d39ba6355f81d8097fd",
+  "displayName": "Hype Finance token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hype Finance token",
+    "symbol": "HYPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

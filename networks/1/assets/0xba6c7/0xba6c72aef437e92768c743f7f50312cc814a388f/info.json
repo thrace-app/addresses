@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba6c72aef437e92768c743f7f50312cc814a388f",
+  "displayName": "DumboCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DumboCoin",
+    "symbol": "DUMBO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

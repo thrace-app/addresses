@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10da61e2b17bdf7a9c351d2d7debdcc562db9b2c",
+  "displayName": "SupplyControl",
+  "type": "TOKEN",
+  "token": {
+    "name": "SupplyControl",
+    "symbol": "SUP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

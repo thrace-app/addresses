@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac5e2ff1c025cb31136ad50f6215d333259287f8",
+  "displayName": "Coke In The Cola",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coke In The Cola",
+    "symbol": "CokeACola",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

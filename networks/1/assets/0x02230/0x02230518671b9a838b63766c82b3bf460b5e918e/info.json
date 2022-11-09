@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02230518671b9a838b63766c82b3bf460b5e918e",
+  "displayName": "MTGOX",
+  "type": "TOKEN",
+  "token": {
+    "name": "MTGOX",
+    "symbol": "SHIBUYA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

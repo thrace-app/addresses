@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05c02f3b97dcd46e27d85847131fdcc3eae80110",
+  "displayName": "Battle NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Battle NFT",
+    "symbol": "BTNFT",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

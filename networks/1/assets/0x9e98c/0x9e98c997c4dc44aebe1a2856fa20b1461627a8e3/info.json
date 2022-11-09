@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e98c997c4dc44aebe1a2856fa20b1461627a8e3",
+  "displayName": "Whale Pool",
+  "type": "TOKEN",
+  "token": {
+    "name": "Whale Pool",
+    "symbol": "WHALEPOOL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

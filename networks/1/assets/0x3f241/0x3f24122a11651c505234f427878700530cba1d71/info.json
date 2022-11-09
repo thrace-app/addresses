@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f24122a11651c505234f427878700530cba1d71",
+  "displayName": "Gmit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gmit Token",
+    "symbol": "GMIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

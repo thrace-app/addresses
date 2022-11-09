@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0da6ae3d9211a146e379ec2755f8248cfe20579",
+  "displayName": "GUD Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GUD Coin",
+    "symbol": "GUD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

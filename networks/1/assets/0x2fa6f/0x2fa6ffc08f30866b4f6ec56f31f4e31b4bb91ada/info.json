@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2fa6ffc08f30866b4f6ec56f31f4e31b4bb91ada",
+  "displayName": "BTC 2x Flexible Leverage Index",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTC 2x Flexible Leverage Index",
+    "symbol": "BTC2x-FLI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b363f4e0f80be9c23c7d381db0bf9425ab46b0b",
+  "displayName": "PS5 Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PS5 Network Token",
+    "symbol": "PS5",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

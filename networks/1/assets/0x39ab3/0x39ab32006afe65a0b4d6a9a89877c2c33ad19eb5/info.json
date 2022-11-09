@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39ab32006afe65a0b4d6a9a89877c2c33ad19eb5",
+  "displayName": "CTether USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "CTether USD",
+    "symbol": "CUSDT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96bfe646b506635c277e84afbe07d7195f90766a",
+  "displayName": "Curve",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve",
+    "symbol": "CRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

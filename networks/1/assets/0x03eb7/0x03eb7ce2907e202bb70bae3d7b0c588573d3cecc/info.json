@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03eb7ce2907e202bb70bae3d7b0c588573d3cecc",
+  "displayName": "Minimal USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Minimal USD",
+    "symbol": "USM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95da4334f9bf03993d068e36bfdfbbb8f61b21d3",
+  "displayName": "CashCows",
+  "type": "TOKEN",
+  "token": {
+    "name": "CashCows",
+    "symbol": "CASHCOW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

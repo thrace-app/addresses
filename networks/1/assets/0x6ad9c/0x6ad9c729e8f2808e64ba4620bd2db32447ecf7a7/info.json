@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ad9c729e8f2808e64ba4620bd2db32447ecf7a7",
+  "displayName": "Crypt Wallet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypt Wallet Token",
+    "symbol": "CWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

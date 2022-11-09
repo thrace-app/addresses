@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf108c506ae3b9b44c27e07bf9d6e5ceefbf6ceb7",
+  "displayName": "Bitcoin On Steroids",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin On Steroids",
+    "symbol": "BOS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

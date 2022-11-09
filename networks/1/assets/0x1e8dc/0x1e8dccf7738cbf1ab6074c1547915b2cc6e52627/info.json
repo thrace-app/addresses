@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e8dccf7738cbf1ab6074c1547915b2cc6e52627",
+  "displayName": "Ethereum Smart Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Smart Chain",
+    "symbol": "ESC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

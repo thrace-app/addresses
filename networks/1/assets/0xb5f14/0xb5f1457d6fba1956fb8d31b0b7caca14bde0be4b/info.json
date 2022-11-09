@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5f1457d6fba1956fb8d31b0b7caca14bde0be4b",
+  "displayName": "Stilton",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stilton",
+    "symbol": "STILT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

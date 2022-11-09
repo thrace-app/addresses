@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75ac0403d83ec86ac2201e244aa84818ec70c640",
+  "displayName": "Miss Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Miss Token",
+    "symbol": "MISS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

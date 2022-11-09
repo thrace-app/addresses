@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x078071c5b06f8e10251164d3432b3633551d08c1",
+  "displayName": "Paradise Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Paradise Coin",
+    "symbol": "PARACOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

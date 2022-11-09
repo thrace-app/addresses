@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafaa5676a1cde789e128a06f1da263e99c4fe6c4",
+  "displayName": "Utopia42 Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Utopia42 Coin",
+    "symbol": "UTP42",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

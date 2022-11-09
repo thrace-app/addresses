@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdac95739880f15539811bd919278d43293346000",
+  "displayName": "King of the Jungle",
+  "type": "TOKEN",
+  "token": {
+    "name": "King of the Jungle",
+    "symbol": "KOTJ",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

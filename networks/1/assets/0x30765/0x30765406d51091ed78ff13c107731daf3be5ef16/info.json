@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30765406d51091ed78ff13c107731daf3be5ef16",
+  "displayName": "Premine",
+  "type": "TOKEN",
+  "token": {
+    "name": "Premine",
+    "symbol": "PRE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

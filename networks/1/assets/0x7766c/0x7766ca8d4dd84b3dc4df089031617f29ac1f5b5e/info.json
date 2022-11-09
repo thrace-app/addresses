@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7766ca8d4dd84b3dc4df089031617f29ac1f5b5e",
+  "displayName": "Moonies",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moonies",
+    "symbol": "CMBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

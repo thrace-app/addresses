@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5af08048a6acac94c0ef837d1c33c2849198600a",
+  "displayName": "Meta Mask Swap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meta Mask Swap Token",
+    "symbol": "MSK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

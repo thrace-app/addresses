@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5711557365331020b62b4f73fef211b6bb3caadf",
+  "displayName": "yCash",
+  "type": "TOKEN",
+  "token": {
+    "name": "yCash",
+    "symbol": "yC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

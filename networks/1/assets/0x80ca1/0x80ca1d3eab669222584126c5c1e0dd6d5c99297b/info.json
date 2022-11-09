@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80ca1d3eab669222584126c5c1e0dd6d5c99297b",
+  "displayName": "N9dx Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "N9dx Token",
+    "symbol": "N9dx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

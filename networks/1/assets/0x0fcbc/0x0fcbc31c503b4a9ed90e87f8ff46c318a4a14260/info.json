@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0fcbc31c503b4a9ed90e87f8ff46c318a4a14260",
+  "displayName": "Quantfury Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quantfury Token",
+    "symbol": "QTF",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d84f0c72fcfcbfe6392bdc6cadbbee39804e89f",
+  "displayName": "GemStone",
+  "type": "TOKEN",
+  "token": {
+    "name": "GemStone",
+    "symbol": "GMSTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

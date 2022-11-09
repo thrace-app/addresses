@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa4ec2ae4baa82e637dbbe079742dbe3f27dc423",
+  "displayName": "Mini Million",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini Million",
+    "symbol": "MMM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

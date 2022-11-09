@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+  "displayName": "0x Protocol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "0x Protocol Token",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

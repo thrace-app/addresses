@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40cf7b0aff095452227770d81e1833b08e433725",
+  "displayName": "Wrapped BTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

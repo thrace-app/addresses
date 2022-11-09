@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5dfd746302de207079d714e52989f0264d3a2067",
+  "displayName": "Pumpket Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pumpket Token",
+    "symbol": "PT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

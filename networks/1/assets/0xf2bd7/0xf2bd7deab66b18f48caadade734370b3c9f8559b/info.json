@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2bd7deab66b18f48caadade734370b3c9f8559b",
+  "displayName": "FuKoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FuKoin",
+    "symbol": "FUKU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

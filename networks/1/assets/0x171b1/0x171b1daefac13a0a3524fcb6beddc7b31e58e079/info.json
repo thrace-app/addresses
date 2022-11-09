@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x171b1daefac13a0a3524fcb6beddc7b31e58e079",
+  "displayName": "Freechat Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Freechat Coin",
+    "symbol": "FCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

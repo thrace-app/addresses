@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d52d340a8537aa0de865a0d87f380d6d512d333",
+  "displayName": "Aave AMM USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave AMM USD",
+    "symbol": "aUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

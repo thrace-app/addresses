@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc983137f80cb7c18167ce312c54c86528124cb41",
+  "displayName": "Strange Clock",
+  "type": "TOKEN",
+  "token": {
+    "name": "Strange Clock",
+    "symbol": "WATCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d5d90d7a38f142de156114e5253b870366436e7",
+  "displayName": "Lucky Pig",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucky Pig",
+    "symbol": "LuckyPig",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

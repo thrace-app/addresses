@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+  "displayName": "ETH 2x Flexible Leverage Index",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH 2x Flexible Leverage Index",
+    "symbol": "ETH2x-FLI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51c09e146bfb4fc0acbf65aa152db67764d026da",
+  "displayName": "Raiden",
+  "type": "TOKEN",
+  "token": {
+    "name": "Raiden",
+    "symbol": "RADN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe4e3c8bf04958189d263dcab789283454b47000",
+  "displayName": "Tater Tots",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tater Tots",
+    "symbol": "TTOTS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

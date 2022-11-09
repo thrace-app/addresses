@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7982ddccc41b59a08dabbedd64f9bf61581531a",
+  "displayName": "TokyoDoge Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TokyoDoge Token",
+    "symbol": "TokyoDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

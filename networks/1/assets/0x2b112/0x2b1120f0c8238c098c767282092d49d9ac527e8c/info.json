@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b1120f0c8238c098c767282092d49d9ac527e8c",
+  "displayName": "yswUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "yswUSD",
+    "symbol": "yswUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97fe22e7341a0cd8db6f6c021a24dc8f4dad855f",
+  "displayName": "Synth sGBP",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth sGBP",
+    "symbol": "sGBP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ac22f3f59dd0d25b8f46ae0fa196341a742095b",
+  "displayName": "Coconut Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coconut Coin",
+    "symbol": "COCO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

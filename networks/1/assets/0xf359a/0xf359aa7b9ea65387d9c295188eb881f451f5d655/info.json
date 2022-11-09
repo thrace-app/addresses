@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf359aa7b9ea65387d9c295188eb881f451f5d655",
+  "displayName": "Matic Uniswap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Matic Uniswap Token",
+    "symbol": "MUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

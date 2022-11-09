@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x038e0abc52d18afe3cb8e4629f738fca64c769dd",
+  "displayName": "C2ox Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "C2ox Token",
+    "symbol": "C2ox",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

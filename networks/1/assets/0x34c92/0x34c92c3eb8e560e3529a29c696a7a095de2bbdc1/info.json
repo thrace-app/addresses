@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34c92c3eb8e560e3529a29c696a7a095de2bbdc1",
+  "displayName": "gstoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "gstoken",
+    "symbol": "gs",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56e49737c009111b057a08a7f1cb44036fb86730",
+  "displayName": "Teh Zoo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Teh Zoo",
+    "symbol": "CROW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

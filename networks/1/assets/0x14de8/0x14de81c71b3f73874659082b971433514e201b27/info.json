@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14de81c71b3f73874659082b971433514e201b27",
+  "displayName": "YES KYC Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YES KYC Token",
+    "symbol": "yKYC",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

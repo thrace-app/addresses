@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xefde221f306152971d8e9f181bfe998447975810",
+  "displayName": "Curve.fi ETH/wstETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve.fi ETH/wstETH",
+    "symbol": "wstETHCRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

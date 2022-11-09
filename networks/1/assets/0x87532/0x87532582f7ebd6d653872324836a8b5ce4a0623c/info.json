@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87532582f7ebd6d653872324836a8b5ce4a0623c",
+  "displayName": "Samot Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Samot Token",
+    "symbol": "SAMOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

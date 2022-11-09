@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2eb4861d1a049f3ad7284204e788446bcc543b9f",
+  "displayName": "Portal IOU",
+  "type": "TOKEN",
+  "token": {
+    "name": "Portal IOU",
+    "symbol": "PRTL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

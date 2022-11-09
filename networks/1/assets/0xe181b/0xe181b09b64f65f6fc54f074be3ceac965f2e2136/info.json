@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe181b09b64f65f6fc54f074be3ceac965f2e2136",
+  "displayName": "SemperFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "SemperFi",
+    "symbol": "SmFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

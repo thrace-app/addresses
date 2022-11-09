@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a62870fad211d6940301161f5ee5566724c770e",
+  "displayName": "HSDRTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "HSDRTOKEN",
+    "symbol": "HSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

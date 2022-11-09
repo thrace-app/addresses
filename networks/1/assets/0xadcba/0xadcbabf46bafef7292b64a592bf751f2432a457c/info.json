@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xadcbabf46bafef7292b64a592bf751f2432a457c",
+  "displayName": "Dragon Farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dragon Farm",
+    "symbol": "DRAGON",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

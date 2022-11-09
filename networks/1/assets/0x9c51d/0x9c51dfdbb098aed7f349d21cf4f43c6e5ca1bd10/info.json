@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c51dfdbb098aed7f349d21cf4f43c6e5ca1bd10",
+  "displayName": "Panda Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Panda Token",
+    "symbol": "PANDA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

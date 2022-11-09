@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3890ea7c3c4a876dd360383ecde9d01d4fa7d74a",
+  "displayName": "Steph Hoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Steph Hoge",
+    "symbol": "Steph",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

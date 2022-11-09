@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd4541bb9845b1b7aa063386f3149919b11a899c",
+  "displayName": "SuperCore Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperCore Token",
+    "symbol": "SuperCore",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

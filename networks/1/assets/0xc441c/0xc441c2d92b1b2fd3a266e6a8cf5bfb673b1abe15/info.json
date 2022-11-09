@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc441c2d92b1b2fd3a266e6a8cf5bfb673b1abe15",
+  "displayName": "Cheese Cake",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cheese Cake",
+    "symbol": "CheeseCake",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

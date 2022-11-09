@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16cf36d2724e29cdcc55032862078bf4cff5f2c8",
+  "displayName": "MCC",
+  "type": "TOKEN",
+  "token": {
+    "name": "MCC",
+    "symbol": "MultiChainCapital",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

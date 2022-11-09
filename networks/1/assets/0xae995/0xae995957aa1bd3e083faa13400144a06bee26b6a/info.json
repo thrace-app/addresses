@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae995957aa1bd3e083faa13400144a06bee26b6a",
+  "displayName": "London Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "London Protocol",
+    "symbol": "$LONDON",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

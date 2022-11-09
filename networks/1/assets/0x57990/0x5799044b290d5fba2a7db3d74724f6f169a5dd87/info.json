@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5799044b290d5fba2a7db3d74724f6f169a5dd87",
+  "displayName": "ShibaLend",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShibaLend",
+    "symbol": "SHIBLEND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

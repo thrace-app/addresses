@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cfe597e2922790353a093a1de4f6b47a4bb3f44",
+  "displayName": "XENC Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XENC Token",
+    "symbol": "XENC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f4503949e7512d4c709633363e3b2330f265c8c",
+  "displayName": "Pompa Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pompa Coin",
+    "symbol": "$POMPA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

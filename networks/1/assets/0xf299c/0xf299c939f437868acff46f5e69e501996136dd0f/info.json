@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf299c939f437868acff46f5e69e501996136dd0f",
+  "displayName": "Ryo Hoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ryo Hoshi",
+    "symbol": "Hoshi",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

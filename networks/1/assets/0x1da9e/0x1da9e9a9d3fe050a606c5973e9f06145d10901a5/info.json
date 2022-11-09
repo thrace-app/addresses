@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1da9e9a9d3fe050a606c5973e9f06145d10901a5",
+  "displayName": "Akita Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Akita Token",
+    "symbol": "AKITA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7269a10e85d4aa8282529516cf86847748da2bf",
+  "displayName": "Candela Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Candela Coin",
+    "symbol": "CLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ceb0a40a828ac1bb2593302ababbfb50c5eccdf",
+  "displayName": "Trolls Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trolls Token",
+    "symbol": "TROLLS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

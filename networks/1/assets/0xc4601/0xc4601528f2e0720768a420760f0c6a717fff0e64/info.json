@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4601528f2e0720768a420760f0c6a717fff0e64",
+  "displayName": "OpenSea NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "OpenSea NFT",
+    "symbol": "OSEA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00e25f0fd5d6a36c252398ca14f3f29128cf5bf9",
+  "displayName": "Kwikswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kwikswap",
+    "symbol": "KWIK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

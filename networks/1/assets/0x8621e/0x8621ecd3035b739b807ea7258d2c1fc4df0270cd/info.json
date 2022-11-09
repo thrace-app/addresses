@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8621ecd3035b739b807ea7258d2c1fc4df0270cd",
+  "displayName": "FuDefi",
+  "type": "TOKEN",
+  "token": {
+    "name": "FuDefi",
+    "symbol": "FUTU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

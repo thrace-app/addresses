@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77f6fd7ff52e2b1b03e83863bc727cf444972fcf",
+  "displayName": "Strange Alarm",
+  "type": "TOKEN",
+  "token": {
+    "name": "Strange Alarm",
+    "symbol": "TIMER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

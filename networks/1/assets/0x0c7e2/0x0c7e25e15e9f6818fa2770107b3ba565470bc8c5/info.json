@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c7e25e15e9f6818fa2770107b3ba565470bc8c5",
+  "displayName": "Decentralized Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Decentralized Bitcoin",
+    "symbol": "DBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

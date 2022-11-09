@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32a087d5fdf8c84ec32554c56727a7c81124544e",
+  "displayName": "Movement DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Movement DAO Token",
+    "symbol": "MDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

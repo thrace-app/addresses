@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf32604197bc0902cfa6e1a99626dcd0a3020676b",
+  "displayName": "UpEx Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UpEx Token",
+    "symbol": "UpEx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

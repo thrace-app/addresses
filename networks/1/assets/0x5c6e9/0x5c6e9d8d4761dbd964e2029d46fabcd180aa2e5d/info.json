@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c6e9d8d4761dbd964e2029d46fabcd180aa2e5d",
+  "displayName": "Zombie Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zombie Cat",
+    "symbol": "ZCAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

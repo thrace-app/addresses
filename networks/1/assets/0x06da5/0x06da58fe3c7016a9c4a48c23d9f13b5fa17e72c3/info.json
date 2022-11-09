@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06da58fe3c7016a9c4a48c23d9f13b5fa17e72c3",
+  "displayName": "WanKoKoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WanKoKoToken",
+    "symbol": "WKK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

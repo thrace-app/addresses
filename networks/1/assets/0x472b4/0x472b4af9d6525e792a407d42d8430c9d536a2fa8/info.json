@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x472b4af9d6525e792a407d42d8430c9d536a2fa8",
+  "displayName": "ReduceAppreciationToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ReduceAppreciationToken",
+    "symbol": "RAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

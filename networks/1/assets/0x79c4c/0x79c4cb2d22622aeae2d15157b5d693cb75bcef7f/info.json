@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79c4cb2d22622aeae2d15157b5d693cb75bcef7f",
+  "displayName": "The Golden Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Golden Cat",
+    "symbol": "CAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

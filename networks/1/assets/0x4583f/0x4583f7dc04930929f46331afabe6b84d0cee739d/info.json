@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4583f7dc04930929f46331afabe6b84d0cee739d",
+  "displayName": "Locker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Locker",
+    "symbol": "LOCKER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

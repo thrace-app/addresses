@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa554fcb206ec3918fd825876ab2325805aba1333",
+  "displayName": "Dark Matter Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dark Matter Token",
+    "symbol": "DMT",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

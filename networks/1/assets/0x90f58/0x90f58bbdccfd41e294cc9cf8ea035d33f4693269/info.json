@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90f58bbdccfd41e294cc9cf8ea035d33f4693269",
+  "displayName": "Ren Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ren Swap",
+    "symbol": "RSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

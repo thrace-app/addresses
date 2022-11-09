@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84e8fe0cc5f3b4bc8ee03229b59ac4275f728342",
+  "displayName": "Memecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Memecoin",
+    "symbol": "MEMEZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

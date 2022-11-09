@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x395c8db957d743a62ac3aaaa4574553bcf2380b3",
+  "displayName": "ulock.eth Wrapped Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "ulock.eth Wrapped Ether",
+    "symbol": "UETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

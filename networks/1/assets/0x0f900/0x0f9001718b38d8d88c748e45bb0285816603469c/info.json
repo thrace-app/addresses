@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f9001718b38d8d88c748e45bb0285816603469c",
+  "displayName": "Fester Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fester Token",
+    "symbol": "FST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

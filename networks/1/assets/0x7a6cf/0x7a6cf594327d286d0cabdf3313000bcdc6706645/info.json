@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a6cf594327d286d0cabdf3313000bcdc6706645",
+  "displayName": "SNPV1Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SNPV1Coin",
+    "symbol": "SNPV1",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

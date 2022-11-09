@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b46e08ebcb40ae1af18611baada236771973fc5",
+  "displayName": "Lucky Panda",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucky Panda",
+    "symbol": "LUCKYP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

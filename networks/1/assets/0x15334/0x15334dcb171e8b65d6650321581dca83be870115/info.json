@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15334dcb171e8b65d6650321581dca83be870115",
+  "displayName": "Wrapped BIND",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped BIND",
+    "symbol": "wBIND",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

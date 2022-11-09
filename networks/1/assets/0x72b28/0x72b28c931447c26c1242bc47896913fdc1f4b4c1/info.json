@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72b28c931447c26c1242bc47896913fdc1f4b4c1",
+  "displayName": "Maneki Neko",
+  "type": "TOKEN",
+  "token": {
+    "name": "Maneki Neko",
+    "symbol": "MANEKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

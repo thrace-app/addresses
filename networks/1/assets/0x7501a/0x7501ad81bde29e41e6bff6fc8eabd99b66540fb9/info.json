@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7501ad81bde29e41e6bff6fc8eabd99b66540fb9",
+  "displayName": "HYB Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HYB Token",
+    "symbol": "HYB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

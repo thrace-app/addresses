@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9010a15184da16e3a7c5b4aa50094dfe3bb36989",
+  "displayName": "EtherWrapped",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherWrapped",
+    "symbol": "YEAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

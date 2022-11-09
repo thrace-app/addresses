@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x31248ad143e765aaa7a31f4a05fd804c82cc235a",
+  "displayName": "MummyInu",
+  "type": "TOKEN",
+  "token": {
+    "name": "MummyInu",
+    "symbol": "MUMMYINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

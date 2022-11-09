@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8adbccfb1e462fad8f6203112aa0c08441a121b",
+  "displayName": "SaladSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "SaladSwap",
+    "symbol": "Salad",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

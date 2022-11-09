@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe2c80f13aa054ade31c8b616db38d80df942dd8",
+  "displayName": "Thaler Test Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Thaler Test Token",
+    "symbol": "TTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27c79b46e2d00f7c52cb833009b34040aaff3763",
+  "displayName": "AuctToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AuctToken",
+    "symbol": "AUCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

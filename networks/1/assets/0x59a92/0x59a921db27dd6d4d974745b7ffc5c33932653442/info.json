@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x59a921db27dd6d4d974745b7ffc5c33932653442",
+  "displayName": "Wrapped Mirror GOOGL Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Mirror GOOGL Token",
+    "symbol": "mGOOGL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x585c2cf94c41b528ec7329cbc3cde3c4f8d268db",
+  "displayName": "STETHDaiRebalancingSetToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "STETHDaiRebalancingSetToken",
+    "symbol": "STETHDai",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

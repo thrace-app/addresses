@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde1cd774a4b53c9c790bcc41758c56c062d7467f",
+  "displayName": "Yatagarasu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yatagarasu",
+    "symbol": "three legged crow",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

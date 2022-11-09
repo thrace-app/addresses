@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57e296c0cb64b00a302f058e89f95c727a731323",
+  "displayName": "BlondiDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlondiDoge",
+    "symbol": "BLONDI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

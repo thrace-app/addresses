@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c9b062e8b0cecf697cbbd5ac8a04bcc89c7063b",
+  "displayName": "FIST Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FIST Token",
+    "symbol": "FIST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

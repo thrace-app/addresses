@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x544f41b3f1632cda95903511b0658b04ee2bace6",
+  "displayName": "Binance Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Binance Swap",
+    "symbol": "BSW",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40c836982788dca47d11024b1fa3e01fd4661766",
+  "displayName": "BTCNEXT token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTCNEXT token",
+    "symbol": "BNX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb86a26edd581b8c2c8135628b9754560d746fcbf",
+  "displayName": "Vampire Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vampire Doge",
+    "symbol": "VAMPDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

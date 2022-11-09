@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1b5651e55d4ceed36251c61c50c889b36f6abb5",
+  "displayName": "Stake DAO CRV",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stake DAO CRV",
+    "symbol": "sdCRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

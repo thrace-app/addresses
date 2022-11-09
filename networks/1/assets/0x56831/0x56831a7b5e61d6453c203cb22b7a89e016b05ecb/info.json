@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56831a7b5e61d6453c203cb22b7a89e016b05ecb",
+  "displayName": "PokeBalls",
+  "type": "TOKEN",
+  "token": {
+    "name": "PokeBalls",
+    "symbol": "BALLS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

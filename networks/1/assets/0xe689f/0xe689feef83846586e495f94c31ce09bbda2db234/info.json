@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe689feef83846586e495f94c31ce09bbda2db234",
+  "displayName": "NFT Yield Farming",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT Yield Farming",
+    "symbol": "NFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

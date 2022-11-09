@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5faf9c616cb0158a42aadfae394c09f141f006fd",
+  "displayName": "RiskDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "RiskDoge",
+    "symbol": "RISKD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

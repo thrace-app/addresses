@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x331ea8b3838ad17645b411c108aca78b150ae350",
+  "displayName": "BurenD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BurenD Token",
+    "symbol": "BUREND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

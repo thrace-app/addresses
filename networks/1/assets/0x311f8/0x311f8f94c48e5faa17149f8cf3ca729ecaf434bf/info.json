@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x311f8f94c48e5faa17149f8cf3ca729ecaf434bf",
+  "displayName": "Stud Muffin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stud Muffin",
+    "symbol": "STUD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

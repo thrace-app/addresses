@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab35435473494203b22e37bab9df9c50bd665200",
+  "displayName": "Sendor",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sendor",
+    "symbol": "Sendor",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

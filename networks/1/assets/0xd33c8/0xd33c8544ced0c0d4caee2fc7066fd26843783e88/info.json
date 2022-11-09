@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd33c8544ced0c0d4caee2fc7066fd26843783e88",
+  "displayName": "Stater",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stater",
+    "symbol": "STR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

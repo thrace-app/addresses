@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d00be75f403a0dac89f635c7d40728efbaf7a11",
+  "displayName": "SNAX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SNAX Token",
+    "symbol": "SNAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

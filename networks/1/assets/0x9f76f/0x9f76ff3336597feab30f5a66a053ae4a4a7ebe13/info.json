@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f76ff3336597feab30f5a66a053ae4a4a7ebe13",
+  "displayName": "Token Play",
+  "type": "TOKEN",
+  "token": {
+    "name": "Token Play",
+    "symbol": "TP3",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

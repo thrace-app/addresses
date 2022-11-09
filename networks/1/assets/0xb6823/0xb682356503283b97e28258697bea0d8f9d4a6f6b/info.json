@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb682356503283b97e28258697bea0d8f9d4a6f6b",
+  "displayName": "A18k Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "A18k Token",
+    "symbol": "A18k",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

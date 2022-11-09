@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4360c56dcb5a549531971433cac8e7d0e68d19e1",
+  "displayName": "SDCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "SDCOIN",
+    "symbol": "SDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

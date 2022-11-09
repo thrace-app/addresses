@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d7ca62f6af49ec66f6680b8606e634e55ef22c1",
+  "displayName": "BSCstarter",
+  "type": "TOKEN",
+  "token": {
+    "name": "BSCstarter",
+    "symbol": "START",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

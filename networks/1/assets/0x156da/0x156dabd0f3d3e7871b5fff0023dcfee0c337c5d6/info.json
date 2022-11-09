@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x156dabd0f3d3e7871b5fff0023dcfee0c337c5d6",
+  "displayName": "Curio Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curio Token",
+    "symbol": "CURIO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

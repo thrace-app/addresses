@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd4996aa3ba8be8cdd96e276da7140993c385caf",
+  "displayName": "Proof of FTX",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of FTX",
+    "symbol": "PoF",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

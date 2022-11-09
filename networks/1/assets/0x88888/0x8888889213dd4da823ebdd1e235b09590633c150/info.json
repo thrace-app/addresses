@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8888889213dd4da823ebdd1e235b09590633c150",
+  "displayName": "Marblecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Marblecoin",
+    "symbol": "MBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

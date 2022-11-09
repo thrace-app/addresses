@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x176aebe4e05531d813b270e338de2d56e8b459b6",
+  "displayName": "Dragon Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dragon Chain",
+    "symbol": "DRAGCHAIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

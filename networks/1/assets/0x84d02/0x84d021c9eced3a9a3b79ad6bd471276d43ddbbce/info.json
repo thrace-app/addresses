@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84d021c9eced3a9a3b79ad6bd471276d43ddbbce",
+  "displayName": "Grapes",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grapes",
+    "symbol": "GRAPES",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

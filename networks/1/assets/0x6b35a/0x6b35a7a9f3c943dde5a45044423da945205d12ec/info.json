@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b35a7a9f3c943dde5a45044423da945205d12ec",
+  "displayName": "The Pledge",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Pledge",
+    "symbol": "OATH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

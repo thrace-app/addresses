@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa55ed1606488c7b13488ba6bc7f063ef628f39f8",
+  "displayName": "Shibamoon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shibamoon Token",
+    "symbol": "SBMoon",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

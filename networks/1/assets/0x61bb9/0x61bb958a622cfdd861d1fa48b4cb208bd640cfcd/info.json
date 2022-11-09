@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61bb958a622cfdd861d1fa48b4cb208bd640cfcd",
+  "displayName": "Butters Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Butters Inu Token",
+    "symbol": "BUTTERS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

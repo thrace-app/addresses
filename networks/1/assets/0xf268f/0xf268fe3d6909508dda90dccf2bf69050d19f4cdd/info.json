@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf268fe3d6909508dda90dccf2bf69050d19f4cdd",
+  "displayName": "Grow Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grow Token",
+    "symbol": "GROW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

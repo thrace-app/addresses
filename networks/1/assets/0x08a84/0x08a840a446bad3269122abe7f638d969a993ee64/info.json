@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08a840a446bad3269122abe7f638d969a993ee64",
+  "displayName": "Clover42 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Clover42 Token",
+    "symbol": "C42",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

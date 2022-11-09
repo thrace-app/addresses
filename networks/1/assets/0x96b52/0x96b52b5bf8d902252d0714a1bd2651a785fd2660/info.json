@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96b52b5bf8d902252d0714a1bd2651a785fd2660",
+  "displayName": "EtherBone",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherBone",
+    "symbol": "ETHBN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

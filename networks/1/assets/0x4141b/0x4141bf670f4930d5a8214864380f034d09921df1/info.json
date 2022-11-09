@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4141bf670f4930d5a8214864380f034d09921df1",
+  "displayName": "FuckElon",
+  "type": "TOKEN",
+  "token": {
+    "name": "FuckElon",
+    "symbol": "FUCKELON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

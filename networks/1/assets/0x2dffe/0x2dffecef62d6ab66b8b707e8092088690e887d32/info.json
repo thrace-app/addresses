@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dffecef62d6ab66b8b707e8092088690e887d32",
+  "displayName": "xDOGE Test",
+  "type": "TOKEN",
+  "token": {
+    "name": "xDOGE Test",
+    "symbol": "xDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

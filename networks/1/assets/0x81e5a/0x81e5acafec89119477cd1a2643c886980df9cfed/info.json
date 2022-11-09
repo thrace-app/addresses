@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81e5acafec89119477cd1a2643c886980df9cfed",
+  "displayName": "Mini Kitty Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini Kitty Inu",
+    "symbol": "MiniKitty",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

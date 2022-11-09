@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6002b1dcb26e7b1aa797a17551c6f487923299d7",
+  "displayName": "TrueFi Tether USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrueFi Tether USD",
+    "symbol": "tfUSDT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

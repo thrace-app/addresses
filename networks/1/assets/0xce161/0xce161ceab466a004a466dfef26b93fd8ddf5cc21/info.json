@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce161ceab466a004a466dfef26b93fd8ddf5cc21",
+  "displayName": "Unique Utility Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unique Utility Token",
+    "symbol": "UNUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

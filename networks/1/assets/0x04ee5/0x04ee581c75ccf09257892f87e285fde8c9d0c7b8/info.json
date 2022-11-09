@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04ee581c75ccf09257892f87e285fde8c9d0c7b8",
+  "displayName": "Zitiral Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zitiral Token",
+    "symbol": "ZTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

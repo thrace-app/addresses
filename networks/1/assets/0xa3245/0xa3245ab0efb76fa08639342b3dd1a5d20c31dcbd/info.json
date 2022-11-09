@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa3245ab0efb76fa08639342b3dd1a5d20c31dcbd",
+  "displayName": "Magic tokens",
+  "type": "TOKEN",
+  "token": {
+    "name": "Magic tokens",
+    "symbol": "MOY ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

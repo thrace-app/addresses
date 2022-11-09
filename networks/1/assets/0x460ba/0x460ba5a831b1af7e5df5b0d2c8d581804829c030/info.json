@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x460ba5a831b1af7e5df5b0d2c8d581804829c030",
+  "displayName": "Donald Duck Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Donald Duck Token",
+    "symbol": "DONALD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

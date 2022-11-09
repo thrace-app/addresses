@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa4052c8866b8ec8b810caf34c5e736f7c6206b7e",
+  "displayName": "FishBaitCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FishBaitCoin",
+    "symbol": "FBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

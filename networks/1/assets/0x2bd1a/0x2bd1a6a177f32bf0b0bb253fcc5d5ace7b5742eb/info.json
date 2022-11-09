@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2bd1a6a177f32bf0b0bb253fcc5d5ace7b5742eb",
+  "displayName": "Lateral Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lateral Token",
+    "symbol": "LAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

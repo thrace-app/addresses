@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7dd3dafe42cd1f4dc641a97f58a8eb129bd5540",
+  "displayName": "SoccerCard",
+  "type": "TOKEN",
+  "token": {
+    "name": "SoccerCard",
+    "symbol": "SOCA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

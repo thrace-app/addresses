@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x747c276c9a714c79a6b9b9ea1a995888cc9e35e4",
+  "displayName": "DAPPTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAPPTOKEN",
+    "symbol": "DAPP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

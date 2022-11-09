@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c5a24f0138856ff507da8700a0efa4a4e600365",
+  "displayName": "NFTmoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFTmoon",
+    "symbol": "MOON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67f1f66d40a8fe3fef5fd213ea2b74b9c528d427",
+  "displayName": "Spring Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spring Coin",
+    "symbol": "SPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa888d9616c2222788fa19f05f77221a290eef704",
+  "displayName": "Daruma",
+  "type": "TOKEN",
+  "token": {
+    "name": "Daruma",
+    "symbol": "Daruma",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

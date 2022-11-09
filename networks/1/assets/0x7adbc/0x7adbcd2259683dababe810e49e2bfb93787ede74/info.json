@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7adbcd2259683dababe810e49e2bfb93787ede74",
+  "displayName": "Flap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flap Token",
+    "symbol": "FLAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

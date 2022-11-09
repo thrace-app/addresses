@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x74ecbe358ea242febe5df52e0b64ccae9e8eb0d1",
+  "displayName": "TRX",
+  "type": "TOKEN",
+  "token": {
+    "name": "TRX",
+    "symbol": "TRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

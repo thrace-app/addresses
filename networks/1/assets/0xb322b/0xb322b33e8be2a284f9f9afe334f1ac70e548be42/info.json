@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb322b33e8be2a284f9f9afe334f1ac70e548be42",
+  "displayName": "Dogila Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dogila Coin",
+    "symbol": "DogilaCoin",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

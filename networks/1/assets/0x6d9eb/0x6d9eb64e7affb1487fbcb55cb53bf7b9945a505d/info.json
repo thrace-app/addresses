@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d9eb64e7affb1487fbcb55cb53bf7b9945a505d",
+  "displayName": "Papi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Papi Token",
+    "symbol": "PAPI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

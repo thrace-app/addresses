@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb394ccef0d1ccb72d671d2991dfb8d33c65201fe",
+  "displayName": "Smash Burger",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smash Burger",
+    "symbol": "SSD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

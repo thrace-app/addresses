@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d70fd0cece354ac4d148ba16628d8695d531a1d",
+  "displayName": "The Tape",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Tape",
+    "symbol": "TAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

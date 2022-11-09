@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70f68c52df113cafc8bd68b6f7c368cdbaf1c6d3",
+  "displayName": "Doping Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doping Token",
+    "symbol": "DOPING",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd20482dea70ca9390b7c29d3461ae5501d216232",
+  "displayName": "Favcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Favcoin",
+    "symbol": "FAV",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23289fde48384e546ae1ef52390a3ca9277c8190",
+  "displayName": "Zoro Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zoro Doge",
+    "symbol": "ZoroDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

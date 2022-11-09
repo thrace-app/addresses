@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7089da49568ad0f3b9b3bf248a6dc3d452335175",
+  "displayName": "TakerDao Airdrop",
+  "type": "TOKEN",
+  "token": {
+    "name": "TakerDao Airdrop",
+    "symbol": "TKR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

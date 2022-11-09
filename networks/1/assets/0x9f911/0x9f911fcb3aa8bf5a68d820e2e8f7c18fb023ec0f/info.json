@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f911fcb3aa8bf5a68d820e2e8f7c18fb023ec0f",
+  "displayName": "Flat Earth Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flat Earth Token",
+    "symbol": "FET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

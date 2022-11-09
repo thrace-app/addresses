@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc377431b4577201adbb73cd816469537b55f51e3",
+  "displayName": "Neko Sphynx",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neko Sphynx",
+    "symbol": "Sphynx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

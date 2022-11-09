@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64a03ce1e52b4e579f0a1cf44cf95c0d7898b5a3",
+  "displayName": "ohDAI 1:1 USDC B",
+  "type": "TOKEN",
+  "token": {
+    "name": "ohDAI 1:1 USDC B",
+    "symbol": "OHDAIUSDC:B",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

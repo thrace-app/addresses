@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cd199da46a5d30d9e9d50cecc5f8563c9294d14",
+  "displayName": "JojoBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "JojoBurn",
+    "symbol": "Burnz",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

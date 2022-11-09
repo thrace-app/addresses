@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8575c7411bd9a3ef378e2cf5bcbf22a7897dcaa",
+  "displayName": "Fair Lunch Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fair Lunch Token",
+    "symbol": "FLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

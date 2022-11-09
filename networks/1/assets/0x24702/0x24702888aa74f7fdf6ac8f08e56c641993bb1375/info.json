@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24702888aa74f7fdf6ac8f08e56c641993bb1375",
+  "displayName": "CateCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CateCoin",
+    "symbol": "CATE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

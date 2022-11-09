@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9afb1a240032ecbbf10de9e242793425d43dd174",
+  "displayName": "Block>Bob",
+  "type": "TOKEN",
+  "token": {
+    "name": "Block>Bob",
+    "symbol": "VITALIK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

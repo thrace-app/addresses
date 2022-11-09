@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5850d0d25f62c357d1e2a684a46d447b900d8b55",
+  "displayName": "Lisk",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lisk",
+    "symbol": "LISK",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

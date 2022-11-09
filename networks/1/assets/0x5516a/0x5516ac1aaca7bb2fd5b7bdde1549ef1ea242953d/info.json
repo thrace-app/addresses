@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5516ac1aaca7bb2fd5b7bdde1549ef1ea242953d",
+  "displayName": "DETF token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DETF token",
+    "symbol": "DETF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

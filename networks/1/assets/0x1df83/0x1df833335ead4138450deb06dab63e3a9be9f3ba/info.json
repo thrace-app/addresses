@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1df833335ead4138450deb06dab63e3a9be9f3ba",
+  "displayName": "GasFarm Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GasFarm Token",
+    "symbol": "GFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

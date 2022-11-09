@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x115b1122c7dd5e18ce5f1cadc7777ec3624ec351",
+  "displayName": "MeowDAO Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MeowDAO Governance Token",
+    "symbol": "MEOW",
+    "decimals": 13,
+    "type": "ERC20"
+  }
+}

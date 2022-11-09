@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12fcd6463e66974cf7bbc24ffc4d40d6be458283",
+  "displayName": "Globitex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Globitex Token",
+    "symbol": "GBX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

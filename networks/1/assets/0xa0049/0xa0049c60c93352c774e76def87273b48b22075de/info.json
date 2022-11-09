@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa0049c60c93352c774e76def87273b48b22075de",
+  "displayName": "ApeMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "ApeMoon",
+    "symbol": "猿の月",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

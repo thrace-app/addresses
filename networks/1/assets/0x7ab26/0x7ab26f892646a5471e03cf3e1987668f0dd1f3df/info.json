@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ab26f892646a5471e03cf3e1987668f0dd1f3df",
+  "displayName": "Chinu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chinu Token",
+    "symbol": "CHINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

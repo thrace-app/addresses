@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2ba9ec910df2ba61567411d4c426a94fa945c6d",
+  "displayName": "HOGE INU",
+  "type": "TOKEN",
+  "token": {
+    "name": "HOGE INU",
+    "symbol": "HOGI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71e9230a083366ca67e87f22417b01d5a51ea36d",
+  "displayName": "Three Monkeys",
+  "type": "TOKEN",
+  "token": {
+    "name": "Three Monkeys",
+    "symbol": "3M",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

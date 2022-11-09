@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde05df7cfc586c39f014db80659b5ea226f2c754",
+  "displayName": "Coin Invest",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coin Invest",
+    "symbol": "COI",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

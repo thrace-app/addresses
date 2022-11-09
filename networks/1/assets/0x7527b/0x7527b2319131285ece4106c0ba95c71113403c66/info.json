@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7527b2319131285ece4106c0ba95c71113403c66",
+  "displayName": "Trust Wallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trust Wallet",
+    "symbol": "TWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

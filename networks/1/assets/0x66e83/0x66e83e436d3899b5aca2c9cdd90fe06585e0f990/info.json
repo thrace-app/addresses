@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66e83e436d3899b5aca2c9cdd90fe06585e0f990",
+  "displayName": "Swiss Shield Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swiss Shield Token",
+    "symbol": "SST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

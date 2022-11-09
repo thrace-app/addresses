@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ae10bc2b40220e399973e9ecd69227a5f378133",
+  "displayName": "Mustang Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mustang Token",
+    "symbol": "MST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

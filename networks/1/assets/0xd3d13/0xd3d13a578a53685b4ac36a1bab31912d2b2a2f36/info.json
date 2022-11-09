@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3d13a578a53685b4ac36a1bab31912d2b2a2f36",
+  "displayName": "TokemakWethPool",
+  "type": "TOKEN",
+  "token": {
+    "name": "TokemakWethPool",
+    "symbol": "tWETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

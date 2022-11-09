@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3dc806abf3a17d2120a192c833ce25e6ba9abedf",
+  "displayName": "Treat Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Treat Coin",
+    "symbol": "TREAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

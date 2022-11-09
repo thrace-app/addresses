@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x592e71c4a3d3a756fe8a9d3e9657b9083b0f4447",
+  "displayName": "ETH Classic",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH Classic",
+    "symbol": "ETHPoW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

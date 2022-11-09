@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e3f23ed6c70601a1db08a961f59f6d269e29ed1",
+  "displayName": "SoSo Defi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SoSo Defi Token",
+    "symbol": "SSDF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

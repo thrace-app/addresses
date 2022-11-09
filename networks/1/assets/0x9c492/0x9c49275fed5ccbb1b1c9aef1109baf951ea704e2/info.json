@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c49275fed5ccbb1b1c9aef1109baf951ea704e2",
+  "displayName": "Heisenberg Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Heisenberg Token",
+    "symbol": "HEISEN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

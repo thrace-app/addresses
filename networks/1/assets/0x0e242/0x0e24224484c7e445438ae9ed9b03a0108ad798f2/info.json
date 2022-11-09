@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e24224484c7e445438ae9ed9b03a0108ad798f2",
+  "displayName": "Chip Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chip Token",
+    "symbol": "CHIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x822dba3d963696ed340782f2456544d42ec0def1",
+  "displayName": "FrogeX",
+  "type": "TOKEN",
+  "token": {
+    "name": "FrogeX",
+    "symbol": "FROGEX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86b4dbe5d203e634a12364c0e428fa242a3fba98",
+  "displayName": "poundtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "poundtoken",
+    "symbol": "GBPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

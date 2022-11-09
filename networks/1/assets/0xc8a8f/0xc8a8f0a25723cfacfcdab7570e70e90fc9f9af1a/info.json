@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8a8f0a25723cfacfcdab7570e70e90fc9f9af1a",
+  "displayName": "Toilet Paper Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Toilet Paper Token",
+    "symbol": "TPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

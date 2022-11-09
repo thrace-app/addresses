@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd510d55710f5963d3bf64c74491a886b4670b611",
+  "displayName": "Orvium Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Orvium Token",
+    "symbol": "ORV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

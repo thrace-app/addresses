@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe75b71b348165f60b5be7f356b42da9b333b2b7",
+  "displayName": "Passive Silver",
+  "type": "TOKEN",
+  "token": {
+    "name": "Passive Silver",
+    "symbol": "PASS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a4b2d4b48a63088e0897a3f147ba37f81a27722",
+  "displayName": "CuraDAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "CuraDAI",
+    "symbol": "CURA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

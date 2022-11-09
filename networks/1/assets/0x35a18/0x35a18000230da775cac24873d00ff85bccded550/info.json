@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35a18000230da775cac24873d00ff85bccded550",
+  "displayName": "Compound Uniswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Compound Uniswap",
+    "symbol": "cUNI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

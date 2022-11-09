@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d943589634e71ff5e2e40bc9f17d94ae5db0359",
+  "displayName": "BitBook",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitBook",
+    "symbol": "BBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

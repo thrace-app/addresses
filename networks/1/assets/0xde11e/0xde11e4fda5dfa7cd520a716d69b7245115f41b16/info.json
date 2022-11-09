@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde11e4fda5dfa7cd520a716d69b7245115f41b16",
+  "displayName": "Something",
+  "type": "TOKEN",
+  "token": {
+    "name": "Something",
+    "symbol": "SMTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

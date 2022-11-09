@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf34ee2ad4d4770de80b885ed5853ac52f4e93c07",
+  "displayName": "Fortune Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fortune Coin",
+    "symbol": "FOC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

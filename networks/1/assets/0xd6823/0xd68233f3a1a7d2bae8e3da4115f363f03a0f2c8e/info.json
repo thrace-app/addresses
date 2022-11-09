@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd68233f3a1a7d2bae8e3da4115f363f03a0f2c8e",
+  "displayName": "Tesla Bug",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tesla Bug",
+    "symbol": "BUG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

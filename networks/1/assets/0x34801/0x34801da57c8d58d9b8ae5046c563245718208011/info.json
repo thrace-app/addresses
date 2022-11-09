@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34801da57c8d58d9b8ae5046c563245718208011",
+  "displayName": "Phoenix Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Phoenix Token",
+    "symbol": "PTK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

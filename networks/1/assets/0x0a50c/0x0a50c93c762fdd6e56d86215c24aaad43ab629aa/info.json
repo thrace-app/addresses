@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a50c93c762fdd6e56d86215c24aaad43ab629aa",
+  "displayName": "LGO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LGO Token",
+    "symbol": "LGO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19e91f071e97ad7b9addeef487d361932dd96a5f",
+  "displayName": "MyBit Token @ MyBit.io",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyBit Token @ MyBit.io",
+    "symbol": "MYB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

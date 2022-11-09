@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2306f4b088bf5f81fef7df6db175db0dfb60f5b9",
+  "displayName": "ApeTools.io Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ApeTools.io Token",
+    "symbol": "APET",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

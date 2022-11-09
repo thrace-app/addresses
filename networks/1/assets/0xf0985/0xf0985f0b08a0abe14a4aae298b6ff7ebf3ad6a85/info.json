@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0985f0b08a0abe14a4aae298b6ff7ebf3ad6a85",
+  "displayName": "Inflation",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inflation",
+    "symbol": "4.75%-5%",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

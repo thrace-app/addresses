@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8826039256ef043a4c08798171639ae12a874401",
+  "displayName": "NativeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NativeCoin",
+    "symbol": "N8V",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

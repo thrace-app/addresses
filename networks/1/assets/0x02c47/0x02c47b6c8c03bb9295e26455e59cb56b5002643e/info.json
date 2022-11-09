@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02c47b6c8c03bb9295e26455e59cb56b5002643e",
+  "displayName": "www.solana.org",
+  "type": "TOKEN",
+  "token": {
+    "name": "www.solana.org",
+    "symbol": "SOLANA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

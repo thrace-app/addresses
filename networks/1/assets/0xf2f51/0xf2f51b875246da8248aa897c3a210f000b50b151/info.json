@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2f51b875246da8248aa897c3a210f000b50b151",
+  "displayName": "BoxcToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BoxcToken",
+    "symbol": "BOXC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

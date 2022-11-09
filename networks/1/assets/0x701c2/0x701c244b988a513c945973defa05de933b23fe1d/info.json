@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x701c244b988a513c945973defa05de933b23fe1d",
+  "displayName": "openANX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "openANX Token",
+    "symbol": "OAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

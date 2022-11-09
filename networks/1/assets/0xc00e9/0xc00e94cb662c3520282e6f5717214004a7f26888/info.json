@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+  "displayName": "Compound",
+  "type": "TOKEN",
+  "token": {
+    "name": "Compound",
+    "symbol": "COMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71771e820a9414b5f415b7f14d51701502c1f753",
+  "displayName": "FrinkCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FrinkCoin",
+    "symbol": "FRINK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

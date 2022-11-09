@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe6b28203dc8be3001f6a11f859dcb2c2cbda5c6c",
+  "displayName": "BYROToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BYROToken",
+    "symbol": "BYRO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

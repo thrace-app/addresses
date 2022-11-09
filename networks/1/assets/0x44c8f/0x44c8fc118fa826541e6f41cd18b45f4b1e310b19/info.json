@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44c8fc118fa826541e6f41cd18b45f4b1e310b19",
+  "displayName": "LyruleToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LyruleToken",
+    "symbol": "LYRULE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaac62c7816bd274dd1587540bdb5bef84e096152",
+  "displayName": "umiDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "umiDAO",
+    "symbol": "UMI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

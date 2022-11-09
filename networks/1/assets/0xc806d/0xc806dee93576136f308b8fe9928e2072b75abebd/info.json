@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc806dee93576136f308b8fe9928e2072b75abebd",
+  "displayName": "KanjiETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "KanjiETH",
+    "symbol": "KANJI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c23bde88fe89dd8d78ce27738c356d2d01d606c",
+  "displayName": "Ripple Stock Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ripple Stock Token",
+    "symbol": "xSTOCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

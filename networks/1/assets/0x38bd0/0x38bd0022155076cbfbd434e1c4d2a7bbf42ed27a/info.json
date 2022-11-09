@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38bd0022155076cbfbd434e1c4d2a7bbf42ed27a",
+  "displayName": "Shimurai Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shimurai Token",
+    "symbol": "Shimurai",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb38dc05fd3b9a04f41c98fab9d200e1a8ae39500",
+  "displayName": "Newton Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Newton Protocol",
+    "symbol": "NEWTON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

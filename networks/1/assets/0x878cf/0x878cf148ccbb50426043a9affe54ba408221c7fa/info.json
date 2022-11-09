@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x878cf148ccbb50426043a9affe54ba408221c7fa",
+  "displayName": "Crypto Kombat Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Kombat Token",
+    "symbol": "KOMBAT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b0cd0771c106adf176460c14b0e4acda1217019",
+  "displayName": "Ariza Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ariza Token",
+    "symbol": "Ariza",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

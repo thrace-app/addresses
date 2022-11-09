@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea7cc765ebc94c4805e3bff28d7e4ae48d06468a",
+  "displayName": "NearPad Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NearPad Token",
+    "symbol": "PAD",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

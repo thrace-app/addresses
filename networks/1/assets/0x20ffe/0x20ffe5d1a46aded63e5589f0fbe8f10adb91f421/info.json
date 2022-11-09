@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20ffe5d1a46aded63e5589f0fbe8f10adb91f421",
+  "displayName": "Staked Shiba Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Staked Shiba Inu",
+    "symbol": "xSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

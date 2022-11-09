@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x851b05357b562cd084dd0cb0b701989461b8b56d",
+  "displayName": "Halo Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Halo Protocol",
+    "symbol": "HALO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

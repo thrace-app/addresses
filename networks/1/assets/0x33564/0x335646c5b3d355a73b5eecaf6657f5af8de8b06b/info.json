@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x335646c5b3d355a73b5eecaf6657f5af8de8b06b",
+  "displayName": "YouTube Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YouTube Token",
+    "symbol": "YTUBE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

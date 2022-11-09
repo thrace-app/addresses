@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f866cae75591809bf6227c4071016e7ca3310dc",
+  "displayName": "Aoshima Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aoshima Token",
+    "symbol": "AoS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

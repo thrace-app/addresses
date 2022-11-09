@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xade79d0ac692f71313b2ea553e5cfee3fc78d32a",
+  "displayName": "Shopper Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shopper Token",
+    "symbol": "SHOPPER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

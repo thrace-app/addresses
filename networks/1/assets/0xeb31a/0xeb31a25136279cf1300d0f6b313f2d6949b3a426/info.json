@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb31a25136279cf1300d0f6b313f2d6949b3a426",
+  "displayName": "LIGHTNING ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "LIGHTNING ETH",
+    "symbol": "LTM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

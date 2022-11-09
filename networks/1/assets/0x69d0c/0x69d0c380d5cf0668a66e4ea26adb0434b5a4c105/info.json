@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69d0c380d5cf0668a66e4ea26adb0434b5a4c105",
+  "displayName": "Concave Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Concave Token",
+    "symbol": "CAVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x081d9a48e3c238cc30b60c5274697dac2040063c",
+  "displayName": "TigerSwap Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "TigerSwap Protocol",
+    "symbol": "TSP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

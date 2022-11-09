@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa2e3132cf93e2197c10cdf2db4ee5a0653f292c0",
+  "displayName": "nano SAITAMA",
+  "type": "TOKEN",
+  "token": {
+    "name": "nano SAITAMA",
+    "symbol": "nanoSAITAMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

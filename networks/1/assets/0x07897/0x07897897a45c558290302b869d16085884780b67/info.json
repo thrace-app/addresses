@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07897897a45c558290302b869d16085884780b67",
+  "displayName": "Hakka Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hakka Finance Token",
+    "symbol": "HAKKA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

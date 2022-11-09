@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27bd4ed9596ed82f0711200404debebdf928d817",
+  "displayName": "DeFine Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFine Protocol",
+    "symbol": "DFNE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

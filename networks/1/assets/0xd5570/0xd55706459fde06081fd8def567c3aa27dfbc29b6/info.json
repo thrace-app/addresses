@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd55706459fde06081fd8def567c3aa27dfbc29b6",
+  "displayName": "Farmer Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Farmer Inu",
+    "symbol": "FARMER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

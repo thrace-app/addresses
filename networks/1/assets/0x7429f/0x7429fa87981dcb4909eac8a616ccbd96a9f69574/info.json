@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7429fa87981dcb4909eac8a616ccbd96a9f69574",
+  "displayName": "Hatsune Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hatsune Inu",
+    "symbol": "HINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

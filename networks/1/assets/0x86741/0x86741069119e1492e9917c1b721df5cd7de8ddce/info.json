@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86741069119e1492e9917c1b721df5cd7de8ddce",
+  "displayName": "Quantum Gold Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quantum Gold Token",
+    "symbol": "QTG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

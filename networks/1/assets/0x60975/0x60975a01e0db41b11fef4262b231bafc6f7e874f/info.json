@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x60975a01e0db41b11fef4262b231bafc6f7e874f",
+  "displayName": "Red Crane",
+  "type": "TOKEN",
+  "token": {
+    "name": "Red Crane",
+    "symbol": "TANCHO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

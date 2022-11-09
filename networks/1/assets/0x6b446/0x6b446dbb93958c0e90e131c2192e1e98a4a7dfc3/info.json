@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b446dbb93958c0e90e131c2192e1e98a4a7dfc3",
+  "displayName": "PoRan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PoRan Token",
+    "symbol": "PoRan",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

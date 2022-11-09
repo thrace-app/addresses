@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ea482f0ad6a3f6848b53218df8865c83a4aad61",
+  "displayName": "National Reserve Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "National Reserve Currency",
+    "symbol": "NRCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

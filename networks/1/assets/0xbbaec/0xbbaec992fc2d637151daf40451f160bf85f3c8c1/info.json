@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbaec992fc2d637151daf40451f160bf85f3c8c1",
+  "displayName": "USD Mapped Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "USD Mapped Token",
+    "symbol": "USDM",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

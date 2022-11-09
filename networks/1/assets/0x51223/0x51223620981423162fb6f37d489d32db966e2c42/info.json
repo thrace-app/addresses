@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51223620981423162fb6f37d489d32db966e2c42",
+  "displayName": "The First Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "The First Inu",
+    "symbol": "TFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

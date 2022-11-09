@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2c5667f69e881c83fc4692f7a08a22370b4cc41",
+  "displayName": "Unicorn Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unicorn Cat",
+    "symbol": "WIMD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

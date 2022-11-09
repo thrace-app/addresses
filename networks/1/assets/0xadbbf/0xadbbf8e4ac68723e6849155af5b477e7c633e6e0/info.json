@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xadbbf8e4ac68723e6849155af5b477e7c633e6e0",
+  "displayName": "ETU Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETU Token",
+    "symbol": "ETU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

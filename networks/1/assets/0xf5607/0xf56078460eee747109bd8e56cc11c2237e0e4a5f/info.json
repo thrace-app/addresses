@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf56078460eee747109bd8e56cc11c2237e0e4a5f",
+  "displayName": "Play Of The Day",
+  "type": "TOKEN",
+  "token": {
+    "name": "Play Of The Day",
+    "symbol": "POTD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

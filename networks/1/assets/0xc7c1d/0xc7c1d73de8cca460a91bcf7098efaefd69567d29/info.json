@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7c1d73de8cca460a91bcf7098efaefd69567d29",
+  "displayName": "XXST Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XXST Token",
+    "symbol": "XXST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

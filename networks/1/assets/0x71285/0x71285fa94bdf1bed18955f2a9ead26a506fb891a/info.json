@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71285fa94bdf1bed18955f2a9ead26a506fb891a",
+  "displayName": "moonbeetoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "moonbeetoken",
+    "symbol": "MBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

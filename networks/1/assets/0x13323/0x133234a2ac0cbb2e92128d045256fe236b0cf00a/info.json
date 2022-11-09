@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x133234a2ac0cbb2e92128d045256fe236b0cf00a",
+  "displayName": "QQ Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "QQ Coin",
+    "symbol": "QQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x679131f591b4f369acb8cd8c51e68596806c3916",
+  "displayName": "Trustlines Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trustlines Network Token",
+    "symbol": "TLN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

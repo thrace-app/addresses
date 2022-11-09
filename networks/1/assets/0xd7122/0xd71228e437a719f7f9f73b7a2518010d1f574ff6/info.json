@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd71228e437a719f7f9f73b7a2518010d1f574ff6",
+  "displayName": "SBX token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SBX token",
+    "symbol": "SBX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

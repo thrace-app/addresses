@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa4f1ba4d42a45aae4946d14bbc9b593f95d81eb2",
+  "displayName": "Reduce burn token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Reduce burn token",
+    "symbol": "RBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe49cdafd04b99651f316f8cbdb38c1e869b5ebaf",
+  "displayName": "DogeCoffee",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogeCoffee",
+    "symbol": "BEANS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

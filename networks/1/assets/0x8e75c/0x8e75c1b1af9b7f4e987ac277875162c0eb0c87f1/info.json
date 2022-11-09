@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e75c1b1af9b7f4e987ac277875162c0eb0c87f1",
+  "displayName": "BitcoinPizza",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitcoinPizza",
+    "symbol": "BPA",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

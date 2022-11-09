@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecfa7620004a9f4582251cab0e0717fe8ead24a7",
+  "displayName": "DRPSA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DRPSA Token",
+    "symbol": "DRPSA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

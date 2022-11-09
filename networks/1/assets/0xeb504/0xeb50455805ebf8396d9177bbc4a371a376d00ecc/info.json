@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb50455805ebf8396d9177bbc4a371a376d00ecc",
+  "displayName": "BSI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BSI Token",
+    "symbol": "BSI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x967ea106144ff482ca13d1ab1f7e3747ff590531",
+  "displayName": "The Other Side Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Other Side Token",
+    "symbol": "MOONZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

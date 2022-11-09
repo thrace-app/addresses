@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68fdd1ae868cc96e797c43fb673b016f76bca061",
+  "displayName": "The Falcon Rocket",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Falcon Rocket",
+    "symbol": "FALCON 9",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

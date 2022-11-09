@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c621c98cbe8fa96de547cd7c482957ed8c9f2bf",
+  "displayName": "Hikru Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hikru Token",
+    "symbol": "Hikru",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

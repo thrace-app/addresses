@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad0ff618270a7c178343a155374888f5ee9a311e",
+  "displayName": "Cake Monster",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cake Monster",
+    "symbol": "cake.monster",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

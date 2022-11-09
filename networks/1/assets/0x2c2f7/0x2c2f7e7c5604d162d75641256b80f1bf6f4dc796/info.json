@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c2f7e7c5604d162d75641256b80f1bf6f4dc796",
+  "displayName": "PolkaRareToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkaRareToken",
+    "symbol": "PRARE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

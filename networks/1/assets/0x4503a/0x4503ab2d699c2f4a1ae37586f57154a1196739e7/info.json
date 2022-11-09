@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4503ab2d699c2f4a1ae37586f57154a1196739e7",
+  "displayName": "Mejicoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mejicoin",
+    "symbol": "MEJ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

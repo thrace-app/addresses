@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7e0f80fb28233bdde0006c50568606a8feb964c",
+  "displayName": "Australian Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Australian Dollar",
+    "symbol": "AUDT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

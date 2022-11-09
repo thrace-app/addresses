@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9da889e9cc65a5286850323ed6b3769129361d0f",
+  "displayName": "AFCA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AFCA Token",
+    "symbol": "AFCA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

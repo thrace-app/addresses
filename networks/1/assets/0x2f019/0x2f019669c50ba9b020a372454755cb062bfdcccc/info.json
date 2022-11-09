@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f019669c50ba9b020a372454755cb062bfdcccc",
+  "displayName": "NeoShiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "NeoShiba",
+    "symbol": "NEOSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

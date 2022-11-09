@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9aa53df7263a73b93ec6a5e2a767ee30da10c304",
+  "displayName": "AUTZ Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AUTZ Token",
+    "symbol": "AUTZ",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

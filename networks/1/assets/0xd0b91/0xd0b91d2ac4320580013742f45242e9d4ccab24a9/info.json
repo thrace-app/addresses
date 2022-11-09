@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0b91d2ac4320580013742f45242e9d4ccab24a9",
+  "displayName": "Fava Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fava Token",
+    "symbol": "FAVA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

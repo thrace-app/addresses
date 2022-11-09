@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9aff6559ab5d87753054ae77694f25cbf606ea83",
+  "displayName": "MuskSafe",
+  "type": "TOKEN",
+  "token": {
+    "name": "MuskSafe",
+    "symbol": "MUSKSAFE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

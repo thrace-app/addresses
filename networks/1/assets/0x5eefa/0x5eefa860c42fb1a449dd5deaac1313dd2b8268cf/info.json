@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5eefa860c42fb1a449dd5deaac1313dd2b8268cf",
+  "displayName": "Shiba Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Protocol",
+    "symbol": "SHIBO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

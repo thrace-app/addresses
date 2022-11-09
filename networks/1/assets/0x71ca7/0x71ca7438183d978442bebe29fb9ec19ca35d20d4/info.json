@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71ca7438183d978442bebe29fb9ec19ca35d20d4",
+  "displayName": "BTFToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTFToken",
+    "symbol": "BTF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

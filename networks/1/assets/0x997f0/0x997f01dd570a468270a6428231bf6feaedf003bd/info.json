@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x997f01dd570a468270a6428231bf6feaedf003bd",
+  "displayName": "Gamestop NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gamestop NFT",
+    "symbol": "GME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

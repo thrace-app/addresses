@@ -7,9 +7,9 @@ import type { Generator } from './generator'
 import { Network } from '../types/network'
 import { NULL_ADDRESS } from '../utils/constants'
 
-const GROUP = 'pancakeswap'
 const STEP = 1000
 const SUBGRAPH_URL = 'https://api.thegraph.com/subgraphs/name/pancakeswap/pairs'
+
 const LP_QUERY = gql`
   query Pairs($first: Int, $lastId: ID) {
     pairs(first: $first, where: { id_gt: $lastId }) {
@@ -115,13 +115,13 @@ export class PancakeSwapResolver implements Generator {
       const currentTokensLength = Object.keys(tokens).length
 
       console.log(
-        `Fetched ${GROUP}: ${response.pairs.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
+        `Fetched PancakeSwap: ${response.pairs.length} (${currentPoolsLength} pools, ${currentTokensLength} tokens) After: ${lastAddress}`
       )
     } while (response.pairs.length > 0)
 
     return {
-      [GROUP]: accounts,
-      tokens: Object.values(tokens),
+      pancakeswap: accounts,
+      erc20: Object.values(tokens),
     }
   }
 }

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc068ae920eb85e4d53cb334c72e04b4fb032dc19",
+  "displayName": "One Time Fee",
+  "type": "TOKEN",
+  "token": {
+    "name": "One Time Fee",
+    "symbol": "$OTF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

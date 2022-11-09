@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbec9b73ef3b7ae82d27563540d9d6c931d00f028",
+  "displayName": "Sango Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sango Coin",
+    "symbol": "SANGO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

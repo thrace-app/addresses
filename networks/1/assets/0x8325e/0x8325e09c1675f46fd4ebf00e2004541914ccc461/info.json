@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8325e09c1675f46fd4ebf00e2004541914ccc461",
+  "displayName": "BearX",
+  "type": "TOKEN",
+  "token": {
+    "name": "BearX",
+    "symbol": "BRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

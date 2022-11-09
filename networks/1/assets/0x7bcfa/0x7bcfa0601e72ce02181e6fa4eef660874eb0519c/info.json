@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7bcfa0601e72ce02181e6fa4eef660874eb0519c",
+  "displayName": "Free Ape Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Free Ape Coin",
+    "symbol": "FAPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

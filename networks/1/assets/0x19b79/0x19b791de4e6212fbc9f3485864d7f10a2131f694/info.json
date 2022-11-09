@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19b791de4e6212fbc9f3485864d7f10a2131f694",
+  "displayName": "Movement",
+  "type": "TOKEN",
+  "token": {
+    "name": "Movement",
+    "symbol": "MVMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

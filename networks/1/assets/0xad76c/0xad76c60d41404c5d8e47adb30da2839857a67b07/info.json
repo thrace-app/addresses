@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad76c60d41404c5d8e47adb30da2839857a67b07",
+  "displayName": "Taper Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Taper Token",
+    "symbol": "TAPER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

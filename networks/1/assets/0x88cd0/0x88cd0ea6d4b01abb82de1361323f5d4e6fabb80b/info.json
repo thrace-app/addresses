@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88cd0ea6d4b01abb82de1361323f5d4e6fabb80b",
+  "displayName": "FIAT",
+  "type": "TOKEN",
+  "token": {
+    "name": "FIAT",
+    "symbol": "FIAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

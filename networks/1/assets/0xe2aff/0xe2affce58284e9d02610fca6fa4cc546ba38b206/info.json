@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe2affce58284e9d02610fca6fa4cc546ba38b206",
+  "displayName": "HappyDigitalTokenGame",
+  "type": "TOKEN",
+  "token": {
+    "name": "HappyDigitalTokenGame",
+    "symbol": "HDTG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

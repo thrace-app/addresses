@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9cb09ed2442782f9028e1adc1798c54655f5af70",
+  "displayName": "Drakey Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Drakey Token",
+    "symbol": "Drakey",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

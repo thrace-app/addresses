@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04b4cf6e310feb89c8172234fed3cf2bac9ac833",
+  "displayName": "Schiff Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Schiff Coin",
+    "symbol": "SCHIFF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

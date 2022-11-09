@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacb025fb9e6ef8128d6ea6d80b7cb9dfce2b1401",
+  "displayName": "pinketh",
+  "type": "TOKEN",
+  "token": {
+    "name": "pinketh",
+    "symbol": "ETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

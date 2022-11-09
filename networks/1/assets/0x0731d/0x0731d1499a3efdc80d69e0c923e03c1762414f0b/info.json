@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0731d1499a3efdc80d69e0c923e03c1762414f0b",
+  "displayName": "Tether Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tether Chain",
+    "symbol": "TC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

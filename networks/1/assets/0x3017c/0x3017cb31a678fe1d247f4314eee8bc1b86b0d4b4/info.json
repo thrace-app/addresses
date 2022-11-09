@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3017cb31a678fe1d247f4314eee8bc1b86b0d4b4",
+  "displayName": "Shell Matrix Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shell Matrix Token",
+    "symbol": "SHELL",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

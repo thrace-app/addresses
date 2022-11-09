@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0f685059ace84b792abf01b111ffc1968e0c8e9",
+  "displayName": "Fantom Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fantom Token",
+    "symbol": "FTM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

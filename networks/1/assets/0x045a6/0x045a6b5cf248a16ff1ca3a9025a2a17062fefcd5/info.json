@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x045a6b5cf248a16ff1ca3a9025a2a17062fefcd5",
+  "displayName": "Y2E Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Y2E Token",
+    "symbol": "Y2E",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

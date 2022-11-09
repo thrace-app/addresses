@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+  "displayName": "Cellframe Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cellframe Token",
+    "symbol": "CELL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

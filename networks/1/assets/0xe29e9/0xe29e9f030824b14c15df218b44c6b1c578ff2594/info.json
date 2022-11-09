@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe29e9f030824b14c15df218b44c6b1c578ff2594",
+  "displayName": "Robux",
+  "type": "TOKEN",
+  "token": {
+    "name": "Robux",
+    "symbol": "RUX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa72158c0bfd7137f879e3f2b0a05c904c5517b24",
+  "displayName": "Blogcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blogcoin",
+    "symbol": "Blog",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x98e82ef523406fdf549a1d0fe0f40ea2bd426cb3",
+  "displayName": "Neuralink Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neuralink Token",
+    "symbol": "NEURALINK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

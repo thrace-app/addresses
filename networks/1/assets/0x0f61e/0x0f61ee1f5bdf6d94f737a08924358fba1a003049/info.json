@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f61ee1f5bdf6d94f737a08924358fba1a003049",
+  "displayName": "hex.bazillion",
+  "type": "TOKEN",
+  "token": {
+    "name": "hex.bazillion",
+    "symbol": "HEXBZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

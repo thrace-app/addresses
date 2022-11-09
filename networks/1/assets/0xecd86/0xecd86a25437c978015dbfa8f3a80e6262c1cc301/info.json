@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecd86a25437c978015dbfa8f3a80e6262c1cc301",
+  "displayName": "Dragon Ball Z Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dragon Ball Z Token",
+    "symbol": "DBZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

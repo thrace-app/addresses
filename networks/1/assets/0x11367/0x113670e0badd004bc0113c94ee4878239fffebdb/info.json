@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x113670e0badd004bc0113c94ee4878239fffebdb",
+  "displayName": "The Real Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Real Doge",
+    "symbol": "TRDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

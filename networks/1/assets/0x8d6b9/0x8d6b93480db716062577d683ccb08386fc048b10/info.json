@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d6b93480db716062577d683ccb08386fc048b10",
+  "displayName": "DogeBridge",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogeBridge",
+    "symbol": "DBRI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

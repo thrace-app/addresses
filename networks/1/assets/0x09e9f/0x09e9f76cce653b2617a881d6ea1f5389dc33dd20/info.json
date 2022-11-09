@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09e9f76cce653b2617a881d6ea1f5389dc33dd20",
+  "displayName": "Elon's Flock",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon's Flock",
+    "symbol": "$EFLOCK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

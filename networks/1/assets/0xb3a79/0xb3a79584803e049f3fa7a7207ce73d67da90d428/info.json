@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3a79584803e049f3fa7a7207ce73d67da90d428",
+  "displayName": "FlukyFortune",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlukyFortune",
+    "symbol": "FKF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

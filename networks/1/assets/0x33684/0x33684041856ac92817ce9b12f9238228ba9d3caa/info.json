@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33684041856ac92817ce9b12f9238228ba9d3caa",
+  "displayName": "Minecraft NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Minecraft NFT",
+    "symbol": "MINE NFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

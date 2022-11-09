@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0a5598335ba21e06a67590ccfba0b4075f2e866",
+  "displayName": "moonswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "moonswap",
+    "symbol": "MOON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

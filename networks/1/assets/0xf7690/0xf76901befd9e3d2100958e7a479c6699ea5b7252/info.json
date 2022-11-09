@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf76901befd9e3d2100958e7a479c6699ea5b7252",
+  "displayName": "Monkiki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monkiki Token",
+    "symbol": "MONKIKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

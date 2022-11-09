@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x395d3191d0f0c7e54d2ba9de4c701c7dcb70a0b1",
+  "displayName": "EcoChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "EcoChain",
+    "symbol": "ECO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

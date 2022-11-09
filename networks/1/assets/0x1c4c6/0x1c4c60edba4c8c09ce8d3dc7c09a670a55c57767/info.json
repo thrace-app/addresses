@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c4c60edba4c8c09ce8d3dc7c09a670a55c57767",
+  "displayName": "ShcherbaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShcherbaCoin",
+    "symbol": "SHCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8192d30dd8c1a0a81b4060be93384adb09006963",
+  "displayName": "Orange Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Orange Coin",
+    "symbol": "ORG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

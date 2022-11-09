@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b8f98191294238f0a158c781e819147e7d8c8cb",
+  "displayName": "Trippy Kitty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trippy Kitty",
+    "symbol": "Trippy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

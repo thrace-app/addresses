@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72f94124efcb928c0599fefc31fc88edfa349abd",
+  "displayName": "Kryonics",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kryonics",
+    "symbol": "$K",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

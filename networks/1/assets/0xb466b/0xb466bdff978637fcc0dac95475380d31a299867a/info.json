@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb466bdff978637fcc0dac95475380d31a299867a",
+  "displayName": "Proof-of-Space",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof-of-Space",
+    "symbol": "ETHPoS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

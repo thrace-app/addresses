@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16101b18354561fbc1536d65307aadaac986a81d",
+  "displayName": "FarmBot",
+  "type": "TOKEN",
+  "token": {
+    "name": "FarmBot",
+    "symbol": "FMBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xffb5481e7ede8dbe8d1e44fd70223df5e98f7762",
+  "displayName": "FermatCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FermatCoin",
+    "symbol": "FMC",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8d46bd643bdb887e2fac723bfae715285c67700",
+  "displayName": "Gas Pump",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gas Pump",
+    "symbol": "GASPUMP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37bb191043ab23c44510a1a4985c1b2a2efbe8ed",
+  "displayName": "FCC Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FCC Token",
+    "symbol": "FCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a1889b3f6ad4ddbd8199b77e5af1b37f3f7f8db",
+  "displayName": "Will Smith Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Will Smith Token",
+    "symbol": "WST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

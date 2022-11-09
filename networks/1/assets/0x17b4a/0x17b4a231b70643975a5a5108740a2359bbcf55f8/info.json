@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17b4a231b70643975a5a5108740a2359bbcf55f8",
+  "displayName": "Polkadomain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polkadomain Token",
+    "symbol": "NAME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

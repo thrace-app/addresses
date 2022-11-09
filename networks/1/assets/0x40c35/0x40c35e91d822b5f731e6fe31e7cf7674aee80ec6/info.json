@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40c35e91d822b5f731e6fe31e7cf7674aee80ec6",
+  "displayName": "PokerStars Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PokerStars Token",
+    "symbol": "PKSR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

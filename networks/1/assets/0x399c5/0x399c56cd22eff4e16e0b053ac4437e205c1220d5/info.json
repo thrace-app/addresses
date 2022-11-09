@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x399c56cd22eff4e16e0b053ac4437e205c1220d5",
+  "displayName": "STEPN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "STEPN Token",
+    "symbol": "STEPN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

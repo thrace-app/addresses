@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa870eff1d40f04d8b00fd95c6e585f6855a5604b",
+  "displayName": "Shiba ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba ETH",
+    "symbol": "SETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

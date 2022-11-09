@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd0e698459ca14e77970c71a3274dec6bdb7c1b4",
+  "displayName": "New Emoji",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Emoji",
+    "symbol": "EMOJI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

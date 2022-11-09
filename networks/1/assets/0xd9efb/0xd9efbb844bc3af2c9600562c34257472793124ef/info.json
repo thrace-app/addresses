@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9efbb844bc3af2c9600562c34257472793124ef",
+  "displayName": "NATSU TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "NATSU TOKEN",
+    "symbol": "NATSU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

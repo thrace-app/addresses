@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86e07bb467e4d7bf3386361df71c3137d02cf8ee",
+  "displayName": "FastSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "FastSwap",
+    "symbol": "FAST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

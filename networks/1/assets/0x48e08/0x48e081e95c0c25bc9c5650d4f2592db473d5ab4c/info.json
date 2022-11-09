@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48e081e95c0c25bc9c5650d4f2592db473d5ab4c",
+  "displayName": "Easy10XToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Easy10XToken",
+    "symbol": "10X",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

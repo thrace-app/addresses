@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed58569d516a5bd37427ebd592a6619c0c581953",
+  "displayName": "Edison",
+  "type": "TOKEN",
+  "token": {
+    "name": "Edison",
+    "symbol": "$EDISON",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

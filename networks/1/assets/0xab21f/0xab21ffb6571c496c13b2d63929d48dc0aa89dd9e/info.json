@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab21ffb6571c496c13b2d63929d48dc0aa89dd9e",
+  "displayName": "Bionic Whale",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bionic Whale",
+    "symbol": "BWHALE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

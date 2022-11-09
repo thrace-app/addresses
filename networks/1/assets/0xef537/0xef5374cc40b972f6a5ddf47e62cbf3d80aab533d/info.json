@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef5374cc40b972f6a5ddf47e62cbf3d80aab533d",
+  "displayName": "Bullockchain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bullockchain",
+    "symbol": "BULLOCKS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

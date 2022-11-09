@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe62b627c280033e87d812b554cdd37606e941214",
+  "displayName": "Baby Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Ethereum",
+    "symbol": "BETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbabf20256218ee651b144e23b00a6a4beaf7e753",
+  "displayName": "Ripple Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ripple Cash",
+    "symbol": "RCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

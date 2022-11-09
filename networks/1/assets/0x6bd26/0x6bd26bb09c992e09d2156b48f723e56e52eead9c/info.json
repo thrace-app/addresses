@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6bd26bb09c992e09d2156b48f723e56e52eead9c",
+  "displayName": "Etheal Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Etheal Token",
+    "symbol": "HEAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

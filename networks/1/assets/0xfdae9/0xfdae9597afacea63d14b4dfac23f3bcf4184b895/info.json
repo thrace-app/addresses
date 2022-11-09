@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfdae9597afacea63d14b4dfac23f3bcf4184b895",
+  "displayName": "CTPL Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CTPL Coin",
+    "symbol": "CTPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

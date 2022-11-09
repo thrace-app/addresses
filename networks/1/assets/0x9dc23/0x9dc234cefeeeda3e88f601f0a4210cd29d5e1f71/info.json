@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9dc234cefeeeda3e88f601f0a4210cd29d5e1f71",
+  "displayName": "Honeyswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Honeyswap",
+    "symbol": "HONEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

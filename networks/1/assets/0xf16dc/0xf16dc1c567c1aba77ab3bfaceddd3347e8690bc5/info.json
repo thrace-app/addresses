@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf16dc1c567c1aba77ab3bfaceddd3347e8690bc5",
+  "displayName": "CYKA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CYKA Token",
+    "symbol": "CYKA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

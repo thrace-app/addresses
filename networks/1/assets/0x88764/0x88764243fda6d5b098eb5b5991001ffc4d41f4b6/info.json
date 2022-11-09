@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88764243fda6d5b098eb5b5991001ffc4d41f4b6",
+  "displayName": "Defi USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Defi USD",
+    "symbol": "DUSD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

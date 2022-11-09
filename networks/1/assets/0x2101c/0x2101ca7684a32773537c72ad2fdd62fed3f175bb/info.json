@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2101ca7684a32773537c72ad2fdd62fed3f175bb",
+  "displayName": "iChain Balancer",
+  "type": "TOKEN",
+  "token": {
+    "name": "iChain Balancer",
+    "symbol": "ICBL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

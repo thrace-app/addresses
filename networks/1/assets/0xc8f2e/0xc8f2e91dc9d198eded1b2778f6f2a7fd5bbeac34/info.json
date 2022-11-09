@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8f2e91dc9d198eded1b2778f6f2a7fd5bbeac34",
+  "displayName": "Inverse.Finance DAI to WBTC Yield Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inverse.Finance DAI to WBTC Yield Token",
+    "symbol": "inDAI->WBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f00f1696218eaefa2d2330df3d6d1f94813b38f",
+  "displayName": "SEDO PoW Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SEDO PoW Token",
+    "symbol": "SEDO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

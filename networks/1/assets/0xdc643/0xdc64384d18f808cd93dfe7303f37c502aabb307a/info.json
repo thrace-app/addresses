@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc64384d18f808cd93dfe7303f37c502aabb307a",
+  "displayName": "Goose Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goose Token",
+    "symbol": "GOOSE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

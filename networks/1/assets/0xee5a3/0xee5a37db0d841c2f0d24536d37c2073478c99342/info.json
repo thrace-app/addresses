@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee5a37db0d841c2f0d24536d37c2073478c99342",
+  "displayName": "Hiro Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hiro Inu",
+    "symbol": "HIRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

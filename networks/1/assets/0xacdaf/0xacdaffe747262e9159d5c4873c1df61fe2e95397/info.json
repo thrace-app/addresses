@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacdaffe747262e9159d5c4873c1df61fe2e95397",
+  "displayName": "Wall Street Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wall Street Coin",
+    "symbol": "WALL",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

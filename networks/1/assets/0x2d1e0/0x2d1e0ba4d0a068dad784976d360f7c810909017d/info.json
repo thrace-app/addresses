@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2d1e0ba4d0a068dad784976d360f7c810909017d",
+  "displayName": "RyuzakiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RyuzakiToken",
+    "symbol": "Ryuzaki",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c081d8ec752c8ca6309149e3ad07747b2576401",
+  "displayName": "Dino Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dino Token",
+    "symbol": "DINO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

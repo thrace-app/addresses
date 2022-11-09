@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9126c64ae1e879f561d866280f943a37ab5f0e41",
+  "displayName": "GershenCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GershenCoin",
+    "symbol": "GERSH",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

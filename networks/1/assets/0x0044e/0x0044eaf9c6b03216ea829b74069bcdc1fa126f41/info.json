@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0044eaf9c6b03216ea829b74069bcdc1fa126f41",
+  "displayName": "avax.network",
+  "type": "TOKEN",
+  "token": {
+    "name": "avax.network",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

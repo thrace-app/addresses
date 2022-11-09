@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda69c4e210c209f2d9b402d1bdbe8998901f865c",
+  "displayName": "Trick or Eth",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trick or Eth",
+    "symbol": "ToE",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

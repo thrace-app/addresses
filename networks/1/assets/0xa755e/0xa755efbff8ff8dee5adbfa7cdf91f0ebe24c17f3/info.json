@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa755efbff8ff8dee5adbfa7cdf91f0ebe24c17f3",
+  "displayName": "Birb",
+  "type": "TOKEN",
+  "token": {
+    "name": "Birb",
+    "symbol": "Birb",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

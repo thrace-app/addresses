@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad331160972ab27471f02f5f54e4aa53444b89b9",
+  "displayName": "Miner Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Miner Protocol",
+    "symbol": "MINER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

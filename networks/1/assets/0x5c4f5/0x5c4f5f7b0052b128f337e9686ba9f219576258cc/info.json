@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c4f5f7b0052b128f337e9686ba9f219576258cc",
+  "displayName": "SafePanda",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafePanda",
+    "symbol": "SPANDA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

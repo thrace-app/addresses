@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaef9daa12ff5ce59f5c5afd7d839cca0df15d658",
+  "displayName": "Weed Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Weed Doge",
+    "symbol": "WOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

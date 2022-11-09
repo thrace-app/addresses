@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc04cf4c50f1f6bc1f06f62f0dc1db260b88449a6",
+  "displayName": "USDT PRINTER",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDT PRINTER",
+    "symbol": "USDTP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

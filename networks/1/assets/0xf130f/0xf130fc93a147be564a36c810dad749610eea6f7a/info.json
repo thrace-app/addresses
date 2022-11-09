@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf130fc93a147be564a36c810dad749610eea6f7a",
+  "displayName": "OxCoin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OxCoin Token",
+    "symbol": "OXC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

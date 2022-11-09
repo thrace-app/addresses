@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf550b4f420bb379bf372daec3b670a8cf58dcbb0",
+  "displayName": "HashPump Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HashPump Token",
+    "symbol": "HASHP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

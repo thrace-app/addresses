@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2234d61c284b8a49b014772d1032940dfc25a2df",
+  "displayName": "Earth INU",
+  "type": "TOKEN",
+  "token": {
+    "name": "Earth INU",
+    "symbol": "Earth",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

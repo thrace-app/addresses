@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d1525095dd25b4ee161269d92a37a8dea46a1fc",
+  "displayName": "Mc Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mc Dollar",
+    "symbol": "MCDOLLAR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

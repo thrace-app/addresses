@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x326480eee945b9960f827474305b2ba93e45e725",
+  "displayName": "GearDexSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "GearDexSwap",
+    "symbol": "GDS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

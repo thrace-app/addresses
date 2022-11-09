@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18006860425dad84d2b185adb65ffcfdaf8c4c03",
+  "displayName": "Drama Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Drama Token",
+    "symbol": "DRMA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

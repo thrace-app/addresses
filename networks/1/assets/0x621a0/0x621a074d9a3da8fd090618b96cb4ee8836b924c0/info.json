@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x621a074d9a3da8fd090618b96cb4ee8836b924c0",
+  "displayName": "Wrapped nDAU",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped nDAU",
+    "symbol": "WNDAU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

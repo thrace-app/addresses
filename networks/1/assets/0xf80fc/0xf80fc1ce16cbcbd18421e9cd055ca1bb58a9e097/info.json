@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf80fc1ce16cbcbd18421e9cd055ca1bb58a9e097",
+  "displayName": "Ethereum Mapped Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Mapped Token",
+    "symbol": "ETHM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03cb620a298fd5687a1e4378e8550ce1d249668c",
+  "displayName": "Meme Shiba Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meme Shiba Money",
+    "symbol": "$MSM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd581905d2a011d578971045c4121ef1fc42e9a81",
+  "displayName": "MadaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MadaCoin",
+    "symbol": "MADC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

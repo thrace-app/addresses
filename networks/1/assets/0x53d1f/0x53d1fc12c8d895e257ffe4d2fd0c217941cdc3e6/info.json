@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53d1fc12c8d895e257ffe4d2fd0c217941cdc3e6",
+  "displayName": "Test Pump",
+  "type": "TOKEN",
+  "token": {
+    "name": "Test Pump",
+    "symbol": "TPUMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

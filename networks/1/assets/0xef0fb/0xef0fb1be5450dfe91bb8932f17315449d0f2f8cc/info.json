@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef0fb1be5450dfe91bb8932f17315449d0f2f8cc",
+  "displayName": "Asta Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Asta Coin",
+    "symbol": "ASTAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

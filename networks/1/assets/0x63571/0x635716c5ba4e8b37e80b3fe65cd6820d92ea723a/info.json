@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x635716c5ba4e8b37e80b3fe65cd6820d92ea723a",
+  "displayName": "John Wick Dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "John Wick Dog",
+    "symbol": "JWDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

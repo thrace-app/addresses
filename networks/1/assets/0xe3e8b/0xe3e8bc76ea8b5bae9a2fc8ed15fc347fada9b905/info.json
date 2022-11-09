@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3e8bc76ea8b5bae9a2fc8ed15fc347fada9b905",
+  "displayName": "DDex",
+  "type": "TOKEN",
+  "token": {
+    "name": "DDex",
+    "symbol": "DD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa08d6e623ceb04d2ea952360f25c6bbf0a939985",
+  "displayName": "SEC Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SEC Coin",
+    "symbol": "SEC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

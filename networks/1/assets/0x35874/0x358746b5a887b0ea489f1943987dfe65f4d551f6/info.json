@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x358746b5a887b0ea489f1943987dfe65f4d551f6",
+  "displayName": "ValveDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "ValveDao",
+    "symbol": "vDao",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

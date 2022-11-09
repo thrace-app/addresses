@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c671642bf1fe7d9c80decae579a095d566668b3",
+  "displayName": "EGLD TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "EGLD TOKEN",
+    "symbol": "EGLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

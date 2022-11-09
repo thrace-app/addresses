@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2238ea9aceb2a1942fba8ca52a6d2c62e81cba6",
+  "displayName": "usseless DeFi token",
+  "type": "TOKEN",
+  "token": {
+    "name": "usseless DeFi token",
+    "symbol": "UDEFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

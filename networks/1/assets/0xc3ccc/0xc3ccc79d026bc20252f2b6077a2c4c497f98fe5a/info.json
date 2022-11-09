@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3ccc79d026bc20252f2b6077a2c4c497f98fe5a",
+  "displayName": "EldenTest",
+  "type": "TOKEN",
+  "token": {
+    "name": "EldenTest",
+    "symbol": "KnightsTest",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

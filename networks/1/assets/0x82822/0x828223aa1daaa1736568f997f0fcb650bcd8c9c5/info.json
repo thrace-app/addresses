@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x828223aa1daaa1736568f997f0fcb650bcd8c9c5",
+  "displayName": "EthereumMoon.org",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumMoon.org",
+    "symbol": "eMoon",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

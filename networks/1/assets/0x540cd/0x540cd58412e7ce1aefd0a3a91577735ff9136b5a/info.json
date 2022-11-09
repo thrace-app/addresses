@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x540cd58412e7ce1aefd0a3a91577735ff9136b5a",
+  "displayName": "MedXProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "MedXProtocol",
+    "symbol": "MEDx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

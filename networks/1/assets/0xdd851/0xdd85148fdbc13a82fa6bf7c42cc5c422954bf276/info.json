@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd85148fdbc13a82fa6bf7c42cc5c422954bf276",
+  "displayName": "Geode Tether USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Geode Tether USD",
+    "symbol": "gUSDT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

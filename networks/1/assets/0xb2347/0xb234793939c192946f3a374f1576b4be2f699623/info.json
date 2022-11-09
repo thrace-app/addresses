@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb234793939c192946f3a374f1576b4be2f699623",
+  "displayName": "lights.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "lights.finance",
+    "symbol": "LIGHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

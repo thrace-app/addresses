@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
+  "displayName": "Tierion Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tierion Network Token",
+    "symbol": "TNT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

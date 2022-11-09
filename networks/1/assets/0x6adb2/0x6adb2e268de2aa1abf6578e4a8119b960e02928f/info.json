@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6adb2e268de2aa1abf6578e4a8119b960e02928f",
+  "displayName": "ShibaDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShibaDoge",
+    "symbol": "ShibDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22fa95745f65c9baf7cbaed9c7dcbda025cad491",
+  "displayName": "Doge Falcon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Falcon",
+    "symbol": "FALCON",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

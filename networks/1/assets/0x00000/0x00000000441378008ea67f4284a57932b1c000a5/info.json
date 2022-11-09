@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00000000441378008ea67f4284a57932b1c000a5",
+  "displayName": "TrueGBP",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrueGBP",
+    "symbol": "TGBP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

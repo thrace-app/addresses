@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f620ec89b8479e97a6985792d0c64f237566746",
+  "displayName": "WePiggy Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WePiggy Coin",
+    "symbol": "WPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

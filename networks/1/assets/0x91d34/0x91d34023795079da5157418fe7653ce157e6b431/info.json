@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x91d34023795079da5157418fe7653ce157e6b431",
+  "displayName": "VeeDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "VeeDao",
+    "symbol": "VEE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

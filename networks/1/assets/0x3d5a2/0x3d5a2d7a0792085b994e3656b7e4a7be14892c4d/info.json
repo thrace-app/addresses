@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d5a2d7a0792085b994e3656b7e4a7be14892c4d",
+  "displayName": "Pay $8",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pay $8",
+    "symbol": "P8",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

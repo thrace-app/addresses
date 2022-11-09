@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd15c4c8cd28a08e43846e3155c01a1f648d8d42",
+  "displayName": "Beach Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Beach Token",
+    "symbol": "BEACH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

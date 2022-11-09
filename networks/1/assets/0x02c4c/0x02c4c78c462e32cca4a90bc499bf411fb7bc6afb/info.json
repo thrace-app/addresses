@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02c4c78c462e32cca4a90bc499bf411fb7bc6afb",
+  "displayName": "InvestDigital Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "InvestDigital Token",
+    "symbol": "IDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

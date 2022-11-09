@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17017a6cfdc5c026d7ea7127e2ea2baa9f77b6ae",
+  "displayName": "Crypto Florin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Florin Token",
+    "symbol": "CFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

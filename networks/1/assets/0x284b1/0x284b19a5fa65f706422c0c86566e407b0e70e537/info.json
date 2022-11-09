@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x284b19a5fa65f706422c0c86566e407b0e70e537",
+  "displayName": "BitAstir Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitAstir Token",
+    "symbol": "BITA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

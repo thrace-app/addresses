@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa2b0fde6d710e201d0d608e924a484d1a5fed57c",
+  "displayName": "Synth sXRP",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth sXRP",
+    "symbol": "sXRP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

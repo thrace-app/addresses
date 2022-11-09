@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76471458dd9bd70cd108d11b44bed52831fece89",
+  "displayName": "mdex.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "mdex.com",
+    "symbol": "MDX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

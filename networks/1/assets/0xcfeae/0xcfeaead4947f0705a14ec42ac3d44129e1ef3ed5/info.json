@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5",
+  "displayName": "Notional",
+  "type": "TOKEN",
+  "token": {
+    "name": "Notional",
+    "symbol": "NOTE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

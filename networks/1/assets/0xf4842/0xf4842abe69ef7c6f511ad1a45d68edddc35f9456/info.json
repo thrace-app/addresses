@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4842abe69ef7c6f511ad1a45d68edddc35f9456",
+  "displayName": "Catter Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Catter Token",
+    "symbol": "CATTER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

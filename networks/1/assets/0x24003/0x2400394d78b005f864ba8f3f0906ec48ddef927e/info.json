@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2400394d78b005f864ba8f3f0906ec48ddef927e",
+  "displayName": "ShibaWorldCup",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShibaWorldCup",
+    "symbol": "ShibCup",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

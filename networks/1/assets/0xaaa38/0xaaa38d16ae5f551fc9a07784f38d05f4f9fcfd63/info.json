@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaaa38d16ae5f551fc9a07784f38d05f4f9fcfd63",
+  "displayName": "Silver Short Squeeze",
+  "type": "TOKEN",
+  "token": {
+    "name": "Silver Short Squeeze",
+    "symbol": "SSS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

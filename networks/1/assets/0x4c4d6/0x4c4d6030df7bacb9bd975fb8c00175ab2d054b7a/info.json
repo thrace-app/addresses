@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c4d6030df7bacb9bd975fb8c00175ab2d054b7a",
+  "displayName": "ParmesanToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ParmesanToken",
+    "symbol": "PARMESAN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

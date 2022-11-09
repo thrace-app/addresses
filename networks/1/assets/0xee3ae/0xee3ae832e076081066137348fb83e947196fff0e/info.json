@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee3ae832e076081066137348fb83e947196fff0e",
+  "displayName": "PolkaLauncher",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkaLauncher",
+    "symbol": "PLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

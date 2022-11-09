@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x364fcd7325c035cc4f2cde8b6c8d7df5e7db6589",
+  "displayName": "Metalk Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Metalk Token",
+    "symbol": "Meta",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

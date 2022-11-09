@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc448512ae969f54801429e6cfe29ad06dfc64198",
+  "displayName": "Saber Hero Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Saber Hero Token",
+    "symbol": "SHT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x738865301a9b7dd80dc3666dd48cf034ec42bdda",
+  "displayName": "Agoras Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Agoras Token",
+    "symbol": "AGRS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42ccc540176458b86bab43408613fbe74225c69d",
+  "displayName": "Mini Dogelon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini Dogelon",
+    "symbol": "miniDOGELON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b581a743d8c74722f8987e3d28087397ca69669",
+  "displayName": "Kanao Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kanao Token",
+    "symbol": "KANAO",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

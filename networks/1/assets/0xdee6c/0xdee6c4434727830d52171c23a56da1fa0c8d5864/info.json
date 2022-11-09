@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdee6c4434727830d52171c23a56da1fa0c8d5864",
+  "displayName": "Twitter Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Twitter Doge",
+    "symbol": "Twoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

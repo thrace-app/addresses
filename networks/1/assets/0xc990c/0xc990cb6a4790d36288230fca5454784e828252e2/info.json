@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc990cb6a4790d36288230fca5454784e828252e2",
+  "displayName": "No Pain No Gain",
+  "type": "TOKEN",
+  "token": {
+    "name": "No Pain No Gain",
+    "symbol": "Pain = Gain",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc402514816513236e1cc7d8566f35aa2ee2e4ca",
+  "displayName": "FuckDeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "FuckDeFi",
+    "symbol": "FUCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

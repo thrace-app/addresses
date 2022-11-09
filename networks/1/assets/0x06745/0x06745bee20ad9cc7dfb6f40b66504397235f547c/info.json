@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06745bee20ad9cc7dfb6f40b66504397235f547c",
+  "displayName": "MetaFactory Pool Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaFactory Pool Token",
+    "symbol": "GEAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

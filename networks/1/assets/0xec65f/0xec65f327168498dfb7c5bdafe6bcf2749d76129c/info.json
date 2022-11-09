@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec65f327168498dfb7c5bdafe6bcf2749d76129c",
+  "displayName": "RF2 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RF2 Token",
+    "symbol": "RF2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

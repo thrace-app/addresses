@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0734e85525ca6838fe48ec6eb29b9d457f254f73",
+  "displayName": "Solid Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Solid Token",
+    "symbol": "SOLID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0edc5ac3da3df2e4643aca1a777ca9eb6656117a",
+  "displayName": "Motoko Kusanagi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Motoko Kusanagi",
+    "symbol": "MOTOKO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61938ce5ada267ddeb0d1be25bc94320320845a6",
+  "displayName": "HDU token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HDU token",
+    "symbol": "HDU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

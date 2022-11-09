@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6999f1e8fd4de16b0425c8344555afea00745346",
+  "displayName": "the fungible token",
+  "type": "TOKEN",
+  "token": {
+    "name": "the fungible token",
+    "symbol": "tft",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

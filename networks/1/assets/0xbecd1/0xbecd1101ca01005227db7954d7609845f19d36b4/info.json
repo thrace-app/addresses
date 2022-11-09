@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbecd1101ca01005227db7954d7609845f19d36b4",
+  "displayName": "Annual Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Annual Coin",
+    "symbol": "ANNC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

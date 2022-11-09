@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5354b33df70758a10b256373f8c5390af4df5afa",
+  "displayName": "ABCD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ABCD Token",
+    "symbol": "ABCD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

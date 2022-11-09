@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2d3babe026c889bdcc5c8da67bb8dad52ef854c9",
+  "displayName": "Nterprise Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nterprise Token",
+    "symbol": "NTER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

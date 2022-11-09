@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6d8213c2b9ee9ac1e0afc808e7e889d7d077cae",
+  "displayName": "TreeDAO Tree Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TreeDAO Tree Token",
+    "symbol": "Trees",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

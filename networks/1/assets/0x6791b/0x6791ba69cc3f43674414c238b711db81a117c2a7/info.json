@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6791ba69cc3f43674414c238b711db81a117c2a7",
+  "displayName": "VAX",
+  "type": "TOKEN",
+  "token": {
+    "name": "VAX",
+    "symbol": "VAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

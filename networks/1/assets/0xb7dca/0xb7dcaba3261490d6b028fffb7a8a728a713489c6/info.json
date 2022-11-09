@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7dcaba3261490d6b028fffb7a8a728a713489c6",
+  "displayName": "Foxcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Foxcoin",
+    "symbol": "FOC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

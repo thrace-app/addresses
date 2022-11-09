@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4e7a6e7f9aa5909036338a3c4cd57319d613190",
+  "displayName": "Wrapped UTN",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped UTN",
+    "symbol": "WUTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe59064a8185ed1fca1d17999621efedfab4425c9",
+  "displayName": "PrimeDAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PrimeDAO Token",
+    "symbol": "PRIME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

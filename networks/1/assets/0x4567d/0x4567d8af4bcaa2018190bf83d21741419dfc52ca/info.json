@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4567d8af4bcaa2018190bf83d21741419dfc52ca",
+  "displayName": "Safu Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safu Inu",
+    "symbol": "SAINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

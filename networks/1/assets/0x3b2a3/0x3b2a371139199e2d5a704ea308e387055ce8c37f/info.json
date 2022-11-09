@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b2a371139199e2d5a704ea308e387055ce8c37f",
+  "displayName": "CornFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "CornFinance",
+    "symbol": "CFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

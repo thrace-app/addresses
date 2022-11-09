@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33d69c017bff36ac9d553a97327fab13b726f249",
+  "displayName": "Urashima Taro",
+  "type": "TOKEN",
+  "token": {
+    "name": "Urashima Taro",
+    "symbol": "SAKANA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

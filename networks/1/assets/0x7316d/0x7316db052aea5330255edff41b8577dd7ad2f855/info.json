@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7316db052aea5330255edff41b8577dd7ad2f855",
+  "displayName": "Scam Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Scam Coin",
+    "symbol": "SCAM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

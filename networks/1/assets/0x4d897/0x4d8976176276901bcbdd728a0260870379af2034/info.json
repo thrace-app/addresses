@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d8976176276901bcbdd728a0260870379af2034",
+  "displayName": "TokenBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "TokenBTC",
+    "symbol": "TKBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb66105cb6a873d8b9a7a19d9c152010eff963ef",
+  "displayName": "Mammas Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mammas Token",
+    "symbol": "MAMMA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

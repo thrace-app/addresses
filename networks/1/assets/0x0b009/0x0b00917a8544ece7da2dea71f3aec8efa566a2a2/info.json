@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b00917a8544ece7da2dea71f3aec8efa566a2a2",
+  "displayName": "Baby Pig Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Pig Coin",
+    "symbol": "BabyPig",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

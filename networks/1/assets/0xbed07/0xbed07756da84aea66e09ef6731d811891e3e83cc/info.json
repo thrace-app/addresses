@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbed07756da84aea66e09ef6731d811891e3e83cc",
+  "displayName": "NFT Candies",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT Candies",
+    "symbol": "NCD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ce96eaeb58595cc804f61fc1b392e0ec1830a53",
+  "displayName": "Predict Doge Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Predict Doge Token",
+    "symbol": "pDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x801ce8a1b74c2cac1bc5c2edf754327478b5c902",
+  "displayName": "SUI",
+  "type": "TOKEN",
+  "token": {
+    "name": "SUI",
+    "symbol": "SUI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

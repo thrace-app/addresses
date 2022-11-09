@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56f02f52fd33b8c1976909228b876fc32aab1344",
+  "displayName": "KongSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "KongSwap",
+    "symbol": "KONGSWAP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

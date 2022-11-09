@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde458838dd0bc7ec0cff11bfee0618ffdcd95954",
+  "displayName": "Gastama",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gastama",
+    "symbol": "$GASTAMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

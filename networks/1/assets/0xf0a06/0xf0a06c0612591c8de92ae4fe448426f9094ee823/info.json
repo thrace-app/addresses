@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0a06c0612591c8de92ae4fe448426f9094ee823",
+  "displayName": "AzukiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AzukiCoin",
+    "symbol": "Azuki",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

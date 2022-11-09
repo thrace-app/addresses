@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d6626a89827a51204bec8b049c30dd4fd10f83a",
+  "displayName": "Gilf Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gilf Token",
+    "symbol": "GILF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

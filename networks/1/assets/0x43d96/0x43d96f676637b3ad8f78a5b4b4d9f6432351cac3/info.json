@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43d96f676637b3ad8f78a5b4b4d9f6432351cac3",
+  "displayName": "AntiSus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AntiSus Token",
+    "symbol": "antiSUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

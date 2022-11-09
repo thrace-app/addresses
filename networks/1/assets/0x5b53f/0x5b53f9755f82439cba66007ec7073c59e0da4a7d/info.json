@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b53f9755f82439cba66007ec7073c59e0da4a7d",
+  "displayName": "FlowchainCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlowchainCoin",
+    "symbol": "FLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

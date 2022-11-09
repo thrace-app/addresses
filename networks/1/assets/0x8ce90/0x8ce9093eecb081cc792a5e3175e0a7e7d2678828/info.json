@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ce9093eecb081cc792a5e3175e0a7e7d2678828",
+  "displayName": "Komainu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Komainu",
+    "symbol": "komainu.finance",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6cfe53d6febaeea051f400ff5fc14f0cbbdaca1",
+  "displayName": "DigiPulse Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DigiPulse Token",
+    "symbol": "DGPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

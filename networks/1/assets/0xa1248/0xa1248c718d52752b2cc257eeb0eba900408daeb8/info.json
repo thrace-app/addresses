@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1248c718d52752b2cc257eeb0eba900408daeb8",
+  "displayName": "SWYFT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SWYFT Token",
+    "symbol": "SWYFTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

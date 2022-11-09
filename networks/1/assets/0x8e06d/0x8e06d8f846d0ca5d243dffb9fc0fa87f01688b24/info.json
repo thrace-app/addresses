@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e06d8f846d0ca5d243dffb9fc0fa87f01688b24",
+  "displayName": "Far Swap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Far Swap Token",
+    "symbol": "FarSwap",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

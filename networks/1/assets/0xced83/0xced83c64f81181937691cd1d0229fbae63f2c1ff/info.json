@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xced83c64f81181937691cd1d0229fbae63f2c1ff",
+  "displayName": "HappyFarm Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HappyFarm Token",
+    "symbol": "HPF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

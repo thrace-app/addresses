@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff9f0ff3449476f9f1c5326953ccf1f6e5a07b0b",
+  "displayName": "Eleanor token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eleanor token",
+    "symbol": "ELNR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

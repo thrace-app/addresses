@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a64515e5e1d1073e83f30cb97bed20400b66e10",
+  "displayName": "Wrapped ZEC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped ZEC",
+    "symbol": "WZEC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

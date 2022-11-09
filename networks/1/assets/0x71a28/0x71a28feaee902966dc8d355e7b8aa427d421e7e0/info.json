@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71a28feaee902966dc8d355e7b8aa427d421e7e0",
+  "displayName": "LunchDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "LunchDao",
+    "symbol": "LUNCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

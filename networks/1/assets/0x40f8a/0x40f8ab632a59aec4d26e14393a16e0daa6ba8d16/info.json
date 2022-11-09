@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40f8ab632a59aec4d26e14393a16e0daa6ba8d16",
+  "displayName": "JesusCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "JesusCoin",
+    "symbol": "JESUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

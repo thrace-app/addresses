@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabf07ee94030bd1345d05ec3373b036ce4aec998",
+  "displayName": "A Fishermans Meme",
+  "type": "TOKEN",
+  "token": {
+    "name": "A Fishermans Meme",
+    "symbol": "FISHERMEME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

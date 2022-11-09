@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4aac04a6dceea7864137caaeccdda579dc6c4b1",
+  "displayName": "UFCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "UFCoin",
+    "symbol": "UFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

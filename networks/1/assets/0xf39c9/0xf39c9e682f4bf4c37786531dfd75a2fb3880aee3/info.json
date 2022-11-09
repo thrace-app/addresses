@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf39c9e682f4bf4c37786531dfd75a2fb3880aee3",
+  "displayName": "Cryptosong",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryptosong",
+    "symbol": "Cryptosong",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

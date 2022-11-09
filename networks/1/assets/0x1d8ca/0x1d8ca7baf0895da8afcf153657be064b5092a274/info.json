@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d8ca7baf0895da8afcf153657be064b5092a274",
+  "displayName": "EthLyteToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthLyteToken",
+    "symbol": "EtLyteT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

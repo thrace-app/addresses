@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x718c8a64f46728df4c15a94695ab6fa18a4f3d9b",
+  "displayName": "Holy Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Holy Doge",
+    "symbol": "HDG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77492c7cf11bc3ba3e49d2370a76f5342dd51321",
+  "displayName": "Virgo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Virgo",
+    "symbol": "Virgo",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

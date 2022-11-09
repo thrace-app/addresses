@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5c8283b20d766501f105223b10e469c08e595c2",
+  "displayName": "Dev Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dev Inu",
+    "symbol": "DEV",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

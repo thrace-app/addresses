@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42ea3740c310f73b1c491ee9ad026bd779940f02",
+  "displayName": "Wrapped TSUKA",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped TSUKA",
+    "symbol": "TSUKA-ITO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

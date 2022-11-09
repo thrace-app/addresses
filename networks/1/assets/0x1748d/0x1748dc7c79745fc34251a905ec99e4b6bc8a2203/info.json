@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1748dc7c79745fc34251a905ec99e4b6bc8a2203",
+  "displayName": "Terra Classic USD (Wormhole)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Terra Classic USD (Wormhole)",
+    "symbol": "USTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

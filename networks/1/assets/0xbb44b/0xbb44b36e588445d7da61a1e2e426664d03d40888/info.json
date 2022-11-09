@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb44b36e588445d7da61a1e2e426664d03d40888",
+  "displayName": "normalized Wrapped BTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "normalized Wrapped BTC",
+    "symbol": "nWBTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

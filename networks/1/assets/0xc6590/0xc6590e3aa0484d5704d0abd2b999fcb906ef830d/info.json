@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6590e3aa0484d5704d0abd2b999fcb906ef830d",
+  "displayName": "Nacho Cheese Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nacho Cheese Coin",
+    "symbol": "NCHO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

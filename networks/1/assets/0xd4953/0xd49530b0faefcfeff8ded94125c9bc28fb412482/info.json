@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd49530b0faefcfeff8ded94125c9bc28fb412482",
+  "displayName": "JUST Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "JUST Stablecoin",
+    "symbol": "USDJ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

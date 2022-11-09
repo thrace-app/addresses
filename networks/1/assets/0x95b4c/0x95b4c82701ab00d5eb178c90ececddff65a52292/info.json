@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95b4c82701ab00d5eb178c90ececddff65a52292",
+  "displayName": "The Black Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Black Doge",
+    "symbol": "TOTO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

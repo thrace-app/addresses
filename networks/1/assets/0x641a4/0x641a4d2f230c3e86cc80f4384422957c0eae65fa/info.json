@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x641a4d2f230c3e86cc80f4384422957c0eae65fa",
+  "displayName": "Raiden Network",
+  "type": "TOKEN",
+  "token": {
+    "name": "Raiden Network",
+    "symbol": "RAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

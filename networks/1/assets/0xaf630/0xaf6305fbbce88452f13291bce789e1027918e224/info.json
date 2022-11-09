@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf6305fbbce88452f13291bce789e1027918e224",
+  "displayName": "Lotara Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lotara Token",
+    "symbol": "LOTARA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x128bf16edb00c34cc5d62a11e0db14255cdb1d44",
+  "displayName": "DeflationarySimpleToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeflationarySimpleToken",
+    "symbol": "DST",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

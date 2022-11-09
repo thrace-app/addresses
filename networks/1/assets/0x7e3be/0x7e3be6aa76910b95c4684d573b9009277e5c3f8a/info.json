@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e3be6aa76910b95c4684d573b9009277e5c3f8a",
+  "displayName": "Tiger Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tiger Coin",
+    "symbol": "TIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

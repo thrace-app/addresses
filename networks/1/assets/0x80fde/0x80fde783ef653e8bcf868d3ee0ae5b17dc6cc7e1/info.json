@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80fde783ef653e8bcf868d3ee0ae5b17dc6cc7e1",
+  "displayName": "DNH Test",
+  "type": "TOKEN",
+  "token": {
+    "name": "DNH Test",
+    "symbol": "DNHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52b62e2db06a551e28694f1198bf29366b9982fa",
+  "displayName": "Joe Biden",
+  "type": "TOKEN",
+  "token": {
+    "name": "Joe Biden",
+    "symbol": "Biden",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

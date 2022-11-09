@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23a8fb57e863c756c5ef362f7588b68d0dda635d",
+  "displayName": "Waldo Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Waldo Inu",
+    "symbol": "WALDO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

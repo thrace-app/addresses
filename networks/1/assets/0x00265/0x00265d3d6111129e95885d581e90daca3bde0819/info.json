@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00265d3d6111129e95885d581e90daca3bde0819",
+  "displayName": "ILY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ILY Token",
+    "symbol": "ILY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

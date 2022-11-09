@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ace32f6e87ac1457a5385f8eb0208f37263b415",
+  "displayName": "Habitat Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Habitat Token",
+    "symbol": "HBT",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

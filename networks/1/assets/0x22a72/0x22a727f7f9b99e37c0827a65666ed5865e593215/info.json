@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22a727f7f9b99e37c0827a65666ed5865e593215",
+  "displayName": "Moon Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moon Ape",
+    "symbol": "MAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

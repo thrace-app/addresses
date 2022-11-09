@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99d1fa417f94dcd62bfe781a1213c092a47041bc",
+  "displayName": "Curve (iearn fork) DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve (iearn fork) DAI",
+    "symbol": "ycDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

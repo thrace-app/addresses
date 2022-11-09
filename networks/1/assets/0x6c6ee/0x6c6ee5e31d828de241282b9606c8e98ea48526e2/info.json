@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+  "displayName": "HoloToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "HoloToken",
+    "symbol": "HOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

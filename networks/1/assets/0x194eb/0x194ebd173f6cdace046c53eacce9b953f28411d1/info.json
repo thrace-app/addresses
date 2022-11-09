@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x194ebd173f6cdace046c53eacce9b953f28411d1",
+  "displayName": "Curve.fi EURS/sEUR",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve.fi EURS/sEUR",
+    "symbol": "eursCRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

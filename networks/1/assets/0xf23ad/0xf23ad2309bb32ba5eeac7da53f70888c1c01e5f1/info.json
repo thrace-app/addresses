@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf23ad2309bb32ba5eeac7da53f70888c1c01e5f1",
+  "displayName": "JRAY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JRAY Token",
+    "symbol": "JRay",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

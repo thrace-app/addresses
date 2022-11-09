@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc12dbb1e0771eda6984f742d4343e1e49c33a351",
+  "displayName": "StarLWars",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarLWars",
+    "symbol": "STARLW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

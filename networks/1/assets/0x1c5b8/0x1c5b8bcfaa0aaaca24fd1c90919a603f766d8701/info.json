@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c5b8bcfaa0aaaca24fd1c90919a603f766d8701",
+  "displayName": "MEAN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEAN Token",
+    "symbol": "MEAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

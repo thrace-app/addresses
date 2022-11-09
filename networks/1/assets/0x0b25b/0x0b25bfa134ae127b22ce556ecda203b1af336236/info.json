@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b25bfa134ae127b22ce556ecda203b1af336236",
+  "displayName": "Eternal Liquidity Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eternal Liquidity Token",
+    "symbol": "ELIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

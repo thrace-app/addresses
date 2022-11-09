@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7be2cb11845587cc323de24b2cd8289a1e0300b5",
+  "displayName": "ShirleyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShirleyCoin",
+    "symbol": "SHIRLEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc784f2da7948d9df4626e41af196522dea564f25",
+  "displayName": "Chimera Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chimera Token",
+    "symbol": "CHIMERA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

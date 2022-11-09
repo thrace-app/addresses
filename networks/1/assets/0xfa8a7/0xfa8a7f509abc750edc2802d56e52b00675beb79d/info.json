@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa8a7f509abc750edc2802d56e52b00675beb79d",
+  "displayName": "GME ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "GME ETH",
+    "symbol": "GMEETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

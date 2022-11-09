@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16317229a0465cfa1a1d83995f6f2ea59dc504c8",
+  "displayName": "AI TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "AI TOKEN",
+    "symbol": "AIT",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

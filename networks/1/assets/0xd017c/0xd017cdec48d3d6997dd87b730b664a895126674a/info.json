@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd017cdec48d3d6997dd87b730b664a895126674a",
+  "displayName": "The Toxin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Toxin",
+    "symbol": "BANE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

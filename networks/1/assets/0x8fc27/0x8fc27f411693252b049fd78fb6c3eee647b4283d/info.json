@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8fc27f411693252b049fd78fb6c3eee647b4283d",
+  "displayName": "Orion Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Orion Money",
+    "symbol": "ORION",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80cdbfbc67d9f09be38e6d64afd4d1723496eba4",
+  "displayName": "mStable Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "mStable Cash",
+    "symbol": "MTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe6f54c779f35f3ac3de44540a8056e46e5a7937e",
+  "displayName": "Bitstake",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitstake",
+    "symbol": "BST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

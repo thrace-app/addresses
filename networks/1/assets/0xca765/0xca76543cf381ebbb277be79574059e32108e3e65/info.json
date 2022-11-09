@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca76543cf381ebbb277be79574059e32108e3e65",
+  "displayName": "Wrapped sOHM",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped sOHM",
+    "symbol": "wsOHM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

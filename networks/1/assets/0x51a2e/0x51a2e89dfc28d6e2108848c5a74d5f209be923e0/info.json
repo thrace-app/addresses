@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51a2e89dfc28d6e2108848c5a74d5f209be923e0",
+  "displayName": "ZibCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZibCoin",
+    "symbol": "ZIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

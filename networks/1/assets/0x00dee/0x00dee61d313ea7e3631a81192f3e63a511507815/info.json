@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00dee61d313ea7e3631a81192f3e63a511507815",
+  "displayName": "FalconSwap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FalconSwap Token",
+    "symbol": "FSW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

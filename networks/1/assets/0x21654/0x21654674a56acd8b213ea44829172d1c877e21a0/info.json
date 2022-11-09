@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21654674a56acd8b213ea44829172d1c877e21a0",
+  "displayName": "Pomer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pomer Token",
+    "symbol": "PMR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

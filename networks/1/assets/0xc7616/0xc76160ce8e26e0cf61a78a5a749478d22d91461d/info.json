@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc76160ce8e26e0cf61a78a5a749478d22d91461d",
+  "displayName": "R2R coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "R2R coin",
+    "symbol": "R2R",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

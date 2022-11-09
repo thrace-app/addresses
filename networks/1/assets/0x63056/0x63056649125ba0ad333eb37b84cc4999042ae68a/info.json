@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63056649125ba0ad333eb37b84cc4999042ae68a",
+  "displayName": "Penguin Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Penguin Finance",
+    "symbol": "PEFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

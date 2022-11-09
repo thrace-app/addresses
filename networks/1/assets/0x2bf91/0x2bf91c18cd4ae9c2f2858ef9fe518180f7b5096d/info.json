@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2bf91c18cd4ae9c2f2858ef9fe518180f7b5096d",
+  "displayName": "KIWI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KIWI Token",
+    "symbol": "KIWI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

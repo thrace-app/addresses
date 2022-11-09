@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8a2e77f267e7f321d2078a012dfde93fdf0c6b5",
+  "displayName": "Nutshell Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nutshell Exchange Token",
+    "symbol": "NSHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

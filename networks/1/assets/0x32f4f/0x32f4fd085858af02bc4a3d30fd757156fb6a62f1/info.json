@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32f4fd085858af02bc4a3d30fd757156fb6a62f1",
+  "displayName": "Walking Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Walking Doge",
+    "symbol": "WDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

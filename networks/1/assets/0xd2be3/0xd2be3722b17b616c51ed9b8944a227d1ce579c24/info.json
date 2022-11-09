@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2be3722b17b616c51ed9b8944a227d1ce579c24",
+  "displayName": "Wrapped DTube Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped DTube Coin",
+    "symbol": "DTUBE",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca7ac1dd35876a0dabec1ab1b37129c37b78a20f",
+  "displayName": "GreenPower",
+  "type": "TOKEN",
+  "token": {
+    "name": "GreenPower",
+    "symbol": "GRN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

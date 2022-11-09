@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1bd3b1694bed8f0271476f22e90777bd07191e18",
+  "displayName": "War Pigs Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "War Pigs Token",
+    "symbol": "PIGS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

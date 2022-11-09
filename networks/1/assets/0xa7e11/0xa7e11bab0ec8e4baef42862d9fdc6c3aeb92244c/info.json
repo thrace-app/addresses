@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa7e11bab0ec8e4baef42862d9fdc6c3aeb92244c",
+  "displayName": "Baby Goat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Goat",
+    "symbol": "BGoat",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

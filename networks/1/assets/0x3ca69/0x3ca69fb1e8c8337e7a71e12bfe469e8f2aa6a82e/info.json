@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ca69fb1e8c8337e7a71e12bfe469e8f2aa6a82e",
+  "displayName": "Neel's ERC20 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neel's ERC20 Token",
+    "symbol": "NEEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

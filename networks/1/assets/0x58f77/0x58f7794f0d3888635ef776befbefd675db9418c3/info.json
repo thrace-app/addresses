@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58f7794f0d3888635ef776befbefd675db9418c3",
+  "displayName": "Green Satoshi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Satoshi Token",
+    "symbol": "GST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

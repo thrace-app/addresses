@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd30fa12c2e0c85ba6d5683113df2d1ceeda78dc2",
+  "displayName": "Larry The Bird",
+  "type": "TOKEN",
+  "token": {
+    "name": "Larry The Bird",
+    "symbol": "LARRY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

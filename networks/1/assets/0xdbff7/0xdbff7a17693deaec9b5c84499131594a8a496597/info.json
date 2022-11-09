@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbff7a17693deaec9b5c84499131594a8a496597",
+  "displayName": "rip token",
+  "type": "TOKEN",
+  "token": {
+    "name": "rip token",
+    "symbol": "RIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

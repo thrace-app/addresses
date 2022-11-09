@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d6ea8f676d1da91022fcc185f19ce9665109696",
+  "displayName": "TrustMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrustMoon",
+    "symbol": "TMoon",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

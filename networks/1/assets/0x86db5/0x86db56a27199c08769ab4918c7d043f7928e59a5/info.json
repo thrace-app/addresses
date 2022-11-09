@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86db56a27199c08769ab4918c7d043f7928e59a5",
+  "displayName": "MARS-DOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "MARS-DOGE",
+    "symbol": "MARSDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

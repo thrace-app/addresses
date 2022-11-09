@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf058c3033c969b88b54e6b623899c6bcf964db56",
+  "displayName": "MegaBomb",
+  "type": "TOKEN",
+  "token": {
+    "name": "MegaBomb",
+    "symbol": "BOMB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

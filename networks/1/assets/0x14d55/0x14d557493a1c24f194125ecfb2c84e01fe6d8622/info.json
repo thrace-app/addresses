@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14d557493a1c24f194125ecfb2c84e01fe6d8622",
+  "displayName": "POSorPOW",
+  "type": "TOKEN",
+  "token": {
+    "name": "POSorPOW",
+    "symbol": "$POWorPOS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

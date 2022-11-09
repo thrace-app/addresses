@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc979087305a826c2b2a0056cfaba50aad3e6439",
+  "displayName": "DAFI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAFI Token",
+    "symbol": "DAFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0f899ca1c500108f4489bc084deecc79b5287f7",
+  "displayName": "Komi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Komi Token",
+    "symbol": "KOMI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

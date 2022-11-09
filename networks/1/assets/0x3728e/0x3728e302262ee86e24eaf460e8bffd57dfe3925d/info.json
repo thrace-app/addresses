@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3728e302262ee86e24eaf460e8bffd57dfe3925d",
+  "displayName": "AtomicSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "AtomicSwap",
+    "symbol": "ASP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

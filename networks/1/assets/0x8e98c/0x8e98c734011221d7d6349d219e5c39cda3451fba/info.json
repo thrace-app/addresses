@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e98c734011221d7d6349d219e5c39cda3451fba",
+  "displayName": "Teh Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Teh Protocol",
+    "symbol": "TEH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

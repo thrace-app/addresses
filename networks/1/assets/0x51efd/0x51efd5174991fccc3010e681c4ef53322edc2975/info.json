@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51efd5174991fccc3010e681c4ef53322edc2975",
+  "displayName": "SudoRug Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SudoRug Token",
+    "symbol": "SUDORUG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

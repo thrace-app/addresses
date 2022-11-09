@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfcdc5115a85a5e3afe723d922555d44bb8b5917f",
+  "displayName": "Flokker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flokker",
+    "symbol": "FLOKKER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18abf34e58d30ec252af436652a44d7d52e52034",
+  "displayName": "Viton Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Viton Token",
+    "symbol": "VITON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

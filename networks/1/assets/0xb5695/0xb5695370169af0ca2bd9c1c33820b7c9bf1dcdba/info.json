@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5695370169af0ca2bd9c1c33820b7c9bf1dcdba",
+  "displayName": "Protocol of Doge Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Protocol of Doge Burn",
+    "symbol": "$PODB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

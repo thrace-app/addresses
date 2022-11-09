@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1beddc4e6a42e3f16f5ee8cb620305840a59a992",
+  "displayName": "Yato Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yato Token",
+    "symbol": "$YATO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

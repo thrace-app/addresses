@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2084063798e88f557bf5c88337441b7a65cf25c0",
+  "displayName": "Smpleforth Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smpleforth Token",
+    "symbol": "SMPL",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

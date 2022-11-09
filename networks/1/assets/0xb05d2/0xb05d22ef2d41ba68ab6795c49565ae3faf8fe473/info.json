@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb05d22ef2d41ba68ab6795c49565ae3faf8fe473",
+  "displayName": "Pooper Scooper",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pooper Scooper",
+    "symbol": "SCOOP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

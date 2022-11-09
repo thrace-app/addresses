@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x000a909fb5f90fd6c5406b6ea68158d1392a69c7",
+  "displayName": "RankTheTank",
+  "type": "TOKEN",
+  "token": {
+    "name": "RankTheTank",
+    "symbol": "TANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

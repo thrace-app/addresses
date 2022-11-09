@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x617aecb6137b5108d1e7d4918e3725c8cebdb848",
+  "displayName": "Synth sBNB",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth sBNB",
+    "symbol": "sBNB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

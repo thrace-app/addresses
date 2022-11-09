@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7173f31d623a35d3ca9fb05541724139b3764d82",
+  "displayName": "PayDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "PayDao",
+    "symbol": "PAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

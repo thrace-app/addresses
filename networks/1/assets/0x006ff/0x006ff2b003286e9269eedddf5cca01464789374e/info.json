@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x006ff2b003286e9269eedddf5cca01464789374e",
+  "displayName": "ETH in a box!",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH in a box!",
+    "symbol": "EIAB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

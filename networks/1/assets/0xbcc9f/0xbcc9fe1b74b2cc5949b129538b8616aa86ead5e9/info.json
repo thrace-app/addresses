@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbcc9fe1b74b2cc5949b129538b8616aa86ead5e9",
+  "displayName": "EGP Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EGP Coin",
+    "symbol": "EGPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

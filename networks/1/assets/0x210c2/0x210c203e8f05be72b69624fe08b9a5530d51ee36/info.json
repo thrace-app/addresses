@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x210c203e8f05be72b69624fe08b9a5530d51ee36",
+  "displayName": "The First Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The First Coin",
+    "symbol": "TFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

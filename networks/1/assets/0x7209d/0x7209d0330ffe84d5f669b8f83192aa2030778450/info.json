@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7209d0330ffe84d5f669b8f83192aa2030778450",
+  "displayName": "Super Peso",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Peso",
+    "symbol": "SPeso",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

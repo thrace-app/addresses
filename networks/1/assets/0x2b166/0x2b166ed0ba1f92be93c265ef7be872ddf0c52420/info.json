@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b166ed0ba1f92be93c265ef7be872ddf0c52420",
+  "displayName": "Burger and Fries",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burger and Fries",
+    "symbol": "BF 🍔🍟",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

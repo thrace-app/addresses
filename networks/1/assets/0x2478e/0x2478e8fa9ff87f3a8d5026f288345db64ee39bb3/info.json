@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2478e8fa9ff87f3a8d5026f288345db64ee39bb3",
+  "displayName": "Elon Bunny Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Bunny Coin",
+    "symbol": "ELONBUNNY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

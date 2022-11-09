@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9aaa3dad892a9277f8931a6449223ab6c64cba85",
+  "displayName": "SecretMonday",
+  "type": "TOKEN",
+  "token": {
+    "name": "SecretMonday",
+    "symbol": "$SMON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x724565b61c5b20045e2145fc6594264c442c02b6",
+  "displayName": "YamBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "YamBurn",
+    "symbol": "YBURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

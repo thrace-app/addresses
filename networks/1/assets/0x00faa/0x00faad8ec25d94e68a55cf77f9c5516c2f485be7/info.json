@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00faad8ec25d94e68a55cf77f9c5516c2f485be7",
+  "displayName": "KiTo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KiTo Token",
+    "symbol": "KiTo",
+    "decimals": 13,
+    "type": "ERC20"
+  }
+}

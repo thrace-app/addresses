@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10350cfc64d8ddfd4ef65eb809ae073a6e93176b",
+  "displayName": "FairMusk Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FairMusk Token",
+    "symbol": "MUSK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

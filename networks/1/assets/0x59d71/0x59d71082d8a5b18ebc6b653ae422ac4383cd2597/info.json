@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x59d71082d8a5b18ebc6b653ae422ac4383cd2597",
+  "displayName": "Ethereum Chain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Chain Token",
+    "symbol": "ECT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

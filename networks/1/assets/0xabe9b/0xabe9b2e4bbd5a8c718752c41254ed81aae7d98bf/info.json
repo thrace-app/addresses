@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabe9b2e4bbd5a8c718752c41254ed81aae7d98bf",
+  "displayName": "P2P",
+  "type": "TOKEN",
+  "token": {
+    "name": "P2P",
+    "symbol": "P2P",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a921c4d8237ff11e6dc0015233ab36e6ebde561",
+  "displayName": "CrabSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "CrabSwap",
+    "symbol": "CRAB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

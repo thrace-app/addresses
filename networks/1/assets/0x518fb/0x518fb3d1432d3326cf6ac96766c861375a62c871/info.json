@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x518fb3d1432d3326cf6ac96766c861375a62c871",
+  "displayName": "Mercury",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mercury",
+    "symbol": "Mercury",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

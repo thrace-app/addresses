@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafd9d269194c543a838ef00f3ed3c303cb596691",
+  "displayName": "The Real Big Fat Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Real Big Fat Doge",
+    "symbol": "$TRBFDOGE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

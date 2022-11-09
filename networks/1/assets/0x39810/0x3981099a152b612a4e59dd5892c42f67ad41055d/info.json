@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3981099a152b612a4e59dd5892c42f67ad41055d",
+  "displayName": "WhatsApp",
+  "type": "TOKEN",
+  "token": {
+    "name": "WhatsApp",
+    "symbol": "Whats",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e872d2aaf1f767e117e822b0c72bf491d3dd308",
+  "displayName": "Badger",
+  "type": "TOKEN",
+  "token": {
+    "name": "Badger",
+    "symbol": "Badger",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

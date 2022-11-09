@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc5ad41e55cb1d42ea95a60c65123babaada33a9f",
+  "displayName": "Retweet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Retweet",
+    "symbol": "$Retweet",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

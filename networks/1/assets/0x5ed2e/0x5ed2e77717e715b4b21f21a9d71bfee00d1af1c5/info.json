@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ed2e77717e715b4b21f21a9d71bfee00d1af1c5",
+  "displayName": "Dogecoin Governance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dogecoin Governance",
+    "symbol": "DCG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

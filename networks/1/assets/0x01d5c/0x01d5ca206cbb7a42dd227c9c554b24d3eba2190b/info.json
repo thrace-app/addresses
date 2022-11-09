@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01d5ca206cbb7a42dd227c9c554b24d3eba2190b",
+  "displayName": "MakeMoneyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MakeMoneyToken",
+    "symbol": "MMT",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

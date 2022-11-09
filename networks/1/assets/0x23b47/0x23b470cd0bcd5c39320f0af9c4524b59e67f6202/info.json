@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23b470cd0bcd5c39320f0af9c4524b59e67f6202",
+  "displayName": "The Wave",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Wave",
+    "symbol": "NAMI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

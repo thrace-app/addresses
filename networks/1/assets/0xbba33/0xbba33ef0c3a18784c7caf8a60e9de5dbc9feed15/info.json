@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbba33ef0c3a18784c7caf8a60e9de5dbc9feed15",
+  "displayName": "Froggie",
+  "type": "TOKEN",
+  "token": {
+    "name": "Froggie",
+    "symbol": "RAPFROG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

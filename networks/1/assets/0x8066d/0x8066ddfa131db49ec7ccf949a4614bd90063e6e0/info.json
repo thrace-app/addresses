@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8066ddfa131db49ec7ccf949a4614bd90063e6e0",
+  "displayName": "epi token",
+  "type": "TOKEN",
+  "token": {
+    "name": "epi token",
+    "symbol": "EPI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

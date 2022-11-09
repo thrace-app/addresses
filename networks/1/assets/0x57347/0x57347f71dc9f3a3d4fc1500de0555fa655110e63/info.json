@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57347f71dc9f3a3d4fc1500de0555fa655110e63",
+  "displayName": "iquick.io token",
+  "type": "TOKEN",
+  "token": {
+    "name": "iquick.io token",
+    "symbol": "IQT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

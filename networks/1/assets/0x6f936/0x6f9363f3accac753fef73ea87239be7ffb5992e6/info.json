@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f9363f3accac753fef73ea87239be7ffb5992e6",
+  "displayName": "EthereumBonusGame",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumBonusGame",
+    "symbol": "ETHBG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdef489ff7a9f64197a5ad7e59f88c4d00374c2e9",
+  "displayName": "Sow and Reap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sow and Reap",
+    "symbol": "REAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

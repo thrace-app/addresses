@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6421d381fb99374bae223772963981e684cfb71b",
+  "displayName": "Croakz Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Croakz Token",
+    "symbol": "Croakz",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

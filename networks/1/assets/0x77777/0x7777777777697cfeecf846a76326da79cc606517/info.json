@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7777777777697cfeecf846a76326da79cc606517",
+  "displayName": "xSigma",
+  "type": "TOKEN",
+  "token": {
+    "name": "xSigma",
+    "symbol": "SIG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

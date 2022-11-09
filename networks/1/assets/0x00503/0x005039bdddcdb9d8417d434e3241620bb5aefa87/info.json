@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x005039bdddcdb9d8417d434e3241620bb5aefa87",
+  "displayName": "DWEToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DWEToken",
+    "symbol": "DWE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

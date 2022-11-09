@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb89a981a6bb48bbb723c524463d75ab166eca035",
+  "displayName": "Synthetic Alibaba Equity Tokens",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synthetic Alibaba Equity Tokens",
+    "symbol": "BABA",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

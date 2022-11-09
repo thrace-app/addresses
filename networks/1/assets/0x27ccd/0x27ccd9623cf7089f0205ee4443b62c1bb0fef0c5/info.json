@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27ccd9623cf7089f0205ee4443b62c1bb0fef0c5",
+  "displayName": "WOMBAT",
+  "type": "TOKEN",
+  "token": {
+    "name": "WOMBAT",
+    "symbol": "WOMBAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

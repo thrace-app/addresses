@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1c802e56bd6c023bf40a606fc989bd4fad5a9f0",
+  "displayName": "Broke Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Broke Token",
+    "symbol": "BROKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

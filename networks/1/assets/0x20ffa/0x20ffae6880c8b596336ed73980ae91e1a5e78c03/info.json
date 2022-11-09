@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20ffae6880c8b596336ed73980ae91e1a5e78c03",
+  "displayName": "Welcome Back Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Welcome Back Doge",
+    "symbol": "WBD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

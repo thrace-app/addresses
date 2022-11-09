@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e25857931f75022a8814e0b0c3a371942a88437",
+  "displayName": "Wrapped Mirror COIN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Mirror COIN Token",
+    "symbol": "mCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

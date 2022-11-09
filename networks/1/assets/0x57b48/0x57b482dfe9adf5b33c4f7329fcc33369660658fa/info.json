@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57b482dfe9adf5b33c4f7329fcc33369660658fa",
+  "displayName": "grunts",
+  "type": "TOKEN",
+  "token": {
+    "name": "grunts",
+    "symbol": "GRUNTS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

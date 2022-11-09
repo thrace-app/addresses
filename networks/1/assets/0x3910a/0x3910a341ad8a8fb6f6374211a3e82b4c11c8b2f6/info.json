@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3910a341ad8a8fb6f6374211a3e82b4c11c8b2f6",
+  "displayName": "ZTASH Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZTASH Token",
+    "symbol": "ZTASH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

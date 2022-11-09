@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e5610ab5e39d26828167640ea29823fe1dd5843",
+  "displayName": "KanadeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KanadeCoin",
+    "symbol": "KNDC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

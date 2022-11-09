@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40026a6dd4fdfabc006ef2a27b3232d9bc2f3e5d",
+  "displayName": "Bank of Moontoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of Moontoshi",
+    "symbol": "SANI BANK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

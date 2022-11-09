@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce52d7727fb77ca7b084f50bbbf335997fcb0dd3",
+  "displayName": "CryptoFun",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoFun",
+    "symbol": "CryptoFun",
+    "decimals": 16,
+    "type": "ERC20"
+  }
+}

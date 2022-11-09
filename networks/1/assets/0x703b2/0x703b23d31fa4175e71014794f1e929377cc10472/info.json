@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x703b23d31fa4175e71014794f1e929377cc10472",
+  "displayName": "Bank Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank Inu",
+    "symbol": "BNK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

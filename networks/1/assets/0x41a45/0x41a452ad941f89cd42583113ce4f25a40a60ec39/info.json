@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41a452ad941f89cd42583113ce4f25a40a60ec39",
+  "displayName": "S-TEAM Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "S-TEAM Coin",
+    "symbol": "ST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

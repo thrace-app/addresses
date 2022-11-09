@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f75112bbb4e1af516fbe3e21528c63da2b6a1a5",
+  "displayName": "Chess Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chess Coin",
+    "symbol": "CHESS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

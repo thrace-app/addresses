@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a12b963f6354db1e36c04cccdc1272b6cb158b0",
+  "displayName": "Lattice Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lattice Token",
+    "symbol": "LTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

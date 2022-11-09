@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f51a196ed91fb14e3b3650c30743675c9a429be",
+  "displayName": "Bitcoin Solar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Solar",
+    "symbol": "BTCS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

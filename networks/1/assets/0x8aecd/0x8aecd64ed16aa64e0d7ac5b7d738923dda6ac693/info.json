@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8aecd64ed16aa64e0d7ac5b7d738923dda6ac693",
+  "displayName": "UniFlower",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniFlower",
+    "symbol": "FLOWER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

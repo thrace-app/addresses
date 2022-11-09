@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68913e212a306664fcbc565210e8031058f42011",
+  "displayName": "Scavenger",
+  "type": "TOKEN",
+  "token": {
+    "name": "Scavenger",
+    "symbol": "CONDOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8370aa485e00d2b9bb4ffd7e78e300d0475db7b0",
+  "displayName": "Eth Moon Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eth Moon Protocol",
+    "symbol": "$EMP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

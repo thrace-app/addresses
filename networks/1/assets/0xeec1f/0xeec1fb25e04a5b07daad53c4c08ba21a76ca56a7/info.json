@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeec1fb25e04a5b07daad53c4c08ba21a76ca56a7",
+  "displayName": "iContract",
+  "type": "TOKEN",
+  "token": {
+    "name": "iContract",
+    "symbol": "iContract",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08bf5b287df46028ae9acb8451b54c0494ebd951",
+  "displayName": "Rename Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rename Coin",
+    "symbol": "RENAME",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d4cd2a7656ef5917ecc4e663b5966d10476804a",
+  "displayName": "DummyErc20",
+  "type": "TOKEN",
+  "token": {
+    "name": "DummyErc20",
+    "symbol": "DER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

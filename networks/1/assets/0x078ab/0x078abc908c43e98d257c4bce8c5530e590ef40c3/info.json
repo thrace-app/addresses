@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x078abc908c43e98d257c4bce8c5530e590ef40c3",
+  "displayName": "WarBet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WarBet Token",
+    "symbol": "WBET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

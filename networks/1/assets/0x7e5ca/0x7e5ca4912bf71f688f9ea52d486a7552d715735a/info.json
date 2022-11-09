@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e5ca4912bf71f688f9ea52d486a7552d715735a",
+  "displayName": "NFTFarm",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFTFarm",
+    "symbol": "NFTF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

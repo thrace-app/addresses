@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x917e89aec8e46b3362b553f4c5ab990f07c28a07",
+  "displayName": "StarkWare",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarkWare",
+    "symbol": "STARK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

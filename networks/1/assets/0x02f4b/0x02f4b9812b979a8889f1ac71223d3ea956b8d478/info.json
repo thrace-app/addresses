@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02f4b9812b979a8889f1ac71223d3ea956b8d478",
+  "displayName": "Pajeet Reserve Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pajeet Reserve Coin",
+    "symbol": "PRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

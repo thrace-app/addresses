@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac37b5c133e9648c115057ac158f808f107f1f18",
+  "displayName": "Salary",
+  "type": "TOKEN",
+  "token": {
+    "name": "Salary",
+    "symbol": "SLR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

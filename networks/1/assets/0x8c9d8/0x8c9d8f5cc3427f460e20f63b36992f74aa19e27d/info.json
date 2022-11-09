@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c9d8f5cc3427f460e20f63b36992f74aa19e27d",
+  "displayName": "DeFiat Points",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiat Points",
+    "symbol": "DFTP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

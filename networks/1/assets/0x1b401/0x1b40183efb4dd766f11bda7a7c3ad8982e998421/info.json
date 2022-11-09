@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+  "displayName": "VesperToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "VesperToken",
+    "symbol": "VSP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

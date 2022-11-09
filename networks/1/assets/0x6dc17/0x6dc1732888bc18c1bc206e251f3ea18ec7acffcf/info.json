@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6dc1732888bc18c1bc206e251f3ea18ec7acffcf",
+  "displayName": "IBEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "IBEX",
+    "symbol": "IBX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

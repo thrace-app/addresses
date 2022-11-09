@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c9b8b679f52407772ab2a2a26b287bd09deab9b",
+  "displayName": "Leonati Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Leonati Token",
+    "symbol": "LEONATI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

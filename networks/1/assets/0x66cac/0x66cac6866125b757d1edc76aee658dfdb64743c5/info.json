@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66cac6866125b757d1edc76aee658dfdb64743c5",
+  "displayName": "Rethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rethereum",
+    "symbol": "RETRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

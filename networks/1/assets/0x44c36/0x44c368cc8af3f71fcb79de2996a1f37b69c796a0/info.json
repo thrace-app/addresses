@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44c368cc8af3f71fcb79de2996a1f37b69c796a0",
+  "displayName": "Compound Stake",
+  "type": "TOKEN",
+  "token": {
+    "name": "Compound Stake",
+    "symbol": "COMPst",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

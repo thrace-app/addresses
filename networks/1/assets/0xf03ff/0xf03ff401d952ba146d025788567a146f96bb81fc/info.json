@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf03ff401d952ba146d025788567a146f96bb81fc",
+  "displayName": "Stellar Classic",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stellar Classic",
+    "symbol": "STC",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

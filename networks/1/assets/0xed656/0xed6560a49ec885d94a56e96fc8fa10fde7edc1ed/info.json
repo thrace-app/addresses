@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed6560a49ec885d94a56e96fc8fa10fde7edc1ed",
+  "displayName": "Mektec Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mektec Token",
+    "symbol": "MEKTEC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

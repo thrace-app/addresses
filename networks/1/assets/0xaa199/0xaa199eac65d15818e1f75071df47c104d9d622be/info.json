@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa199eac65d15818e1f75071df47c104d9d622be",
+  "displayName": "hoprnet.org",
+  "type": "TOKEN",
+  "token": {
+    "name": "hoprnet.org",
+    "symbol": "HOPR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

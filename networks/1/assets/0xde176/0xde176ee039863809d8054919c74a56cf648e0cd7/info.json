@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde176ee039863809d8054919c74a56cf648e0cd7",
+  "displayName": "GetHackToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GetHackToken",
+    "symbol": "GETHACK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

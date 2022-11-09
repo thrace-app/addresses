@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19816294969ec8745a402133bf7c256c02eeabc9",
+  "displayName": "TengoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TengoToken",
+    "symbol": "TGO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

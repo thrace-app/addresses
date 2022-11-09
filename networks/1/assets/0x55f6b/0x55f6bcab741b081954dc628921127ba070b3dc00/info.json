@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55f6bcab741b081954dc628921127ba070b3dc00",
+  "displayName": "Circle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Circle",
+    "symbol": "CIR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

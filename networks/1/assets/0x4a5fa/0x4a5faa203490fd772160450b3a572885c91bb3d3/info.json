@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a5faa203490fd772160450b3a572885c91bb3d3",
+  "displayName": "Ethereum item",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum item",
+    "symbol": "iETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

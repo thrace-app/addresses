@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a1eab393ed0c4e2eea17e56e8cbf34e33651cfc",
+  "displayName": "Grooby Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grooby Token",
+    "symbol": "GBY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

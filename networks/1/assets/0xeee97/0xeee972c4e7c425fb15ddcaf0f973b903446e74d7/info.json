@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeee972c4e7c425fb15ddcaf0f973b903446e74d7",
+  "displayName": "Fractional Early Adopter",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fractional Early Adopter",
+    "symbol": "EARLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

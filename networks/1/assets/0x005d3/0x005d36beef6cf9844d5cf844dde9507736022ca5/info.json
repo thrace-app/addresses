@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x005d36beef6cf9844d5cf844dde9507736022ca5",
+  "displayName": "WenCoinbase",
+  "type": "TOKEN",
+  "token": {
+    "name": "WenCoinbase",
+    "symbol": "WC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

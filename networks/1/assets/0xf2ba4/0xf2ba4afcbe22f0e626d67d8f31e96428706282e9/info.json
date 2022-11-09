@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2ba4afcbe22f0e626d67d8f31e96428706282e9",
+  "displayName": "Golder Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golder Coin",
+    "symbol": "GLDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

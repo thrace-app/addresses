@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x74731f39a0590bb50d38be9f861b24d19060de4e",
+  "displayName": "Chewzly Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chewzly Token",
+    "symbol": "Chewzly",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

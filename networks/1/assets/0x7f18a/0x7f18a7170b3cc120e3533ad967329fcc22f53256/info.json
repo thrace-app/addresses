@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f18a7170b3cc120e3533ad967329fcc22f53256",
+  "displayName": "GoldenElon",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoldenElon",
+    "symbol": "GElon",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

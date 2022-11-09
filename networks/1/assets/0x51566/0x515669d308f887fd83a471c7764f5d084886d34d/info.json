@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x515669d308f887fd83a471c7764f5d084886d34d",
+  "displayName": "MUXE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MUXE Token",
+    "symbol": "MUXE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

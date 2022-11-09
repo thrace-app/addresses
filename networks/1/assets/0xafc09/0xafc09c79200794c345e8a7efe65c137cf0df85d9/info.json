@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafc09c79200794c345e8a7efe65c137cf0df85d9",
+  "displayName": "BabyVitalik Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BabyVitalik Token",
+    "symbol": "BABYVITALIK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

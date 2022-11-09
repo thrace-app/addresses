@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf11321612042256dd196cc919d638a7e05379c7d",
+  "displayName": "Pump Fund Treasury",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pump Fund Treasury",
+    "symbol": "PUMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

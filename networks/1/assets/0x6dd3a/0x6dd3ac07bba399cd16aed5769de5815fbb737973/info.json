@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6dd3ac07bba399cd16aed5769de5815fbb737973",
+  "displayName": "MetaFarm",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaFarm",
+    "symbol": "MetaFarm",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

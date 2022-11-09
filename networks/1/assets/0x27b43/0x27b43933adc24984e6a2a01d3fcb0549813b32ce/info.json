@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27b43933adc24984e6a2a01d3fcb0549813b32ce",
+  "displayName": "MoonInu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonInu Token",
+    "symbol": "MI",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

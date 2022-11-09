@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf72e74eb868bb6a05dec5027b9b96c738ff93325",
+  "displayName": "Koptat Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Koptat Token",
+    "symbol": "KOPTAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

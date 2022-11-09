@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82d7779172b4b4ce709500ceeabfe9b60193b6bd",
+  "displayName": "somETHing",
+  "type": "TOKEN",
+  "token": {
+    "name": "somETHing",
+    "symbol": "$ETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc27bf2d1baee130b2ec924cc51c86b4f9cb3ddd",
+  "displayName": "Weed Gram",
+  "type": "TOKEN",
+  "token": {
+    "name": "Weed Gram",
+    "symbol": "WEED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

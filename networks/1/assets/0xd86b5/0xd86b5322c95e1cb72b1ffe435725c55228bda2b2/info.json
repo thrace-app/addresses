@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd86b5322c95e1cb72b1ffe435725c55228bda2b2",
+  "displayName": "Syrex Test",
+  "type": "TOKEN",
+  "token": {
+    "name": "Syrex Test",
+    "symbol": "SRX_LIVETEST",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

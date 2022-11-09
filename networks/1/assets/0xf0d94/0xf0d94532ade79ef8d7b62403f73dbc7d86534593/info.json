@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0d94532ade79ef8d7b62403f73dbc7d86534593",
+  "displayName": "SpookySwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpookySwap",
+    "symbol": "SpookySwap",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

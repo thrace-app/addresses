@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78fe9e298840a74cefd242bad511ca343c5b4d7b",
+  "displayName": "Yang Bucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yang Bucks",
+    "symbol": "YANG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

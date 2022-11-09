@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6db14800250ab560263681629d132ecac570df77",
+  "displayName": "Peter Schiff",
+  "type": "TOKEN",
+  "token": {
+    "name": "Peter Schiff",
+    "symbol": "SCHIFF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2fa22cc6c34fcda3cdb0c1a8036c7ee74717943",
+  "displayName": "Bye Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bye Dollar",
+    "symbol": "BYE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

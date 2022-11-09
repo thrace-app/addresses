@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06cb846860d91a536ffa14ca74cb3256c8a09792",
+  "displayName": "Gold Goose Egg",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gold Goose Egg",
+    "symbol": "GGE",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

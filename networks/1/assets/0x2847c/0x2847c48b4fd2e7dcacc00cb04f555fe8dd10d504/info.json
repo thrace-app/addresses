@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2847c48b4fd2e7dcacc00cb04f555fe8dd10d504",
+  "displayName": "Wrapped XCH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped XCH",
+    "symbol": "WXCH",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

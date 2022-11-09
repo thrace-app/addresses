@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96162e6f33ac9719929c158c742677b751b9a46a",
+  "displayName": "XENereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "XENereum",
+    "symbol": "XETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

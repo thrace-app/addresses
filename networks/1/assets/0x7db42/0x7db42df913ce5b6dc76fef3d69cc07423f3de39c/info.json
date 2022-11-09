@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7db42df913ce5b6dc76fef3d69cc07423f3de39c",
+  "displayName": "Snow Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Snow Doge",
+    "symbol": "SNOWDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

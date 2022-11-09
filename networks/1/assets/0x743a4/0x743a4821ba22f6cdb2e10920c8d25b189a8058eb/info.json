@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x743a4821ba22f6cdb2e10920c8d25b189a8058eb",
+  "displayName": "Taurus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Taurus Token",
+    "symbol": "TAURUS",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

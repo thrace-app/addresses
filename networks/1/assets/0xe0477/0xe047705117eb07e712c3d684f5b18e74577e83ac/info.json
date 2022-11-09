@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe047705117eb07e712c3d684f5b18e74577e83ac",
+  "displayName": "BitcashPay",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitcashPay",
+    "symbol": "BCP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

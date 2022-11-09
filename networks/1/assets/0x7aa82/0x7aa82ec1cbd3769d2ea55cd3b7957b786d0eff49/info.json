@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7aa82ec1cbd3769d2ea55cd3b7957b786d0eff49",
+  "displayName": "Summit coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Summit coin",
+    "symbol": "SMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb62052688e8a3e44b054c509a0e0389568c955fc",
+  "displayName": "Memorial Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Memorial Doge",
+    "symbol": "MDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

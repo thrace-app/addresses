@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x434280953fc9aee0a3dfdd72dabb1453a4114ec0",
+  "displayName": "Wrapped Sushi Horse",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Sushi Horse",
+    "symbol": "WRAPPED",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

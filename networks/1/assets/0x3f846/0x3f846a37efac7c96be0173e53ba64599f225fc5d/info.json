@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f846a37efac7c96be0173e53ba64599f225fc5d",
+  "displayName": "PizzaPayCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PizzaPayCoin",
+    "symbol": "PPCoin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

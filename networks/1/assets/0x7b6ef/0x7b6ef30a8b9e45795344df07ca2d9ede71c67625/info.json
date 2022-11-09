@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b6ef30a8b9e45795344df07ca2d9ede71c67625",
+  "displayName": "XMR",
+  "type": "TOKEN",
+  "token": {
+    "name": "XMR",
+    "symbol": "XMRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

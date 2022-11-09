@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe57cee8d4c1b52bade1df58663e33e9cb3f9f58d",
+  "displayName": "Smart Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smart Coin",
+    "symbol": "SCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

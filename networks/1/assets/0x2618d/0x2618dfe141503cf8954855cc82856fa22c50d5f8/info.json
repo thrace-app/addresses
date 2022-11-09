@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2618dfe141503cf8954855cc82856fa22c50d5f8",
+  "displayName": "LokiDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "LokiDoge",
+    "symbol": "LOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47377310109c9c536e26e4942ca3b8917bd11b69",
+  "displayName": "Elon Mum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Mum",
+    "symbol": "ELONMUM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

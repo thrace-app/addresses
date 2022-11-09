@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32ce1597a83b49cf8b2e017b12e1f329b2af80eb",
+  "displayName": "Kakashi Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kakashi Inu",
+    "symbol": "KAKASHIINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

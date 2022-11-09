@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1acec01bfec1ebcf273728f7f15d23cfb5c4061b",
+  "displayName": "SeaPort",
+  "type": "TOKEN",
+  "token": {
+    "name": "SeaPort",
+    "symbol": "SEA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

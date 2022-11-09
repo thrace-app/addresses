@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80a684f54d2404c98895d3c4ff006169ab02bc44",
+  "displayName": "Knuckles Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Knuckles Token",
+    "symbol": "KNUCKLES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

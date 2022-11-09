@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeaf2ee2bcdd0820cde5b5a5f232794eb2c23828f",
+  "displayName": "Teh Golden Two",
+  "type": "TOKEN",
+  "token": {
+    "name": "Teh Golden Two",
+    "symbol": "Gold 2",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

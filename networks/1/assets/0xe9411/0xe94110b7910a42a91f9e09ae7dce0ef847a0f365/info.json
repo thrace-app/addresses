@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe94110b7910a42a91f9e09ae7dce0ef847a0f365",
+  "displayName": "Qatari Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Qatari Doge",
+    "symbol": "QOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

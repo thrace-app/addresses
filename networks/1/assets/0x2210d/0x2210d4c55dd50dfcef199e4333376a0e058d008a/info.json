@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2210d4c55dd50dfcef199e4333376a0e058d008a",
+  "displayName": "Fake Birds Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fake Birds Inu",
+    "symbol": "Birds",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

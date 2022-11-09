@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb19408603763ec4cd7d6a4c8adb3a6f5f99bb98",
+  "displayName": "Yamashita's Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yamashita's Gold",
+    "symbol": "Gold",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

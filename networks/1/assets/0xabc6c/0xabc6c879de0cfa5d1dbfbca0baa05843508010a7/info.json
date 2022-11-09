@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabc6c879de0cfa5d1dbfbca0baa05843508010a7",
+  "displayName": "NonceFinance.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "NonceFinance.com",
+    "symbol": "NONCE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

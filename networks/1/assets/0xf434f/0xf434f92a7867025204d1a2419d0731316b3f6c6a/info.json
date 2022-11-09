@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf434f92a7867025204d1a2419d0731316b3f6c6a",
+  "displayName": "Derivatives Smart Contract Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Derivatives Smart Contract Token",
+    "symbol": "DSCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b9301d79af2ebd99d709811d4cb5632009f1fac",
+  "displayName": "Capital Aggregator Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Capital Aggregator Token",
+    "symbol": "CAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

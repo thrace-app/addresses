@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5341bf982b1ff917b9493dda98df32fee7895a66",
+  "displayName": "Hellcat token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hellcat token",
+    "symbol": "HLCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

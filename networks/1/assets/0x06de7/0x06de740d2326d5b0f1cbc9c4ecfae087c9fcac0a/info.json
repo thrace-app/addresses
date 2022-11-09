@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06de740d2326d5b0f1cbc9c4ecfae087c9fcac0a",
+  "displayName": "TaxDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "TaxDoge",
+    "symbol": "TAXDOGE",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

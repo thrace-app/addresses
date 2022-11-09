@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x54c7a5fd47eb63a715e825bdba71bce6f8bff337",
+  "displayName": "AnoborToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AnoborToken",
+    "symbol": "ANO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

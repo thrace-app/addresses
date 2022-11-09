@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f68210cc746408e5d8a037415cc0af5e2cc2e17",
+  "displayName": "Rock Paper Scissors",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rock Paper Scissors",
+    "symbol": "R.P.S",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

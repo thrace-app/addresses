@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd49efa7bc0d339d74f487959c573d518ba3f8437",
+  "displayName": "Shield Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shield Finance Token",
+    "symbol": "SHLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

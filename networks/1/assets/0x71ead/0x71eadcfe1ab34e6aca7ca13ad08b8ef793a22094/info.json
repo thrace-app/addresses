@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71eadcfe1ab34e6aca7ca13ad08b8ef793a22094",
+  "displayName": "Donation Company",
+  "type": "TOKEN",
+  "token": {
+    "name": "Donation Company",
+    "symbol": "DOCO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07f89875b1f142abcba60ff1d7fcfb7fe404d4ed",
+  "displayName": "Chinese Yuan Renminbi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chinese Yuan Renminbi",
+    "symbol": "CNYx",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

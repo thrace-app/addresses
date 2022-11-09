@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe3ee40726c1578581a92b4a9fa4acfce65a4e10",
+  "displayName": "Ethereum Shillings",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Shillings",
+    "symbol": "eSHILL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

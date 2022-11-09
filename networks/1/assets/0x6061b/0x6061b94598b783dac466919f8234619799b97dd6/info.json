@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6061b94598b783dac466919f8234619799b97dd6",
+  "displayName": "Ethereum Pikachu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Pikachu",
+    "symbol": "ePika",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

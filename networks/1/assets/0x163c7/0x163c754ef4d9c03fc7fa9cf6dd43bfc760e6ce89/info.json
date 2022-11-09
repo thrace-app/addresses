@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x163c754ef4d9c03fc7fa9cf6dd43bfc760e6ce89",
+  "displayName": "MaggotToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MaggotToken",
+    "symbol": "MAGGOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

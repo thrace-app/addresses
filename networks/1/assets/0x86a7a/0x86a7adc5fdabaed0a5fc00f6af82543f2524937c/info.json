@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86a7adc5fdabaed0a5fc00f6af82543f2524937c",
+  "displayName": "Hard Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hard Bitcoin",
+    "symbol": "HBTC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

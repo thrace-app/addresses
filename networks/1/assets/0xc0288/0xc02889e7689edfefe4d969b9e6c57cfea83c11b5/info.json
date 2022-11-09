@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc02889e7689edfefe4d969b9e6c57cfea83c11b5",
+  "displayName": "Safe Snipe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Snipe",
+    "symbol": "SNIPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

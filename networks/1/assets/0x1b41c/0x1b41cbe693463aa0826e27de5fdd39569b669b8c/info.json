@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b41cbe693463aa0826e27de5fdd39569b669b8c",
+  "displayName": "The Magic Lamp",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Magic Lamp",
+    "symbol": "LAMP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

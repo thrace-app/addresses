@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea74965cf3a86791c6a367b96e92f6726593607b",
+  "displayName": "Bitherium",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitherium",
+    "symbol": "BITE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

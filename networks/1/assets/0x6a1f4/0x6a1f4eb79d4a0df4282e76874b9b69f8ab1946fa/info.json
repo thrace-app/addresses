@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a1f4eb79d4a0df4282e76874b9b69f8ab1946fa",
+  "displayName": "Robinhood Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Robinhood Token",
+    "symbol": "ROBIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

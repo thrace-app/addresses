@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x012f19770c22326f49b23d83db319c108a6979a8",
+  "displayName": "Real G Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Real G Token",
+    "symbol": "RGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

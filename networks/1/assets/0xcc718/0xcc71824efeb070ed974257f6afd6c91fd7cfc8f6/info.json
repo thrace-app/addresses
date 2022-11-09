@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc71824efeb070ed974257f6afd6c91fd7cfc8f6",
+  "displayName": "POx Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "POx Coin",
+    "symbol": "POxC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

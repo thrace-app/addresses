@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd75fb5dba7fa2188f16546f0d8a2319bcc13831e",
+  "displayName": "AQTToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AQTToken",
+    "symbol": "AQT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

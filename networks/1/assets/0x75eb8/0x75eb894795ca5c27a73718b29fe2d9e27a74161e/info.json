@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75eb894795ca5c27a73718b29fe2d9e27a74161e",
+  "displayName": "RMBToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RMBToken",
+    "symbol": "RMBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

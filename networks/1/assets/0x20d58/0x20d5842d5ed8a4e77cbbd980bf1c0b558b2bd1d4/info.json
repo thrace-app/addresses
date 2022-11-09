@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20d5842d5ed8a4e77cbbd980bf1c0b558b2bd1d4",
+  "displayName": "IQCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "IQCoin",
+    "symbol": "IQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

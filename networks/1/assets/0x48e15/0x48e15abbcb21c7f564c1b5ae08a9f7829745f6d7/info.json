@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48e15abbcb21c7f564c1b5ae08a9f7829745f6d7",
+  "displayName": "Backup Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Backup Token",
+    "symbol": "Backup",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

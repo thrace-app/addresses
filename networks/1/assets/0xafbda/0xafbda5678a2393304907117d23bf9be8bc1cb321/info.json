@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafbda5678a2393304907117d23bf9be8bc1cb321",
+  "displayName": "SolomonDefi",
+  "type": "TOKEN",
+  "token": {
+    "name": "SolomonDefi",
+    "symbol": "SLM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

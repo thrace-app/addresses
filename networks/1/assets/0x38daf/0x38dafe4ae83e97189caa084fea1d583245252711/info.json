@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38dafe4ae83e97189caa084fea1d583245252711",
+  "displayName": "Layer Zero",
+  "type": "TOKEN",
+  "token": {
+    "name": "Layer Zero",
+    "symbol": "LAYER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

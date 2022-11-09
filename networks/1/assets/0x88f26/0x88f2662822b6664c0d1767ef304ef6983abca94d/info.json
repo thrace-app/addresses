@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88f2662822b6664c0d1767ef304ef6983abca94d",
+  "displayName": "West German Bank Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "West German Bank Token",
+    "symbol": "WGBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

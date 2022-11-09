@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x855886d2238d8350ddd347a7c2499246d1e947f2",
+  "displayName": "Federal money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Federal money",
+    "symbol": "FEDM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

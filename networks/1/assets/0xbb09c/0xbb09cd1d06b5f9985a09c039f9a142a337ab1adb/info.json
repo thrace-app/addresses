@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb09cd1d06b5f9985a09c039f9a142a337ab1adb",
+  "displayName": "Aurox Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aurox Token",
+    "symbol": "URUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

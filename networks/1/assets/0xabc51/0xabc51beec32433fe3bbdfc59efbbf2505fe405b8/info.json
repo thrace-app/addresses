@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabc51beec32433fe3bbdfc59efbbf2505fe405b8",
+  "displayName": "ymax.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "ymax.finance",
+    "symbol": "YMAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

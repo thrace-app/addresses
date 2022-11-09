@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb47fd9ac97bdc1829c5e3319daea0eb3feb1ebf1",
+  "displayName": "PulseChainlink",
+  "type": "TOKEN",
+  "token": {
+    "name": "PulseChainlink",
+    "symbol": "PLSCL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d43fe4472447b1a13c7e73d8ec7e3e2b993e2bc",
+  "displayName": "YonaRa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YonaRa Token",
+    "symbol": "YonaRa",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

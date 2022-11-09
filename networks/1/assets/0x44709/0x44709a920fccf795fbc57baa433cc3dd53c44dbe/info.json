@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44709a920fccf795fbc57baa433cc3dd53c44dbe",
+  "displayName": "DappRadar",
+  "type": "TOKEN",
+  "token": {
+    "name": "DappRadar",
+    "symbol": "RADAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

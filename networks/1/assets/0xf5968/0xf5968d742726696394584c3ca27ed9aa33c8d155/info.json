@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5968d742726696394584c3ca27ed9aa33c8d155",
+  "displayName": "Samurai Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Samurai Doge",
+    "symbol": "SAMURAIDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

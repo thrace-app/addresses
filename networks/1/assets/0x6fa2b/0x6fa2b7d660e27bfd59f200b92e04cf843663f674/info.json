@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fa2b7d660e27bfd59f200b92e04cf843663f674",
+  "displayName": "Free Beans",
+  "type": "TOKEN",
+  "token": {
+    "name": "Free Beans",
+    "symbol": "BEANS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

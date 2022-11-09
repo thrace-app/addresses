@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9fb8cf1c0d0501719eaecf6766fb35adf7e16fd9",
+  "displayName": "NuCypher Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NuCypher Token",
+    "symbol": "NU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

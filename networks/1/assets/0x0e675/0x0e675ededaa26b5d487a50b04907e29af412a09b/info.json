@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e675ededaa26b5d487a50b04907e29af412a09b",
+  "displayName": "X1a Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "X1a Token",
+    "symbol": "X1a",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

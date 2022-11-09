@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a3eb47ccc55cc34d8e11ac713960c164d46d020",
+  "displayName": "Insula Voting Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Insula Voting Token",
+    "symbol": "ISLAVOTE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

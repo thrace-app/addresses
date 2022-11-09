@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x54e529f3673eb585c1690880186eac3c4dd30b09",
+  "displayName": "OgroMagicToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "OgroMagicToken",
+    "symbol": "OMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

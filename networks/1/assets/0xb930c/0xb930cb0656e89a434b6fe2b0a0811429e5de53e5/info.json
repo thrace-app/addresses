@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb930cb0656e89a434b6fe2b0a0811429e5de53e5",
+  "displayName": "Ice Cream Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ice Cream Token",
+    "symbol": "ICCRM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

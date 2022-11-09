@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe7930056a18f7f05fc5315f39b2b172746dc176",
+  "displayName": "MilkToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MilkToken",
+    "symbol": "MILK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

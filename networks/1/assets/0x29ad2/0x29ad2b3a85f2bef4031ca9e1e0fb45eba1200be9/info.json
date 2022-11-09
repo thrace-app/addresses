@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x29ad2b3a85f2bef4031ca9e1e0fb45eba1200be9",
+  "displayName": "The Hobbit",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Hobbit",
+    "symbol": "$hobbit",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

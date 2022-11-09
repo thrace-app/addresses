@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe09fd67be1e99344e7f81c28b8aa8452cde9df89",
+  "displayName": "Fedreserve",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fedreserve",
+    "symbol": "FEDRESERVE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

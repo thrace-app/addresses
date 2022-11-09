@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x59eeae3c73cf792a72b1278addce9eb84f774b97",
+  "displayName": "Finance Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Finance Protocol",
+    "symbol": "FTF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a86319e20ca05f8df79e5b170ee3a80068d8da1",
+  "displayName": "Titter Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Titter Doge",
+    "symbol": "TDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc37d1cffeeec4a4638ff59bbbd2aa243f56fe942",
+  "displayName": "Pulse Ducker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pulse Ducker",
+    "symbol": "PLSDucker",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x120368ab8b6ed5c25a9bdf9c8ab778d818ca0e0a",
+  "displayName": "K2Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "K2Coin",
+    "symbol": "K2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

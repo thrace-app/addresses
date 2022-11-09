@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x134ca41084c75b52d2880db518a466c7a2ddfa14",
+  "displayName": "SpaceCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpaceCoin",
+    "symbol": "SPCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

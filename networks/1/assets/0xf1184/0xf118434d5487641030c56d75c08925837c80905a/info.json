@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf118434d5487641030c56d75c08925837c80905a",
+  "displayName": "elon.eth",
+  "type": "TOKEN",
+  "token": {
+    "name": "elon.eth",
+    "symbol": "elon.eth",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

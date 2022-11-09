@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5755c65ea015356367e090f223dba7860a0a1ae2",
+  "displayName": "AnniversaryToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AnniversaryToken",
+    "symbol": "HAPPY ANNIVERSARY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

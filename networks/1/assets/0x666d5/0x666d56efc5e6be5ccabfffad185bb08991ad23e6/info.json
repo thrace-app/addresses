@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x666d56efc5e6be5ccabfffad185bb08991ad23e6",
+  "displayName": "FlokiDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlokiDAO",
+    "symbol": "FlokiDAO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

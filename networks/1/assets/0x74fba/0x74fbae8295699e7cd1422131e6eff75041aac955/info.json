@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x74fbae8295699e7cd1422131e6eff75041aac955",
+  "displayName": "EOS",
+  "type": "TOKEN",
+  "token": {
+    "name": "EOS",
+    "symbol": "EOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

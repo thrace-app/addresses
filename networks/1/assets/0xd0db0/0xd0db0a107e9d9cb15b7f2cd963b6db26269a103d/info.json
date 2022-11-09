@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0db0a107e9d9cb15b7f2cd963b6db26269a103d",
+  "displayName": "Bitcoin Terrible",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Terrible",
+    "symbol": "BITTER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

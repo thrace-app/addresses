@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf754620784e797f3681f9f295b2528455d2fc0d0",
+  "displayName": "ACAB Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ACAB Token",
+    "symbol": "ACAB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

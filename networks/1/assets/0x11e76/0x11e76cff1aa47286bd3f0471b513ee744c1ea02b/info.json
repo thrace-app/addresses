@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11e76cff1aa47286bd3f0471b513ee744c1ea02b",
+  "displayName": "PetDoctor",
+  "type": "TOKEN",
+  "token": {
+    "name": "PetDoctor",
+    "symbol": "PDT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

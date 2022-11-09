@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x94dfd4e2210fa5b752c3cd0f381edad9da6640f8",
+  "displayName": "Sphynx ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sphynx ETH",
+    "symbol": "SPHYNX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

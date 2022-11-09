@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e008ceec95d2ed3a21669cc3f3c0f194fc5c8c6",
+  "displayName": "Polka Stable Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polka Stable Cash",
+    "symbol": "PSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

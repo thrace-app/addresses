@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41408a945bd0c23f2b65b4023e0326d52adc7df8",
+  "displayName": "Prjct Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Prjct Token",
+    "symbol": "Prjct",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

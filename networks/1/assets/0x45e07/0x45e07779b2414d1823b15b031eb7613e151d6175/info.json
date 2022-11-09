@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45e07779b2414d1823b15b031eb7613e151d6175",
+  "displayName": "Proof of UFO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of UFO",
+    "symbol": "$UFO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

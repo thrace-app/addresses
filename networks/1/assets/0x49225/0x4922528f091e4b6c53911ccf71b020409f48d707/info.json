@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4922528f091e4b6c53911ccf71b020409f48d707",
+  "displayName": "Kobolcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kobolcoin",
+    "symbol": "KOBOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b93f4419bc43efa7ca89079e83935d8ccfe16b2",
+  "displayName": "Vitalik Tweet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitalik Tweet",
+    "symbol": "Vitalik tweet",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

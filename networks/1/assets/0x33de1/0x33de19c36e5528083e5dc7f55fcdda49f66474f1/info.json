@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33de19c36e5528083e5dc7f55fcdda49f66474f1",
+  "displayName": "Teletubbies",
+  "type": "TOKEN",
+  "token": {
+    "name": "Teletubbies",
+    "symbol": "Tubby",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

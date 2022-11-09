@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89d3563724c6f0c1a18ddf6427ec43a35ed22e3f",
+  "displayName": "Storag Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Storag Coin",
+    "symbol": "STG",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

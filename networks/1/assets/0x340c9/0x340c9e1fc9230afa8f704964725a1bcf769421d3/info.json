@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x340c9e1fc9230afa8f704964725a1bcf769421d3",
+  "displayName": "New Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Fund",
+    "symbol": "XTF.XXX1",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

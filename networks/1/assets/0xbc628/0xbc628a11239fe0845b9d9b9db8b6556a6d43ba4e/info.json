@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc628a11239fe0845b9d9b9db8b6556a6d43ba4e",
+  "displayName": "NamikazeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NamikazeToken",
+    "symbol": "Namikaze",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

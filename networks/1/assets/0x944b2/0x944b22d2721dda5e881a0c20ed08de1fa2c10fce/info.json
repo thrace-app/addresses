@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x944b22d2721dda5e881a0c20ed08de1fa2c10fce",
+  "displayName": "BunMaker",
+  "type": "TOKEN",
+  "token": {
+    "name": "BunMaker",
+    "symbol": "BUN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

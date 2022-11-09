@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x263a273875888d3c4765a8ccaeaee8fe9a847fa3",
+  "displayName": "MicroMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "MicroMoon",
+    "symbol": "$MM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

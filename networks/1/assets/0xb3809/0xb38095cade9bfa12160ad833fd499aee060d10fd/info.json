@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb38095cade9bfa12160ad833fd499aee060d10fd",
+  "displayName": "Gangsta Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gangsta Cat",
+    "symbol": "GAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

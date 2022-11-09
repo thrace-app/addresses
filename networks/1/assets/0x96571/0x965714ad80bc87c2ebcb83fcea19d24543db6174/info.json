@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x965714ad80bc87c2ebcb83fcea19d24543db6174",
+  "displayName": "Space Bucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Space Bucks",
+    "symbol": "SPACE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

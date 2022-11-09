@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4a86561cb0b7ea1214904f26e6d50fd357c7986",
+  "displayName": "Charg Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Charg Coin",
+    "symbol": "CHG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa8741c7ceb8ddd19f53d9a463b47126b9ed56bc4",
+  "displayName": "CryptoKingToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoKingToken",
+    "symbol": "CKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

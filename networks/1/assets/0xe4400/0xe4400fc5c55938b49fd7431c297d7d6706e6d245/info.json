@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4400fc5c55938b49fd7431c297d7d6706e6d245",
+  "displayName": "Poop Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Poop Coin",
+    "symbol": "POOP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

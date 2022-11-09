@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x173f8ee61c0fe712cae2a2fc8d5c0ccdda57e6da",
+  "displayName": "SnowSwap yDAI/yUSDC/yUSDT/yTUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "SnowSwap yDAI/yUSDC/yUSDT/yTUSD",
+    "symbol": "yDAI+yUSDC+yUSDT+yTUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x91945c0fe638da40fe81d78cf7cd8ae1a7965814",
+  "displayName": "DeeperToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeeperToken",
+    "symbol": "DPR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

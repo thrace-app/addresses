@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b38bab9289f00411bb34a28cebb53a2010483ec",
+  "displayName": "Red Herring",
+  "type": "TOKEN",
+  "token": {
+    "name": "Red Herring",
+    "symbol": "FISHERMAN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

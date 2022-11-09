@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e07e2b1b8521d576d13228815594e515c94ab02",
+  "displayName": "1eth liquidity",
+  "type": "TOKEN",
+  "token": {
+    "name": "1eth liquidity",
+    "symbol": "1ETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

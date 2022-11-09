@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04b36ce1a6e8f6255ee82c9647f6357e2f4668e8",
+  "displayName": "IOI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "IOI Token",
+    "symbol": "IOI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c6d77459f2a282586c1f591a4f2b2e4e14cc8c9",
+  "displayName": "trcash",
+  "type": "TOKEN",
+  "token": {
+    "name": "trcash",
+    "symbol": "trc",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcae5220eac6fb6a51b30fa8d4e21ee40f7e22fe6",
+  "displayName": "Hype Duck",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hype Duck",
+    "symbol": "HypeDuck",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

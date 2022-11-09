@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46a693e2be517ad05596a0028fe630f653af1083",
+  "displayName": "PoopyDollars",
+  "type": "TOKEN",
+  "token": {
+    "name": "PoopyDollars",
+    "symbol": "PYD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

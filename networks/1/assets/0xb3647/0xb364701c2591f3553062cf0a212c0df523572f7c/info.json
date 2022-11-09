@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb364701c2591f3553062cf0a212c0df523572f7c",
+  "displayName": "everiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "everiToken",
+    "symbol": "EVTN",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

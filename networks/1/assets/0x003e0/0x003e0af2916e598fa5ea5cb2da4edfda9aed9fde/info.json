@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x003e0af2916e598fa5ea5cb2da4edfda9aed9fde",
+  "displayName": "Basis Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Basis Dollar",
+    "symbol": "BSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x196fca33d9abf1da7b3d4988ff2cddb8bd22b7af",
+  "displayName": "Nyan Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nyan Doge",
+    "symbol": "NYANDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

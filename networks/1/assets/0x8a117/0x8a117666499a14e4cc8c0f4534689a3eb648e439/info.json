@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a117666499a14e4cc8c0f4534689a3eb648e439",
+  "displayName": "Bradycoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bradycoin",
+    "symbol": "BRADY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06cc190639748ddb22b7b1f2259a5cb567973d97",
+  "displayName": "BNEX TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BNEX TOKEN",
+    "symbol": "BNEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

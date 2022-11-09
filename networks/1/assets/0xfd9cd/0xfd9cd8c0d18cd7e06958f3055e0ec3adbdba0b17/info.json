@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd9cd8c0d18cd7e06958f3055e0ec3adbdba0b17",
+  "displayName": "StartFiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "StartFiToken",
+    "symbol": "STFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

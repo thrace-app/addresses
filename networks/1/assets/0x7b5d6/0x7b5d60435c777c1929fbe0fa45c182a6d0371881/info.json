@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b5d60435c777c1929fbe0fa45c182a6d0371881",
+  "displayName": "Elon Tweets",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Tweets",
+    "symbol": "ET",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

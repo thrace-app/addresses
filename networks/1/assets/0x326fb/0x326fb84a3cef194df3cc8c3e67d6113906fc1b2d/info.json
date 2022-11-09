@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x326fb84a3cef194df3cc8c3e67d6113906fc1b2d",
+  "displayName": "Ana coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ana coin",
+    "symbol": "ANA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

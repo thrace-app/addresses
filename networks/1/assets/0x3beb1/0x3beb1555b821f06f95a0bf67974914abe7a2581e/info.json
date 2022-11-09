@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3beb1555b821f06f95a0bf67974914abe7a2581e",
+  "displayName": "Ghibli Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ghibli Inu",
+    "symbol": "GHIBLI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

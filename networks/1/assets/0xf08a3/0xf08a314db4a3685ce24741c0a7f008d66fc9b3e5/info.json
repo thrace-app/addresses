@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf08a314db4a3685ce24741c0a7f008d66fc9b3e5",
+  "displayName": "Phasmy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Phasmy Token",
+    "symbol": "Phasmy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

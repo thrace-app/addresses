@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22a49f7bf15e08936aaabd3fbb72c776907230e4",
+  "displayName": "NeoShares",
+  "type": "TOKEN",
+  "token": {
+    "name": "NeoShares",
+    "symbol": "NWSH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

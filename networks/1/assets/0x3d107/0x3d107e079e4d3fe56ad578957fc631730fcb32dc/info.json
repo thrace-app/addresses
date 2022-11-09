@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d107e079e4d3fe56ad578957fc631730fcb32dc",
+  "displayName": "Lionheart Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lionheart Token",
+    "symbol": "HEART",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

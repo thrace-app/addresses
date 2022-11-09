@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb885c77d29c516893a4205ce4c1782876c66c432",
+  "displayName": "Pokethmon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pokethmon",
+    "symbol": "PETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92197ff6e8a051aec46792e6457743b2f2190e18",
+  "displayName": "DDCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DDCoin",
+    "symbol": "DDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

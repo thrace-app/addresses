@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbc3c0746b3a2920081a1b0954da66b7b9ed9353",
+  "displayName": "Scary Fed",
+  "type": "TOKEN",
+  "token": {
+    "name": "Scary Fed",
+    "symbol": "FOMC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

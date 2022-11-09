@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d773dd8a1614c39f4a558008c0e62323563285c",
+  "displayName": "bootycoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "bootycoin",
+    "symbol": "$BOOTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

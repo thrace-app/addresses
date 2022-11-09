@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x868b0bd0f4fee14bbe0157fe3ed1359e8431ea63",
+  "displayName": "SalariumCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SalariumCoin",
+    "symbol": "SAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

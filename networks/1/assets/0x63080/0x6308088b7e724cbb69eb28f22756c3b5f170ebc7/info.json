@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6308088b7e724cbb69eb28f22756c3b5f170ebc7",
+  "displayName": "peer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "peer Token",
+    "symbol": "peer",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

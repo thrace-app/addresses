@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x180b453047dcac3a4546e4714f60abdd59990a11",
+  "displayName": "NOFOMO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NOFOMO Token",
+    "symbol": "NOFOMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

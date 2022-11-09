@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c0548cde84b80a867bd17275b13ca9b7e25c0d5",
+  "displayName": "Burn Defi Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burn Defi Coin",
+    "symbol": "BDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2daab601c3e6b02d62737d49482e7aa587d1ff6b",
+  "displayName": "KHEL Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KHEL Coin",
+    "symbol": "KHEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

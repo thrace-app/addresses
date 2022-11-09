@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa3d4707af69ee5ed58ff463e133f1c306ae56053",
+  "displayName": "Moratan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moratan Token",
+    "symbol": "MORATAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1417780fff6b4d343bba8c49597740b0183761e6",
+  "displayName": "El Salvador Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "El Salvador Doge",
+    "symbol": "ELDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

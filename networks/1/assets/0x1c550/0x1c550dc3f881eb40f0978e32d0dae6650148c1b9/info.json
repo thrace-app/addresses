@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c550dc3f881eb40f0978e32d0dae6650148c1b9",
+  "displayName": "hodl.bag",
+  "type": "TOKEN",
+  "token": {
+    "name": "hodl.bag",
+    "symbol": "HODLBAG",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

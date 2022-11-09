@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5643c3f68985182078ecdc783fdcf4f030129c1b",
+  "displayName": "SaferPlanet",
+  "type": "TOKEN",
+  "token": {
+    "name": "SaferPlanet",
+    "symbol": "Safer",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

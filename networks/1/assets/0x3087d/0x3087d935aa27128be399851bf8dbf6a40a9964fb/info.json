@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3087d935aa27128be399851bf8dbf6a40a9964fb",
+  "displayName": "Doro.Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doro.Network Token",
+    "symbol": "DGOV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0b598d5ec9a1cef81fddafc9708d7fd2bdb2707",
+  "displayName": "Bitcoin Dog Game",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Dog Game",
+    "symbol": "BTCDG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba50933c268f567bdc86e1ac131be072c6b0b71a",
+  "displayName": "ARPA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ARPA Token",
+    "symbol": "ARPA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

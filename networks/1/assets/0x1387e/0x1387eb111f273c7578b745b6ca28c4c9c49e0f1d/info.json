@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1387eb111f273c7578b745b6ca28c4c9c49e0f1d",
+  "displayName": "Safe Wave",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Wave",
+    "symbol": "SAFEWAVE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

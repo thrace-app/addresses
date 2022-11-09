@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72b0fb2335da335fbac0e64c036bef061e890414",
+  "displayName": "Strawberry Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Strawberry Token",
+    "symbol": "STB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

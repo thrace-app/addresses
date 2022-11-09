@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b58c663cf7d825bdd8d8fa9fe79ade2956ae24c",
+  "displayName": "Original Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Original Token",
+    "symbol": "OGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

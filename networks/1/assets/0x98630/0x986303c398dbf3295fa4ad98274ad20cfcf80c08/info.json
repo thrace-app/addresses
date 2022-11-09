@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x986303c398dbf3295fa4ad98274ad20cfcf80c08",
+  "displayName": "bitgrit token",
+  "type": "TOKEN",
+  "token": {
+    "name": "bitgrit token",
+    "symbol": "BGR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

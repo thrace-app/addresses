@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x282a6d80d817100f6589ac22639f53339288b45d",
+  "displayName": "Motw Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Motw Token",
+    "symbol": "Motw",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

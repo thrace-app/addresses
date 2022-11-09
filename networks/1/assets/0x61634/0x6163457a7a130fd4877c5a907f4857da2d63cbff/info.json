@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6163457a7a130fd4877c5a907f4857da2d63cbff",
+  "displayName": "First BLD",
+  "type": "TOKEN",
+  "token": {
+    "name": "First BLD",
+    "symbol": "FIRST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x363428b78e5987647a6efab8f4b9e9e4ca0ace99",
+  "displayName": "Cancer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cancer Token",
+    "symbol": "CANC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

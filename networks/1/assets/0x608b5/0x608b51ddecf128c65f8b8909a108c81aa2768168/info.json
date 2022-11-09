@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x608b51ddecf128c65f8b8909a108c81aa2768168",
+  "displayName": "Grass Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grass Finance Token",
+    "symbol": "GFI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

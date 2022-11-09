@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x94d48eb395652ee3d1d054630596a5cc4262050c",
+  "displayName": "Steam",
+  "type": "TOKEN",
+  "token": {
+    "name": "Steam",
+    "symbol": "STEAM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

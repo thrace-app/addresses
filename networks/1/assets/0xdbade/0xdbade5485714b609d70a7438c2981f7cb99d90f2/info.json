@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbade5485714b609d70a7438c2981f7cb99d90f2",
+  "displayName": "Tetsuo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tetsuo Token",
+    "symbol": "TETSUO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

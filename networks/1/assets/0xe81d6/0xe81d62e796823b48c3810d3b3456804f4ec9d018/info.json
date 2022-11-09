@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe81d62e796823b48c3810d3b3456804f4ec9d018",
+  "displayName": "FlipETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlipETH",
+    "symbol": "FlipETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

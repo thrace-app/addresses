@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a9f0905a334b32799d9e5f5f3f875d6c2f7a9c6",
+  "displayName": "Fake Taxi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fake Taxi",
+    "symbol": "FKTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

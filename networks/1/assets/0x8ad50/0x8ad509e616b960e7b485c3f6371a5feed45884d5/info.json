@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ad509e616b960e7b485c3f6371a5feed45884d5",
+  "displayName": "Ape moon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ape moon",
+    "symbol": "AMOON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

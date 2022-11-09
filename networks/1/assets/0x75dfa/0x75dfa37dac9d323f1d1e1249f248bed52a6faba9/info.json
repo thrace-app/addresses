@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75dfa37dac9d323f1d1e1249f248bed52a6faba9",
+  "displayName": "Cabo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cabo Token",
+    "symbol": "CTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

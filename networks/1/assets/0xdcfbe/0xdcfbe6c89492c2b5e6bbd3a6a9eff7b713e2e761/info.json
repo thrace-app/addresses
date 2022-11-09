@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdcfbe6c89492c2b5e6bbd3a6a9eff7b713e2e761",
+  "displayName": "BreadToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BreadToken",
+    "symbol": "BRDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

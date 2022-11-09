@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x202260a3c84c45741b00873e90a26aa534df63b4",
+  "displayName": "GoodBaby Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoodBaby Token",
+    "symbol": "GDB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

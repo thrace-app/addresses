@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x29b109625ac15bc4577d0b70acb9e4e27f7c07e8",
+  "displayName": "xlock.eth Wrapped Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "xlock.eth Wrapped Ether",
+    "symbol": "XETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

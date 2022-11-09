@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe88b78c3db2383f5868d4f38f32f954b26e41118",
+  "displayName": "DeFiLoan",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiLoan",
+    "symbol": "DLOAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

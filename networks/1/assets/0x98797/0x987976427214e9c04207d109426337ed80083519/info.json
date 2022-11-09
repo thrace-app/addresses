@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x987976427214e9c04207d109426337ed80083519",
+  "displayName": "Cosmonaut",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cosmonaut",
+    "symbol": "COSMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

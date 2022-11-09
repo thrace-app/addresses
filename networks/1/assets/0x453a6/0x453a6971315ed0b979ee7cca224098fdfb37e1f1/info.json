@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x453a6971315ed0b979ee7cca224098fdfb37e1f1",
+  "displayName": "Decentralized XMR",
+  "type": "TOKEN",
+  "token": {
+    "name": "Decentralized XMR",
+    "symbol": "DXMR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

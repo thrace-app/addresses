@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9906df392d032c148d63b0ffa6d7a4e26b5122a1",
+  "displayName": "SmartFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "SmartFi",
+    "symbol": "SMFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

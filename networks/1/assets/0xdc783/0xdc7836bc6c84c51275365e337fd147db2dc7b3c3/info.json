@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc7836bc6c84c51275365e337fd147db2dc7b3c3",
+  "displayName": "RenRenCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RenRenCoin",
+    "symbol": "RRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

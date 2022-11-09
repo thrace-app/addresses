@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5520f56b7f0791a7aee0d435cedb1e08b3feb588",
+  "displayName": "Governor",
+  "type": "TOKEN",
+  "token": {
+    "name": "Governor",
+    "symbol": "GVNOR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

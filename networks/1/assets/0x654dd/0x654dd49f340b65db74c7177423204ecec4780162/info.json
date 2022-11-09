@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x654dd49f340b65db74c7177423204ecec4780162",
+  "displayName": "The Sphere",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Sphere",
+    "symbol": "SPHERE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

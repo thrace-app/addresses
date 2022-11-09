@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e6fcc6827c6023498c88041317e8c6560ff16ce",
+  "displayName": "Shibunow Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shibunow Token",
+    "symbol": "Shibunow",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

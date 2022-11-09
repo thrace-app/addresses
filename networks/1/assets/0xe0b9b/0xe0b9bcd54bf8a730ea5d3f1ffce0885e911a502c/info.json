@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c",
+  "displayName": "Zum Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zum Token",
+    "symbol": "ZUM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

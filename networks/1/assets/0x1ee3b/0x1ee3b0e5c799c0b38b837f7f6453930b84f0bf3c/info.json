@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ee3b0e5c799c0b38b837f7f6453930b84f0bf3c",
+  "displayName": "XRPS",
+  "type": "TOKEN",
+  "token": {
+    "name": "XRPS",
+    "symbol": "XRPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

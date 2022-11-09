@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b4767ab9e9ac1007b46a292f197a6e87ee1fd32",
+  "displayName": "Degen Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Protocol",
+    "symbol": "$DP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

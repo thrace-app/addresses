@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e155e76435025ed80b3dd9cdc09edbcf3865b56",
+  "displayName": "Xnereon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Xnereon Token",
+    "symbol": "XON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

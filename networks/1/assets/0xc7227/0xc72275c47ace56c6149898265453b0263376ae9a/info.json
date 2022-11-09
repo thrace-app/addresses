@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc72275c47ace56c6149898265453b0263376ae9a",
+  "displayName": "JPOW Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JPOW Token",
+    "symbol": "JPOW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

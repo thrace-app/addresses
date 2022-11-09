@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19394e9e0045c99ceb82de5436c4a3a471eddf66",
+  "displayName": "KumaDex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KumaDex Token",
+    "symbol": "dKUMA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

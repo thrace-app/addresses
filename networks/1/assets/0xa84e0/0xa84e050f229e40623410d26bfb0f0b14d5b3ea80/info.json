@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa84e050f229e40623410d26bfb0f0b14d5b3ea80",
+  "displayName": "GodzToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GodzToken",
+    "symbol": "GODZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

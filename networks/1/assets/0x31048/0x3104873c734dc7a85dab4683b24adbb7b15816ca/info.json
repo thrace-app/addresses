@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3104873c734dc7a85dab4683b24adbb7b15816ca",
+  "displayName": "Flex Hoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flex Hoge",
+    "symbol": "fHoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

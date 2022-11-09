@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x345963d7d6cd958662f1e0250673b63a9f61ad41",
+  "displayName": "Barley",
+  "type": "TOKEN",
+  "token": {
+    "name": "Barley",
+    "symbol": "BLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

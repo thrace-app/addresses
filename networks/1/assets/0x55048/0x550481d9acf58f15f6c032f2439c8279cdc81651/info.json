@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x550481d9acf58f15f6c032f2439c8279cdc81651",
+  "displayName": "yearnCompound",
+  "type": "TOKEN",
+  "token": {
+    "name": "yearnCompound",
+    "symbol": "YCOMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

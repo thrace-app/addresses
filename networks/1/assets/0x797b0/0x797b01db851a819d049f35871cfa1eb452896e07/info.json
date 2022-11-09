@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x797b01db851a819d049f35871cfa1eb452896e07",
+  "displayName": "Ethereum Wolf",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Wolf",
+    "symbol": "eWOLF",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x31d694e122c1f8ae296b8108049f0dec0013faa5",
+  "displayName": "Proof of Meme",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Meme",
+    "symbol": "Elon's Twitter",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

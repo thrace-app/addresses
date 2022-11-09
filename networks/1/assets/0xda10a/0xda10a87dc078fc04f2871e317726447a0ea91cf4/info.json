@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda10a87dc078fc04f2871e317726447a0ea91cf4",
+  "displayName": "Token of God",
+  "type": "TOKEN",
+  "token": {
+    "name": "Token of God",
+    "symbol": "GOD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

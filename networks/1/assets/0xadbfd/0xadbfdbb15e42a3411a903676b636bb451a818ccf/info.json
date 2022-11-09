@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xadbfdbb15e42a3411a903676b636bb451a818ccf",
+  "displayName": "Wicked Wizard",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wicked Wizard",
+    "symbol": "WIZARD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

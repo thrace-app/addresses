@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd0019652b222b532b03f8d82e4e3c1c73fabbba",
+  "displayName": "Mooshi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mooshi Token",
+    "symbol": "MOOSHI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

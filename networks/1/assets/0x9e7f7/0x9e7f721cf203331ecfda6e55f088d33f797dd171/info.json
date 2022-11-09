@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e7f721cf203331ecfda6e55f088d33f797dd171",
+  "displayName": "NFT Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT Shiba",
+    "symbol": "NFT Shiba",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

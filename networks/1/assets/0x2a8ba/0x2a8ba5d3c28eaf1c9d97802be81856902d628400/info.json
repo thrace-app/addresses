@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a8ba5d3c28eaf1c9d97802be81856902d628400",
+  "displayName": "dog.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "dog.finance",
+    "symbol": "DOFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

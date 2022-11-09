@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32f37d20e837d699bdc94af8bd1becef0666bf2d",
+  "displayName": "Skynet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Skynet",
+    "symbol": "SKN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

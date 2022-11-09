@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba33cf48ab58bd53bde8a5426624f64a4810724d",
+  "displayName": "SphynxSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "SphynxSwap",
+    "symbol": "SPHYNX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

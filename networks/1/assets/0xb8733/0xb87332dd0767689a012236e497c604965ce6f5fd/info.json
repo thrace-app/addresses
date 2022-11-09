@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb87332dd0767689a012236e497c604965ce6f5fd",
+  "displayName": "TonInu",
+  "type": "TOKEN",
+  "token": {
+    "name": "TonInu",
+    "symbol": "Toni",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

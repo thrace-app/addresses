@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2de3399d849f431d0303b5590817d60d2af8dadd",
+  "displayName": "Flash Oracle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flash Oracle",
+    "symbol": "FLO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

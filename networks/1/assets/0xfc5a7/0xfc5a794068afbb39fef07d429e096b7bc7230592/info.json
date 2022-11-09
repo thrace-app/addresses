@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc5a794068afbb39fef07d429e096b7bc7230592",
+  "displayName": "OneShotToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "OneShotToken",
+    "symbol": "OST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

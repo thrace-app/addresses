@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8171740c3f6631da0496ca237e6ec7b9b94ed01e",
+  "displayName": "FangSea Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FangSea Token",
+    "symbol": "FST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

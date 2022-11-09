@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdba8e8021fe321af91fc3a08e223ef15908cb2bb",
+  "displayName": "SilverDollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "SilverDollar",
+    "symbol": "SLVD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

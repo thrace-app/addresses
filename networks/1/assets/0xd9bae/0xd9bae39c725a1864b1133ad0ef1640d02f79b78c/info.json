@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9bae39c725a1864b1133ad0ef1640d02f79b78c",
+  "displayName": "Touch Smart Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Touch Smart Token",
+    "symbol": "TST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

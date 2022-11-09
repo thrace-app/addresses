@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61f33da40594cec1e3dc900faf99f861d01e2e7d",
+  "displayName": "Cybereits Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cybereits Token",
+    "symbol": "CRE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

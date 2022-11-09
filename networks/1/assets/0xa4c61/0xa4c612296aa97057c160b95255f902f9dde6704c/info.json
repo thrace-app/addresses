@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa4c612296aa97057c160b95255f902f9dde6704c",
+  "displayName": "MemeCard",
+  "type": "TOKEN",
+  "token": {
+    "name": "MemeCard",
+    "symbol": "MMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

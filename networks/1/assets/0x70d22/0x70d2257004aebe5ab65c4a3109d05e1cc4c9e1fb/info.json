@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70d2257004aebe5ab65c4a3109d05e1cc4c9e1fb",
+  "displayName": "Spiral Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spiral Burn",
+    "symbol": "SBURN",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

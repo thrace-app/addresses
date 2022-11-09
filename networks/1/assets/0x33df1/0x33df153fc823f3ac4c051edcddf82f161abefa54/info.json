@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33df153fc823f3ac4c051edcddf82f161abefa54",
+  "displayName": "M8 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "M8 Token",
+    "symbol": "M8",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

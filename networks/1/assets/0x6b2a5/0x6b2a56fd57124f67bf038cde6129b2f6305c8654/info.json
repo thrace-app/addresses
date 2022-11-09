@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b2a56fd57124f67bf038cde6129b2f6305c8654",
+  "displayName": "Yearn Farmer Pool",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn Farmer Pool",
+    "symbol": "yPOOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

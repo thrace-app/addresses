@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fa2f486a6f318d20bc3978e5f5271f460cb57dd",
+  "displayName": "XDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "XDAO",
+    "symbol": "XDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

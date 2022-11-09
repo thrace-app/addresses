@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1a95630b13dc03d4bfd55de938132db390620a5",
+  "displayName": "Compound Fuel",
+  "type": "TOKEN",
+  "token": {
+    "name": "Compound Fuel",
+    "symbol": "COMF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

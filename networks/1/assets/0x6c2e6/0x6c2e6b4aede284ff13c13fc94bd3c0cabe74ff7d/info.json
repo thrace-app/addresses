@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c2e6b4aede284ff13c13fc94bd3c0cabe74ff7d",
+  "displayName": "TpvSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "TpvSwap",
+    "symbol": "TPV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

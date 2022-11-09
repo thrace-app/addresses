@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xebad987853a4c7bfdccfce77149b748c3f49f1bf",
+  "displayName": "Colro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Colro Token",
+    "symbol": "COLRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

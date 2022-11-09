@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce5583aa500e36af0a49c12b0ba4e3983016774e",
+  "displayName": "PassionToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PassionToken",
+    "symbol": "PSF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

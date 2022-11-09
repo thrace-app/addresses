@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0241530f43981c198a6271742eeeb854390772e7",
+  "displayName": "Galaxy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Galaxy Token",
+    "symbol": "GAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

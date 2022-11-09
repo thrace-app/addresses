@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc09f35a31d4b910e89f8e002ae63ab7ff7ccb7bf",
+  "displayName": "XWING Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XWING Token",
+    "symbol": "XWING",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac3f24109382d2cda7fcba617f5dafcb2b8c77bb",
+  "displayName": "DGPE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DGPE Token",
+    "symbol": "DGPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

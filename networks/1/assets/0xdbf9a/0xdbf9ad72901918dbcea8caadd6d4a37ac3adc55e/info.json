@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbf9ad72901918dbcea8caadd6d4a37ac3adc55e",
+  "displayName": "Lemonade",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lemonade",
+    "symbol": "LEMONADE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

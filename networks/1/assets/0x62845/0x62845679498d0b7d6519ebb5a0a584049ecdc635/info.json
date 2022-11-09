@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62845679498d0b7d6519ebb5a0a584049ecdc635",
+  "displayName": "SafeStar",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeStar",
+    "symbol": "STAR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

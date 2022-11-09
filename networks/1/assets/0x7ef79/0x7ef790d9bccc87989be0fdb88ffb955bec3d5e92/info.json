@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ef790d9bccc87989be0fdb88ffb955bec3d5e92",
+  "displayName": "MUSKITO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MUSKITO Token",
+    "symbol": "MUSKITO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

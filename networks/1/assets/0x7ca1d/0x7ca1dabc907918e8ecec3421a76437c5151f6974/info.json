@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ca1dabc907918e8ecec3421a76437c5151f6974",
+  "displayName": "GiveMore",
+  "type": "TOKEN",
+  "token": {
+    "name": "GiveMore",
+    "symbol": "GIVEM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

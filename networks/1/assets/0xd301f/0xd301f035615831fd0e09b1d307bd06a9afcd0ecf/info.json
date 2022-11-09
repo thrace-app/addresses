@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd301f035615831fd0e09b1d307bd06a9afcd0ecf",
+  "displayName": "LyraDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "LyraDAO",
+    "symbol": "LDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

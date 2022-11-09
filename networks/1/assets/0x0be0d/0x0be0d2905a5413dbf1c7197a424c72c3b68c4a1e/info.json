@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0be0d2905a5413dbf1c7197a424c72c3b68c4a1e",
+  "displayName": "Coda Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coda Token",
+    "symbol": "CODA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

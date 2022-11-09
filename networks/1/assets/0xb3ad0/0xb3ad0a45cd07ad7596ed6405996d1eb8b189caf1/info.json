@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3ad0a45cd07ad7596ed6405996d1eb8b189caf1",
+  "displayName": "Ham.Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ham.Money",
+    "symbol": "HAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

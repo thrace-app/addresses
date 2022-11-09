@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1431fa18459babb2ce763b5f542cd65303e1059a",
+  "displayName": "CramerCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CramerCoin",
+    "symbol": "CRAMER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

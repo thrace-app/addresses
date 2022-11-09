@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5816843c547a080fa1692c0f51967eaa920c482f",
+  "displayName": "Seed Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Seed Token",
+    "symbol": "SEED",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

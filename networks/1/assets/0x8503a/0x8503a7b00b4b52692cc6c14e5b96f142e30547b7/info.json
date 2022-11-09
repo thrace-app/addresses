@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8503a7b00b4b52692cc6c14e5b96f142e30547b7",
+  "displayName": "Meeds Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meeds Token",
+    "symbol": "MEED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

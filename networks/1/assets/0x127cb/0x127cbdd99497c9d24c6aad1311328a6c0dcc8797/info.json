@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x127cbdd99497c9d24c6aad1311328a6c0dcc8797",
+  "displayName": "Ethereum Cheetos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Cheetos",
+    "symbol": "eCheetos",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

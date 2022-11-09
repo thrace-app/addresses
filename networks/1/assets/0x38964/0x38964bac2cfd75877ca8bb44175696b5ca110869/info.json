@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38964bac2cfd75877ca8bb44175696b5ca110869",
+  "displayName": "Cardano Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cardano Cash",
+    "symbol": "CC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1d6fa9d7268435aa05549a86a817a66b828992b",
+  "displayName": "Blank Wallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blank Wallet",
+    "symbol": "BLANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81895833eebf10fb4cee7dc2ba5a921ec7802a2b",
+  "displayName": "The Pantheon",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Pantheon",
+    "symbol": "PAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

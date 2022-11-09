@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbddf072d7aae7b9288e31a4eebe6c54e3a143b1",
+  "displayName": "Crowny Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crowny Token",
+    "symbol": "CRWNY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

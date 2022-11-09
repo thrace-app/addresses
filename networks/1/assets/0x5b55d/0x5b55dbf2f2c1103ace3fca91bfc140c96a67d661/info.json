@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b55dbf2f2c1103ace3fca91bfc140c96a67d661",
+  "displayName": "Loosely Encrypted Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Loosely Encrypted Token",
+    "symbol": "LYEDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69baa9b31ba0df6789bd0a46ff4d1c1a0e305364",
+  "displayName": "Socrates",
+  "type": "TOKEN",
+  "token": {
+    "name": "Socrates",
+    "symbol": "WISDOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44eee02b50cb979c6f1ed448efd84bcaf1f8f965",
+  "displayName": "Fidelity Silver Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fidelity Silver Token",
+    "symbol": "FST",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

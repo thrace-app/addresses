@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4e4f9e5ba2b0892c289ef2de60ca44e1f6b2527",
+  "displayName": "DET Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DET Token",
+    "symbol": "DET",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

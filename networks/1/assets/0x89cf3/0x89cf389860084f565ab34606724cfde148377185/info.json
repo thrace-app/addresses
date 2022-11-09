@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89cf389860084f565ab34606724cfde148377185",
+  "displayName": "Liquidation Engine",
+  "type": "TOKEN",
+  "token": {
+    "name": "Liquidation Engine",
+    "symbol": "BITMEXED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

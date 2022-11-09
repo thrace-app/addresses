@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x186d13078aea438297c0c133b98e7aaf8af600bf",
+  "displayName": "TravaFinance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TravaFinance Token",
+    "symbol": "TRAVA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

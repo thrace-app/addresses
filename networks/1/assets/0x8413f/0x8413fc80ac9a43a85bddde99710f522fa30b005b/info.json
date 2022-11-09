@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8413fc80ac9a43a85bddde99710f522fa30b005b",
+  "displayName": "Opyn Compound USDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Opyn Compound USDC",
+    "symbol": "ocUSDC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ae06b90be1b214a23beb7b8b3c245b60211bbca",
+  "displayName": "100Grand",
+  "type": "TOKEN",
+  "token": {
+    "name": "100Grand",
+    "symbol": "Grand",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

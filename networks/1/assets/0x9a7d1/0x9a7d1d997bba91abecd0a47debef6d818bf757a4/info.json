@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a7d1d997bba91abecd0a47debef6d818bf757a4",
+  "displayName": "Bobbybot",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bobbybot",
+    "symbol": "BOBBYBOT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

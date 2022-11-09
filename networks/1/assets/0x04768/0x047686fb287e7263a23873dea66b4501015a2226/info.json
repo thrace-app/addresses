@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x047686fb287e7263a23873dea66b4501015a2226",
+  "displayName": "Cute Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cute Coin",
+    "symbol": "CUTE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

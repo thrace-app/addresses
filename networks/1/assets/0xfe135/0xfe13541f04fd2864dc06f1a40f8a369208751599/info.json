@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe13541f04fd2864dc06f1a40f8a369208751599",
+  "displayName": "Arcane Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Arcane Token",
+    "symbol": "ARCANE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ed3bcde635bf3a4696e0f9b7fcdb921383f6404",
+  "displayName": "Baluga Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baluga Token",
+    "symbol": "BALUGA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

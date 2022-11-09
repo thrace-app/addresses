@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x744d02182bd74f65356f7c9625ed09d80b786843",
+  "displayName": "MobiDollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "MobiDollar",
+    "symbol": "MBR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

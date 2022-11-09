@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd301e777c8f82ab0504abda3b9732456fbb013e",
+  "displayName": "Goon Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goon Cat",
+    "symbol": "gCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

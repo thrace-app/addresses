@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6ab14f2536ee63f5f673f1f23afbcadf18bcc54",
+  "displayName": "DAODrop token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAODrop token",
+    "symbol": "DAOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

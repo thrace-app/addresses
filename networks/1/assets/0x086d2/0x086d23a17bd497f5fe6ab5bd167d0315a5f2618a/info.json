@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x086d23a17bd497f5fe6ab5bd167d0315a5f2618a",
+  "displayName": "DECNT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DECNT Token",
+    "symbol": "DECNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

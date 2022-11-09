@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf82006b0df80d5af3857938b811aa194f0715b33",
+  "displayName": "EminenceDAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "EminenceDAI",
+    "symbol": "daiEMN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

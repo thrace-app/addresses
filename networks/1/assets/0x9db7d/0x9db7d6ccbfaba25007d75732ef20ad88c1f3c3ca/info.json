@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9db7d6ccbfaba25007d75732ef20ad88c1f3c3ca",
+  "displayName": "stakedDASH",
+  "type": "TOKEN",
+  "token": {
+    "name": "stakedDASH",
+    "symbol": "stakedDASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

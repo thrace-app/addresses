@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64a39d5ab7b8db1741e6e2f454186aa625bb7f18",
+  "displayName": "Luna Pizza",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luna Pizza",
+    "symbol": "LPIZZA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

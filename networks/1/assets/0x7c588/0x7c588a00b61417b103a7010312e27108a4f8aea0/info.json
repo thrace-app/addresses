@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c588a00b61417b103a7010312e27108a4f8aea0",
+  "displayName": "Life Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Life Token",
+    "symbol": "LTK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

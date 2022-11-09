@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdaac2535f27d24ffe35393789532e0e2909b1232",
+  "displayName": "Feed Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Feed Shiba",
+    "symbol": "FEED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

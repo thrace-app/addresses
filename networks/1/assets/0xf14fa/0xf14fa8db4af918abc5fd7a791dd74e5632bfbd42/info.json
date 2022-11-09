@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf14fa8db4af918abc5fd7a791dd74e5632bfbd42",
+  "displayName": "Crazy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crazy",
+    "symbol": "$CZY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

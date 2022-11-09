@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0dcc1523b3e586481156f0ac2b3ac92da249b622",
+  "displayName": "AntiKore Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AntiKore Token",
+    "symbol": "ANTIKORE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

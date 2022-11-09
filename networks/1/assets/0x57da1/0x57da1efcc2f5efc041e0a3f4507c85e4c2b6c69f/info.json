@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57da1efcc2f5efc041e0a3f4507c85e4c2b6c69f",
+  "displayName": "Salamander",
+  "type": "TOKEN",
+  "token": {
+    "name": "Salamander",
+    "symbol": "$SALLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

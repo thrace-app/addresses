@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e08f03079c5cd3083ea331ec61bcc87538b7665",
+  "displayName": "DoubleDice Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DoubleDice Token",
+    "symbol": "DODI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

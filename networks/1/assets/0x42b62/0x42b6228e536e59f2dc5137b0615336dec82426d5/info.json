@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42b6228e536e59f2dc5137b0615336dec82426d5",
+  "displayName": "Baby Hippo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Hippo",
+    "symbol": "Hippo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

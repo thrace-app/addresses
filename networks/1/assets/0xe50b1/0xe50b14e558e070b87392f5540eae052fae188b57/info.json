@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe50b14e558e070b87392f5540eae052fae188b57",
+  "displayName": "Trust Swap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trust Swap Token",
+    "symbol": "SWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

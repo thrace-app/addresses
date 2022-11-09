@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a6058666cf1057eac3cd3a5a614620547559fc9",
+  "displayName": "BrickblockToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BrickblockToken",
+    "symbol": "BBK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

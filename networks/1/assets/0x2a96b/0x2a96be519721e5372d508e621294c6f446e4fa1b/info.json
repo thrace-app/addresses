@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a96be519721e5372d508e621294c6f446e4fa1b",
+  "displayName": "JustSwapToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "JustSwapToken",
+    "symbol": "JST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

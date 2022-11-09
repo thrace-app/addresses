@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3740fb63ab7a09891d7c0d4299442a551d06f5fd",
+  "displayName": "Stablecoins.exchange cDAI/cUSDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stablecoins.exchange cDAI/cUSDC",
+    "symbol": "cDAIUSDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

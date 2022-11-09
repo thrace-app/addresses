@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12c15bc85e71293a23688a9cc561fb7edd30ed58",
+  "displayName": "Cthulhu Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cthulhu Coin",
+    "symbol": "CTHU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

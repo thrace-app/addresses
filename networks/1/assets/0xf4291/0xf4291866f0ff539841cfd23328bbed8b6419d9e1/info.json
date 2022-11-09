@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4291866f0ff539841cfd23328bbed8b6419d9e1",
+  "displayName": "YYDS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YYDS Token",
+    "symbol": "YYDS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

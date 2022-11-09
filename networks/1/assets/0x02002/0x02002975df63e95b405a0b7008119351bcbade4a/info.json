@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02002975df63e95b405a0b7008119351bcbade4a",
+  "displayName": "PulseFireToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PulseFireToken",
+    "symbol": "PFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34b7cd69f4c013393a0ffdfc6c3d0b0a1ace971c",
+  "displayName": "HedgeHog",
+  "type": "TOKEN",
+  "token": {
+    "name": "HedgeHog",
+    "symbol": "HEDGEHOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

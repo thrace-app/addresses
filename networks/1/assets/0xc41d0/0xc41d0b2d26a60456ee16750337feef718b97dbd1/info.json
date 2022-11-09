@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc41d0b2d26a60456ee16750337feef718b97dbd1",
+  "displayName": "Mill Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mill Network Token",
+    "symbol": "MILL ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

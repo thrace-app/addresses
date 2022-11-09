@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f436d4d64f06a7f6eb232869a59474c03a1be92",
+  "displayName": "KSJ TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "KSJ TOKEN",
+    "symbol": "KSJ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

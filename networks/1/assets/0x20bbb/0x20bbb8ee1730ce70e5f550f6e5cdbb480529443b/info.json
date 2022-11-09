@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20bbb8ee1730ce70e5f550f6e5cdbb480529443b",
+  "displayName": "Digimon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digimon Token",
+    "symbol": "DIGIMON",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

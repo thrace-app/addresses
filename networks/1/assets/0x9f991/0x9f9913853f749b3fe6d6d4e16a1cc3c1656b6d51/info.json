@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f9913853f749b3fe6d6d4e16a1cc3c1656b6d51",
+  "displayName": "BITTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BITTOKEN",
+    "symbol": "BITT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

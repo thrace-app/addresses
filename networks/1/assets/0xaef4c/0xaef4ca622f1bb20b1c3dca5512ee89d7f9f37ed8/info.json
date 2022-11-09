@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaef4ca622f1bb20b1c3dca5512ee89d7f9f37ed8",
+  "displayName": "Chill Cow",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chill Cow",
+    "symbol": "CHILL COW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

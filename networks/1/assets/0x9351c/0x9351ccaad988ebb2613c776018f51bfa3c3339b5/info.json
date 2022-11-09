@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9351ccaad988ebb2613c776018f51bfa3c3339b5",
+  "displayName": "South Park",
+  "type": "TOKEN",
+  "token": {
+    "name": "South Park",
+    "symbol": "SOUP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

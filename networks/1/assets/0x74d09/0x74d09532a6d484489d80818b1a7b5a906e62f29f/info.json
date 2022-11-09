@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x74d09532a6d484489d80818b1a7b5a906e62f29f",
+  "displayName": "Simple agreement for future tokens ",
+  "type": "TOKEN",
+  "token": {
+    "name": "Simple agreement for future tokens ",
+    "symbol": "SAFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

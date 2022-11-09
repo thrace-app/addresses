@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1ea2c0bf3604053522840bf824b159c1f88fe52",
+  "displayName": "Loopcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Loopcoin",
+    "symbol": "LPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

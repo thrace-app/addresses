@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dc8cea424869f59ab3801527ec419321f2e2548",
+  "displayName": "WAS Utility Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WAS Utility Token",
+    "symbol": "WAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

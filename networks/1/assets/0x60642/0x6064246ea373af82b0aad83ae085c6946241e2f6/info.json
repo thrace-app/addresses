@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6064246ea373af82b0aad83ae085c6946241e2f6",
+  "displayName": "JustPlay Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JustPlay Token",
+    "symbol": "JPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

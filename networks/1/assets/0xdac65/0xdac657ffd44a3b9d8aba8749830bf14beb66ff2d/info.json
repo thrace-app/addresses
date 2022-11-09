@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdac657ffd44a3b9d8aba8749830bf14beb66ff2d",
+  "displayName": "humanDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "humanDAO",
+    "symbol": "HDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64c2e1ea1d1a2c02902f15181e163ecfcf59de8c",
+  "displayName": "Perry Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Perry Token",
+    "symbol": "TP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

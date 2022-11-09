@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e1d8a8b01374ab1aa26b40e7c6733e6c168568a",
+  "displayName": "Winsusu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Winsusu Token",
+    "symbol": "SUSU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

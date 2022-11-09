@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x187f5004faff679d523338969d2683a651f48b12",
+  "displayName": "Crela Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crela Token",
+    "symbol": "Crela",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

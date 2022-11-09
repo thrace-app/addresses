@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83add7c516542921b1ed9bc13d6d57ea523c8e4b",
+  "displayName": "UniFit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniFit Token",
+    "symbol": "UNIFIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

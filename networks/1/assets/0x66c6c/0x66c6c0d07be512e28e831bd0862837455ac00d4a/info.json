@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66c6c0d07be512e28e831bd0862837455ac00d4a",
+  "displayName": "yearn.finance.fucktoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "yearn.finance.fucktoken",
+    "symbol": "YFFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

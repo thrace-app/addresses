@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3212b29e33587a00fb1c83346f5dbfa69a458923",
+  "displayName": "The Tokenized Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Tokenized Bitcoin",
+    "symbol": "imBTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01581101c9bfa5e5edbbe6fca84f7620fc514ea4",
+  "displayName": "HEXFund",
+  "type": "TOKEN",
+  "token": {
+    "name": "HEXFund",
+    "symbol": "HEXFund",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

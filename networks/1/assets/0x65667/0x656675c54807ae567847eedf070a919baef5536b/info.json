@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x656675c54807ae567847eedf070a919baef5536b",
+  "displayName": "newDRIA",
+  "type": "TOKEN",
+  "token": {
+    "name": "newDRIA",
+    "symbol": "DRIA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

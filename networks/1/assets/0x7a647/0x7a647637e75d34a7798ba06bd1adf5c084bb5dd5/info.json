@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a647637e75d34a7798ba06bd1adf5c084bb5dd5",
+  "displayName": "BSYToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BSYToken",
+    "symbol": "BSY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10efc4e93189b572f83e14e35932313b9da0e4f0",
+  "displayName": "Lith Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lith Token",
+    "symbol": "LITH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

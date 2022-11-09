@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7105ec15995a97496ec25de36cf7eec47b703375",
+  "displayName": "Red Box Dapp Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Red Box Dapp Token",
+    "symbol": "RBD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

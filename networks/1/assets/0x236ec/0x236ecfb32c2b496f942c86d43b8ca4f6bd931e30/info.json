@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x236ecfb32c2b496f942c86d43b8ca4f6bd931e30",
+  "displayName": "Morph Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Morph Coin",
+    "symbol": "MORC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d234f5c45f8698e9309a1452a68c80bd71b4e11",
+  "displayName": "PulseBabyDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "PulseBabyDoge",
+    "symbol": "PLBD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a63d6a2cb9e297d78820d1ebfec357f4f7557cd",
+  "displayName": "Bitcoin INU",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin INU",
+    "symbol": "BTCI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

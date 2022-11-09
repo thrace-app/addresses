@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x912ccec048929cd3cbd33e9f9e46f134f8db898a",
+  "displayName": "DOT Allocation Indicator",
+  "type": "TOKEN",
+  "token": {
+    "name": "DOT Allocation Indicator",
+    "symbol": "DOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

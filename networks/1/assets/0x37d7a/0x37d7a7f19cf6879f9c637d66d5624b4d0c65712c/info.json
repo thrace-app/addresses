@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37d7a7f19cf6879f9c637d66d5624b4d0c65712c",
+  "displayName": "The CPU",
+  "type": "TOKEN",
+  "token": {
+    "name": "The CPU",
+    "symbol": "CPU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

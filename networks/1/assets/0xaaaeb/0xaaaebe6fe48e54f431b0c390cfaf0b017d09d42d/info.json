@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+  "displayName": "Celsius",
+  "type": "TOKEN",
+  "token": {
+    "name": "Celsius",
+    "symbol": "CEL",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

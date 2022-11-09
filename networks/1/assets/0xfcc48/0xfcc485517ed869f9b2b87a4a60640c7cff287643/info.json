@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfcc485517ed869f9b2b87a4a60640c7cff287643",
+  "displayName": "TikTok Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TikTok Token",
+    "symbol": "TIKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05ecbff0a02c3466f6bf47944116bc85f8b830fc",
+  "displayName": "Born Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Born Protocol",
+    "symbol": "BORN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

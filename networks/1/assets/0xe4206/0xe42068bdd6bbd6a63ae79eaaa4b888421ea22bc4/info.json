@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe42068bdd6bbd6a63ae79eaaa4b888421ea22bc4",
+  "displayName": "RippleX",
+  "type": "TOKEN",
+  "token": {
+    "name": "RippleX",
+    "symbol": "RIPX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

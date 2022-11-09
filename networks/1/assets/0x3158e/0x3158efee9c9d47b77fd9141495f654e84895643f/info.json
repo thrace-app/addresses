@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3158efee9c9d47b77fd9141495f654e84895643f",
+  "displayName": "Electrom Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Electrom Coin",
+    "symbol": "ETM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

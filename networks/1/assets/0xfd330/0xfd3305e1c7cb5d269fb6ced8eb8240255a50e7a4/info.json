@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd3305e1c7cb5d269fb6ced8eb8240255a50e7a4",
+  "displayName": "Cloudbit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cloudbit Token",
+    "symbol": "Cloudbit Token",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x692e5f699c2ba69126a2899e21a1e4fc966fd25d",
+  "displayName": "Teh Universe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Teh Universe",
+    "symbol": "42",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

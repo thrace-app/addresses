@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f8a577ff490a86b1b798807bb82b961baccc837",
+  "displayName": "ChannelToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChannelToken",
+    "symbol": "Channel",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

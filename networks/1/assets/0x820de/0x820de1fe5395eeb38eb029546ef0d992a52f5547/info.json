@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x820de1fe5395eeb38eb029546ef0d992a52f5547",
+  "displayName": "Dexrium",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dexrium",
+    "symbol": "$DEX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

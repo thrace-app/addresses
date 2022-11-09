@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc43fd5792ff4ceba55a6465371a25ab00a54d1be",
+  "displayName": "Mts Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mts Token",
+    "symbol": "MTST",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

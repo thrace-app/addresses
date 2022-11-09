@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x91376343e5310143acd93eb4cf25bc4ecc47bd5b",
+  "displayName": "Trader Wallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trader Wallet",
+    "symbol": "TRADER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

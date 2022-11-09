@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9aa87047d40d7681eba2919b98dc621864814138",
+  "displayName": "KFA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KFA Token",
+    "symbol": "KFA🐉",
+    "decimals": 16,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea6695bf4fdff7ae4d888464624ee5a6c19f85a2",
+  "displayName": "Shart Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shart Token",
+    "symbol": "SHART",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8ab74ed4f1b73a6a76c027c9361ebdf42636af9",
+  "displayName": "Froggy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Froggy Token",
+    "symbol": "FROGGY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

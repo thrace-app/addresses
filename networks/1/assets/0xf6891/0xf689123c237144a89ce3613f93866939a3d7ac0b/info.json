@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf689123c237144a89ce3613f93866939a3d7ac0b",
+  "displayName": "Meteoreum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meteoreum",
+    "symbol": "$METH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

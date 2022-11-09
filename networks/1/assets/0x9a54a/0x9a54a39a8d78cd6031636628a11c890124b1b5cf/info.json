@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a54a39a8d78cd6031636628a11c890124b1b5cf",
+  "displayName": "NFracTion Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFracTion Token",
+    "symbol": "NFTA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

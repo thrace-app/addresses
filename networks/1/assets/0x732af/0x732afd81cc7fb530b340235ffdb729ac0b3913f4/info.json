@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x732afd81cc7fb530b340235ffdb729ac0b3913f4",
+  "displayName": "kangaroo",
+  "type": "TOKEN",
+  "token": {
+    "name": "kangaroo",
+    "symbol": "ROO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

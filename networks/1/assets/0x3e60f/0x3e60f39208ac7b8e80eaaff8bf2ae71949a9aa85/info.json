@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e60f39208ac7b8e80eaaff8bf2ae71949a9aa85",
+  "displayName": "xGem",
+  "type": "TOKEN",
+  "token": {
+    "name": "xGem",
+    "symbol": "xGEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

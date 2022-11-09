@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2d68c277341409dc8514273713a06de0563ceed8",
+  "displayName": "WoodToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WoodToken",
+    "symbol": "WOOD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

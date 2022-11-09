@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36ec5d86bd05c15053e8068386070161bdf4c245",
+  "displayName": "Fission cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fission cash",
+    "symbol": "FCX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

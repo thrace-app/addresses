@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe95351bddfd2c4260957f3571ca367e0824bb8b",
+  "displayName": "MEVrefund",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEVrefund",
+    "symbol": "MEVrefund",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

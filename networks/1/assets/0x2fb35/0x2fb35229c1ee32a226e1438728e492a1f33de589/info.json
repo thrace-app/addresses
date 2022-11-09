@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2fb35229c1ee32a226e1438728e492a1f33de589",
+  "displayName": "PubeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PubeCoin",
+    "symbol": "PUBE",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

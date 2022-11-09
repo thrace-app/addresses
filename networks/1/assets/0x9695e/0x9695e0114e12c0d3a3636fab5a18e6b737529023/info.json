@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9695e0114e12c0d3a3636fab5a18e6b737529023",
+  "displayName": "DFYN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DFYN Token",
+    "symbol": "DFYN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

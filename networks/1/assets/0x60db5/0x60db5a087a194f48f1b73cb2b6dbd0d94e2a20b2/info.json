@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x60db5a087a194f48f1b73cb2b6dbd0d94e2a20b2",
+  "displayName": "Bloopycoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bloopycoin",
+    "symbol": "BLOOP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x98cc3c7c084742a1ca4154df8c6dab9f4dffab98",
+  "displayName": "BoomerBucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "BoomerBucks",
+    "symbol": "BBB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

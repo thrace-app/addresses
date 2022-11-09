@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde3b2277935fc03ae983e033deedc6581c4f10e1",
+  "displayName": "Dark Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dark Ethereum",
+    "symbol": "DETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

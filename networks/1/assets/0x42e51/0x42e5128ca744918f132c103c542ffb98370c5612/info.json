@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42e5128ca744918f132c103c542ffb98370c5612",
+  "displayName": "Save Art",
+  "type": "TOKEN",
+  "token": {
+    "name": "Save Art",
+    "symbol": "SAVEART",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

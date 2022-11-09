@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c19209bbb0318477f435376e9a88bf94140d30a",
+  "displayName": "ETF",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETF",
+    "symbol": "ETF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

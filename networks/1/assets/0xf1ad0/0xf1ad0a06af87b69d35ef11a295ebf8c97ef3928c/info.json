@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1ad0a06af87b69d35ef11a295ebf8c97ef3928c",
+  "displayName": "Crystal Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crystal Network Token",
+    "symbol": "CNT",
+    "decimals": 14,
+    "type": "ERC20"
+  }
+}

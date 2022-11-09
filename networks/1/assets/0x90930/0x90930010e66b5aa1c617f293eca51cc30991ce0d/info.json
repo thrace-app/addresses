@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90930010e66b5aa1c617f293eca51cc30991ce0d",
+  "displayName": "Rare Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rare Ape",
+    "symbol": "RAREAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

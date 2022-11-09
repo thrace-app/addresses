@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2af2222816244f7dc4d2faed304cc3239e8763c1",
+  "displayName": "Bluzelle Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bluzelle Token",
+    "symbol": "BLZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

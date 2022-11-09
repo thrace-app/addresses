@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3dd28491688ae162c9201d678f9f044ca33ca56",
+  "displayName": "BlockchainYieldToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlockchainYieldToken",
+    "symbol": "BYT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

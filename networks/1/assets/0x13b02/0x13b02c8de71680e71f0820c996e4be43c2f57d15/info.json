@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13b02c8de71680e71f0820c996e4be43c2f57d15",
+  "displayName": "Wrapped Mirror QQQ Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Mirror QQQ Token",
+    "symbol": "mQQQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

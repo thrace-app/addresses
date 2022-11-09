@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabe68904ad7957c84e227e104ac3bb3e3a9bbc06",
+  "displayName": "CryptoCoinPay",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoCoinPay",
+    "symbol": "CCP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

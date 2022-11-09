@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45e09e5cb215f5e9b80972cb341628b513c3a2d2",
+  "displayName": "NekoCat",
+  "type": "TOKEN",
+  "token": {
+    "name": "NekoCat",
+    "symbol": "NCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

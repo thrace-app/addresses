@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f35d0d0a2c46293adad9d16fd847445b100efb8",
+  "displayName": "ETH Micro",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH Micro",
+    "symbol": "ETHMI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

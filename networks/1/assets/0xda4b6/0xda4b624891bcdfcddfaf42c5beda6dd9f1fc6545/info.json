@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda4b624891bcdfcddfaf42c5beda6dd9f1fc6545",
+  "displayName": "The Money Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Money Token",
+    "symbol": "TMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

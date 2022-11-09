@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb57420fad6731b004309d5a0ec7c6c906adb8df7",
+  "displayName": "DotOracle",
+  "type": "TOKEN",
+  "token": {
+    "name": "DotOracle",
+    "symbol": "DTO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

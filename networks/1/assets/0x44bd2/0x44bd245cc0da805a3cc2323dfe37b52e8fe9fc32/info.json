@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44bd245cc0da805a3cc2323dfe37b52e8fe9fc32",
+  "displayName": "STAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "STAO Token",
+    "symbol": "STAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

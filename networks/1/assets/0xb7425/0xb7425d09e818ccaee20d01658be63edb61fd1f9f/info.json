@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7425d09e818ccaee20d01658be63edb61fd1f9f",
+  "displayName": "MaiCo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MaiCo Token",
+    "symbol": "MAIC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x60113c80b68de277390734145c733df028f6c4a1",
+  "displayName": "Proof of Bird",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Bird",
+    "symbol": "POB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

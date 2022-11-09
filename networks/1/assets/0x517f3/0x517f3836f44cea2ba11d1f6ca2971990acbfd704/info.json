@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x517f3836f44cea2ba11d1f6ca2971990acbfd704",
+  "displayName": "Hungry Cat Project",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hungry Cat Project",
+    "symbol": "HCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

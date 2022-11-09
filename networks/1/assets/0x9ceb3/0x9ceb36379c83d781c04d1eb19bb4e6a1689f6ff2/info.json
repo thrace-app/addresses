@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ceb36379c83d781c04d1eb19bb4e6a1689f6ff2",
+  "displayName": "FFI",
+  "type": "TOKEN",
+  "token": {
+    "name": "FFI",
+    "symbol": "FFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

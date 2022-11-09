@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6770d4f08f8b60163858e02752efd954b294d7fe",
+  "displayName": "SwiBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "SwiBank",
+    "symbol": "SKT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

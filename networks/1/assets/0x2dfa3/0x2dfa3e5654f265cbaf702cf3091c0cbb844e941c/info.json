@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dfa3e5654f265cbaf702cf3091c0cbb844e941c",
+  "displayName": "DokiDoki",
+  "type": "TOKEN",
+  "token": {
+    "name": "DokiDoki",
+    "symbol": "DOKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

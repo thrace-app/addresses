@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2b369e325118fc5a5b64bd730056b45577a53e8",
+  "displayName": "Gordon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gordon",
+    "symbol": "GEKKO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

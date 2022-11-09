@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5960759f3fd340de6a176d54a66ef95ea5b0c9e2",
+  "displayName": "Parody Song",
+  "type": "TOKEN",
+  "token": {
+    "name": "Parody Song",
+    "symbol": "$PARODY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

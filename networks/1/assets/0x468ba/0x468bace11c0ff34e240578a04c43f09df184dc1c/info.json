@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x468bace11c0ff34e240578a04c43f09df184dc1c",
+  "displayName": "Kung fu Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kung fu Doge",
+    "symbol": "DOUNFU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x003da78deb9dd263d46bf992da4fa255aa9766fc",
+  "displayName": "CuteBullCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CuteBullCoin",
+    "symbol": "CBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

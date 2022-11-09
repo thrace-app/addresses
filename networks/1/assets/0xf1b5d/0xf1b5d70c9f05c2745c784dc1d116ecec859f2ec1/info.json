@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1b5d70c9f05c2745c784dc1d116ecec859f2ec1",
+  "displayName": "Stinky Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stinky Inu",
+    "symbol": "STINKY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

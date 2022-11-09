@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ae0dbbc2cf641ebaa75393c7de7920e75421cec",
+  "displayName": "EthEver",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthEver",
+    "symbol": "ETHE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

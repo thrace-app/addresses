@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd76a036dc1bde6a96decccb2226ac35e24b2bbb",
+  "displayName": "ChopperFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChopperFinance",
+    "symbol": "CHOPPER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

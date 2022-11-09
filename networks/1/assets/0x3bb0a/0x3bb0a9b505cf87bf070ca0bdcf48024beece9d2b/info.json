@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3bb0a9b505cf87bf070ca0bdcf48024beece9d2b",
+  "displayName": "PlanetDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "PlanetDoge",
+    "symbol": "PLOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c301056088bb9391c2a91650285de67c8cd6076",
+  "displayName": "Crypto Tax Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Tax Token",
+    "symbol": "CRYPTAX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe2432c9d8d668a5b1eeb1d7e75d6e49d3952980d",
+  "displayName": "WebStock",
+  "type": "TOKEN",
+  "token": {
+    "name": "WebStock",
+    "symbol": "Webs",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

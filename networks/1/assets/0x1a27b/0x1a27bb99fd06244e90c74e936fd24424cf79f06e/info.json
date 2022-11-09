@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a27bb99fd06244e90c74e936fd24424cf79f06e",
+  "displayName": "Parma Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Parma Token",
+    "symbol": "PARMA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

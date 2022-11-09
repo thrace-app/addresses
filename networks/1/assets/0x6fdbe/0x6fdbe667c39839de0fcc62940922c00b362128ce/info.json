@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fdbe667c39839de0fcc62940922c00b362128ce",
+  "displayName": "VitalikBNB",
+  "type": "TOKEN",
+  "token": {
+    "name": "VitalikBNB",
+    "symbol": "$VB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3302e4f7b22d37cefd3f75737177ca88a4dc213",
+  "displayName": "BitPay",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitPay",
+    "symbol": "BTP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

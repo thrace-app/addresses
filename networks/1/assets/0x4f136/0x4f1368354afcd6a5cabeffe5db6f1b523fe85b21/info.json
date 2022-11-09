@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f1368354afcd6a5cabeffe5db6f1b523fe85b21",
+  "displayName": "Polar Bear",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polar Bear",
+    "symbol": "BEAR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

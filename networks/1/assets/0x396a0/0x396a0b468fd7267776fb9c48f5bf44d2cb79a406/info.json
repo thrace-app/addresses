@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x396a0b468fd7267776fb9c48f5bf44d2cb79a406",
+  "displayName": "tenderly",
+  "type": "TOKEN",
+  "token": {
+    "name": "tenderly",
+    "symbol": "tender",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

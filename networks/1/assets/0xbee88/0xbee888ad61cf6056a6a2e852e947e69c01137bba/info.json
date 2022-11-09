@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbee888ad61cf6056a6a2e852e947e69c01137bba",
+  "displayName": "The Ape Express",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Ape Express",
+    "symbol": "AE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

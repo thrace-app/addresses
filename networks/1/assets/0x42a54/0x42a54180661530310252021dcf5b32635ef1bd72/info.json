@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42a54180661530310252021dcf5b32635ef1bd72",
+  "displayName": "FiveCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FiveCoin",
+    "symbol": "FIVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

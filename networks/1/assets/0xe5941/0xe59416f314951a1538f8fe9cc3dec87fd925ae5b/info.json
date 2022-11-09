@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe59416f314951a1538f8fe9cc3dec87fd925ae5b",
+  "displayName": "PoodleCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PoodleCoin",
+    "symbol": "PUDL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

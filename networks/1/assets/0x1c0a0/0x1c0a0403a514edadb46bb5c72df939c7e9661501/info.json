@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c0a0403a514edadb46bb5c72df939c7e9661501",
+  "displayName": "Stonks Trading",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stonks Trading",
+    "symbol": "STONKS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

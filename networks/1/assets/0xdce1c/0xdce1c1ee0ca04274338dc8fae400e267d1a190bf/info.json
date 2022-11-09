@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdce1c1ee0ca04274338dc8fae400e267d1a190bf",
+  "displayName": "Vecna Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vecna Coin",
+    "symbol": "VECNA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

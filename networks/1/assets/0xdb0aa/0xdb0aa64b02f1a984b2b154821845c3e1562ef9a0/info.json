@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb0aa64b02f1a984b2b154821845c3e1562ef9a0",
+  "displayName": "Naruto Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Naruto Token",
+    "symbol": "NRT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd31a59c85ae9d8edefec411d448f90841571b89c",
+  "displayName": "Wrapped SOL (Wormhole)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped SOL (Wormhole)",
+    "symbol": "SOL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

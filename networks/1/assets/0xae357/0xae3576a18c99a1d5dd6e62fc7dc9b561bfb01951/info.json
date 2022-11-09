@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae3576a18c99a1d5dd6e62fc7dc9b561bfb01951",
+  "displayName": "Mosaic",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mosaic",
+    "symbol": "YMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

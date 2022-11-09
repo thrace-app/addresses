@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaec253de743ec57b8e982a6ce3779316860f91c4",
+  "displayName": "FHD token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FHD token",
+    "symbol": "FHD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

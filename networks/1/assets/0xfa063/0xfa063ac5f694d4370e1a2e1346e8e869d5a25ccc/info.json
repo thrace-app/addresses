@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa063ac5f694d4370e1a2e1346e8e869d5a25ccc",
+  "displayName": "eWallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "eWallet",
+    "symbol": "eWallet",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

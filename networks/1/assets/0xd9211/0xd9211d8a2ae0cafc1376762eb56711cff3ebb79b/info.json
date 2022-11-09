@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9211d8a2ae0cafc1376762eb56711cff3ebb79b",
+  "displayName": "BUILD DeFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BUILD DeFi Token",
+    "symbol": "BUILD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

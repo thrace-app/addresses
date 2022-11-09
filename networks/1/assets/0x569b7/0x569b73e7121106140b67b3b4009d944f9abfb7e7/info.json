@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x569b73e7121106140b67b3b4009d944f9abfb7e7",
+  "displayName": "EstateToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "EstateToken",
+    "symbol": "ESTATE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

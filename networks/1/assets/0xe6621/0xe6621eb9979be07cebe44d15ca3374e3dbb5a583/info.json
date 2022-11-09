@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe6621eb9979be07cebe44d15ca3374e3dbb5a583",
+  "displayName": "Course Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Course Coin",
+    "symbol": "CRS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

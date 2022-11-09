@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfddb54eed5437cdcdca948ac5359f8d7205fa42e",
+  "displayName": "YFDex",
+  "type": "TOKEN",
+  "token": {
+    "name": "YFDex",
+    "symbol": "YFD",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58eff1d5dccc88b4544d0fc7ed45bf9304eec22b",
+  "displayName": "MetaEther",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaEther",
+    "symbol": "$MTER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

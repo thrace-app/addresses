@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x615691b89d3ebe83da4d8abcbc5beae31fbd4159",
+  "displayName": "Outside Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Outside Coin",
+    "symbol": "OUTSIDE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

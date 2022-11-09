@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b516015d21770cc5a37f6fc604794cfac63f579",
+  "displayName": "Capricorn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Capricorn Token",
+    "symbol": "CAPR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

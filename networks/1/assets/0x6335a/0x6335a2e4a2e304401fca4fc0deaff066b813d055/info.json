@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6335a2e4a2e304401fca4fc0deaff066b813d055",
+  "displayName": "Lollipop Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lollipop Token",
+    "symbol": "LPOP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

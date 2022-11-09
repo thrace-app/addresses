@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x322f4f6a48329690957a3bcbd1301516c2b83c1f",
+  "displayName": "MesChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "MesChain",
+    "symbol": "MES",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

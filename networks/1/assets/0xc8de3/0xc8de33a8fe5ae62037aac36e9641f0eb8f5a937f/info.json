@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8de33a8fe5ae62037aac36e9641f0eb8f5a937f",
+  "displayName": "New Pool Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Pool Coin",
+    "symbol": "NPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

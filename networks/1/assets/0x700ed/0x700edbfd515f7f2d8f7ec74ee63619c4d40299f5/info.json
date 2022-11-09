@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x700edbfd515f7f2d8f7ec74ee63619c4d40299f5",
+  "displayName": "Lucky Number",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucky Number",
+    "symbol": "777",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

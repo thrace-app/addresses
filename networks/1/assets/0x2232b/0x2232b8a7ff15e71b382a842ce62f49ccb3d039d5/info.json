@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2232b8a7ff15e71b382a842ce62f49ccb3d039d5",
+  "displayName": "Mer Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mer Coin",
+    "symbol": "MER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

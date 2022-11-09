@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e8726bb2452d4c13b37c102c949104ee01f3cdd",
+  "displayName": "Stably Reward Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stably Reward Token",
+    "symbol": "SBLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

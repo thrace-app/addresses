@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11b7c75c5bf21f5dfa8777c70847ca642888efde",
+  "displayName": "GMT DeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "GMT DeFi",
+    "symbol": "GMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

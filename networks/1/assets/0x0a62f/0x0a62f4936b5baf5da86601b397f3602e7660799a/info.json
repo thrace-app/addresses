@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a62f4936b5baf5da86601b397f3602e7660799a",
+  "displayName": "Tesla DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tesla DAO",
+    "symbol": "Tesla",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

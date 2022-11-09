@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9fcf418b971134625cdf38448b949c8640971671",
+  "displayName": "Neutrino EUR",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neutrino EUR",
+    "symbol": "EURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea8c4fc8d9bf10bca7b2bc7d12a33b7616cae8c3",
+  "displayName": "ibc",
+  "type": "TOKEN",
+  "token": {
+    "name": "ibc",
+    "symbol": "IBC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

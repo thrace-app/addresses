@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5eda415009b984118e7061966b629b12733dff92",
+  "displayName": "Super Radar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Radar",
+    "symbol": "SRADAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x212dd60d4bf0da8372fe8116474602d429e5735f",
+  "displayName": "Stobox Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stobox Token",
+    "symbol": "STBU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

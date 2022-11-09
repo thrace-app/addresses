@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa3242655fa959e192926fc2acd6cfd8543a7af64",
+  "displayName": "Pitbull Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pitbull Token",
+    "symbol": "PBULL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

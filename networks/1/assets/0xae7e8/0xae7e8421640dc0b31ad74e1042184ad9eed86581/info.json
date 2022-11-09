@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae7e8421640dc0b31ad74e1042184ad9eed86581",
+  "displayName": "Mastermind",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mastermind",
+    "symbol": "MMM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

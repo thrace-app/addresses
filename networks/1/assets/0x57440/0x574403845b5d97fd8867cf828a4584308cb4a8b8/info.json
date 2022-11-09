@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x574403845b5d97fd8867cf828a4584308cb4a8b8",
+  "displayName": "Bitcoin Standard Hashrate Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Standard Hashrate Token",
+    "symbol": "BTCST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

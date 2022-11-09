@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b890fd37cd50bea59346fc2f8ddb7cd9f5fabd5",
+  "displayName": "New Order",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Order",
+    "symbol": "NEWO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

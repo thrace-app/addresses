@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaaf0bf3a42966be8a2dac468d24b100a6417c8d3",
+  "displayName": "Pomeranian",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pomeranian",
+    "symbol": "POM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

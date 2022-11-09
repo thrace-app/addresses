@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf0de2f2d2d7b361366333f4ff054c8e6ee2c46a",
+  "displayName": "Special Drawing Rights",
+  "type": "TOKEN",
+  "token": {
+    "name": "Special Drawing Rights",
+    "symbol": "SDR",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

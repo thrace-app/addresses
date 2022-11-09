@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa5bfc32027a74334e3b266ed7a67966fd795ec6",
+  "displayName": "Pool of Wealth",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pool of Wealth",
+    "symbol": "PoW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

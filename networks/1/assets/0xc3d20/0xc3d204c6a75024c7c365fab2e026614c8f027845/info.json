@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3d204c6a75024c7c365fab2e026614c8f027845",
+  "displayName": "Alice token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Alice token",
+    "symbol": "ALC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

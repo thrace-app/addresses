@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb811a6ded7d10522c00d91c5854bf0ce885d4a1",
+  "displayName": "Joint",
+  "type": "TOKEN",
+  "token": {
+    "name": "Joint",
+    "symbol": "JOINT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

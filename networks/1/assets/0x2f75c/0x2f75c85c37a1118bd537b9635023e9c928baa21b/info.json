@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f75c85c37a1118bd537b9635023e9c928baa21b",
+  "displayName": "Aramco",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aramco",
+    "symbol": "ARAMCO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

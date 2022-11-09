@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdad17b412497eb44e26a77e2aa9c686b69216956",
+  "displayName": "godtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "godtoken",
+    "symbol": "got",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf45f45431dd1d16f7924fc9e81280ac25ef0ac9",
+  "displayName": "SidCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SidCoin",
+    "symbol": "SID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

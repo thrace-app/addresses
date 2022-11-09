@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3175df0976dfa876431c2e9ee6bc45b65d3473cc",
+  "displayName": "Curve.fi FRAX/USDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve.fi FRAX/USDC",
+    "symbol": "crvFRAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

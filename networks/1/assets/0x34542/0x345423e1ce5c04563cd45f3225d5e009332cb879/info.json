@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x345423e1ce5c04563cd45f3225d5e009332cb879",
+  "displayName": "FairMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "FairMoon",
+    "symbol": "FM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

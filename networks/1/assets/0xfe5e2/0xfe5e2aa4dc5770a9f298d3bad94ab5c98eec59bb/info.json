@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe5e2aa4dc5770a9f298d3bad94ab5c98eec59bb",
+  "displayName": "OkinamiBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "OkinamiBurn",
+    "symbol": "OKB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

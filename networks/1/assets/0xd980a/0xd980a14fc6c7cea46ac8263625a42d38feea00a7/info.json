@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd980a14fc6c7cea46ac8263625a42d38feea00a7",
+  "displayName": "YummySwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "YummySwap",
+    "symbol": "Yummy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

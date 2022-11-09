@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11930293fc525da6b83bd136ddeb0c84298b2bd2",
+  "displayName": "Goldtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goldtoken",
+    "symbol": "GLT",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

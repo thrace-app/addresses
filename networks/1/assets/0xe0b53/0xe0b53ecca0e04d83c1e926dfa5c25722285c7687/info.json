@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0b53ecca0e04d83c1e926dfa5c25722285c7687",
+  "displayName": "Titan Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Titan Coin",
+    "symbol": "TTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2971ab8e0f435e61180e5e9ff94e54831d5465a1",
+  "displayName": "SHCToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SHCToken",
+    "symbol": "SHC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

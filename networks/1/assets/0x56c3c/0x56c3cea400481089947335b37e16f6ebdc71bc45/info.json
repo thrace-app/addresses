@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56c3cea400481089947335b37e16f6ebdc71bc45",
+  "displayName": "bondly.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "bondly.finance",
+    "symbol": "BOND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd91a53b305ecec8bb08e971be3f50a3f770b294",
+  "displayName": "BYTE",
+  "type": "TOKEN",
+  "token": {
+    "name": "BYTE",
+    "symbol": "BIT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

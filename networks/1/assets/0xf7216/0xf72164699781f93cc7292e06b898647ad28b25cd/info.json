@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf72164699781f93cc7292e06b898647ad28b25cd",
+  "displayName": "ElephantFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "ElephantFinance",
+    "symbol": "ELEPH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

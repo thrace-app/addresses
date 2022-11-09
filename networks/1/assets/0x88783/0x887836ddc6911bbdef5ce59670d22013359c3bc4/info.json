@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x887836ddc6911bbdef5ce59670d22013359c3bc4",
+  "displayName": "GhostBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "GhostBank",
+    "symbol": "Mingbi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

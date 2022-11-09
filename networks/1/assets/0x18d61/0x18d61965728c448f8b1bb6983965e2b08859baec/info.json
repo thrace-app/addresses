@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18d61965728c448f8b1bb6983965e2b08859baec",
+  "displayName": "finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "finance",
+    "symbol": "BNK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

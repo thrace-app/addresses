@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68cfbad56d6db48e93eda71898659bd2b861ff19",
+  "displayName": "Zora USDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zora USDC",
+    "symbol": "zUSDC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

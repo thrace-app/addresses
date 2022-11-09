@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcdd57f4c952c33e266aa48db39f4cc5adcf0674f",
+  "displayName": "Virtual Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Virtual Inu",
+    "symbol": "vINU",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

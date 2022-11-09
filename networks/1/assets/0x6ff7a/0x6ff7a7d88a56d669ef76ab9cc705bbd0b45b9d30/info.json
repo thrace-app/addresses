@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ff7a7d88a56d669ef76ab9cc705bbd0b45b9d30",
+  "displayName": "OpenSea NFT marketplace",
+  "type": "TOKEN",
+  "token": {
+    "name": "OpenSea NFT marketplace",
+    "symbol": "OpenSea",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

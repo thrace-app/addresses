@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x065893a528306a24078e96c7078cf415bb5e5a2d",
+  "displayName": "POW To POS",
+  "type": "TOKEN",
+  "token": {
+    "name": "POW To POS",
+    "symbol": "LastPOW",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

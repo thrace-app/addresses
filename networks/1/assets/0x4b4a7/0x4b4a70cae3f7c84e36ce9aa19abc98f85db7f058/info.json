@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b4a70cae3f7c84e36ce9aa19abc98f85db7f058",
+  "displayName": "Financial Aid Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Financial Aid Coin",
+    "symbol": "FAC",
+    "decimals": 7,
+    "type": "ERC20"
+  }
+}

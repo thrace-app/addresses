@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4100ef4fa5978f7c8cf4233c667767d2b5ff20d3",
+  "displayName": "Taiki Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Taiki Inu",
+    "symbol": "TAIKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe438cae519613565c7357edb8724a6dc2c29789",
+  "displayName": "NULS",
+  "type": "TOKEN",
+  "token": {
+    "name": "NULS",
+    "symbol": "SNULS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

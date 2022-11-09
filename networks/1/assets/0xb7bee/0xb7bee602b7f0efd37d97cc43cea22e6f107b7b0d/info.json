@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7bee602b7f0efd37d97cc43cea22e6f107b7b0d",
+  "displayName": "BankOfLINU",
+  "type": "TOKEN",
+  "token": {
+    "name": "BankOfLINU",
+    "symbol": "BOLINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

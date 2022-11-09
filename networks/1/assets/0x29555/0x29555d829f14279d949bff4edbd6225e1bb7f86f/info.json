@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x29555d829f14279d949bff4edbd6225e1bb7f86f",
+  "displayName": "CNTProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "CNTProtocol",
+    "symbol": "CNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

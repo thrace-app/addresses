@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75d0afe86dd6d5ae3659c30d205769a4439466cd",
+  "displayName": "Debt",
+  "type": "TOKEN",
+  "token": {
+    "name": "Debt",
+    "symbol": "DEBT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

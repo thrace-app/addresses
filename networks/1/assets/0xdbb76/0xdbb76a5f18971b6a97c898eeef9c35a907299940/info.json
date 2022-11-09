@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbb76a5f18971b6a97c898eeef9c35a907299940",
+  "displayName": "Bunny Bucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bunny Bucks",
+    "symbol": "$BB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

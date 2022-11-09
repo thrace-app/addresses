@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d2c21400f7ced43369bd4a8373e561878bb8a2e",
+  "displayName": "ybcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ybcoin",
+    "symbol": "YBCT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

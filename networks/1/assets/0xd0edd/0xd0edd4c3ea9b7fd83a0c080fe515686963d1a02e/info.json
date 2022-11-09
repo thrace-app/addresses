@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0edd4c3ea9b7fd83a0c080fe515686963d1a02e",
+  "displayName": "BNBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "BNBurn",
+    "symbol": "BNBurn",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

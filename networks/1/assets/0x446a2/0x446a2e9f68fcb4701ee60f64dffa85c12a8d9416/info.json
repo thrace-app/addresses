@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x446a2e9f68fcb4701ee60f64dffa85c12a8d9416",
+  "displayName": "PrincessPeachToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PrincessPeachToken",
+    "symbol": "PEACH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

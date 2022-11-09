@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11cb8536262e4b8417fe1b7f9d85ca07b43c9de5",
+  "displayName": "Saturn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Saturn",
+    "symbol": "Saturn",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

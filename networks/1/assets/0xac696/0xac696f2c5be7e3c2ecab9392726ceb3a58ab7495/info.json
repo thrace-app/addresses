@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac696f2c5be7e3c2ecab9392726ceb3a58ab7495",
+  "displayName": "Relph Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Relph Token",
+    "symbol": "RELPH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

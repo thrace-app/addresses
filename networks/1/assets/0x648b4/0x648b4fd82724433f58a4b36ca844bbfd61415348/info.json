@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x648b4fd82724433f58a4b36ca844bbfd61415348",
+  "displayName": "TOD",
+  "type": "TOKEN",
+  "token": {
+    "name": "TOD",
+    "symbol": "todo.finance",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

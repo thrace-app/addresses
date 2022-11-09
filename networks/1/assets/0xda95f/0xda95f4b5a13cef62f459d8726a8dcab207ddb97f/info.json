@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda95f4b5a13cef62f459d8726a8dcab207ddb97f",
+  "displayName": "ProTrade Eth",
+  "type": "TOKEN",
+  "token": {
+    "name": "ProTrade Eth",
+    "symbol": "ProTEth",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

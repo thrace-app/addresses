@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5555f75e3d5278082200fb451d1b6ba946d8e13b",
+  "displayName": "Iron Bank JPY",
+  "type": "TOKEN",
+  "token": {
+    "name": "Iron Bank JPY",
+    "symbol": "ibJPY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

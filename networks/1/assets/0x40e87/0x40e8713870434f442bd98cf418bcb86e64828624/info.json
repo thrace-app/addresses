@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40e8713870434f442bd98cf418bcb86e64828624",
+  "displayName": "dREAMZ Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "dREAMZ Token",
+    "symbol": "dREAMZ",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

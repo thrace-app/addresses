@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01ff97dbc7432e4d3b036eb1962db20e76c9bafd",
+  "displayName": "Loki Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Loki Inu",
+    "symbol": "LOKI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

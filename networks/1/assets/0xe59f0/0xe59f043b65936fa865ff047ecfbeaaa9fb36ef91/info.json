@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe59f043b65936fa865ff047ecfbeaaa9fb36ef91",
+  "displayName": "Zexa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zexa Token",
+    "symbol": "Zexa",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

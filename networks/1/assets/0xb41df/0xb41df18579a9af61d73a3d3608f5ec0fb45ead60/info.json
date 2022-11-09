@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb41df18579a9af61d73a3d3608f5ec0fb45ead60",
+  "displayName": "Pointless Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pointless Token",
+    "symbol": "POINT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3800544c0ad45e2222d67151ff08ee0c476f6221",
+  "displayName": "DBLend",
+  "type": "TOKEN",
+  "token": {
+    "name": "DBLend",
+    "symbol": "DBL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

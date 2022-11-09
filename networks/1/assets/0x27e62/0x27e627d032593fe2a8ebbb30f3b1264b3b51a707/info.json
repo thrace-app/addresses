@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27e627d032593fe2a8ebbb30f3b1264b3b51a707",
+  "displayName": "PropertyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PropertyCoin",
+    "symbol": "PTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

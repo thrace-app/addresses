@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4661125bc3fe81b1b77a159a5541db3de00dcc66",
+  "displayName": "T8x Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "T8x Token",
+    "symbol": "T8x",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96853087c9e364fe9554fd6fcfe13bcd942b04d5",
+  "displayName": "Spore Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spore Token",
+    "symbol": "SPORE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x528d59aaaa7f005c06e0c223e955aab4b995c9d0",
+  "displayName": "YearnSwap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YearnSwap Token",
+    "symbol": "YFSwap",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

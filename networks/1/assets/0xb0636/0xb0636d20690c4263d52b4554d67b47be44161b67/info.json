@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0636d20690c4263d52b4554d67b47be44161b67",
+  "displayName": "Bitcoin Up",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Up",
+    "symbol": "BTCUP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

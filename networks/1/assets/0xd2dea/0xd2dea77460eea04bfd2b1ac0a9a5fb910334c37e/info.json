@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2dea77460eea04bfd2b1ac0a9a5fb910334c37e",
+  "displayName": "Zepar Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zepar Token",
+    "symbol": "ZEPAR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

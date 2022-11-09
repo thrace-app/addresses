@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc277ef56d26277dd580c1f9cf964a9fb41df4f96",
+  "displayName": "Kira Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kira Token",
+    "symbol": "KEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

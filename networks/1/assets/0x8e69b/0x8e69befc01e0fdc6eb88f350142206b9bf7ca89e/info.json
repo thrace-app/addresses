@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e69befc01e0fdc6eb88f350142206b9bf7ca89e",
+  "displayName": "Papillon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Papillon Token",
+    "symbol": "PPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

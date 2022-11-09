@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ebf194e9d105f00ec2e74ea4c58199837bb3ba2",
+  "displayName": "Mount Olympus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mount Olympus Token",
+    "symbol": "OLYMPUS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

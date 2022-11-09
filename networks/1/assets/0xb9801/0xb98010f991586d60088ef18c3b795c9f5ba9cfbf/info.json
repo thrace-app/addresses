@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb98010f991586d60088ef18c3b795c9f5ba9cfbf",
+  "displayName": "BankOfDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "BankOfDC",
+    "symbol": "BODC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

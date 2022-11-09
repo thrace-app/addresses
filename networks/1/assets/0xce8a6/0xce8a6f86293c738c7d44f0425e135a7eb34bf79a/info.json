@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce8a6f86293c738c7d44f0425e135a7eb34bf79a",
+  "displayName": "RTN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RTN Token",
+    "symbol": "RTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

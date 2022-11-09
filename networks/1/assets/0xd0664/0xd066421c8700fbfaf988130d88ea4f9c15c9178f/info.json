@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd066421c8700fbfaf988130d88ea4f9c15c9178f",
+  "displayName": "TrainToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrainToken",
+    "symbol": "TT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

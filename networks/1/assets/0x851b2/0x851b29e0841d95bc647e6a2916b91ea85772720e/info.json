@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x851b29e0841d95bc647e6a2916b91ea85772720e",
+  "displayName": "RatToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RatToken",
+    "symbol": "RAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

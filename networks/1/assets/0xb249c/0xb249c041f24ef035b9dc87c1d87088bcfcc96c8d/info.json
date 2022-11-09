@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb249c041f24ef035b9dc87c1d87088bcfcc96c8d",
+  "displayName": "Freedom Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Freedom Token",
+    "symbol": "FREED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

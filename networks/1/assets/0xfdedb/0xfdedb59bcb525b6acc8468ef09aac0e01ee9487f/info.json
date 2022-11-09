@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfdedb59bcb525b6acc8468ef09aac0e01ee9487f",
+  "displayName": "TopTen",
+  "type": "TOKEN",
+  "token": {
+    "name": "TopTen",
+    "symbol": "前十名",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

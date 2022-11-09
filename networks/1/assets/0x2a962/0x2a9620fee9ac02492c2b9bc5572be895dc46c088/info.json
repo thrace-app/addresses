@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a9620fee9ac02492c2b9bc5572be895dc46c088",
+  "displayName": "MiniDoge Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MiniDoge Coin",
+    "symbol": "MDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

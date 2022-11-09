@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x785dd471d5c7ef260482cc959c9b26e7941edd07",
+  "displayName": "Egg Plant Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Egg Plant Token",
+    "symbol": "EGPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

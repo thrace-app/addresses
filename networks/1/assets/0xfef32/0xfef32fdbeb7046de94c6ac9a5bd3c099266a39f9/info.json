@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfef32fdbeb7046de94c6ac9a5bd3c099266a39f9",
+  "displayName": "PumpMeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PumpMeToken",
+    "symbol": "PUMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

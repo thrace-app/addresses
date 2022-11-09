@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73d881f016b922d1ec90fe48286a3178bd06119d",
+  "displayName": "Melginy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Melginy Token",
+    "symbol": "Melginy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

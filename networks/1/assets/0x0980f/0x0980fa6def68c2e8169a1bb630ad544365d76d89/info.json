@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0980fa6def68c2e8169a1bb630ad544365d76d89",
+  "displayName": "eth-mixer.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "eth-mixer.com",
+    "symbol": "MIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

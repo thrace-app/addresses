@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19d895f6ffa425b6a265cf16d8b8d03ec284d87d",
+  "displayName": "This Will Make You Rich",
+  "type": "TOKEN",
+  "token": {
+    "name": "This Will Make You Rich",
+    "symbol": "GETRICH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

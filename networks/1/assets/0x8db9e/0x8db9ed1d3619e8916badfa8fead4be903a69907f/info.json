@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8db9ed1d3619e8916badfa8fead4be903a69907f",
+  "displayName": "Tea Party",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tea Party",
+    "symbol": "tPARTY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

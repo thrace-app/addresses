@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06f671d606d28fa1b95aaa44158f3e2f62d7d81f",
+  "displayName": "Munch Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Munch Token",
+    "symbol": "MUNCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

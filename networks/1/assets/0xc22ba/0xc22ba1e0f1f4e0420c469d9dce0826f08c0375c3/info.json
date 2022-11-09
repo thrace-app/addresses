@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc22ba1e0f1f4e0420c469d9dce0826f08c0375c3",
+  "displayName": "Space Flight Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Space Flight Token",
+    "symbol": "SpaceFlight",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

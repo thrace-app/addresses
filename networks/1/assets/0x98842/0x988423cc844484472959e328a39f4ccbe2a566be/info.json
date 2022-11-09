@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x988423cc844484472959e328a39f4ccbe2a566be",
+  "displayName": "Fuzz Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fuzz Inu",
+    "symbol": "FUZZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

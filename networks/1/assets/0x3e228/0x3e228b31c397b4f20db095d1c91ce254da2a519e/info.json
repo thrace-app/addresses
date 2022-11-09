@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e228b31c397b4f20db095d1c91ce254da2a519e",
+  "displayName": "CPITOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "CPITOKEN",
+    "symbol": "CPIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

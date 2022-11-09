@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18e8c824247e5b1b2d787ebf5c66c37864fed484",
+  "displayName": "PolySwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolySwap",
+    "symbol": "POLYS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

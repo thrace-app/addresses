@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd33d7c5edbe956537bbd31aacbd8f7e88226c92d",
+  "displayName": "Collect Vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "Collect Vault",
+    "symbol": "CLTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

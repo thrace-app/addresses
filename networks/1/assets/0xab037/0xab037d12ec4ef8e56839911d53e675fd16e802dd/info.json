@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab037d12ec4ef8e56839911d53e675fd16e802dd",
+  "displayName": "Zen Garden Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zen Garden Token",
+    "symbol": "ZEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

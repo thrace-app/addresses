@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6f6bb0e17749fa80751e99564e6288fa6447233",
+  "displayName": "BountyProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "BountyProtocol",
+    "symbol": "BPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacaba72f60944f448a9a91444a224ac9294b2015",
+  "displayName": "Ether Burn DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether Burn DAO",
+    "symbol": "EBurned",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

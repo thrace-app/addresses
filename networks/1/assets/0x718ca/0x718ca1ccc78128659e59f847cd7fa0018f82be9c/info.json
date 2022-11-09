@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x718ca1ccc78128659e59f847cd7fa0018f82be9c",
+  "displayName": "Lebron Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lebron Token",
+    "symbol": "LBJ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

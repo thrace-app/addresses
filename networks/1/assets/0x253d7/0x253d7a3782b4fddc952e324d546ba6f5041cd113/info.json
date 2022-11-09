@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x253d7a3782b4fddc952e324d546ba6f5041cd113",
+  "displayName": "Burning Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burning Cat",
+    "symbol": "BURNCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

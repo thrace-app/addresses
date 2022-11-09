@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde01d7e88840fe55cb530f5bc950ae943b0ea51b",
+  "displayName": "WaltCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WaltCoin",
+    "symbol": "WALT",
+    "decimals": 14,
+    "type": "ERC20"
+  }
+}

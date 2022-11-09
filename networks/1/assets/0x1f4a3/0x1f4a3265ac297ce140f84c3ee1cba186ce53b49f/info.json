@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f4a3265ac297ce140f84c3ee1cba186ce53b49f",
+  "displayName": "Epic Games",
+  "type": "TOKEN",
+  "token": {
+    "name": "Epic Games",
+    "symbol": "EPIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

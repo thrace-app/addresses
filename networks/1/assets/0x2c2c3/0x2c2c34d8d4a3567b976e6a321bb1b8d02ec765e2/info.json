@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c2c34d8d4a3567b976e6a321bb1b8d02ec765e2",
+  "displayName": "CandyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CandyToken",
+    "symbol": "CANDY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

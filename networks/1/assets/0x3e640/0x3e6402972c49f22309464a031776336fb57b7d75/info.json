@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e6402972c49f22309464a031776336fb57b7d75",
+  "displayName": "The Angel Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Angel Token",
+    "symbol": "TAT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

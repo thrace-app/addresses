@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a584ca70ff5fa46c511b7bd1a953d5a4bffc3b8",
+  "displayName": "BuxToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BuxToken",
+    "symbol": "BUX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

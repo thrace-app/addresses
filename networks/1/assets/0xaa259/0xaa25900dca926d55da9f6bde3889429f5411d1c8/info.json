@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa25900dca926d55da9f6bde3889429f5411d1c8",
+  "displayName": "ETH2.0",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH2.0",
+    "symbol": "ETH2.0",
+    "decimals": 1,
+    "type": "ERC20"
+  }
+}

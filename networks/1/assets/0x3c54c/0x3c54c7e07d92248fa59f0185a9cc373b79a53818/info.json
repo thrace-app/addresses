@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c54c7e07d92248fa59f0185a9cc373b79a53818",
+  "displayName": "Zerro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zerro Token",
+    "symbol": "ZERRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

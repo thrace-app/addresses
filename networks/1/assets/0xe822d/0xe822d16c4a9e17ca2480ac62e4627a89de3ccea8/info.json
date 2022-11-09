@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe822d16c4a9e17ca2480ac62e4627a89de3ccea8",
+  "displayName": "SolPAD",
+  "type": "TOKEN",
+  "token": {
+    "name": "SolPAD",
+    "symbol": "PAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70fd662ff423782e58d75d03c4814805e8c1e351",
+  "displayName": "Polkadex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polkadex",
+    "symbol": "PDEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

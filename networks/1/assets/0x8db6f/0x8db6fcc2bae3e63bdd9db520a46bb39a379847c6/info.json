@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8db6fcc2bae3e63bdd9db520a46bb39a379847c6",
+  "displayName": "OpenDeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "OpenDeFi",
+    "symbol": "ORO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

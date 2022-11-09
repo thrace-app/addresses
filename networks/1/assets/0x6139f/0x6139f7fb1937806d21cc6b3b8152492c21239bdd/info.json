@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6139f7fb1937806d21cc6b3b8152492c21239bdd",
+  "displayName": "Unix Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unix Chain",
+    "symbol": "UNIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

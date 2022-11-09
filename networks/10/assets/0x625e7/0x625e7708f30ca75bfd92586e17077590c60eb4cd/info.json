@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
+  "displayName": "Aave Optimism USDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave Optimism USDC",
+    "symbol": "aOptUSDC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

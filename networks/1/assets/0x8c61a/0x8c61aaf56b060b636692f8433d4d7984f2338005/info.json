@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c61aaf56b060b636692f8433d4d7984f2338005",
+  "displayName": "TAPA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TAPA Token",
+    "symbol": "TAPA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x627dc733da49ed9b21d91c90604fe32cf3561c48",
+  "displayName": "Sweat Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sweat Coin",
+    "symbol": "SWEAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

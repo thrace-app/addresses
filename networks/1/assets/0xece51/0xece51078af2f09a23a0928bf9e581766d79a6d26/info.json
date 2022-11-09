@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xece51078af2f09a23a0928bf9e581766d79a6d26",
+  "displayName": "Rocket Dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rocket Dog",
+    "symbol": "RDOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

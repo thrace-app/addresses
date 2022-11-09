@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53a320dad1a505474eb89422092e332e5194e6ef",
+  "displayName": "Monkey D. Luffy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monkey D. Luffy Token",
+    "symbol": "MDLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46673f38a5f4b559d3af32f7303b5065d55ac5d2",
+  "displayName": "Magic Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Magic Ape",
+    "symbol": "MAAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

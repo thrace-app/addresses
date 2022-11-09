@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e5ea5e4e7ea32ca12b6fa10e23872f99eb0ca83",
+  "displayName": "Game ACE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Game ACE Token",
+    "symbol": "GAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

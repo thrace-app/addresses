@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6154ddf24e11d1c11331143436a09aab416b507",
+  "displayName": "EDDA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EDDA Token",
+    "symbol": "EDDA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

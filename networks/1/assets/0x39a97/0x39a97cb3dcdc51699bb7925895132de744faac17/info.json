@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39a97cb3dcdc51699bb7925895132de744faac17",
+  "displayName": "Millionaire Club Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Millionaire Club Token",
+    "symbol": "MCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

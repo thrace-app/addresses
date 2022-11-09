@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x669f3f9f5e2e41c8bfc75fc915104e6d6d9e30ce",
+  "displayName": "GreninjaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GreninjaToken",
+    "symbol": "Greninja",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

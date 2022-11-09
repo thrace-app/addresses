@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe516d78d784c77d479977be58905b3f2b1111126",
+  "displayName": "BitSpawn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitSpawn Token",
+    "symbol": "SPWN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

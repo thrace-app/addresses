@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcaefa0e89e53d2026b69223490ad4fa1feafc4c1",
+  "displayName": "CosmoDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "CosmoDoge",
+    "symbol": "CSDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

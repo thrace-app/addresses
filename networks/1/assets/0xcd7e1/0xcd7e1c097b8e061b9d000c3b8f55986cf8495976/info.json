@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd7e1c097b8e061b9d000c3b8f55986cf8495976",
+  "displayName": "HeartOfDeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "HeartOfDeFi",
+    "symbol": "Heart",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

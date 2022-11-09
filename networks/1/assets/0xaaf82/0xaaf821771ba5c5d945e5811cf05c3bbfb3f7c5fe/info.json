@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaaf821771ba5c5d945e5811cf05c3bbfb3f7c5fe",
+  "displayName": "Five Rings",
+  "type": "TOKEN",
+  "token": {
+    "name": "Five Rings",
+    "symbol": "$5Rings",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

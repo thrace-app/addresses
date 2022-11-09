@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfdd158bd67103e589b63501b1b0a87873b9ab6a4",
+  "displayName": "FractionReserve",
+  "type": "TOKEN",
+  "token": {
+    "name": "FractionReserve",
+    "symbol": "FREV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

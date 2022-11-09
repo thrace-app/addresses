@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x111650e8d2d19ff86949bffb560e6b987ef9c27d",
+  "displayName": "SOVRIN.ORG",
+  "type": "TOKEN",
+  "token": {
+    "name": "SOVRIN.ORG",
+    "symbol": "SVN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

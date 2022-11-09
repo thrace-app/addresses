@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4189c40ab775ae40169a3ae845fd6849aa4106a2",
+  "displayName": "Corgi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Corgi",
+    "symbol": "CORGI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

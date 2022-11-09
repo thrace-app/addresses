@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0489f5924d29312620b2db11318f099cf807f27f",
+  "displayName": "MitonToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MitonToken",
+    "symbol": "MTK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

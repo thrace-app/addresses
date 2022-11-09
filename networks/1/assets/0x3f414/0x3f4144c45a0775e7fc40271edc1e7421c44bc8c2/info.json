@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f4144c45a0775e7fc40271edc1e7421c44bc8c2",
+  "displayName": "Yatagarasu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yatagarasu Token",
+    "symbol": "YATA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

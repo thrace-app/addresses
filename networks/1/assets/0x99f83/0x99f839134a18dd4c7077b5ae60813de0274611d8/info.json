@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99f839134a18dd4c7077b5ae60813de0274611d8",
+  "displayName": "Mongoose DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mongoose DAO",
+    "symbol": "MonDAO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

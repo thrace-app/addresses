@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ba41964dc02af37cc6800e3ca06880f9b561e34",
+  "displayName": "Trade2Donate Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trade2Donate Token",
+    "symbol": "$Donate",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

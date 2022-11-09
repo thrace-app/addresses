@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53f5448f46d1ea30c5d457e6b7168abbcb574cb5",
+  "displayName": "CeFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CeFi Token",
+    "symbol": "CeFi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

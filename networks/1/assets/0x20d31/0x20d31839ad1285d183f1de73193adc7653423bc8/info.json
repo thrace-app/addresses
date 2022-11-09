@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20d31839ad1285d183f1de73193adc7653423bc8",
+  "displayName": "HopProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "HopProtocol",
+    "symbol": "HOP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

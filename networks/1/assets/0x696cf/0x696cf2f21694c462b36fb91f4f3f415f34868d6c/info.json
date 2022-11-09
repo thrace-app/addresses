@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x696cf2f21694c462b36fb91f4f3f415f34868d6c",
+  "displayName": "PTZ token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PTZ token",
+    "symbol": "PTZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

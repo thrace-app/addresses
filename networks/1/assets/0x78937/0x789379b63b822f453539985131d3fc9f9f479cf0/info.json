@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x789379b63b822f453539985131d3fc9f9f479cf0",
+  "displayName": "World of Apes",
+  "type": "TOKEN",
+  "token": {
+    "name": "World of Apes",
+    "symbol": "WOA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

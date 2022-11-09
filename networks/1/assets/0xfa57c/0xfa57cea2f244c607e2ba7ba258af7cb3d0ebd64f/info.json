@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa57cea2f244c607e2ba7ba258af7cb3d0ebd64f",
+  "displayName": "Andrew Yang Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Andrew Yang Token",
+    "symbol": "MATH",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

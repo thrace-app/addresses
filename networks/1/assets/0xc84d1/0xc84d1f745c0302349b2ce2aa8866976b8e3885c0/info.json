@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc84d1f745c0302349b2ce2aa8866976b8e3885c0",
+  "displayName": "Safe Apple Pie",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Apple Pie",
+    "symbol": "SAPIE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

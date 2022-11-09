@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4239c9a4a562d143c71814bf136baa8bfbe21426",
+  "displayName": "Tuki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tuki Token",
+    "symbol": "TUKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

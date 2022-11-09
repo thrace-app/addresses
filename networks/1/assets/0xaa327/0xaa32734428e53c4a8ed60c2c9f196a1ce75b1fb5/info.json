@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa32734428e53c4a8ed60c2c9f196a1ce75b1fb5",
+  "displayName": "SimpsonSpace Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SimpsonSpace Token",
+    "symbol": "SMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

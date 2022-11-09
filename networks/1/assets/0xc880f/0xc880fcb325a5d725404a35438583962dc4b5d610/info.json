@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc880fcb325a5d725404a35438583962dc4b5d610",
+  "displayName": "George Floyd",
+  "type": "TOKEN",
+  "token": {
+    "name": "George Floyd",
+    "symbol": "ACAB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

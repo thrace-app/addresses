@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4664a68493831d816213079714f0b99709c24d1a",
+  "displayName": "Cuffs Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cuffs Token",
+    "symbol": "CUFFS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

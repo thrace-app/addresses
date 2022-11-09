@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77e5be65f4e6c4d8d02d89bfd78e9858b958982c",
+  "displayName": "Ethereum Link",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Link",
+    "symbol": "eLINK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

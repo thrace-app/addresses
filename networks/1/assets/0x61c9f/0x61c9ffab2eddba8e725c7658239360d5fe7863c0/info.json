@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61c9ffab2eddba8e725c7658239360d5fe7863c0",
+  "displayName": "Monific Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monific Token",
+    "symbol": "MONIFIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

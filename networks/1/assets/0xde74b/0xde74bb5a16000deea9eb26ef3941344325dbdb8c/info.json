@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde74bb5a16000deea9eb26ef3941344325dbdb8c",
+  "displayName": "Fluffy Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fluffy Inu",
+    "symbol": "FLUFFY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e4be739fdd9dc47c07b93d84c5eadccf638d597",
+  "displayName": "Eco Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eco Doge",
+    "symbol": "ECODOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

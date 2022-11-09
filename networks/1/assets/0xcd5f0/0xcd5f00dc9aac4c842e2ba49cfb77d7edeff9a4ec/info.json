@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd5f00dc9aac4c842e2ba49cfb77d7edeff9a4ec",
+  "displayName": "BankEthFork",
+  "type": "TOKEN",
+  "token": {
+    "name": "BankEthFork",
+    "symbol": "BANKETHFork",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

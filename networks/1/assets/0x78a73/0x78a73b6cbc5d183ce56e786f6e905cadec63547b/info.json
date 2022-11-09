@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78a73b6cbc5d183ce56e786f6e905cadec63547b",
+  "displayName": "Fabric Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fabric Token",
+    "symbol": "FT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

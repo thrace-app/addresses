@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x578301f78b7269261cea3c968f0643fb1a101e5e",
+  "displayName": "HolderSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "HolderSwap",
+    "symbol": "HFS",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

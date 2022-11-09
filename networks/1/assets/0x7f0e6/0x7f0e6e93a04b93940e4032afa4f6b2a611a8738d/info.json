@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f0e6e93a04b93940e4032afa4f6b2a611a8738d",
+  "displayName": "Yearn BTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn BTC",
+    "symbol": "yBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

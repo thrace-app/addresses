@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5718eaec03649e2c991a78d247abf3bff38a56f",
+  "displayName": "Shisui Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shisui Token",
+    "symbol": "SHISUI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

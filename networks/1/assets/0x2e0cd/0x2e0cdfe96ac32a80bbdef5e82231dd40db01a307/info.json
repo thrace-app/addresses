@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e0cdfe96ac32a80bbdef5e82231dd40db01a307",
+  "displayName": "Ethereum Nike",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Nike",
+    "symbol": "eNIKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

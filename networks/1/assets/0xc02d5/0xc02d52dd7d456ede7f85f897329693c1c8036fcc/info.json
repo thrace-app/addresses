@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc02d52dd7d456ede7f85f897329693c1c8036fcc",
+  "displayName": "The Great Pyramid",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Great Pyramid",
+    "symbol": "GIZA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6cfc20c9885d90dd2b982b01571139a56e582217",
+  "displayName": "StarPunk",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarPunk",
+    "symbol": "StarPunk",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

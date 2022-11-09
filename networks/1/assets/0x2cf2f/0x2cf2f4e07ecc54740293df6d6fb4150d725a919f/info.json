@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2cf2f4e07ecc54740293df6d6fb4150d725a919f",
+  "displayName": "Winsor token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Winsor token",
+    "symbol": "WST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

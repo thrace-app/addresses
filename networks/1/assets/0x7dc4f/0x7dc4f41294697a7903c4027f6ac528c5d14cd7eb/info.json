@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7dc4f41294697a7903c4027f6ac528c5d14cd7eb",
+  "displayName": "RemiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RemiCoin",
+    "symbol": "RMC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

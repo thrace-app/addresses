@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2ba769293295ffb96cebae56396fc77eca2678d",
+  "displayName": "LyCI service token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LyCI service token",
+    "symbol": "LYCI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

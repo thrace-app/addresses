@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x462a3cfc494b05781c31ca9abf425925dfb595a5",
+  "displayName": "YAADI token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YAADI token",
+    "symbol": "Yadi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

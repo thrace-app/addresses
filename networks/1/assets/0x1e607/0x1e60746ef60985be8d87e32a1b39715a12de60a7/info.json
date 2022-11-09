@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e60746ef60985be8d87e32a1b39715a12de60a7",
+  "displayName": "BTC25K",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTC25K",
+    "symbol": "BTC25k",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

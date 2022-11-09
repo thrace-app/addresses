@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71f399cb37afc4034697fe430e554b4f0bb64992",
+  "displayName": "Baby DeFido",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby DeFido",
+    "symbol": "BabyDeFido",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

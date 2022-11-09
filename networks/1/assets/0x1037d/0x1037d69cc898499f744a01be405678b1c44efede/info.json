@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1037d69cc898499f744a01be405678b1c44efede",
+  "displayName": "Beerish Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Beerish Token",
+    "symbol": "CERVEZA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

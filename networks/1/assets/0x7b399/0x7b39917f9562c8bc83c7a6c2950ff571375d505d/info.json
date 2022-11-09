@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b39917f9562c8bc83c7a6c2950ff571375d505d",
+  "displayName": "LeagueDAO Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LeagueDAO Governance Token",
+    "symbol": "LEAG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

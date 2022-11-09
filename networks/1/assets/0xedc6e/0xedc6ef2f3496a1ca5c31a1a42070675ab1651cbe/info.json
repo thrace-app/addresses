@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xedc6ef2f3496a1ca5c31a1a42070675ab1651cbe",
+  "displayName": "Bernie Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bernie Doge",
+    "symbol": "BERNIE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

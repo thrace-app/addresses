@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe6ba04f0dcc287429518625020d48f619d19145",
+  "displayName": "curve.fi",
+  "type": "TOKEN",
+  "token": {
+    "name": "curve.fi",
+    "symbol": "CRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

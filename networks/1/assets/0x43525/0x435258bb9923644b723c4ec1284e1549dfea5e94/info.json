@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x435258bb9923644b723c4ec1284e1549dfea5e94",
+  "displayName": "ArtRino Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ArtRino Token",
+    "symbol": "ARTRINO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6942048ffee26c75f321092c14fd26432a9b55a",
+  "displayName": "Doge Party",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Party",
+    "symbol": "DOGEPARTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

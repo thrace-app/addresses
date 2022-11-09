@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d5a90fd4f5d258f6ba52363d9e86e06737dcb25",
+  "displayName": "Ethereum X Uniswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum X Uniswap",
+    "symbol": "$ETHXUNI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf82ae5b5fa58b475e84197f7798c1cb428a81704",
+  "displayName": "The Current Thing Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Current Thing Protocol",
+    "symbol": "The Current",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

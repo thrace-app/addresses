@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb656e14ebd29cd4be97fab33ca0c686a217f908b",
+  "displayName": "AvatarToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AvatarToken",
+    "symbol": "AVATAR",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

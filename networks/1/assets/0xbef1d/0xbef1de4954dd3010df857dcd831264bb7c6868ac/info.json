@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbef1de4954dd3010df857dcd831264bb7c6868ac",
+  "displayName": "Hook Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hook Token",
+    "symbol": "HOOK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

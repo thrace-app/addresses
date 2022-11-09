@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b7712b395bc5f7f7fb6976ea4827377e77adab6",
+  "displayName": "LIZA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LIZA Token",
+    "symbol": "LIZA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

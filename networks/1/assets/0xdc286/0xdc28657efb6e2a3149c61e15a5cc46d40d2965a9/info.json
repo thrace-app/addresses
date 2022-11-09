@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc28657efb6e2a3149c61e15a5cc46d40d2965a9",
+  "displayName": "Shikyo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shikyo",
+    "symbol": "SHK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

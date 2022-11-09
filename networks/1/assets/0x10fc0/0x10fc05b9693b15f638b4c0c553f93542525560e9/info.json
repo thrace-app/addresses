@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10fc05b9693b15f638b4c0c553f93542525560e9",
+  "displayName": "Mivie Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mivie Token",
+    "symbol": "MI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

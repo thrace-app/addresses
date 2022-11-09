@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6ecafd51b5db3d287cb3f756f092aa05300760b",
+  "displayName": "The Graph Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Graph Token",
+    "symbol": "TGRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

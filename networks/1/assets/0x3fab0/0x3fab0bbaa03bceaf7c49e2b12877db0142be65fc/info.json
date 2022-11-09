@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fab0bbaa03bceaf7c49e2b12877db0142be65fc",
+  "displayName": "Castello Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Castello Coin",
+    "symbol": "CAST",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

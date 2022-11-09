@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x179cd91631d96e8fafee6a744eac6ffdbb923520",
+  "displayName": "Wrapped IxiCash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped IxiCash",
+    "symbol": "WIXI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

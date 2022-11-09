@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27d4ec34f197bccff5500d47b723bb2d6074a54e",
+  "displayName": "BaoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BaoToken",
+    "symbol": "BAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc74c2cb91441dffd21c380817d28481b0a90d429",
+  "displayName": "Band Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Band Protocol",
+    "symbol": "BAND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

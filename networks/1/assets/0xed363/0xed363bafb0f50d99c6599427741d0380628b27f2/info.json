@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed363bafb0f50d99c6599427741d0380628b27f2",
+  "displayName": "AdaMarkets",
+  "type": "TOKEN",
+  "token": {
+    "name": "AdaMarkets",
+    "symbol": "ADAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

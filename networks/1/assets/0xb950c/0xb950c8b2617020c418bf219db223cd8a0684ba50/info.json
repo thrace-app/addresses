@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb950c8b2617020c418bf219db223cd8a0684ba50",
+  "displayName": "Crocodile token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crocodile token",
+    "symbol": "🐊",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

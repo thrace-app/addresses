@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51cb253744189f11241becb29bedd3f1b5384fdb",
+  "displayName": "Dimitra Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dimitra Token",
+    "symbol": "DMTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

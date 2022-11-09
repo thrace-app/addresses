@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbfefda5212cc6d5d1b55da8a52aac7a981a1b43b",
+  "displayName": "NEETBucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "NEETBucks",
+    "symbol": "NEETS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

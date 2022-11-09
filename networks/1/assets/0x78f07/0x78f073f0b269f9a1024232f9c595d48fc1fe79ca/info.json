@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78f073f0b269f9a1024232f9c595d48fc1fe79ca",
+  "displayName": "Boata Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boata Token",
+    "symbol": "BOATA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

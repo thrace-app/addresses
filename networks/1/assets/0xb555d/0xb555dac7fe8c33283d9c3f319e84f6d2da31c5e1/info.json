@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb555dac7fe8c33283d9c3f319e84f6d2da31c5e1",
+  "displayName": "MergETHing",
+  "type": "TOKEN",
+  "token": {
+    "name": "MergETHing",
+    "symbol": "EPOS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

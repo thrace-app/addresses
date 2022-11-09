@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe477292f1b3268687a29376116b0ed27a9c76170",
+  "displayName": "Herocoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Herocoin",
+    "symbol": "PLAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

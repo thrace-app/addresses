@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b047cabb00fd622b7943b868b0efc1cdfc323e2",
+  "displayName": "Hotbank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hotbank",
+    "symbol": "HOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

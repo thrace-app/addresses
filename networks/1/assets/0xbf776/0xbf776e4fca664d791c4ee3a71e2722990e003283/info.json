@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf776e4fca664d791c4ee3a71e2722990e003283",
+  "displayName": "SMTYToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SMTYToken",
+    "symbol": "SMTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

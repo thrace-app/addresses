@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x524d70f777c75ec50291bdd69718c1a705268c8b",
+  "displayName": "MuffinToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MuffinToken",
+    "symbol": "MFFN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

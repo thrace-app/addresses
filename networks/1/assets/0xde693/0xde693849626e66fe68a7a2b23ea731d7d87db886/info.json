@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde693849626e66fe68a7a2b23ea731d7d87db886",
+  "displayName": "TorontoCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TorontoCoin",
+    "symbol": "TRTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

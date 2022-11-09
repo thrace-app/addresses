@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfae1013d75ef162dd89e8f75210e99380fcffea6",
+  "displayName": "Ethereum Genesis",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Genesis",
+    "symbol": "ETHG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

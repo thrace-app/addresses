@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x564f076a70cefd7e320a11069b21af412ab9cfd5",
+  "displayName": "Wrapped XLM",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped XLM",
+    "symbol": "XLM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25a21c7be48fad500169ed688f070a96ae8e08f1",
+  "displayName": "PETRO Venezolano",
+  "type": "TOKEN",
+  "token": {
+    "name": "PETRO Venezolano",
+    "symbol": "PTRv",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

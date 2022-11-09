@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8b5392913cab7f565f4987a050dbd1a8b2f8576",
+  "displayName": "Just Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Just Bitcoin",
+    "symbol": "JBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

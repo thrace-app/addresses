@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8df08667af1d2e596dcf466daee884bda57046c",
+  "displayName": "Casino Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Casino Token",
+    "symbol": "CSINO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c939f3ac3c6060a2634e76e52c1e0af4293c210",
+  "displayName": "Pineapples Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pineapples Token",
+    "symbol": "PAPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb37a769b37224449d92aac57de379e1267cd3b00",
+  "displayName": "Covalent Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Covalent Token",
+    "symbol": "COVA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

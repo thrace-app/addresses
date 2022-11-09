@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe8e239836f8be5896568a34dddb2a8f251721c0b",
+  "displayName": "StreamerBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "StreamerBank",
+    "symbol": "SB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ec89cf9fdfe82b8d98021fb02bc2f9c43c1cd05",
+  "displayName": "BetCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BetCoin",
+    "symbol": "BTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

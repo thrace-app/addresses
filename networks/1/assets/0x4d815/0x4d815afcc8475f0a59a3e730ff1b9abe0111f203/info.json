@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d815afcc8475f0a59a3e730ff1b9abe0111f203",
+  "displayName": "Large Hadron Collider",
+  "type": "TOKEN",
+  "token": {
+    "name": "Large Hadron Collider",
+    "symbol": "CERN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

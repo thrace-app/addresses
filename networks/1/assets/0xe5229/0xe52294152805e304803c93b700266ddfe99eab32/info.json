@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe52294152805e304803c93b700266ddfe99eab32",
+  "displayName": "YFEthereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "YFEthereum",
+    "symbol": "YFETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

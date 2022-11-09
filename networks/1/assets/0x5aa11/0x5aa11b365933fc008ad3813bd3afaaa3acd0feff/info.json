@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5aa11b365933fc008ad3813bd3afaaa3acd0feff",
+  "displayName": "CryptoPedia",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoPedia",
+    "symbol": "CPEDIA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

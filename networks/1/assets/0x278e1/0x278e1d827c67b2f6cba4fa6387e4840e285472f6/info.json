@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x278e1d827c67b2f6cba4fa6387e4840e285472f6",
+  "displayName": "Eurocoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eurocoin",
+    "symbol": "EUR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

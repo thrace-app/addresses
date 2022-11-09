@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d1a4afb63e6bb35b636bbe59e0158b353815bf2",
+  "displayName": "Rocket League Fan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rocket League Fan Token",
+    "symbol": "RL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f4ff21d4520a12b1b6553fbd9d08d4adf2953b6",
+  "displayName": "Space Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Space Doge",
+    "symbol": "SPACEDOGE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe94c504d07adba98b23aa7c765d35357bd185a3",
+  "displayName": "FLGCToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FLGCToken",
+    "symbol": "FLGC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

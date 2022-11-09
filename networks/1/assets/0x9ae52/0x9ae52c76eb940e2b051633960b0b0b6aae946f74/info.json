@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ae52c76eb940e2b051633960b0b0b6aae946f74",
+  "displayName": "Mango Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mango Finance",
+    "symbol": "MANGO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

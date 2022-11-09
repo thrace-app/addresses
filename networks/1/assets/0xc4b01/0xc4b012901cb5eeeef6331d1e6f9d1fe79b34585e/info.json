@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4b012901cb5eeeef6331d1e6f9d1fe79b34585e",
+  "displayName": "Blue Guardian",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Guardian",
+    "symbol": "BGUARD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

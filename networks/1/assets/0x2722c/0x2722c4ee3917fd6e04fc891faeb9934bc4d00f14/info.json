@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2722c4ee3917fd6e04fc891faeb9934bc4d00f14",
+  "displayName": "Rebase Pulsechain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rebase Pulsechain Token",
+    "symbol": "rePLS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

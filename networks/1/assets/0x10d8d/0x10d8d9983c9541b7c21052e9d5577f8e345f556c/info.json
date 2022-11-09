@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10d8d9983c9541b7c21052e9d5577f8e345f556c",
+  "displayName": "john fans",
+  "type": "TOKEN",
+  "token": {
+    "name": "john fans",
+    "symbol": "BABL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

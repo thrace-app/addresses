@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9be4db74c59a460c6d9abc4343a45a842eae9f64",
+  "displayName": "MUDL Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MUDL Coin",
+    "symbol": "MUDL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

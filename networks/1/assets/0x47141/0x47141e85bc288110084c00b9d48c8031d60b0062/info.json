@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47141e85bc288110084c00b9d48c8031d60b0062",
+  "displayName": "DeFi vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi vault",
+    "symbol": "VAULT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

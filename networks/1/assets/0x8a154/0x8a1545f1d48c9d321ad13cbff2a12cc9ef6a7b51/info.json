@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a1545f1d48c9d321ad13cbff2a12cc9ef6a7b51",
+  "displayName": "Your magic game",
+  "type": "TOKEN",
+  "token": {
+    "name": "Your magic game",
+    "symbol": "YMG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

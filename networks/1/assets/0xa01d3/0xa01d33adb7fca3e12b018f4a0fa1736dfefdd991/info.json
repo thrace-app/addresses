@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa01d33adb7fca3e12b018f4a0fa1736dfefdd991",
+  "displayName": "WUNA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WUNA Token",
+    "symbol": "WUNA",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

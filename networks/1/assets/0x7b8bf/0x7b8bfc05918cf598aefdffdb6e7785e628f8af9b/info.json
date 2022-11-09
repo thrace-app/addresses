@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b8bfc05918cf598aefdffdb6e7785e628f8af9b",
+  "displayName": "MIXI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MIXI Token",
+    "symbol": "MIXI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

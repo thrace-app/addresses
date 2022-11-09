@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe26cafdec568ccca39990a7e733bf5ca5e8aab2d",
+  "displayName": "Baby BNB",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby BNB",
+    "symbol": "bBNB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

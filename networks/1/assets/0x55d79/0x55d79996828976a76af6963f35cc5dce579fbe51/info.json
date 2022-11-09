@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55d79996828976a76af6963f35cc5dce579fbe51",
+  "displayName": "Cosmic Ducks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cosmic Ducks",
+    "symbol": "DUCKS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38be685dd022ce20a5018e8804ebda1410b8442c",
+  "displayName": "shrimpcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "shrimpcoin",
+    "symbol": "SPB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

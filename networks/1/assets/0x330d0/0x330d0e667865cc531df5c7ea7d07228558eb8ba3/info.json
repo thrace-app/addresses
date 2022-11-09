@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x330d0e667865cc531df5c7ea7d07228558eb8ba3",
+  "displayName": "Bridge Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bridge Finance Token",
+    "symbol": "BGFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

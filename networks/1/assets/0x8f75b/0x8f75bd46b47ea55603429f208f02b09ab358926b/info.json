@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f75bd46b47ea55603429f208f02b09ab358926b",
+  "displayName": "EtherBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherBTC",
+    "symbol": "eBTC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

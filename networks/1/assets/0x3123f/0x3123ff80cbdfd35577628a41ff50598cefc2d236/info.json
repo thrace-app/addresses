@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3123ff80cbdfd35577628a41ff50598cefc2d236",
+  "displayName": "OMNIS-BIT",
+  "type": "TOKEN",
+  "token": {
+    "name": "OMNIS-BIT",
+    "symbol": "OMNIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

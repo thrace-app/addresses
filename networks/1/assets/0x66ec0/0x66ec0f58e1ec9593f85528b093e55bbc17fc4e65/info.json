@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66ec0f58e1ec9593f85528b093e55bbc17fc4e65",
+  "displayName": "LuckyGameCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LuckyGameCoin",
+    "symbol": "LKGC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

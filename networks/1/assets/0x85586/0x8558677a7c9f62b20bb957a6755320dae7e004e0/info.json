@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8558677a7c9f62b20bb957a6755320dae7e004e0",
+  "displayName": "WooziToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WooziToken",
+    "symbol": "WOOZI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

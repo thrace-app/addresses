@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a70efc8309011bd625d5266f23287e9a1d0ec8e",
+  "displayName": "Virtual Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Virtual Swap",
+    "symbol": "vSWAP",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

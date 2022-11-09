@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x388883ebef39966e8d0dbca05c2bb254833fdef6",
+  "displayName": "vapor.burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "vapor.burn",
+    "symbol": "VAPORBURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

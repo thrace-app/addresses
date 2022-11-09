@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d5eab43151a98188a87ab37ca4da2c9ad452798",
+  "displayName": "Golden Coin Token 999",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Coin Token 999",
+    "symbol": "GCT999",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

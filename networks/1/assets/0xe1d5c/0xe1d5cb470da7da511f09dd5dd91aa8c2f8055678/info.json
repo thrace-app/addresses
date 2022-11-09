@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1d5cb470da7da511f09dd5dd91aa8c2f8055678",
+  "displayName": "BTCVcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTCVcoin",
+    "symbol": "BTCV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

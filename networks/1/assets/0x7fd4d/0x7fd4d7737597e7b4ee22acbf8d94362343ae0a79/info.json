@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fd4d7737597e7b4ee22acbf8d94362343ae0a79",
+  "displayName": "Wrapped MistCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped MistCoin",
+    "symbol": "WMC",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

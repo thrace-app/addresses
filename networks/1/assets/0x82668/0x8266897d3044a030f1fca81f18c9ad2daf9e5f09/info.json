@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8266897d3044a030f1fca81f18c9ad2daf9e5f09",
+  "displayName": "ETHEREUMtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETHEREUMtoken",
+    "symbol": "ETHt",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

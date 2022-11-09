@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1651c18b6109d31cf507202732c886b3ca9144bc",
+  "displayName": "Release the Doge!",
+  "type": "TOKEN",
+  "token": {
+    "name": "Release the Doge!",
+    "symbol": "RDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

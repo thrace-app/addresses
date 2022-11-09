@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8d52574c6511934a1e72ba434a88835b76d65ef",
+  "displayName": "Bacon Lettuce Tomato",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bacon Lettuce Tomato",
+    "symbol": "BLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

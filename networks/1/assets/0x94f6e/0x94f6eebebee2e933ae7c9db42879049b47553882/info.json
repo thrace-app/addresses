@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x94f6eebebee2e933ae7c9db42879049b47553882",
+  "displayName": "Pusheen Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pusheen Cat",
+    "symbol": "PUSH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

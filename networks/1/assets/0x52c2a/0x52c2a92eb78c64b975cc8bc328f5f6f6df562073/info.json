@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52c2a92eb78c64b975cc8bc328f5f6f6df562073",
+  "displayName": "SimpleChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "SimpleChain",
+    "symbol": "SIPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

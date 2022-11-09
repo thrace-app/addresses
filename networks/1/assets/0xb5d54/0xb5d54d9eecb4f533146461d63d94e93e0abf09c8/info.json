@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5d54d9eecb4f533146461d63d94e93e0abf09c8",
+  "displayName": "Hotcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hotcoin",
+    "symbol": "HC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

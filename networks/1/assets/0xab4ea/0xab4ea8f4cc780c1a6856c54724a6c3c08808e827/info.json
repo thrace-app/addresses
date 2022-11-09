@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab4ea8f4cc780c1a6856c54724a6c3c08808e827",
+  "displayName": "JaDe Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JaDe Token",
+    "symbol": "JaDe",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

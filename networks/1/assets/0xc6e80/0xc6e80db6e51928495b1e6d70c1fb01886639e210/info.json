@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6e80db6e51928495b1e6d70c1fb01886639e210",
+  "displayName": "xeCash",
+  "type": "TOKEN",
+  "token": {
+    "name": "xeCash",
+    "symbol": "XECH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

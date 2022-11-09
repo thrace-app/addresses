@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa82381ba9e05d4cf142e75b7bde73a86d179feb0",
+  "displayName": "DuDuCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DuDuCoin",
+    "symbol": "DDU",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

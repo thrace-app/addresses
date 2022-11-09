@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2889fd660311f18bbefc039949ae12d76afed611",
+  "displayName": "Executive Order Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Executive Order Token",
+    "symbol": "EO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

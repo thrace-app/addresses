@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x618679df9efcd19694bb1daa8d00718eacfa2883",
+  "displayName": "XYZ Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XYZ Governance Token",
+    "symbol": "XYZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

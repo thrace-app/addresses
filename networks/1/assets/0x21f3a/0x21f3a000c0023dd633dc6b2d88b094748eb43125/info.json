@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21f3a000c0023dd633dc6b2d88b094748eb43125",
+  "displayName": "Red Shib",
+  "type": "TOKEN",
+  "token": {
+    "name": "Red Shib",
+    "symbol": "REDSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

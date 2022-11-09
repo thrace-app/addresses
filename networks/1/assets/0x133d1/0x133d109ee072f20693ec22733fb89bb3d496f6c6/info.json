@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x133d109ee072f20693ec22733fb89bb3d496f6c6",
+  "displayName": "DogeTail Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogeTail Coin",
+    "symbol": "$DAIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

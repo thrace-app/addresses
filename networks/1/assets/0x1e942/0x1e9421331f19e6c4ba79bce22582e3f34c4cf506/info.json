@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e9421331f19e6c4ba79bce22582e3f34c4cf506",
+  "displayName": "Amazing Unit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Amazing Unit",
+    "symbol": "AMU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

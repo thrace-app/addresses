@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9973c42a674388b49688ead27fff8a3a7cc2a75d",
+  "displayName": "BARK Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BARK Token",
+    "symbol": "BARK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

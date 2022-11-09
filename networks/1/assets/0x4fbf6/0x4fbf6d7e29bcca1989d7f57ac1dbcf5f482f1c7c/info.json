@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4fbf6d7e29bcca1989d7f57ac1dbcf5f482f1c7c",
+  "displayName": "Ferma Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ferma Token",
+    "symbol": "FERMA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

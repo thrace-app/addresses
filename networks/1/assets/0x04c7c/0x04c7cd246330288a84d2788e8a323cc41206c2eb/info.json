@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04c7cd246330288a84d2788e8a323cc41206c2eb",
+  "displayName": "BitcoinMonkey",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitcoinMonkey",
+    "symbol": "BTCM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

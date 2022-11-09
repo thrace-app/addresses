@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
+  "displayName": "Cindicator Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cindicator Token",
+    "symbol": "CND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

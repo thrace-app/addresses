@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x517d8682f3c2c0c290cb8505bafbef9dd84ecdc2",
+  "displayName": "BCC",
+  "type": "TOKEN",
+  "token": {
+    "name": "BCC",
+    "symbol": "BCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8be78fc5a1a49ff6e93c4fe299ca078afea7f449",
+  "displayName": "Everything has to have balance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Everything has to have balance",
+    "symbol": "BALANCE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

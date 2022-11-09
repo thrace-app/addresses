@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10307c92c84903dda982151ec01a196517900652",
+  "displayName": "VoomDex Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "VoomDex Coin",
+    "symbol": "VOD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

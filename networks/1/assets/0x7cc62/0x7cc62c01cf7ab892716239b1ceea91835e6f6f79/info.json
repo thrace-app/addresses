@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7cc62c01cf7ab892716239b1ceea91835e6f6f79",
+  "displayName": "Ninja Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ninja Ape",
+    "symbol": "NINJAPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

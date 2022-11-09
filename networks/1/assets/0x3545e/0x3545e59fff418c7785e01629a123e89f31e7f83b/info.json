@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3545e59fff418c7785e01629a123e89f31e7f83b",
+  "displayName": "MemeLuna",
+  "type": "TOKEN",
+  "token": {
+    "name": "MemeLuna",
+    "symbol": "MEMELUNA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

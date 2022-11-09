@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x666945791d760e98562b42a7fde5f9c3f5cf2848",
+  "displayName": "Nebulous",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nebulous",
+    "symbol": "Nebulous",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

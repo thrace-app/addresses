@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfeb5ef70209d49b496f74354d8392d5a212d9661",
+  "displayName": "TokenFair",
+  "type": "TOKEN",
+  "token": {
+    "name": "TokenFair",
+    "symbol": "TOF",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

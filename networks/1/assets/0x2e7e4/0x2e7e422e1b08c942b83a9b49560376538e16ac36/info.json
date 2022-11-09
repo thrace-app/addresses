@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e7e422e1b08c942b83a9b49560376538e16ac36",
+  "displayName": "Breads Bakery",
+  "type": "TOKEN",
+  "token": {
+    "name": "Breads Bakery",
+    "symbol": "BREAD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccafcaff56729218629b890396b7a8d116c1a5a2",
+  "displayName": "Safe Eth",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Eth",
+    "symbol": "SETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

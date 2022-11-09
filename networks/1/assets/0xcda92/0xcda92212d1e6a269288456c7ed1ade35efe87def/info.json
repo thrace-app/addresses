@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcda92212d1e6a269288456c7ed1ade35efe87def",
+  "displayName": "Stanford Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stanford Token",
+    "symbol": "STF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

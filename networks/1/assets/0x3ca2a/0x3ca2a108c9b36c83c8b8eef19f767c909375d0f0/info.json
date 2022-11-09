@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ca2a108c9b36c83c8b8eef19f767c909375d0f0",
+  "displayName": "Faldo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Faldo Token",
+    "symbol": "Faldo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

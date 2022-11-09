@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x28b8f630ab9ffe1a3331324947cced9859bae862",
+  "displayName": "Supercats",
+  "type": "TOKEN",
+  "token": {
+    "name": "Supercats",
+    "symbol": "$CT$",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

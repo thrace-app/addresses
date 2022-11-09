@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7923889ad131e80374ad4fb329247e74876877fa",
+  "displayName": "ETH Five",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH Five",
+    "symbol": "ETH5",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

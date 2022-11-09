@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0fea740b04a2f6c13a0c89f45c77defa07909a6",
+  "displayName": "Gingerbread Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gingerbread Coin",
+    "symbol": "$GBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

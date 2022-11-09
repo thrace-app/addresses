@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1520392acd1bb0575f3d4f5dc9924d6642e3ddea",
+  "displayName": "PolyShiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolyShiba",
+    "symbol": "PolyShiba",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

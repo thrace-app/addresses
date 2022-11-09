@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23de8f5c4b65598ed58687cc76197c625e8b2aa5",
+  "displayName": "Burn Teh Bears",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burn Teh Bears",
+    "symbol": "BTB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

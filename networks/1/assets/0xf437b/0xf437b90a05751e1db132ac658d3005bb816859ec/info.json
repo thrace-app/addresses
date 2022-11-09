@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf437b90a05751e1db132ac658d3005bb816859ec",
+  "displayName": "Nar Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nar Token",
+    "symbol": "Nar",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

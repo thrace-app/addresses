@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee31e8597d972cfd136042719bdbc8b24020f0d0",
+  "displayName": "Bustad Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bustad Coin",
+    "symbol": "BUSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

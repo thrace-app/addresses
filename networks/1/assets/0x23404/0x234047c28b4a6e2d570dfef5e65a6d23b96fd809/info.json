@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x234047c28b4a6e2d570dfef5e65a6d23b96fd809",
+  "displayName": "Sola Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sola Finance",
+    "symbol": "SF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

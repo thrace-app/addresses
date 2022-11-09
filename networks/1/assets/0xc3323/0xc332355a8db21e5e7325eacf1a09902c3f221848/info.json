@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc332355a8db21e5e7325eacf1a09902c3f221848",
+  "displayName": "ShillWin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShillWin Token",
+    "symbol": "SHILL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

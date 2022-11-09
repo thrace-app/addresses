@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0840acf74b76b5d27cd03e828e3099c4dfb94471",
+  "displayName": "Hypome Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hypome Token",
+    "symbol": "HYPOME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

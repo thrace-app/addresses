@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f599410d207f3d2828a8712e5e543ac2e040382",
+  "displayName": "Tapcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tapcoin",
+    "symbol": "TTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

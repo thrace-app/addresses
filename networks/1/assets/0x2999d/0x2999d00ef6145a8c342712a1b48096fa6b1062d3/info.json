@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2999d00ef6145a8c342712a1b48096fa6b1062d3",
+  "displayName": "WaffleFarm",
+  "type": "TOKEN",
+  "token": {
+    "name": "WaffleFarm",
+    "symbol": "WFFLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

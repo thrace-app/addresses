@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x515dea727d31cb64946c2139d04d91b8781d671a",
+  "displayName": "ByteCashCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ByteCashCoin",
+    "symbol": "BYCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

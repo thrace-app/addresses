@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x069c656ad7d380cf2860d06aa4173083a66a3ab0",
+  "displayName": "Digital Pakistani Rupee",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Pakistani Rupee",
+    "symbol": "PKR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

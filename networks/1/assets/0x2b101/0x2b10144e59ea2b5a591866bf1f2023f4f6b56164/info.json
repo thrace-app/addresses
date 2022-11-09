@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b10144e59ea2b5a591866bf1f2023f4f6b56164",
+  "displayName": "Forbes Dog Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Forbes Dog Token",
+    "symbol": "FORDOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cd0cb65110ecad11eb7880024495c4e6dfb5900",
+  "displayName": "Pay Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pay Coin",
+    "symbol": "PAY",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

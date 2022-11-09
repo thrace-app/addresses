@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x94b593002a327f2a3f1b190c50d3bcc8b869b5f5",
+  "displayName": "NewsTokens",
+  "type": "TOKEN",
+  "token": {
+    "name": "NewsTokens",
+    "symbol": "NEWS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

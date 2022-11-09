@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e298734681adbfc41ee5d17ff8b0d6d803e7098",
+  "displayName": "FARM_WETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "FARM_WETH",
+    "symbol": "fWETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

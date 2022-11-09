@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0142666e595e54c9bf54655b91c36da573e7b91",
+  "displayName": "Bunny Farm Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bunny Farm Token",
+    "symbol": "BNF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

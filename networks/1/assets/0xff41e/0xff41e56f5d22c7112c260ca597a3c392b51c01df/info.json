@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff41e56f5d22c7112c260ca597a3c392b51c01df",
+  "displayName": "Bye Bye Birdie",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bye Bye Birdie",
+    "symbol": "BBB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

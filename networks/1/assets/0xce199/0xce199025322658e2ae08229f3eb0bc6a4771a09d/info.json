@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce199025322658e2ae08229f3eb0bc6a4771a09d",
+  "displayName": "Agoric",
+  "type": "TOKEN",
+  "token": {
+    "name": "Agoric",
+    "symbol": "AGO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

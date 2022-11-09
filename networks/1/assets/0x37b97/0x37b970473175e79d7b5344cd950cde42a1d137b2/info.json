@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37b970473175e79d7b5344cd950cde42a1d137b2",
+  "displayName": "ZidraCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZidraCoin",
+    "symbol": "ZRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

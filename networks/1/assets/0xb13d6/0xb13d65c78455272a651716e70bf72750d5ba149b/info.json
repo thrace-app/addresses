@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb13d65c78455272a651716e70bf72750d5ba149b",
+  "displayName": "Dennis Rodman",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dennis Rodman",
+    "symbol": "RODMAN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

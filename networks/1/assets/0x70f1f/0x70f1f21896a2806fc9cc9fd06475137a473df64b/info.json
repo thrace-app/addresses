@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70f1f21896a2806fc9cc9fd06475137a473df64b",
+  "displayName": "FarmifyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FarmifyToken",
+    "symbol": "FIFY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

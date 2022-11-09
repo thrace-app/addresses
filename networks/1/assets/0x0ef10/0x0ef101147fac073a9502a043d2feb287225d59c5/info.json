@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ef101147fac073a9502a043d2feb287225d59c5",
+  "displayName": "Doge Nami",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Nami",
+    "symbol": "DOGENAMI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

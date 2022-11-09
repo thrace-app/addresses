@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb4234f00f3e109604c3ab6af5abd2dde69c5994",
+  "displayName": "McDump Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "McDump Token",
+    "symbol": "McDump",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

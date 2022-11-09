@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13eac7426e6db080ca7f2fff0cc9030f7a6d0c2b",
+  "displayName": "WHLToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WHLToken",
+    "symbol": "WHL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

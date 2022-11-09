@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9cbd00177e64e0a3579c8ca40017f22575143604",
+  "displayName": "SkullDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "SkullDoge",
+    "symbol": "SkullDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

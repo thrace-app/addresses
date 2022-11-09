@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39addcffd6dcba546148b4d4a5a65837da1c605b",
+  "displayName": "MEV BEATER",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEV BEATER",
+    "symbol": "MEVBEATER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

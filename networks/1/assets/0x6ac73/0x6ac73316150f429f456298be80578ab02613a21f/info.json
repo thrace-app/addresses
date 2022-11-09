@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ac73316150f429f456298be80578ab02613a21f",
+  "displayName": "Loch Ness Monster",
+  "type": "TOKEN",
+  "token": {
+    "name": "Loch Ness Monster",
+    "symbol": "Nessie",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80640db285cc63496bdd8c1980a7f4526a4d477f",
+  "displayName": "BeatzCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BeatzCoin",
+    "symbol": "BTZC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

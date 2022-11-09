@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69ef45cf64d8360279daa974aabadb42f0683a6c",
+  "displayName": "LMAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LMAO Token",
+    "symbol": "LMAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

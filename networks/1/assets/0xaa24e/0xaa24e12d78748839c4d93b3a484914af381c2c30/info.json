@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa24e12d78748839c4d93b3a484914af381c2c30",
+  "displayName": "MMGToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MMGToken",
+    "symbol": "MMG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

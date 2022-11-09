@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b3be68cc06d152735ea4aebe1d9082427536c2a",
+  "displayName": "BurnToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BurnToken",
+    "symbol": "BT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

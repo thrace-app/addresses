@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe7fd45863aea885039be3357a057cb8305882f0",
+  "displayName": "google.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "google.finance",
+    "symbol": "GGGLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

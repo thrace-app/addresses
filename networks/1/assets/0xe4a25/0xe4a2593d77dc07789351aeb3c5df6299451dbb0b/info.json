@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4a2593d77dc07789351aeb3c5df6299451dbb0b",
+  "displayName": "Aleo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aleo",
+    "symbol": "ALEO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

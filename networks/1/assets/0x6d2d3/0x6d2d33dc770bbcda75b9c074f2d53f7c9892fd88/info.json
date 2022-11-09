@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d2d33dc770bbcda75b9c074f2d53f7c9892fd88",
+  "displayName": "CuckCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CuckCoin",
+    "symbol": "CCoin",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

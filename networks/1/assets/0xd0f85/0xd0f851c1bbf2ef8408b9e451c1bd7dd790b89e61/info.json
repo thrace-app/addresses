@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0f851c1bbf2ef8408b9e451c1bd7dd790b89e61",
+  "displayName": "kube.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "kube.finance",
+    "symbol": "KUBE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

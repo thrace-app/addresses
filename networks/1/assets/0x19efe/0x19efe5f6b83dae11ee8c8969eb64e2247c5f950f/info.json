@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19efe5f6b83dae11ee8c8969eb64e2247c5f950f",
+  "displayName": "www.toto-dog.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "www.toto-dog.com",
+    "symbol": "TOTO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

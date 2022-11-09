@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d",
+  "displayName": "Wrapped ABBC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped ABBC",
+    "symbol": "WABBC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b40e03fa44774be9e1ce097e29ca61df1ddf0df",
+  "displayName": "Toad Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Toad Token",
+    "symbol": "TOAD",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

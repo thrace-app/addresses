@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe2ccb44abbfdaf175a9836d1f676546d45a0f57a",
+  "displayName": "albums",
+  "type": "TOKEN",
+  "token": {
+    "name": "albums",
+    "symbol": "ALBUMS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

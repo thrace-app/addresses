@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86dd3002bf215082ea43b0bd2fd595ece4341880",
+  "displayName": "VIOToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "VIOToken",
+    "symbol": "VIO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

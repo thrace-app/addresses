@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd65a7d61dd6c4cfa3440c4091c0cc94898682c05",
+  "displayName": "Yearn finance voting token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn finance voting token",
+    "symbol": "YFIV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}
