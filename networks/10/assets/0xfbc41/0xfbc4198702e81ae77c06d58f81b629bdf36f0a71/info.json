@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfbc4198702e81ae77c06d58f81b629bdf36f0a71",
+  "displayName": "Synth sEUR",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth sEUR",
+    "symbol": "sEUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

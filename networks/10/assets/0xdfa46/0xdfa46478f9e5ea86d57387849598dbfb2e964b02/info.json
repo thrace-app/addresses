@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+  "displayName": "Mai Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mai Stablecoin",
+    "symbol": "MAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

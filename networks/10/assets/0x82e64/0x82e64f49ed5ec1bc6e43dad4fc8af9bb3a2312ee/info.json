@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+  "displayName": "Aave Optimism DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave Optimism DAI",
+    "symbol": "aOptDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

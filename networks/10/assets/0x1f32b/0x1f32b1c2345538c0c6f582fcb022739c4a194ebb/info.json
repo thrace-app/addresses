@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
+  "displayName": "Wrapped liquid staked Ether 2.0",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

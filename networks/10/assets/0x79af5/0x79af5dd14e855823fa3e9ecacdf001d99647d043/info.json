@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79af5dd14e855823fa3e9ecacdf001d99647d043",
+  "displayName": "Jarvis Synthetic Euro",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jarvis Synthetic Euro",
+    "symbol": "jEUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

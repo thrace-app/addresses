@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb21b70922b9f6e3c6274bcd6cb1aa8a0fe20b80",
+  "displayName": "TerraUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "TerraUSD",
+    "symbol": "UST",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}
