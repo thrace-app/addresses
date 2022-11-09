@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7763cde7c5eda6332bb084dd1d7f9313ed0fef15",
+  "displayName": "Bitcoin Sister Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Sister Chain",
+    "symbol": "BSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

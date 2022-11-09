@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3867803debc788fcb48cffa533e6d8a4ab9e1553",
+  "displayName": "spaceship",
+  "type": "TOKEN",
+  "token": {
+    "name": "spaceship",
+    "symbol": "spaceship",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

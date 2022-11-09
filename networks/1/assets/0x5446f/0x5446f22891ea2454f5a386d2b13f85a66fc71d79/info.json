@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5446f22891ea2454f5a386d2b13f85a66fc71d79",
+  "displayName": "USDD",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

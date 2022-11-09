@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e755f27cfbb8ea5e2c9b1042b3ec33d0a61dd73",
+  "displayName": "TripleSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "TripleSwap",
+    "symbol": "TPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

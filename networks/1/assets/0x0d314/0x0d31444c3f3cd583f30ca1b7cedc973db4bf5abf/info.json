@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d31444c3f3cd583f30ca1b7cedc973db4bf5abf",
+  "displayName": "Minerals",
+  "type": "TOKEN",
+  "token": {
+    "name": "Minerals",
+    "symbol": "MIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

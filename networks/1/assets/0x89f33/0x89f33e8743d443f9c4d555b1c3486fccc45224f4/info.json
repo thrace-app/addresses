@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89f33e8743d443f9c4d555b1c3486fccc45224f4",
+  "displayName": "March Madness",
+  "type": "TOKEN",
+  "token": {
+    "name": "March Madness",
+    "symbol": "MM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

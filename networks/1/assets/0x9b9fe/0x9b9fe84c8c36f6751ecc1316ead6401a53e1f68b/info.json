@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b9fe84c8c36f6751ecc1316ead6401a53e1f68b",
+  "displayName": "Doge Shiba Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Shiba Inu",
+    "symbol": "DoShi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

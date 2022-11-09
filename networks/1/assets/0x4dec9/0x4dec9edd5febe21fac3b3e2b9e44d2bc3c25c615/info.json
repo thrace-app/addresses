@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4dec9edd5febe21fac3b3e2b9e44d2bc3c25c615",
+  "displayName": "Sweetcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sweetcoin",
+    "symbol": "SWCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

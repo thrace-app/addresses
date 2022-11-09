@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51bda1209dcbabbf6204c54974d0efa7028db5b5",
+  "displayName": "USDH",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDH",
+    "symbol": "USDH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

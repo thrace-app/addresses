@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe038a2fdfec62cf1bed852f141a43005035edcc",
+  "displayName": "Internet Node Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Internet Node Token",
+    "symbol": "INT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

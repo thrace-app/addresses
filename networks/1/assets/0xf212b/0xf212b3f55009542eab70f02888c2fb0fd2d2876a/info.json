@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf212b3f55009542eab70f02888c2fb0fd2d2876a",
+  "displayName": "Cage Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cage Token",
+    "symbol": "CAGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

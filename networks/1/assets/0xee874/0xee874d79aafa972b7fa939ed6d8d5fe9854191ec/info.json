@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee874d79aafa972b7fa939ed6d8d5fe9854191ec",
+  "displayName": "Smart Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smart Token",
+    "symbol": "SMART",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

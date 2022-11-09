@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5afccef680ee1d9bca47fde712007020197591e",
+  "displayName": "Aqua Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aqua Token",
+    "symbol": "AQUA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

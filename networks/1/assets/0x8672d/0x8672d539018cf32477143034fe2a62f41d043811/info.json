@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8672d539018cf32477143034fe2a62f41d043811",
+  "displayName": "Wrapped DOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped DOGE",
+    "symbol": "WDOGE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

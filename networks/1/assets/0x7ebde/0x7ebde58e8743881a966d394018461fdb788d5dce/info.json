@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ebde58e8743881a966d394018461fdb788d5dce",
+  "displayName": "CornDog Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CornDog Token",
+    "symbol": "CDOG",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

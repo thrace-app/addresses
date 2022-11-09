@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cc9567ea2eb740824a45f8026ccf8e46973234d",
+  "displayName": "Fulcrum KNC iToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fulcrum KNC iToken",
+    "symbol": "iKNC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

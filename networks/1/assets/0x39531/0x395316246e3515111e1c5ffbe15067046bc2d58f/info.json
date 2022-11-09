@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x395316246e3515111e1c5ffbe15067046bc2d58f",
+  "displayName": "Gargoyles token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gargoyles token",
+    "symbol": "GARG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

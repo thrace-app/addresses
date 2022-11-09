@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ad7573791cdbf98fa93011fe51cee45a525cdc4",
+  "displayName": "J.P.Morgan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "J.P.Morgan Token",
+    "symbol": "JPM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

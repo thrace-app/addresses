@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e018c03ce07c0ac698130c863212602ef0ce779",
+  "displayName": "Tesla Poker Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tesla Poker Token",
+    "symbol": "TPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

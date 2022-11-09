@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a0772555c467ef3751bd6d85be3a5a6f70a3e86",
+  "displayName": "Tweet for 0.1 Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tweet for 0.1 Doge",
+    "symbol": "TweetD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

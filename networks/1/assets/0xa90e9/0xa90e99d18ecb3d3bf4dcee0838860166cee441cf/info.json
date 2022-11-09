@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa90e99d18ecb3d3bf4dcee0838860166cee441cf",
+  "displayName": "Internet Computer",
+  "type": "TOKEN",
+  "token": {
+    "name": "Internet Computer",
+    "symbol": "Babycow",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f270224b176aa1dccae424325be949440138f5b",
+  "displayName": "Minmi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Minmi Token",
+    "symbol": "MINMI",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

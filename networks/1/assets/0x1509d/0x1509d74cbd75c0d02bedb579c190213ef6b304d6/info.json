@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1509d74cbd75c0d02bedb579c190213ef6b304d6",
+  "displayName": "Internet Computer",
+  "type": "TOKEN",
+  "token": {
+    "name": "Internet Computer",
+    "symbol": "QRDO",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

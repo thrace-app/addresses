@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7a0e5e300220f7610e9f619ac55ac15c209a59c",
+  "displayName": "The Aptos",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Aptos",
+    "symbol": "TA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

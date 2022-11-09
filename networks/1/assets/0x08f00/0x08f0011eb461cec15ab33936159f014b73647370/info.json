@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08f0011eb461cec15ab33936159f014b73647370",
+  "displayName": "SpaceX DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpaceX DAO",
+    "symbol": "SpaceXDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

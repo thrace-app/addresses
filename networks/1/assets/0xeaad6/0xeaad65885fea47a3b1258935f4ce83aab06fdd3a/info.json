@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeaad65885fea47a3b1258935f4ce83aab06fdd3a",
+  "displayName": "Da-Fi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Da-Fi Token",
+    "symbol": "Da-Fi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

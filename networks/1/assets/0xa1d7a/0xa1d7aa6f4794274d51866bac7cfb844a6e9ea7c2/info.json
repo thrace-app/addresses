@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1d7aa6f4794274d51866bac7cfb844a6e9ea7c2",
+  "displayName": "The Decentralised Wallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Decentralised Wallet",
+    "symbol": "DEW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

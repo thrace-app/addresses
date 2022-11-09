@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xefa6903aa49cd539c079ac4b0a090db432615822",
+  "displayName": "SW Yield Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "SW Yield Fund",
+    "symbol": "SWYF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

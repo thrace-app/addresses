@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87f4c9a57bb8bdab0f31c4de290ba9951d9adbcc",
+  "displayName": "Swiss Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swiss Token",
+    "symbol": "SWISS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

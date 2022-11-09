@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34a674f4c5cea205d705b19bd5fe3aac0b673e31",
+  "displayName": "SOL token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SOL token",
+    "symbol": "SOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

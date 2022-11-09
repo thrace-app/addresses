@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd59dc68015091e6fbdb07f5bf1b24ef2284524a0",
+  "displayName": "Degen Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Coin",
+    "symbol": "DC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

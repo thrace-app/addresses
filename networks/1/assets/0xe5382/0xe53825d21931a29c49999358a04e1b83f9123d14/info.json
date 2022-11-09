@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe53825d21931a29c49999358a04e1b83f9123d14",
+  "displayName": "Diamond Alpha Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Diamond Alpha Token",
+    "symbol": "DAD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

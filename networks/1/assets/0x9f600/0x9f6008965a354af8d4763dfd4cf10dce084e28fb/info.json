@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f6008965a354af8d4763dfd4cf10dce084e28fb",
+  "displayName": "Very Stable",
+  "type": "TOKEN",
+  "token": {
+    "name": "Very Stable",
+    "symbol": "VSTABLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

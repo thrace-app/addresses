@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f02055e3541dd74a1abd8692116c22ffafadc5d",
+  "displayName": "TBC Mart Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TBC Mart Token",
+    "symbol": "TMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

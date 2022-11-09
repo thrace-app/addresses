@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e531f0c2aa00495cd9649a9f33b1d166f1082cd",
+  "displayName": "StormSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "StormSwap",
+    "symbol": "STORM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

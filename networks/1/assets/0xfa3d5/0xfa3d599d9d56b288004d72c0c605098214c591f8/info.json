@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa3d599d9d56b288004d72c0c605098214c591f8",
+  "displayName": "Anime Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Anime Coin",
+    "symbol": "ANIME",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

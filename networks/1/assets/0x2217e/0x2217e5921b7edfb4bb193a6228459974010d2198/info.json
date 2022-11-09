@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2217e5921b7edfb4bb193a6228459974010d2198",
+  "displayName": "Qmall Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Qmall Token",
+    "symbol": "QMALL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

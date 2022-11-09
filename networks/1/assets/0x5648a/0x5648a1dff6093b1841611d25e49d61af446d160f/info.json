@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5648a1dff6093b1841611d25e49d61af446d160f",
+  "displayName": "Digital Monkey Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Monkey Protocol",
+    "symbol": "$DM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

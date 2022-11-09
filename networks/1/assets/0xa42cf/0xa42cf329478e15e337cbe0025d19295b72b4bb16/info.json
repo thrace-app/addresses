@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa42cf329478e15e337cbe0025d19295b72b4bb16",
+  "displayName": "TomatoSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "TomatoSwap",
+    "symbol": "Tomato",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

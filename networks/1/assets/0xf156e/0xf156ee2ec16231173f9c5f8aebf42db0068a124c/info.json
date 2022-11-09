@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf156ee2ec16231173f9c5f8aebf42db0068a124c",
+  "displayName": "Coldbank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coldbank",
+    "symbol": "COLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

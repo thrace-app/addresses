@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30365ed4ca8173013ad948b9842f34ac71d01f7c",
+  "displayName": "Dirham",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dirham",
+    "symbol": "DHS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

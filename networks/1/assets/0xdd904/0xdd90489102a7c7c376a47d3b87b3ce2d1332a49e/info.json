@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd90489102a7c7c376a47d3b87b3ce2d1332a49e",
+  "displayName": "Social Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Social Coin",
+    "symbol": "SOC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

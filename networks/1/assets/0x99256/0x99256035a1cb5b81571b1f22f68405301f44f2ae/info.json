@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99256035a1cb5b81571b1f22f68405301f44f2ae",
+  "displayName": "crypt-oink.io",
+  "type": "TOKEN",
+  "token": {
+    "name": "crypt-oink.io",
+    "symbol": "OINK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

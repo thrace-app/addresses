@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x693eea0cf4671748211fe97d0de6a33076a89169",
+  "displayName": "YugiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "YugiToken",
+    "symbol": "YGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

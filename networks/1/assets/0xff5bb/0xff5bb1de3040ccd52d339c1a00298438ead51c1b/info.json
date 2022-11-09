@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff5bb1de3040ccd52d339c1a00298438ead51c1b",
+  "displayName": "Mozan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mozan Token",
+    "symbol": "Mozan",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

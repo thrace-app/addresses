@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a61a2852dcb375df0a65c97ef694ee5d2994ef6",
+  "displayName": "Bruce Lee NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bruce Lee NFT",
+    "symbol": "Bruce Lee",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

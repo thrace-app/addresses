@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ca97c08c360c59170750867417490daf8c4d875",
+  "displayName": "Dune Gem",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dune Gem",
+    "symbol": "DuneGem",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

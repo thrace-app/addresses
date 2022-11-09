@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x261efcdd24cea98652b9700800a13dfbca4103ff",
+  "displayName": "Synth sXAU",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth sXAU",
+    "symbol": "sXAU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

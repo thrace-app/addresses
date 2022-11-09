@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97483d06ef152c9f4ae5a496466f86a481bb9de1",
+  "displayName": "Reddit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Reddit Token",
+    "symbol": "REDDIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

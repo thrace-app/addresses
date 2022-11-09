@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fe0523a969cc6793ca7e1e2a68a621ba5887438",
+  "displayName": "Halal Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Halal Coin",
+    "symbol": "HLL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

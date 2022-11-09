@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x123501cbe5916e089d3a14c858c8725902109f58",
+  "displayName": "Psychosis",
+  "type": "TOKEN",
+  "token": {
+    "name": "Psychosis",
+    "symbol": "PSYCHO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

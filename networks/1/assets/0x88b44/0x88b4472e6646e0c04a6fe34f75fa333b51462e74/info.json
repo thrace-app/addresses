@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88b4472e6646e0c04a6fe34f75fa333b51462e74",
+  "displayName": "SpaceX fan token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpaceX fan token",
+    "symbol": "SFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

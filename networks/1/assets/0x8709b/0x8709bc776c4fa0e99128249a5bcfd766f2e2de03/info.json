@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8709bc776c4fa0e99128249a5bcfd766f2e2de03",
+  "displayName": "EthereumBEANS",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumBEANS",
+    "symbol": "eBEANS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

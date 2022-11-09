@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x438f5ee9a631dfc05509942ce6a88a272113c17f",
+  "displayName": "Ethverse Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethverse Token",
+    "symbol": "ETHV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

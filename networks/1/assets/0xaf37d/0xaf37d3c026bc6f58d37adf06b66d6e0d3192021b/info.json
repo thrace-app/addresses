@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf37d3c026bc6f58d37adf06b66d6e0d3192021b",
+  "displayName": "EthereumCake",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumCake",
+    "symbol": "ETHCAKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

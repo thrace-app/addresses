@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d1092aba4312102d36aa0cb8c4742cd45fbba3a",
+  "displayName": "WAP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WAP Token",
+    "symbol": "WAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

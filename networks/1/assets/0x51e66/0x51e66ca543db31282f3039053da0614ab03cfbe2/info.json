@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51e66ca543db31282f3039053da0614ab03cfbe2",
+  "displayName": "TheRing",
+  "type": "TOKEN",
+  "token": {
+    "name": "TheRing",
+    "symbol": "$RING",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

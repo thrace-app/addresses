@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d398cdfeb2f558179569dade167fe21abaefe53",
+  "displayName": "TradeNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "TradeNFT",
+    "symbol": "tNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

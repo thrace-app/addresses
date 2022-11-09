@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad22f63404f7305e4713ccbd4f296f34770513f4",
+  "displayName": "Atomic Wallet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Atomic Wallet Token",
+    "symbol": "AWC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

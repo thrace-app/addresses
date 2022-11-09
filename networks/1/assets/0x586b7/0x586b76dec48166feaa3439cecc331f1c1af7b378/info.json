@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x586b76dec48166feaa3439cecc331f1c1af7b378",
+  "displayName": "Duck Party",
+  "type": "TOKEN",
+  "token": {
+    "name": "Duck Party",
+    "symbol": "QUACK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

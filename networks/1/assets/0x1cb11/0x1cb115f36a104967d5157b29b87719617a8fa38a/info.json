@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cb115f36a104967d5157b29b87719617a8fa38a",
+  "displayName": "Sovryn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sovryn Token",
+    "symbol": "SOV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

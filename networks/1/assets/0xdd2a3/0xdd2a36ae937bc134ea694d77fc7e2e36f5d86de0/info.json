@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0",
+  "displayName": "Weld.Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Weld.Money",
+    "symbol": "WELD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

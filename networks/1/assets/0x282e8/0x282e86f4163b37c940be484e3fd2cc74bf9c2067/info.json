@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x282e86f4163b37c940be484e3fd2cc74bf9c2067",
+  "displayName": "coreBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "coreBTC",
+    "symbol": "coreBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

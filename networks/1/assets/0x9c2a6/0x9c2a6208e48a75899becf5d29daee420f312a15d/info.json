@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c2a6208e48a75899becf5d29daee420f312a15d",
+  "displayName": "GalaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GalaCoin",
+    "symbol": "GALA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

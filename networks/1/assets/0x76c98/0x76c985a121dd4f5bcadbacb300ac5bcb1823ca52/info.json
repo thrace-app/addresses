@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76c985a121dd4f5bcadbacb300ac5bcb1823ca52",
+  "displayName": "EIP1559",
+  "type": "TOKEN",
+  "token": {
+    "name": "EIP1559",
+    "symbol": "EIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

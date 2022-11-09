@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc59f32a86d7ce3f06e0a931353aad965ab7ad4cf",
+  "displayName": "OLUX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OLUX Token",
+    "symbol": "OLUX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

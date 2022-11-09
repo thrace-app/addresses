@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23b99002a1749cc4fb81d8a4a2d56acf4a2b47ad",
+  "displayName": "LichangToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LichangToken",
+    "symbol": "LC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

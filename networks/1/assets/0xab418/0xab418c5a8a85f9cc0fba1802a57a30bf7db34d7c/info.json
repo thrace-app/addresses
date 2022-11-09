@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab418c5a8a85f9cc0fba1802a57a30bf7db34d7c",
+  "displayName": "Benscoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Benscoin",
+    "symbol": "BSC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

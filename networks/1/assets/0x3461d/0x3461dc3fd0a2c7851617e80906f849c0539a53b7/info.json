@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3461dc3fd0a2c7851617e80906f849c0539a53b7",
+  "displayName": "Ninu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ninu Token",
+    "symbol": "NINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03d987296e2308fa9cde06f4a750ead580f28969",
+  "displayName": "Trick or Tweet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trick or Tweet",
+    "symbol": "$TWEET",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

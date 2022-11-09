@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50dac1065fa42ce6e1fa706ef670b3a0516934e6",
+  "displayName": "Cheemies",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cheemies",
+    "symbol": "CHEEMIES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

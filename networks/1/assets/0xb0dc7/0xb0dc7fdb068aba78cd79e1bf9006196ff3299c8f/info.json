@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0dc7fdb068aba78cd79e1bf9006196ff3299c8f",
+  "displayName": "Digital Dollar Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Dollar Coin",
+    "symbol": "DDCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

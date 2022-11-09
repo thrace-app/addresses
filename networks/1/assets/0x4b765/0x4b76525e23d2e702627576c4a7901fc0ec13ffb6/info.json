@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b76525e23d2e702627576c4a7901fc0ec13ffb6",
+  "displayName": "wdot",
+  "type": "TOKEN",
+  "token": {
+    "name": "wdot",
+    "symbol": "wdot",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

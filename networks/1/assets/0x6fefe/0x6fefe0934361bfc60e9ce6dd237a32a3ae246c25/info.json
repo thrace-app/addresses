@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fefe0934361bfc60e9ce6dd237a32a3ae246c25",
+  "displayName": "Public Mint",
+  "type": "TOKEN",
+  "token": {
+    "name": "Public Mint",
+    "symbol": "MINT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

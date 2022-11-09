@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23c93fa0ac24f316307beee7ac7b3eff2e7f89e8",
+  "displayName": "Keep5rToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Keep5rToken",
+    "symbol": "KP5R",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

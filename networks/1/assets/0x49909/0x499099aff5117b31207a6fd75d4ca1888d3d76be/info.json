@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x499099aff5117b31207a6fd75d4ca1888d3d76be",
+  "displayName": "Kitty Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kitty Token",
+    "symbol": "KITTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

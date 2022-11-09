@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7101a844288e652b4f312fdd51416f80d9a30b24",
+  "displayName": "Junlon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Junlon Token",
+    "symbol": "JUNLON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

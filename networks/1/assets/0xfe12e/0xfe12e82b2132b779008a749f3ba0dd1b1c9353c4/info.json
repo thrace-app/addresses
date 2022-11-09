@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe12e82b2132b779008a749f3ba0dd1b1c9353c4",
+  "displayName": "Neo Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neo Doge",
+    "symbol": "NEOD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

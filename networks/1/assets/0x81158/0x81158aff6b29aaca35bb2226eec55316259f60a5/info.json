@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81158aff6b29aaca35bb2226eec55316259f60a5",
+  "displayName": "The MOON",
+  "type": "TOKEN",
+  "token": {
+    "name": "The MOON",
+    "symbol": "CHEESE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

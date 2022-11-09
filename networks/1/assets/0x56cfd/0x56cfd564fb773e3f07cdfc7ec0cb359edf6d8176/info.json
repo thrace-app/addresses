@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56cfd564fb773e3f07cdfc7ec0cb359edf6d8176",
+  "displayName": "The Serpents",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Serpents",
+    "symbol": "SERP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

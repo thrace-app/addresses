@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ecc4b299e23f526980c33fe35eff531a54aedb1",
+  "displayName": "TCH Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TCH Token",
+    "symbol": "TCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

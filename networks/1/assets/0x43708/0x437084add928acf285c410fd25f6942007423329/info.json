@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x437084add928acf285c410fd25f6942007423329",
+  "displayName": "Local.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "Local.com",
+    "symbol": "LOCAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

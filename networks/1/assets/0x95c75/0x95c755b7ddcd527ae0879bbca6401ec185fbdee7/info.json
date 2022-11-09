@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95c755b7ddcd527ae0879bbca6401ec185fbdee7",
+  "displayName": "Snap Chat Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Snap Chat Token",
+    "symbol": "SNAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

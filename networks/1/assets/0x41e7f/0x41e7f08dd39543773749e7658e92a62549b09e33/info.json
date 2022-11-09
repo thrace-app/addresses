@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41e7f08dd39543773749e7658e92a62549b09e33",
+  "displayName": "TulpSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "TulpSwap",
+    "symbol": "TULP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

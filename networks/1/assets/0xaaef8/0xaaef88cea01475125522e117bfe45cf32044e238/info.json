@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaaef88cea01475125522e117bfe45cf32044e238",
+  "displayName": "GuildFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GuildFi Token",
+    "symbol": "GF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

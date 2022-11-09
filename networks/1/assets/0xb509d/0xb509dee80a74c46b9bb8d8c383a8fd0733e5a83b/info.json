@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb509dee80a74c46b9bb8d8c383a8fd0733e5a83b",
+  "displayName": "Chief Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chief Doge",
+    "symbol": "COGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

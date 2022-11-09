@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd333b8369df7294533b7ab4359dfb7b66ee80359",
+  "displayName": "Lazy Cow",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lazy Cow",
+    "symbol": "LAZY COW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e3fec1b67b6aee78b70009cb1499af419bd7715",
+  "displayName": "OpenSnail",
+  "type": "TOKEN",
+  "token": {
+    "name": "OpenSnail",
+    "symbol": "SNAIL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

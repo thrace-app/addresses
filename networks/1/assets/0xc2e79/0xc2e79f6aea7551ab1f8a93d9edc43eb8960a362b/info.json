@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2e79f6aea7551ab1f8a93d9edc43eb8960a362b",
+  "displayName": "SatoshiDog",
+  "type": "TOKEN",
+  "token": {
+    "name": "SatoshiDog",
+    "symbol": "STD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2bbad97ed27c05b9d1854877e7f833ce6d54e9b2",
+  "displayName": "Ostrich",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ostrich",
+    "symbol": "DODGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

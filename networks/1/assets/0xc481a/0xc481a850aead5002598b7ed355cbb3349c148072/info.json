@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc481a850aead5002598b7ed355cbb3349c148072",
+  "displayName": "StarBlock Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarBlock Token",
+    "symbol": "STB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

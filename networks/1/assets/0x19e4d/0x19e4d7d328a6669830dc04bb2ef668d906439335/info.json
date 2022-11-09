@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19e4d7d328a6669830dc04bb2ef668d906439335",
+  "displayName": "VoteFinance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VoteFinance Token",
+    "symbol": "VFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

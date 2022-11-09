@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2928a3922c1ba54c6d23f3430aa5ff04ba8eb759",
+  "displayName": "Goblin Goons",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goblin Goons",
+    "symbol": "GOON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

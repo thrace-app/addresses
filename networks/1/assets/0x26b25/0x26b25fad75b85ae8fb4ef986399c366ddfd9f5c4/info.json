@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26b25fad75b85ae8fb4ef986399c366ddfd9f5c4",
+  "displayName": "Tiny Talk",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tiny Talk",
+    "symbol": "TinyTalk",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

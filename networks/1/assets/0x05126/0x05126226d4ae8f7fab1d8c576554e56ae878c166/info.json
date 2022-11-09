@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05126226d4ae8f7fab1d8c576554e56ae878c166",
+  "displayName": "Space Frog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Space Frog",
+    "symbol": "SFROG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

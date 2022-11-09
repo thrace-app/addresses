@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cdd3e9e7108efe50615dabb2135bd2939984d9b",
+  "displayName": "Tiny Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tiny Token",
+    "symbol": "TNY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

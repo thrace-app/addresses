@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa8021a222b398a1a79088684788d82a7985901e4",
+  "displayName": "Storage token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Storage token",
+    "symbol": "SGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

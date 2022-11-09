@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20910e5b5f087f6439dfcb0dda4e27d1014ac2b8",
+  "displayName": "Banana",
+  "type": "TOKEN",
+  "token": {
+    "name": "Banana",
+    "symbol": "BNA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

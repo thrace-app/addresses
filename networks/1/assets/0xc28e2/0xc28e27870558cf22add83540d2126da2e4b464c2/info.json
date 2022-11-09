@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc28e27870558cf22add83540d2126da2e4b464c2",
+  "displayName": "SashimiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SashimiToken",
+    "symbol": "SASHIMI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

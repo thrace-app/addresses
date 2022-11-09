@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb235308b44fbe4343d35e5c4f1908b7c9730d902",
+  "displayName": "UniCash",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniCash",
+    "symbol": "uCash",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

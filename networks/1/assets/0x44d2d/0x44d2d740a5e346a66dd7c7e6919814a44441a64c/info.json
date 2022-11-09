@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44d2d740a5e346a66dd7c7e6919814a44441a64c",
+  "displayName": "MetaKitties",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaKitties",
+    "symbol": "MetKit",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

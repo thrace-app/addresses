@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d09764fbdd1699efed0a6ba4e92a59b41471aed",
+  "displayName": "ERM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ERM Token",
+    "symbol": "ERM",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

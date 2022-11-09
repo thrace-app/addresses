@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1153980afddc65c80e786ae3b859f56dc3366130",
+  "displayName": "Ruby Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ruby Token",
+    "symbol": "RUBY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

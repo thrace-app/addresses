@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c4eb967c853ba717bf09007483e6249fef0e07a",
+  "displayName": "ScissorsToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ScissorsToken",
+    "symbol": "SCISSORS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

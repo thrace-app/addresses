@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5dcfa62f81b43ce7a3632454d327dee1f1d93b28",
+  "displayName": "10X Long Ethereum Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "10X Long Ethereum Token",
+    "symbol": "ETHMOON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

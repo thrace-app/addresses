@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabe8ff459cad437db44373c1c7c9272d6c248143",
+  "displayName": "Blur Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blur Token",
+    "symbol": "BLUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

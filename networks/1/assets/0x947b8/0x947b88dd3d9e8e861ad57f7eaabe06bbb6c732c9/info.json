@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x947b88dd3d9e8e861ad57f7eaabe06bbb6c732c9",
+  "displayName": "Texas Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Texas Token",
+    "symbol": "TEXAS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

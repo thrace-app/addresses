@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a6be5905b120f03667b3782472f1256bca268ec",
+  "displayName": "Fappy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fappy",
+    "symbol": "FAPPY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

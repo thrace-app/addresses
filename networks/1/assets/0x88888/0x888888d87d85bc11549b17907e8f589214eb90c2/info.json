@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x888888d87d85bc11549b17907e8f589214eb90c2",
+  "displayName": "DePlutus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DePlutus Token",
+    "symbol": "PLUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

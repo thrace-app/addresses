@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc52c326331e9ce41f04484d3b5e5648158028804",
+  "displayName": "ZEN Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZEN Exchange Token",
+    "symbol": "ZCX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

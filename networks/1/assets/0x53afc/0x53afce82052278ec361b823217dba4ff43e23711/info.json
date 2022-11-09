@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53afce82052278ec361b823217dba4ff43e23711",
+  "displayName": "MemeFarm",
+  "type": "TOKEN",
+  "token": {
+    "name": "MemeFarm",
+    "symbol": "MFRM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

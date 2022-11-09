@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7cf3ea23423d5bcd0d19f3b1f501214d571c7f3f",
+  "displayName": "Gooby Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gooby Fund",
+    "symbol": "GFUNDS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

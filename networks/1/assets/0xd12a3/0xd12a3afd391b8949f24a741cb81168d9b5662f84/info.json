@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd12a3afd391b8949f24a741cb81168d9b5662f84",
+  "displayName": "Thanksgiving Day Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Thanksgiving Day Token",
+    "symbol": "TGD",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

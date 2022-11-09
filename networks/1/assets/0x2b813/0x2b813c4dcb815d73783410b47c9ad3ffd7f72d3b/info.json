@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b813c4dcb815d73783410b47c9ad3ffd7f72d3b",
+  "displayName": "Astroboy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Astroboy Token",
+    "symbol": "ASTRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

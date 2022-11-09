@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19c87e18c0b2bb1aa23d3fdb876c88f45c4cbc39",
+  "displayName": "Basic Income Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Basic Income Token",
+    "symbol": "BAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

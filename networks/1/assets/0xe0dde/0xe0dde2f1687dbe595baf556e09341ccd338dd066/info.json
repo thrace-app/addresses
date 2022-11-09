@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0dde2f1687dbe595baf556e09341ccd338dd066",
+  "displayName": "yocai Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "yocai Token",
+    "symbol": "CAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

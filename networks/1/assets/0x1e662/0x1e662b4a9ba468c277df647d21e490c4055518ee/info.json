@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e662b4a9ba468c277df647d21e490c4055518ee",
+  "displayName": "Ethereum Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Swap",
+    "symbol": "ETS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

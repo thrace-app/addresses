@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ee3fada432661adb9d7398b15206d81c330132e",
+  "displayName": "OpT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OpT Token",
+    "symbol": "OpT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

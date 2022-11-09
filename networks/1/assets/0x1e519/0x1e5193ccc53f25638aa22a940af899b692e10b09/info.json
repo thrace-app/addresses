@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e5193ccc53f25638aa22a940af899b692e10b09",
+  "displayName": "Alluo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Alluo Token",
+    "symbol": "ALLUO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca8a414f170bc635f7bb21af7951922fa33a82b0",
+  "displayName": "LayerZeroToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LayerZeroToken",
+    "symbol": "LZERO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

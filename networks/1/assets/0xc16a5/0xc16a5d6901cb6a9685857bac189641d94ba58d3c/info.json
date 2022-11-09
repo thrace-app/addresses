@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc16a5d6901cb6a9685857bac189641d94ba58d3c",
+  "displayName": "Wrapped SafeMoon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped SafeMoon Token",
+    "symbol": "WSFM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

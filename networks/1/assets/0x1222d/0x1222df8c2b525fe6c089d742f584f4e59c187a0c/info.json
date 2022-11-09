@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1222df8c2b525fe6c089d742f584f4e59c187a0c",
+  "displayName": "SHERPA TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "SHERPA TOKEN",
+    "symbol": "SHERPA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

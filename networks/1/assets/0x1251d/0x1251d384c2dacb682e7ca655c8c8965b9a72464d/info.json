@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1251d384c2dacb682e7ca655c8c8965b9a72464d",
+  "displayName": "Ledarcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ledarcoin",
+    "symbol": "LDC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

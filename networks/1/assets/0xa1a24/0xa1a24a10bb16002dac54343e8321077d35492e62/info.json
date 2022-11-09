@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1a24a10bb16002dac54343e8321077d35492e62",
+  "displayName": "Bill Murray",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bill Murray",
+    "symbol": "Bill Murray",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22fa59b92200c6d7270d8c1b08fb2eb639fa7138",
+  "displayName": "ReadTheContract",
+  "type": "TOKEN",
+  "token": {
+    "name": "ReadTheContract",
+    "symbol": "EGO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

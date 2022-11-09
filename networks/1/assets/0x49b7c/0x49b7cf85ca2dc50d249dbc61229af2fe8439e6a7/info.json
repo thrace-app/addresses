@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49b7cf85ca2dc50d249dbc61229af2fe8439e6a7",
+  "displayName": "DragonCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DragonCoin",
+    "symbol": "DRB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

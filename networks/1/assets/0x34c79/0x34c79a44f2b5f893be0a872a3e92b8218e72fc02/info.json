@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34c79a44f2b5f893be0a872a3e92b8218e72fc02",
+  "displayName": "POS Token V1",
+  "type": "TOKEN",
+  "token": {
+    "name": "POS Token V1",
+    "symbol": "POS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

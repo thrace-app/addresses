@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d2a6d9ba3416e36b3bf43652fe7e38f3a55035a",
+  "displayName": "Wechatcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wechatcoin",
+    "symbol": "WTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68b20cd57b8334ca0958ef51011acde18c252138",
+  "displayName": "DAR TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAR TOKEN",
+    "symbol": "DAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

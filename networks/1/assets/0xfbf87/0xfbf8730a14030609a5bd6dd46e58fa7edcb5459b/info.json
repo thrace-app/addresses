@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfbf8730a14030609a5bd6dd46e58fa7edcb5459b",
+  "displayName": "Yuki Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yuki Inu Token",
+    "symbol": "YUKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

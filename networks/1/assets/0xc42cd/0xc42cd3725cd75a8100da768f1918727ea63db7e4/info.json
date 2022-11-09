@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc42cd3725cd75a8100da768f1918727ea63db7e4",
+  "displayName": "WWQToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WWQToken",
+    "symbol": "WWQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

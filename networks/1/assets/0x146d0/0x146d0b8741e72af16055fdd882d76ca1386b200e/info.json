@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x146d0b8741e72af16055fdd882d76ca1386b200e",
+  "displayName": "Pancho the Pug",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pancho the Pug",
+    "symbol": "PANCHO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

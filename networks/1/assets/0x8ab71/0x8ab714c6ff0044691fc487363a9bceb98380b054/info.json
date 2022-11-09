@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ab714c6ff0044691fc487363a9bceb98380b054",
+  "displayName": "Loopring Exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "Loopring Exchange",
+    "symbol": "https://looprlng.org/#/",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

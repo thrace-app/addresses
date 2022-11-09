@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc01275055e6caff11f10b210b91bd3cfbf2f0aa4",
+  "displayName": "MetaApeDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaApeDAO",
+    "symbol": "$MAD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

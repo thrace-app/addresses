@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x061949a5ce369ad006ca1102bea62b725f8e46bb",
+  "displayName": "FiCredit",
+  "type": "TOKEN",
+  "token": {
+    "name": "FiCredit",
+    "symbol": "FCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

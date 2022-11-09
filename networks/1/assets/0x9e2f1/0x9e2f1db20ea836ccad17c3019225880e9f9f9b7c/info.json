@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e2f1db20ea836ccad17c3019225880e9f9f9b7c",
+  "displayName": "MoonPay Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonPay Inu",
+    "symbol": "MOONPAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

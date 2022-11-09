@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49aff2732e8f59e864b4076d94ef2432812538e4",
+  "displayName": "Yearn Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn Protocol",
+    "symbol": "YPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

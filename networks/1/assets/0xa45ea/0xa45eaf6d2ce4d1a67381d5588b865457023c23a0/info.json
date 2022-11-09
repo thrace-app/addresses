@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa45eaf6d2ce4d1a67381d5588b865457023c23a0",
+  "displayName": "XIO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XIO Token",
+    "symbol": "XIO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

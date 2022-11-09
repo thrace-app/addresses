@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a5e258fc92cbac060012b1aa0d227a3e58b8e2d",
+  "displayName": "RFT Token Network",
+  "type": "TOKEN",
+  "token": {
+    "name": "RFT Token Network",
+    "symbol": "RFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x560a20eddeddf84217221aef0d5ca7d7ae7ae798",
+  "displayName": "PlasmaBank token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PlasmaBank token",
+    "symbol": "PBK",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

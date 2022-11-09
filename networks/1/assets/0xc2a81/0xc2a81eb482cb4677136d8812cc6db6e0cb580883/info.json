@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2a81eb482cb4677136d8812cc6db6e0cb580883",
+  "displayName": "Fairspin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fairspin Token",
+    "symbol": "TFS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

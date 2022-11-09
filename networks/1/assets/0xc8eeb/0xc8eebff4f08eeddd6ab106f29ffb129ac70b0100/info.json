@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8eebff4f08eeddd6ab106f29ffb129ac70b0100",
+  "displayName": "Opaque Decentralized Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Opaque Decentralized Doge",
+    "symbol": "ODD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

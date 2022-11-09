@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb28ee6bbe981caf5c40e4754b0ba8882a00eb4f7",
+  "displayName": "PolyDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolyDoge",
+    "symbol": "POLYGOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

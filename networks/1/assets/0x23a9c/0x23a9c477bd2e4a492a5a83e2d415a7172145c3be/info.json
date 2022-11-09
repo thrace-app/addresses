@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23a9c477bd2e4a492a5a83e2d415a7172145c3be",
+  "displayName": "Brainz",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brainz",
+    "symbol": "BRAIN$",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

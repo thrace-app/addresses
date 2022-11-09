@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf9e72eeb5adb8b558334c8672950b7a379d4266",
+  "displayName": "CubToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CubToken",
+    "symbol": "CUBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

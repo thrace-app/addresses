@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa885b65aec7407c7a5892c523fe42d642e1c2f0f",
+  "displayName": "StarChain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarChain Token",
+    "symbol": "SCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

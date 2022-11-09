@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbbbafd3d471838a3745beb2dd33fae4e878ec1e",
+  "displayName": "CryptoZoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoZoon",
+    "symbol": "ZOON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

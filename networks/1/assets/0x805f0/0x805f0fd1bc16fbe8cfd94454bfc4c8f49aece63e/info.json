@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x805f0fd1bc16fbe8cfd94454bfc4c8f49aece63e",
+  "displayName": "Wrawl Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrawl Token",
+    "symbol": "WRAWL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcfc599435fa65e7b733c13817e35f3e066b49a9f",
+  "displayName": "MyEtherWallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyEtherWallet",
+    "symbol": "MEW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

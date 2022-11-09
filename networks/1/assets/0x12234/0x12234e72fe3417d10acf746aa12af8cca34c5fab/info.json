@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12234e72fe3417d10acf746aa12af8cca34c5fab",
+  "displayName": "HYVE.works",
+  "type": "TOKEN",
+  "token": {
+    "name": "HYVE.works",
+    "symbol": "HYVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

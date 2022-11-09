@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e521afc961b5d7c32769284b8f319513f5fcb1a",
+  "displayName": "White Fang",
+  "type": "TOKEN",
+  "token": {
+    "name": "White Fang",
+    "symbol": "Woof",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

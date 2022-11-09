@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafa0ca71a71b4d5ac504a29c31afeca9f106f553",
+  "displayName": "Jax Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jax Token",
+    "symbol": "JAX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

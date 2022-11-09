@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x546b064331350bfdea5b1c1d860e4f6b48f9ca31",
+  "displayName": "FTME",
+  "type": "TOKEN",
+  "token": {
+    "name": "FTME",
+    "symbol": "FTME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

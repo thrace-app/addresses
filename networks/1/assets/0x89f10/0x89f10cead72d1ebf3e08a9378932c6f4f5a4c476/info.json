@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89f10cead72d1ebf3e08a9378932c6f4f5a4c476",
+  "displayName": "Bruno Skvorc Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bruno Skvorc Token",
+    "symbol": "SWADER",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

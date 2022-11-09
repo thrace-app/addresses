@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0bf8954f52f9657b99bd7e0bc201b06983d5daa",
+  "displayName": "EtherDice",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherDice",
+    "symbol": "ROLLEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

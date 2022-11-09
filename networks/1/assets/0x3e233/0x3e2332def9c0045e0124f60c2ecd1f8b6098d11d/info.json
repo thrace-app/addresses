@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e2332def9c0045e0124f60c2ecd1f8b6098d11d",
+  "displayName": "Luna DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luna DAO",
+    "symbol": "LUNADAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

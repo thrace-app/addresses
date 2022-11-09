@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d3bc7d270aa453215c15a1c60565edc62aeb3d5",
+  "displayName": "Royal ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Royal ETH",
+    "symbol": "RoyalETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

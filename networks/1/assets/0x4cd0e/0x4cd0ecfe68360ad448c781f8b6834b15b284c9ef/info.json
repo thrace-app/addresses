@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cd0ecfe68360ad448c781f8b6834b15b284c9ef",
+  "displayName": "Media Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Media Network Token",
+    "symbol": "MEDIA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

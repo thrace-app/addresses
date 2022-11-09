@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf5542a314e9b52f12817a1677fab0e615ef1b70",
+  "displayName": "Haruko Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Haruko Token",
+    "symbol": "HARUKO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

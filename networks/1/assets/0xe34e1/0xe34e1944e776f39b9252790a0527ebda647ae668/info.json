@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe34e1944e776f39b9252790a0527ebda647ae668",
+  "displayName": "Helbiz Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Helbiz Token",
+    "symbol": "HBZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

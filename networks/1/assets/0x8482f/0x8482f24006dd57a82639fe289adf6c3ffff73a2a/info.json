@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8482f24006dd57a82639fe289adf6c3ffff73a2a",
+  "displayName": "The Stark Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Stark Protocol",
+    "symbol": "TSP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

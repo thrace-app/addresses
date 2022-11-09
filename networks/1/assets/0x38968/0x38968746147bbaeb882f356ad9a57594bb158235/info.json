@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38968746147bbaeb882f356ad9a57594bb158235",
+  "displayName": "benjaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "benjaCoin",
+    "symbol": "BENJA",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

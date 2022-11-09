@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0686cc743ffc8abe49ec95d4523da5575e7471d",
+  "displayName": "CryptoBits",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoBits",
+    "symbol": "BITS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

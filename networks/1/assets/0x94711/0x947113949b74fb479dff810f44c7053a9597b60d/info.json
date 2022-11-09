@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x947113949b74fb479dff810f44c7053a9597b60d",
+  "displayName": "UpHolder",
+  "type": "TOKEN",
+  "token": {
+    "name": "UpHolder",
+    "symbol": "$UP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd81095451e0f2ac5a1cdb674151e3e77d90c2fba",
+  "displayName": "MT4talk.com token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MT4talk.com token",
+    "symbol": "MT4talk",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

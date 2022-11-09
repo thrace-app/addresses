@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5575dcd51d5bde1a386835ebb03fcd00a5037f8e",
+  "displayName": "Vitalik Hero",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitalik Hero",
+    "symbol": "VIHERO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

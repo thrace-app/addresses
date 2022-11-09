@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaef4f02e31cdbf007f8d98da4ae365188a0e9ecc",
+  "displayName": "The Famous Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Famous Token",
+    "symbol": "TFT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

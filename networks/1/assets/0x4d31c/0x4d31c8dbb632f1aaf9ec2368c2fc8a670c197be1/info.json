@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d31c8dbb632f1aaf9ec2368c2fc8a670c197be1",
+  "displayName": "Proof Of PEPE",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof Of PEPE",
+    "symbol": "POP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

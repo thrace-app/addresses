@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa45eb347f4e9b242211587e90bd6a07658b5a13d",
+  "displayName": "Boss Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boss Token",
+    "symbol": "BOSS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

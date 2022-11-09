@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ce3712d49e8e3de8567d4aab602d479c8dc4cc0",
+  "displayName": "Shimatoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shimatoshi",
+    "symbol": "$SMT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

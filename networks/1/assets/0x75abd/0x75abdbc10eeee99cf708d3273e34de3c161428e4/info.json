@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75abdbc10eeee99cf708d3273e34de3c161428e4",
+  "displayName": "CryptoWars Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoWars Token",
+    "symbol": "CWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

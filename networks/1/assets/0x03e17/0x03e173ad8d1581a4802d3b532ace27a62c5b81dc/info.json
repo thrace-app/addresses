@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03e173ad8d1581a4802d3b532ace27a62c5b81dc",
+  "displayName": "Thales Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Thales Token",
+    "symbol": "THALES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

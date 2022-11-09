@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f1364d1af83afa748a452579b09d69ee83e8c86",
+  "displayName": "Abel Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Abel Network Token",
+    "symbol": "ABEL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

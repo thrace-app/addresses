@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95839f3ad133fe478130ea0967786dfa50a639eb",
+  "displayName": "HPTXTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "HPTXTOKEN",
+    "symbol": "HPTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

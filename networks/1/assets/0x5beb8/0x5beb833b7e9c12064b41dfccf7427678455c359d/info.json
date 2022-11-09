@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5beb833b7e9c12064b41dfccf7427678455c359d",
+  "displayName": "WHACK-A-MUSK",
+  "type": "TOKEN",
+  "token": {
+    "name": "WHACK-A-MUSK",
+    "symbol": "$WHACK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

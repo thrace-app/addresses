@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce30eeb782ec939f156897757cb5abfa5e267f51",
+  "displayName": "FRC",
+  "type": "TOKEN",
+  "token": {
+    "name": "FRC",
+    "symbol": "Fuck Ryoshi Coin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

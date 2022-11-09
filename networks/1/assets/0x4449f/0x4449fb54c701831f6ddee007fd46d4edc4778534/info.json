@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4449fb54c701831f6ddee007fd46d4edc4778534",
+  "displayName": "StakerDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "StakerDAO",
+    "symbol": "STKR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf42c1428a399f28012563f181268c2179e334f4f",
+  "displayName": "STAKING",
+  "type": "TOKEN",
+  "token": {
+    "name": "STAKING",
+    "symbol": "STAKE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

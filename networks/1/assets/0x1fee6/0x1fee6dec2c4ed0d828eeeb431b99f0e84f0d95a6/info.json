@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fee6dec2c4ed0d828eeeb431b99f0e84f0d95a6",
+  "displayName": "Bronco",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bronco",
+    "symbol": "FORD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

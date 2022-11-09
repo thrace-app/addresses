@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc317099ed5760ba05b1f43c102fdada93b725be6",
+  "displayName": "Doge Momo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Momo",
+    "symbol": "MOMO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

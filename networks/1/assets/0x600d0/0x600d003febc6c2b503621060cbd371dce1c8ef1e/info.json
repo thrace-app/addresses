@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x600d003febc6c2b503621060cbd371dce1c8ef1e",
+  "displayName": "wGoo",
+  "type": "TOKEN",
+  "token": {
+    "name": "wGoo",
+    "symbol": "wGOO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f153321710d27b8db2a45ae456327c0d44c2139",
+  "displayName": "NAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NAO Token",
+    "symbol": "NAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0befcbcf0230646bd39b451e756e3c0104295d0",
+  "displayName": "finance.vote",
+  "type": "TOKEN",
+  "token": {
+    "name": "finance.vote",
+    "symbol": "FIN",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

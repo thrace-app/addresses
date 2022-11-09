@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19fe1805fe31955af6c8974e6d1326ce52f516e4",
+  "displayName": "QuarkPro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "QuarkPro Token",
+    "symbol": "QPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

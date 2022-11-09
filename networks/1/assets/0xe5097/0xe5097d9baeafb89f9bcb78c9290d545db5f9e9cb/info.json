@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5097d9baeafb89f9bcb78c9290d545db5f9e9cb",
+  "displayName": "Hummingbot Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hummingbot Governance Token",
+    "symbol": "HBOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc85ae8f0a7a6d29bcf34df0aac435f79b8accd4",
+  "displayName": "A Degens Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "A Degens Coin",
+    "symbol": "Real",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

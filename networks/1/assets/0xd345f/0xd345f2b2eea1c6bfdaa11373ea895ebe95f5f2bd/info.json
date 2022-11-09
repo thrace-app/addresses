@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd345f2b2eea1c6bfdaa11373ea895ebe95f5f2bd",
+  "displayName": "NCH Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NCH Token",
+    "symbol": "NCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

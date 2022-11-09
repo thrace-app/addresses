@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ce826a6c0d5ab8b5a39840de9c6bbad0207350a",
+  "displayName": "Degen Bear",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Bear",
+    "symbol": "DEGENBEAR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

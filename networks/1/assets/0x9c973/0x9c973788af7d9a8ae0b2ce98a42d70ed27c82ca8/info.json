@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c973788af7d9a8ae0b2ce98a42d70ed27c82ca8",
+  "displayName": "BNB Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "BNB Inu",
+    "symbol": "BNBI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00f548bc685e4b495ba559e881112fdd4576f331",
+  "displayName": "Moma Protocol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moma Protocol Token",
+    "symbol": "MOMAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

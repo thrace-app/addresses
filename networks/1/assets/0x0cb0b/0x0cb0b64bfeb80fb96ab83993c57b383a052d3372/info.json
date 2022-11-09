@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0cb0b64bfeb80fb96ab83993c57b383a052d3372",
+  "displayName": "The Cat Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Cat Inu",
+    "symbol": "CATINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26e6fd6932b8851ba60c100ec60049f2e92632d4",
+  "displayName": "Sav3 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sav3 Token",
+    "symbol": "SAV3",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

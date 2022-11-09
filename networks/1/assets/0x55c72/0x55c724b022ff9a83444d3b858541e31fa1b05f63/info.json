@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55c724b022ff9a83444d3b858541e31fa1b05f63",
+  "displayName": "PlasmaPay",
+  "type": "TOKEN",
+  "token": {
+    "name": "PlasmaPay",
+    "symbol": "PPAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

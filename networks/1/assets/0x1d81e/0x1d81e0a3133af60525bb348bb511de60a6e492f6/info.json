@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d81e0a3133af60525bb348bb511de60a6e492f6",
+  "displayName": "FujinuETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "FujinuETH",
+    "symbol": "FUJINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

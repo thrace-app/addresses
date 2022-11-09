@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb6e2856a01ff71407fcd97465b6c29107adacb31",
+  "displayName": "Blue Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Doge",
+    "symbol": "BDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc10e1c296a3c0d9f9588acc5a440c7d441a596ed",
+  "displayName": "CoinBurp",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinBurp",
+    "symbol": "BURP",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

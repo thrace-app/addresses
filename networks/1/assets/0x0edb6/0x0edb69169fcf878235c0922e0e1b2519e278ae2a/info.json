@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0edb69169fcf878235c0922e0e1b2519e278ae2a",
+  "displayName": "Yetoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yetoken",
+    "symbol": "YEBR",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

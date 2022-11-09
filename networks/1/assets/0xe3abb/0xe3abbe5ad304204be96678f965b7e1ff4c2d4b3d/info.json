@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3abbe5ad304204be96678f965b7e1ff4c2d4b3d",
+  "displayName": "Perpetual Moon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Perpetual Moon Token",
+    "symbol": "PERPMOON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

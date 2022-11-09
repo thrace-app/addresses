@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce226813d1af216e359f33a38c951db4e215bd9a",
+  "displayName": "The Pure Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Pure Protocol",
+    "symbol": "PURE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

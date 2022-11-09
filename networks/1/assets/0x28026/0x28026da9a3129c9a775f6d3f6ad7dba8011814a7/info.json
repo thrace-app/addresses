@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x28026da9a3129c9a775f6d3f6ad7dba8011814a7",
+  "displayName": "StableCoinDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "StableCoinDao",
+    "symbol": "SCD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

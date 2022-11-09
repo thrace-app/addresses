@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa7de18790b31befd811c6c723916c9a32c2a2d37",
+  "displayName": "Buyereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Buyereum",
+    "symbol": "BUYER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

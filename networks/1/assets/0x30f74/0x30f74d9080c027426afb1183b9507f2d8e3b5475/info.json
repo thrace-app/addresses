@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30f74d9080c027426afb1183b9507f2d8e3b5475",
+  "displayName": "Son Satoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Son Satoshi",
+    "symbol": "SonSat",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

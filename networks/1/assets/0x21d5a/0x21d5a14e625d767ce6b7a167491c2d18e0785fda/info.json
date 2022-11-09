@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21d5a14e625d767ce6b7a167491c2d18e0785fda",
+  "displayName": "Jinbi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jinbi Token",
+    "symbol": "JNB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbcca60bb61934080951369a648fb03df4f96263c",
+  "displayName": "Aave interest bearing USDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave interest bearing USDC",
+    "symbol": "aUSDC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

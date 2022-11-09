@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbef7cb91fe9cd57f0c60811b83ab5f8e0dab8795",
+  "displayName": "Sprink Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sprink Token",
+    "symbol": "SPRINK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

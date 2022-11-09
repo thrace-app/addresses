@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd5608fe87816273307f9769a16089a41bc6f3b2",
+  "displayName": "Girles Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Girles Token",
+    "symbol": "GIRLES",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

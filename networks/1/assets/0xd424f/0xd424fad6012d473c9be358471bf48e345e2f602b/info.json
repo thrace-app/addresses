@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd424fad6012d473c9be358471bf48e345e2f602b",
+  "displayName": "Fake Redeem Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fake Redeem Token",
+    "symbol": "FAKEREDEEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

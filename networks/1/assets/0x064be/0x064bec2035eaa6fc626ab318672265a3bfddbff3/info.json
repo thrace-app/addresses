@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x064bec2035eaa6fc626ab318672265a3bfddbff3",
+  "displayName": "Space Rocket",
+  "type": "TOKEN",
+  "token": {
+    "name": "Space Rocket",
+    "symbol": "SpaceR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

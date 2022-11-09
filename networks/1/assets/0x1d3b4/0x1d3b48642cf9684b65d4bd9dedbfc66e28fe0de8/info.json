@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d3b48642cf9684b65d4bd9dedbfc66e28fe0de8",
+  "displayName": "Teh High Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Teh High Coin",
+    "symbol": "THC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

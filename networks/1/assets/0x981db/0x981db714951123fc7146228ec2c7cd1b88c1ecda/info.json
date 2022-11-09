@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x981db714951123fc7146228ec2c7cd1b88c1ecda",
+  "displayName": "Future Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Future Finance Token",
+    "symbol": "FFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

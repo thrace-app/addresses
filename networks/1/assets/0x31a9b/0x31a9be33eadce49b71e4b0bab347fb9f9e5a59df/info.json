@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x31a9be33eadce49b71e4b0bab347fb9f9e5a59df",
+  "displayName": "Sellable Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sellable Token",
+    "symbol": "ySELL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

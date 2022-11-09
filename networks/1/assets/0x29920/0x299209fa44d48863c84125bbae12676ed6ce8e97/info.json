@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x299209fa44d48863c84125bbae12676ed6ce8e97",
+  "displayName": "Spacepi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spacepi Token",
+    "symbol": "SpacePi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

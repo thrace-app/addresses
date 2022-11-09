@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfd1d94a35b9d888b641ca401fa02c9aa3130f78",
+  "displayName": "YFDAI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YFDAI Token",
+    "symbol": "YFDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

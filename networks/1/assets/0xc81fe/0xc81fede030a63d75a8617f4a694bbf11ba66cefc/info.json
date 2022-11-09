@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc81fede030a63d75a8617f4a694bbf11ba66cefc",
+  "displayName": "Satoshi Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Satoshi Chain",
+    "symbol": "SCP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

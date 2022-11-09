@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a707d56d538e85b783e8ce12b346e7fb6511f90",
+  "displayName": "Inverse ETH Volatility Index",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inverse ETH Volatility Index",
+    "symbol": "iETHV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

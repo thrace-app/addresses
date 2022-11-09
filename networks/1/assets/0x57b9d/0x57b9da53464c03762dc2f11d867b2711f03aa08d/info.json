@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57b9da53464c03762dc2f11d867b2711f03aa08d",
+  "displayName": "Chili Cheese Fries Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chili Cheese Fries Token",
+    "symbol": "CHILICHEESE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

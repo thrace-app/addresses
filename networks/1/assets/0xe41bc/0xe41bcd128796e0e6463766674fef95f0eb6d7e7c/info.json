@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe41bcd128796e0e6463766674fef95f0eb6d7e7c",
+  "displayName": "Polinate Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polinate Token",
+    "symbol": "POLI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

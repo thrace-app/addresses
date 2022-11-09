@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06341acce929862e86ff6e4dffd9fd020de51346",
+  "displayName": "Full Send Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Full Send Protocol",
+    "symbol": "SEND",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

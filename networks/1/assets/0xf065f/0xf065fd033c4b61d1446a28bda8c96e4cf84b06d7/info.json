@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf065fd033c4b61d1446a28bda8c96e4cf84b06d7",
+  "displayName": "BIPOCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BIPOCoin",
+    "symbol": "BPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

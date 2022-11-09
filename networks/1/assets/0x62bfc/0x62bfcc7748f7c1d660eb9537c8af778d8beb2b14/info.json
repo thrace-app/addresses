@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62bfcc7748f7c1d660eb9537c8af778d8beb2b14",
+  "displayName": "SDF Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SDF Token",
+    "symbol": "SDF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

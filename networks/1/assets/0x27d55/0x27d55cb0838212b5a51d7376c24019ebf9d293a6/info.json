@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27d55cb0838212b5a51d7376c24019ebf9d293a6",
+  "displayName": "The Retirement Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Retirement Token",
+    "symbol": "RETIREMENT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

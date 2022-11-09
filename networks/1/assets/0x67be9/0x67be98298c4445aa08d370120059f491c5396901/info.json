@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67be98298c4445aa08d370120059f491c5396901",
+  "displayName": "CCDE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CCDE Token",
+    "symbol": "CCDE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

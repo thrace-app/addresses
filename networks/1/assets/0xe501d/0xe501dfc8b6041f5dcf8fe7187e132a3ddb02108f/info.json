@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe501dfc8b6041f5dcf8fe7187e132a3ddb02108f",
+  "displayName": "EcomToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "EcomToken",
+    "symbol": "ECOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

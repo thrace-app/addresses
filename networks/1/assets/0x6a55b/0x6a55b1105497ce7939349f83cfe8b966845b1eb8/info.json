@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a55b1105497ce7939349f83cfe8b966845b1eb8",
+  "displayName": "Doge Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Gold",
+    "symbol": "DGLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

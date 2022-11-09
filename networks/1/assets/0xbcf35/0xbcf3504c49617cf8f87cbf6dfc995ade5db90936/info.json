@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbcf3504c49617cf8f87cbf6dfc995ade5db90936",
+  "displayName": "UNO_COIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "UNO_COIN",
+    "symbol": "UNOc",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

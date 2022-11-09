@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x643eaea7bb875401594d9296a380d17794ed52bc",
+  "displayName": "AdworldCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AdworldCoin",
+    "symbol": "AWC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

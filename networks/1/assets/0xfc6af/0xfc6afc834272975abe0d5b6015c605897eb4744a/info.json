@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc6afc834272975abe0d5b6015c605897eb4744a",
+  "displayName": "A Decentralised Wish",
+  "type": "TOKEN",
+  "token": {
+    "name": "A Decentralised Wish",
+    "symbol": "SATOSHI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

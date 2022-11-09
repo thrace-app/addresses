@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd81b71cbb89b2800cdb000aa277dc1491dc923c3",
+  "displayName": "NFTMart Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFTMart Token",
+    "symbol": "NMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

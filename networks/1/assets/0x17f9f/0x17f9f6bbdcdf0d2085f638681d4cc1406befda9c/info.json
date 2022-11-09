@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17f9f6bbdcdf0d2085f638681d4cc1406befda9c",
+  "displayName": "Luminiferous Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luminiferous Ether",
+    "symbol": "AETHER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b7d2e0cd59205e24e275f905583762612aa0bfd",
+  "displayName": "The 888 Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The 888 Coin",
+    "symbol": "888",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

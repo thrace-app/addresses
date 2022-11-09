@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b210ac883e166bbec577af8324c0291e0e48a5f",
+  "displayName": "Lebanese Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lebanese Token",
+    "symbol": "LBNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

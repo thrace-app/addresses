@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49f4592e641820e928f9919ef4abd92a719b4b49",
+  "displayName": "Fulcrum sUSD iToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fulcrum sUSD iToken",
+    "symbol": "iSUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

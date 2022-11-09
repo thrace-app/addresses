@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03c2c7567c25ed7b360d329f1a2a787be027addb",
+  "displayName": "Alpha",
+  "type": "TOKEN",
+  "token": {
+    "name": "Alpha",
+    "symbol": "Alpha",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

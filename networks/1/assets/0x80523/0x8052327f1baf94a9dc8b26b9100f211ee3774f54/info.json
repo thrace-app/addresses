@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8052327f1baf94a9dc8b26b9100f211ee3774f54",
+  "displayName": "A2DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "A2DAO Token",
+    "symbol": "ATD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

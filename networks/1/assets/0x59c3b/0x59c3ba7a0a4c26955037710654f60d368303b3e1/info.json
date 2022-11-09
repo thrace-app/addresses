@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x59c3ba7a0a4c26955037710654f60d368303b3e1",
+  "displayName": "ZNA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZNA Token",
+    "symbol": "ZNA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c5369ed06cfc6f3a9100f9f4099826f4a211ff0",
+  "displayName": "Pepe De Elon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pepe De Elon",
+    "symbol": "PDELON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

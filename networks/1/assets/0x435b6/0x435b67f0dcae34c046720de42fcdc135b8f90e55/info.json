@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x435b67f0dcae34c046720de42fcdc135b8f90e55",
+  "displayName": "Bistox Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bistox Exchange Token",
+    "symbol": "BSX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

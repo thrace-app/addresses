@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52cc5055494591c94ef1c49df3903e8781271dab",
+  "displayName": "Australian Shepherd Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Australian Shepherd Token",
+    "symbol": "ASS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

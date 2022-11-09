@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xadd7eb98e18d8b5b3fdcd68115706621d636bcad",
+  "displayName": "Im Satoshi Nakamoto",
+  "type": "TOKEN",
+  "token": {
+    "name": "Im Satoshi Nakamoto",
+    "symbol": "ISN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

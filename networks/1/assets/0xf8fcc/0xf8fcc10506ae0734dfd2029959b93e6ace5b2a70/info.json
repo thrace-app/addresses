@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8fcc10506ae0734dfd2029959b93e6ace5b2a70",
+  "displayName": "Unifty Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unifty Network Token",
+    "symbol": "UNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd46df541148932690b81092f600f35208afd4325",
+  "displayName": "PRISM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PRISM Token",
+    "symbol": "PRISM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

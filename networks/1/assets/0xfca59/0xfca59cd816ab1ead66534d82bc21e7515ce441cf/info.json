@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+  "displayName": "Rarible",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rarible",
+    "symbol": "RARI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

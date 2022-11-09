@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf9e4f95023808120c0e1cbff397cbdb22da5758",
+  "displayName": "AstroZebra Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AstroZebra Token",
+    "symbol": "AstroZebra",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

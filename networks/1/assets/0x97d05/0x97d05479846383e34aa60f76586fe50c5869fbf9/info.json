@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97d05479846383e34aa60f76586fe50c5869fbf9",
+  "displayName": "Golden Galleons",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Galleons",
+    "symbol": "GG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

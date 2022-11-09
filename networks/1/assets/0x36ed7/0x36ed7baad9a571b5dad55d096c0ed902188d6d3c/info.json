@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36ed7baad9a571b5dad55d096c0ed902188d6d3c",
+  "displayName": "Infinity Pad Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Infinity Pad Token",
+    "symbol": "IPAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

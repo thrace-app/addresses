@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbaa9af8a83500ac4137c555b9e58ccb3e1f2269d",
+  "displayName": "ShinChan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShinChan Token",
+    "symbol": "Shinnosuke",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

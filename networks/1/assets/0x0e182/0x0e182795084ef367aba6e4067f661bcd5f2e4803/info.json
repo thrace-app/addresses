@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e182795084ef367aba6e4067f661bcd5f2e4803",
+  "displayName": "Turtle Dex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Turtle Dex Token",
+    "symbol": "TUR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

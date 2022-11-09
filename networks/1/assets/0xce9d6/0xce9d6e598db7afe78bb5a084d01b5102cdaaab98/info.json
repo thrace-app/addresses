@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce9d6e598db7afe78bb5a084d01b5102cdaaab98",
+  "displayName": "Ethereum Prime",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Prime",
+    "symbol": "ETHPRIME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

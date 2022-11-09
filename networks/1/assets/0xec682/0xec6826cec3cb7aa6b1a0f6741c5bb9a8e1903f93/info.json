@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec6826cec3cb7aa6b1a0f6741c5bb9a8e1903f93",
+  "displayName": "Monkey Buxx",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monkey Buxx",
+    "symbol": "$POX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

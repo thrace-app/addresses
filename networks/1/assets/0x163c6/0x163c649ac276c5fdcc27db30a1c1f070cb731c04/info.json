@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x163c649ac276c5fdcc27db30a1c1f070cb731c04",
+  "displayName": "SimpleSwap Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SimpleSwap Coin",
+    "symbol": "SWAP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

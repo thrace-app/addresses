@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfde65a1e95c72a5d8f315df89eb903cc224d5375",
+  "displayName": "BeyondDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "BeyondDoge",
+    "symbol": "BOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfdcdfa378818ac358739621ddfa8582e6ac1adcb",
+  "displayName": "Curio Stable Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curio Stable Coin",
+    "symbol": "CSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

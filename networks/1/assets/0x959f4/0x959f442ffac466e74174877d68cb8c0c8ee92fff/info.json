@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x959f442ffac466e74174877d68cb8c0c8ee92fff",
+  "displayName": "AstroKitty",
+  "type": "TOKEN",
+  "token": {
+    "name": "AstroKitty",
+    "symbol": "AstroKitty",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

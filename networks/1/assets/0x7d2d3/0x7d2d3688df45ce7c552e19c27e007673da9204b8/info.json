@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d2d3688df45ce7c552e19c27e007673da9204b8",
+  "displayName": "Aave Interest bearing LEND",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave Interest bearing LEND",
+    "symbol": "aLEND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

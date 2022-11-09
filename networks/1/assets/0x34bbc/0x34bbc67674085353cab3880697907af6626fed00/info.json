@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34bbc67674085353cab3880697907af6626fed00",
+  "displayName": "Dogo Argentino",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dogo Argentino",
+    "symbol": "DOGO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ec6d0d2c50e21b1d22b7c975147f0fcb83b4d01",
+  "displayName": "Automata Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Automata Token",
+    "symbol": "ATAK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x134c51f2889851493dff5a86cb4d192ee0389f73",
+  "displayName": "Crazy Game Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crazy Game Token",
+    "symbol": "CRGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

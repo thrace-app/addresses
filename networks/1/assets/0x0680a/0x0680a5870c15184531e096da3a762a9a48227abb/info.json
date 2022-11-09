@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0680a5870c15184531e096da3a762a9a48227abb",
+  "displayName": "FTX",
+  "type": "TOKEN",
+  "token": {
+    "name": "FTX",
+    "symbol": "Fuck The Tax",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

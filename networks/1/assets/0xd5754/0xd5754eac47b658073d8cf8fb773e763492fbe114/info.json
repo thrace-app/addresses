@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5754eac47b658073d8cf8fb773e763492fbe114",
+  "displayName": "Daily",
+  "type": "TOKEN",
+  "token": {
+    "name": "Daily",
+    "symbol": "Wage",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x341f14bed9d8754d909476ff55cadaab3f142ec1",
+  "displayName": "OSMOSIS",
+  "type": "TOKEN",
+  "token": {
+    "name": "OSMOSIS",
+    "symbol": "OSM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

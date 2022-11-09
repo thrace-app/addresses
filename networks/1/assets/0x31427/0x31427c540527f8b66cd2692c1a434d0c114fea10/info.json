@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x31427c540527f8b66cd2692c1a434d0c114fea10",
+  "displayName": "DapeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DapeToken",
+    "symbol": "DAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

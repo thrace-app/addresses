@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6da6c7cbd0573702ad1bbb213039ba3da29a971",
+  "displayName": "Yield Farming Pool",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yield Farming Pool",
+    "symbol": "YFIP",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

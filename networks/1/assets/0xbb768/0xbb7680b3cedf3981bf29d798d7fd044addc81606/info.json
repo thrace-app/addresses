@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb7680b3cedf3981bf29d798d7fd044addc81606",
+  "displayName": "Cure Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cure Coin",
+    "symbol": "CURE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

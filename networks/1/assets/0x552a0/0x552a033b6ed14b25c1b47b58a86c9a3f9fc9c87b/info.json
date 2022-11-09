@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x552a033b6ed14b25c1b47b58a86c9a3f9fc9c87b",
+  "displayName": "FehuToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FehuToken",
+    "symbol": "FEHU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

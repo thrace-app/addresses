@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1b99ef55968ec4084f7b832d1f5a79c876e9fe6",
+  "displayName": "CASHTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "CASHTOKEN",
+    "symbol": "CASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

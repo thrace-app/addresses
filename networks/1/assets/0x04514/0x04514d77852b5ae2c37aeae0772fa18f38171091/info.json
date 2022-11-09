@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04514d77852b5ae2c37aeae0772fa18f38171091",
+  "displayName": "MetaRamp",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaRamp",
+    "symbol": "RAMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

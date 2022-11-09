@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51a0381cc25d6eff6225a96be6748b734df6f065",
+  "displayName": "New Catcher Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Catcher Token",
+    "symbol": "NCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

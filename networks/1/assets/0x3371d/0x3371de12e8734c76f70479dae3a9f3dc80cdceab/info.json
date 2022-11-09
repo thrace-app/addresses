@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3371de12e8734c76f70479dae3a9f3dc80cdceab",
+  "displayName": "rebase AAVE",
+  "type": "TOKEN",
+  "token": {
+    "name": "rebase AAVE",
+    "symbol": "rAAVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

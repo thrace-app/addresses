@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd664fe5b3277f04349c709745cca7eb549a9df0f",
+  "displayName": "Yokocho coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yokocho coin",
+    "symbol": "YOKOCHO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

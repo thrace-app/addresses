@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee70cd3a07f7d0519df5374c5c726a3d3c7a7cdb",
+  "displayName": "Bonzocoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bonzocoin",
+    "symbol": "BAR",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

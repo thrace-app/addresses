@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe930d94e2d3394df27b80c319a8a420023bf00de",
+  "displayName": "Future",
+  "type": "TOKEN",
+  "token": {
+    "name": "Future",
+    "symbol": "FRED",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

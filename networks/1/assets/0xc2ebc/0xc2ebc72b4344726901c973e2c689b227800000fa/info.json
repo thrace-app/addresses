@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2ebc72b4344726901c973e2c689b227800000fa",
+  "displayName": "Monkeycat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monkeycat",
+    "symbol": "MONCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

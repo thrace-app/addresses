@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2f8fd1305247b695cdde67bd8a5ab6d06a57f9d",
+  "displayName": "Brave",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brave",
+    "symbol": "BRV",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

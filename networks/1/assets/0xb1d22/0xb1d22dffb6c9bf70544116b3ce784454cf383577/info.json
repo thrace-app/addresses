@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1d22dffb6c9bf70544116b3ce784454cf383577",
+  "displayName": "LogicDEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "LogicDEX",
+    "symbol": "LDEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

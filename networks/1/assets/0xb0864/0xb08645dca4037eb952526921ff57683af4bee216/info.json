@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb08645dca4037eb952526921ff57683af4bee216",
+  "displayName": "HolaDeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "HolaDeFi",
+    "symbol": "HOLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

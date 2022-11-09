@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1a324524daa99b7661b090bba0fe74355d183d0",
+  "displayName": "ApeNote",
+  "type": "TOKEN",
+  "token": {
+    "name": "ApeNote",
+    "symbol": "ANOTE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

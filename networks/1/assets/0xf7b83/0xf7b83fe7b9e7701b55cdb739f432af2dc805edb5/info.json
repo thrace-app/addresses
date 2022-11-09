@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7b83fe7b9e7701b55cdb739f432af2dc805edb5",
+  "displayName": "USDPepe",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDPepe",
+    "symbol": "USDP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

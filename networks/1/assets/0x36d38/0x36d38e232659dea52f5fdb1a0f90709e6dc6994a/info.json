@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36d38e232659dea52f5fdb1a0f90709e6dc6994a",
+  "displayName": "Bitbarg",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitbarg",
+    "symbol": "BARG",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf52f2ab39e26e0951d2a02b49b7702abe30406a",
+  "displayName": "ODEM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ODEM Token",
+    "symbol": "ODEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

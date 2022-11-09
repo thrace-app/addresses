@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b403a53fbda10feb101c0db3db975527363f091",
+  "displayName": "HoneyBadger",
+  "type": "TOKEN",
+  "token": {
+    "name": "HoneyBadger",
+    "symbol": "HBDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

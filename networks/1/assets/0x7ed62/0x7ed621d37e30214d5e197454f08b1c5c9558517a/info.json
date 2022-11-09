@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ed621d37e30214d5e197454f08b1c5c9558517a",
+  "displayName": "DEVA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DEVA Token",
+    "symbol": "DEVA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

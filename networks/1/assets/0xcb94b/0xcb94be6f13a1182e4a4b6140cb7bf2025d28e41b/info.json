@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b",
+  "displayName": "Trustcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trustcoin",
+    "symbol": "TRST",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

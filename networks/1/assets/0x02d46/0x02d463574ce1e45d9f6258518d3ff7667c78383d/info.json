@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02d463574ce1e45d9f6258518d3ff7667c78383d",
+  "displayName": "BASK Bond",
+  "type": "TOKEN",
+  "token": {
+    "name": "BASK Bond",
+    "symbol": "BASKBond",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

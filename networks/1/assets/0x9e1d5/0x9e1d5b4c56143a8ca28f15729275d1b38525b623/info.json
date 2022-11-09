@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e1d5b4c56143a8ca28f15729275d1b38525b623",
+  "displayName": "Lotus Book Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lotus Book Token",
+    "symbol": "LBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

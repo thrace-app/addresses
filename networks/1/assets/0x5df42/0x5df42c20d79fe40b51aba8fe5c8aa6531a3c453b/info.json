@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5df42c20d79fe40b51aba8fe5c8aa6531a3c453b",
+  "displayName": "OXOO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OXOO Token",
+    "symbol": "OXOO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b782d9263d05c7c2643f54db524bc8313323907",
+  "displayName": "Encrypted storage token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Encrypted storage token",
+    "symbol": "EPST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

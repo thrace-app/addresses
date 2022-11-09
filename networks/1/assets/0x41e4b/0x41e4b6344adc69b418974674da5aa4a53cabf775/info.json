@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41e4b6344adc69b418974674da5aa4a53cabf775",
+  "displayName": "DogsOfETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogsOfETH",
+    "symbol": "DOE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

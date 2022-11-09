@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad2801c629f977dbabcd6977cca9dfd0efc3be63",
+  "displayName": "EthereumHawk",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumHawk",
+    "symbol": "ETHHK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

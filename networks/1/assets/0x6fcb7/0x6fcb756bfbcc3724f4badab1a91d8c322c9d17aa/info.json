@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fcb756bfbcc3724f4badab1a91d8c322c9d17aa",
+  "displayName": "Currency basket",
+  "type": "TOKEN",
+  "token": {
+    "name": "Currency basket",
+    "symbol": "BCB",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

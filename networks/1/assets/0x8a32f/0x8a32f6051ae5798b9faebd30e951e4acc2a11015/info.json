@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a32f6051ae5798b9faebd30e951e4acc2a11015",
+  "displayName": "CryptoCurrency Index",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoCurrency Index",
+    "symbol": "xCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7fb8ce96e8a6e95c35998ae9a2cba9d98579717",
+  "displayName": "HEX Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "HEX Money",
+    "symbol": "HXY",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

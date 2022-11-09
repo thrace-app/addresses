@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88a7797256e3a2f677235d917a8bf51e4cab53bf",
+  "displayName": "StarTrek",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarTrek",
+    "symbol": "STREK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

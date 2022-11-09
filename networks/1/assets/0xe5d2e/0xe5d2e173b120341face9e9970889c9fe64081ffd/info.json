@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5d2e173b120341face9e9970889c9fe64081ffd",
+  "displayName": "Bluejay",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bluejay",
+    "symbol": "BLU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

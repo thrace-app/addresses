@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf65a6f8589d9002732f31a93791123cf97da42f7",
+  "displayName": "yearn.governance",
+  "type": "TOKEN",
+  "token": {
+    "name": "yearn.governance",
+    "symbol": "YFIG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

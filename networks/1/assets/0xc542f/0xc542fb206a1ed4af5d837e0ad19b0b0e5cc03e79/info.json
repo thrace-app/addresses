@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc542fb206a1ed4af5d837e0ad19b0b0e5cc03e79",
+  "displayName": "Orioswap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Orioswap Token",
+    "symbol": "OSF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

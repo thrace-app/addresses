@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea7f09894b3d1184e0e4fe43da7820068f2f4821",
+  "displayName": "BuyBackDev",
+  "type": "TOKEN",
+  "token": {
+    "name": "BuyBackDev",
+    "symbol": "BBDEV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

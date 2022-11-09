@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x929c60295b8ac2e5cbbe8160fa7027c610111146",
+  "displayName": "Multiswap token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Multiswap token",
+    "symbol": "MSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

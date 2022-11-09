@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66fd97a78d8854fec445cd1c80a07896b0b4851f",
+  "displayName": "Lunch Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lunch Money",
+    "symbol": "LMY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

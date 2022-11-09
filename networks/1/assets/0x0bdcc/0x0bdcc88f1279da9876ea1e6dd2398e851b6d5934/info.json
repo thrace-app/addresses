@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0bdcc88f1279da9876ea1e6dd2398e851b6d5934",
+  "displayName": "DAO Solana",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAO Solana",
+    "symbol": "DAOsolana",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

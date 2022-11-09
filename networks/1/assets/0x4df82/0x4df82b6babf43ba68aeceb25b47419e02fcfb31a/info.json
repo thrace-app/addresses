@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4df82b6babf43ba68aeceb25b47419e02fcfb31a",
+  "displayName": "FTD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FTD Token",
+    "symbol": "FTD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

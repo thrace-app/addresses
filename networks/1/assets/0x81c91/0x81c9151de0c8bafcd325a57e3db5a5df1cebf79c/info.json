@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c",
+  "displayName": "Datum Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Datum Token",
+    "symbol": "DAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

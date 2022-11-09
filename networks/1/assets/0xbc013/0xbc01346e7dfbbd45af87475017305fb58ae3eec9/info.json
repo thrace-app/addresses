@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc01346e7dfbbd45af87475017305fb58ae3eec9",
+  "displayName": "KEKW Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KEKW Token",
+    "symbol": "KEKW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

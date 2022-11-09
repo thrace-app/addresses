@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdef6122cf9e2889d8281408ac3a3b2ae7cf52f36",
+  "displayName": "My Precious",
+  "type": "TOKEN",
+  "token": {
+    "name": "My Precious",
+    "symbol": "PRCS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

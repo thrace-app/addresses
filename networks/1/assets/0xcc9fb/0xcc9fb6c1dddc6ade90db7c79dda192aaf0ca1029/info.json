@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc9fb6c1dddc6ade90db7c79dda192aaf0ca1029",
+  "displayName": "Strange X",
+  "type": "TOKEN",
+  "token": {
+    "name": "Strange X",
+    "symbol": "STRGX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

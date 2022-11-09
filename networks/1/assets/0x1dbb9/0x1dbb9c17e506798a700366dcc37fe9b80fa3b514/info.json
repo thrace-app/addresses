@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1dbb9c17e506798a700366dcc37fe9b80fa3b514",
+  "displayName": "MegaBull Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MegaBull Token",
+    "symbol": "$MEGABULL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

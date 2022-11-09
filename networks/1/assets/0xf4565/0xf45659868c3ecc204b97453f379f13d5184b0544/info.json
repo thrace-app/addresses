@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf45659868c3ecc204b97453f379f13d5184b0544",
+  "displayName": "Alien ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Alien ETH",
+    "symbol": "AlienETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdec16fd6e4bda311e5448093fadff439d7cc3367",
+  "displayName": "VOX Collateral",
+  "type": "TOKEN",
+  "token": {
+    "name": "VOX Collateral",
+    "symbol": "VOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

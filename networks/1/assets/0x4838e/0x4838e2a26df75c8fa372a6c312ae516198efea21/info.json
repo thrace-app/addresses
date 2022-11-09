@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4838e2a26df75c8fa372a6c312ae516198efea21",
+  "displayName": "ZEUSToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZEUSToken",
+    "symbol": "ZEUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

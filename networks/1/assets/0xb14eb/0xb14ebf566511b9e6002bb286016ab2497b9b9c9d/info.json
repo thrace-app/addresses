@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb14ebf566511b9e6002bb286016ab2497b9b9c9d",
+  "displayName": "Hypersign Identity Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hypersign Identity Token",
+    "symbol": "HID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

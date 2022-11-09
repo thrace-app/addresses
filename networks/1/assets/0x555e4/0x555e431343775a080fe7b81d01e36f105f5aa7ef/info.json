@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x555e431343775a080fe7b81d01e36f105f5aa7ef",
+  "displayName": "Crypto Startups",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Startups",
+    "symbol": "CryptoStartups",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

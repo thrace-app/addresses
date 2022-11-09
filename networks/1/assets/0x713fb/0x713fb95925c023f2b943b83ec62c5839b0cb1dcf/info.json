@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x713fb95925c023f2b943b83ec62c5839b0cb1dcf",
+  "displayName": "Tendies",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tendies",
+    "symbol": "TEND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

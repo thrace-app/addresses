@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x924618606dfe3c86babe79847407933495aaec6f",
+  "displayName": "Advanced Reserve Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Advanced Reserve Currency",
+    "symbol": "ARC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

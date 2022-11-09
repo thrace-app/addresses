@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5907dc660c3be7a7957645ddac13f09201236619",
+  "displayName": "Meta Wallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meta Wallet",
+    "symbol": "MW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

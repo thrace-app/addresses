@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x29d578cec46b50fa5c88a99c6a4b70184c062953",
+  "displayName": "Wrapped Ever",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Ever",
+    "symbol": "WEVER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

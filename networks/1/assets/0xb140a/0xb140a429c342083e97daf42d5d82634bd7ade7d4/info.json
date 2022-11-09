@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb140a429c342083e97daf42d5d82634bd7ade7d4",
+  "displayName": "WAX Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WAX Governance Token",
+    "symbol": "WAXG",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

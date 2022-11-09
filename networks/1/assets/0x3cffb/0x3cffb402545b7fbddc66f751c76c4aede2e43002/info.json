@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3cffb402545b7fbddc66f751c76c4aede2e43002",
+  "displayName": "LunaBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "LunaBank",
+    "symbol": "LUNABANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x543e108a79098ce54d2e3ea5bb3859aaaed61ff1",
+  "displayName": "Alien Smuggler",
+  "type": "TOKEN",
+  "token": {
+    "name": "Alien Smuggler",
+    "symbol": "SMUG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

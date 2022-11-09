@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbe338b99f0ebdc7a19b6041ae20a99481a076f3",
+  "displayName": "Lightning ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lightning ETH",
+    "symbol": "LightningE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

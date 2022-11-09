@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77678cfd0f2b55152adc6599db9f988ab28d72f2",
+  "displayName": "SwitchDex",
+  "type": "TOKEN",
+  "token": {
+    "name": "SwitchDex",
+    "symbol": "SDEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

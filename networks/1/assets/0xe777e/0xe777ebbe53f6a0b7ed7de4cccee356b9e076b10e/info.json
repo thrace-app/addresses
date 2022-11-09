@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe777ebbe53f6a0b7ed7de4cccee356b9e076b10e",
+  "displayName": "NotApeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NotApeCoin",
+    "symbol": "nAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5f3a2fd1b5841294845963997bbd6f14cc2d822",
+  "displayName": "VentiSwap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VentiSwap Token",
+    "symbol": "VST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

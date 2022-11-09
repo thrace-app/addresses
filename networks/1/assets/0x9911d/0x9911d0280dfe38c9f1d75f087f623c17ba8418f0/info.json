@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9911d0280dfe38c9f1d75f087f623c17ba8418f0",
+  "displayName": "PAMX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PAMX Token",
+    "symbol": "PAMX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee403e4422e391ec1dede0414127952d9f7b8bba",
+  "displayName": "eSuperDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "eSuperDoge",
+    "symbol": "eSuperDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

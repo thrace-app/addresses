@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x056187e89d8a22cda88698a75448aa8ff8a5bda4",
+  "displayName": "Uncool Cats",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uncool Cats",
+    "symbol": "UNCOOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

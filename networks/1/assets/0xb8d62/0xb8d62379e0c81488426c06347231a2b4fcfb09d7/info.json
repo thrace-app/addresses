@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8d62379e0c81488426c06347231a2b4fcfb09d7",
+  "displayName": "MEXToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEXToken",
+    "symbol": "MEX",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

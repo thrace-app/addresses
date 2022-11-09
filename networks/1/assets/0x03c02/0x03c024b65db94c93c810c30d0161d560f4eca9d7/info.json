@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03c024b65db94c93c810c30d0161d560f4eca9d7",
+  "displayName": "BrainDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "BrainDAO",
+    "symbol": "BRAIN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

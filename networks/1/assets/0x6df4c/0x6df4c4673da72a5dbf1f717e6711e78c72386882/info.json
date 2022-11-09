@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6df4c4673da72a5dbf1f717e6711e78c72386882",
+  "displayName": "Pumponomics.Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pumponomics.Money",
+    "symbol": "PMoney",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

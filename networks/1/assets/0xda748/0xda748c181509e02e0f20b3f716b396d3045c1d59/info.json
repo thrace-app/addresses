@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda748c181509e02e0f20b3f716b396d3045c1d59",
+  "displayName": "Snek",
+  "type": "TOKEN",
+  "token": {
+    "name": "Snek",
+    "symbol": "SNEK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

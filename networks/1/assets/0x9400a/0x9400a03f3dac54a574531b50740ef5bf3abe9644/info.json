@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9400a03f3dac54a574531b50740ef5bf3abe9644",
+  "displayName": "Coven Cats",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coven Cats",
+    "symbol": "CAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

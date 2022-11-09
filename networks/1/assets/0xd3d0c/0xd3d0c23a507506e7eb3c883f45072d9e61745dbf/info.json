@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3d0c23a507506e7eb3c883f45072d9e61745dbf",
+  "displayName": "MaH Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MaH Token",
+    "symbol": "MaH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

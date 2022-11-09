@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ada616bbd7d276b2d5b2ecf35cd944571e5581f",
+  "displayName": "Remitly",
+  "type": "TOKEN",
+  "token": {
+    "name": "Remitly",
+    "symbol": "RMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

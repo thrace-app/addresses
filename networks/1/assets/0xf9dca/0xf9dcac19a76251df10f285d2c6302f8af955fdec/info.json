@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf9dcac19a76251df10f285d2c6302f8af955fdec",
+  "displayName": "SuperHeroes NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperHeroes NFT",
+    "symbol": "SUNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

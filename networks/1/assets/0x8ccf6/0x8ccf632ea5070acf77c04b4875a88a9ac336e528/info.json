@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ccf632ea5070acf77c04b4875a88a9ac336e528",
+  "displayName": "Minerva Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Minerva Token",
+    "symbol": "MINER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaaa7cb8a41c4f29cceb7fb65050a9f41d0f5baaa",
+  "displayName": "QANX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "QANX Token",
+    "symbol": "QANX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x850c0945dd3785d227b63f97c77d6c83df3d711e",
+  "displayName": "Pythagoras Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pythagoras Token",
+    "symbol": "PYTHAGORAS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

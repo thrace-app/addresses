@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19c506211a26a67ad7e6d45cd274bad1863f8667",
+  "displayName": "Ian Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ian Coin",
+    "symbol": "IAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

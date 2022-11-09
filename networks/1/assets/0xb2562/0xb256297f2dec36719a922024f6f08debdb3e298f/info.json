@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb256297f2dec36719a922024f6f08debdb3e298f",
+  "displayName": "garlic",
+  "type": "TOKEN",
+  "token": {
+    "name": "garlic",
+    "symbol": "grc",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

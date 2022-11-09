@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ceec2d664eb1c712e5c6c580a26fb367237e53b",
+  "displayName": "Bitcoinrand",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoinrand",
+    "symbol": "BZAR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

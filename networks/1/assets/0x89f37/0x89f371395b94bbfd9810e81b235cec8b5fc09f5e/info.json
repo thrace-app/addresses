@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89f371395b94bbfd9810e81b235cec8b5fc09f5e",
+  "displayName": "Forsage Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Forsage Token",
+    "symbol": "SAGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

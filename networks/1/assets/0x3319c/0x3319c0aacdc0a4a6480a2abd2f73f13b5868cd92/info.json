@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3319c0aacdc0a4a6480a2abd2f73f13b5868cd92",
+  "displayName": "WiraToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WiraToken",
+    "symbol": "WIRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

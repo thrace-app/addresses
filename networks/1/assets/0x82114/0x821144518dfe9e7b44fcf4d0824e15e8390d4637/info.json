@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x821144518dfe9e7b44fcf4d0824e15e8390d4637",
+  "displayName": "ATIS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ATIS Token",
+    "symbol": "ATIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

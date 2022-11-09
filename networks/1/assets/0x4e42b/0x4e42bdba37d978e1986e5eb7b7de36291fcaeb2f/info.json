@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e42bdba37d978e1986e5eb7b7de36291fcaeb2f",
+  "displayName": "Proof of Pig",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Pig",
+    "symbol": "PoP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

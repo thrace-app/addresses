@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x733a877654ca25cf0506dbd921f86feb5a9dff21",
+  "displayName": "傻币",
+  "type": "TOKEN",
+  "token": {
+    "name": "傻币",
+    "symbol": "ShaBi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

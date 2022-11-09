@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0bbcd54001ad65fdbc5944e259eecd46cb017845",
+  "displayName": "Mini Mongoose",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini Mongoose",
+    "symbol": "$MiniMon",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

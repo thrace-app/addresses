@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa7a7af585c2a0a8d3f4eee2a218afe28d01f12cc",
+  "displayName": "Precious Asset Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Precious Asset Token",
+    "symbol": "PAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

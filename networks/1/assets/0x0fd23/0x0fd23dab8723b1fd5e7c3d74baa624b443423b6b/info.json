@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0fd23dab8723b1fd5e7c3d74baa624b443423b6b",
+  "displayName": "Art Blocks Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Art Blocks Coin",
+    "symbol": "ABC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

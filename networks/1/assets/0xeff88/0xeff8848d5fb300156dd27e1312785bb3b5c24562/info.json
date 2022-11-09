@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeff8848d5fb300156dd27e1312785bb3b5c24562",
+  "displayName": "BitDeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitDeFi",
+    "symbol": "BDF",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

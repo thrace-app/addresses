@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4f7bf3afba59211a95511291f766019172ff36e",
+  "displayName": "RedCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RedCoin",
+    "symbol": "REC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

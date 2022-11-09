@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7473d446368514c69f402876df446c3debfab41f",
+  "displayName": "NFT20 OpenSea Collection",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT20 OpenSea Collection",
+    "symbol": "OpenSea Collection20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

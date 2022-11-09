@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x583071b054df5613e34667e9f8125edf787b67be",
+  "displayName": "Golden Messi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Messi",
+    "symbol": "GoldenMessi",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

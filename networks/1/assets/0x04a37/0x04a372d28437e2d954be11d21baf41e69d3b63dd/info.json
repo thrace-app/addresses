@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04a372d28437e2d954be11d21baf41e69d3b63dd",
+  "displayName": "LenToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LenToken",
+    "symbol": "LTK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

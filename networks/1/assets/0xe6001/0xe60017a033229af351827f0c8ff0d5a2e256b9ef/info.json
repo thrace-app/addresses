@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe60017a033229af351827f0c8ff0d5a2e256b9ef",
+  "displayName": "Bitcoinasset",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoinasset",
+    "symbol": "BTA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

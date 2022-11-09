@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde899f9b9982871db4107ec49e8e38c83aa0c7d3",
+  "displayName": "Sharkoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sharkoin",
+    "symbol": "SHARK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

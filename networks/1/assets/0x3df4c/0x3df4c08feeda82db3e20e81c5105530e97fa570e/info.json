@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3df4c08feeda82db3e20e81c5105530e97fa570e",
+  "displayName": "FaTor Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FaTor Token",
+    "symbol": "FaTor",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

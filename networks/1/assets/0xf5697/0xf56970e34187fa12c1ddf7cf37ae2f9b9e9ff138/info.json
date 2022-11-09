@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf56970e34187fa12c1ddf7cf37ae2f9b9e9ff138",
+  "displayName": "Gostoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gostoken",
+    "symbol": "GOST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2033a472c248fb32b8cdc29b3a2399ebe8100694",
+  "displayName": "Moon Panda Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moon Panda Token",
+    "symbol": "MOPA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

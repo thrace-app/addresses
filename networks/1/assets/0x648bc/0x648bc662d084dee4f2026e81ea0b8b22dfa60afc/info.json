@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x648bc662d084dee4f2026e81ea0b8b22dfa60afc",
+  "displayName": "Uniswap Horse",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uniswap Horse",
+    "symbol": "UHORSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2246a256202de207edf6cbf3db68486d0c22d19c",
+  "displayName": "Diablo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Diablo Token",
+    "symbol": "Diablo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

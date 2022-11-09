@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22bf3a15f3fba5b685e5fea64eda86778d26ef7b",
+  "displayName": "zentachain",
+  "type": "TOKEN",
+  "token": {
+    "name": "zentachain",
+    "symbol": "ZENTA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

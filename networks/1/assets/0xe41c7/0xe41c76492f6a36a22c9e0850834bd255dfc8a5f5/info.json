@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe41c76492f6a36a22c9e0850834bd255dfc8a5f5",
+  "displayName": "dexTradeBOT",
+  "type": "TOKEN",
+  "token": {
+    "name": "dexTradeBOT",
+    "symbol": "DBOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

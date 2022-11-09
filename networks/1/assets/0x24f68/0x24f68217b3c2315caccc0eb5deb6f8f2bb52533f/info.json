@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24f68217b3c2315caccc0eb5deb6f8f2bb52533f",
+  "displayName": "EthereumArmy",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumArmy",
+    "symbol": "eArmy",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

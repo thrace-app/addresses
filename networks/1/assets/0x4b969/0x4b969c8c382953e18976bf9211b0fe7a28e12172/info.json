@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b969c8c382953e18976bf9211b0fe7a28e12172",
+  "displayName": "Maja Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Maja Token",
+    "symbol": "MJA",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

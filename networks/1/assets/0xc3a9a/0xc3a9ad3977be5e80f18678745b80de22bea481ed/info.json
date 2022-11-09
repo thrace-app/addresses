@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3a9ad3977be5e80f18678745b80de22bea481ed",
+  "displayName": "Candy Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Candy Swap",
+    "symbol": "CSP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

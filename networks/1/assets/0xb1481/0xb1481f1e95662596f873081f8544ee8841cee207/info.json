@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1481f1e95662596f873081f8544ee8841cee207",
+  "displayName": "FinNexus",
+  "type": "TOKEN",
+  "token": {
+    "name": "FinNexus",
+    "symbol": "FNX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

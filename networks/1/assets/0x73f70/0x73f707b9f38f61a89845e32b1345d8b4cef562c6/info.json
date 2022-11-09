@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73f707b9f38f61a89845e32b1345d8b4cef562c6",
+  "displayName": "FCX",
+  "type": "TOKEN",
+  "token": {
+    "name": "FCX",
+    "symbol": "fcx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

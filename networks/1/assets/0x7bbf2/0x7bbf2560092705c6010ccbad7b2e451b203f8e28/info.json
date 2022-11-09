@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7bbf2560092705c6010ccbad7b2e451b203f8e28",
+  "displayName": "Mason Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mason Token",
+    "symbol": "MASON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

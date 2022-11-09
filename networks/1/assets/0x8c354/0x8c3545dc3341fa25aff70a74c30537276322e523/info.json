@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c3545dc3341fa25aff70a74c30537276322e523",
+  "displayName": "The Master Dev",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Master Dev",
+    "symbol": "MADDEV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

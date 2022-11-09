@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf23a5144314a02ae41a0cfbc322b2a42c2149fd",
+  "displayName": "Asseylum Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Asseylum Token",
+    "symbol": "AST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

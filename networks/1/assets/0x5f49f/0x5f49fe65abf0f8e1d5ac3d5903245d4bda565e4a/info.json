@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f49fe65abf0f8e1d5ac3d5903245d4bda565e4a",
+  "displayName": "BigDaddyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BigDaddyToken",
+    "symbol": "BGD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

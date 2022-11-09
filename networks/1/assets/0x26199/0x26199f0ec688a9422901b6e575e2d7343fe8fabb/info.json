@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26199f0ec688a9422901b6e575e2d7343fe8fabb",
+  "displayName": "Non-Fake Vitalik",
+  "type": "TOKEN",
+  "token": {
+    "name": "Non-Fake Vitalik",
+    "symbol": "NFV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

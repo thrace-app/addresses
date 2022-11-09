@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x919d0131fa5f77d99fbbbbace50bcb6e62332bf2",
+  "displayName": "BorisCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BorisCoin",
+    "symbol": "BORIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

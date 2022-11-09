@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81855b523a02c93b8f554806a260c7820ac1d2da",
+  "displayName": "Planet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Planet",
+    "symbol": "PNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

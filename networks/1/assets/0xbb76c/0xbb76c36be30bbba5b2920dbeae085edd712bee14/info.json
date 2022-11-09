@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb76c36be30bbba5b2920dbeae085edd712bee14",
+  "displayName": "Hyperberry",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hyperberry",
+    "symbol": "Hyper",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00c4a73f10b05228c64e971cf81ae84426a64780",
+  "displayName": "MineablePunks",
+  "type": "TOKEN",
+  "token": {
+    "name": "MineablePunks",
+    "symbol": "MPUNK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

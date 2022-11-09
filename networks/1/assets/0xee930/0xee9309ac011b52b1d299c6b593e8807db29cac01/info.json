@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee9309ac011b52b1d299c6b593e8807db29cac01",
+  "displayName": "Hype Dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hype Dog",
+    "symbol": "HypeDog",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

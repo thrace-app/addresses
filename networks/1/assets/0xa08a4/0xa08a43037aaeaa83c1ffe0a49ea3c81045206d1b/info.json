@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa08a43037aaeaa83c1ffe0a49ea3c81045206d1b",
+  "displayName": "stakers",
+  "type": "TOKEN",
+  "token": {
+    "name": "stakers",
+    "symbol": "STAKD",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

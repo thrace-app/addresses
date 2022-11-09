@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c5f711586842f19fcc9753c7526f162d68625cf",
+  "displayName": "TURBOSNAIL Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TURBOSNAIL Token",
+    "symbol": "TURBOSNAIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

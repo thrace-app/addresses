@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x535cf46dff00c6cbe91fd6dfbd77a56261045815",
+  "displayName": "BabyShibaDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "BabyShibaDoge",
+    "symbol": "$BSD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

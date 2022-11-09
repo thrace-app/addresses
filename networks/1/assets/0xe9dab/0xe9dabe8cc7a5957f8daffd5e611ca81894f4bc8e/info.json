@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe9dabe8cc7a5957f8daffd5e611ca81894f4bc8e",
+  "displayName": "MirrorEth",
+  "type": "TOKEN",
+  "token": {
+    "name": "MirrorEth",
+    "symbol": "Mirror",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

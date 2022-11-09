@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fe4fbad1fee10d6cf8e08198608209a9275944c",
+  "displayName": "Infinity Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Infinity Token",
+    "symbol": "IT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

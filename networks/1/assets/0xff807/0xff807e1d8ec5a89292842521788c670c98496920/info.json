@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff807e1d8ec5a89292842521788c670c98496920",
+  "displayName": "StableCredit",
+  "type": "TOKEN",
+  "token": {
+    "name": "StableCredit",
+    "symbol": "scUSD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

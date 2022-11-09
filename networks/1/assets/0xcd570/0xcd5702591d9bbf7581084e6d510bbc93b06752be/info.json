@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd5702591d9bbf7581084e6d510bbc93b06752be",
+  "displayName": "WeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WeToken",
+    "symbol": "WET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

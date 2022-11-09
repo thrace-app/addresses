@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb736ba66aad83adb2322d1f199bfa32b3962f13c",
+  "displayName": "Bridge Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bridge Protocol",
+    "symbol": "BRDG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

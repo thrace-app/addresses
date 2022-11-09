@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x889efb523cc39590b8483eb9491890ac71407f64",
+  "displayName": "Moon Juice",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moon Juice",
+    "symbol": "JUICE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

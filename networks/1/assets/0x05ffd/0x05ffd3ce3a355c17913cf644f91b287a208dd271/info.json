@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05ffd3ce3a355c17913cf644f91b287a208dd271",
+  "displayName": "MiniDwagon",
+  "type": "TOKEN",
+  "token": {
+    "name": "MiniDwagon",
+    "symbol": "MiniDwagon",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

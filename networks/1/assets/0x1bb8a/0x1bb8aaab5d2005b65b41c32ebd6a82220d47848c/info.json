@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1bb8aaab5d2005b65b41c32ebd6a82220d47848c",
+  "displayName": "DarkSpaceToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DarkSpaceToken",
+    "symbol": "DarkSpace",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

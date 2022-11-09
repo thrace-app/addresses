@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1ccae51ff79295ab7f85bc9279b57ca583a5955",
+  "displayName": "Flokereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flokereum",
+    "symbol": "FLOKER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d4cbbc0d90a893a557e51306c837d14bcfa892b",
+  "displayName": "Hunt Duck",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hunt Duck",
+    "symbol": "HuntDuck",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

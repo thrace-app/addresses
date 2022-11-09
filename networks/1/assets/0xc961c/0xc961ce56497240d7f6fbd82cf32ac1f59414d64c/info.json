@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc961ce56497240d7f6fbd82cf32ac1f59414d64c",
+  "displayName": "YieldFarmSwapToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "YieldFarmSwapToken",
+    "symbol": "YFS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

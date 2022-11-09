@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1143a42df6f80d70a1b3cc766eec10e37024ab1d",
+  "displayName": "TokenGeneratorToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TokenGeneratorToken",
+    "symbol": "TGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

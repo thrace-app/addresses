@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x704a0737a046bec408b65176105afb0dec3e9e1b",
+  "displayName": "SlowBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "SlowBurn",
+    "symbol": "SB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

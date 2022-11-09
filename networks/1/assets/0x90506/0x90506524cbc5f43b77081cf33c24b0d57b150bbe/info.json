@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90506524cbc5f43b77081cf33c24b0d57b150bbe",
+  "displayName": "행복화폐",
+  "type": "TOKEN",
+  "token": {
+    "name": "행복화폐",
+    "symbol": "행복화폐",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

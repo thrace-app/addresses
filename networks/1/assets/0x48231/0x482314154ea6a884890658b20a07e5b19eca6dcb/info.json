@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x482314154ea6a884890658b20a07e5b19eca6dcb",
+  "displayName": "MoonDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonDao",
+    "symbol": "MOOND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x923c90b98ee834d118c85ddf44906ee1769df648",
+  "displayName": "Qitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Qitcoin",
+    "symbol": "QTC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

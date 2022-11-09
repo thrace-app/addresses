@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc5bda02e287b0ba2ede19929d032cf963db22c1a",
+  "displayName": "GateFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "GateFinance",
+    "symbol": "GATE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

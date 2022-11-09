@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb9d776b65315f25c1bf6c71e1361340aa8a1c0be",
+  "displayName": "Champagne",
+  "type": "TOKEN",
+  "token": {
+    "name": "Champagne",
+    "symbol": "CHAMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

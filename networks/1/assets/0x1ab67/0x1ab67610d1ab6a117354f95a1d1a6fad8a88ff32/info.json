@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ab67610d1ab6a117354f95a1d1a6fad8a88ff32",
+  "displayName": "Mickey Mouse",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mickey Mouse",
+    "symbol": "MICKEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+  "displayName": "Balancer",
+  "type": "TOKEN",
+  "token": {
+    "name": "Balancer",
+    "symbol": "BAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1ec37b0903743b0ccd4bfd1032b616e568a3e18",
+  "displayName": "Brian Griffin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brian Griffin Token",
+    "symbol": "BRIAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

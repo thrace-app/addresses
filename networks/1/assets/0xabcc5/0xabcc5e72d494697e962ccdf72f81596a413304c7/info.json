@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabcc5e72d494697e962ccdf72f81596a413304c7",
+  "displayName": "Evmos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Evmos",
+    "symbol": "EVMOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

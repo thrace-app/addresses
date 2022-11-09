@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0cc9655cd0904fad32f729d12cfed18ae79f8b40",
+  "displayName": "Pink Panda",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pink Panda",
+    "symbol": "PIPA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

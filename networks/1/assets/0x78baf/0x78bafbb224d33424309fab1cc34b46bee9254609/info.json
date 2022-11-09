@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78bafbb224d33424309fab1cc34b46bee9254609",
+  "displayName": "Terra Retro",
+  "type": "TOKEN",
+  "token": {
+    "name": "Terra Retro",
+    "symbol": "RET",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

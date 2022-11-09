@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ee10256f7ba95c23203c9b10cc4a8f8498221e9",
+  "displayName": "Standard Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Standard Ethereum",
+    "symbol": "xETH",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4492e10fd69be9ae85d75bdcda2d9d1e68c0eea6",
+  "displayName": "Quaffle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quaffle",
+    "symbol": "QUAF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a6eac68a32000ddd321923addb28790b1439bfc",
+  "displayName": "YakoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "YakoToken",
+    "symbol": "Yako",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

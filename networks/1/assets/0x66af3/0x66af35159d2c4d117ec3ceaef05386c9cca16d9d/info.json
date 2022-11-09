@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66af35159d2c4d117ec3ceaef05386c9cca16d9d",
+  "displayName": "The Kick",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Kick",
+    "symbol": "KICK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x269446935a8f64a876ad585ea3d0a1cd8574f4d8",
+  "displayName": "Norda Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Norda Token",
+    "symbol": "NORDA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

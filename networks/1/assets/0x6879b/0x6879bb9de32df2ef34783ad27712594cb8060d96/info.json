@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6879bb9de32df2ef34783ad27712594cb8060d96",
+  "displayName": "Liquidity",
+  "type": "TOKEN",
+  "token": {
+    "name": "Liquidity",
+    "symbol": "LP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

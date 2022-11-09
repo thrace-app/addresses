@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd579fc287374f0a3288e30ef396045c0c142410f",
+  "displayName": "PlayCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PlayCoin",
+    "symbol": "PLY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

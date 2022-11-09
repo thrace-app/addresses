@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62786eeacc9246b4018e0146cb7a3efeacd9459d",
+  "displayName": "LessToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LessToken",
+    "symbol": "LESS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

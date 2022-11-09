@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb70f0053137a685faae912629f6b9a03e43e5c6c",
+  "displayName": "Mobo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mobo Token",
+    "symbol": "$MOBO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

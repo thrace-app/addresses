@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9201816d2399f658d7ce8044fbf168a621481ea9",
+  "displayName": "LeekToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LeekToken",
+    "symbol": "LEEK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

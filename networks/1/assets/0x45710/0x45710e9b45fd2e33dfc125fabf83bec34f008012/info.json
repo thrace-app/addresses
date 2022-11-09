@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45710e9b45fd2e33dfc125fabf83bec34f008012",
+  "displayName": "YellowDuck",
+  "type": "TOKEN",
+  "token": {
+    "name": "YellowDuck",
+    "symbol": "DUCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

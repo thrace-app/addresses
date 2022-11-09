@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf784682c82526e245f50975190ef0fff4e4fc077",
+  "displayName": "Inlock token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inlock token",
+    "symbol": "ILK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

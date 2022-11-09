@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40ea466ed4362fb7606be9a83b9b6ce7df0a4a0a",
+  "displayName": "terra.money",
+  "type": "TOKEN",
+  "token": {
+    "name": "terra.money",
+    "symbol": "UST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

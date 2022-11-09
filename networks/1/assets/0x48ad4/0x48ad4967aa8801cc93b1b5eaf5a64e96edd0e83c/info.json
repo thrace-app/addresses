@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48ad4967aa8801cc93b1b5eaf5a64e96edd0e83c",
+  "displayName": "DuckerBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "DuckerBurn",
+    "symbol": "Roast",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

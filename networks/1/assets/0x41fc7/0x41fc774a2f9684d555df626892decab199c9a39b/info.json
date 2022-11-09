@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41fc774a2f9684d555df626892decab199c9a39b",
+  "displayName": "BayMet",
+  "type": "TOKEN",
+  "token": {
+    "name": "BayMet",
+    "symbol": "BMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

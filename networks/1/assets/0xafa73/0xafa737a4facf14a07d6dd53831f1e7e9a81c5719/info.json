@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafa737a4facf14a07d6dd53831f1e7e9a81c5719",
+  "displayName": "Rare Candy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rare Candy",
+    "symbol": "CANDY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

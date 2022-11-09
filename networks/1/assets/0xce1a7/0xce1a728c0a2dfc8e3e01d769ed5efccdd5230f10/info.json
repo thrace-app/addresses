@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce1a728c0a2dfc8e3e01d769ed5efccdd5230f10",
+  "displayName": "Burn Rebalance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burn Rebalance",
+    "symbol": "BURNR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

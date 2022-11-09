@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef6b997d9dadbb824dd41e45b0526464e263c787",
+  "displayName": "SmartyDeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "SmartyDeFi",
+    "symbol": "SDF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

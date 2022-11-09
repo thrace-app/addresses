@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc63b68655f579676980c066a727c9693e7d754a4",
+  "displayName": "Voyager Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Voyager Token",
+    "symbol": "VGX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

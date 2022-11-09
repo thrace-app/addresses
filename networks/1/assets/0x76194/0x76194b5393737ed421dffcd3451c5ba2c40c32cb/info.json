@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76194b5393737ed421dffcd3451c5ba2c40c32cb",
+  "displayName": "Gravity",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gravity",
+    "symbol": "Weight",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

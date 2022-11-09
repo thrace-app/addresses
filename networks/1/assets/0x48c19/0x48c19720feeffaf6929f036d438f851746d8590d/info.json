@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48c19720feeffaf6929f036d438f851746d8590d",
+  "displayName": "wagon",
+  "type": "TOKEN",
+  "token": {
+    "name": "wagon",
+    "symbol": "WAGON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd810c1e5b744af76bd56bfbf24861d05cb450758",
+  "displayName": "SPDR",
+  "type": "TOKEN",
+  "token": {
+    "name": "SPDR",
+    "symbol": "SPDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

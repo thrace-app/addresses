@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d47e959b2bda037cc72a90a3ff2f030a2c3ede9",
+  "displayName": "ApeCoinBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "ApeCoinBurn",
+    "symbol": "$ACB",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

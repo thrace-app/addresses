@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99aed3cddd55bffb1c5319cf43f6d825fcb8c45f",
+  "displayName": "Golden Hippo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Hippo",
+    "symbol": "GHIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

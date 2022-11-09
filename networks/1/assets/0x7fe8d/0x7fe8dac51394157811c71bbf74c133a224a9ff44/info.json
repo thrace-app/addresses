@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fe8dac51394157811c71bbf74c133a224a9ff44",
+  "displayName": "LiquidSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "LiquidSwap",
+    "symbol": "LQD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

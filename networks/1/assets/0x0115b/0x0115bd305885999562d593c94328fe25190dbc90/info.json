@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0115bd305885999562d593c94328fe25190dbc90",
+  "displayName": "EtherGals",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherGals",
+    "symbol": "ETHGAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

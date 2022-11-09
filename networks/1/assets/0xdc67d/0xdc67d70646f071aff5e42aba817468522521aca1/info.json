@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc67d70646f071aff5e42aba817468522521aca1",
+  "displayName": "Kawaii Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kawaii Doge",
+    "symbol": "KOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

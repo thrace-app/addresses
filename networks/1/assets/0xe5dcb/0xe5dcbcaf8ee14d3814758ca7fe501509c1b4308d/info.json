@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5dcbcaf8ee14d3814758ca7fe501509c1b4308d",
+  "displayName": "Witcher Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Witcher Doge",
+    "symbol": "WD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

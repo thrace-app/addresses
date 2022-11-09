@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4d97abae1ee7578d436b4a31d5ccafe55dbd129",
+  "displayName": "FTSE Market Index Equivalent",
+  "type": "TOKEN",
+  "token": {
+    "name": "FTSE Market Index Equivalent",
+    "symbol": "FTSE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

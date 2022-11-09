@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65be40ed8aafda275ea730b7f67b6f756256bb3b",
+  "displayName": "SmartFarm",
+  "type": "TOKEN",
+  "token": {
+    "name": "SmartFarm",
+    "symbol": "SFM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

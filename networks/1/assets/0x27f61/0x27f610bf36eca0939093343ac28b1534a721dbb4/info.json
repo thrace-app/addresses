@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27f610bf36eca0939093343ac28b1534a721dbb4",
+  "displayName": "Wand Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wand Token",
+    "symbol": "WAND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

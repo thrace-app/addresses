@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1bc25b7d550aff145ed733f52daaa261ebd05ad",
+  "displayName": "Doge Wars",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Wars",
+    "symbol": "DW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

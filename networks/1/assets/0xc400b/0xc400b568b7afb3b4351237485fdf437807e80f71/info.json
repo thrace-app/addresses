@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc400b568b7afb3b4351237485fdf437807e80f71",
+  "displayName": "super.x.y.z Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "super.x.y.z Token",
+    "symbol": "SXYZ",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

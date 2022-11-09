@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7cad0ed5a0b71c726353a6bad37ba7cfa4ce0e60",
+  "displayName": "ManuCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ManuCoin",
+    "symbol": "MANU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

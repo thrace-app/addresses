@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33210cdc7cd5637181a0ece0df2cf5440fe41f73",
+  "displayName": "Pike Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pike Protocol",
+    "symbol": "PIKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

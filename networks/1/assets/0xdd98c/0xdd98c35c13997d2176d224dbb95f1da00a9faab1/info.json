@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd98c35c13997d2176d224dbb95f1da00a9faab1",
+  "displayName": "WisdomDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "WisdomDoge",
+    "symbol": "$WD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

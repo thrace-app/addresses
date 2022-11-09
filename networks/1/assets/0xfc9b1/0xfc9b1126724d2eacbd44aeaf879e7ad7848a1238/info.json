@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc9b1126724d2eacbd44aeaf879e7ad7848a1238",
+  "displayName": "special Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "special Coin",
+    "symbol": "SLN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

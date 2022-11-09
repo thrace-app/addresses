@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18964fe4183434d344cb060dc9c753e8f3f78bcd",
+  "displayName": "PlayDapp",
+  "type": "TOKEN",
+  "token": {
+    "name": "PlayDapp",
+    "symbol": "PLAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

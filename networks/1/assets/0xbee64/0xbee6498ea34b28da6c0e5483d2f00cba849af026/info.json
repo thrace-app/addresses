@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbee6498ea34b28da6c0e5483d2f00cba849af026",
+  "displayName": "Master",
+  "type": "TOKEN",
+  "token": {
+    "name": "Master",
+    "symbol": "MAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

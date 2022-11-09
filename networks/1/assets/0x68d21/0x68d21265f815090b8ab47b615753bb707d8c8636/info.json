@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68d21265f815090b8ab47b615753bb707d8c8636",
+  "displayName": "eliteTether",
+  "type": "TOKEN",
+  "token": {
+    "name": "eliteTether",
+    "symbol": "etTether",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

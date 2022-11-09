@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4dd47e08f54c09c771bae51ad98853f64b74049d",
+  "displayName": "Boogie Inc",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boogie Inc",
+    "symbol": "BOOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43cbb8cc8589362d325c3f692ee511206ad51051",
+  "displayName": "plasma.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "plasma.finance",
+    "symbol": "PPAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

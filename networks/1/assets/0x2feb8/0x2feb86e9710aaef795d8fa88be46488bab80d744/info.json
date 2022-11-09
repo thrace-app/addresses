@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2feb86e9710aaef795d8fa88be46488bab80d744",
+  "displayName": "WNBA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WNBA Token",
+    "symbol": "WNBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

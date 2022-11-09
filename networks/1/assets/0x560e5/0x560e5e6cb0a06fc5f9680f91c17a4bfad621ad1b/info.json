@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x560e5e6cb0a06fc5f9680f91c17a4bfad621ad1b",
+  "displayName": "BlenderToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlenderToken",
+    "symbol": "BLENDER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd8420ddca9430d0dba8e76ad88fc7163e2c220c",
+  "displayName": "Bruns Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bruns Token",
+    "symbol": "BRUNS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

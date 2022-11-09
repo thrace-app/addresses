@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1b819fdb689f43afc161db789800ed799f18388",
+  "displayName": "RONCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RONCoin",
+    "symbol": "RONC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

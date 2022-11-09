@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7d49b6f92222670350765847cbec641e60be26a",
+  "displayName": "TeslaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TeslaCoin",
+    "symbol": "TSLC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

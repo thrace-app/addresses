@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4da34f8264cb33a5c9f17081b9ef5ff6091116f4",
+  "displayName": "ELFI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ELFI Token",
+    "symbol": "ELFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6a304ef55ef693b485336c04047a4c8cec5c2ae",
+  "displayName": "Flux Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flux Token",
+    "symbol": "FLX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

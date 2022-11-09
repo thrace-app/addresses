@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x429a7f20bba23bdc910773177e0fb05a3789710f",
+  "displayName": "NouniToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NouniToken",
+    "symbol": "NOUNI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

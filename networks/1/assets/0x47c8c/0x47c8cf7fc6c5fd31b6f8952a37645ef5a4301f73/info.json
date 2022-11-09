@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47c8cf7fc6c5fd31b6f8952a37645ef5a4301f73",
+  "displayName": "NEXA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NEXA Token",
+    "symbol": "NEXA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

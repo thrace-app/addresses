@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d3ef9877d90829d646ef5146be9b80278fb0bf1",
+  "displayName": "Dragon Li Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dragon Li Token",
+    "symbol": "DRAGON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

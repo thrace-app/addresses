@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa20342e2710699266fbd9c10bd0ed20f57148fc9",
+  "displayName": "Mozzle Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mozzle Doge",
+    "symbol": "MOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

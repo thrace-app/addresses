@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ce2e13c2bd7e1c8a42d4652fc7883af23c4b087",
+  "displayName": "USDCat",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDCat",
+    "symbol": "USDCat",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

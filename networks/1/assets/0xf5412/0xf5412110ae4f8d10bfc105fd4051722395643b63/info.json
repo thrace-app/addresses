@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5412110ae4f8d10bfc105fd4051722395643b63",
+  "displayName": "Simp Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Simp Token",
+    "symbol": "SIMP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

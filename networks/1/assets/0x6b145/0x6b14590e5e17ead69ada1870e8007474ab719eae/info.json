@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b14590e5e17ead69ada1870e8007474ab719eae",
+  "displayName": "PeKi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PeKi Token",
+    "symbol": "PeKi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

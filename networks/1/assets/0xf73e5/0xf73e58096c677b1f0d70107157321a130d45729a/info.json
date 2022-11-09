@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf73e58096c677b1f0d70107157321a130d45729a",
+  "displayName": "BoobsCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BoobsCoin",
+    "symbol": "BOOBS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

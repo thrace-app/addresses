@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbae8d23a6446670578731cc73f19df0074a9873f",
+  "displayName": "天猫币",
+  "type": "TOKEN",
+  "token": {
+    "name": "天猫币",
+    "symbol": "TM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

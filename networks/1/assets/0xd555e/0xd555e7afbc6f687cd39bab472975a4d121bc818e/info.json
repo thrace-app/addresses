@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd555e7afbc6f687cd39bab472975a4d121bc818e",
+  "displayName": "RedMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "RedMoon",
+    "symbol": "RMOON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21cecf37946366b4886c4067d0eea4f203781084",
+  "displayName": "OtherDAO Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "OtherDAO Burn",
+    "symbol": "OTHRBURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

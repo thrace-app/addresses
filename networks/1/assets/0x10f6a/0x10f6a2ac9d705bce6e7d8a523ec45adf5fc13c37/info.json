@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10f6a2ac9d705bce6e7d8a523ec45adf5fc13c37",
+  "displayName": "CoiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoiCoin",
+    "symbol": "Coi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

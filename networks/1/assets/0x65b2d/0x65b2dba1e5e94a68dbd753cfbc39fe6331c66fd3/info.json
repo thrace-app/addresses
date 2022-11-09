@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65b2dba1e5e94a68dbd753cfbc39fe6331c66fd3",
+  "displayName": "MicroDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "MicroDoge",
+    "symbol": "MICRODOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5121e348e897daef1eef23959ab290e5557cf274",
+  "displayName": "PolyAi",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolyAi",
+    "symbol": "AI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

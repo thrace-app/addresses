@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c2bd1f251198099b1506e6535420c61fbaa0909",
+  "displayName": "This and That",
+  "type": "TOKEN",
+  "token": {
+    "name": "This and That",
+    "symbol": "TAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

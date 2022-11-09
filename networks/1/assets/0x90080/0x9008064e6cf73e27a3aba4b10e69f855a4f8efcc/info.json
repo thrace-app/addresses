@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9008064e6cf73e27a3aba4b10e69f855a4f8efcc",
+  "displayName": "GemieToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GemieToken",
+    "symbol": "GEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

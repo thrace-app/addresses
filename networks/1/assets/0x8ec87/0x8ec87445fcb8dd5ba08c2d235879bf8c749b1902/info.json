@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ec87445fcb8dd5ba08c2d235879bf8c749b1902",
+  "displayName": "Garlic Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Garlic Swap",
+    "symbol": "GSP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

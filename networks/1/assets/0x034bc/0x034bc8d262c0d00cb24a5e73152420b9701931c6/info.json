@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x034bc8d262c0d00cb24a5e73152420b9701931c6",
+  "displayName": "Buffer Fiat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Buffer Fiat",
+    "symbol": "BFA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

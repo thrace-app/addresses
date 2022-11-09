@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x318b7f26ae48e41f3941ba4ec95d93caabb2fc80",
+  "displayName": "Wrapped Satoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Satoshi",
+    "symbol": "WSAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

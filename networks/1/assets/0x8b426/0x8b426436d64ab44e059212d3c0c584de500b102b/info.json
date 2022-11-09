@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b426436d64ab44e059212d3c0c584de500b102b",
+  "displayName": "Avocado Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Avocado Coin",
+    "symbol": "AVO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

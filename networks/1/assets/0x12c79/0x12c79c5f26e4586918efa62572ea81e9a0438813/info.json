@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12c79c5f26e4586918efa62572ea81e9a0438813",
+  "displayName": "MATIC",
+  "type": "TOKEN",
+  "token": {
+    "name": "MATIC",
+    "symbol": "MATIC",
+    "decimals": 1,
+    "type": "ERC20"
+  }
+}

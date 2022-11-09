@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5271b37cb92adb1eefc9a3a50cea39003c7b27ff",
+  "displayName": "Token Camper",
+  "type": "TOKEN",
+  "token": {
+    "name": "Token Camper",
+    "symbol": "CAMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

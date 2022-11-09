@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65689a04219642103afa35972d17ac86544fba74",
+  "displayName": "Doom: Eternal (Token)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doom: Eternal (Token)",
+    "symbol": "DOOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

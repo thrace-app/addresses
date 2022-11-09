@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93d17e8a5cead2d7d7462162dcc0e62afe881971",
+  "displayName": "Depp Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Depp Doge",
+    "symbol": "DEPP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

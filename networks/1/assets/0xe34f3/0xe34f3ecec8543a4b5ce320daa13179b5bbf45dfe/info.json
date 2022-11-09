@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe34f3ecec8543a4b5ce320daa13179b5bbf45dfe",
+  "displayName": "NEO Wrapped",
+  "type": "TOKEN",
+  "token": {
+    "name": "NEO Wrapped",
+    "symbol": "NEOW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

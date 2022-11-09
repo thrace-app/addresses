@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd8af972e57f285f709c9858bba82772a518ca43",
+  "displayName": "dumbCreditToken Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "dumbCreditToken Token",
+    "symbol": "DUMBCREDIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x939292c1af769cff8a1e4da119472342d5ef9417",
+  "displayName": "TEST_PRESALE",
+  "type": "TOKEN",
+  "token": {
+    "name": "TEST_PRESALE",
+    "symbol": "TEST_PRESALE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

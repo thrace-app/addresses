@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd40501f49dd14f2857a770321048dbfc3cf38500",
+  "displayName": "HelloMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "HelloMoon",
+    "symbol": "HEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

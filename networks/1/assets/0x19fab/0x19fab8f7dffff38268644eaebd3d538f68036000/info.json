@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19fab8f7dffff38268644eaebd3d538f68036000",
+  "displayName": "Chronic Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chronic Token",
+    "symbol": "CHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

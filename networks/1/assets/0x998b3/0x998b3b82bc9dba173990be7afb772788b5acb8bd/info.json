@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x998b3b82bc9dba173990be7afb772788b5acb8bd",
+  "displayName": "BANCA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BANCA Token",
+    "symbol": "BANCA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

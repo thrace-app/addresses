@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77a080939a6d8dd0c128cfe10043cf4c6fbabd15",
+  "displayName": "Maersk Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Maersk Token",
+    "symbol": "MAERSK TOKEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

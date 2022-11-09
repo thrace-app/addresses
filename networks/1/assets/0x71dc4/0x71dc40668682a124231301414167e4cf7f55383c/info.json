@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71dc40668682a124231301414167e4cf7f55383c",
+  "displayName": "Mimir Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mimir Token",
+    "symbol": "MIMIR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

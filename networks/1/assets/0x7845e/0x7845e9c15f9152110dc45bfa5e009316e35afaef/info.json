@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7845e9c15f9152110dc45bfa5e009316e35afaef",
+  "displayName": "Olli Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Olli Token",
+    "symbol": "OLLI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

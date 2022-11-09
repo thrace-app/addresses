@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89252b1cf45860d76e2617858ca150735be51bbc",
+  "displayName": "Amstaff Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Amstaff Token",
+    "symbol": "AMS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

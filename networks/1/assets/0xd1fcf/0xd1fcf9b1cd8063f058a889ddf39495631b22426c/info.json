@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1fcf9b1cd8063f058a889ddf39495631b22426c",
+  "displayName": "Elon Buys Cola",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Buys Cola",
+    "symbol": "EBC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

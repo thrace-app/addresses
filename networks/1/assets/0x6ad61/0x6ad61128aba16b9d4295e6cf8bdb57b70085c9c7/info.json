@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ad61128aba16b9d4295e6cf8bdb57b70085c9c7",
+  "displayName": "P-Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "P-Ethereum",
+    "symbol": "PETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

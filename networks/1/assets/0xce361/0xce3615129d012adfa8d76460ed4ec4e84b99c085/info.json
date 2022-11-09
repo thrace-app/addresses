@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce3615129d012adfa8d76460ed4ec4e84b99c085",
+  "displayName": "Kimona Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kimona Token",
+    "symbol": "KIMONA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

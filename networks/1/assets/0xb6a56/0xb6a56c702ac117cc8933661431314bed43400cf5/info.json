@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb6a56c702ac117cc8933661431314bed43400cf5",
+  "displayName": "LFTCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LFTCoin",
+    "symbol": "LFTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

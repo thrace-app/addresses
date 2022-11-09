@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5233f45c66019158742fc14fabaa42ce47dbaf4c",
+  "displayName": "bandicoot-token.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "bandicoot-token.com",
+    "symbol": "BAND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

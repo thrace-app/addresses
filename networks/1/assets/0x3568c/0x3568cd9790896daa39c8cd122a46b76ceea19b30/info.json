@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3568cd9790896daa39c8cd122a46b76ceea19b30",
+  "displayName": "Reddit Bricks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Reddit Bricks",
+    "symbol": "Brick",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa4c30a8b43a9eb3965194dbf49b50e11632841e3",
+  "displayName": "Teapot Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Teapot Swap",
+    "symbol": "TEA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

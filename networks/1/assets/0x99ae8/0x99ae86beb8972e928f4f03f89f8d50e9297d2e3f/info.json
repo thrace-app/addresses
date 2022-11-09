@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99ae86beb8972e928f4f03f89f8d50e9297d2e3f",
+  "displayName": "Disney Duck",
+  "type": "TOKEN",
+  "token": {
+    "name": "Disney Duck",
+    "symbol": "DD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

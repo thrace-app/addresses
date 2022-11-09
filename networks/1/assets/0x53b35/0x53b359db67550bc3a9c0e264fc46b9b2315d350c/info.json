@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53b359db67550bc3a9c0e264fc46b9b2315d350c",
+  "displayName": "Optimus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Optimus Token",
+    "symbol": "Optimus",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

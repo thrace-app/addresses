@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6511672e23ccd7da756175249287aa80ffef1a5b",
+  "displayName": "Shizuki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shizuki Token",
+    "symbol": "SHIZUKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

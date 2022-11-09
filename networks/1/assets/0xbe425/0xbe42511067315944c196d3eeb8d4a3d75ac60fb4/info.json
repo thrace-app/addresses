@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe42511067315944c196d3eeb8d4a3d75ac60fb4",
+  "displayName": "Ethereum Pay Plus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Pay Plus",
+    "symbol": "EPAYPLUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

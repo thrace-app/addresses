@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47aa7e80ad41750cfec6d18931cd52e8906683ce",
+  "displayName": "The Black Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Black Dollar",
+    "symbol": "TBD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

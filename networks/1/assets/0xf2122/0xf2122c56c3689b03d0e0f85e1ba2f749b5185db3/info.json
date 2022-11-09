@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2122c56c3689b03d0e0f85e1ba2f749b5185db3",
+  "displayName": "The Unstoppable Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Unstoppable Doge",
+    "symbol": "UDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

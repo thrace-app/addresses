@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39726c5ad437c80285fbfef217fb2add0c5be37e",
+  "displayName": "FoxBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "FoxBank",
+    "symbol": "FBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

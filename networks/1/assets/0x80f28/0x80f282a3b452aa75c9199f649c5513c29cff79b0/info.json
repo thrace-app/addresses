@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80f282a3b452aa75c9199f649c5513c29cff79b0",
+  "displayName": "MattCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MattCoin",
+    "symbol": "MattCoin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

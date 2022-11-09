@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x566e1854cb0d008200f275f2909989eb9fb430f0",
+  "displayName": "HoneyPotToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "HoneyPotToken",
+    "symbol": "HoneyP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

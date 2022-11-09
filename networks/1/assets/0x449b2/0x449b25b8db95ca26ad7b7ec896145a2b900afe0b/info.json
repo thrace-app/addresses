@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x449b25b8db95ca26ad7b7ec896145a2b900afe0b",
+  "displayName": "Sarun Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sarun Token",
+    "symbol": "SRT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

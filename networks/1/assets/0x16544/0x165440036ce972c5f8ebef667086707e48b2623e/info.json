@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x165440036ce972c5f8ebef667086707e48b2623e",
+  "displayName": "UniGraph",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniGraph",
+    "symbol": "GRAPH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

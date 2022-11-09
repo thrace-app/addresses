@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x961a8a35b480826199c15bc974eac4c56933bd27",
+  "displayName": "RedPill Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RedPill Token",
+    "symbol": "RedPill",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

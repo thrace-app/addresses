@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x106a16263de5eda879c8787375075e7649057b59",
+  "displayName": "Smudge Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smudge Coin",
+    "symbol": "SMUDGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

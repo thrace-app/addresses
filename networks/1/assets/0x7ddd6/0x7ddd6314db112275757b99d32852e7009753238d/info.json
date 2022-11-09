@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ddd6314db112275757b99d32852e7009753238d",
+  "displayName": "BITCOIN PAY",
+  "type": "TOKEN",
+  "token": {
+    "name": "BITCOIN PAY",
+    "symbol": "B-PAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

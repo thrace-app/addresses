@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cb3209d45b2a60b7fbca1ccdbf87f674237a4aa",
+  "displayName": "ThoreCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ThoreCoin",
+    "symbol": "THR",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

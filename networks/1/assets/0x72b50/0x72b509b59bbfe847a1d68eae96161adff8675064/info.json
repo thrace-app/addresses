@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72b509b59bbfe847a1d68eae96161adff8675064",
+  "displayName": "Sgame Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sgame Token",
+    "symbol": "SGM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

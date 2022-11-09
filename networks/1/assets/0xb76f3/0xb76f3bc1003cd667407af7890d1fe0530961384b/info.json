@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb76f3bc1003cd667407af7890d1fe0530961384b",
+  "displayName": "Popeye",
+  "type": "TOKEN",
+  "token": {
+    "name": "Popeye",
+    "symbol": "POPEYE",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

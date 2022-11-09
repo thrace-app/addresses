@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe2b9fc89de434fea90fc9aff1d8578413679f493",
+  "displayName": "Tanami Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tanami Token",
+    "symbol": "TANAMI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

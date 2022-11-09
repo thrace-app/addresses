@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fbdf335c38794cb1b8c231bf35e36b767a9283b",
+  "displayName": "QuickPumpToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "QuickPumpToken",
+    "symbol": "QPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

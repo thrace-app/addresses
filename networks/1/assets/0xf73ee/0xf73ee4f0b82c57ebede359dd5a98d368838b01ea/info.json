@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf73ee4f0b82c57ebede359dd5a98d368838b01ea",
+  "displayName": "Valorant Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Valorant Token",
+    "symbol": "VALO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

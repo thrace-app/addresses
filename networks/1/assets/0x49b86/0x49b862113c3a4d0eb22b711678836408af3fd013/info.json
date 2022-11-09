@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49b862113c3a4d0eb22b711678836408af3fd013",
+  "displayName": "BnoinCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BnoinCoin",
+    "symbol": "BNC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

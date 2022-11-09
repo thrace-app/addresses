@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x098b3809a930c61bf17a1bb7aef0c734a335b74d",
+  "displayName": "DrunkDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "DrunkDoge",
+    "symbol": "DRUNK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77f174ed05e31676e5b15c4fe8a7be7e2ac1b0f2",
+  "displayName": "Law Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Law Token",
+    "symbol": "LAW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b6bc42cb9b89259a3aa986363fa37a9cbf03b8e",
+  "displayName": "ContractLand Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ContractLand Token",
+    "symbol": "CLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

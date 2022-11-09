@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b58ec51844fdd4f7f0a64532cd676508a0adfa4",
+  "displayName": "APG Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "APG Coin",
+    "symbol": "APG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

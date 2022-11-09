@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc9bef8e71c23c40d31a3f81f991c80388530bbdb",
+  "displayName": "DronX",
+  "type": "TOKEN",
+  "token": {
+    "name": "DronX",
+    "symbol": "DRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

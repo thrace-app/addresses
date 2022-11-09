@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a05f4c8d2a796d14039c18f0624ca9112648585",
+  "displayName": "nkt",
+  "type": "TOKEN",
+  "token": {
+    "name": "nkt",
+    "symbol": "nkt",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a24bd487e9459f8eb2334e466510cd55ff3197c",
+  "displayName": "CommunityDigitalAsset",
+  "type": "TOKEN",
+  "token": {
+    "name": "CommunityDigitalAsset",
+    "symbol": "CDA.ONE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

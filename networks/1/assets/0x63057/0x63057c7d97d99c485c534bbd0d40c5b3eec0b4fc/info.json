@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63057c7d97d99c485c534bbd0d40c5b3eec0b4fc",
+  "displayName": "Pak Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pak Token",
+    "symbol": "PK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

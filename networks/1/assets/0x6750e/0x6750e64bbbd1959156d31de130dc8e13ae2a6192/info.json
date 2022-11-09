@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6750e64bbbd1959156d31de130dc8e13ae2a6192",
+  "displayName": "Music City Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Music City Coin",
+    "symbol": "MCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

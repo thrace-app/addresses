@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5cb350b40726b5bcf170d12e162b6193b291b41",
+  "displayName": "Wrapped BIS",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped BIS",
+    "symbol": "wBIS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

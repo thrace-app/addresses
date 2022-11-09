@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaaaaaa20d9e0e2461697782ef11675f668207961",
+  "displayName": "Aurora",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aurora",
+    "symbol": "AURORA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

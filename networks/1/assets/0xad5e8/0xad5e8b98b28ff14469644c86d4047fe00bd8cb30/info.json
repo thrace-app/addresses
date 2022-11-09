@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad5e8b98b28ff14469644c86d4047fe00bd8cb30",
+  "displayName": "MGA Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MGA Stablecoin",
+    "symbol": "MGAx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

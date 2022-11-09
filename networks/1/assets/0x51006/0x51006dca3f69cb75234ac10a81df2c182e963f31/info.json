@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51006dca3f69cb75234ac10a81df2c182e963f31",
+  "displayName": "ETHPoW",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETHPoW",
+    "symbol": "ETHW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

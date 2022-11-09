@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa6383ad2101cb0dc6f70336c14597e27fe91c5f",
+  "displayName": "DragonDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "DragonDAO",
+    "symbol": "DDAO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

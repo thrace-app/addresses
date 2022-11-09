@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x605f469fc7d368359fd138f180b403c9c3181987",
+  "displayName": "Anything",
+  "type": "TOKEN",
+  "token": {
+    "name": "Anything",
+    "symbol": "ZOMBO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

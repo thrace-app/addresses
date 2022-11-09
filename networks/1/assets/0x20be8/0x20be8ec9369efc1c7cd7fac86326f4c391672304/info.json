@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20be8ec9369efc1c7cd7fac86326f4c391672304",
+  "displayName": "Paid Piper",
+  "type": "TOKEN",
+  "token": {
+    "name": "Paid Piper",
+    "symbol": "PIPER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

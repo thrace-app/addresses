@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x039b9077ffd0bab521c600995e304f8233c7a250",
+  "displayName": "FinCry",
+  "type": "TOKEN",
+  "token": {
+    "name": "FinCry",
+    "symbol": "FNC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

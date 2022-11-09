@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbdb84d00d489cace7b9c9fadc64397cce606f322",
+  "displayName": "Spitz Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spitz Inu Token",
+    "symbol": "SPITZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

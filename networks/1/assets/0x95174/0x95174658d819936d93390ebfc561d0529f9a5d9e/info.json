@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95174658d819936d93390ebfc561d0529f9a5d9e",
+  "displayName": "Goblin Town token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goblin Town token",
+    "symbol": "GOBY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

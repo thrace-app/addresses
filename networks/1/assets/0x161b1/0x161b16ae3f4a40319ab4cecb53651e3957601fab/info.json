@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x161b16ae3f4a40319ab4cecb53651e3957601fab",
+  "displayName": "Leprechaun",
+  "type": "TOKEN",
+  "token": {
+    "name": "Leprechaun",
+    "symbol": "LUCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

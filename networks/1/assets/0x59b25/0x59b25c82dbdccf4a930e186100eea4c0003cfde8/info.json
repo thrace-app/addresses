@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x59b25c82dbdccf4a930e186100eea4c0003cfde8",
+  "displayName": "Benvolio Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Benvolio Token",
+    "symbol": "Benvolio",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

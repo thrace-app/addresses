@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x329b5e9ccfe969cda034fc00ad6a16ddf98ba764",
+  "displayName": "SANA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SANA Token",
+    "symbol": "SANA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

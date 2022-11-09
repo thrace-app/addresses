@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdac3c8a4bc28095311c979607d20ba3bd9ee3c7e",
+  "displayName": "Burn Terraform DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burn Terraform DAO",
+    "symbol": "BTERRA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

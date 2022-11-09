@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30646525fb69f63005bd71304e2d83f046dc128c",
+  "displayName": "Voltex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Voltex",
+    "symbol": "VTX",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

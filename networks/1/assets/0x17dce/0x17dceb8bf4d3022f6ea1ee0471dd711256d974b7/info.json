@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17dceb8bf4d3022f6ea1ee0471dd711256d974b7",
+  "displayName": "New Wealth Source",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Wealth Source",
+    "symbol": "WEALTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

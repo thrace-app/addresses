@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35e78b3982e87ecfd5b3f3265b601c046cdbe232",
+  "displayName": "SideShift Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SideShift Token",
+    "symbol": "XAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

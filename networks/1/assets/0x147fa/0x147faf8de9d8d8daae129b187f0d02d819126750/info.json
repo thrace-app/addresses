@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x147faf8de9d8d8daae129b187f0d02d819126750",
+  "displayName": "GeoDB Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GeoDB Coin",
+    "symbol": "GEO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

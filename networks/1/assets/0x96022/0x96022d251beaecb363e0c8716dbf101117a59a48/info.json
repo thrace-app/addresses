@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96022d251beaecb363e0c8716dbf101117a59a48",
+  "displayName": "INX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "INX Token",
+    "symbol": "INX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc4b75b2a8f73da8581210b64ec4237aabc3a266",
+  "displayName": "The Baby People's Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Baby People's Coin",
+    "symbol": "BabyPEEPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48f8e9d9d633e0fab80efb806fd673a30e378d6a",
+  "displayName": "Evil Von Musk Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Evil Von Musk Token",
+    "symbol": "EVMT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

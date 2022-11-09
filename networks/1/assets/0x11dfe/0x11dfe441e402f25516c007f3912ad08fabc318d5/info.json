@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11dfe441e402f25516c007f3912ad08fabc318d5",
+  "displayName": "Ape Saitama",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ape Saitama",
+    "symbol": "APETAMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fcf5934aeaed611a5e3591c84fda79816bfec50",
+  "displayName": "Mountain Toad",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mountain Toad",
+    "symbol": "TOAD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

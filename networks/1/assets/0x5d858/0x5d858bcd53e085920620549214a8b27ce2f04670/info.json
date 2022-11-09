@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d858bcd53e085920620549214a8b27ce2f04670",
+  "displayName": "POP Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "POP Network Token",
+    "symbol": "POP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9493c1f5b2bbd521ff4d628cfc3b23fa255e0ed4",
+  "displayName": "Moon Bull Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moon Bull Token",
+    "symbol": "MBULL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

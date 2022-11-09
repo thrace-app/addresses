@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x98f2e50eeca2352b60e1dad37f93dc9113a07be9",
+  "displayName": "southchain",
+  "type": "TOKEN",
+  "token": {
+    "name": "southchain",
+    "symbol": "SCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

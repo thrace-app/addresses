@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe357e522c4336927eaf31fbc6b3f713747daaa47",
+  "displayName": "Neko Atsume",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neko Atsume",
+    "symbol": "ATSUME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

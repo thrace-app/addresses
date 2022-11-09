@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcbfb94a35b2ff124cc37e5d92643f5f0ac2268c2",
+  "displayName": "AnTex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AnTex Token",
+    "symbol": "ANTEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e021fb2b6f69e78020922bbdb39deb1aae7cad4",
+  "displayName": "Facebook",
+  "type": "TOKEN",
+  "token": {
+    "name": "Facebook",
+    "symbol": "Meta",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

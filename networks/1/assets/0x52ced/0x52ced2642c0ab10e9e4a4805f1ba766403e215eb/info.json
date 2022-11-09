@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52ced2642c0ab10e9e4a4805f1ba766403e215eb",
+  "displayName": "FlebToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlebToken",
+    "symbol": "FLEB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

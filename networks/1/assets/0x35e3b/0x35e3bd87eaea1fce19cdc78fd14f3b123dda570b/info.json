@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35e3bd87eaea1fce19cdc78fd14f3b123dda570b",
+  "displayName": "GermanDeflationToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GermanDeflationToken",
+    "symbol": "GERDI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbdd4f273c2b0f0b84a51bd733aac617d91159376",
+  "displayName": "BMoreToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BMoreToken",
+    "symbol": "BALT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

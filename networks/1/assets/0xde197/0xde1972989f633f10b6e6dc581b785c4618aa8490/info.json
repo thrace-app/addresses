@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde1972989f633f10b6e6dc581b785c4618aa8490",
+  "displayName": "King Bob",
+  "type": "TOKEN",
+  "token": {
+    "name": "King Bob",
+    "symbol": "$BOB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

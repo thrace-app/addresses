@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2eff2eeafa28140513cd780c1f254b3df724a50f",
+  "displayName": "SHIBABOND",
+  "type": "TOKEN",
+  "token": {
+    "name": "SHIBABOND",
+    "symbol": "SBOND",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84105e55bb58b8b691a31ad2652c09fa024f3997",
+  "displayName": "NotImportantToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NotImportantToken",
+    "symbol": "NIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

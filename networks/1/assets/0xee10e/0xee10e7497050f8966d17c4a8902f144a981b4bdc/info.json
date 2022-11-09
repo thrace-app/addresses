@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee10e7497050f8966d17c4a8902f144a981b4bdc",
+  "displayName": "Atlas Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Atlas Token",
+    "symbol": "ATLAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

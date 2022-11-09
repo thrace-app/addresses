@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfdd7399e22918ba7234f5568cc2ef922489f7ba6",
+  "displayName": "Mask Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mask Token",
+    "symbol": "MSK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

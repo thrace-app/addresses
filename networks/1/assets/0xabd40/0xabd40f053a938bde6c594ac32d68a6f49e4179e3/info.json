@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabd40f053a938bde6c594ac32d68a6f49e4179e3",
+  "displayName": "CURN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CURN Token",
+    "symbol": "CURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

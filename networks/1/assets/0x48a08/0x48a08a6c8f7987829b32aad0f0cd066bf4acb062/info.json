@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48a08a6c8f7987829b32aad0f0cd066bf4acb062",
+  "displayName": "APENFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "APENFT",
+    "symbol": "NFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

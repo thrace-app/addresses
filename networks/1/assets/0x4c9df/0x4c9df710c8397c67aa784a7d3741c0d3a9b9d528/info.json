@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c9df710c8397c67aa784a7d3741c0d3a9b9d528",
+  "displayName": "second uncle coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "second uncle coin",
+    "symbol": "SUC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

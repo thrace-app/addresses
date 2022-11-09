@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6032b22ce56b2cac58ad0b5cf055646a27688dbf",
+  "displayName": "MegaPUMP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MegaPUMP Token",
+    "symbol": " mPUMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

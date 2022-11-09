@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3438a3ddd9a900228a0815adca951e75c4eca40d",
+  "displayName": "EthC",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthC",
+    "symbol": "DOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

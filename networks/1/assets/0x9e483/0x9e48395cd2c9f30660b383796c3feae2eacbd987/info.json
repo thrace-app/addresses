@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e48395cd2c9f30660b383796c3feae2eacbd987",
+  "displayName": "Fixed Forex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fixed Forex Token",
+    "symbol": "FFX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

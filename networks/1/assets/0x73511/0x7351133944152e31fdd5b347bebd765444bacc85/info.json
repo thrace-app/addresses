@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7351133944152e31fdd5b347bebd765444bacc85",
+  "displayName": "Inu Worker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inu Worker",
+    "symbol": "WORK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa77e85c50c3cae650602a3bcecb14a9ddd9d6c5a",
+  "displayName": "Bored Dogs Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bored Dogs Token",
+    "symbol": "BDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

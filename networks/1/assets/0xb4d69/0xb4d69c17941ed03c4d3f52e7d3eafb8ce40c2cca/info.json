@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4d69c17941ed03c4d3f52e7d3eafb8ce40c2cca",
+  "displayName": "Capital Reserve Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Capital Reserve Currency",
+    "symbol": "CARE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

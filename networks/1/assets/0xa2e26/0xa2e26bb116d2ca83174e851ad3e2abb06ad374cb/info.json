@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa2e26bb116d2ca83174e851ad3e2abb06ad374cb",
+  "displayName": "Rivian token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rivian token",
+    "symbol": "Rivian",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

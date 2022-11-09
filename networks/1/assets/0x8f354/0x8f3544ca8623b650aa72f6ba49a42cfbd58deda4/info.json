@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f3544ca8623b650aa72f6ba49a42cfbd58deda4",
+  "displayName": "EOT Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "EOT Protocol",
+    "symbol": "EOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

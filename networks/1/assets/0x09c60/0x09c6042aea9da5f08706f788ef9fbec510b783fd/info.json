@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09c6042aea9da5f08706f788ef9fbec510b783fd",
+  "displayName": "The Vapor Wave",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Vapor Wave",
+    "symbol": "WAVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

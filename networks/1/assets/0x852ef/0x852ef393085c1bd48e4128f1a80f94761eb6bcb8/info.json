@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x852ef393085c1bd48e4128f1a80f94761eb6bcb8",
+  "displayName": "NiiFiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NiiFiToken",
+    "symbol": "NIIFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

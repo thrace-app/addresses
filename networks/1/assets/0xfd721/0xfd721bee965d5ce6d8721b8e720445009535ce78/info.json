@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd721bee965d5ce6d8721b8e720445009535ce78",
+  "displayName": "MicroStrategy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MicroStrategy Token",
+    "symbol": "MST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

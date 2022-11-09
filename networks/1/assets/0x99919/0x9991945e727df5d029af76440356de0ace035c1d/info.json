@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9991945e727df5d029af76440356de0ace035c1d",
+  "displayName": "White Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "White Doge",
+    "symbol": "WHITEDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

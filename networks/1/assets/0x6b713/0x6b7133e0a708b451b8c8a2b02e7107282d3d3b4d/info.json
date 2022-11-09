@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b7133e0a708b451b8c8a2b02e7107282d3d3b4d",
+  "displayName": "apy.finance token",
+  "type": "TOKEN",
+  "token": {
+    "name": "apy.finance token",
+    "symbol": "APY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

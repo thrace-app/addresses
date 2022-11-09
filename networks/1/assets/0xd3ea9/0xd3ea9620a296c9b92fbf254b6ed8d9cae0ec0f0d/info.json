@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3ea9620a296c9b92fbf254b6ed8d9cae0ec0f0d",
+  "displayName": "UndoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "UndoToken",
+    "symbol": "UNDO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb06008bb7ef76fd93fe7bcc3f94cbb5e8a9dcc07",
+  "displayName": "xpelToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "xpelToken",
+    "symbol": "XPEL",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

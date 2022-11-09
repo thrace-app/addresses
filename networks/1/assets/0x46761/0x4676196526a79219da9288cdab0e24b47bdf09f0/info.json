@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4676196526a79219da9288cdab0e24b47bdf09f0",
+  "displayName": "Tyre Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tyre Token",
+    "symbol": "Tyre",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

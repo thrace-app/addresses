@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a597fb40f54a5e5ad189991dedc8d7881e447ee",
+  "displayName": "Osmos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Osmos",
+    "symbol": "OS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

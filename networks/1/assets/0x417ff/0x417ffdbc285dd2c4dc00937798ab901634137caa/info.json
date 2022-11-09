@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x417ffdbc285dd2c4dc00937798ab901634137caa",
+  "displayName": "BlackFisk",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlackFisk",
+    "symbol": "BLFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

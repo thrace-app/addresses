@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0275e1001e293c46cfe158b3702aade0b99f88a5",
+  "displayName": "Oiler",
+  "type": "TOKEN",
+  "token": {
+    "name": "Oiler",
+    "symbol": "OIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

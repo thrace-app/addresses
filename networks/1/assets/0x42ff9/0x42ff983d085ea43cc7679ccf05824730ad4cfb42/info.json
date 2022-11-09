@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42ff983d085ea43cc7679ccf05824730ad4cfb42",
+  "displayName": "PulseKiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "PulseKiba",
+    "symbol": "PLSK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

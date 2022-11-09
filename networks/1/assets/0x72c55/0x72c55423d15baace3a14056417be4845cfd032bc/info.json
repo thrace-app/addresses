@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72c55423d15baace3a14056417be4845cfd032bc",
+  "displayName": "CassEncryptionToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CassEncryptionToken",
+    "symbol": "CETN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

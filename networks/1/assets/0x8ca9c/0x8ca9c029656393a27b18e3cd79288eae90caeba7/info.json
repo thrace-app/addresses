@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ca9c029656393a27b18e3cd79288eae90caeba7",
+  "displayName": "BullishDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "BullishDoge",
+    "symbol": "BOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05984006707585f66465e8a6505341f46b64fa7a",
+  "displayName": "Nam Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nam Coin",
+    "symbol": "NAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

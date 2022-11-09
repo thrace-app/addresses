@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab",
+  "displayName": "IOSToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "IOSToken",
+    "symbol": "IOST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

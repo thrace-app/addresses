@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e6632c2324bc51aa429e2520e5f4586c71ed20f",
+  "displayName": "Hundred Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hundred Token",
+    "symbol": "HH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

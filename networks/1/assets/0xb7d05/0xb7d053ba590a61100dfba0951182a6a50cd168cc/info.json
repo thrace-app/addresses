@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7d053ba590a61100dfba0951182a6a50cd168cc",
+  "displayName": "HogeGoat",
+  "type": "TOKEN",
+  "token": {
+    "name": "HogeGoat",
+    "symbol": "hGOAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

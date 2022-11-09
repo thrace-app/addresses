@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2aad9dbc82611485a52325923e1187734e951b78",
+  "displayName": "Wrapped BYTZ",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped BYTZ",
+    "symbol": "WBYTZ",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

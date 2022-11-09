@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x355dafbb96ff87cf0714051b0e9bd889c4aa34ea",
+  "displayName": "Happy Dog Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Happy Dog Coin",
+    "symbol": "Happy Dog Coin",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

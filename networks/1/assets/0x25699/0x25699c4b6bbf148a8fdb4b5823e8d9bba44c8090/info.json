@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25699c4b6bbf148a8fdb4b5823e8d9bba44c8090",
+  "displayName": "Hoge2.0",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hoge2.0",
+    "symbol": "HOGE2",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

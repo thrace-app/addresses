@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x675e7d927af7e6d0082e0153dc3485b687a6f0ad",
+  "displayName": "CreedToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CreedToken",
+    "symbol": "CREED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

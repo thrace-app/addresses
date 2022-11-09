@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f5aee8024c0c03988e8bf07640b1692d1e6474f",
+  "displayName": "NBIToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NBIToken",
+    "symbol": "NBI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

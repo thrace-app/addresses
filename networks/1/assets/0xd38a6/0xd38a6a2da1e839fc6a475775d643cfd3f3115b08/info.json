@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd38a6a2da1e839fc6a475775d643cfd3f3115b08",
+  "displayName": "ZombieETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZombieETH",
+    "symbol": "ZETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

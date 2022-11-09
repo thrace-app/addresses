@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafa1ab8eca923bd946717494515192223e6bbb01",
+  "displayName": "BitPenta",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitPenta",
+    "symbol": "PENTA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

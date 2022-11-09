@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70debcdab2ef20be3d1dbff6a845e9ccb6e46930",
+  "displayName": "BIKICOIN TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BIKICOIN TOKEN",
+    "symbol": "BIKI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

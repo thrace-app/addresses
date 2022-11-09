@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb44d556f4293714d905742b830a6b67886c3cc9e",
+  "displayName": "The Elephant Project",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Elephant Project",
+    "symbol": "ELPH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

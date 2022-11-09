@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf5d10f39d3ce1dd053648945f66b4e37be0c13c",
+  "displayName": "Swiss Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swiss Gold",
+    "symbol": "SGD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

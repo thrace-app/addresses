@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c75ba63b50076fbfdb039b205ddef87d31c5d43",
+  "displayName": "FoundMe",
+  "type": "TOKEN",
+  "token": {
+    "name": "FoundMe",
+    "symbol": "FoundMe",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

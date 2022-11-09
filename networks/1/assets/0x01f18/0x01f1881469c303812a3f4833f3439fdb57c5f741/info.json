@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01f1881469c303812a3f4833f3439fdb57c5f741",
+  "displayName": "ZTESTER",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZTESTER",
+    "symbol": "ZTES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

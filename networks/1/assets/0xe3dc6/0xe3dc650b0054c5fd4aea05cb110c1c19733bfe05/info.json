@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3dc650b0054c5fd4aea05cb110c1c19733bfe05",
+  "displayName": "Andy Simon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Andy Simon",
+    "symbol": "AS1",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

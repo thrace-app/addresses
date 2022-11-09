@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fe3f6331f299950b21b97e93c03e6ee10169c2f",
+  "displayName": "ZoomToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZoomToken",
+    "symbol": "ZOOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x888e375571b3a2d79693cdb9fb37da01fa53569e",
+  "displayName": "One Piece",
+  "type": "TOKEN",
+  "token": {
+    "name": "One Piece",
+    "symbol": "BERY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

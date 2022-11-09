@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe99de844ef3ef72806cf006224ef3b813e82662f",
+  "displayName": "YouMinter",
+  "type": "TOKEN",
+  "token": {
+    "name": "YouMinter",
+    "symbol": "UMINT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa4c7de50ebb635c0f16d6245d86cdf3e86562ea",
+  "displayName": "PAY",
+  "type": "TOKEN",
+  "token": {
+    "name": "PAY",
+    "symbol": "$PAY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

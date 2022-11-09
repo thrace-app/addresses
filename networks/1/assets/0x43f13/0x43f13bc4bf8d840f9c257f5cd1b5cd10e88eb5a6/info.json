@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43f13bc4bf8d840f9c257f5cd1b5cd10e88eb5a6",
+  "displayName": "PRINT BTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "PRINT BTC",
+    "symbol": "PRINTBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

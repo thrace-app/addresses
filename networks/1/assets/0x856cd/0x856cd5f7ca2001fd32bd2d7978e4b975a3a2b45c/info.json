@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x856cd5f7ca2001fd32bd2d7978e4b975a3a2b45c",
+  "displayName": "XenBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "XenBank",
+    "symbol": "XENBANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

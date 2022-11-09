@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5be657717f494d5cf36ec72bf361dac44f56f5b5",
+  "displayName": "TigerFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "TigerFi",
+    "symbol": "TigerFi",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

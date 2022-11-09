@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf48afd0b1893e11d415f3f4f6cf677dad608028c",
+  "displayName": "Compound Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Compound Burn",
+    "symbol": "CMPB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

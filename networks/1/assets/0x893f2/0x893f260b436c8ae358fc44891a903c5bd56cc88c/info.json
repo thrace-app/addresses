@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x893f260b436c8ae358fc44891a903c5bd56cc88c",
+  "displayName": "Ivory Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ivory Coin",
+    "symbol": "IC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

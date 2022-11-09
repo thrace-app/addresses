@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf839c271722c2ceedb2a65883a810e90b537404d",
+  "displayName": "yearn.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

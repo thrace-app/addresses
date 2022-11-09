@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2bb183fba59618482be4c99735b988d0155bbff2",
+  "displayName": "Libreum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Libreum",
+    "symbol": "LIBRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

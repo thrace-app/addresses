@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8c3f8dde5fba641b74153c2b892d1e10b07e534",
+  "displayName": "Satoshi Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Satoshi Doge",
+    "symbol": "SATS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

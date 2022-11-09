@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48fb253446873234f2febbf9bdeaa72d9d387f94",
+  "displayName": "Bancor Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bancor Governance Token",
+    "symbol": "vBNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

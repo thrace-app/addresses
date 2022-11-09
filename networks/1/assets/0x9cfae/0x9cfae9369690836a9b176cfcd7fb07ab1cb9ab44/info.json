@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9cfae9369690836a9b176cfcd7fb07ab1cb9ab44",
+  "displayName": "Horace",
+  "type": "TOKEN",
+  "token": {
+    "name": "Horace",
+    "symbol": "$HOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1bcdbae3a44e28c1dc44ea4a40cdf5cd18b372c4",
+  "displayName": "Big Bang",
+  "type": "TOKEN",
+  "token": {
+    "name": "Big Bang",
+    "symbol": "BANG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

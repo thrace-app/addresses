@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70dc4be70c1fa435b0d1dc8b11548165da795b9f",
+  "displayName": "meToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "meToken",
+    "symbol": "JAYFIELD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

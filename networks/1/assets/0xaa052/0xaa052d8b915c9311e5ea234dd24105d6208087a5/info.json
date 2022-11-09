@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa052d8b915c9311e5ea234dd24105d6208087a5",
+  "displayName": "LUSD Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LUSD Stablecoin",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

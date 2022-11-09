@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cf5a45692444b89d5182d2ba9a2b0d2c3540c55",
+  "displayName": "Stake Goose",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stake Goose",
+    "symbol": "StakeGoose",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa8aae537a40a37ec73c250a0c2983e66c20a9de",
+  "displayName": "UniStake",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniStake",
+    "symbol": "UNISTAKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

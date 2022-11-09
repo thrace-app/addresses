@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f3caa28ad28a7dc56a6b1099eb714d8d964de08",
+  "displayName": "Caishen coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Caishen coin",
+    "symbol": "CaishenC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

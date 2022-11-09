@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb34f15d826164b55ccc226486053819f55a6de2d",
+  "displayName": "Real Div Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Real Div Coin",
+    "symbol": "RDIV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

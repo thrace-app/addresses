@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53c00926416563ca14e99ca8387122d3cb09673f",
+  "displayName": "ConchSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "ConchSwap",
+    "symbol": "CONCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf01b069edfde21df43519d752bc391685a09851f",
+  "displayName": "Predator",
+  "type": "TOKEN",
+  "token": {
+    "name": "Predator",
+    "symbol": "PREDATOR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

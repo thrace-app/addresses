@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77745eb70a555691e152732713f6c3f0cfe99819",
+  "displayName": "InVaultToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "InVaultToken",
+    "symbol": "VAULT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

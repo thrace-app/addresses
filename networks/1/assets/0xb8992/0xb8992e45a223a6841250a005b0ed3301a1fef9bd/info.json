@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8992e45a223a6841250a005b0ed3301a1fef9bd",
+  "displayName": "DOMCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DOMCoin",
+    "symbol": "DOMC",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

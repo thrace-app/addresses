@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3097c25e21f37a23f5a7aeaaa2ad772fac095abc",
+  "displayName": "Messi Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Messi Protocol",
+    "symbol": "Messi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

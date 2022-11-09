@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30315ea143a711912b9f36b1d99ccbc648d92e73",
+  "displayName": "Kratom Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kratom Token",
+    "symbol": "KRATOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

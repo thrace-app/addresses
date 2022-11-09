@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32df5cf0e7ab4a848283927bb925c1a26b2f1858",
+  "displayName": "Degen Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Burn",
+    "symbol": "DBURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

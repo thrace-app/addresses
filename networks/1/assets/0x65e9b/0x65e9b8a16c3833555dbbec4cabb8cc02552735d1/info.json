@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65e9b8a16c3833555dbbec4cabb8cc02552735d1",
+  "displayName": "Mammon Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mammon Coin",
+    "symbol": "mmc",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

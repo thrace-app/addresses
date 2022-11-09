@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe07ba3ceaf1aef745bdb1fcc6d3a7026c8a3510",
+  "displayName": "Grand Token Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grand Token Dollar",
+    "symbol": "GTD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

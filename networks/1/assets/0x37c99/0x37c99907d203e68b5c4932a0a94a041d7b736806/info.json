@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37c99907d203e68b5c4932a0a94a041d7b736806",
+  "displayName": "Pooh Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pooh Inu",
+    "symbol": "POOH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99d5236aade74f992ba1a23bea0e30d4c45bd457",
+  "displayName": "myfirstshiba.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "myfirstshiba.com",
+    "symbol": "FIRSTSHIBA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

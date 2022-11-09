@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf45091f25d374bbe956c0bb64bb85e02d07aa741",
+  "displayName": "MNMCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MNMCoin",
+    "symbol": "MNMC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

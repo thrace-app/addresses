@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c5313c2a1616d4dce2e43ccdef5553f68a7d2f6",
+  "displayName": "GobblerCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GobblerCoin",
+    "symbol": "GOBBLER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0123a977289cca79cd3bb3cf65a2a9cf19cce5c",
+  "displayName": "CVI",
+  "type": "TOKEN",
+  "token": {
+    "name": "CVI",
+    "symbol": "CVI",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

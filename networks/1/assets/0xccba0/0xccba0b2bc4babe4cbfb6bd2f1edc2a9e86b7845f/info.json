@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccba0b2bc4babe4cbfb6bd2f1edc2a9e86b7845f",
+  "displayName": "Winter Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Winter Token",
+    "symbol": "WINTER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0bb42bcf54f3fe87a7985328dbb63dfdfe3891f0",
+  "displayName": "SWCToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SWCToken",
+    "symbol": "SWC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

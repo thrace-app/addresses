@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37e808f084101f75783612407e7c3f5f92d8ee3f",
+  "displayName": "RI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RI Token",
+    "symbol": "RI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

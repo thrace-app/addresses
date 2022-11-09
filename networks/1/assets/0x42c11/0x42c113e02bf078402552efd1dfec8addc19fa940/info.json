@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42c113e02bf078402552efd1dfec8addc19fa940",
+  "displayName": "Lucid",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucid",
+    "symbol": "$LUCID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

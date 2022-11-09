@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x641af9210b2600e6fd5916d47817ae622dc6cbc7",
+  "displayName": "RAQ Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RAQ Token",
+    "symbol": "RAQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

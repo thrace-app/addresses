@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0e2a09ce1ecefe248bd1ee9ed26afafc23a4869",
+  "displayName": "Kringle Liquidity Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kringle Liquidity Token",
+    "symbol": "KLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x185361886cc38fe02056f2e2f60ec16a0306ea83",
+  "displayName": "Bank of Haiti",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of Haiti",
+    "symbol": "HAITI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

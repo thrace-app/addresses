@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48c2d688dd5fd4f96aae7491df262af0c236a877",
+  "displayName": "Doge NFT market",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge NFT market",
+    "symbol": "DOGENM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

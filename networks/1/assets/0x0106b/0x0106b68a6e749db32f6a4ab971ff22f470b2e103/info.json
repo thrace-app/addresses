@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0106b68a6e749db32f6a4ab971ff22f470b2e103",
+  "displayName": "SlowSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "SlowSwap",
+    "symbol": "SlowSwap",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

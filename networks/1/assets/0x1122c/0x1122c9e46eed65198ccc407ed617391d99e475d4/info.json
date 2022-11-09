@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1122c9e46eed65198ccc407ed617391d99e475d4",
+  "displayName": "HobbitToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "HobbitToken",
+    "symbol": "Hobbit",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x042ae00c14097ef533c8b25ba532ca5d9d59179d",
+  "displayName": "Cheers Up Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cheers Up Token",
+    "symbol": "CHEERS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

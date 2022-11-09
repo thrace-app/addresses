@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7df3dbab7d0fddef9a2c4662f21fab6272a3d438",
+  "displayName": "Jake Paul Tweet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jake Paul Tweet",
+    "symbol": "JakePaul",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

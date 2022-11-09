@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a3b27113430c4dbc95ee3927c92063ba455551f",
+  "displayName": "BakedToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BakedToken",
+    "symbol": "BAKED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

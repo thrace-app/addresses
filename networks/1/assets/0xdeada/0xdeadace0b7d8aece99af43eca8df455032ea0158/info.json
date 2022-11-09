@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdeadace0b7d8aece99af43eca8df455032ea0158",
+  "displayName": "Dead",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dead",
+    "symbol": "ACE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

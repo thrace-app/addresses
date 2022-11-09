@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca36e49f35c87fcd69c8eed9ae6d9eb373a2bfde",
+  "displayName": "MakiSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "MakiSwap",
+    "symbol": "MAKI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

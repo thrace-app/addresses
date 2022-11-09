@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5715c4d40ae51ec3654e35e6d7d4902e8e135fb",
+  "displayName": "glue",
+  "type": "TOKEN",
+  "token": {
+    "name": "glue",
+    "symbol": "GLUE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb92a53f1a4dfd300a27662b2054bdc17348b534",
+  "displayName": "CorbV1",
+  "type": "TOKEN",
+  "token": {
+    "name": "CorbV1",
+    "symbol": "CORBV1",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

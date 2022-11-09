@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0fc998c903dbcbe1d0826521b3a44dd23ba17f13",
+  "displayName": "WoolToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WoolToken",
+    "symbol": "WOOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

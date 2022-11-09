@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d498bd66e1449452af10cf18d51c75e5918b1d9",
+  "displayName": "DCR",
+  "type": "TOKEN",
+  "token": {
+    "name": "DCR",
+    "symbol": "DCRS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

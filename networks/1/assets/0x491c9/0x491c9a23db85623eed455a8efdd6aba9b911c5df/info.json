@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x491c9a23db85623eed455a8efdd6aba9b911c5df",
+  "displayName": "HeroNodeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "HeroNodeToken",
+    "symbol": "HER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f1d330c16e27bd0e7b4e44bca2f5493f0f3313d",
+  "displayName": "xorETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "xorETH",
+    "symbol": "XORET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

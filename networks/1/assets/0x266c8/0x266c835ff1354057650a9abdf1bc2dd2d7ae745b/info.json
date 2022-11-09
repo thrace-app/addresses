@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x266c835ff1354057650a9abdf1bc2dd2d7ae745b",
+  "displayName": "Bar Fight Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bar Fight Token",
+    "symbol": "BarFight",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

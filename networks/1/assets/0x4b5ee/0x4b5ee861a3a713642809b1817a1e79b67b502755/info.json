@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b5ee861a3a713642809b1817a1e79b67b502755",
+  "displayName": "UsdbToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "UsdbToken",
+    "symbol": "USDB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

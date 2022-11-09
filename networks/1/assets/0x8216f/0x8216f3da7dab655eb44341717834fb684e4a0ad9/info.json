@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8216f3da7dab655eb44341717834fb684e4a0ad9",
+  "displayName": "NotionCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NotionCoin",
+    "symbol": "NTCN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

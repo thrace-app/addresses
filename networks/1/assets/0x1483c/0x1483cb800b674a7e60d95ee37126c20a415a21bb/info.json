@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1483cb800b674a7e60d95ee37126c20a415a21bb",
+  "displayName": "DeFiPIE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiPIE Token",
+    "symbol": "PIE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

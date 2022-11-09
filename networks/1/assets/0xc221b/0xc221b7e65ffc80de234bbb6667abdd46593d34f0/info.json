@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc221b7e65ffc80de234bbb6667abdd46593d34f0",
+  "displayName": "Wrapped Centrifuge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Centrifuge",
+    "symbol": "wCFG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51bb9c623226ce781f4a54fc8f4a530a47142b6b",
+  "displayName": "Peet ERC20",
+  "type": "TOKEN",
+  "token": {
+    "name": "Peet ERC20",
+    "symbol": "PTE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

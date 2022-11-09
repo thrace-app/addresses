@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbac776cc54cc33fd57d4ca2b255f9fb5f5f7ab87",
+  "displayName": "Shibling Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shibling Inu",
+    "symbol": "$BLING",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

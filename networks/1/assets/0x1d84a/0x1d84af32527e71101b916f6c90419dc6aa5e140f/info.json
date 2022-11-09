@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d84af32527e71101b916f6c90419dc6aa5e140f",
+  "displayName": "Axie Cat Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Axie Cat Coin",
+    "symbol": "ACAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

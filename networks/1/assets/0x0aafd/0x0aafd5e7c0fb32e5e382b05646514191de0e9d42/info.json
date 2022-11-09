@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0aafd5e7c0fb32e5e382b05646514191de0e9d42",
+  "displayName": "AnimalMetaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AnimalMetaToken",
+    "symbol": "AM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

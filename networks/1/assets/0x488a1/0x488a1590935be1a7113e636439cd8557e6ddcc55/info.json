@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x488a1590935be1a7113e636439cd8557e6ddcc55",
+  "displayName": "Gold Mountain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gold Mountain Token",
+    "symbol": "GMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

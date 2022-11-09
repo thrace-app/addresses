@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7632d9b78860334a0d18b8d58883341e6a94b363",
+  "displayName": "POC",
+  "type": "TOKEN",
+  "token": {
+    "name": "POC",
+    "symbol": "POC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

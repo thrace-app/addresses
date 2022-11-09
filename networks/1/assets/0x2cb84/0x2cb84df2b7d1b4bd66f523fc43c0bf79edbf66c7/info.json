@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2cb84df2b7d1b4bd66f523fc43c0bf79edbf66c7",
+  "displayName": "Cheddar Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cheddar Coin",
+    "symbol": "CHDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

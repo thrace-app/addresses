@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x59bd59e1473271ad037faf1fe5fb821522d7aade",
+  "displayName": "Coinbase DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coinbase DAO",
+    "symbol": "COINBASE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

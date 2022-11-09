@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd9bbdf39e4088a957bdcfe4d6a2f5f1dadccd8a",
+  "displayName": "Boxer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boxer Token",
+    "symbol": "BOXER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

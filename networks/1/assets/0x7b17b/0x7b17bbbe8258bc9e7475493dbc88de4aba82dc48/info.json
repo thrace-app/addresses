@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b17bbbe8258bc9e7475493dbc88de4aba82dc48",
+  "displayName": "bbc",
+  "type": "TOKEN",
+  "token": {
+    "name": "bbc",
+    "symbol": "bbc",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

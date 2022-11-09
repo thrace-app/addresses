@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ed84cae0604c76aa88166d5feefdbbb085fb10d",
+  "displayName": "Sapling",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sapling",
+    "symbol": "NAEGI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

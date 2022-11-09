@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcfeaa22acac607f222a730a9aee3aacc54983fc1",
+  "displayName": "ARBTEST2",
+  "type": "TOKEN",
+  "token": {
+    "name": "ARBTEST2",
+    "symbol": "ARB2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37e9971f30c1354f3391c415dbd642e2b27c7c6f",
+  "displayName": "Farm Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Farm Token",
+    "symbol": "FT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

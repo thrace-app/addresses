@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4336a5629bf30bee8bf571a6243cf50487b0de21",
+  "displayName": "Bamboo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bamboo Token",
+    "symbol": "BOO",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

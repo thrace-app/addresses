@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc03841b5135600312707d39eb2af0d2ad5d51a91",
+  "displayName": "BasketCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BasketCoin",
+    "symbol": "BSKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

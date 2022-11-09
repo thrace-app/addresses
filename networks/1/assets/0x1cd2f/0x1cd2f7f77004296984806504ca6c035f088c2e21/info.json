@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cd2f7f77004296984806504ca6c035f088c2e21",
+  "displayName": "Flicky Minaj Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flicky Minaj Token",
+    "symbol": "MINAJ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

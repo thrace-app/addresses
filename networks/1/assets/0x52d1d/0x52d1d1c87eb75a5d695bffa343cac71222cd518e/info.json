@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52d1d1c87eb75a5d695bffa343cac71222cd518e",
+  "displayName": "ASLTToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ASLTToken",
+    "symbol": "ASLT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

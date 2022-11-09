@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ed4c9a2c338eae99a9fa372ed19ab570bdfd4fb",
+  "displayName": "Ginkgo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ginkgo Token",
+    "symbol": "GKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

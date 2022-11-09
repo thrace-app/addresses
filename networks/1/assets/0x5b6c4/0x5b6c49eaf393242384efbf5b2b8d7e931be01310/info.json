@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b6c49eaf393242384efbf5b2b8d7e931be01310",
+  "displayName": "Ethereum Rocket",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Rocket",
+    "symbol": "eROCKET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

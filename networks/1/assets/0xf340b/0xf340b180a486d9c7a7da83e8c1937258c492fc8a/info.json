@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf340b180a486d9c7a7da83e8c1937258c492fc8a",
+  "displayName": "TL Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TL Coin",
+    "symbol": "TLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

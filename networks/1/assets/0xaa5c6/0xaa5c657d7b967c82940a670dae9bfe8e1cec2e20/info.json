@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa5c657d7b967c82940a670dae9bfe8e1cec2e20",
+  "displayName": "Watering-hole",
+  "type": "TOKEN",
+  "token": {
+    "name": "Watering-hole",
+    "symbol": "HOLE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc120dbb74a1f9764d46de19fb5c70ce71317cbeb",
+  "displayName": "Meteorite Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meteorite Token",
+    "symbol": "MTE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf26d1fdf7e8057057e42892e82e1a5bdc82ea586",
+  "displayName": "Warrior Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Warrior Token",
+    "symbol": "WAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

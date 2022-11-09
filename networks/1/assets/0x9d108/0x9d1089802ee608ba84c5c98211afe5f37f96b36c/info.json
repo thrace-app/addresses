@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d1089802ee608ba84c5c98211afe5f37f96b36c",
+  "displayName": "Fluid USDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fluid USDC",
+    "symbol": "fUSDC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

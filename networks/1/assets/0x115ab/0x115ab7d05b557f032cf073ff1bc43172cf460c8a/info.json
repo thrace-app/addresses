@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x115ab7d05b557f032cf073ff1bc43172cf460c8a",
+  "displayName": "Hurona Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hurona Token",
+    "symbol": "Hurona",
+    "decimals": 14,
+    "type": "ERC20"
+  }
+}

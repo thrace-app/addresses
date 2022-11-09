@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1cc97549671475de082f841c41a7bd098d859f6",
+  "displayName": "Joe Rogan",
+  "type": "TOKEN",
+  "token": {
+    "name": "Joe Rogan",
+    "symbol": "JR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

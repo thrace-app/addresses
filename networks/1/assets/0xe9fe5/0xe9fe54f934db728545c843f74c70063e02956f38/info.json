@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe9fe54f934db728545c843f74c70063e02956f38",
+  "displayName": "The Crypto Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Crypto Fund",
+    "symbol": "TCF",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

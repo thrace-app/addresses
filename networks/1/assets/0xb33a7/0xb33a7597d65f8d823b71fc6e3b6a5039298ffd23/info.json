@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb33a7597d65f8d823b71fc6e3b6a5039298ffd23",
+  "displayName": "Etherneum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Etherneum",
+    "symbol": "ETX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

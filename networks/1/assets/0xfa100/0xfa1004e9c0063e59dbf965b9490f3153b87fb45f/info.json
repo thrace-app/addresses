@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa1004e9c0063e59dbf965b9490f3153b87fb45f",
+  "displayName": "Uzone Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uzone Token",
+    "symbol": "UZT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

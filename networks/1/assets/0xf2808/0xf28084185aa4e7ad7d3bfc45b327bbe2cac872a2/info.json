@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf28084185aa4e7ad7d3bfc45b327bbe2cac872a2",
+  "displayName": "ODAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ODAO Token",
+    "symbol": "ODAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1be47312592c0c8ebda3625934604d7a0d393dd",
+  "displayName": "DLT",
+  "type": "TOKEN",
+  "token": {
+    "name": "DLT",
+    "symbol": "DLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

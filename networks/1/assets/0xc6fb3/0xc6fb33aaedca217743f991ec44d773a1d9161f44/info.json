@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6fb33aaedca217743f991ec44d773a1d9161f44",
+  "displayName": "An ETH story",
+  "type": "TOKEN",
+  "token": {
+    "name": "An ETH story",
+    "symbol": "$POOR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

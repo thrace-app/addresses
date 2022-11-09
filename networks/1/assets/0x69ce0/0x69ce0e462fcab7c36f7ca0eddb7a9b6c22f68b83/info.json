@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69ce0e462fcab7c36f7ca0eddb7a9b6c22f68b83",
+  "displayName": "hedgehog.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "hedgehog.finance",
+    "symbol": "HEDGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

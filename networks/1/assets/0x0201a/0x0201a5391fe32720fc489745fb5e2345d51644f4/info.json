@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0201a5391fe32720fc489745fb5e2345d51644f4",
+  "displayName": "ClienteleCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ClienteleCoin",
+    "symbol": "CLIENT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x065889e98ca2318d7a02ada83f8a5adb470e9106",
+  "displayName": "DFEI Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DFEI Coin",
+    "symbol": "DFIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

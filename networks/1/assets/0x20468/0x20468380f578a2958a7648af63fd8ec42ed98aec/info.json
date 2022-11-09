@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20468380f578a2958a7648af63fd8ec42ed98aec",
+  "displayName": "Credit Protocol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Credit Protocol Token",
+    "symbol": "CREDIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

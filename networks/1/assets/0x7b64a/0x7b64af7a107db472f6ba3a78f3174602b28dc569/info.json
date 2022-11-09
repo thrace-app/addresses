@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b64af7a107db472f6ba3a78f3174602b28dc569",
+  "displayName": "Bounty Hunter",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bounty Hunter",
+    "symbol": "BH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0164f85a0d4ea7c2f938cc06d7fa38c69047bf75",
+  "displayName": "Doplin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doplin Token",
+    "symbol": "DTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a7a2e6da77668051e7c10880c614b1ff956f58d",
+  "displayName": "Metcalfe Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Metcalfe Token",
+    "symbol": "M",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

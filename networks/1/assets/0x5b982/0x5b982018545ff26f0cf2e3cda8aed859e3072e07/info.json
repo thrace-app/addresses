@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b982018545ff26f0cf2e3cda8aed859e3072e07",
+  "displayName": "KaikenToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KaikenToken",
+    "symbol": "KAIKEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

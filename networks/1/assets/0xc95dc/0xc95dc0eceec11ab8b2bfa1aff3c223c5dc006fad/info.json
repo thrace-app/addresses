@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc95dc0eceec11ab8b2bfa1aff3c223c5dc006fad",
+  "displayName": "Celo native asset",
+  "type": "TOKEN",
+  "token": {
+    "name": "Celo native asset",
+    "symbol": "CELO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

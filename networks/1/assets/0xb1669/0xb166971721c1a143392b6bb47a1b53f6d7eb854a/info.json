@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb166971721c1a143392b6bb47a1b53f6d7eb854a",
+  "displayName": "CoiNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoiNFT",
+    "symbol": "CoiNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

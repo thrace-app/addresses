@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12ac9b513fecda02fc62bfdfebfa63260d501b71",
+  "displayName": "WhiteDeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "WhiteDeFi",
+    "symbol": "WDE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

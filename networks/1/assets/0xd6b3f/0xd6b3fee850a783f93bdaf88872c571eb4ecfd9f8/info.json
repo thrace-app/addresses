@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6b3fee850a783f93bdaf88872c571eb4ecfd9f8",
+  "displayName": "Moonzy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moonzy Token",
+    "symbol": "Moonzy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

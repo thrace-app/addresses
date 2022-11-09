@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f30f7b0a6463693f30d8540ef316fef2a628786",
+  "displayName": "K3ex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "K3ex Token",
+    "symbol": "K3ex",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

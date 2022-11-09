@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ed439b669033770f3150566ea4dc5c00ab28709",
+  "displayName": "Ltr Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ltr Token",
+    "symbol": "LTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

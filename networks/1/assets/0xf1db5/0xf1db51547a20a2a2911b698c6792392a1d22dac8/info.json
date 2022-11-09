@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1db51547a20a2a2911b698c6792392a1d22dac8",
+  "displayName": "Kahuna Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kahuna Token",
+    "symbol": "$KAHUNA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

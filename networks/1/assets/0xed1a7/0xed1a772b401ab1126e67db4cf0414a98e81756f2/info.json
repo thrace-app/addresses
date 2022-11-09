@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed1a772b401ab1126e67db4cf0414a98e81756f2",
+  "displayName": "Big Ape Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Big Ape Token",
+    "symbol": "BAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

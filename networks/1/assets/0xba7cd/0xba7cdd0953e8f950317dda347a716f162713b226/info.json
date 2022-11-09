@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba7cdd0953e8f950317dda347a716f162713b226",
+  "displayName": "10X Long Bitcoin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "10X Long Bitcoin Token",
+    "symbol": "MOON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

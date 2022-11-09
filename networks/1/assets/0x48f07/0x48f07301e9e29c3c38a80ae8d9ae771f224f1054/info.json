@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48f07301e9e29c3c38a80ae8d9ae771f224f1054",
+  "displayName": "South African Tether",
+  "type": "TOKEN",
+  "token": {
+    "name": "South African Tether",
+    "symbol": "XZAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

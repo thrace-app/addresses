@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa05c833884a1e84fce6f8ba00822b3ce3e1457b8",
+  "displayName": "SafeMillion Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeMillion Token",
+    "symbol": "SMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

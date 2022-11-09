@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x59887d88a03777f553ec70c3e4b2c3d842d07d62",
+  "displayName": "SKALE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SKALE Token",
+    "symbol": "SKALE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2cac9bbaf8ee877296274fc7c68c422e54aab12f",
+  "displayName": "Cat Fish",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cat Fish",
+    "symbol": "Catfish",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

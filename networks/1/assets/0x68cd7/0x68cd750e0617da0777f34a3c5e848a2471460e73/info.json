@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68cd750e0617da0777f34a3c5e848a2471460e73",
+  "displayName": "CryptoCat",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoCat",
+    "symbol": "MEOW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

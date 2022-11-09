@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02d70bb36329fb38ba29f8e8d67645b92a163e9a",
+  "displayName": "Rodo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rodo Token",
+    "symbol": "RODO",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

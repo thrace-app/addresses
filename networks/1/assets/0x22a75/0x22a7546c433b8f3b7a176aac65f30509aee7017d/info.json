@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22a7546c433b8f3b7a176aac65f30509aee7017d",
+  "displayName": "Over9000",
+  "type": "TOKEN",
+  "token": {
+    "name": "Over9000",
+    "symbol": "OVER9K",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x765aa66faa023db8d13af1d824495438bb90ca07",
+  "displayName": "Kikotei Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kikotei Token",
+    "symbol": "KIKOTEI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

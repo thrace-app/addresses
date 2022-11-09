@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfe55723f9b5977bfbbb8aeff0c4a8d6f4013ebe",
+  "displayName": "Hame Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hame Token",
+    "symbol": "Hame",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

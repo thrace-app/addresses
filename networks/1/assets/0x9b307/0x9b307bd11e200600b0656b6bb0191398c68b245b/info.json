@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b307bd11e200600b0656b6bb0191398c68b245b",
+  "displayName": "UCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "UCoin",
+    "symbol": "UCOIN",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

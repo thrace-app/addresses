@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1a1ee8fe85139535ebe6552c55bca2bdf9150ea",
+  "displayName": "DingerChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "DingerChain",
+    "symbol": "DChain",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

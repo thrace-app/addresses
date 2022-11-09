@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92153ceacccd3f962b7f1c14b5db126a4ba11c16",
+  "displayName": "BKIT",
+  "type": "TOKEN",
+  "token": {
+    "name": "BKIT",
+    "symbol": "Blockchain Kittens",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc5ec4f1fc86da45ae788ec98756ba70b57676409",
+  "displayName": "OJE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OJE Token",
+    "symbol": "OJE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

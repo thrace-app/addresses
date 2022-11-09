@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe11d37350649dd0ee5f60c9372904a9d9d3c7dad",
+  "displayName": "TheForce Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TheForce Coin",
+    "symbol": "FOC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

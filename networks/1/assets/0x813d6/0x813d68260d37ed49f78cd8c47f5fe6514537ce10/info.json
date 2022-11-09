@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x813d68260d37ed49f78cd8c47f5fe6514537ce10",
+  "displayName": "Kasparov",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kasparov",
+    "symbol": "Kasparov",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa82aa729ae2f0d78e961d66db53949e27a9e866d",
+  "displayName": "BitMEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitMEX",
+    "symbol": "BMEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

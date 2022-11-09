@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30647a72dc82d7fbb1123ea74716ab8a317eac19",
+  "displayName": "Interest bearing mUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Interest bearing mUSD",
+    "symbol": "imUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

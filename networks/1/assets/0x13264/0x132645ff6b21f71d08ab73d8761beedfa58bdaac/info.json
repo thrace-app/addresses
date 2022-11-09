@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x132645ff6b21f71d08ab73d8761beedfa58bdaac",
+  "displayName": "ABTO Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ABTO Coin",
+    "symbol": "ABTO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

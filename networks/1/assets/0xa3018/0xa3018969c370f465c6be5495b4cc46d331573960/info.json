@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa3018969c370f465c6be5495b4cc46d331573960",
+  "displayName": "Proof of Send",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Send",
+    "symbol": "SEND2.0",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

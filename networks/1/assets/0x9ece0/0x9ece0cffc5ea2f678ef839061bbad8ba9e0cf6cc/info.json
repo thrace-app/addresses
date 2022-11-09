@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ece0cffc5ea2f678ef839061bbad8ba9e0cf6cc",
+  "displayName": "Volt Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Volt Chain",
+    "symbol": "VoltChain",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

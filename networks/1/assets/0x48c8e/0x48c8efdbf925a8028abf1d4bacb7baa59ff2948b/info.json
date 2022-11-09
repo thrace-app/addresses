@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48c8efdbf925a8028abf1d4bacb7baa59ff2948b",
+  "displayName": "FTWCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FTWCoin",
+    "symbol": "FTW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

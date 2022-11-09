@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30ec37a6a43d51ff6324d31565f4beee1c9dd679",
+  "displayName": "Meta Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meta Doge",
+    "symbol": "METADOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

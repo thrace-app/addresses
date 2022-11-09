@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x099168c28eba6a748ded5ae13fae505320c0c7ea",
+  "displayName": "The Mystery Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Mystery Token",
+    "symbol": "TMT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

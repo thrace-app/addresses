@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42bc26ef270be2f69d010dd374c57cc9e47c86e0",
+  "displayName": "Racing player one",
+  "type": "TOKEN",
+  "token": {
+    "name": "Racing player one",
+    "symbol": "RPO",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

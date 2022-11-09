@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82b2c931dd1f5695aeab5759c63996a338a2d86c",
+  "displayName": "T1MES Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "T1MES Token",
+    "symbol": "T1MES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d2cf60aaf5763bbb5b89379a84c547efbd12fb8",
+  "displayName": "BankOfBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "BankOfBurn",
+    "symbol": "BOB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

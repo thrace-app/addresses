@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9497c335c9fd36125b60efaf1ae087a61c50af02",
+  "displayName": "Miner Extractable Value Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Miner Extractable Value Fund",
+    "symbol": "MEV",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

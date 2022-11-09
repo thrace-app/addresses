@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x510ba313c1e8b9af686e64c95a85666fe32ba805",
+  "displayName": "Pied Piper",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pied Piper",
+    "symbol": "RATS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

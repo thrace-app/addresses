@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f8d977ce0ff5318917ee1f459b2ec9d03cdaffe",
+  "displayName": "MultiEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "MultiEX",
+    "symbol": "MEX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

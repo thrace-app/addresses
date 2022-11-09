@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe70ea90718fd21471db240f3bae343daece65f53",
+  "displayName": "USACOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "USACOIN",
+    "symbol": "USACOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

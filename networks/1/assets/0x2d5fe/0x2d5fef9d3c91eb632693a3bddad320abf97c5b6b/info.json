@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2d5fef9d3c91eb632693a3bddad320abf97c5b6b",
+  "displayName": "Zuckerberg Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zuckerberg Token",
+    "symbol": "ZUCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

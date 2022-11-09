@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95d82ba91256db995c80bed690d0a779191af62b",
+  "displayName": "AlrightCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlrightCoin",
+    "symbol": "ALC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

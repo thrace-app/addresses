@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1deebb8dffd1a012fc9491a064d99af06bc02ad1",
+  "displayName": "Purple Flame Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Purple Flame Coin",
+    "symbol": "PFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

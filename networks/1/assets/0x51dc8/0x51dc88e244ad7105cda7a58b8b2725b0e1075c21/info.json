@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51dc88e244ad7105cda7a58b8b2725b0e1075c21",
+  "displayName": "Chihua Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chihua Token",
+    "symbol": "$CHIHUA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

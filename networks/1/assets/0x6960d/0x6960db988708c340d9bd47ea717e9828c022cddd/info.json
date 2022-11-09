@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6960db988708c340d9bd47ea717e9828c022cddd",
+  "displayName": "EthereumTrust",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumTrust",
+    "symbol": "ETRUST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

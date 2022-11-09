@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27247a1e6d60e19273a2f88720d8e0806f6382e5",
+  "displayName": "eFastPay",
+  "type": "TOKEN",
+  "token": {
+    "name": "eFastPay",
+    "symbol": "eFastPay",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

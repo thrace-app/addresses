@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x29bbd7b6816b7483af4733078361107d89ada72c",
+  "displayName": "Corda",
+  "type": "TOKEN",
+  "token": {
+    "name": "Corda",
+    "symbol": "CDA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

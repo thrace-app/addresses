@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbffa2736f3939cc132671728fca0fffa11d4791c",
+  "displayName": "Banana Peeler",
+  "type": "TOKEN",
+  "token": {
+    "name": "Banana Peeler",
+    "symbol": "🍌",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

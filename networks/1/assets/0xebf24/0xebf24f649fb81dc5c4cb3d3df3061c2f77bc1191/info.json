@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xebf24f649fb81dc5c4cb3d3df3061c2f77bc1191",
+  "displayName": "Sheesh Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sheesh Doge",
+    "symbol": "SHEEDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

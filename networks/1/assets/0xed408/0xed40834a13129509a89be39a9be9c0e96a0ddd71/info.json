@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed40834a13129509a89be39a9be9c0e96a0ddd71",
+  "displayName": "Warp Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Warp Token",
+    "symbol": "WARP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

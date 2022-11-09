@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87bd4d387a2e50953140d019667c05ababd3c692",
+  "displayName": "Spray Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spray Finance Token",
+    "symbol": "SPRAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

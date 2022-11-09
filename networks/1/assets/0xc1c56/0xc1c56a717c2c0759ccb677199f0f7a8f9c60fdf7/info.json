@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1c56a717c2c0759ccb677199f0f7a8f9c60fdf7",
+  "displayName": "Binkies",
+  "type": "TOKEN",
+  "token": {
+    "name": "Binkies",
+    "symbol": "BINK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

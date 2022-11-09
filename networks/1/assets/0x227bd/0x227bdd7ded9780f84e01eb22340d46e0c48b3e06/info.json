@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x227bdd7ded9780f84e01eb22340d46e0c48b3e06",
+  "displayName": "NFT Production Test 01",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT Production Test 01",
+    "symbol": "NTEST_01",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

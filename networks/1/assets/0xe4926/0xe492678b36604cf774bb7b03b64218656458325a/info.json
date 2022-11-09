@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe492678b36604cf774bb7b03b64218656458325a",
+  "displayName": "Coin Beacon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coin Beacon",
+    "symbol": "BEACON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

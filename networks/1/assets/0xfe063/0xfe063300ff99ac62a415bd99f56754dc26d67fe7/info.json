@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe063300ff99ac62a415bd99f56754dc26d67fe7",
+  "displayName": "Evil Eye",
+  "type": "TOKEN",
+  "token": {
+    "name": "Evil Eye",
+    "symbol": "HAMSA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

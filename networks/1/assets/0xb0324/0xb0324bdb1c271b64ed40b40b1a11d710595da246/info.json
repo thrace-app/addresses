@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0324bdb1c271b64ed40b40b1a11d710595da246",
+  "displayName": "DVGToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DVGToken",
+    "symbol": "DVG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

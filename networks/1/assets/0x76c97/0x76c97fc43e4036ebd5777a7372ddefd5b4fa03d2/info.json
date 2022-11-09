@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76c97fc43e4036ebd5777a7372ddefd5b4fa03d2",
+  "displayName": "Insta Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Insta Cash",
+    "symbol": "ICASH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

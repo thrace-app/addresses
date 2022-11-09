@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed477970a8f260a831a6ce7f70d81b3d34d6a478",
+  "displayName": "Tabby Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tabby Token",
+    "symbol": "TABBY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc59d21c904c259e8bb2caac239162830772bd0da",
+  "displayName": "PearSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "PearSwap",
+    "symbol": "PEAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

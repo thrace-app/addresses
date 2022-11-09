@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a5c12cb0cc20c8fd1684cd71b3178e988373c7d",
+  "displayName": "ShibaFork",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShibaFork",
+    "symbol": "ShibaFork",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

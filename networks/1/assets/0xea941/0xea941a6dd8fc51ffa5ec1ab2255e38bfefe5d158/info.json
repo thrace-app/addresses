@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea941a6dd8fc51ffa5ec1ab2255e38bfefe5d158",
+  "displayName": "Tire Kicker Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tire Kicker Token",
+    "symbol": "TRKR",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

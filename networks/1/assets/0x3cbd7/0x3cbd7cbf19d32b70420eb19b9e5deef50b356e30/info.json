@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3cbd7cbf19d32b70420eb19b9e5deef50b356e30",
+  "displayName": "HOMIE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HOMIE Token",
+    "symbol": "HOMIE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

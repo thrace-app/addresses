@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea67345542ec5db2726fbdb614ca3b34a7bc3733",
+  "displayName": "Wrapped Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Shiba",
+    "symbol": "WSHIB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00006100f7090010005f1bd7ae6122c3c2cf0090",
+  "displayName": "TrueAUD",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrueAUD",
+    "symbol": "TAUD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf280730aba4dcbad09441bbd21e5d13d890bd68b",
+  "displayName": "AlistonToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlistonToken",
+    "symbol": "ALST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x758d80545e53476e755a82d9f647028d9d2404e4",
+  "displayName": "DAD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAD Token",
+    "symbol": "DAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

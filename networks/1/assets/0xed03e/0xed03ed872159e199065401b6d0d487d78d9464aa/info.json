@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed03ed872159e199065401b6d0d487d78d9464aa",
+  "displayName": "TetherToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TetherToken",
+    "symbol": "MXNt",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

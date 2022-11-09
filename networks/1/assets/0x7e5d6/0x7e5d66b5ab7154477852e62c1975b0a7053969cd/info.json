@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e5d66b5ab7154477852e62c1975b0a7053969cd",
+  "displayName": "Community Crypto Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Community Crypto Token",
+    "symbol": "CCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

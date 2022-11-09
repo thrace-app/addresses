@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2940c4f0416a8cfabab992c85b1b3260e14a23c3",
+  "displayName": "Red Knight Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Red Knight Token",
+    "symbol": "RKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

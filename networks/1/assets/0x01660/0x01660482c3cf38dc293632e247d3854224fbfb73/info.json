@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01660482c3cf38dc293632e247d3854224fbfb73",
+  "displayName": "Chi Chi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chi Chi Token",
+    "symbol": "$CHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

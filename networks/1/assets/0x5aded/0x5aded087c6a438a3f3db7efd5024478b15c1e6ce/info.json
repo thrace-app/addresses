@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5aded087c6a438a3f3db7efd5024478b15c1e6ce",
+  "displayName": "The Last Airbender",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Last Airbender",
+    "symbol": "$Airbender",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

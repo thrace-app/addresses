@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d9bf7384e512b7aa394f333e73599e3b4c90ea9",
+  "displayName": "Ispolink Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ispolink Token",
+    "symbol": "ISP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

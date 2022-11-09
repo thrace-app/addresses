@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1290a66c2d516afb3df73ec495a06319a8f28a7d",
+  "displayName": "SamiBey Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SamiBey Token",
+    "symbol": "SMB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

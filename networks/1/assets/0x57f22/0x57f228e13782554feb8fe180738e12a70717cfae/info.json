@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57f228e13782554feb8fe180738e12a70717cfae",
+  "displayName": "isotoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "isotoken",
+    "symbol": "ISO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

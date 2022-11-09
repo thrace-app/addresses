@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64ac32119e8a5a2904ca802a0b41e1efe537ae85",
+  "displayName": "Evil Kermit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Evil Kermit",
+    "symbol": "EKERMIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

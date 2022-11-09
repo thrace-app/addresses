@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5555e6b8e710bbcd7804f5172395b87c09621f80",
+  "displayName": "Dolphin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dolphin Token",
+    "symbol": "DHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

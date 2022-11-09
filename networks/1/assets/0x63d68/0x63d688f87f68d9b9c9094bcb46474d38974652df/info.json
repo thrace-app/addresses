@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63d688f87f68d9b9c9094bcb46474d38974652df",
+  "displayName": "BuyLowGetHigh",
+  "type": "TOKEN",
+  "token": {
+    "name": "BuyLowGetHigh",
+    "symbol": "$HIGH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc55b0f9b3f0921c116a071526a4818439d622733",
+  "displayName": "Gnosis",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gnosis",
+    "symbol": "Gnosis",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

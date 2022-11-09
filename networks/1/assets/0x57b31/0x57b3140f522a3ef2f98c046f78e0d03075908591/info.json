@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57b3140f522a3ef2f98c046f78e0d03075908591",
+  "displayName": "ePlatinum",
+  "type": "TOKEN",
+  "token": {
+    "name": "ePlatinum",
+    "symbol": "ePLAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e31edd3f20bf289086ce01a7f2a65accb6772ac",
+  "displayName": "Commander Kitty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Commander Kitty",
+    "symbol": "CKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

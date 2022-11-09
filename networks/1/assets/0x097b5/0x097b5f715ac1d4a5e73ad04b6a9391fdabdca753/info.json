@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x097b5f715ac1d4a5e73ad04b6a9391fdabdca753",
+  "displayName": "Wolf test",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wolf test",
+    "symbol": "WOLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

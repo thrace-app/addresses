@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49ffa76a918ee132a02c7611e63bcda37a3917c0",
+  "displayName": "Agent Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Agent Coin",
+    "symbol": "AGNT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

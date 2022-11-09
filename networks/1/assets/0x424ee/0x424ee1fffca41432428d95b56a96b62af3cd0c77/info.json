@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x424ee1fffca41432428d95b56a96b62af3cd0c77",
+  "displayName": "BieberDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "BieberDoge",
+    "symbol": "BIEB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

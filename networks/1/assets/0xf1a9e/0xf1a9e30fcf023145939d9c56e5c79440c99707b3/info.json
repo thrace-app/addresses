@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1a9e30fcf023145939d9c56e5c79440c99707b3",
+  "displayName": "Pichi Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pichi Coin",
+    "symbol": "PIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

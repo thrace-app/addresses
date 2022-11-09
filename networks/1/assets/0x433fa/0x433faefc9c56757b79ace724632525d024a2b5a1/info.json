@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x433faefc9c56757b79ace724632525d024a2b5a1",
+  "displayName": "FlashTether USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlashTether USD",
+    "symbol": "FlashUSDT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

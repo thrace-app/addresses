@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6111494b00a625cbff89ad890543c70a5d3fc3fe",
+  "displayName": "Murphy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Murphy Token",
+    "symbol": "Murphy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

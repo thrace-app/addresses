@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe03f415c0e69d3f06953d70bb27f5441a16e6c9d",
+  "displayName": "CECI",
+  "type": "TOKEN",
+  "token": {
+    "name": "CECI",
+    "symbol": "CEC",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

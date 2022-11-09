@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7dbfacab150696fec404e3cb125d8708b8bab51f",
+  "displayName": "Quark Network",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quark Network",
+    "symbol": "QRN",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

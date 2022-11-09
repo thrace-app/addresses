@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89120970860d77fd0e4fe21c898be937f7f3d324",
+  "displayName": "TinFoil Hat",
+  "type": "TOKEN",
+  "token": {
+    "name": "TinFoil Hat",
+    "symbol": "TFH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

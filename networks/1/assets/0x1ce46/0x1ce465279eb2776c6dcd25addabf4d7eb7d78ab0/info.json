@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ce465279eb2776c6dcd25addabf4d7eb7d78ab0",
+  "displayName": "New Crazy Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Crazy Doge",
+    "symbol": "NDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

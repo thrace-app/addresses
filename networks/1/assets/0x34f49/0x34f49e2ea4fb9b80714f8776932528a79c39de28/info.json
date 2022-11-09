@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34f49e2ea4fb9b80714f8776932528a79c39de28",
+  "displayName": "Inbest Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inbest Token",
+    "symbol": "IBST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

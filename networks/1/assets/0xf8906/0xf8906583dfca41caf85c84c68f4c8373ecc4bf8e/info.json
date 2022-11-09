@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8906583dfca41caf85c84c68f4c8373ecc4bf8e",
+  "displayName": "The White Dragon",
+  "type": "TOKEN",
+  "token": {
+    "name": "The White Dragon",
+    "symbol": "WHITE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xced4e93198734ddaff8492d525bd258d49eb388e",
+  "displayName": "Eidoo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eidoo Token",
+    "symbol": "EDO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

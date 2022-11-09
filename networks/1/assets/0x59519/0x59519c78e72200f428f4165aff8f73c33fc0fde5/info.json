@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x59519c78e72200f428f4165aff8f73c33fc0fde5",
+  "displayName": "ShyprCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShyprCoin",
+    "symbol": "SHYPR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

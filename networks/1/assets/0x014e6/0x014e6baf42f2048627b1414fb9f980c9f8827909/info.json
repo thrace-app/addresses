@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x014e6baf42f2048627b1414fb9f980c9f8827909",
+  "displayName": "Jupiter",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jupiter",
+    "symbol": "JUP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

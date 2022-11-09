@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa7b87611a9577cb8ad3f9b1e85e7884933603405",
+  "displayName": "ESAX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ESAX Token",
+    "symbol": "ESAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

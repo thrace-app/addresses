@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f95e881da8e981d90808e2633bfeca53b0cbfe8",
+  "displayName": "Fractional",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fractional",
+    "symbol": "Fractional",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x560de0dec03a982e59e60ed2547311fa3ad8aa21",
+  "displayName": "Die Welle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Die Welle",
+    "symbol": "Welle",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

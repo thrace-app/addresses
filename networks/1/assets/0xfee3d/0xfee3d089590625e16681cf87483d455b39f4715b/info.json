@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfee3d089590625e16681cf87483d455b39f4715b",
+  "displayName": "interchain.exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "interchain.exchange",
+    "symbol": "KEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

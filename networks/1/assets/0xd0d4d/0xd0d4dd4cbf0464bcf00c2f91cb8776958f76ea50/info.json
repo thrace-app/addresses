@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0d4dd4cbf0464bcf00c2f91cb8776958f76ea50",
+  "displayName": "PokeWorld",
+  "type": "TOKEN",
+  "token": {
+    "name": "PokeWorld",
+    "symbol": "POKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x970dcedd86ca0a41b9f798f7c7f05d53d5757317",
+  "displayName": "Bifrost Ethereum Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bifrost Ethereum Token",
+    "symbol": "BFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

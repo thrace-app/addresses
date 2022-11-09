@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9124114b3f09a3e97b8004874cc5a58c9ace4f8f",
+  "displayName": "Defi Coint 2",
+  "type": "TOKEN",
+  "token": {
+    "name": "Defi Coint 2",
+    "symbol": "DFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

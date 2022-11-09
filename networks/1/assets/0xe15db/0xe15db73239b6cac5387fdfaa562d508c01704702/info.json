@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe15db73239b6cac5387fdfaa562d508c01704702",
+  "displayName": "Plmc Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Plmc Token",
+    "symbol": "PLMC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

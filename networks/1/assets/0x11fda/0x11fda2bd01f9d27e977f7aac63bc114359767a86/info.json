@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11fda2bd01f9d27e977f7aac63bc114359767a86",
+  "displayName": "New Shepard Rocket",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Shepard Rocket",
+    "symbol": "NewShepardRocket",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

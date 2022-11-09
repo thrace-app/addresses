@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8bf2348c091ae0e64f71bb794c622c9e6dca119f",
+  "displayName": "Wrapped ADK",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped ADK",
+    "symbol": "wADK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

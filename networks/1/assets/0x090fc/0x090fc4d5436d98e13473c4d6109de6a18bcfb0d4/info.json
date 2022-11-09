@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x090fc4d5436d98e13473c4d6109de6a18bcfb0d4",
+  "displayName": "The SkyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "The SkyToken",
+    "symbol": "SKY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

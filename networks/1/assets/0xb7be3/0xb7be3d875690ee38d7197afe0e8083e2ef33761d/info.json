@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7be3d875690ee38d7197afe0e8083e2ef33761d",
+  "displayName": "Koni Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Koni Token",
+    "symbol": "KONI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

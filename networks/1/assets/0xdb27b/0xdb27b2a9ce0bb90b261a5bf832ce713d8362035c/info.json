@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb27b2a9ce0bb90b261a5bf832ce713d8362035c",
+  "displayName": "Dragon Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dragon Burn",
+    "symbol": "dBURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

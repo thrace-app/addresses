@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x669532d81cf6588962a60840838cc74b17c9881b",
+  "displayName": "CryptoPainterToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoPainterToken",
+    "symbol": "CPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

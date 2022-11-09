@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b220e231db2c92afdbd2878e14eef8e85572a8b",
+  "displayName": "Gundam Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gundam Cat",
+    "symbol": "GUNCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

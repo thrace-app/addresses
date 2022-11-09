@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe9f8938bfc5cb9ba5df3fe2044d5f1d541304c0c",
+  "displayName": "TradeStars Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TradeStars Token",
+    "symbol": "TSX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

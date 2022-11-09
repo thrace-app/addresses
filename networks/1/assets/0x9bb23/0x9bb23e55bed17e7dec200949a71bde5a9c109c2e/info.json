@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9bb23e55bed17e7dec200949a71bde5a9c109c2e",
+  "displayName": "AZP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AZP Token",
+    "symbol": "AZP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61ed1c66239d29cc93c8597c6167159e8f69a823",
+  "displayName": "Reference System for DeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Reference System for DeFi",
+    "symbol": "RSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

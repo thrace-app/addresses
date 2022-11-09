@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3d91ffdf44eafc32a9e4489a4efe188489fc183",
+  "displayName": "Wrapped uPlexa",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped uPlexa",
+    "symbol": "wUPX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

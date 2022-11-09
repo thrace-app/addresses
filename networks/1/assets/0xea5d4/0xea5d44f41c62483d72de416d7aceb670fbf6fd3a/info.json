@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea5d44f41c62483d72de416d7aceb670fbf6fd3a",
+  "displayName": "Blackhole Swap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blackhole Swap Token",
+    "symbol": "BHST",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

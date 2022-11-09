@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9673576d48f80c2a108b5ee1a160e6d56772b973",
+  "displayName": "Yearn Farm Liquidty pool",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn Farm Liquidty pool",
+    "symbol": "YFLP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

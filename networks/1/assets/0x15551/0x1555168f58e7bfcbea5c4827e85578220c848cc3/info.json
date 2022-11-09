@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1555168f58e7bfcbea5c4827e85578220c848cc3",
+  "displayName": "Hello Goodbye",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hello Goodbye",
+    "symbol": "Goodbye",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

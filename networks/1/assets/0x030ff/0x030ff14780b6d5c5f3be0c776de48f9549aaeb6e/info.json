@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x030ff14780b6d5c5f3be0c776de48f9549aaeb6e",
+  "displayName": "JokerDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "JokerDAO",
+    "symbol": "JDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1aa590ebcd58c934415f0962127aaf7a95219161",
+  "displayName": "Shield Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shield Protocol",
+    "symbol": "SHIELD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

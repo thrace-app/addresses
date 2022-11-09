@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1aa39bd15dd5dec7827d41f791241c78e76f4c91",
+  "displayName": "prisoner",
+  "type": "TOKEN",
+  "token": {
+    "name": "prisoner",
+    "symbol": "PRC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+  "displayName": "CelerToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CelerToken",
+    "symbol": "CELR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

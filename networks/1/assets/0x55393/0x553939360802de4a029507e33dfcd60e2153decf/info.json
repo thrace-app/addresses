@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x553939360802de4a029507e33dfcd60e2153decf",
+  "displayName": "PeaceDao Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PeaceDao Token",
+    "symbol": "PEACE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

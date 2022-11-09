@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3622d034fbf3baec7060c7cb484a121389684986",
+  "displayName": "RyukyuToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RyukyuToken",
+    "symbol": "RKYU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

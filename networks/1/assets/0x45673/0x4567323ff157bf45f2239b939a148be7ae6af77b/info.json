@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4567323ff157bf45f2239b939a148be7ae6af77b",
+  "displayName": "MYRIA",
+  "type": "TOKEN",
+  "token": {
+    "name": "MYRIA",
+    "symbol": "$MYRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

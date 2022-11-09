@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15e5542f0239573376a4b09bd6f92f30187b9cac",
+  "displayName": "Cuban Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cuban Doge",
+    "symbol": "CDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

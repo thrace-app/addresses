@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01a75af9406c9abcab75d2dbeddb06af056b345b",
+  "displayName": "Eth Matrix",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eth Matrix",
+    "symbol": "EthMatrix",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

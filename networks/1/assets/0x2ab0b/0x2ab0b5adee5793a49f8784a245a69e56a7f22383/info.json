@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ab0b5adee5793a49f8784a245a69e56a7f22383",
+  "displayName": "Gold Pot",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gold Pot",
+    "symbol": "GDP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

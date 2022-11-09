@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5760d695eae471a5ce1054529dc01cee1b335b6e",
+  "displayName": "Free Kick",
+  "type": "TOKEN",
+  "token": {
+    "name": "Free Kick",
+    "symbol": "FKICK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

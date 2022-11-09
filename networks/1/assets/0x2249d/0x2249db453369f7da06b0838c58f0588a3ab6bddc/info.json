@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2249db453369f7da06b0838c58f0588a3ab6bddc",
+  "displayName": "Rizen Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rizen Coin",
+    "symbol": "RZN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

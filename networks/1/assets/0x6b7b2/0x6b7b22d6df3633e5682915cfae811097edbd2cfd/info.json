@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b7b22d6df3633e5682915cfae811097edbd2cfd",
+  "displayName": "Bonf Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bonf Token",
+    "symbol": "BONF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

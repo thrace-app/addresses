@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8399ce5ad0681ef5e875ec1f31664a552d792a56",
+  "displayName": "NFT Playground",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT Playground",
+    "symbol": "NPLAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

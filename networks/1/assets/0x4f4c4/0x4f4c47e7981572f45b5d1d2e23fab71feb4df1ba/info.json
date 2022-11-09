@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f4c47e7981572f45b5d1d2e23fab71feb4df1ba",
+  "displayName": "Super Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Currency",
+    "symbol": "SCUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

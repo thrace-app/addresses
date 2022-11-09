@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7569dfdb2b65bc24628233427f362691f2450210",
+  "displayName": "ZenDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZenDoge",
+    "symbol": "ZOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

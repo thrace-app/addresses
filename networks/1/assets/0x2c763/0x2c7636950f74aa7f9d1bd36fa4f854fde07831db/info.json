@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c7636950f74aa7f9d1bd36fa4f854fde07831db",
+  "displayName": "Blue Jay",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Jay",
+    "symbol": "BLJ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89b2fd135f4a6f09112d7bc92b4ab1f1d062dac1",
+  "displayName": "Vouch Register",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vouch Register",
+    "symbol": "VOUCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

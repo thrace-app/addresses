@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ca3bd294a47fc002eb447c25b47326f2f7adf39",
+  "displayName": "Squirtle Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Squirtle Token",
+    "symbol": "SQRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

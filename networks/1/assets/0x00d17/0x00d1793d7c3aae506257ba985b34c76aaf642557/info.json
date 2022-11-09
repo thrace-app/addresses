@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00d1793d7c3aae506257ba985b34c76aaf642557",
+  "displayName": "Tacos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tacos",
+    "symbol": "TACO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

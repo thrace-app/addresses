@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ae68cb3b25e4876c967650162b1433b80f2d359",
+  "displayName": "TittyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TittyCoin",
+    "symbol": "TITS",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

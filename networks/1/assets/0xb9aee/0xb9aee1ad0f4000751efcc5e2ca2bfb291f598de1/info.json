@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb9aee1ad0f4000751efcc5e2ca2bfb291f598de1",
+  "displayName": "CrazyEthereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "CrazyEthereum",
+    "symbol": "CETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

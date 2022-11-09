@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x222b876b787bc0660c091078b8e06b5ac36e8f78",
+  "displayName": "Uni Bomber",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uni Bomber",
+    "symbol": "UNIBOMBER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

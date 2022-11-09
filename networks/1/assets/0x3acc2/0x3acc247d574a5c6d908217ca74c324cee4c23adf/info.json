@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3acc247d574a5c6d908217ca74c324cee4c23adf",
+  "displayName": "Akatsuki Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Akatsuki Cat",
+    "symbol": "AKCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4922a015c4407f87432b179bb209e125432e4a2a",
+  "displayName": "Gold Tether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gold Tether",
+    "symbol": "XAUt",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

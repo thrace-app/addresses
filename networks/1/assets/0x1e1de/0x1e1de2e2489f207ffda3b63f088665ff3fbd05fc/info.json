@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e1de2e2489f207ffda3b63f088665ff3fbd05fc",
+  "displayName": "Hero Wars",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hero Wars",
+    "symbol": "HWARS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

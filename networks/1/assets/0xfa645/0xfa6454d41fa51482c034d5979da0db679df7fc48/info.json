@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa6454d41fa51482c034d5979da0db679df7fc48",
+  "displayName": "Gecko Moria Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gecko Moria Token",
+    "symbol": "MORIA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

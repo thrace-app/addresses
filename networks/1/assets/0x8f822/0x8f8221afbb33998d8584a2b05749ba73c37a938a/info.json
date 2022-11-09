@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+  "displayName": "Request Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Request Token",
+    "symbol": "REQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

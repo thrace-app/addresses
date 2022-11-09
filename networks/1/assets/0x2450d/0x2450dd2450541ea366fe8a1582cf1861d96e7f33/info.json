@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2450dd2450541ea366fe8a1582cf1861d96e7f33",
+  "displayName": "Elego Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elego Token",
+    "symbol": "$ELEGO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad6fb3b26445724cbbd2cfc5d7f56d660e14ceb2",
+  "displayName": "MrBurns Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MrBurns Token",
+    "symbol": "MrBurns",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

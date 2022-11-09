@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd37f6655a53d907858efb65de16a561a1c3be751",
+  "displayName": "Stellar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stellar",
+    "symbol": "XLM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

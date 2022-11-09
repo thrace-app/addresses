@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb27f7244b3b71ed4005290bad8fcd6a3cd35eab4",
+  "displayName": "Three-Headed Dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Three-Headed Dog",
+    "symbol": "CERBERUS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

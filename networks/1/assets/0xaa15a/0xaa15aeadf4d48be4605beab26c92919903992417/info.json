@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa15aeadf4d48be4605beab26c92919903992417",
+  "displayName": "Solana Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Solana Inu",
+    "symbol": "SOLI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

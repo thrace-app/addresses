@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90154a2a91c523e1c84c684116c30120a387b450",
+  "displayName": "The Emperor",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Emperor",
+    "symbol": "TENNO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

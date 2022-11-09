@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbedb277125baa6266cd3e10c210f8147bc79ba90",
+  "displayName": "Give Me Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Give Me Doge",
+    "symbol": "GMDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e4f78c0c2086324c4506a62364c1c8982187346",
+  "displayName": "Fantasy Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fantasy Protocol",
+    "symbol": "FTP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

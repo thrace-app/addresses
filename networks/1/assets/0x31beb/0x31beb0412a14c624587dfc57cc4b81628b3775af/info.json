@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x31beb0412a14c624587dfc57cc4b81628b3775af",
+  "displayName": "Flow Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flow Protocol",
+    "symbol": "FLOW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfcc5c47be19d06bf83eb04298b026f81069ff65b",
+  "displayName": "Yearn CRV",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn CRV",
+    "symbol": "yCRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

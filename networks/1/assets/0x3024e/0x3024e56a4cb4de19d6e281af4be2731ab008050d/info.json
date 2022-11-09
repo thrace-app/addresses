@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3024e56a4cb4de19d6e281af4be2731ab008050d",
+  "displayName": "UniBit",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniBit",
+    "symbol": "UBIT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

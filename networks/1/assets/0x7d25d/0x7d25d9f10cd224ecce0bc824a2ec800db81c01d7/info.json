@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d25d9f10cd224ecce0bc824a2ec800db81c01d7",
+  "displayName": "ethopt.io",
+  "type": "TOKEN",
+  "token": {
+    "name": "ethopt.io",
+    "symbol": "OPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

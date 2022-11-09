@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39369a1bc0047875220dc1097a2c4fc88da5ee5d",
+  "displayName": "AntiDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "AntiDoge",
+    "symbol": "ATDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04f941382d5ba59478675964ad9fe883f2908456",
+  "displayName": "Wrapped Anatha",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Anatha",
+    "symbol": "WANAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

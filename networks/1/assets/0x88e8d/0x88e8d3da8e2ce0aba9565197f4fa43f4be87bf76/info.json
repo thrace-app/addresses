@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88e8d3da8e2ce0aba9565197f4fa43f4be87bf76",
+  "displayName": "Neo Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neo Cash",
+    "symbol": "NCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

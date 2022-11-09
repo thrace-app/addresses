@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5fd1528ef1e687453b4332e65cd87b0f1d01ae96",
+  "displayName": "Inu Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inu Swap",
+    "symbol": "ISWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

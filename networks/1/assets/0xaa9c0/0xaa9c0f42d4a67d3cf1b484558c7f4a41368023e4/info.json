@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa9c0f42d4a67d3cf1b484558c7f4a41368023e4",
+  "displayName": "The Kite",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Kite",
+    "symbol": "KITE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

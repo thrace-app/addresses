@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c951ab76fa47322d4db97435bc7b93241693a5f",
+  "displayName": "Welcome Back Mars",
+  "type": "TOKEN",
+  "token": {
+    "name": "Welcome Back Mars",
+    "symbol": "$MARS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

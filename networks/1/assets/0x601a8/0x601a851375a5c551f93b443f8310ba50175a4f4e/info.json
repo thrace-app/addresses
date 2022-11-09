@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x601a851375a5c551f93b443f8310ba50175a4f4e",
+  "displayName": "BooBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "BooBank",
+    "symbol": "BOOB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

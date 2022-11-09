@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ad86d7882f651ee6807a0fa0a6520cb27460c9b",
+  "displayName": "Weasel Bar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Weasel Bar",
+    "symbol": "WEASEL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

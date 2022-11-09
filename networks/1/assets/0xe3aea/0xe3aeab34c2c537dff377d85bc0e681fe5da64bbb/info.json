@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3aeab34c2c537dff377d85bc0e681fe5da64bbb",
+  "displayName": "唐辛子",
+  "type": "TOKEN",
+  "token": {
+    "name": "唐辛子",
+    "symbol": "TOGARASHI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb115fe4b234fca7d9789c2bd7de2d382592959aa",
+  "displayName": "Keyless",
+  "type": "TOKEN",
+  "token": {
+    "name": "Keyless",
+    "symbol": "KEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

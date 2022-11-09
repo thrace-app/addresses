@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95c8a1f33edaa7e17fd3304fd121f960a21fff1b",
+  "displayName": "Infura",
+  "type": "TOKEN",
+  "token": {
+    "name": "Infura",
+    "symbol": "Infura",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

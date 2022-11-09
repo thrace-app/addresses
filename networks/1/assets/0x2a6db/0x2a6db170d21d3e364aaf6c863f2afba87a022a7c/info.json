@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a6db170d21d3e364aaf6c863f2afba87a022a7c",
+  "displayName": "Naughty And Nice",
+  "type": "TOKEN",
+  "token": {
+    "name": "Naughty And Nice",
+    "symbol": "NAUGHTYNICE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

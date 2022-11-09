@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb88e07fa4f25cbb036adef76cee36cc60bc5d6c",
+  "displayName": "yNIX Bridge Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "yNIX Bridge Token",
+    "symbol": "yNBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

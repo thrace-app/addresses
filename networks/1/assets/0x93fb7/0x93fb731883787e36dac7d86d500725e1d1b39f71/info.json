@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93fb731883787e36dac7d86d500725e1d1b39f71",
+  "displayName": "Doge Hashrate",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Hashrate",
+    "symbol": "DOGEHR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

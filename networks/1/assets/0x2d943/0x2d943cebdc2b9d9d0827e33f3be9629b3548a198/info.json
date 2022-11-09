@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2d943cebdc2b9d9d0827e33f3be9629b3548a198",
+  "displayName": "Bankless Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bankless Token",
+    "symbol": "BANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

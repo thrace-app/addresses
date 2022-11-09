@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d5a1117369c2e720034a0ccb0c18b6fc7ef3c98",
+  "displayName": "EverDex",
+  "type": "TOKEN",
+  "token": {
+    "name": "EverDex",
+    "symbol": "EverDex",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6058d3572753595293a44323f2871de6b2c6468",
+  "displayName": "The Third Guy",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Third Guy",
+    "symbol": "THIRD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

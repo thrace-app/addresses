@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x602a657fd10e4dd4ae31117265de928e3f321d8e",
+  "displayName": "Shaman Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shaman Token",
+    "symbol": "SHAMAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

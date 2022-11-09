@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcdebac314d4081ffb7d88c801b97f2dce1605142",
+  "displayName": "External",
+  "type": "TOKEN",
+  "token": {
+    "name": "External",
+    "symbol": "TERN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

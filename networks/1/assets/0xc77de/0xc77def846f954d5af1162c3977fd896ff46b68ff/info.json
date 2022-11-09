@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc77def846f954d5af1162c3977fd896ff46b68ff",
+  "displayName": "DFarm",
+  "type": "TOKEN",
+  "token": {
+    "name": "DFarm",
+    "symbol": "$DFarm",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

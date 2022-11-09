@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20f4038b1f0e51b01cbe90c60c588eac22db3bce",
+  "displayName": "SIS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SIS Token",
+    "symbol": "SIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

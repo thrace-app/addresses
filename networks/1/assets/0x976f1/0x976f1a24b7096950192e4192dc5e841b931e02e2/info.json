@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x976f1a24b7096950192e4192dc5e841b931e02e2",
+  "displayName": "Brrr Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brrr Token",
+    "symbol": "BRRR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

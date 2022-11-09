@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24efd23d9eb112db76a93b852c1d3de187877328",
+  "displayName": "Zonda Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zonda Token",
+    "symbol": "ZONDA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

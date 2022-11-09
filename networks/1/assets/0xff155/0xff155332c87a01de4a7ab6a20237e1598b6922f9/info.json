@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff155332c87a01de4a7ab6a20237e1598b6922f9",
+  "displayName": "Alicorn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Alicorn",
+    "symbol": "ALI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

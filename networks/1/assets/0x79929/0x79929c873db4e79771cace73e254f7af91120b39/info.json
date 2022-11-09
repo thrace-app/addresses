@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79929c873db4e79771cace73e254f7af91120b39",
+  "displayName": "Twitether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Twitether",
+    "symbol": "TE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

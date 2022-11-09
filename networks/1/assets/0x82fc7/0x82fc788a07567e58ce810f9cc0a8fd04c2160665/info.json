@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82fc788a07567e58ce810f9cc0a8fd04c2160665",
+  "displayName": "YieldDoge Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YieldDoge Token",
+    "symbol": "YDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

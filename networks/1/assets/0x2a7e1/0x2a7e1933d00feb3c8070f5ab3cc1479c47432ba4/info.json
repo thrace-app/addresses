@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a7e1933d00feb3c8070f5ab3cc1479c47432ba4",
+  "displayName": "PRofit USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "PRofit USD",
+    "symbol": "PRUSD",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

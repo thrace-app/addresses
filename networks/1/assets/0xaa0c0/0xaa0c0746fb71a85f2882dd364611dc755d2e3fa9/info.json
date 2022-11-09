@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa0c0746fb71a85f2882dd364611dc755d2e3fa9",
+  "displayName": "The Great Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Great Shiba",
+    "symbol": "GIBA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

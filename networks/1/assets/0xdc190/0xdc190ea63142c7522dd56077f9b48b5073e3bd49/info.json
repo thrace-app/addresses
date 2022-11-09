@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc190ea63142c7522dd56077f9b48b5073e3bd49",
+  "displayName": "Blend Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blend Token",
+    "symbol": "BLND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb04486116b401733735ddc7c619ff1d25a6e12fd",
+  "displayName": "RecordkeeperCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RecordkeeperCoin",
+    "symbol": "REC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

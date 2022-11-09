@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad3bd65f8f7bfaf25d68997b4fee3092b408a08f",
+  "displayName": "Glia Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Glia Finance Token",
+    "symbol": "GFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a08de230cbb7e00014c23a0e3cbb07fddda218a",
+  "displayName": "Ether Gas",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether Gas",
+    "symbol": "GAS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0933a90446b87f047881fc6e65294b91fbfd7e4",
+  "displayName": "LEO TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "LEO TOKEN",
+    "symbol": "LEO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

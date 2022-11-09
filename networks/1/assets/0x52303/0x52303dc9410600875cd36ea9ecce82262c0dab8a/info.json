@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52303dc9410600875cd36ea9ecce82262c0dab8a",
+  "displayName": "ProofOfDepeg",
+  "type": "TOKEN",
+  "token": {
+    "name": "ProofOfDepeg",
+    "symbol": "$POOD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

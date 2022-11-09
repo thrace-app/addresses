@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x91b553b05cf1c91675d9809540a0b01a0a9d63b5",
+  "displayName": "Crypto Planet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Planet",
+    "symbol": "CPLANET",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

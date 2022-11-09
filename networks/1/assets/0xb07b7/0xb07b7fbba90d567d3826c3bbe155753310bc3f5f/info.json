@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb07b7fbba90d567d3826c3bbe155753310bc3f5f",
+  "displayName": "Unicorn Yearn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unicorn Yearn Token",
+    "symbol": "UNY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

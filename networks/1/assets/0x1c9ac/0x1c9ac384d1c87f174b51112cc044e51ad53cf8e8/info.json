@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c9ac384d1c87f174b51112cc044e51ad53cf8e8",
+  "displayName": "The Zombie Project",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Zombie Project",
+    "symbol": "TZP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

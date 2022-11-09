@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33a32293c93b46ad3d462ff4a3b17c092342cc16",
+  "displayName": "Churro Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Churro Coin",
+    "symbol": "CHRR",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x544c9e4c7152311df98a7a06c6c377629b8a8d3d",
+  "displayName": "GeneCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GeneCoin",
+    "symbol": "GEC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

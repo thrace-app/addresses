@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42ef9077d8e79689799673ae588e046f8832cb95",
+  "displayName": "fryUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "fryUSD",
+    "symbol": "fUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

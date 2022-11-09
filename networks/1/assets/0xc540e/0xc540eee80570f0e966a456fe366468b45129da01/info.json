@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc540eee80570f0e966a456fe366468b45129da01",
+  "displayName": "Zaizo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zaizo Token",
+    "symbol": "ZAIZO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

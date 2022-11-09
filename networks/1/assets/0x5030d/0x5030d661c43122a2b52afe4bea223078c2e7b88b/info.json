@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5030d661c43122a2b52afe4bea223078c2e7b88b",
+  "displayName": "MEME DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEME DAO",
+    "symbol": "dMEME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

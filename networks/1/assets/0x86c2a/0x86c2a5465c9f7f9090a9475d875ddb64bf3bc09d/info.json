@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86c2a5465c9f7f9090a9475d875ddb64bf3bc09d",
+  "displayName": "Burning Man Community Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burning Man Community Token",
+    "symbol": "$BURN",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

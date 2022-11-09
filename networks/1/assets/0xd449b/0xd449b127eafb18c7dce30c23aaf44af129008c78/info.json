@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd449b127eafb18c7dce30c23aaf44af129008c78",
+  "displayName": "Kotara Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kotara Token",
+    "symbol": "KOTARA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

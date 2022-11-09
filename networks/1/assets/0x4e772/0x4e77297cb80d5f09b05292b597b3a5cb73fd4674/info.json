@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e77297cb80d5f09b05292b597b3a5cb73fd4674",
+  "displayName": "Spooky World Cup",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spooky World Cup",
+    "symbol": "SpookyWC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9de7f60b0fe7e6e4e5da2133565124d723dfe901",
+  "displayName": "RToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RToken",
+    "symbol": "RT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

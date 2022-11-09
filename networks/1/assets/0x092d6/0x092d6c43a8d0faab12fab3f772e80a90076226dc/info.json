@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x092d6c43a8d0faab12fab3f772e80a90076226dc",
+  "displayName": "DODO",
+  "type": "TOKEN",
+  "token": {
+    "name": "DODO",
+    "symbol": "DODO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x131c83801f4d9236f4416a0319ce7a02a76caf94",
+  "displayName": "TokenBot",
+  "type": "TOKEN",
+  "token": {
+    "name": "TokenBot",
+    "symbol": "TKB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

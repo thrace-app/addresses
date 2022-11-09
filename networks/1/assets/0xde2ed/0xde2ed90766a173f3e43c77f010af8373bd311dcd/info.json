@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde2ed90766a173f3e43c77f010af8373bd311dcd",
+  "displayName": "Disney NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Disney NFT",
+    "symbol": "DISNEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

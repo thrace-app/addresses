@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5fb8cdbe6f66d76278fa1e2b3e3ef074b7d77ccf",
+  "displayName": "KingInuToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KingInuToken",
+    "symbol": "KingInuToken",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

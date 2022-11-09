@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x195a179bbfe539bb8a485d944ac60d3a0329f0ec",
+  "displayName": "Wibcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wibcoin",
+    "symbol": "WBBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

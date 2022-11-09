@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1533c795ea2b33999dd6eff0256640dc3b2415c2",
+  "displayName": "BitDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitDao",
+    "symbol": "BDO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

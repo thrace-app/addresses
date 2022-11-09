@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ea03d60e207fb2a1231b6a1b3ff0e239dade4bc",
+  "displayName": "Dex protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dex protocol",
+    "symbol": "DexP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

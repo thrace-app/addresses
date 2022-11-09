@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2bb85d6e55da09966d8aed2200ec69bcfe777c5",
+  "displayName": "QBcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "QBcoin",
+    "symbol": "QB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

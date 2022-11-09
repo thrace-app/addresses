@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x776c22c9127f3bd5f918d3aa66dbc960761bd6c2",
+  "displayName": "GameSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "GameSwap",
+    "symbol": "GSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

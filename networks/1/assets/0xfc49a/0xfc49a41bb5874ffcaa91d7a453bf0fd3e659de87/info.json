@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc49a41bb5874ffcaa91d7a453bf0fd3e659de87",
+  "displayName": "The Grand Heist",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Grand Heist",
+    "symbol": "HEIST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

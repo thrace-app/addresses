@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb61eb1ba75aa9c7942b1fef8cc911f4a4e52fb79",
+  "displayName": "Dead Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dead Protocol",
+    "symbol": "Dead",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

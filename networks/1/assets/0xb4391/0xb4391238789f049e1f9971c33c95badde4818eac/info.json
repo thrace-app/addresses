@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4391238789f049e1f9971c33c95badde4818eac",
+  "displayName": "Warren Buffett Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Warren Buffett Token",
+    "symbol": "Warren Buffett",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x565b18598faa1673938a91dfdd6aa7c256fd2cd2",
+  "displayName": "DalaiDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "DalaiDoge",
+    "symbol": "DDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

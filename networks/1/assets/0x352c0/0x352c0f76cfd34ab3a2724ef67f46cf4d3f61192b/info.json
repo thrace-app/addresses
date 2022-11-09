@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x352c0f76cfd34ab3a2724ef67f46cf4d3f61192b",
+  "displayName": "Wrapped Leo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Leo",
+    "symbol": "WLEO",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

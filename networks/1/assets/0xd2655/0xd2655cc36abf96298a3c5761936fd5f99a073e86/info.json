@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2655cc36abf96298a3c5761936fd5f99a073e86",
+  "displayName": "BURNTEST",
+  "type": "TOKEN",
+  "token": {
+    "name": "BURNTEST",
+    "symbol": "BURNTEST",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

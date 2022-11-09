@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf24808161db79e2e4cd5e12e2edf9a79c5e58930",
+  "displayName": "ecco",
+  "type": "TOKEN",
+  "token": {
+    "name": "ecco",
+    "symbol": "eccoinu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

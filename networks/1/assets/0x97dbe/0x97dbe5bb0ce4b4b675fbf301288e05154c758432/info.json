@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97dbe5bb0ce4b4b675fbf301288e05154c758432",
+  "displayName": "GrapeFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "GrapeFinance",
+    "symbol": "GRAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

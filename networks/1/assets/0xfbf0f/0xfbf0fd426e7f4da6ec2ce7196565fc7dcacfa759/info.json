@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfbf0fd426e7f4da6ec2ce7196565fc7dcacfa759",
+  "displayName": "CNDToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CNDToken",
+    "symbol": "CND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

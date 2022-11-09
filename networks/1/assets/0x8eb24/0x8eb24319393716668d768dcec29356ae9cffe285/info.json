@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8eb24319393716668d768dcec29356ae9cffe285",
+  "displayName": "SingularityNET Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SingularityNET Token",
+    "symbol": "AGI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

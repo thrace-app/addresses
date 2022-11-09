@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b619ef72965969895d70ddc6a65eda05f1a6a5f",
+  "displayName": "Xerus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Xerus Token",
+    "symbol": "XERUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

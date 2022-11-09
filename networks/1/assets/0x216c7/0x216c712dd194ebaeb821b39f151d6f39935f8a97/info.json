@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x216c712dd194ebaeb821b39f151d6f39935f8a97",
+  "displayName": "Fdu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fdu Token",
+    "symbol": "FDU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

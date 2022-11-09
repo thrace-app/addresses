@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd1cb16a67937ff8af5d726e2681010ce1e9891a",
+  "displayName": "ThemisToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ThemisToken",
+    "symbol": "MIS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

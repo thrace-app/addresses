@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6090ac5204f09f7ca34ac636f31072b14a40d432",
+  "displayName": "S2d Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "S2d Token",
+    "symbol": "S2d",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

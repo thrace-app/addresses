@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8130d9577db6070d5ae724953b7e36039fdbfeaf",
+  "displayName": "NANODEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "NANODEX",
+    "symbol": "NDEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c4ad42cf9e946d28842c0916221ebb11be7e1f1",
+  "displayName": "The Bitcoin Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Bitcoin Fund",
+    "symbol": "XTF.VVVBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

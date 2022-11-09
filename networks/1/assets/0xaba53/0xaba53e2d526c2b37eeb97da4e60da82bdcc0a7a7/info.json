@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaba53e2d526c2b37eeb97da4e60da82bdcc0a7a7",
+  "displayName": "Grow DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grow DAI",
+    "symbol": "gDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

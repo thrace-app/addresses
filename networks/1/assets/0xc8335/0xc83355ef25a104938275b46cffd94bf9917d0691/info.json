@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc83355ef25a104938275b46cffd94bf9917d0691",
+  "displayName": "Futereum Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Futereum Token",
+    "symbol": "FUTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

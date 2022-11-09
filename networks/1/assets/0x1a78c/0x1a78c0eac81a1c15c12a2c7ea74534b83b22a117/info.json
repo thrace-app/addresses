@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a78c0eac81a1c15c12a2c7ea74534b83b22a117",
+  "displayName": "Zading Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zading Token",
+    "symbol": "Zading",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

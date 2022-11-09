@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c190e75d434ec22d48efce473ca03fb554dfe40",
+  "displayName": "ReceiveCrypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "ReceiveCrypto",
+    "symbol": "RECEIVE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb34ac857c73d772d3d4f7d0966118fff90b3d0c",
+  "displayName": "Pepeth Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pepeth Token",
+    "symbol": "PEPETH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

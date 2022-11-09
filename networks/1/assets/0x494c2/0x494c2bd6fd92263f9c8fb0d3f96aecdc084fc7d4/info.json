@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x494c2bd6fd92263f9c8fb0d3f96aecdc084fc7d4",
+  "displayName": "LAIKA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LAIKA Token",
+    "symbol": "LAIKA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

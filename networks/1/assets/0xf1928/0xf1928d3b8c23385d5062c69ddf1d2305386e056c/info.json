@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1928d3b8c23385d5062c69ddf1d2305386e056c",
+  "displayName": "Stampify Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stampify Token",
+    "symbol": "STAMP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

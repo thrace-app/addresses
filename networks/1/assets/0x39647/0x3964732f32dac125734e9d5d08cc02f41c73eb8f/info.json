@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3964732f32dac125734e9d5d08cc02f41c73eb8f",
+  "displayName": "Green Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Cash",
+    "symbol": "GCASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

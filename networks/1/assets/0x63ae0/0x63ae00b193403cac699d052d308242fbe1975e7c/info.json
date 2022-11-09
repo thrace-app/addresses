@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63ae00b193403cac699d052d308242fbe1975e7c",
+  "displayName": "Semicoln Tech Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Semicoln Tech Token",
+    "symbol": "STT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

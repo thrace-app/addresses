@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb228ba26e2197634fb6238793349359c2512c07",
+  "displayName": "MiniEth",
+  "type": "TOKEN",
+  "token": {
+    "name": "MiniEth",
+    "symbol": "ME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

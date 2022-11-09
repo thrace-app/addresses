@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56c29e62a8c78aa614f15eaf62ba901f10fa8d6b",
+  "displayName": "egoDChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "egoDChain",
+    "symbol": "egoDChain",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

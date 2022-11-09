@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7188c48c63ca3e6adc4510079b62dae0caeef3e7",
+  "displayName": "Safemoon Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safemoon Ethereum",
+    "symbol": "SMETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

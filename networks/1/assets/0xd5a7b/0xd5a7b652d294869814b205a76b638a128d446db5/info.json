@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5a7b652d294869814b205a76b638a128d446db5",
+  "displayName": "FranzToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FranzToken",
+    "symbol": "FETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

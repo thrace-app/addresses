@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8205bd25e62c250db94785a9c535d99b3574357a",
+  "displayName": "ATM",
+  "type": "TOKEN",
+  "token": {
+    "name": "ATM",
+    "symbol": "ATM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

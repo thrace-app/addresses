@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x000014688fd28b29b761cc1ec77b532bc923d400",
+  "displayName": "Metaverse DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Metaverse DAO Token",
+    "symbol": "META",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

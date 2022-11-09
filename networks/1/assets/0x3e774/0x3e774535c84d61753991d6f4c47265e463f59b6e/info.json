@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e774535c84d61753991d6f4c47265e463f59b6e",
+  "displayName": "MarsBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "MarsBank",
+    "symbol": "MARSBANK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

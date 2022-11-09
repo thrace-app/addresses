@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1fad49337e2ddac95c822d7fef1c3921c65ad7c",
+  "displayName": "MATE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MATE Token",
+    "symbol": "MATE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

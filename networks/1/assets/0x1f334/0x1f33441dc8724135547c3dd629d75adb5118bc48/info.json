@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f33441dc8724135547c3dd629d75adb5118bc48",
+  "displayName": "FlokChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlokChain",
+    "symbol": "FLOKCHAIN",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

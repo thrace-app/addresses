@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd370e93c2e30b5ff6f6987733cfc3418661e8e7d",
+  "displayName": "ANC Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ANC Token",
+    "symbol": "ANT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

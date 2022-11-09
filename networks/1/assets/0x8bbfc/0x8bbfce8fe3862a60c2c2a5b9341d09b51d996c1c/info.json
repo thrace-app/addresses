@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8bbfce8fe3862a60c2c2a5b9341d09b51d996c1c",
+  "displayName": "AlphaApeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlphaApeToken",
+    "symbol": "AAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

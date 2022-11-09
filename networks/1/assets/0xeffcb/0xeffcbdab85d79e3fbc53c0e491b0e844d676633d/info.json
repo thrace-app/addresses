@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeffcbdab85d79e3fbc53c0e491b0e844d676633d",
+  "displayName": "FIO Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "FIO Protocol",
+    "symbol": "FIO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

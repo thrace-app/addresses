@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2d28da9f35e02770cbd620a6b97babc45060f85",
+  "displayName": "Lottery Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lottery Token",
+    "symbol": "LT$",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

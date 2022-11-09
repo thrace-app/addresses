@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x892f5a0b08bb7b1eecccc63ef3916ff201c93664",
+  "displayName": "BloodyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BloodyToken",
+    "symbol": "BLOODY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

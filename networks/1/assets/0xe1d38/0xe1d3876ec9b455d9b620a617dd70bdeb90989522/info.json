@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1d3876ec9b455d9b620a617dd70bdeb90989522",
+  "displayName": "OWL Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OWL Token",
+    "symbol": "OWL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

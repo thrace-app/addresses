@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2",
+  "displayName": "DREP",
+  "type": "TOKEN",
+  "token": {
+    "name": "DREP",
+    "symbol": "DREP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

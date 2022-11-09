@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c816399b261050afd98b237114adab956abfa08",
+  "displayName": "Wore Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wore Token",
+    "symbol": "Wore",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

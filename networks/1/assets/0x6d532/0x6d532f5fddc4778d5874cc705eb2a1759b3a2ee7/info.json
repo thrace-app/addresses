@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d532f5fddc4778d5874cc705eb2a1759b3a2ee7",
+  "displayName": "VodkaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "VodkaToken",
+    "symbol": "VODKA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6543d695289eb29838252d55cb20606c3e3d4c9d",
+  "displayName": "M Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "M Coin",
+    "symbol": "MOTEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

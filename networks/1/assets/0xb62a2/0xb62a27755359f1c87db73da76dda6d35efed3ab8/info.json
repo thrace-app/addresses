@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb62a27755359f1c87db73da76dda6d35efed3ab8",
+  "displayName": "ColToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ColToken",
+    "symbol": "Col2v",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

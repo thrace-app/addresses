@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8cfade458fb9f3462153b934778cdd1cf74acb3",
+  "displayName": "Goverance String Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goverance String Token",
+    "symbol": "gSTRING",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e6b87e67a3f2489faf7747e378683c83e5a2381",
+  "displayName": "Panda Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Panda Inu",
+    "symbol": "PANDABEAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

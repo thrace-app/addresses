@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12731a5a4c0f2bb653fbc486dba989245ca426e5",
+  "displayName": "AstraToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AstraToken",
+    "symbol": "ASTRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

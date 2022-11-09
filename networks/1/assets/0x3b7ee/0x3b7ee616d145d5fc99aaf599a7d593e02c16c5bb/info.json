@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b7ee616d145d5fc99aaf599a7d593e02c16c5bb",
+  "displayName": "FrankCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FrankCoin",
+    "symbol": "FRANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

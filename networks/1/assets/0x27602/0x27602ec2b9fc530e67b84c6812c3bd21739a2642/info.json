@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27602ec2b9fc530e67b84c6812c3bd21739a2642",
+  "displayName": "Pen Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pen Token",
+    "symbol": "PEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

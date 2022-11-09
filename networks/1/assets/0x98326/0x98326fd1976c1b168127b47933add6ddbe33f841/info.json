@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x98326fd1976c1b168127b47933add6ddbe33f841",
+  "displayName": "MintStarter",
+  "type": "TOKEN",
+  "token": {
+    "name": "MintStarter",
+    "symbol": "MS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

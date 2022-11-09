@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6ee08fa550e1cb08c0821a4da8cea57b8909d2e",
+  "displayName": "ReflectorCollector",
+  "type": "TOKEN",
+  "token": {
+    "name": "ReflectorCollector",
+    "symbol": "RC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

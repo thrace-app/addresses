@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0d47dd82fb8facb1bc4ba534a836b545ad97d2b",
+  "displayName": "JigsawToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "JigsawToken",
+    "symbol": "JIGSAW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

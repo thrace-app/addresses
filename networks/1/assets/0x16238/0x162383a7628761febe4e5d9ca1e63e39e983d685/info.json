@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x162383a7628761febe4e5d9ca1e63e39e983d685",
+  "displayName": "VietCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "VietCoin",
+    "symbol": "VIET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

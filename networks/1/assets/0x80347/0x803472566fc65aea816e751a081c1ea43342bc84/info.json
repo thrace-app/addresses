@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x803472566fc65aea816e751a081c1ea43342bc84",
+  "displayName": "DefiLend",
+  "type": "TOKEN",
+  "token": {
+    "name": "DefiLend",
+    "symbol": "DLend",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

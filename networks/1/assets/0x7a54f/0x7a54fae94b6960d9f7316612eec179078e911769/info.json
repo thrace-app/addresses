@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a54fae94b6960d9f7316612eec179078e911769",
+  "displayName": "MoviePass",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoviePass",
+    "symbol": "MOVIE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

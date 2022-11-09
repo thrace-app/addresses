@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeef7eaa73cab2f07f8ecee246f479a76139e236d",
+  "displayName": "MyloToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyloToken",
+    "symbol": "MYLO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

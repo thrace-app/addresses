@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x366d949206033e50c7b927f1baf5efb10fdeeeda",
+  "displayName": "N-player Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "N-player Coin",
+    "symbol": "N-player",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5fdd138af6ae54643675bbab3b63c848df028eac",
+  "displayName": "Baby Pika Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Pika Coin",
+    "symbol": "BABYPIKA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

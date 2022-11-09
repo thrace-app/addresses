@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc033651f1193a49977d14678673fe5a01756aea",
+  "displayName": "Bagel Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bagel Finance",
+    "symbol": "BAGEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

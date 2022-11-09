@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4174143f0d6b1ebc0e25e1acd975c8f9fd06539",
+  "displayName": "Wrapped aRIA Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped aRIA Currency",
+    "symbol": "WRIA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

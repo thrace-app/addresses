@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79a5e42174ba09da12dcaf39c2a262f08d985716",
+  "displayName": "One Peg Tracker",
+  "type": "TOKEN",
+  "token": {
+    "name": "One Peg Tracker",
+    "symbol": "PEGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

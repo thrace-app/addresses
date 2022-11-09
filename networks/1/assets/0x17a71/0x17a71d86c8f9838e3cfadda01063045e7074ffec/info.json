@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17a71d86c8f9838e3cfadda01063045e7074ffec",
+  "displayName": "Ethereumpayme",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereumpayme",
+    "symbol": "Epayme",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

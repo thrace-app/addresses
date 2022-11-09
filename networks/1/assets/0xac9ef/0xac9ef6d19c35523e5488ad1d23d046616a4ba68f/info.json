@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac9ef6d19c35523e5488ad1d23d046616a4ba68f",
+  "displayName": "FTX DOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "FTX DOGE",
+    "symbol": "FTXD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

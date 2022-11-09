@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf591e7350438e3841cc9714e4cbfa0956592a8e3",
+  "displayName": "Burrito Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burrito Finance",
+    "symbol": "BURRITO",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

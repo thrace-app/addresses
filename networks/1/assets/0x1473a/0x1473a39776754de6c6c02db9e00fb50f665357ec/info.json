@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1473a39776754de6c6c02db9e00fb50f665357ec",
+  "displayName": "Wrapped POKT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped POKT Token",
+    "symbol": "wPOKT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

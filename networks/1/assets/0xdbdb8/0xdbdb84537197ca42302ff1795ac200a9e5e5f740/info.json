@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbdb84537197ca42302ff1795ac200a9e5e5f740",
+  "displayName": "FIFAToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FIFAToken",
+    "symbol": "FiFA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

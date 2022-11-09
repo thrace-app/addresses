@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b784841cd353589d1d3b359db9c4d238d2be8d3",
+  "displayName": "Bored Elon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bored Elon",
+    "symbol": "FUNGIBLE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

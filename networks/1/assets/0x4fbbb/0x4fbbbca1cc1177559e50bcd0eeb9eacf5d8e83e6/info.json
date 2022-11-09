@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4fbbbca1cc1177559e50bcd0eeb9eacf5d8e83e6",
+  "displayName": "元宝",
+  "type": "TOKEN",
+  "token": {
+    "name": "元宝",
+    "symbol": "yuanbao",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

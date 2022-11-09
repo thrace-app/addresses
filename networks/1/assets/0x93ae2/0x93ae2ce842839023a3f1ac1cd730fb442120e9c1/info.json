@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93ae2ce842839023a3f1ac1cd730fb442120e9c1",
+  "displayName": "Bowzley Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bowzley Token",
+    "symbol": "BOWZLEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

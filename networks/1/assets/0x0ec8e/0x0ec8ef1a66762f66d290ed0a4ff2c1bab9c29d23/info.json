@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ec8ef1a66762f66d290ed0a4ff2c1bab9c29d23",
+  "displayName": "Fund Aggregator Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fund Aggregator Token",
+    "symbol": "FAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

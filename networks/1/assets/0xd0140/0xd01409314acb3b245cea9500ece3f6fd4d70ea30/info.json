@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd01409314acb3b245cea9500ece3f6fd4d70ea30",
+  "displayName": "LTO Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LTO Network Token",
+    "symbol": "LTO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

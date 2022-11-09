@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15340e3dea2595b4cd124d473a45bb9707cdc046",
+  "displayName": "Poocoin Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Poocoin Protocol",
+    "symbol": "$POP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

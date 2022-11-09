@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x674438000dd81814215918231cb09c3ac3274cc3",
+  "displayName": "SHRUG Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SHRUG Token",
+    "symbol": "SHRUG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

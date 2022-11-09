@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7333cbf5b0b843b4129e234f791b0058347f671a",
+  "displayName": "Digies Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digies Coin",
+    "symbol": "DIGS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

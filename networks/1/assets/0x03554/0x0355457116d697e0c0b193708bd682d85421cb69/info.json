@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0355457116d697e0c0b193708bd682d85421cb69",
+  "displayName": "HOPA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HOPA Token",
+    "symbol": "HOPA",
+    "decimals": 16,
+    "type": "ERC20"
+  }
+}

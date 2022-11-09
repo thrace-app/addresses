@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37bf61a93d88492dfb202ec63c251668f357f439",
+  "displayName": "Wrapped Hacked BNB",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Hacked BNB",
+    "symbol": "whBNB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

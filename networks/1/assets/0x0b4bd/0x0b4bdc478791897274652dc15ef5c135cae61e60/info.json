@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b4bdc478791897274652dc15ef5c135cae61e60",
+  "displayName": "DAEX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAEX Token",
+    "symbol": "DAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77558c64d4ae486354c7e9137b00fba419eec3e6",
+  "displayName": "MooCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MooCoin",
+    "symbol": "MOO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

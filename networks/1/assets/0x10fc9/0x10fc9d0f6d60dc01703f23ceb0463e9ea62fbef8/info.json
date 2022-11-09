@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10fc9d0f6d60dc01703f23ceb0463e9ea62fbef8",
+  "displayName": "LUcky Monkey Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LUcky Monkey Token",
+    "symbol": "LMKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd14844160e23b2869f5088f797a489b342a05f93",
+  "displayName": "DogChain Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogChain Swap",
+    "symbol": "DSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

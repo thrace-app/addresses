@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f9bc4dd1682a3d753a49f9022ba37bb36c389c2",
+  "displayName": "Revolut",
+  "type": "TOKEN",
+  "token": {
+    "name": "Revolut",
+    "symbol": "RVT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

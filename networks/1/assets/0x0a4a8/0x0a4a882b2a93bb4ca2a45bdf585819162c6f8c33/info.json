@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a4a882b2a93bb4ca2a45bdf585819162c6f8c33",
+  "displayName": "Watt Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Watt Token",
+    "symbol": "WATT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

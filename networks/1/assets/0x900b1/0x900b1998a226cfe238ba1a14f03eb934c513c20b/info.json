@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x900b1998a226cfe238ba1a14f03eb934c513c20b",
+  "displayName": "Decentribe governance token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Decentribe governance token",
+    "symbol": "DECENT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

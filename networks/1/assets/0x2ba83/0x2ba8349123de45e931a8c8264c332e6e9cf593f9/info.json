@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ba8349123de45e931a8c8264c332e6e9cf593f9",
+  "displayName": "Blockchain Monster Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blockchain Monster Coin",
+    "symbol": "BCMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf07b068faa50db53b0c3bd425a15f7ed4f6484d9",
+  "displayName": "eCharity",
+  "type": "TOKEN",
+  "token": {
+    "name": "eCharity",
+    "symbol": "ECHAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

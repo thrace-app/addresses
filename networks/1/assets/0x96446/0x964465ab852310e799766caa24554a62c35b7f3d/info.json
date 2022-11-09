@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x964465ab852310e799766caa24554a62c35b7f3d",
+  "displayName": "Fun zone",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fun zone",
+    "symbol": "FNZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

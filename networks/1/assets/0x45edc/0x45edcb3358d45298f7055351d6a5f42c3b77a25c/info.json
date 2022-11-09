@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45edcb3358d45298f7055351d6a5f42c3b77a25c",
+  "displayName": "FamiShiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "FamiShiba",
+    "symbol": "FHIBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x671f56e2534458067a02944288a08ff303bd8d38",
+  "displayName": "Lotti Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lotti Token",
+    "symbol": "Lotti",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

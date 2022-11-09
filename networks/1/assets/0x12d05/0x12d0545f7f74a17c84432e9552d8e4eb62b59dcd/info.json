@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12d0545f7f74a17c84432e9552d8e4eb62b59dcd",
+  "displayName": "ReillyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ReillyCoin",
+    "symbol": "REILLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

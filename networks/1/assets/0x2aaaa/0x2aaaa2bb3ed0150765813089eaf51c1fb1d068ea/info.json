@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2aaaa2bb3ed0150765813089eaf51c1fb1d068ea",
+  "displayName": "Multi10X",
+  "type": "TOKEN",
+  "token": {
+    "name": "Multi10X",
+    "symbol": "MULTI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x018a6106cb540af1ae6da985361afd5e176d1c00",
+  "displayName": "Wiz Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wiz Coin",
+    "symbol": "WIZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

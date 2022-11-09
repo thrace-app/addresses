@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e91ae4ff590038bfdace5b7c656bb9667986b4c",
+  "displayName": "A better life",
+  "type": "TOKEN",
+  "token": {
+    "name": "A better life",
+    "symbol": "LIFE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

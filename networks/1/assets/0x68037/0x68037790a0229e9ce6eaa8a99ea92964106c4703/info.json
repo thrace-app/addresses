@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68037790a0229e9ce6eaa8a99ea92964106c4703",
+  "displayName": "PAR Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PAR Stablecoin",
+    "symbol": "PAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

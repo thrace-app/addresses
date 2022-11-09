@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafdb121f4583ae0493a1cdd1baed4dec1ed35559",
+  "displayName": "LiveBetCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LiveBetCoin",
+    "symbol": "LBET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

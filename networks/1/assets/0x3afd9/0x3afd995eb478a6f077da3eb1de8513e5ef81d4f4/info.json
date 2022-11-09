@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3afd995eb478a6f077da3eb1de8513e5ef81d4f4",
+  "displayName": "MONEY",
+  "type": "TOKEN",
+  "token": {
+    "name": "MONEY",
+    "symbol": "BRRR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

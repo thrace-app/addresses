@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf3a32b6e6c3aaff2385305fe648d597118bdc94a",
+  "displayName": "MUDI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MUDI Token",
+    "symbol": "MUDI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

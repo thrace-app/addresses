@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8901ceac9dd796a98daa32e2fc55dc68fecda01a",
+  "displayName": "Burnt Lobster",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burnt Lobster",
+    "symbol": "🔥🦞",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

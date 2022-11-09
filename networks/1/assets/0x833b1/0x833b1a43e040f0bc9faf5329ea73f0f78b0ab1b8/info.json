@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x833b1a43e040f0bc9faf5329ea73f0f78b0ab1b8",
+  "displayName": "Ballon Token Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ballon Token Swap",
+    "symbol": "BTSW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

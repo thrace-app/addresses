@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x549789008d8bbdc212adfe72927cc633933b48cb",
+  "displayName": "Minecraft Game Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Minecraft Game Token",
+    "symbol": "MITK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

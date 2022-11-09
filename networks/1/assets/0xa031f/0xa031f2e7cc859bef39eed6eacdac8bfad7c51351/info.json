@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa031f2e7cc859bef39eed6eacdac8bfad7c51351",
+  "displayName": "Mookie Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mookie Token",
+    "symbol": "Mookie",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

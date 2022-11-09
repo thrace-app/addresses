@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa357c45548738f912ba9695b51dcafa620309102",
+  "displayName": "Sad Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sad Doge",
+    "symbol": "SOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

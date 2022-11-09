@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4510bb207c1c877404d8331b629b4144e557a4a",
+  "displayName": "SatoshiDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "SatoshiDAO",
+    "symbol": "SATO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

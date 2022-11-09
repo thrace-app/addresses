@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x097924e1fee8dff338fbe4972759440e9d5d77cc",
+  "displayName": "Stabilis Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stabilis Token",
+    "symbol": "STBLS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

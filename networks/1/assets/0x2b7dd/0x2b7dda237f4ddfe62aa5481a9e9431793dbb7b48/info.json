@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b7dda237f4ddfe62aa5481a9e9431793dbb7b48",
+  "displayName": "White Wall Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "White Wall Token",
+    "symbol": "WWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

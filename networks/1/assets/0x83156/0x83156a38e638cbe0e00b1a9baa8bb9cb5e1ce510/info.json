@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83156a38e638cbe0e00b1a9baa8bb9cb5e1ce510",
+  "displayName": "WoFToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WoFToken",
+    "symbol": "WOF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbc0c2d56763c4561ad05a7766d121248197fb8a",
+  "displayName": "t.me/anticovidtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "t.me/anticovidtoken",
+    "symbol": "ANTICOVID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

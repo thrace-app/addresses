@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5242c24732d8bec2f35c28c23782b77db6111279",
+  "displayName": "MetaCapital Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaCapital Token",
+    "symbol": "MCT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

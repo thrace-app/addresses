@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f87657cb831d58305b7b8bac279024a4dc68f76",
+  "displayName": "Mohatu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mohatu Token",
+    "symbol": "Mohatu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
+  "displayName": "0xMonero",
+  "type": "TOKEN",
+  "token": {
+    "name": "0xMonero",
+    "symbol": "0xMR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

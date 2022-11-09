@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ccb0a0ae970366cd452b33c46374429ae180395",
+  "displayName": "Lotin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lotin Token",
+    "symbol": "LOTIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

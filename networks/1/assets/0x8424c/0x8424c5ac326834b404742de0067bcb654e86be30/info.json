@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8424c5ac326834b404742de0067bcb654e86be30",
+  "displayName": "Sad Cat Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sad Cat Token",
+    "symbol": "SCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18b4e2cfb4f4ddbbbc41f0c884b0990b741369ec",
+  "displayName": "DinosaurToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DinosaurToken",
+    "symbol": "DNOSUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14d895df162697f70ae4de369ad771ce58738f15",
+  "displayName": "SEC Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "SEC Shiba",
+    "symbol": "SECSH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

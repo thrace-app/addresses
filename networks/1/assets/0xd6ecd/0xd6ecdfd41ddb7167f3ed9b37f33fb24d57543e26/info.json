@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6ecdfd41ddb7167f3ed9b37f33fb24d57543e26",
+  "displayName": "Congruent CRV Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Congruent CRV Token",
+    "symbol": "cCRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c4fc26b79627d8f7bc999ba0582c0514eb4519e",
+  "displayName": "CumToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CumToken",
+    "symbol": "CUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

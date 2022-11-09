@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f29be84a41fdaa0c7aea4102ffa062430d24070",
+  "displayName": "Dalmantian Dog Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dalmantian Dog Token",
+    "symbol": "DALDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

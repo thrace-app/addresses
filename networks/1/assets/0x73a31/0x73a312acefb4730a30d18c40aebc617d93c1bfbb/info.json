@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73a312acefb4730a30d18c40aebc617d93c1bfbb",
+  "displayName": "Avalanche Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Avalanche Token",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

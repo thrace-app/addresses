@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5209822f6392584cb45223efb90fbda33f5e4820",
+  "displayName": "Staked Wrapped Bear Bucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Staked Wrapped Bear Bucks",
+    "symbol": "xBEAR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

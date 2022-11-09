@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf1a0e17350e2096bfc1b1cfcea2bd97cd98948b",
+  "displayName": "CryptoLocally Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoLocally Token",
+    "symbol": "GIV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

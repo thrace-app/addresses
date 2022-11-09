@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f1ccad0c93e5b3e9bc0617a97e11d2bc22d0010",
+  "displayName": "BNB Farming",
+  "type": "TOKEN",
+  "token": {
+    "name": "BNB Farming",
+    "symbol": "BNBF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa4bb6ca9bb76a305cb2271905c3bcc101df2a987",
+  "displayName": "Boss Dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boss Dog",
+    "symbol": "BossDog",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

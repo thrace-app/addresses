@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14384c9ad6fcae011d06907c4b318bf9c2613c0e",
+  "displayName": "Great Old Ones",
+  "type": "TOKEN",
+  "token": {
+    "name": "Great Old Ones",
+    "symbol": "$GOO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

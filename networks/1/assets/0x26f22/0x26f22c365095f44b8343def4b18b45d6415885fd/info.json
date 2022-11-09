@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26f22c365095f44b8343def4b18b45d6415885fd",
+  "displayName": "Solar Apes",
+  "type": "TOKEN",
+  "token": {
+    "name": "Solar Apes",
+    "symbol": "$SAPES",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

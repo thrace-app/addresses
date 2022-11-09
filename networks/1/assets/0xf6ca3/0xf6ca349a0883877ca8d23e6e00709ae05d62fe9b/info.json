@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6ca349a0883877ca8d23e6e00709ae05d62fe9b",
+  "displayName": "2-of-2",
+  "type": "TOKEN",
+  "token": {
+    "name": "2-of-2",
+    "symbol": "2OF2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56c0eb65585257c0e69736568b0b350cc3cb59f2",
+  "displayName": "Fake News Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fake News Inu",
+    "symbol": "FAKE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe4dc33bf54b07b54ffe3447a9b752fa69c2f6d1",
+  "displayName": "Lunareum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lunareum",
+    "symbol": "LNR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfeed1a53bd53ffe453d265fc6e70dd85f8e993b6",
+  "displayName": "H2O Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "H2O Token",
+    "symbol": "H2O",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

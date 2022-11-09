@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c7c5b92893a522952eb4c939aa24b65ff910c48",
+  "displayName": "Ethereum-bridged PORT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum-bridged PORT Token",
+    "symbol": "ePORT",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

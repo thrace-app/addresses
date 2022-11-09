@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e101c3a19e38a02b3c2fcf0d2be4ce62c846488",
+  "displayName": "EtherFree",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherFree",
+    "symbol": "ETF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

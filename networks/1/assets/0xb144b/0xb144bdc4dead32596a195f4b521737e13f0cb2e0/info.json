@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb144bdc4dead32596a195f4b521737e13f0cb2e0",
+  "displayName": "The Great River",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Great River",
+    "symbol": "River",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

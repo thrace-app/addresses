@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda77fbd7ddce40c86f93a2cebb97ea59d4669c0c",
+  "displayName": "The Last Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Last Protocol",
+    "symbol": "LAST",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

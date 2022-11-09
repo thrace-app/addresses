@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f29b4ddddd21ebb2ce0ec50081bfe56b682be3b",
+  "displayName": "TradingView Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TradingView Coin",
+    "symbol": "TradingView",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

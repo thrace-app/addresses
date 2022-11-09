@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x394ecf8dccff94853bc55988be2fc24c0fe797b4",
+  "displayName": "Octillion Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Octillion Token",
+    "symbol": "OT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

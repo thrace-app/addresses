@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4bedb563fc5bf011f89877e8b9c9748907f24f38",
+  "displayName": "AI platform token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AI platform token",
+    "symbol": "AIPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

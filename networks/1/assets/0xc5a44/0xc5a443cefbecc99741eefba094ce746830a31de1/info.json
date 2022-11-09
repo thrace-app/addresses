@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc5a443cefbecc99741eefba094ce746830a31de1",
+  "displayName": "Metor Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Metor Network Token",
+    "symbol": "MINT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

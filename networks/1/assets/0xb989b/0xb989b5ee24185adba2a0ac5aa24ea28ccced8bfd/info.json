@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb989b5ee24185adba2a0ac5aa24ea28ccced8bfd",
+  "displayName": "DevoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DevoToken",
+    "symbol": "DEVO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

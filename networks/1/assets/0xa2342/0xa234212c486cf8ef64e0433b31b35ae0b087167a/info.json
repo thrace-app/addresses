@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa234212c486cf8ef64e0433b31b35ae0b087167a",
+  "displayName": "SoFer Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "SoFer Protocol",
+    "symbol": "SFP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

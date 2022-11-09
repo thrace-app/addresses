@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf34b1db61aca1a371fe97bad2606c9f534fb9d7d",
+  "displayName": "Arbismart Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Arbismart Token",
+    "symbol": "RBIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

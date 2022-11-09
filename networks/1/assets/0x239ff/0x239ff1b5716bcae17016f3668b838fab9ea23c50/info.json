@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x239ff1b5716bcae17016f3668b838fab9ea23c50",
+  "displayName": "DigitalViews Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DigitalViews Token",
+    "symbol": "DGV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc436053a2bef289a530520a490de839978ffd427",
+  "displayName": "DigitalCash",
+  "type": "TOKEN",
+  "token": {
+    "name": "DigitalCash",
+    "symbol": "DigitalC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

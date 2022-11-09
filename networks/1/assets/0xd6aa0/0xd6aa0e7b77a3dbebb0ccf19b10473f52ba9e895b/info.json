@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6aa0e7b77a3dbebb0ccf19b10473f52ba9e895b",
+  "displayName": "NFT20 Waifus",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT20 Waifus",
+    "symbol": "Waifus20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

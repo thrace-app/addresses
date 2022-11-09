@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79acfec5043a009aee96d72a22fb353d43965219",
+  "displayName": "Verso Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Verso Token",
+    "symbol": "VSO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51fc1e083f2bc035f08c15feb5638875884269fe",
+  "displayName": "Secret Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Secret Coin",
+    "symbol": "SHH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

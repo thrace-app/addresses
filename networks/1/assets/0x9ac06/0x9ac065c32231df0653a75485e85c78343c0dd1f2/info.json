@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ac065c32231df0653a75485e85c78343c0dd1f2",
+  "displayName": "Angry Birds",
+  "type": "TOKEN",
+  "token": {
+    "name": "Angry Birds",
+    "symbol": "AngryBirds",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d22c4c00eb46b7382e9f6b94e52205f57865394",
+  "displayName": "Orela Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Orela Token",
+    "symbol": "Orela",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

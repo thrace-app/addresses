@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67c53bfdff314d2ceb3efc8e503d7d9c3c86df13",
+  "displayName": "Messi Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Messi Coin",
+    "symbol": "MESSI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca29b121d9a99bd69cb41e2c732587daab25b21d",
+  "displayName": "Bio Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bio Token",
+    "symbol": "BIO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

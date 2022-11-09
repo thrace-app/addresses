@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c9a72fb706084a58653bd8bd74f8aee0316ff5a",
+  "displayName": "Mele Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mele Coin",
+    "symbol": "MLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

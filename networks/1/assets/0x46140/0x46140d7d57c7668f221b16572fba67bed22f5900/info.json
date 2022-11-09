@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46140d7d57c7668f221b16572fba67bed22f5900",
+  "displayName": "5050Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "5050Token",
+    "symbol": "5050T",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x288da4a625ad82b7449a8e20410e8899fdf3ee96",
+  "displayName": "YFV Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YFV Token",
+    "symbol": "YFV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc700b0d1c5e5f139cc23ee4710c2ac36d2411fd6",
+  "displayName": "Wada Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wada Token",
+    "symbol": "WADA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cb97edd97037398cb8db34b10599e00b77434c3",
+  "displayName": "NHL TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "NHL TOKEN",
+    "symbol": "NHL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

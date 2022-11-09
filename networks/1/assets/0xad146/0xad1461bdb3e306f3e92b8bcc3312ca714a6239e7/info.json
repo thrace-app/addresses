@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad1461bdb3e306f3e92b8bcc3312ca714a6239e7",
+  "displayName": "Bank Of Kakuan",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank Of Kakuan",
+    "symbol": "BoK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

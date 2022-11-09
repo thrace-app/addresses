@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8f21041c0836f7f30a68122183fcf8b46b04b5d",
+  "displayName": "Astro Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Astro Coin",
+    "symbol": "ASTRO",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

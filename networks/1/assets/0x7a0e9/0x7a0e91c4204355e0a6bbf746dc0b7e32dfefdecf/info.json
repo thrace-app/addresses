@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a0e91c4204355e0a6bbf746dc0b7e32dfefdecf",
+  "displayName": "EURO TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "EURO TOKEN",
+    "symbol": "SREUR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab9d854dbe98db742fdc1b2ace98ba6536c99320",
+  "displayName": "SNM token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SNM token",
+    "symbol": "SNM",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e43d25ead96b1058f671f6690ea705ba2c7e5b9",
+  "displayName": "Terra Classic",
+  "type": "TOKEN",
+  "token": {
+    "name": "Terra Classic",
+    "symbol": "LUNC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

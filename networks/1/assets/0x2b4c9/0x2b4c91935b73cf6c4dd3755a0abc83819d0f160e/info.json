@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b4c91935b73cf6c4dd3755a0abc83819d0f160e",
+  "displayName": "Balancer Pool Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Balancer Pool Token",
+    "symbol": "BPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

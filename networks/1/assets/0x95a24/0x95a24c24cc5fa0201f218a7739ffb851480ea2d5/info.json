@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95a24c24cc5fa0201f218a7739ffb851480ea2d5",
+  "displayName": "Xeon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Xeon Token",
+    "symbol": "XEON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc06714025ec6e625caeab5182fc4bb647d48df97",
+  "displayName": "C2DR Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "C2DR Token",
+    "symbol": "C2DR",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa8e42112ed034284c9f0bbdd97faac0868451ce",
+  "displayName": "DollMasters",
+  "type": "TOKEN",
+  "token": {
+    "name": "DollMasters",
+    "symbol": "DOLL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

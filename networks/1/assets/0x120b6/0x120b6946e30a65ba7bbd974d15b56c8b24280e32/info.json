@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x120b6946e30a65ba7bbd974d15b56c8b24280e32",
+  "displayName": "NTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "NTOKEN",
+    "symbol": "NTOKEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

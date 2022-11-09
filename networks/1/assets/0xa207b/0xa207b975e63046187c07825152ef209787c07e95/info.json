@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa207b975e63046187c07825152ef209787c07e95",
+  "displayName": "Sadaharu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sadaharu Token",
+    "symbol": "SADAHARU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

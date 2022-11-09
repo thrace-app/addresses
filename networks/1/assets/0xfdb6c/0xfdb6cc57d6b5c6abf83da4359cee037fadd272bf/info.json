@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfdb6cc57d6b5c6abf83da4359cee037fadd272bf",
+  "displayName": "TRETHv1",
+  "type": "TOKEN",
+  "token": {
+    "name": "TRETHv1",
+    "symbol": "TRETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

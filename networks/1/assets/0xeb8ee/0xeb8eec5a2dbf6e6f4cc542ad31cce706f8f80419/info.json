@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb8eec5a2dbf6e6f4cc542ad31cce706f8f80419",
+  "displayName": "MetaMEMO",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaMEMO",
+    "symbol": "MEMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0534f82c213a34f82086a245ad1d20fddbf76cd9",
+  "displayName": "Mega Whale",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mega Whale",
+    "symbol": "WHALING",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

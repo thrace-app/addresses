@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacffff8746269f4c7c8e9163cf32d2edbb7dc7b3",
+  "displayName": "cryptomall token",
+  "type": "TOKEN",
+  "token": {
+    "name": "cryptomall token",
+    "symbol": "XMALL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

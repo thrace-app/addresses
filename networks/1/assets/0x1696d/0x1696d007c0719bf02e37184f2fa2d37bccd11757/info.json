@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1696d007c0719bf02e37184f2fa2d37bccd11757",
+  "displayName": "Sunder dToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sunder dToken",
+    "symbol": "dSunder",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

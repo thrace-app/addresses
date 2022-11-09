@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
+  "displayName": "ELF Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ELF Token",
+    "symbol": "ELF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

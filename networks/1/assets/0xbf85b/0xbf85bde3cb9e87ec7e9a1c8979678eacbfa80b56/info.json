@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf85bde3cb9e87ec7e9a1c8979678eacbfa80b56",
+  "displayName": "matcha.xyz",
+  "type": "TOKEN",
+  "token": {
+    "name": "matcha.xyz",
+    "symbol": "MATCHA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

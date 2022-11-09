@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51f0417f1f8286c62d6702f7b21f75091739f99c",
+  "displayName": "Kumo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kumo",
+    "symbol": "KUMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

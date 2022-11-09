@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3bdb42650fac5f35bd2b5c1133b92e07d310696c",
+  "displayName": "Digital Moon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Moon",
+    "symbol": "DIGIMOON",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff8bd5c9f34cdafe9656bca581c54a7991511ade",
+  "displayName": "Oink",
+  "type": "TOKEN",
+  "token": {
+    "name": "Oink",
+    "symbol": "Bacon",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

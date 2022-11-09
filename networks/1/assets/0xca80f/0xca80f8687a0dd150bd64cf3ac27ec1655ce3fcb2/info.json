@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca80f8687a0dd150bd64cf3ac27ec1655ce3fcb2",
+  "displayName": "GigaSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "GigaSwap",
+    "symbol": "GIGA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

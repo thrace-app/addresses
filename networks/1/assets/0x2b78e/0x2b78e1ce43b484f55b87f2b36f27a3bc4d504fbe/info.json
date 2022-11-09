@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b78e1ce43b484f55b87f2b36f27a3bc4d504fbe",
+  "displayName": "Derp Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Derp Coin",
+    "symbol": "DERP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbcd14f2c0bcf0b8312fccc4f3484e07830e9f622",
+  "displayName": "FuckEtherscan",
+  "type": "TOKEN",
+  "token": {
+    "name": "FuckEtherscan",
+    "symbol": "FuckEther",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

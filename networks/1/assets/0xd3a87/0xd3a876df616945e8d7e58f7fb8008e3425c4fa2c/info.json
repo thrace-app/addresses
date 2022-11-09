@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3a876df616945e8d7e58f7fb8008e3425c4fa2c",
+  "displayName": "Strike dApp",
+  "type": "TOKEN",
+  "token": {
+    "name": "Strike dApp",
+    "symbol": "STRIKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

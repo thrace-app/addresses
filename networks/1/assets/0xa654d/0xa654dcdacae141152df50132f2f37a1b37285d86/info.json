@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa654dcdacae141152df50132f2f37a1b37285d86",
+  "displayName": "FarmVillageToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FarmVillageToken",
+    "symbol": "FVGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

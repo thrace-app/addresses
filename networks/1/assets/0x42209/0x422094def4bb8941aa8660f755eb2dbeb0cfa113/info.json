@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x422094def4bb8941aa8660f755eb2dbeb0cfa113",
+  "displayName": "Inf Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inf Token",
+    "symbol": "INF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

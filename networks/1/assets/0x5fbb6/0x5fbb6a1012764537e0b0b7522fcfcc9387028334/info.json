@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5fbb6a1012764537e0b0b7522fcfcc9387028334",
+  "displayName": "ElonStar Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ElonStar Token",
+    "symbol": "ELONSTAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

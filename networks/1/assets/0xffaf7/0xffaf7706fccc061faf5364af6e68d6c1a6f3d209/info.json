@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xffaf7706fccc061faf5364af6e68d6c1a6f3d209",
+  "displayName": "Toy Box Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Toy Box Token",
+    "symbol": "TBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

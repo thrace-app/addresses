@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf87a845da9ead6f37367f2feb935c34890d35b6f",
+  "displayName": "DexKit",
+  "type": "TOKEN",
+  "token": {
+    "name": "DexKit",
+    "symbol": "KIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

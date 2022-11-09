@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ad1d89e26f001f994708f3ef526495de0588448",
+  "displayName": "EtherStream",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherStream",
+    "symbol": "EST",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

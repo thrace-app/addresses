@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7edaffc3c4f657932a2cca576d0cb6b7c13b85d",
+  "displayName": "Unicorn Meme Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unicorn Meme Token",
+    "symbol": "UNYK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

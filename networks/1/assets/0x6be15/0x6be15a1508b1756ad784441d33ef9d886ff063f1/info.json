@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6be15a1508b1756ad784441d33ef9d886ff063f1",
+  "displayName": "Austis token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Austis token",
+    "symbol": "AST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

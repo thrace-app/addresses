@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24d95caa002127cb7e835755167ada3ec8d4beda",
+  "displayName": "ICP",
+  "type": "TOKEN",
+  "token": {
+    "name": "ICP",
+    "symbol": "Icoin pool lunc",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

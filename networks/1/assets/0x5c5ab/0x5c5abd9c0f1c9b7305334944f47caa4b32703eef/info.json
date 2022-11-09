@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c5abd9c0f1c9b7305334944f47caa4b32703eef",
+  "displayName": "Torken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Torken",
+    "symbol": "TKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

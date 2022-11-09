@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf32a66b02949a909e592cf352237247306d34cc4",
+  "displayName": "Meow Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meow Inu",
+    "symbol": "MEOW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

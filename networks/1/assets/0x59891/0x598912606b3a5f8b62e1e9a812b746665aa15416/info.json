@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x598912606b3a5f8b62e1e9a812b746665aa15416",
+  "displayName": "Capsule Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Capsule Coin",
+    "symbol": "CAPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a23d942837c1edaf5bdea95b6f7e4334ad07f31",
+  "displayName": "ATOL Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ATOL Token",
+    "symbol": "ATOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad9d57d1b54823534ae61aa72eda568f922b8763",
+  "displayName": "Arborcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Arborcoin",
+    "symbol": "ARBOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

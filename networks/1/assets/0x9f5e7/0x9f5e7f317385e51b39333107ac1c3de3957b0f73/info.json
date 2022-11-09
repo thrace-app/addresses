@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f5e7f317385e51b39333107ac1c3de3957b0f73",
+  "displayName": "EthDrain",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthDrain",
+    "symbol": "$EDrain",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

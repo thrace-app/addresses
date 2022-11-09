@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dc4c088e4bc1420fdae733ff449fa0320dc63a6",
+  "displayName": "Bogdanoff Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bogdanoff Token",
+    "symbol": "BOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

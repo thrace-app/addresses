@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1f1f47061a7be15c69f378cb3f69423bd58f2f8",
+  "displayName": "Flashstake",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flashstake",
+    "symbol": "FLASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

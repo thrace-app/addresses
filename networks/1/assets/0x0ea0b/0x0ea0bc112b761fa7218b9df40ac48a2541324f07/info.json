@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ea0bc112b761fa7218b9df40ac48a2541324f07",
+  "displayName": "Bitcoin: Confirmed",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin: Confirmed",
+    "symbol": "BTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

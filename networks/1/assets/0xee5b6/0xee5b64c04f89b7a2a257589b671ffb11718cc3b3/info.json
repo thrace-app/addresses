@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee5b64c04f89b7a2a257589b671ffb11718cc3b3",
+  "displayName": "ATCC TEST 1",
+  "type": "TOKEN",
+  "token": {
+    "name": "ATCC TEST 1",
+    "symbol": "ATCCT1",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

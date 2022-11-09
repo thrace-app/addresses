@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d51efc0b6ace8a6fc51815cfc549d6c37462922",
+  "displayName": "Ethereum Light",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Light",
+    "symbol": "eLight",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

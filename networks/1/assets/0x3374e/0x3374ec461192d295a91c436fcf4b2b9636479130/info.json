@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3374ec461192d295a91c436fcf4b2b9636479130",
+  "displayName": "Moonopoly",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moonopoly",
+    "symbol": "MOON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

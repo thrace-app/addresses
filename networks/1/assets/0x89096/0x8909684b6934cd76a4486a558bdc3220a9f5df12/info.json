@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8909684b6934cd76a4486a558bdc3220a9f5df12",
+  "displayName": "Rothschild Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rothschild Token",
+    "symbol": "RCT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

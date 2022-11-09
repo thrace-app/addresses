@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea3d57bc408e3bd44c40b290c893a41e6f941448",
+  "displayName": "Candy Corgi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Candy Corgi",
+    "symbol": "CCORGI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

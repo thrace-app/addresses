@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01b2233d9094f01c6d961e710383aadabdb5fa0b",
+  "displayName": "NukeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NukeCoin",
+    "symbol": "NUK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

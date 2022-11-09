@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a59058a871dc527003b3d0a668271dc0c54dd08",
+  "displayName": "DeFiJam",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiJam",
+    "symbol": "JAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

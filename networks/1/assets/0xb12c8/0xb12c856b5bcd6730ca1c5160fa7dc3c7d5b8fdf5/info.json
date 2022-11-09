@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb12c856b5bcd6730ca1c5160fa7dc3c7d5b8fdf5",
+  "displayName": "Lambo Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lambo Doge",
+    "symbol": "LAMBO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

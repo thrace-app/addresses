@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f93bf39328e38a8813839200b3866c51cd67bcb",
+  "displayName": "WIIcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WIIcoin",
+    "symbol": "WII",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

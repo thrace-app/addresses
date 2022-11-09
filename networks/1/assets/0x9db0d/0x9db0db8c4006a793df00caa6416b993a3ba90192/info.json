@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9db0db8c4006a793df00caa6416b993a3ba90192",
+  "displayName": "Cool Ape Club",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cool Ape Club",
+    "symbol": "CAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

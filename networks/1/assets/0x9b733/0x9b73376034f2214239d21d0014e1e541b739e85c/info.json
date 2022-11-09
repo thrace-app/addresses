@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b73376034f2214239d21d0014e1e541b739e85c",
+  "displayName": "Dark Sky",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dark Sky",
+    "symbol": "FEAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

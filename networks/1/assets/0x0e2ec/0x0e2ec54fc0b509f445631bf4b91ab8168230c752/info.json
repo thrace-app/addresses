@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e2ec54fc0b509f445631bf4b91ab8168230c752",
+  "displayName": "LINKUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "LINKUSD",
+    "symbol": "LINKUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

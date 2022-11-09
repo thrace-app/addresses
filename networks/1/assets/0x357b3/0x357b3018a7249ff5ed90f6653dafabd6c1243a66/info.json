@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x357b3018a7249ff5ed90f6653dafabd6c1243a66",
+  "displayName": "dFund",
+  "type": "TOKEN",
+  "token": {
+    "name": "dFund",
+    "symbol": "DFND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

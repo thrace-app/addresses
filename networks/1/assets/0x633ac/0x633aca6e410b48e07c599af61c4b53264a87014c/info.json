@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x633aca6e410b48e07c599af61c4b53264a87014c",
+  "displayName": "Balance Of Trade",
+  "type": "TOKEN",
+  "token": {
+    "name": "Balance Of Trade",
+    "symbol": "BOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

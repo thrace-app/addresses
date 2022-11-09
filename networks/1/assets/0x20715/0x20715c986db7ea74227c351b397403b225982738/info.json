@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20715c986db7ea74227c351b397403b225982738",
+  "displayName": "Liquidity Dao",
+  "type": "TOKEN",
+  "token": {
+    "name": "Liquidity Dao",
+    "symbol": "LIQUIDITY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

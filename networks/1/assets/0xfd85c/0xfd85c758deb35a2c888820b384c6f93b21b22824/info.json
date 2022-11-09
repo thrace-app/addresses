@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd85c758deb35a2c888820b384c6f93b21b22824",
+  "displayName": "JTa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JTa Token",
+    "symbol": "JTa",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7857bf4486e7d4b91ef4be1d0733dbfd1d5e81df",
+  "displayName": "Tether USDT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tether USDT",
+    "symbol": "USDT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

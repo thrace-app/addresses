@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56f7c040cedefe5069dac09dd54c0f37b89dca7b",
+  "displayName": "Floki Classic Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Floki Classic Burn",
+    "symbol": "FlokiCB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

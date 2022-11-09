@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2707863b33845395e3f698ebeaa1fd1f9178167",
+  "displayName": "CEX Exchang token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CEX Exchang token",
+    "symbol": "0CEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

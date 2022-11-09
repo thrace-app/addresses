@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f726ddaaf9abd678858cb840f7a00d427a1f816",
+  "displayName": "Kiji Tori",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kiji Tori",
+    "symbol": "KIJI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

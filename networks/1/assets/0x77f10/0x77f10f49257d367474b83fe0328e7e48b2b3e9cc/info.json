@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77f10f49257d367474b83fe0328e7e48b2b3e9cc",
+  "displayName": "NemesisDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "NemesisDAO",
+    "symbol": "NEME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaaf49d386bd44e31ff22edf723f40ee3e4da53cd",
+  "displayName": "Wrapped Ribbits",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Ribbits",
+    "symbol": "wRBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

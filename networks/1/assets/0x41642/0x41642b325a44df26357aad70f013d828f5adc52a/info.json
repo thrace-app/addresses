@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41642b325a44df26357aad70f013d828f5adc52a",
+  "displayName": "DEVNET|Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DEVNET|Coin",
+    "symbol": "DEV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

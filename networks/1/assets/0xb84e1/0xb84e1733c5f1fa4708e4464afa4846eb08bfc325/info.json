@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb84e1733c5f1fa4708e4464afa4846eb08bfc325",
+  "displayName": "MEV Predator",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEV Predator",
+    "symbol": "MEV Predator",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x362549322f79500974275fd70b99c1fea4abf869",
+  "displayName": "Sausage Gang",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sausage Gang",
+    "symbol": "SGang",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

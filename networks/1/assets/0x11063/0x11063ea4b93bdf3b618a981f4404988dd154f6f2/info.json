@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11063ea4b93bdf3b618a981f4404988dd154f6f2",
+  "displayName": "Hulk Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hulk Doge",
+    "symbol": "HULKDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

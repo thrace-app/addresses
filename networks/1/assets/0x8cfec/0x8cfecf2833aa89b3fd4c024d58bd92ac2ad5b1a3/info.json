@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8cfecf2833aa89b3fd4c024d58bd92ac2ad5b1a3",
+  "displayName": "Proof Of Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof Of Bitcoin",
+    "symbol": "BTC2.0",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x406e4e33be95410e624849272d0a5cb972edbed9",
+  "displayName": "Ethereum Sushi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Sushi",
+    "symbol": "ESUSHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

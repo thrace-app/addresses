@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7408ec9eb983660d3cec5fd16387b872550fc3bf",
+  "displayName": "Fishy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fishy",
+    "symbol": "FIFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

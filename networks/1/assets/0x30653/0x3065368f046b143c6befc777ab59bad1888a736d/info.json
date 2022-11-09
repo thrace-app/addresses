@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3065368f046b143c6befc777ab59bad1888a736d",
+  "displayName": "Vext Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vext Token",
+    "symbol": "VEXT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

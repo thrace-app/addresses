@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02e96148ba6bd87d09be088487b0b643d1270290",
+  "displayName": "The Tenome",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Tenome",
+    "symbol": "Tenome",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

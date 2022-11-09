@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36e4c7b5687b255b72f02e67c7e3a1a588b6fbf2",
+  "displayName": "Space Jam",
+  "type": "TOKEN",
+  "token": {
+    "name": "Space Jam",
+    "symbol": "SPACE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

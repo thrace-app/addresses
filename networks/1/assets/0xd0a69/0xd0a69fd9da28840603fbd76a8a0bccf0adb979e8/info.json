@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0a69fd9da28840603fbd76a8a0bccf0adb979e8",
+  "displayName": "Credits",
+  "type": "TOKEN",
+  "token": {
+    "name": "Credits",
+    "symbol": "VVV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

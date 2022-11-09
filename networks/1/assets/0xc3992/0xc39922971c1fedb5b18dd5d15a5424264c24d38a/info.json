@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc39922971c1fedb5b18dd5d15a5424264c24d38a",
+  "displayName": "YFStable",
+  "type": "TOKEN",
+  "token": {
+    "name": "YFStable",
+    "symbol": "YFST",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

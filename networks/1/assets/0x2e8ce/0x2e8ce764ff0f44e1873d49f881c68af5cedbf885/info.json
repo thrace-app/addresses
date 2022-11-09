@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e8ce764ff0f44e1873d49f881c68af5cedbf885",
+  "displayName": "DeArbitrage Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeArbitrage Token",
+    "symbol": "DARB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

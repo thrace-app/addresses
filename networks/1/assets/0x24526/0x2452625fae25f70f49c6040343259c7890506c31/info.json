@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2452625fae25f70f49c6040343259c7890506c31",
+  "displayName": "Test UNION Protocol Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Test UNION Protocol Governance Token",
+    "symbol": "TUNN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

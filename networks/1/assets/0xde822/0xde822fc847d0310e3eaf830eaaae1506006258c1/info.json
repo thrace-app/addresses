@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde822fc847d0310e3eaf830eaaae1506006258c1",
+  "displayName": "AirDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "AirDoge",
+    "symbol": "$ADOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

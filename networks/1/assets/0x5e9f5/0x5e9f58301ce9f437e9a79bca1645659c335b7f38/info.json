@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e9f58301ce9f437e9a79bca1645659c335b7f38",
+  "displayName": "BRL",
+  "type": "TOKEN",
+  "token": {
+    "name": "BRL",
+    "symbol": "BRL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4612a3f9fe2d3ff22d202cbc63632029a62aa263",
+  "displayName": "Lucky Goose",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucky Goose",
+    "symbol": "LOOSE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

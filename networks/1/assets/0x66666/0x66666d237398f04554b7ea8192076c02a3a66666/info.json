@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66666d237398f04554b7ea8192076c02a3a66666",
+  "displayName": "TW33T Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TW33T Token",
+    "symbol": "TW33T",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

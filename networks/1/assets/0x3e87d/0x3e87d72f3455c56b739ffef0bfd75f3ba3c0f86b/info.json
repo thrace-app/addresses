@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e87d72f3455c56b739ffef0bfd75f3ba3c0f86b",
+  "displayName": "Butterfly",
+  "type": "TOKEN",
+  "token": {
+    "name": "Butterfly",
+    "symbol": "BTRFLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

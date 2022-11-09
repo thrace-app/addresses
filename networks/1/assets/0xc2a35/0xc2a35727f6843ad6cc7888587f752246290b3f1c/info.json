@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2a35727f6843ad6cc7888587f752246290b3f1c",
+  "displayName": "Dolanduk Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dolanduk Token",
+    "symbol": "DOLANDUK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

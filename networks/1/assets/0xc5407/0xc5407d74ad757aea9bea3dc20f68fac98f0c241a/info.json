@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc5407d74ad757aea9bea3dc20f68fac98f0c241a",
+  "displayName": "Kimono Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kimono Doge",
+    "symbol": "KimonoDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

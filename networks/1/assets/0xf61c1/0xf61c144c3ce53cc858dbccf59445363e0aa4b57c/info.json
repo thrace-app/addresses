@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf61c144c3ce53cc858dbccf59445363e0aa4b57c",
+  "displayName": "Hola Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hola Inu",
+    "symbol": "HOLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

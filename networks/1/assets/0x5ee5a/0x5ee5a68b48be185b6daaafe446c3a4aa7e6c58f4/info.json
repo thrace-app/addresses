@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ee5a68b48be185b6daaafe446c3a4aa7e6c58f4",
+  "displayName": "PPAY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PPAY Token",
+    "symbol": "PPAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

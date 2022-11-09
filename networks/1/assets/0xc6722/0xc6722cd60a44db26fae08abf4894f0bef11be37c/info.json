@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6722cd60a44db26fae08abf4894f0bef11be37c",
+  "displayName": "The Joke Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Joke Protocol",
+    "symbol": "JOKE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a7b8e4c627452cfd7c2ce7f76373b7a87377ede",
+  "displayName": "Leech Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Leech Token",
+    "symbol": "Leech",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

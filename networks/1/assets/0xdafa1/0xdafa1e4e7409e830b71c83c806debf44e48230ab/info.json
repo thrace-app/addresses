@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdafa1e4e7409e830b71c83c806debf44e48230ab",
+  "displayName": "Stealth Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stealth Doge",
+    "symbol": "STOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x515e6db018b2155d9793d871d4587ffb506db9dc",
+  "displayName": "The degen day",
+  "type": "TOKEN",
+  "token": {
+    "name": "The degen day",
+    "symbol": "x100",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

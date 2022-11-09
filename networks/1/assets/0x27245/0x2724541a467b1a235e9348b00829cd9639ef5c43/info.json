@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2724541a467b1a235e9348b00829cd9639ef5c43",
+  "displayName": "DefiStake",
+  "type": "TOKEN",
+  "token": {
+    "name": "DefiStake",
+    "symbol": "DFStake",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

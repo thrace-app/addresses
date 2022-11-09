@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10e6bcab4e0f5161dd152e51df5fbe785f170b48",
+  "displayName": "Totally Not a Scam Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Totally Not a Scam Coin",
+    "symbol": "TNSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

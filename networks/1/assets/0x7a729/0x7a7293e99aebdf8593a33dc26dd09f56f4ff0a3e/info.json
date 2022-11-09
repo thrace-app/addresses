@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a7293e99aebdf8593a33dc26dd09f56f4ff0a3e",
+  "displayName": "SenseToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SenseToken",
+    "symbol": "SENSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26e1b8ee9f699c88ff37173f1efdcd463e8060ab",
+  "displayName": "SmartCredit",
+  "type": "TOKEN",
+  "token": {
+    "name": "SmartCredit",
+    "symbol": "SMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

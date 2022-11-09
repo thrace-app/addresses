@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8545f42a5a4888f7a4d907bf7ae11796c95f4cc2",
+  "displayName": "NewYear",
+  "type": "TOKEN",
+  "token": {
+    "name": "NewYear",
+    "symbol": "NEWY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

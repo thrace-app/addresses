@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19a370296ad5a90254c96da562159dd0386ce777",
+  "displayName": "DeFi Maker",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi Maker",
+    "symbol": "DFM",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

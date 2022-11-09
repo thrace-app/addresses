@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb2a8f1e955efaab61358702ee8b005ab59a905ae",
+  "displayName": "Steve Vai Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Steve Vai Token",
+    "symbol": "VAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

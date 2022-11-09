@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2538d8cb637f915198c632c1dace39d6e6749a9a",
+  "displayName": "Pizzaa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pizzaa Token",
+    "symbol": "PIZZAA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

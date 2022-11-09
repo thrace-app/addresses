@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4134146af2d511dd5ea8cdb1c4ac88c57d60404",
+  "displayName": "SunContract",
+  "type": "TOKEN",
+  "token": {
+    "name": "SunContract",
+    "symbol": "SNC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8ea9c04adb80b37cfdf42cab857db54b5e35ab7",
+  "displayName": "FETA",
+  "type": "TOKEN",
+  "token": {
+    "name": "FETA",
+    "symbol": "FETA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

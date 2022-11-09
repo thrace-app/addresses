@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc2be77fdd859575f24310489ccef219d5f2819d",
+  "displayName": "APYSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "APYSwap",
+    "symbol": "APYS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

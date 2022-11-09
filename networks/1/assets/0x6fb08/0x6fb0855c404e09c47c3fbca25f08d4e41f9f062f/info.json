@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fb0855c404e09c47c3fbca25f08d4e41f9f062f",
+  "displayName": "Aave Interest bearing ZRX",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave Interest bearing ZRX",
+    "symbol": "aZRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

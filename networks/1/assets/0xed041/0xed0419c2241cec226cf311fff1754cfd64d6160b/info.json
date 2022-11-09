@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed0419c2241cec226cf311fff1754cfd64d6160b",
+  "displayName": "Currency Life",
+  "type": "TOKEN",
+  "token": {
+    "name": "Currency Life",
+    "symbol": "CRNCY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

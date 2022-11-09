@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2bbc8d15127a4075ad15fe6038db3371d2fdbca",
+  "displayName": "GameFiSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "GameFiSwap",
+    "symbol": "GFS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x960d8d3abfd9a67028b852f9aef8e29788d4be2f",
+  "displayName": "Canto Utility Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Canto Utility Token",
+    "symbol": "Canto",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

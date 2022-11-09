@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x765f0c16d1ddc279295c1a7c24b0883f62d33f75",
+  "displayName": "DaTa eXchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DaTa eXchange Token",
+    "symbol": "DTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

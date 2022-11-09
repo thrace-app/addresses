@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46f6a406208ec0d8f91a022a404a8ec2a1c4c1e3",
+  "displayName": "Evil Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Evil Inu",
+    "symbol": "EVIL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeab47e883e54af30e36e3ed1906791999ecbff0f",
+  "displayName": "AlchaMoney",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlchaMoney",
+    "symbol": "ALCHAMONEY",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

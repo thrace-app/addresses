@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0464226c3bfab9739366f4466afd6ce098af374a",
+  "displayName": "Madcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Madcoin",
+    "symbol": "MAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

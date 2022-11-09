@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1e8092ff5b03d06f1cd32885fa158c822c45b11",
+  "displayName": "yearnDelegate",
+  "type": "TOKEN",
+  "token": {
+    "name": "yearnDelegate",
+    "symbol": "yDEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

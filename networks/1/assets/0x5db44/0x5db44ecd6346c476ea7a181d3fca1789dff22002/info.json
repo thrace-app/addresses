@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5db44ecd6346c476ea7a181d3fca1789dff22002",
+  "displayName": "google.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "google.finance",
+    "symbol": "GOOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb5453340c03db5ade474b27e68b6a9c6b2823eb",
+  "displayName": "MetaFactory",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaFactory",
+    "symbol": "ROBOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

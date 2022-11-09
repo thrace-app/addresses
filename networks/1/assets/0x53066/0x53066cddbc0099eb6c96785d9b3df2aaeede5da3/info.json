@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53066cddbc0099eb6c96785d9b3df2aaeede5da3",
+  "displayName": "Penta Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Penta Network Token",
+    "symbol": "PNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

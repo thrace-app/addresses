@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd8962a90358cf9539070cb29f3f2f5a88b55f7d",
+  "displayName": "EVA",
+  "type": "TOKEN",
+  "token": {
+    "name": "EVA",
+    "symbol": "EVA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

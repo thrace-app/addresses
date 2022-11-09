@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd63603bfb128f184242b5a8541e9fdf3eb4b20b",
+  "displayName": "BitSafe",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitSafe",
+    "symbol": "SAFE",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

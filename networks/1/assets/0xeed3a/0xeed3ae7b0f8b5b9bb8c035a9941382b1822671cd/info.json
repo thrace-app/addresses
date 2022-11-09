@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeed3ae7b0f8b5b9bb8c035a9941382b1822671cd",
+  "displayName": "EveryCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EveryCoin",
+    "symbol": "EVY",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

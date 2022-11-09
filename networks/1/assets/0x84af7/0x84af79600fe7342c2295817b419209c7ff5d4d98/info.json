@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84af79600fe7342c2295817b419209c7ff5d4d98",
+  "displayName": "NFTcat",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFTcat",
+    "symbol": "NCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

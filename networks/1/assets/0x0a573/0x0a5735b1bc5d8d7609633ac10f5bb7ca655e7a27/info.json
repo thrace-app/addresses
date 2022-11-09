@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a5735b1bc5d8d7609633ac10f5bb7ca655e7a27",
+  "displayName": "CEO",
+  "type": "TOKEN",
+  "token": {
+    "name": "CEO",
+    "symbol": "CEO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

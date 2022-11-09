@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa4642fbcb77273533ae224b246831f3e49da20ee",
+  "displayName": "Millioncoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Millioncoin",
+    "symbol": "MC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

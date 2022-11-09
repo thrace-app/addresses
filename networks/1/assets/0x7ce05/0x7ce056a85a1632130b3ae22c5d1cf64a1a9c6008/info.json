@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ce056a85a1632130b3ae22c5d1cf64a1a9c6008",
+  "displayName": "IOUUSDT",
+  "type": "TOKEN",
+  "token": {
+    "name": "IOUUSDT",
+    "symbol": "IUSDT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

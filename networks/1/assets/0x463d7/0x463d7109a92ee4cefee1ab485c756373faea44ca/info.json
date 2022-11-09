@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x463d7109a92ee4cefee1ab485c756373faea44ca",
+  "displayName": "Elon Musk Pump Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Musk Pump Token",
+    "symbol": "ELONPUMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

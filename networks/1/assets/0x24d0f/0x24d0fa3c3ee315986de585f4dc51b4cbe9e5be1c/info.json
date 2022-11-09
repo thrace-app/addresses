@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24d0fa3c3ee315986de585f4dc51b4cbe9e5be1c",
+  "displayName": "STACYToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "STACYToken",
+    "symbol": "STACY",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

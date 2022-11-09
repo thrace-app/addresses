@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x971439d908c9cd06e36ca0d7cd4418ec3cd20dec",
+  "displayName": "Easy Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Easy Cash",
+    "symbol": "ECH",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

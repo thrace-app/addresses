@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33f128394af03db639107473e52d84ff1290499e",
+  "displayName": "Green Candle Man",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Candle Man",
+    "symbol": "CANDLE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

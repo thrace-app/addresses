@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x309715c640f85626ac01d5794c94b8f80521edbe",
+  "displayName": "The Meme Locker",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Meme Locker",
+    "symbol": "mLocker",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

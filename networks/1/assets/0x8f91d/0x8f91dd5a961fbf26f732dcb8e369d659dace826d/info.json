@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f91dd5a961fbf26f732dcb8e369d659dace826d",
+  "displayName": "ETH Exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH Exchange",
+    "symbol": "Bitflex",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

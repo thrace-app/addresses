@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8eaee79b56b6b44b99bd36895ff0fe5245750147",
+  "displayName": "Insta Pay",
+  "type": "TOKEN",
+  "token": {
+    "name": "Insta Pay",
+    "symbol": "IPP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19fa6899eba1894e9c0af22a44a3de97383ada5f",
+  "displayName": "Motorcycle Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Motorcycle Token",
+    "symbol": "MOTOYC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

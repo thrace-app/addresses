@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x54800bac132ba1b02c80f9c25480b9ec8144d12b",
+  "displayName": "GSLcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GSLcoin",
+    "symbol": "GSL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

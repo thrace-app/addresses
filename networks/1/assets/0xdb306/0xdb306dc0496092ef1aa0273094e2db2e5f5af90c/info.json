@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb306dc0496092ef1aa0273094e2db2e5f5af90c",
+  "displayName": "DegenDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "DegenDAO",
+    "symbol": "DDAO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

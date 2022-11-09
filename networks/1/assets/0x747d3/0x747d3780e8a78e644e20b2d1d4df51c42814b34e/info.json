@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x747d3780e8a78e644e20b2d1d4df51c42814b34e",
+  "displayName": "Bitcoin Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Protocol",
+    "symbol": "BTP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3543638ed4a9006e4840b105944271bcea15605d",
+  "displayName": "UNetworkToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "UNetworkToken",
+    "symbol": "UUU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

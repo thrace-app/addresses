@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7521b0ff5576b09296b4627cba8b22b13775a6ed",
+  "displayName": "Paw Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Paw Token",
+    "symbol": "PAW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

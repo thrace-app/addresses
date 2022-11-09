@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6339d3c94ec27205021046d2be73bf82fc82c9c",
+  "displayName": "Node Three",
+  "type": "TOKEN",
+  "token": {
+    "name": "Node Three",
+    "symbol": "N3",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

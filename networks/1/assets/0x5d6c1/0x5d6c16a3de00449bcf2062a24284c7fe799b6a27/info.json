@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d6c16a3de00449bcf2062a24284c7fe799b6a27",
+  "displayName": "Mfer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mfer Token",
+    "symbol": "MFER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

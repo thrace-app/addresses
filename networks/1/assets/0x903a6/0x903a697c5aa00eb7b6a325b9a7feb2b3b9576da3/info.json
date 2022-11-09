@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x903a697c5aa00eb7b6a325b9a7feb2b3b9576da3",
+  "displayName": "Prederal Reserve",
+  "type": "TOKEN",
+  "token": {
+    "name": "Prederal Reserve",
+    "symbol": "BIRDBANK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

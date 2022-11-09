@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24800cbae0b7345054a1df4e41031a8202b84f5e",
+  "displayName": "Election Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Election Token",
+    "symbol": "ELT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

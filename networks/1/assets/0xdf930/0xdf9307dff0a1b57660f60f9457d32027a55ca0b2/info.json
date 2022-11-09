@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf9307dff0a1b57660f60f9457d32027a55ca0b2",
+  "displayName": "DMM: ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "DMM: ETH",
+    "symbol": "mETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

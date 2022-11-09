@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x067085aa0ff4e97a3c61bf06de618e0aae11dbc2",
+  "displayName": "YPro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YPro Token",
+    "symbol": "YPRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

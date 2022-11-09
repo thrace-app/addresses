@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde53498f9da204e34c19f094c0489895d91f38c3",
+  "displayName": "FIDOtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FIDOtoken",
+    "symbol": "FIDO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

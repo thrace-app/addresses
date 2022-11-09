@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22dd832d0336b5dd3226a9b53f3605f67d90b693",
+  "displayName": "The Grinch",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Grinch",
+    "symbol": "GRINCH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

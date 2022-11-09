@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe9f6628f81cb97e7dd9a31287b35e8b67326735",
+  "displayName": "Shimpy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shimpy Token",
+    "symbol": "SHIMPY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

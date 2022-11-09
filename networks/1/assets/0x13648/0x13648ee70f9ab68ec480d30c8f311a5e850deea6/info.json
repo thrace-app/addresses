@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13648ee70f9ab68ec480d30c8f311a5e850deea6",
+  "displayName": "FUDcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FUDcoin",
+    "symbol": "FUD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

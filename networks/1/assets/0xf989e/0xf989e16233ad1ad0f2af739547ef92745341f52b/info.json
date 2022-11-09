@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf989e16233ad1ad0f2af739547ef92745341f52b",
+  "displayName": "Coin Fella Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coin Fella Token",
+    "symbol": "CFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

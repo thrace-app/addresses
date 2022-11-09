@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6539352dc7f87f0bf68e7eb1c753323dffdb7e15",
+  "displayName": "walmart",
+  "type": "TOKEN",
+  "token": {
+    "name": "walmart",
+    "symbol": "wm",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

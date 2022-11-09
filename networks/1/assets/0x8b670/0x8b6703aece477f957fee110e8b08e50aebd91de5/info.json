@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b6703aece477f957fee110e8b08e50aebd91de5",
+  "displayName": "Super Urgent",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Urgent",
+    "symbol": "Urgent",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

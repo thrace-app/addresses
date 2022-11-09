@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc3daa49d6342103121200483b4c3d8774cbf5d5",
+  "displayName": "Fahrenheit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fahrenheit",
+    "symbol": "F",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

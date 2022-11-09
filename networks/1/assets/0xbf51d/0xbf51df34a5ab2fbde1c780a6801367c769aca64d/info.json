@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf51df34a5ab2fbde1c780a6801367c769aca64d",
+  "displayName": "NickelToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NickelToken",
+    "symbol": "NICKEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

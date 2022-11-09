@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee503129f35c6f4ea243304121ef99d409f7475b",
+  "displayName": "Shitpedia Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shitpedia Token",
+    "symbol": "SHITPEDIA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd123c11ac97e125e12bcc276da07cc3d44bfd4ed",
+  "displayName": "Biconomy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Biconomy",
+    "symbol": "BICO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

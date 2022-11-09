@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe57a6895f111d34c07bd7f2eab1039475869a646",
+  "displayName": "Pirate Booty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pirate Booty",
+    "symbol": "BOOTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

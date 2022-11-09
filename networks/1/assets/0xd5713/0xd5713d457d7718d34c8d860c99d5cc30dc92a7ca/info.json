@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5713d457d7718d34c8d860c99d5cc30dc92a7ca",
+  "displayName": "Lobster Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lobster Swap",
+    "symbol": "LOBZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

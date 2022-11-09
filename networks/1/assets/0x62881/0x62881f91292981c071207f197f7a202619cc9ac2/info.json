@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62881f91292981c071207f197f7a202619cc9ac2",
+  "displayName": "AdvancedBitCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AdvancedBitCoin",
+    "symbol": "ABC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

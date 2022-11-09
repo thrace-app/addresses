@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x234b4f4b91d552d02e2bc2be1ce804cfd9831fbb",
+  "displayName": "SilverBolt",
+  "type": "TOKEN",
+  "token": {
+    "name": "SilverBolt",
+    "symbol": "SilverBolt",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

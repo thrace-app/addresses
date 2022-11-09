@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x467afaf678aa6d9cd0b4deef601f2950f65e12aa",
+  "displayName": "Shiba Lambo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Lambo",
+    "symbol": "SLAMBO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

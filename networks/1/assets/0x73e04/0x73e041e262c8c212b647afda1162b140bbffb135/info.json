@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73e041e262c8c212b647afda1162b140bbffb135",
+  "displayName": "El Crypto Guru",
+  "type": "TOKEN",
+  "token": {
+    "name": "El Crypto Guru",
+    "symbol": "GURU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

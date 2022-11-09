@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3be73ba236e190030c88e7cd011cb2b536aa2836",
+  "displayName": "Misty Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Misty Coin",
+    "symbol": "Misty",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

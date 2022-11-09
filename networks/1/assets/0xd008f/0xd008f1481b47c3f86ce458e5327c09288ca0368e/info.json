@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd008f1481b47c3f86ce458e5327c09288ca0368e",
+  "displayName": "DogeDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogeDAO",
+    "symbol": "dDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x513fb99d9add6049daaab562e698699cb9aa4165",
+  "displayName": "Peepo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Peepo",
+    "symbol": "PEEPO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

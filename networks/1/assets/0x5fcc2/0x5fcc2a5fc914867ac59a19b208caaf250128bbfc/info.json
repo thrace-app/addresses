@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5fcc2a5fc914867ac59a19b208caaf250128bbfc",
+  "displayName": "ShiDogCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShiDogCoin",
+    "symbol": "ShiDCoin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

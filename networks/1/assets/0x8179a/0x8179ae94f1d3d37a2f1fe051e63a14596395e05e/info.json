@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8179ae94f1d3d37a2f1fe051e63a14596395e05e",
+  "displayName": "Messi Fan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Messi Fan Token",
+    "symbol": "M10",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5560be386e47c052239186b8682f5772d7ddc2eb",
+  "displayName": "Genius Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Genius Token",
+    "symbol": "GENIUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06f2589727d86798ff5b24b74ce6f81eb874a31e",
+  "displayName": "Wallfair Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wallfair Token",
+    "symbol": "WFAIR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

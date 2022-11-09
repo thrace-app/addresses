@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd28b0694fa2c2474bf9b5e0b14357a8c44fb95ad",
+  "displayName": "bWISE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "bWISE Token",
+    "symbol": "bWISE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

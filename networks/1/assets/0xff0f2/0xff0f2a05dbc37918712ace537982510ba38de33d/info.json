@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff0f2a05dbc37918712ace537982510ba38de33d",
+  "displayName": "Ethereum Reserve",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Reserve",
+    "symbol": "ERSV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

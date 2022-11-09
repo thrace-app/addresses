@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x087761529b4d9821f845e5a3ffecec6a758c9301",
+  "displayName": "Bank of Reba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of Reba",
+    "symbol": "RebaBank",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

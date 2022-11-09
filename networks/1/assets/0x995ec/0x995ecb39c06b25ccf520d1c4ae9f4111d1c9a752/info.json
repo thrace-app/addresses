@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x995ecb39c06b25ccf520d1c4ae9f4111d1c9a752",
+  "displayName": "Botchcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Botchcoin",
+    "symbol": "BTCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

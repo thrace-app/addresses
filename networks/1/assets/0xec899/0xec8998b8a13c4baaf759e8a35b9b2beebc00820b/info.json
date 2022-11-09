@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec8998b8a13c4baaf759e8a35b9b2beebc00820b",
+  "displayName": "BOBO.finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BOBO.finance Token",
+    "symbol": "BOBO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

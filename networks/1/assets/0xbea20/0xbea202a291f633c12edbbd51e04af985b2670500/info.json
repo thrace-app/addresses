@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbea202a291f633c12edbbd51e04af985b2670500",
+  "displayName": "CoinSmart Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinSmart Token",
+    "symbol": "CST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

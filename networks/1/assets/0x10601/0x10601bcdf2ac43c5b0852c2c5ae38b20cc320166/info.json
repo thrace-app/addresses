@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10601bcdf2ac43c5b0852c2c5ae38b20cc320166",
+  "displayName": "BTCFuture",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTCFuture",
+    "symbol": "BTWL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

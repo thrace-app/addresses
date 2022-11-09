@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc386aa923bd383055764ed51b06488ac49e6a512",
+  "displayName": "Bitdex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitdex",
+    "symbol": "BTD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

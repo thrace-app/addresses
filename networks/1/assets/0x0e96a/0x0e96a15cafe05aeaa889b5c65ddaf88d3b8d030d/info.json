@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e96a15cafe05aeaa889b5c65ddaf88d3b8d030d",
+  "displayName": "FF Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "FF Finance",
+    "symbol": "FFF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42c35014662f3743c8f8b50c5c07ae18afeddf7c",
+  "displayName": "Meta Shib",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meta Shib",
+    "symbol": "MSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

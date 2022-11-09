@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81fa30bbe1981f5dbfb852b1692286f1097d01d0",
+  "displayName": "yearn.fire",
+  "type": "TOKEN",
+  "token": {
+    "name": "yearn.fire",
+    "symbol": "YFIRE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

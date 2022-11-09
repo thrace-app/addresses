@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5b69f5b8ec10ec7a33ecaaebaf50652cc94e802",
+  "displayName": "Vbase Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vbase Token",
+    "symbol": "VBASE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

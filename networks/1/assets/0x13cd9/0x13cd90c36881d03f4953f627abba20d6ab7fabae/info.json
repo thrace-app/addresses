@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13cd90c36881d03f4953f627abba20d6ab7fabae",
+  "displayName": "Rio Fuel Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rio Fuel Token",
+    "symbol": "RFUEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

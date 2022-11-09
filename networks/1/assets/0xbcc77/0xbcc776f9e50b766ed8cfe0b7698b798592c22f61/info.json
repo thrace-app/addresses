@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbcc776f9e50b766ed8cfe0b7698b798592c22f61",
+  "displayName": "PHZE Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PHZE Coin",
+    "symbol": "PHZE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7700fff30632de14c6bea3a92119fb3c63589320",
+  "displayName": "PumpHardToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PumpHardToken",
+    "symbol": "PHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

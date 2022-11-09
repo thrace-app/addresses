@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb20d6bb932d55e0acd47ea2fa32143b728ec821e",
+  "displayName": "White Cloud Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "White Cloud Coin",
+    "symbol": "WCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

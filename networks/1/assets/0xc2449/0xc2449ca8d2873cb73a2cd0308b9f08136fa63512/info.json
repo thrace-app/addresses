@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2449ca8d2873cb73a2cd0308b9f08136fa63512",
+  "displayName": "Hanako Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hanako Token",
+    "symbol": "Hanako",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

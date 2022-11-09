@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1de9bd16fb8c5be4aa6add6ace13a607a9f37707",
+  "displayName": "Gold Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gold Protocol",
+    "symbol": "GP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

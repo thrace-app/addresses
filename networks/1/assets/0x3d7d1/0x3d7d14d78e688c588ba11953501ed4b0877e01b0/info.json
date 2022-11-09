@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d7d14d78e688c588ba11953501ed4b0877e01b0",
+  "displayName": "SailorMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "SailorMoon",
+    "symbol": "SAILOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

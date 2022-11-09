@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa719cb79af39a9c10eda2755e0938bce35e9de24",
+  "displayName": "Starfish Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Starfish Token",
+    "symbol": "SEAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

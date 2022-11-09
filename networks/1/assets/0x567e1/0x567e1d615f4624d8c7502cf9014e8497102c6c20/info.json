@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x567e1d615f4624d8c7502cf9014e8497102c6c20",
+  "displayName": "Salt Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Salt Swap",
+    "symbol": "Salt",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

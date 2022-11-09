@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x005734a34882113c2fcfa5bfc1ce477d11af3260",
+  "displayName": "Pajeet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pajeet Token",
+    "symbol": "PAJ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

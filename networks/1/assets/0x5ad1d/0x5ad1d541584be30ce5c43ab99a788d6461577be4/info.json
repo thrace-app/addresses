@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ad1d541584be30ce5c43ab99a788d6461577be4",
+  "displayName": "Stardust",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stardust",
+    "symbol": "SDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

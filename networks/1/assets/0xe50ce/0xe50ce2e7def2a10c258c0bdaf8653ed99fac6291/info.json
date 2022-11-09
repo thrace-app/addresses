@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe50ce2e7def2a10c258c0bdaf8653ed99fac6291",
+  "displayName": "MonoX Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "MonoX Protocol",
+    "symbol": "MONO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

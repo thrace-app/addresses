@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc02e5facc3ae92015afa5454687e1c1433a7c59a",
+  "displayName": "Wolf Dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wolf Dog",
+    "symbol": "WolfDog",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fe72034da777ef22533eaa6dd7cbe1d80be50fa",
+  "displayName": "PayAccept",
+  "type": "TOKEN",
+  "token": {
+    "name": "PayAccept",
+    "symbol": "PAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

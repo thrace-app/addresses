@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1b853828ccdfafb0aa9d787e24db530d0887302",
+  "displayName": "Whale Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Whale Protocol",
+    "symbol": "Whale",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

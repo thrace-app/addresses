@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x062e1ab8cb801fa51e5c12ec8c79089e9cfebae1",
+  "displayName": "LibraFace",
+  "type": "TOKEN",
+  "token": {
+    "name": "LibraFace",
+    "symbol": "LibraF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

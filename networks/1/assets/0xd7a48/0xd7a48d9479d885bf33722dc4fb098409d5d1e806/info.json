@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7a48d9479d885bf33722dc4fb098409d5d1e806",
+  "displayName": "Wrapped Dogecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Dogecoin",
+    "symbol": "wDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

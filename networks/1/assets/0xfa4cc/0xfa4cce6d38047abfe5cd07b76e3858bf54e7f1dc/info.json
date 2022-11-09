@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa4cce6d38047abfe5cd07b76e3858bf54e7f1dc",
+  "displayName": "CryptoHeroes",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoHeroes",
+    "symbol": "HEROES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49aec0752e68d0282db544c677f6ba407ba17ed7",
+  "displayName": "Billionaire Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Billionaire Token",
+    "symbol": "XBL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

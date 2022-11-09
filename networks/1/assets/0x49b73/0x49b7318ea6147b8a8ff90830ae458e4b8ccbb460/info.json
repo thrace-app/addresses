@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49b7318ea6147b8a8ff90830ae458e4b8ccbb460",
+  "displayName": "STARK",
+  "type": "TOKEN",
+  "token": {
+    "name": "STARK",
+    "symbol": "STK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

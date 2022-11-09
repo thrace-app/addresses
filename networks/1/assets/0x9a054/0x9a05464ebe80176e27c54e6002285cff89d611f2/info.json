@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a05464ebe80176e27c54e6002285cff89d611f2",
+  "displayName": "Didacoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Didacoin",
+    "symbol": "DDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

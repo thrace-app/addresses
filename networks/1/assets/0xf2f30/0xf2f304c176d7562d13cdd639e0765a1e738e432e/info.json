@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2f304c176d7562d13cdd639e0765a1e738e432e",
+  "displayName": "Hole In One Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hole In One Token",
+    "symbol": "HIO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

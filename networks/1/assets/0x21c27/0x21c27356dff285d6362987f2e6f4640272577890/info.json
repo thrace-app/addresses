@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21c27356dff285d6362987f2e6f4640272577890",
+  "displayName": "Function Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Function Protocol",
+    "symbol": "f(x)",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

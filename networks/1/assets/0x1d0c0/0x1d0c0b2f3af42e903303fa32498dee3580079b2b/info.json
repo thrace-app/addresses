@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d0c0b2f3af42e903303fa32498dee3580079b2b",
+  "displayName": "current goal",
+  "type": "TOKEN",
+  "token": {
+    "name": "current goal",
+    "symbol": "Goal",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

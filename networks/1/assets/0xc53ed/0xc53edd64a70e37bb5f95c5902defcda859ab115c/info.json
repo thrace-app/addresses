@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc53edd64a70e37bb5f95c5902defcda859ab115c",
+  "displayName": "Lucky Moon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucky Moon Token",
+    "symbol": "LMOON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc535a2ceebb5fe8d1a87e681510831bbcbd15a9e",
+  "displayName": "LondonToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LondonToken",
+    "symbol": "London",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+  "displayName": "Trace Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trace Token",
+    "symbol": "TRAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

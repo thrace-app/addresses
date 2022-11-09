@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04bda6368727915e8bf9bf75545642078714ff18",
+  "displayName": "Ether Pass",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether Pass",
+    "symbol": "EP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56d2e7f913219771c266ed4a7616e5f525e49982",
+  "displayName": "MEV Killer",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEV Killer",
+    "symbol": "MEVKILLER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xedeec5691f23e4914cf0183a4196bbeb30d027a0",
+  "displayName": "Wrapped STA",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped STA",
+    "symbol": "WSTA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03a36bf5bf2ba10420f46aa198a252806a632d7e",
+  "displayName": "CarlCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CarlCoin",
+    "symbol": "CC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

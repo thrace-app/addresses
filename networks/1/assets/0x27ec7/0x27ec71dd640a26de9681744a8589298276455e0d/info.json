@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27ec71dd640a26de9681744a8589298276455e0d",
+  "displayName": "Huskita Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Huskita Token",
+    "symbol": "HUSKITA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

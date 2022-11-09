@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x557a627527c4b8f647d2d22df728c73999226614",
+  "displayName": "EXBI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EXBI Token",
+    "symbol": "EXB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf82e56abe7d39493e603403e012928da11057688",
+  "displayName": "VortEx Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VortEx Token",
+    "symbol": "VRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

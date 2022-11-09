@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7eda33de160e76d7e34af4d7503a8ef0f53629b",
+  "displayName": "Bullish Shitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bullish Shitcoin",
+    "symbol": "BULLSHIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

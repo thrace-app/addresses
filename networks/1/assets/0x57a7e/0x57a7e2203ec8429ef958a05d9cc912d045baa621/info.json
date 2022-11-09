@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57a7e2203ec8429ef958a05d9cc912d045baa621",
+  "displayName": "Partner Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Partner Token",
+    "symbol": "PN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

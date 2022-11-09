@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5bd7392c6567c2e577c5f82f5368fea09533c18f",
+  "displayName": "Facebook Libra",
+  "type": "TOKEN",
+  "token": {
+    "name": "Facebook Libra",
+    "symbol": "(LIBRA)",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

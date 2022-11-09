@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78ce31e0384d4f856b6ccecc05f69c3200c2cc60",
+  "displayName": "Micro",
+  "type": "TOKEN",
+  "token": {
+    "name": "Micro",
+    "symbol": ".",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

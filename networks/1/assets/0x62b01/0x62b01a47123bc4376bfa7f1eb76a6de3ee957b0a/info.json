@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62b01a47123bc4376bfa7f1eb76a6de3ee957b0a",
+  "displayName": "Wrapped ERC-1155",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped ERC-1155",
+    "symbol": "WMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

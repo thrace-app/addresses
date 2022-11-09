@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93f54091e83614ed553b31833cf24dbcd0952428",
+  "displayName": "Surf Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Surf Coin",
+    "symbol": "SURF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

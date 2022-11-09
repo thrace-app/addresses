@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf772cc210b88e50417d24c4c33f91ac2f480a095",
+  "displayName": "Magic Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Magic Doge",
+    "symbol": "MDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

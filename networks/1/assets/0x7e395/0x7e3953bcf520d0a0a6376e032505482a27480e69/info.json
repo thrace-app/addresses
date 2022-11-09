@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e3953bcf520d0a0a6376e032505482a27480e69",
+  "displayName": "Goy Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goy Coin",
+    "symbol": "GOY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

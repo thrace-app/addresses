@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16b4b017b573dc31b42a046c4bd2dce1c277894f",
+  "displayName": "Commander",
+  "type": "TOKEN",
+  "token": {
+    "name": "Commander",
+    "symbol": "$CMD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

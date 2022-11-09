@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ad00bd8dde6c7d5a0f186a1c57fa0130f2d8e84",
+  "displayName": "CCA Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CCA Coin",
+    "symbol": "CCA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

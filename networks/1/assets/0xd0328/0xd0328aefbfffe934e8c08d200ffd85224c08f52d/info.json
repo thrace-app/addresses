@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0328aefbfffe934e8c08d200ffd85224c08f52d",
+  "displayName": "Zol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zol Token",
+    "symbol": "ZOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

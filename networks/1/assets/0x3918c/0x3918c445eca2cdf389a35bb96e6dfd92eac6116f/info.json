@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3918c445eca2cdf389a35bb96e6dfd92eac6116f",
+  "displayName": "Seggsy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Seggsy Token",
+    "symbol": "SEX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

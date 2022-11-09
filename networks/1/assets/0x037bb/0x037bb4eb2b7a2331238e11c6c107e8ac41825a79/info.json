@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x037bb4eb2b7a2331238e11c6c107e8ac41825a79",
+  "displayName": "Wheat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wheat",
+    "symbol": "Wheat",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

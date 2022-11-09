@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a7c58e7677c42bf129504eb1b6a931f598afd55",
+  "displayName": "Sockz",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sockz",
+    "symbol": "SOCKZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

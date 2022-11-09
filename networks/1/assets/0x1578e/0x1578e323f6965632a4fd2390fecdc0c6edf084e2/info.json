@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1578e323f6965632a4fd2390fecdc0c6edf084e2",
+  "displayName": "The Great Sphinx of Giza",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Great Sphinx of Giza",
+    "symbol": "SPHINX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

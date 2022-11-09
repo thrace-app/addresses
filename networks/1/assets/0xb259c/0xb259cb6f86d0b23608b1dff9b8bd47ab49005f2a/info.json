@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb259cb6f86d0b23608b1dff9b8bd47ab49005f2a",
+  "displayName": "Bob Marley Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bob Marley Token",
+    "symbol": "BOB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

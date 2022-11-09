@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x318d5a0bda3c5f6d9b840fde3f8579fd12e0e329",
+  "displayName": "Tezos DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tezos DAO",
+    "symbol": "TEZOSDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

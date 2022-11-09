@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfeaf7d69dc1eb5bc177919aa31bae7909be68043",
+  "displayName": "ProofOfChads",
+  "type": "TOKEN",
+  "token": {
+    "name": "ProofOfChads",
+    "symbol": "POC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x234a65ec5d781f391d294e194e501fcd955f6dbd",
+  "displayName": "Neuron Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neuron Inu",
+    "symbol": "Ninu",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

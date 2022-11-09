@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecf50c565362ca8c36aa592d07076d86b4899c7d",
+  "displayName": "Black Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Black Burn",
+    "symbol": "BLKB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

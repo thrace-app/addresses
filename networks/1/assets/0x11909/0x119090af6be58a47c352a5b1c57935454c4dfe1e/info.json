@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x119090af6be58a47c352a5b1c57935454c4dfe1e",
+  "displayName": "ReBitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ReBitcoin",
+    "symbol": "RBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

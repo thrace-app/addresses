@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf77a7101ba771964347e6f5d5d65f8ae6c38849",
+  "displayName": "Hurion Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hurion Token",
+    "symbol": "Hurion",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

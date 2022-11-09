@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f094b302f896b32640164df93747211666e6563",
+  "displayName": "ACN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ACN Token",
+    "symbol": "ACN",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2f392832f090ad194cb49e9e82e7d3ce14b574a",
+  "displayName": "LOA Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LOA Coin",
+    "symbol": "LOA",
+    "decimals": 11,
+    "type": "ERC20"
+  }
+}

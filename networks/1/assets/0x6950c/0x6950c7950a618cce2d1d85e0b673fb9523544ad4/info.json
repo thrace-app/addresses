@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6950c7950a618cce2d1d85e0b673fb9523544ad4",
+  "displayName": "Triller Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Triller Token",
+    "symbol": "TRILLER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

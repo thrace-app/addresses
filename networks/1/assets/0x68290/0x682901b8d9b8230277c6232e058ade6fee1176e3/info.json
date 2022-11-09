@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x682901b8d9b8230277c6232e058ade6fee1176e3",
+  "displayName": "Green Candle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Candle",
+    "symbol": "WICK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

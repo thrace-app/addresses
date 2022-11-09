@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1ddcc52f068f10f43d0aaaf09319eae4e4ae04f",
+  "displayName": "ozo coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ozo coin",
+    "symbol": "OZOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

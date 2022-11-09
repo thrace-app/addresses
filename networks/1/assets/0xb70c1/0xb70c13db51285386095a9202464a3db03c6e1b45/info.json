@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb70c13db51285386095a9202464a3db03c6e1b45",
+  "displayName": "The Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Protocol",
+    "symbol": "WRLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

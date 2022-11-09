@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44faf3641be03e1a277ae9b0acd9d7d229d9004d",
+  "displayName": "Paper Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Paper Swap",
+    "symbol": "PAPER",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

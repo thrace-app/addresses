@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c854f37d8c74848a6684e62fbf4fef5fd32772d",
+  "displayName": "Anonymous Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Anonymous Token",
+    "symbol": "ANON",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

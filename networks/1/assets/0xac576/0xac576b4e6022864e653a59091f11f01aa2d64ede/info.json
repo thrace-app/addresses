@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac576b4e6022864e653a59091f11f01aa2d64ede",
+  "displayName": "Transmission",
+  "type": "TOKEN",
+  "token": {
+    "name": "Transmission",
+    "symbol": "MESSAGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

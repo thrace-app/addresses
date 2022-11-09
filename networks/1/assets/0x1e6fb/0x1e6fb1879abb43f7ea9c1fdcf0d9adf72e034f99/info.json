@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e6fb1879abb43f7ea9c1fdcf0d9adf72e034f99",
+  "displayName": "GreenApe",
+  "type": "TOKEN",
+  "token": {
+    "name": "GreenApe",
+    "symbol": "GRAPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

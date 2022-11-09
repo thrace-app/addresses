@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd188821cf5f713d6661c456517a4529e19efb8c",
+  "displayName": "YourCrypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "YourCrypto",
+    "symbol": "YCRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

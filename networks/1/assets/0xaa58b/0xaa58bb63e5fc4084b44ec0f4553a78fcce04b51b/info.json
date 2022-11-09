@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa58bb63e5fc4084b44ec0f4553a78fcce04b51b",
+  "displayName": "Fitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fitcoin",
+    "symbol": "FITC",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

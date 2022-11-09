@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5d0232e951d5cf025ee62e53db9ae45a10dd9ae",
+  "displayName": "VectorSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "VectorSwap",
+    "symbol": "VECTOR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

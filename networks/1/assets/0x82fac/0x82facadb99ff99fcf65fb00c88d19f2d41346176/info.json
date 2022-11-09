@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82facadb99ff99fcf65fb00c88d19f2d41346176",
+  "displayName": "The Whale Maker",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Whale Maker",
+    "symbol": "TWM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

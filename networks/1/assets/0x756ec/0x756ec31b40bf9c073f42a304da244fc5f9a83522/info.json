@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x756ec31b40bf9c073f42a304da244fc5f9a83522",
+  "displayName": "Bitcoin Moon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Moon Token",
+    "symbol": "BMNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

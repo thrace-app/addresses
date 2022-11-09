@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf7745565ca776515901d3ef47a781f0e13ab4d4",
+  "displayName": "Easter Egg",
+  "type": "TOKEN",
+  "token": {
+    "name": "Easter Egg",
+    "symbol": "EASTEREGG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

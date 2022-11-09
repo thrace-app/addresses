@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1179bbe205b981011c92577561b8f9f3bd15b3d1",
+  "displayName": "LegitCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LegitCoin",
+    "symbol": "LGIT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

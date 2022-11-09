@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda92296b40a06a6502345bdb47cec3f3c69ceb10",
+  "displayName": "DogeBro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogeBro Token",
+    "symbol": "DOGEBRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

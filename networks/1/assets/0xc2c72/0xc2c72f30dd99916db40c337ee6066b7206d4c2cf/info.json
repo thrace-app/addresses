@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2c72f30dd99916db40c337ee6066b7206d4c2cf",
+  "displayName": "AnonymousDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "AnonymousDoge",
+    "symbol": "ANONDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

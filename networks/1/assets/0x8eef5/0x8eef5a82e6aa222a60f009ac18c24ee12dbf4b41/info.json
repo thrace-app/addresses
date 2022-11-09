@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41",
+  "displayName": "Tixl Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tixl Token",
+    "symbol": "TXL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

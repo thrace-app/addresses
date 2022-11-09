@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1550d560edebc2f52f04b00728f0977a31f359ba",
+  "displayName": "The Dirt",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Dirt",
+    "symbol": "DIRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

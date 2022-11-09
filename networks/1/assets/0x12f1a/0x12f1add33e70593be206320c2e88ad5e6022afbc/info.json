@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12f1add33e70593be206320c2e88ad5e6022afbc",
+  "displayName": "vgtoken.space",
+  "type": "TOKEN",
+  "token": {
+    "name": "vgtoken.space",
+    "symbol": "Virgin Galactic",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

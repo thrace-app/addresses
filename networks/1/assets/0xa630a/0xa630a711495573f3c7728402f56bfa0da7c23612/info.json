@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa630a711495573f3c7728402f56bfa0da7c23612",
+  "displayName": "Polka voting coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polka voting coin",
+    "symbol": "PolkaV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15d3308df4dc71ed8b9d39ec37a8c1aeb21daef9",
+  "displayName": "TDUM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TDUM Token",
+    "symbol": "TDUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

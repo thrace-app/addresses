@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x456cd2781e45a72ea3bb269a284bf5784b432eb4",
+  "displayName": "ChainGuardians",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChainGuardians",
+    "symbol": "CGG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

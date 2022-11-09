@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x888c7aaa1b2f2b010593b543e462538382111ea0",
+  "displayName": "HashMix",
+  "type": "TOKEN",
+  "token": {
+    "name": "HashMix",
+    "symbol": "HSM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8765f499a6afa2ecabbb1d9d28f13d8ab061fd25",
+  "displayName": "Belle Rug Recovery",
+  "type": "TOKEN",
+  "token": {
+    "name": "Belle Rug Recovery",
+    "symbol": "BRR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

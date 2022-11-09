@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xceb85862351f00e237c3a22563326a98f3ab7427",
+  "displayName": "RockETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "RockETH",
+    "symbol": "ROCKETH",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

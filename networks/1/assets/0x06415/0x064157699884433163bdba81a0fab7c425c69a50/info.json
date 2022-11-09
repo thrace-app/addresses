@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x064157699884433163bdba81a0fab7c425c69a50",
+  "displayName": "EPNS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EPNS Token",
+    "symbol": "PUSH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

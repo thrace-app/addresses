@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad0887734461af8c6033068bde4047dbe84074cc",
+  "displayName": "arbiswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "arbiswap",
+    "symbol": "aswap",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

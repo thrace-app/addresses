@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3461e8418372fa41aa4601b48ba7ae7d2cbef050",
+  "displayName": "Obi-Wan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Obi-Wan Token",
+    "symbol": "OWN",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b9073059db0f51cdd6cecb2425190080fee3adc",
+  "displayName": "Shrek Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shrek Coin",
+    "symbol": "SHREK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

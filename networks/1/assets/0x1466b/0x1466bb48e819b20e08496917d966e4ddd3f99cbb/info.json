@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1466bb48e819b20e08496917d966e4ddd3f99cbb",
+  "displayName": "airtm",
+  "type": "TOKEN",
+  "token": {
+    "name": "airtm",
+    "symbol": "ATM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

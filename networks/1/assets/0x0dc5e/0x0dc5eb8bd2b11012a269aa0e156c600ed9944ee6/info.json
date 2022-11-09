@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0dc5eb8bd2b11012a269aa0e156c600ed9944ee6",
+  "displayName": "Torsion Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Torsion Coin",
+    "symbol": "TOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

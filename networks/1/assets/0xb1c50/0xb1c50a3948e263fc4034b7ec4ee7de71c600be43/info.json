@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1c50a3948e263fc4034b7ec4ee7de71c600be43",
+  "displayName": "BambooSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "BambooSwap",
+    "symbol": "BAMBOO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

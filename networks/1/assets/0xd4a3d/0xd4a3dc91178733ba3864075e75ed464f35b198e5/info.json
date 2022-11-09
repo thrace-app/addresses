@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4a3dc91178733ba3864075e75ed464f35b198e5",
+  "displayName": "DeFiStarter",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiStarter",
+    "symbol": "D3ST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

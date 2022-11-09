@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb6225104d9434cc148570cddeef19b2e46da350d",
+  "displayName": "Amy Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Amy Finance Token",
+    "symbol": "AMY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

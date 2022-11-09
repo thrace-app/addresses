@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1853f0311346a3c77a70965438ef1e8245e2b7b5",
+  "displayName": "DoraToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DoraToken",
+    "symbol": "DOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

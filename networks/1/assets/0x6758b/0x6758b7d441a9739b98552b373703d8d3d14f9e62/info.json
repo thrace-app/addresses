@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6758b7d441a9739b98552b373703d8d3d14f9e62",
+  "displayName": "POA ERC20 on Foundation",
+  "type": "TOKEN",
+  "token": {
+    "name": "POA ERC20 on Foundation",
+    "symbol": "POA20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

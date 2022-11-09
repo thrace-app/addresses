@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf225aac9fa622862cec1115f88fa488f294aad6b",
+  "displayName": "The Kong",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Kong",
+    "symbol": "KONG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

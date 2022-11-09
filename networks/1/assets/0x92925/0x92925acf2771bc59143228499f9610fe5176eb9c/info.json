@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92925acf2771bc59143228499f9610fe5176eb9c",
+  "displayName": "SYLToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SYLToken",
+    "symbol": "SYL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

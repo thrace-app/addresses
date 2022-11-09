@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae32fc21c21def26538244fb44e94f3ad012fc67",
+  "displayName": "LiaProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "LiaProtocol",
+    "symbol": "LIA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

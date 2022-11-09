@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4eeb18d595eb84f8982d412865668d33e9186686",
+  "displayName": "Bankers Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bankers Token",
+    "symbol": "$BT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25bc149795bd5decb969a9fbf0b71cbd8d1b2f71",
+  "displayName": "Mini Rocket",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini Rocket",
+    "symbol": "MiniR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d898ccc7ce89d6a9aa6875987993e9e5dbd19f1",
+  "displayName": "RailGun Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RailGun Token",
+    "symbol": "RAILGUN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

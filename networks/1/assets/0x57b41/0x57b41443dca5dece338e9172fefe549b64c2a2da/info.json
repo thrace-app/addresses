@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57b41443dca5dece338e9172fefe549b64c2a2da",
+  "displayName": "Umbridge Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Umbridge Token",
+    "symbol": "UMBRIDGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

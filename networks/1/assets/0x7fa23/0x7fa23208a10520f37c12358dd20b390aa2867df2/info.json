@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fa23208a10520f37c12358dd20b390aa2867df2",
+  "displayName": "PastaDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "PastaDao",
+    "symbol": "Pasta",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

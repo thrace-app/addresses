@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8950fdeaa10304b7a7fd03a2fc66bc39f3c711a",
+  "displayName": "wys Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "wys Token",
+    "symbol": "WYS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

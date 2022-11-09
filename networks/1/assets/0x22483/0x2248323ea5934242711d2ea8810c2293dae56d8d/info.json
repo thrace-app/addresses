@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2248323ea5934242711d2ea8810c2293dae56d8d",
+  "displayName": "Dynamic Set Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dynamic Set Dollar",
+    "symbol": "DSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

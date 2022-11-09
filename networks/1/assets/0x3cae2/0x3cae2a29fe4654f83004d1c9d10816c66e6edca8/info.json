@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3cae2a29fe4654f83004d1c9d10816c66e6edca8",
+  "displayName": "Hermes Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hermes Token",
+    "symbol": "HERMES",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

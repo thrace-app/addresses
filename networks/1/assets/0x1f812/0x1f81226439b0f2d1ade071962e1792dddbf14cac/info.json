@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f81226439b0f2d1ade071962e1792dddbf14cac",
+  "displayName": "POR Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "POR Token",
+    "symbol": "POR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

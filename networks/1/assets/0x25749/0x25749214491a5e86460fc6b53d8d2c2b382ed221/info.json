@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25749214491a5e86460fc6b53d8d2c2b382ed221",
+  "displayName": "Luna Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luna Doge",
+    "symbol": "LUNADOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

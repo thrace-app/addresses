@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc50103ef036bee6ed462858118fa4029e982335a",
+  "displayName": "The Great One",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Great One",
+    "symbol": "OEDON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

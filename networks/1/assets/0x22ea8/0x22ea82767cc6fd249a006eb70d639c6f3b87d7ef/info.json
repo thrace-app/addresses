@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22ea82767cc6fd249a006eb70d639c6f3b87d7ef",
+  "displayName": "CryptoTankz",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoTankz",
+    "symbol": "CTZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

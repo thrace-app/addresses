@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16228c51042fc3cb8663876f75f38504c77add7f",
+  "displayName": "Wrapped NCG",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped NCG",
+    "symbol": "WNCG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89e9a5db22a1151e562a75b8277bff90508565df",
+  "displayName": "IODS",
+  "type": "TOKEN",
+  "token": {
+    "name": "IODS",
+    "symbol": "IODS.suit.coin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

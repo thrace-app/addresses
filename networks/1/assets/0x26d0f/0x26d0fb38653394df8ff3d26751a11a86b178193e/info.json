@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26d0fb38653394df8ff3d26751a11a86b178193e",
+  "displayName": "Weed Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Weed Coin",
+    "symbol": "WEED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

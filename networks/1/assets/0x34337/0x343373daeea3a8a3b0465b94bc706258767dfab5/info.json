@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x343373daeea3a8a3b0465b94bc706258767dfab5",
+  "displayName": "DIAToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DIAToken",
+    "symbol": "DIA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

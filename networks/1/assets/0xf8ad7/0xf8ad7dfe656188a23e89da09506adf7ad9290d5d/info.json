@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8ad7dfe656188a23e89da09506adf7ad9290d5d",
+  "displayName": "Blocery Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blocery Token",
+    "symbol": "BLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

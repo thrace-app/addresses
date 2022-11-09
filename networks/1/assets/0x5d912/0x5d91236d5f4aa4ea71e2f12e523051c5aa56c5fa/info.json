@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d91236d5f4aa4ea71e2f12e523051c5aa56c5fa",
+  "displayName": "ToJan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ToJan Token",
+    "symbol": "TOJ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

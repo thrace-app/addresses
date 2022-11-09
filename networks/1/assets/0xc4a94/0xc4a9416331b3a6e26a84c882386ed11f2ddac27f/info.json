@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4a9416331b3a6e26a84c882386ed11f2ddac27f",
+  "displayName": "InstantPushToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "InstantPushToken",
+    "symbol": "IPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

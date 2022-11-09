@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xefde08df7f23b439b49ed23fccb1916fd5729ead",
+  "displayName": "Hell coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hell coin",
+    "symbol": "HELL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

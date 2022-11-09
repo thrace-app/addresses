@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6bbda4a88444dc80000c8e0abafa072f43f4a946",
+  "displayName": "Grey Goose",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grey Goose",
+    "symbol": "GREYGOOSE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

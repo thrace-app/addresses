@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a40bedb5ff6a5750281fec3801fd76a2dc0d84b",
+  "displayName": "Bottom G Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bottom G Token",
+    "symbol": "BGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

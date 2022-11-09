@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x374155fc5bef18827e209002906c1bf5fac6bf0f",
+  "displayName": "Clone Winner Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Clone Winner Token",
+    "symbol": "CWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

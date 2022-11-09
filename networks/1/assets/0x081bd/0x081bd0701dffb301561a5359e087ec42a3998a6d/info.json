@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x081bd0701dffb301561a5359e087ec42a3998a6d",
+  "displayName": "Solend",
+  "type": "TOKEN",
+  "token": {
+    "name": "Solend",
+    "symbol": "SLND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

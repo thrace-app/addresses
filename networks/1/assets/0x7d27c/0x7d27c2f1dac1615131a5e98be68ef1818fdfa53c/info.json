@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d27c2f1dac1615131a5e98be68ef1818fdfa53c",
+  "displayName": "solo",
+  "type": "TOKEN",
+  "token": {
+    "name": "solo",
+    "symbol": "SOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

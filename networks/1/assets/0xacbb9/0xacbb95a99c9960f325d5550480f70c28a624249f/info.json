@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacbb95a99c9960f325d5550480f70c28a624249f",
+  "displayName": "Sigma Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sigma Doge",
+    "symbol": "sDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

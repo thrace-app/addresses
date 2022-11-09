@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff148a5026cff46dc559eb3d623d1cdcf1e25ec8",
+  "displayName": "MEV Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEV Burn",
+    "symbol": "MEVB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14f3f6dbbb919ddabb8d7f279e9b97e6bbfeede6",
+  "displayName": "Etherwave",
+  "type": "TOKEN",
+  "token": {
+    "name": "Etherwave",
+    "symbol": "ETW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e8ef71d18ab8a315c5d516ab28ba14d88e00c96",
+  "displayName": "DoNotBuy",
+  "type": "TOKEN",
+  "token": {
+    "name": "DoNotBuy",
+    "symbol": "DNB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee0be3cabf2d57011d48b00fac09fa7de30ba2dd",
+  "displayName": "Matrix Samurai Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Matrix Samurai Token",
+    "symbol": "MXS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

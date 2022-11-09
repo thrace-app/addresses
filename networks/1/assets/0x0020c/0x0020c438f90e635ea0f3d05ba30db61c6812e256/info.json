@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0020c438f90e635ea0f3d05ba30db61c6812e256",
+  "displayName": "Tomi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tomi Token",
+    "symbol": "TOMI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

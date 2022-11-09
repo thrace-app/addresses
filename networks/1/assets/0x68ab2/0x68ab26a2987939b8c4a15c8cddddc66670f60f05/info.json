@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68ab26a2987939b8c4a15c8cddddc66670f60f05",
+  "displayName": "HighPerformOracle",
+  "type": "TOKEN",
+  "token": {
+    "name": "HighPerformOracle",
+    "symbol": "HPO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

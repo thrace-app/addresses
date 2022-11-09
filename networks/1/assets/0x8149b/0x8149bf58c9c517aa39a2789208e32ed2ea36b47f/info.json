@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8149bf58c9c517aa39a2789208e32ed2ea36b47f",
+  "displayName": "The Flight",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Flight",
+    "symbol": "FLIGHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

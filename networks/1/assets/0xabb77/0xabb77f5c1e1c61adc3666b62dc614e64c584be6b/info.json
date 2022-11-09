@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabb77f5c1e1c61adc3666b62dc614e64c584be6b",
+  "displayName": "TRUECOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "TRUECOIN",
+    "symbol": "TCOIN",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

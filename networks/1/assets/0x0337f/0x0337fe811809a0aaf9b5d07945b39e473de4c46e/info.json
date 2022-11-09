@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0337fe811809a0aaf9b5d07945b39e473de4c46e",
+  "displayName": "Boot Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boot Finance",
+    "symbol": "BOOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

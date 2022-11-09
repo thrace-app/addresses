@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f1b950d4eed71fa5f7d16e01e7905a518fbed4a",
+  "displayName": "SimpleToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SimpleToken",
+    "symbol": "SIM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

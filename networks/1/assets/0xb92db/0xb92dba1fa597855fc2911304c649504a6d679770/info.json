@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb92dba1fa597855fc2911304c649504a6d679770",
+  "displayName": "WonderHero",
+  "type": "TOKEN",
+  "token": {
+    "name": "WonderHero",
+    "symbol": "WND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

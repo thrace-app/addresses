@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9fd536dee3a1f5d588e058b291a7adf6fda2feb5",
+  "displayName": "Proof of Safu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Safu",
+    "symbol": "PoS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

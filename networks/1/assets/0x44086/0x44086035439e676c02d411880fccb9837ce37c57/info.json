@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44086035439e676c02d411880fccb9837ce37c57",
+  "displayName": "unified Stable Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "unified Stable Dollar",
+    "symbol": "uSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f28ee29c2bc9e78a3c06f76ca9894cd0528aa8e",
+  "displayName": "Giro Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Giro Protocol",
+    "symbol": "GIRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b7f87279982d919bbf85182ddeab179b366d8f2",
+  "displayName": "ETH-BTC Trend",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH-BTC Trend",
+    "symbol": "ETHBTCTrend",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

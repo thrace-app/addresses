@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed1f8be5e6bab5f3ca9b021ee8805185c09ea717",
+  "displayName": "CryptoBus",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoBus",
+    "symbol": "CryptoBus",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

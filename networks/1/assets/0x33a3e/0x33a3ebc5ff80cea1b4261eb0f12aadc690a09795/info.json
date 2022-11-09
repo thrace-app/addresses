@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33a3ebc5ff80cea1b4261eb0f12aadc690a09795",
+  "displayName": "Universal Reserve Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Universal Reserve Currency",
+    "symbol": "URCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

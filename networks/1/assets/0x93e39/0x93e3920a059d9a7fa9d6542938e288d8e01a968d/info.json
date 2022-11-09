@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93e3920a059d9a7fa9d6542938e288d8e01a968d",
+  "displayName": "Robin Hood Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Robin Hood Token",
+    "symbol": "ROBIN HOOD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

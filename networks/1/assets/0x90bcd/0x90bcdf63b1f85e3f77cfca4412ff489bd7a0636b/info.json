@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90bcdf63b1f85e3f77cfca4412ff489bd7a0636b",
+  "displayName": "Pikachu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pikachu",
+    "symbol": "PIKACHU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

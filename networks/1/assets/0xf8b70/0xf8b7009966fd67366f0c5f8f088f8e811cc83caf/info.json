@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8b7009966fd67366f0c5f8f088f8e811cc83caf",
+  "displayName": "Sharkie Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sharkie Token",
+    "symbol": "Sharkie",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

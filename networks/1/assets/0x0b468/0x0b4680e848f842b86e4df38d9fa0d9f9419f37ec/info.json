@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b4680e848f842b86e4df38d9fa0d9f9419f37ec",
+  "displayName": "Beshare Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Beshare Token",
+    "symbol": "BST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

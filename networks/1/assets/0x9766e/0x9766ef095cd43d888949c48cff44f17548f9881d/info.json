@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9766ef095cd43d888949c48cff44f17548f9881d",
+  "displayName": "HexGold",
+  "type": "TOKEN",
+  "token": {
+    "name": "HexGold",
+    "symbol": "HXG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

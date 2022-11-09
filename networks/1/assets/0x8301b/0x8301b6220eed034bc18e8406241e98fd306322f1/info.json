@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8301b6220eed034bc18e8406241e98fd306322f1",
+  "displayName": "CoronaDollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoronaDollar",
+    "symbol": "CODO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

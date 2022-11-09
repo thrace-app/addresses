@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2144dd21d8e0ebf66ef388ede0aa7e293a5d82bb",
+  "displayName": "Froggies",
+  "type": "TOKEN",
+  "token": {
+    "name": "Froggies",
+    "symbol": "FROGGIES",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

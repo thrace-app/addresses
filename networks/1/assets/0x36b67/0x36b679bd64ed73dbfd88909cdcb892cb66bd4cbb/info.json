@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36b679bd64ed73dbfd88909cdcb892cb66bd4cbb",
+  "displayName": "Standard",
+  "type": "TOKEN",
+  "token": {
+    "name": "Standard",
+    "symbol": "xMARK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

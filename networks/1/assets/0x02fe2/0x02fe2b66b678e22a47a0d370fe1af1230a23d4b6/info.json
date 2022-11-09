@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02fe2b66b678e22a47a0d370fe1af1230a23d4b6",
+  "displayName": "MilkersDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "MilkersDAO",
+    "symbol": "mDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb76af4c534731574907d43715de4723435f053ae",
+  "displayName": "EtherDog",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherDog",
+    "symbol": "EDOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

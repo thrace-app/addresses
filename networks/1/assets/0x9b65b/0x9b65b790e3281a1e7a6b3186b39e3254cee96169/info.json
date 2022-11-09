@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b65b790e3281a1e7a6b3186b39e3254cee96169",
+  "displayName": "Lola Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lola Protocol",
+    "symbol": "LOLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

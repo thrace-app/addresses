@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0208ff78f781eb78b5b876ecdd6dc00cc6974ef3",
+  "displayName": "Bird Call",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bird Call",
+    "symbol": "BC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

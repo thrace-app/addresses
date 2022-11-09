@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b7669be36b15921bc9e14b5382c5359238555ed",
+  "displayName": "ERTToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ERTToken",
+    "symbol": "ERT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

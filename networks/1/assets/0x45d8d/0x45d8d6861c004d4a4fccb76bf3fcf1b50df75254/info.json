@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45d8d6861c004d4a4fccb76bf3fcf1b50df75254",
+  "displayName": "The Room Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Room Coin",
+    "symbol": "ROOMCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

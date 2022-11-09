@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x324048a600de0cb831ef359e15c671c113f9255c",
+  "displayName": "KarteraToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KarteraToken",
+    "symbol": "KART",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

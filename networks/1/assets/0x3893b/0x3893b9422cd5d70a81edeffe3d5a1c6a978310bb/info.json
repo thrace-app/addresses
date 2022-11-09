@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb",
+  "displayName": "Mithril Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mithril Token",
+    "symbol": "MITH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

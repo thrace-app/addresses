@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3db5530ebf062fb0069d80730a0b43920d7b6b1a",
+  "displayName": "Ethelon Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethelon Finance",
+    "symbol": "ETHELON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

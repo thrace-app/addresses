@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e229f09690dead296ee09632e6038776b25683b",
+  "displayName": "Burned DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burned DAO",
+    "symbol": "BDAO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

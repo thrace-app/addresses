@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x275c94e0dcbf950f77452325b93b40685b3d8b23",
+  "displayName": "CarolinaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CarolinaCoin",
+    "symbol": "ClnC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

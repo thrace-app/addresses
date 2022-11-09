@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91",
+  "displayName": "CryptoPhunks",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoPhunks",
+    "symbol": "PHUNK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

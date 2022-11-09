@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8056bc5da306fc67372fb1b6ead454255fd90f38",
+  "displayName": "Pepe Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pepe Doge",
+    "symbol": "PEGE",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

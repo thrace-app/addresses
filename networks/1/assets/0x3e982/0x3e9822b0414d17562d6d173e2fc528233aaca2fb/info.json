@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e9822b0414d17562d6d173e2fc528233aaca2fb",
+  "displayName": "Duke inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Duke inu Token",
+    "symbol": "Duke",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

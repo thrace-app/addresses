@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a5e6ca9d335e343d1ed12239f67248e056afe2f",
+  "displayName": "Ethash Miner",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethash Miner",
+    "symbol": "HETM",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

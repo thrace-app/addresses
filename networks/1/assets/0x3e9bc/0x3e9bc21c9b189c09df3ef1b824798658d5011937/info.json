@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+  "displayName": "Linear Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Linear Token",
+    "symbol": "LINA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

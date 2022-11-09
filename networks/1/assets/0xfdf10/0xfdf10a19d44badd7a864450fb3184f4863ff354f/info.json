@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfdf10a19d44badd7a864450fb3184f4863ff354f",
+  "displayName": "Mini Dinger",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini Dinger",
+    "symbol": "MINIDINGER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

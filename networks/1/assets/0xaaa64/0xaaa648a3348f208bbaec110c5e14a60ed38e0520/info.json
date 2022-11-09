@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaaa648a3348f208bbaec110c5e14a60ed38e0520",
+  "displayName": "BNB INU",
+  "type": "TOKEN",
+  "token": {
+    "name": "BNB INU",
+    "symbol": "cBNB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a6e79663faca29a191fd6979e4986eb59c8ce45",
+  "displayName": "MakerDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "MakerDAO",
+    "symbol": "MakerDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

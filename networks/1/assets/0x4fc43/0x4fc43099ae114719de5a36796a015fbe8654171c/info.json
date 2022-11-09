@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4fc43099ae114719de5a36796a015fbe8654171c",
+  "displayName": "The Pope",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Pope",
+    "symbol": "FATHER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

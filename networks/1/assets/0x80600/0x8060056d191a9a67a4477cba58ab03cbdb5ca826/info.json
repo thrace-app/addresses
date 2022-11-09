@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8060056d191a9a67a4477cba58ab03cbdb5ca826",
+  "displayName": "IceFish",
+  "type": "TOKEN",
+  "token": {
+    "name": "IceFish",
+    "symbol": "ICE",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3aa38943569ae5a19227c1d1c94fc1d3e379f2ed",
+  "displayName": "Streamer Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Streamer Burn",
+    "symbol": "STREAMERBURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

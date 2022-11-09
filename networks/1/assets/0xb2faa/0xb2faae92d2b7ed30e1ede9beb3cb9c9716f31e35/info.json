@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb2faae92d2b7ed30e1ede9beb3cb9c9716f31e35",
+  "displayName": "BasisCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BasisCoin",
+    "symbol": "BSC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

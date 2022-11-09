@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73a052500105205d34daf004eab301916da8190f",
+  "displayName": "iearn TUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "iearn TUSD",
+    "symbol": "yTUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

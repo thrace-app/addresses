@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42a4d5edd666ffa4b00eecebe6dfd57436365a20",
+  "displayName": "YFX.Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "YFX.Fund",
+    "symbol": "YFX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

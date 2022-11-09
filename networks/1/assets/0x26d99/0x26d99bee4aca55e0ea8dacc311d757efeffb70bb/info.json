@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26d99bee4aca55e0ea8dacc311d757efeffb70bb",
+  "displayName": "Weus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Weus Token",
+    "symbol": "WEUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

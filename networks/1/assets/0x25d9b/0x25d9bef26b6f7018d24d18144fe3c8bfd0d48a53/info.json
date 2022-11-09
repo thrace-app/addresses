@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25d9bef26b6f7018d24d18144fe3c8bfd0d48a53",
+  "displayName": "Agricoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Agricoin",
+    "symbol": "AGN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

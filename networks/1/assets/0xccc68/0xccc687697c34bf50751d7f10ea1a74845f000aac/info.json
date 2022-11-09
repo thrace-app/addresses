@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccc687697c34bf50751d7f10ea1a74845f000aac",
+  "displayName": "Luna Pug",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luna Pug",
+    "symbol": "LPUG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

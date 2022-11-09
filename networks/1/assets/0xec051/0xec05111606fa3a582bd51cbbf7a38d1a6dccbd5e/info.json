@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec05111606fa3a582bd51cbbf7a38d1a6dccbd5e",
+  "displayName": "TheOrb",
+  "type": "TOKEN",
+  "token": {
+    "name": "TheOrb",
+    "symbol": "ORB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

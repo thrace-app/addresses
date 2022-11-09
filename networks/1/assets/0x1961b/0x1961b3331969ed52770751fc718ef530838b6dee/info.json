@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1961b3331969ed52770751fc718ef530838b6dee",
+  "displayName": "BitDegree Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitDegree Token",
+    "symbol": "BDG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

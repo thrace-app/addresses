@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x054b642117892205a6f5a0b8c29ffd10a6369d19",
+  "displayName": "FMX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FMX Token",
+    "symbol": "FMXT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

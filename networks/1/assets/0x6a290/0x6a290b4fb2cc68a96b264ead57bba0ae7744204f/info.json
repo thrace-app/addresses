@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a290b4fb2cc68a96b264ead57bba0ae7744204f",
+  "displayName": "Snow Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Snow Token",
+    "symbol": "SNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

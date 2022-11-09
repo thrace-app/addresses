@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec3f679d66ebe9266cc32070eba2f0aafc8b8bf8",
+  "displayName": "UniStar Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniStar Token",
+    "symbol": "UNISTAR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

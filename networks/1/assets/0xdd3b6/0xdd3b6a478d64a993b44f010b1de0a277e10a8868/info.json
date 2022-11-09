@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd3b6a478d64a993b44f010b1de0a277e10a8868",
+  "displayName": "Elonautica Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elonautica Token",
+    "symbol": "ELONA",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

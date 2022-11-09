@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf19335b8e7cba10ae2e54951d4547dff75d7956",
+  "displayName": "KSM Starter Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KSM Starter Token",
+    "symbol": "KST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78ff2f3a18706fe4ad0b1c8269f7e4447475b82a",
+  "displayName": "RUMI",
+  "type": "TOKEN",
+  "token": {
+    "name": "RUMI",
+    "symbol": "RUMI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x375abb85c329753b1ba849a601438ae77eec9893",
+  "displayName": "Paragons DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Paragons DAO Token",
+    "symbol": "PDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7998a5cd225ffd77f2c7bd31b57c97bce45fdf3b",
+  "displayName": "Tethered Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tethered Coin",
+    "symbol": "TETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

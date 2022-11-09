@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x809efdbed57b522c4780283bde95be760b30f704",
+  "displayName": "Antler Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Antler Coin",
+    "symbol": "ANCO",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

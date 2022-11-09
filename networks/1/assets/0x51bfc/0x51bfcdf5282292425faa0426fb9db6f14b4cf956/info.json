@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51bfcdf5282292425faa0426fb9db6f14b4cf956",
+  "displayName": "HexCash",
+  "type": "TOKEN",
+  "token": {
+    "name": "HexCash",
+    "symbol": "HCASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4caf58fafcb947eec3c99d6d92c49d437b2f93a",
+  "displayName": "flux.market",
+  "type": "TOKEN",
+  "token": {
+    "name": "flux.market",
+    "symbol": "FLUX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

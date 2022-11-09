@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27a16527729d6d05340fc2dd20b91664dd57e6cc",
+  "displayName": "TestOnly",
+  "type": "TOKEN",
+  "token": {
+    "name": "TestOnly",
+    "symbol": "NOBUY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

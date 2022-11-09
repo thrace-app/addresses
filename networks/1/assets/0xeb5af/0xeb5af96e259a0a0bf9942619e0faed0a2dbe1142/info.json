@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb5af96e259a0a0bf9942619e0faed0a2dbe1142",
+  "displayName": "Budai Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Budai Token",
+    "symbol": "BUDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

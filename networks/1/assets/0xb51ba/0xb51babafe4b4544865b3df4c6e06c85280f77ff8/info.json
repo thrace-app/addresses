@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb51babafe4b4544865b3df4c6e06c85280f77ff8",
+  "displayName": "Ethereum City",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum City",
+    "symbol": "ECASH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

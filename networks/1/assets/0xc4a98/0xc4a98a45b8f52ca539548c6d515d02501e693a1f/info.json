@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4a98a45b8f52ca539548c6d515d02501e693a1f",
+  "displayName": "First Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "First Ape",
+    "symbol": "FA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

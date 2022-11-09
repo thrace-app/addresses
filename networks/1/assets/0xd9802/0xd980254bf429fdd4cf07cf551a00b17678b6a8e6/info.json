@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd980254bf429fdd4cf07cf551a00b17678b6a8e6",
+  "displayName": "xFEGtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "xFEGtoken",
+    "symbol": "xFEG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

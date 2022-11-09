@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85e7a3697850d36164629b920cda5e414659b3bf",
+  "displayName": "Avalanche Native Token Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Avalanche Native Token Ether",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

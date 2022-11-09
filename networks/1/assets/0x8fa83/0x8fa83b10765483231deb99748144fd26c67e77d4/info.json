@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8fa83b10765483231deb99748144fd26c67e77d4",
+  "displayName": "UnSafeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "UnSafeToken",
+    "symbol": "$UST",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

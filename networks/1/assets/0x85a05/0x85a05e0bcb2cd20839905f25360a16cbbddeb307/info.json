@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85a05e0bcb2cd20839905f25360a16cbbddeb307",
+  "displayName": "HexMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "HexMoon",
+    "symbol": "XMOON",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

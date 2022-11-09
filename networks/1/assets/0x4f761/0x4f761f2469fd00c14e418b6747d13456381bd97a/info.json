@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f761f2469fd00c14e418b6747d13456381bd97a",
+  "displayName": "Mushrooms Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mushrooms Finance",
+    "symbol": "MUSH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

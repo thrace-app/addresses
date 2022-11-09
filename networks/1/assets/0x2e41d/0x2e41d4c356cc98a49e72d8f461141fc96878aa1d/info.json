@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e41d4c356cc98a49e72d8f461141fc96878aa1d",
+  "displayName": "ApeX",
+  "type": "TOKEN",
+  "token": {
+    "name": "ApeX",
+    "symbol": "APX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

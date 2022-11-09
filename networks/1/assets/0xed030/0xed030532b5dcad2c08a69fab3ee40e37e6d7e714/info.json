@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed030532b5dcad2c08a69fab3ee40e37e6d7e714",
+  "displayName": "RioDefi Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "RioDefi Ethereum",
+    "symbol": "RFuel",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

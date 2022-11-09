@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9efb1a47408dd5cc25aa2577a737a1d030abc6cf",
+  "displayName": "MetaBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaBurn",
+    "symbol": "METABURN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

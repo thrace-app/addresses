@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01a429f67cae5c55e4b7bb2bfde1b3a651ba38e7",
+  "displayName": "Baby Hoge Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Hoge Inu",
+    "symbol": "BabyHoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

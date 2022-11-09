@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa200ca694e55ba4ff82b100f508bf540a20790cb",
+  "displayName": "Trustology Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trustology Token",
+    "symbol": "TSG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

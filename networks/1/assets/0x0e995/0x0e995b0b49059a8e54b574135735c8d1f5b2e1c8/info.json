@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e995b0b49059a8e54b574135735c8d1f5b2e1c8",
+  "displayName": "This Is Alpha",
+  "type": "TOKEN",
+  "token": {
+    "name": "This Is Alpha",
+    "symbol": "TIA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

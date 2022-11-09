@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9824aa79251820595b884f0991a07fc42f34cea3",
+  "displayName": "Enigma Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Enigma Coin",
+    "symbol": "ENI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

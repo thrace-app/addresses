@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e9efd4097adb7d46ca02fafd05a36aedf3b7126",
+  "displayName": "Print Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Print Money",
+    "symbol": "PMY",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

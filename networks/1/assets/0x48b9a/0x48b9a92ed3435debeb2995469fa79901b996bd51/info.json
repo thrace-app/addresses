@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48b9a92ed3435debeb2995469fa79901b996bd51",
+  "displayName": "The Operator",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Operator",
+    "symbol": "OPERATOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

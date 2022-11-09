@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x234d51ee02be808a0160b19b689660fb7bfa871b",
+  "displayName": "CoinScan",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinScan",
+    "symbol": "SCAN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

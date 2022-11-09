@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x59f92265d01dd46bbbcf9e744afb3c2da2ee4a0b",
+  "displayName": "Juventus Fan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Juventus Fan Token",
+    "symbol": "JUV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

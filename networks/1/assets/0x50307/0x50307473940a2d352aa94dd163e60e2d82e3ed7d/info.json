@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50307473940a2d352aa94dd163e60e2d82e3ed7d",
+  "displayName": "Wagyu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wagyu Token",
+    "symbol": "WAGYU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

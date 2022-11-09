@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4f7363648b324f782706e105ede9cbf50a95760",
+  "displayName": "Weiner Protocol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Weiner Protocol Token",
+    "symbol": "WENR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

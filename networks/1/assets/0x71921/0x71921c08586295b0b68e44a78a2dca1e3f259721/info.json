@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71921c08586295b0b68e44a78a2dca1e3f259721",
+  "displayName": "PonyDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "PonyDAO",
+    "symbol": "PNYD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

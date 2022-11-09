@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef779cf3d260dbe6177b30ff08b10db591a6dd9c",
+  "displayName": "kUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "kUSD",
+    "symbol": "kUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

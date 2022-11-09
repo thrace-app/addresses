@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b3d5a1dc55a4565623116b1e58c1af1d500e6f3",
+  "displayName": "Bitcrypt",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcrypt",
+    "symbol": "BIT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

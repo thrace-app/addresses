@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30eb6b9cf192b5f1e056296863e73abb9c8ae67c",
+  "displayName": "The Geyser",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Geyser",
+    "symbol": "GEYSER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

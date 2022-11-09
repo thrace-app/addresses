@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbefc006459cff86fd3c763b48953bd6d21cd4a87",
+  "displayName": "Pokémoon Pokédex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pokémoon Pokédex",
+    "symbol": "pkmn",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

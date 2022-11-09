@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5452327bf22fdb2412a33cc37d56a43ebaf78fd0",
+  "displayName": "Safe Direct",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Direct",
+    "symbol": "SDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

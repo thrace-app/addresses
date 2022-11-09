@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x315f014493408fb3d8c97a178bc47916fa7bbaee",
+  "displayName": "main test token",
+  "type": "TOKEN",
+  "token": {
+    "name": "main test token",
+    "symbol": "MTT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

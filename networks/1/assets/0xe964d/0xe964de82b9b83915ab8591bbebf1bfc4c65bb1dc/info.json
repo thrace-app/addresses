@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe964de82b9b83915ab8591bbebf1bfc4c65bb1dc",
+  "displayName": "Petro",
+  "type": "TOKEN",
+  "token": {
+    "name": "Petro",
+    "symbol": "PTR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

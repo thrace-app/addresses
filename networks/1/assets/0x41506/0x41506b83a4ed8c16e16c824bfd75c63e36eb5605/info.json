@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41506b83a4ed8c16e16c824bfd75c63e36eb5605",
+  "displayName": "Doge Floki Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Floki Coin",
+    "symbol": "DOFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

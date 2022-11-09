@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3519378e0c67ca658ee91c4f6d5573c55ac6e401",
+  "displayName": "Wrapped GEGO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped GEGO",
+    "symbol": "WGEGO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

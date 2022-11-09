@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf16843c8ab59ae17f9481ec756a1ded049192af4",
+  "displayName": "比特链",
+  "type": "TOKEN",
+  "token": {
+    "name": "比特链",
+    "symbol": "BIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

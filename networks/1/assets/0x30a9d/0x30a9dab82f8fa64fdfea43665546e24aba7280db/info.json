@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30a9dab82f8fa64fdfea43665546e24aba7280db",
+  "displayName": "PAMMCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "PAMMCOIN",
+    "symbol": "PAMM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

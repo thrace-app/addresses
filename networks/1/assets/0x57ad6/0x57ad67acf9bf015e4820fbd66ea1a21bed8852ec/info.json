@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec",
+  "displayName": "Lympo tokens",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lympo tokens",
+    "symbol": "LYM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

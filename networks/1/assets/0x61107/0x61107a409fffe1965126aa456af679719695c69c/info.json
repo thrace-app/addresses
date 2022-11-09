@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61107a409fffe1965126aa456af679719695c69c",
+  "displayName": "UmiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "UmiToken",
+    "symbol": "UMI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5feef4edb5dac92e4cc9338ebe89f87accf966f3",
+  "displayName": "COKE Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "COKE Coin",
+    "symbol": "COKE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

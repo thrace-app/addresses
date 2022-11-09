@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b7e329571f8b1bed3c874ec346b1496a6156ca2",
+  "displayName": "Wootrade",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wootrade",
+    "symbol": "WOO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

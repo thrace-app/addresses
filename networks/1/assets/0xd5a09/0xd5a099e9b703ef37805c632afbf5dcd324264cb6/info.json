@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5a099e9b703ef37805c632afbf5dcd324264cb6",
+  "displayName": "NANICOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "NANICOIN",
+    "symbol": "NANI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

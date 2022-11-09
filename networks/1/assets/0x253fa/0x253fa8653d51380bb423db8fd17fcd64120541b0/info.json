@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x253fa8653d51380bb423db8fd17fcd64120541b0",
+  "displayName": "HexPower",
+  "type": "TOKEN",
+  "token": {
+    "name": "HexPower",
+    "symbol": "HEXPOW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

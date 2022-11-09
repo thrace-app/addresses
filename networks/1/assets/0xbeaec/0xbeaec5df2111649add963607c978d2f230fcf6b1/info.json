@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbeaec5df2111649add963607c978d2f230fcf6b1",
+  "displayName": "Secure Pad",
+  "type": "TOKEN",
+  "token": {
+    "name": "Secure Pad",
+    "symbol": "SEPA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c5673002d854de18e9f6feb7f9825f88c5bf1e4",
+  "displayName": "Terraform DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Terraform DAO",
+    "symbol": "TERRAFORM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

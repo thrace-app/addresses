@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa111dc28241b76226eb2ae602c23f36415a5474f",
+  "displayName": "teaDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "teaDAO",
+    "symbol": "teaDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

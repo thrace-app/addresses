@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe66747a101bff2dba3697199dcce5b743b454759",
+  "displayName": "GateChainToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GateChainToken",
+    "symbol": "GT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

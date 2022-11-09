@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e2edab05ffd53177f20618c9df8fb69542cda43",
+  "displayName": "Xon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Xon Token",
+    "symbol": "XON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

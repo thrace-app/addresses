@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5baff33f73f59c28f53ec7bbc970b33ae4d2e1e7",
+  "displayName": "DoomCat",
+  "type": "TOKEN",
+  "token": {
+    "name": "DoomCat",
+    "symbol": "DOOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

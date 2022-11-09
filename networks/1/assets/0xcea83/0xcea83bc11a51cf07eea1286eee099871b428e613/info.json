@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcea83bc11a51cf07eea1286eee099871b428e613",
+  "displayName": "Bitcoin 3",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin 3",
+    "symbol": "BTC3",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

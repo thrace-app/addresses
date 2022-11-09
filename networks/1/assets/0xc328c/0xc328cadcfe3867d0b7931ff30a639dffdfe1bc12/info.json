@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc328cadcfe3867d0b7931ff30a639dffdfe1bc12",
+  "displayName": "PRC token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PRC token",
+    "symbol": "PRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

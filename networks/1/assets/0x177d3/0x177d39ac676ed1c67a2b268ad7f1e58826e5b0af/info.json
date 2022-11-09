@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
+  "displayName": "CoinDash Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinDash Token",
+    "symbol": "CDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

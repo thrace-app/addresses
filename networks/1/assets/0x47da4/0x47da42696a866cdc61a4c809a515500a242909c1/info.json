@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47da42696a866cdc61a4c809a515500a242909c1",
+  "displayName": "BitRewards Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitRewards Token",
+    "symbol": "BIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78525827e6b346059e3324e5def20ee1e90469d2",
+  "displayName": "Shidded Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shidded Coin",
+    "symbol": "SHID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

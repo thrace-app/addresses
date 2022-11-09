@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92cb28f0b9618930a6fab60da5f7b6addd995ccf",
+  "displayName": "Kazuhiko Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kazuhiko Token",
+    "symbol": "Kazuhiko",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

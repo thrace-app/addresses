@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19f1a46caee231a7d95226355cc67fc790f5487b",
+  "displayName": "Baby ETHCake",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby ETHCake",
+    "symbol": "BECake",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

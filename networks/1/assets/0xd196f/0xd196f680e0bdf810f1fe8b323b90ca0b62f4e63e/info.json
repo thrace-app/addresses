@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd196f680e0bdf810f1fe8b323b90ca0b62f4e63e",
+  "displayName": "QLCToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "QLCToken",
+    "symbol": "QLC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

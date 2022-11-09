@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d3394a0b89fd934959ba767bf8677cf0653bab4",
+  "displayName": "POx Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "POx Token",
+    "symbol": "POx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

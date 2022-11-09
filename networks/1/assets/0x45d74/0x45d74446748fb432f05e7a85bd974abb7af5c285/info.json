@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45d74446748fb432f05e7a85bd974abb7af5c285",
+  "displayName": "White Rabbit",
+  "type": "TOKEN",
+  "token": {
+    "name": "White Rabbit",
+    "symbol": "WRAB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

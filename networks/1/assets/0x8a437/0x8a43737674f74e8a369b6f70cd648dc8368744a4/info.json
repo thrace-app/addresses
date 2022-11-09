@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a43737674f74e8a369b6f70cd648dc8368744a4",
+  "displayName": "RedButtonCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RedButtonCoin",
+    "symbol": "RBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee5553f566951f3d421b9414424c080eedbaf2e7",
+  "displayName": "xDAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "xDAI",
+    "symbol": "xDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

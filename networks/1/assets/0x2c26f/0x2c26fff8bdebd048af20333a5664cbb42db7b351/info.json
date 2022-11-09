@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c26fff8bdebd048af20333a5664cbb42db7b351",
+  "displayName": "Invest game token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Invest game token",
+    "symbol": "IGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

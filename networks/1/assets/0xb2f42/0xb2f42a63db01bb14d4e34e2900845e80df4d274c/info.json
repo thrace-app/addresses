@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb2f42a63db01bb14d4e34e2900845e80df4d274c",
+  "displayName": "Transport Trans Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Transport Trans Token",
+    "symbol": "TTT",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

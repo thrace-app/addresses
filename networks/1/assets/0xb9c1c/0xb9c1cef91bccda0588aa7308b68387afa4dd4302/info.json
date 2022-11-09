@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb9c1cef91bccda0588aa7308b68387afa4dd4302",
+  "displayName": "TondoCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TondoCoin",
+    "symbol": "TDC",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

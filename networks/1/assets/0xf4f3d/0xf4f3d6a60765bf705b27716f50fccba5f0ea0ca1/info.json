@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4f3d6a60765bf705b27716f50fccba5f0ea0ca1",
+  "displayName": "Magic Balancer",
+  "type": "TOKEN",
+  "token": {
+    "name": "Magic Balancer",
+    "symbol": "MGB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

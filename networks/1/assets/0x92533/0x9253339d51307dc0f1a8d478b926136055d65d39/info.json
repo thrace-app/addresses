@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9253339d51307dc0f1a8d478b926136055d65d39",
+  "displayName": "Toto Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Toto Inu",
+    "symbol": "TOTO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

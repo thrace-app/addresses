@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7135877cd5d40aa3b086ac6f21c51bbafbbb41f",
+  "displayName": "AusdToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AusdToken",
+    "symbol": "AUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

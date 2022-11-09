@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f86b24da64e16d9b21585a8734b8b0c94a43c18",
+  "displayName": "Fidelity Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fidelity Token",
+    "symbol": "FDT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

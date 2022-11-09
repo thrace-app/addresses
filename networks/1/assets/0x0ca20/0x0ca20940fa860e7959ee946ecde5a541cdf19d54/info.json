@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ca20940fa860e7959ee946ecde5a541cdf19d54",
+  "displayName": "Fantom AMM USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fantom AMM USD",
+    "symbol": "fUSD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e0f20bde7faa6cf09bd3006285439d7e356addb",
+  "displayName": "Genesis Bird",
+  "type": "TOKEN",
+  "token": {
+    "name": "Genesis Bird",
+    "symbol": "GenBIRD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

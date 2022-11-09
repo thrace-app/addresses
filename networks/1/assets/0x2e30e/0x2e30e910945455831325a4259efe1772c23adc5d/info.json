@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e30e910945455831325a4259efe1772c23adc5d",
+  "displayName": "Gordon Ramsay",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gordon Ramsay",
+    "symbol": "GORDY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

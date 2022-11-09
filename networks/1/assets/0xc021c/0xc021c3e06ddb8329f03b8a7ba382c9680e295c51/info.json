@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc021c3e06ddb8329f03b8a7ba382c9680e295c51",
+  "displayName": "Tesla Fan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tesla Fan Token",
+    "symbol": "TFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

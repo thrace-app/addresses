@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d62247e6571757b8f630c83595d2f7e517f6bab",
+  "displayName": "Faker Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Faker Inu",
+    "symbol": "FINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

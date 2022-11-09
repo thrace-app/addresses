@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb75fedacce6992fa4e14e720ee6ee8a9ec96e17b",
+  "displayName": "EndlessPump Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EndlessPump Token",
+    "symbol": "EPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

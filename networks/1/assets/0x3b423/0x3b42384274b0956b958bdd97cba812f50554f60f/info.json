@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b42384274b0956b958bdd97cba812f50554f60f",
+  "displayName": "McNuggets",
+  "type": "TOKEN",
+  "token": {
+    "name": "McNuggets",
+    "symbol": "NugLife",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

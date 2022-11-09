@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cd122524577c91ec3d9ce5f2c8c8e12790988bf",
+  "displayName": "Core Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Core Chain",
+    "symbol": "COSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

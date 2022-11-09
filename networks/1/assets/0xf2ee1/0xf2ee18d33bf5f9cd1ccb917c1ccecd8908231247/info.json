@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2ee18d33bf5f9cd1ccb917c1ccecd8908231247",
+  "displayName": "ParaInu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ParaInu Token",
+    "symbol": "PARAINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

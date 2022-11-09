@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc1ea3fcc3913da2386e988c1d808a03350ab86c",
+  "displayName": "Slither ERC20",
+  "type": "TOKEN",
+  "token": {
+    "name": "Slither ERC20",
+    "symbol": "SLITHERC20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

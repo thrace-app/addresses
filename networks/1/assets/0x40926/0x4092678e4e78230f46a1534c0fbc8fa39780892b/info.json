@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4092678e4e78230f46a1534c0fbc8fa39780892b",
+  "displayName": "OCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "OCoin",
+    "symbol": "OCN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

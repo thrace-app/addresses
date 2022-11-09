@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2fd1dedd6f2367b72a714bf0dc9d22d7d21b46ac",
+  "displayName": "SuperSystem",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperSystem",
+    "symbol": "SYSTEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

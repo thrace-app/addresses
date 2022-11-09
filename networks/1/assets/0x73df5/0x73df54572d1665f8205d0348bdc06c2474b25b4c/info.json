@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73df54572d1665f8205d0348bdc06c2474b25b4c",
+  "displayName": "SuperOracleProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperOracleProtocol",
+    "symbol": "SOP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

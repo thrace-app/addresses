@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ed130086c348293f916098a600169c0cab82def",
+  "displayName": "ChainLink Private",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChainLink Private",
+    "symbol": "LINKX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

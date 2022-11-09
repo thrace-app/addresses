@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x952bd38f551b92a45b56f83793502bbdd63bedeb",
+  "displayName": "Baltacoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baltacoin",
+    "symbol": "BLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

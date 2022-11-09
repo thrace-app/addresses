@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x310e2d5d0e624e54af14ccfc8022143ee0234fb1",
+  "displayName": "Akuma Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Akuma Token",
+    "symbol": "AKUMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

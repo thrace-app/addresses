@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbba39fd2935d5769116ce38d46a71bde9cf03099",
+  "displayName": "choise.com Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "choise.com Token",
+    "symbol": "CHO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

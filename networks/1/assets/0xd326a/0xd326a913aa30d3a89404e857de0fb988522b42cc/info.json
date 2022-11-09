@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd326a913aa30d3a89404e857de0fb988522b42cc",
+  "displayName": "10k Club",
+  "type": "TOKEN",
+  "token": {
+    "name": "10k Club",
+    "symbol": "10k",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

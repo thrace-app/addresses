@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9cd2f0cdd926fdedf032bc490e033ffd08a0bf35",
+  "displayName": "Big Boy Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Big Boy Currency",
+    "symbol": "BBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

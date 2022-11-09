@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e01d2db277d6ea3e53c1cf25d7518b0b8f80a8b",
+  "displayName": "Duke Nukem",
+  "type": "TOKEN",
+  "token": {
+    "name": "Duke Nukem",
+    "symbol": "NUKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

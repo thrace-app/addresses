@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbf7e6268a2579780215235d988ba382a097f935",
+  "displayName": "CRYO",
+  "type": "TOKEN",
+  "token": {
+    "name": "CRYO",
+    "symbol": "Cryotoken",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

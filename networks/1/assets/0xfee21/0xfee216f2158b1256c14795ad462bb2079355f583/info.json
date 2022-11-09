@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfee216f2158b1256c14795ad462bb2079355f583",
+  "displayName": "MonetNetwork",
+  "type": "TOKEN",
+  "token": {
+    "name": "MonetNetwork",
+    "symbol": "MONET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

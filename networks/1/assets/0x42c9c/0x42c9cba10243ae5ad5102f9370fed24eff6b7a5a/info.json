@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42c9cba10243ae5ad5102f9370fed24eff6b7a5a",
+  "displayName": "arweave",
+  "type": "TOKEN",
+  "token": {
+    "name": "arweave",
+    "symbol": "ar",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

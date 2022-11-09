@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52f849e9713219e004f25fbc7143c06495ef46f9",
+  "displayName": "DeFi Farming",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi Farming",
+    "symbol": "DFIF",
+    "decimals": 7,
+    "type": "ERC20"
+  }
+}

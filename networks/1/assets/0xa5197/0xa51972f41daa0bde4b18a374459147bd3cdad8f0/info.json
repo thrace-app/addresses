@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa51972f41daa0bde4b18a374459147bd3cdad8f0",
+  "displayName": "Indian Rupee",
+  "type": "TOKEN",
+  "token": {
+    "name": "Indian Rupee",
+    "symbol": "INR",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

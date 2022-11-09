@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x212078a69d32f02941671b63d9d10e6774792b09",
+  "displayName": "KfcToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KfcToken",
+    "symbol": "KFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

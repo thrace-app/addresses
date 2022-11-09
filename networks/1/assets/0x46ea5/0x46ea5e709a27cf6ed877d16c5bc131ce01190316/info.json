@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46ea5e709a27cf6ed877d16c5bc131ce01190316",
+  "displayName": "worldcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "worldcoin",
+    "symbol": "WLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

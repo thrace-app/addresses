@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf55af84a942fcb975c8d0117ab38698fe075d16",
+  "displayName": "Persian cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Persian cat",
+    "symbol": "pCAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

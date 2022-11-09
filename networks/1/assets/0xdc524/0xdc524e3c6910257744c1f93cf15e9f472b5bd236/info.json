@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc524e3c6910257744c1f93cf15e9f472b5bd236",
+  "displayName": "Witch Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Witch Token",
+    "symbol": "WITCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8eee4a92d379ca020451a8c3d84d004af4e9f63b",
+  "displayName": "ZENFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZENFT",
+    "symbol": "ZEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

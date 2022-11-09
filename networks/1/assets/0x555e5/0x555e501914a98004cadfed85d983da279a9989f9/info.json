@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x555e501914a98004cadfed85d983da279a9989f9",
+  "displayName": "Umibozu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Umibozu",
+    "symbol": "海坊主",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87e865de0d3a777ac59b453a37f15e1d97c8d3b6",
+  "displayName": "Hydrogen Fuel",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hydrogen Fuel",
+    "symbol": "HYDROFUEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

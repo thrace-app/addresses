@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe34099b8a1eb4cac66168f46014340ba425fa8f",
+  "displayName": "Make Me Rich Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Make Me Rich Token",
+    "symbol": "MMR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

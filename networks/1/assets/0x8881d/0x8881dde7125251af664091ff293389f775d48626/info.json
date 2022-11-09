@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8881dde7125251af664091ff293389f775d48626",
+  "displayName": "DRAC Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DRAC Token",
+    "symbol": "DRAC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

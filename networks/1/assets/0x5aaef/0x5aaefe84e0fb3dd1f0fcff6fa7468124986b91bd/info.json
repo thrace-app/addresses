@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd",
+  "displayName": "Evedo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Evedo Token",
+    "symbol": "EVED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

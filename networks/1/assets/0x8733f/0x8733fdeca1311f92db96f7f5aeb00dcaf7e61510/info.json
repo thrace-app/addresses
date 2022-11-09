@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8733fdeca1311f92db96f7f5aeb00dcaf7e61510",
+  "displayName": "Master Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Master Token",
+    "symbol": "MST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

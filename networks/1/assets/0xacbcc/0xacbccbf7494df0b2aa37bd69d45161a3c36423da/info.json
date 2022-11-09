@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacbccbf7494df0b2aa37bd69d45161a3c36423da",
+  "displayName": "StarShineToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarShineToken",
+    "symbol": "SST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

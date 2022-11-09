@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf41e68d2dee793e1b225b412990e520aa96811e8",
+  "displayName": "RapOracle",
+  "type": "TOKEN",
+  "token": {
+    "name": "RapOracle",
+    "symbol": "RapOracle",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

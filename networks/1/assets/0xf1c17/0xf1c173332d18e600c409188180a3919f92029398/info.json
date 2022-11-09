@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1c173332d18e600c409188180a3919f92029398",
+  "displayName": "Tokyo Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tokyo Swap",
+    "symbol": "TOKYO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

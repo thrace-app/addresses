@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6a8d30add99653cd1d18d3263e83b21c74bcbaa",
+  "displayName": "Budokan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Budokan Token",
+    "symbol": "BUDOKAN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcbba83a4d3f35d294a26012ac54e9ab6627da018",
+  "displayName": "Roar Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Roar Token",
+    "symbol": "ROAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbc134f1e85da879c3d5043f422dfe6685ba109e",
+  "displayName": "crue standard",
+  "type": "TOKEN",
+  "token": {
+    "name": "crue standard",
+    "symbol": "CRUE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

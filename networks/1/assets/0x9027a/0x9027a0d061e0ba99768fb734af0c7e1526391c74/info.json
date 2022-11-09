@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9027a0d061e0ba99768fb734af0c7e1526391c74",
+  "displayName": "RTU Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RTU Token",
+    "symbol": "RTU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

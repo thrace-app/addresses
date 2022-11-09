@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93effd08e3e5a4b1b40c26137e63876b2501ffa4",
+  "displayName": "JulSwap on ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "JulSwap on ETH",
+    "symbol": "JulD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

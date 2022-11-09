@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40d2f555a3ea07528bef5d474f364bdcb7a0134c",
+  "displayName": "CardanoStarter",
+  "type": "TOKEN",
+  "token": {
+    "name": "CardanoStarter",
+    "symbol": "ADS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

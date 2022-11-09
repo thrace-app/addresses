@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ecb96039340630c8b82e5a7732bc88b2aeade82",
+  "displayName": "bRing Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "bRing Token",
+    "symbol": "BRNG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

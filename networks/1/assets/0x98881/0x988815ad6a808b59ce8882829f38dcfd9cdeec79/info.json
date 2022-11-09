@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x988815ad6a808b59ce8882829f38dcfd9cdeec79",
+  "displayName": "Foodoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Foodoge",
+    "symbol": "FOODOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

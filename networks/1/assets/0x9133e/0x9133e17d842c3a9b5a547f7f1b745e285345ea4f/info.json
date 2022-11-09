@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9133e17d842c3a9b5a547f7f1b745e285345ea4f",
+  "displayName": "PixelGas",
+  "type": "TOKEN",
+  "token": {
+    "name": "PixelGas",
+    "symbol": "PixelGas",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

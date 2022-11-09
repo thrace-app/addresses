@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32f7d0f7bcfa3b7a3dc925283684de85ca55fcba",
+  "displayName": "The Great Queen",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Great Queen",
+    "symbol": "CLEOPATRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

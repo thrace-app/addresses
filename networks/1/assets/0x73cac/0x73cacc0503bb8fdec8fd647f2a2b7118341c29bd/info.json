@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73cacc0503bb8fdec8fd647f2a2b7118341c29bd",
+  "displayName": "RoundCubeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RoundCubeCoin",
+    "symbol": "RCC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

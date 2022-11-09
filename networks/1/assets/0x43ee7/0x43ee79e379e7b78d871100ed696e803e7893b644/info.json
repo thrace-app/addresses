@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43ee79e379e7b78d871100ed696e803e7893b644",
+  "displayName": "UG Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UG Token",
+    "symbol": "UGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

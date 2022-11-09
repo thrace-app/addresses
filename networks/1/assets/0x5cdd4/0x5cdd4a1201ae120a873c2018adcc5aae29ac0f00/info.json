@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cdd4a1201ae120a873c2018adcc5aae29ac0f00",
+  "displayName": "Mi Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mi Coin",
+    "symbol": "MI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

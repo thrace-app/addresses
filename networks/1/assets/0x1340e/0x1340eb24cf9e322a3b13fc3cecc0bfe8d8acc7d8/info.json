@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1340eb24cf9e322a3b13fc3cecc0bfe8d8acc7d8",
+  "displayName": "Bitbot Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitbot Protocol",
+    "symbol": "BBP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

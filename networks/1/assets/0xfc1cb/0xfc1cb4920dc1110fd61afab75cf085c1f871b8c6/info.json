@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc1cb4920dc1110fd61afab75cf085c1f871b8c6",
+  "displayName": "Edenloop Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Edenloop Token",
+    "symbol": "ELT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

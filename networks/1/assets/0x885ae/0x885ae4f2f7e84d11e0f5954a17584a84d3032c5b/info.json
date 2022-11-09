@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x885ae4f2f7e84d11e0f5954a17584a84d3032c5b",
+  "displayName": "nKore Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "nKore Token",
+    "symbol": "nKore",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

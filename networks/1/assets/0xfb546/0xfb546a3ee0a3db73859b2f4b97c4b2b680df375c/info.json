@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb546a3ee0a3db73859b2f4b97c4b2b680df375c",
+  "displayName": "Candle Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Candle Token",
+    "symbol": "CANDL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

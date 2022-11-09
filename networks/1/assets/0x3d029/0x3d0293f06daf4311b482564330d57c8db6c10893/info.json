@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d0293f06daf4311b482564330d57c8db6c10893",
+  "displayName": "Y Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Y Coin",
+    "symbol": "YCO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf54efdff72cdd3de7b219bb8b41332a6cc96c9e",
+  "displayName": "LaunchMyNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "LaunchMyNFT",
+    "symbol": "MYNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

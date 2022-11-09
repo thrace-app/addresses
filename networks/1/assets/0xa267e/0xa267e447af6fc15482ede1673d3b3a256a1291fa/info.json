@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa267e447af6fc15482ede1673d3b3a256a1291fa",
+  "displayName": "TestLxBill",
+  "type": "TOKEN",
+  "token": {
+    "name": "TestLxBill",
+    "symbol": "TXB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

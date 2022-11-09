@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a6700516a46dbeef6768e322d4248a81c580f15",
+  "displayName": "Pass token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pass token",
+    "symbol": "PTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

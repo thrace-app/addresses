@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b7265d153886a7dc717e815862acde6ff7b5bc8",
+  "displayName": "DENCHCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "DENCHCOIN",
+    "symbol": "DENCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

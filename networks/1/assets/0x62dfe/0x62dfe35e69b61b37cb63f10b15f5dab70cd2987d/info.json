@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62dfe35e69b61b37cb63f10b15f5dab70cd2987d",
+  "displayName": "FringeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FringeToken",
+    "symbol": "FRNG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

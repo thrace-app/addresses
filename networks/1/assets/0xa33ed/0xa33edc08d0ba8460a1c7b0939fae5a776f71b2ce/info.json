@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa33edc08d0ba8460a1c7b0939fae5a776f71b2ce",
+  "displayName": "Stride Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stride Token",
+    "symbol": "STRIDE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

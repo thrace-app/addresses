@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeaaee76ad560a0d22ae5c260c7b6b1745f3b16bd",
+  "displayName": "Tornad'Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tornad'Inu",
+    "symbol": "$TornInu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

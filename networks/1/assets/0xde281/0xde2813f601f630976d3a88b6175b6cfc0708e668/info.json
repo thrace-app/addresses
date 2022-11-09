@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde2813f601f630976d3a88b6175b6cfc0708e668",
+  "displayName": "DigiShibi",
+  "type": "TOKEN",
+  "token": {
+    "name": "DigiShibi",
+    "symbol": "SHIBI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

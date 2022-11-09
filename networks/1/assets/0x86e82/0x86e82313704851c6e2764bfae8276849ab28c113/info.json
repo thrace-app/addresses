@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86e82313704851c6e2764bfae8276849ab28c113",
+  "displayName": "Spock Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spock Token",
+    "symbol": "SPOCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

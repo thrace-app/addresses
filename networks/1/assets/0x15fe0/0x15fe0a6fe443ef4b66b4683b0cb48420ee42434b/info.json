@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15fe0a6fe443ef4b66b4683b0cb48420ee42434b",
+  "displayName": "Hyena Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hyena Token",
+    "symbol": "HYENA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

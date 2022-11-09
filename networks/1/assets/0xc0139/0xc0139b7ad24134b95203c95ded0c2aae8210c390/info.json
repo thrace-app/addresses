@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0139b7ad24134b95203c95ded0c2aae8210c390",
+  "displayName": "EquinoxChain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EquinoxChain Token",
+    "symbol": "EQX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

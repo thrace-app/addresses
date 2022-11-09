@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x430967300933694be5e5c95e91901ea82de072ff",
+  "displayName": "Magic Meme Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Magic Meme Money",
+    "symbol": "MMM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

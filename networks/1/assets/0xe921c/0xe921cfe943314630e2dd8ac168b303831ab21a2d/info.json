@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe921cfe943314630e2dd8ac168b303831ab21a2d",
+  "displayName": "Gelato Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gelato Token",
+    "symbol": "GLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x750eab388d8d2b0be4e6b19ad861458957c37306",
+  "displayName": "Bizanc ERC20 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bizanc ERC20 Token",
+    "symbol": "BIZT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

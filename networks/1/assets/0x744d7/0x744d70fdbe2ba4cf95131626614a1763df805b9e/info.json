@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+  "displayName": "Status Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Status Network Token",
+    "symbol": "SNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

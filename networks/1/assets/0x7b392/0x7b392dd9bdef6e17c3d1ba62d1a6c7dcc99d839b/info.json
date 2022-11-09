@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b392dd9bdef6e17c3d1ba62d1a6c7dcc99d839b",
+  "displayName": "Garfield Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Garfield Token",
+    "symbol": "GARFIELD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

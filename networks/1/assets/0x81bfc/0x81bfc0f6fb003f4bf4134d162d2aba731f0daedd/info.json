@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81bfc0f6fb003f4bf4134d162d2aba731f0daedd",
+  "displayName": "BXB Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BXB Token",
+    "symbol": "BXB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

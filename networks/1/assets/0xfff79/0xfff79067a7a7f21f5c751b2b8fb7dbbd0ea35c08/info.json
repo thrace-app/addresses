@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfff79067a7a7f21f5c751b2b8fb7dbbd0ea35c08",
+  "displayName": "Fontaine Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fontaine Token",
+    "symbol": "FONTAINE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2baecdf43734f22fd5c152db08e3c27233f0c7d2",
+  "displayName": "OM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OM Token",
+    "symbol": "OM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

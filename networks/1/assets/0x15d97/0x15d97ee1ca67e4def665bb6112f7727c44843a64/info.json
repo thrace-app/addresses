@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15d97ee1ca67e4def665bb6112f7727c44843a64",
+  "displayName": "HoardSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "HoardSwap",
+    "symbol": "HSWP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

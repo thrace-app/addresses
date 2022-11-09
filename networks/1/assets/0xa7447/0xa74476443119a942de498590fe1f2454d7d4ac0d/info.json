@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa74476443119a942de498590fe1f2454d7d4ac0d",
+  "displayName": "Golem Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golem Network Token",
+    "symbol": "GNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

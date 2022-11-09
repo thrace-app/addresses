@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92b1e2bbc8971a891cceaf145c01c49cc59426cd",
+  "displayName": "GoldenDogToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoldenDogToken",
+    "symbol": "GDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

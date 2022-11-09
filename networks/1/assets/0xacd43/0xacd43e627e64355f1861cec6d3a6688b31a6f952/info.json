@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacd43e627e64355f1861cec6d3a6688b31a6f952",
+  "displayName": "yearn Dai Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "yearn Dai Stablecoin",
+    "symbol": "yDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

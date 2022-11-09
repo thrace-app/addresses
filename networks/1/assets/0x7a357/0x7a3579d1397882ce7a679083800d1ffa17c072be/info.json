@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a3579d1397882ce7a679083800d1ffa17c072be",
+  "displayName": "Chronos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chronos",
+    "symbol": "$CHR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

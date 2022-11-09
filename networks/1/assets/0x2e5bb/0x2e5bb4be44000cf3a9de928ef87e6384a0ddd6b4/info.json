@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e5bb4be44000cf3a9de928ef87e6384a0ddd6b4",
+  "displayName": "CyworldCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CyworldCoin",
+    "symbol": "CYC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

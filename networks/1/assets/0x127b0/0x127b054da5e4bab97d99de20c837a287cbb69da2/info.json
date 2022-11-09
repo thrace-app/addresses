@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x127b054da5e4bab97d99de20c837a287cbb69da2",
+  "displayName": "UniPool",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniPool",
+    "symbol": "UNIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

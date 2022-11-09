@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc18caebdbf29a7dcfd73563e0923ab2eed93005c",
+  "displayName": "Circle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Circle",
+    "symbol": "CIRCLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

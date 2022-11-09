@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2bb335caf0fbdec4e24515fc07edf8ed74c90b1b",
+  "displayName": "DimSumSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "DimSumSwap",
+    "symbol": "DSS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

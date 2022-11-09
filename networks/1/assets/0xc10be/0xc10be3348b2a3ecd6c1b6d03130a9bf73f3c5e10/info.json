@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc10be3348b2a3ecd6c1b6d03130a9bf73f3c5e10",
+  "displayName": "EtherBank Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherBank Finance",
+    "symbol": "ETHERBANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

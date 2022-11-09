@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0afe17e10c60d448aa4ecb4f71183b57c18dc7de",
+  "displayName": "Yoshi Mario Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yoshi Mario Token",
+    "symbol": "Yoshi Mario",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

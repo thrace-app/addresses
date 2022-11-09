@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b50984aba7d843689d2f2469a070618415afe67",
+  "displayName": "Royalties",
+  "type": "TOKEN",
+  "token": {
+    "name": "Royalties",
+    "symbol": "$RLTS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

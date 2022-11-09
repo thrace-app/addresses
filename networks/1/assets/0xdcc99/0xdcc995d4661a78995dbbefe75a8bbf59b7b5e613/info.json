@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdcc995d4661a78995dbbefe75a8bbf59b7b5e613",
+  "displayName": "Binary Electric Banking Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Binary Electric Banking Token",
+    "symbol": "BEB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

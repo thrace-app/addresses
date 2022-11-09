@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe4908627500e0ac010ce311074c495ce3d753fd",
+  "displayName": "PureGeneCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PureGeneCoin",
+    "symbol": "PGC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

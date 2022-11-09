@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+  "displayName": "Liquid staked Ether 2.0",
+  "type": "TOKEN",
+  "token": {
+    "name": "Liquid staked Ether 2.0",
+    "symbol": "stETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

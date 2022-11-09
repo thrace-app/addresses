@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ce9581a9dfae3b0df86bbd66a1326407501c799",
+  "displayName": "Annoying NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Annoying NFT",
+    "symbol": "A-NFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

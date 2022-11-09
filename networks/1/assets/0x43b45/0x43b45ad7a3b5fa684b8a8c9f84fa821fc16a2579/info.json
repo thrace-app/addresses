@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43b45ad7a3b5fa684b8a8c9f84fa821fc16a2579",
+  "displayName": "Burner Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burner Token",
+    "symbol": "BRNR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

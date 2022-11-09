@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa7bc3d36a189d1448fce9c135be0e1496039ac48",
+  "displayName": "Pro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pro Token",
+    "symbol": "PROTOKEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

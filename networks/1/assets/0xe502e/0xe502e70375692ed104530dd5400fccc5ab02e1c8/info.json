@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe502e70375692ed104530dd5400fccc5ab02e1c8",
+  "displayName": "Blue Wombat Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Wombat Coin",
+    "symbol": "BLW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

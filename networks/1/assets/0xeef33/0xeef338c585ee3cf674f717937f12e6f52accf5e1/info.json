@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeef338c585ee3cf674f717937f12e6f52accf5e1",
+  "displayName": "Jarvis Reward Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jarvis Reward Token",
+    "symbol": "JRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

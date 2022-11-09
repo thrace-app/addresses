@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b2ec939794760402bd77010939b9cae7f5deb51",
+  "displayName": "Penalty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Penalty",
+    "symbol": "Penalty",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

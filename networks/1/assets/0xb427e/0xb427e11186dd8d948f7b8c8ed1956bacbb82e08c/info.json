@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb427e11186dd8d948f7b8c8ed1956bacbb82e08c",
+  "displayName": "Fortune Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fortune Cat",
+    "symbol": "FC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

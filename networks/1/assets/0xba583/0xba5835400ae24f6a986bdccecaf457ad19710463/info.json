@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba5835400ae24f6a986bdccecaf457ad19710463",
+  "displayName": "The Future",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Future",
+    "symbol": "FUTURE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9513539ab19db2abff8fd9a3afc37b3a4317e10f",
+  "displayName": "Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burn",
+    "symbol": "BURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

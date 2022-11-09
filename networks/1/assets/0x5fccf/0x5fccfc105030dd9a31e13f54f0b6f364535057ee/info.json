@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5fccfc105030dd9a31e13f54f0b6f364535057ee",
+  "displayName": "Kiba Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kiba Inu",
+    "symbol": "KIBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

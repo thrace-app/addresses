@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13a1105d770c19f0bc7eaa63cb3f7b5b06f01966",
+  "displayName": "Synth Banana",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth Banana",
+    "symbol": "xNANA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

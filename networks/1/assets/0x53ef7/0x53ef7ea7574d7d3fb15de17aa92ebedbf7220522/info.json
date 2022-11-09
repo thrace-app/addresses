@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53ef7ea7574d7d3fb15de17aa92ebedbf7220522",
+  "displayName": "OTR Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "OTR Coin",
+    "symbol": "OTRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

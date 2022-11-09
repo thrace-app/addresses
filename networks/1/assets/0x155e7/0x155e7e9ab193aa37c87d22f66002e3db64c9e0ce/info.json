@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x155e7e9ab193aa37c87d22f66002e3db64c9e0ce",
+  "displayName": "Props Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Props Token",
+    "symbol": "PROPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

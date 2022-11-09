@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ff2e3bac33af1696b60903ce55b8063d52f22e0",
+  "displayName": "Raichu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Raichu",
+    "symbol": "RCHU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

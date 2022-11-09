@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf571e68f6edf8cbc573867d9e158921fa58b2d3",
+  "displayName": "Gold401k",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gold401k",
+    "symbol": "$401k",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

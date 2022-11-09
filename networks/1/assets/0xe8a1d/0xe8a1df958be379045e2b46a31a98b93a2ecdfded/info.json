@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe8a1df958be379045e2b46a31a98b93a2ecdfded",
+  "displayName": "ESZCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ESZCoin",
+    "symbol": "ESZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10d50b9d4dcfb8f818f098d510632a395a514a65",
+  "displayName": "DegensPumpToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DegensPumpToken",
+    "symbol": "DPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

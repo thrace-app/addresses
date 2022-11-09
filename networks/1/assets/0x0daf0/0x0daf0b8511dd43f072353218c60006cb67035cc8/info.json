@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0daf0b8511dd43f072353218c60006cb67035cc8",
+  "displayName": "Iron Bank Link",
+  "type": "TOKEN",
+  "token": {
+    "name": "Iron Bank Link",
+    "symbol": "IBLINK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

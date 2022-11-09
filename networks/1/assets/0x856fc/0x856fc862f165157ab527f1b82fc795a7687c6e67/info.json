@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x856fc862f165157ab527f1b82fc795a7687c6e67",
+  "displayName": "Capra Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Capra Token",
+    "symbol": "CAPRA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

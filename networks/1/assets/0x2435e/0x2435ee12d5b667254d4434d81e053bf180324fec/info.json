@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2435ee12d5b667254d4434d81e053bf180324fec",
+  "displayName": "miniX2Y2 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "miniX2Y2 Token",
+    "symbol": "miniX2Y2",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

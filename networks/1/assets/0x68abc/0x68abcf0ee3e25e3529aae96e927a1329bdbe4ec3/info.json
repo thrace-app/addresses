@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68abcf0ee3e25e3529aae96e927a1329bdbe4ec3",
+  "displayName": "miniSHIB",
+  "type": "TOKEN",
+  "token": {
+    "name": "miniSHIB",
+    "symbol": "miniSHIB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00e241ba329e5800f72be99bf3d2a5903ff18bd1",
+  "displayName": "Ether Gang",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether Gang",
+    "symbol": "0xGang",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

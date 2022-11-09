@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x993cd33de6485e26b53103689ceafc91dfcbe3e6",
+  "displayName": "PetPlanet",
+  "type": "TOKEN",
+  "token": {
+    "name": "PetPlanet",
+    "symbol": "$PP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

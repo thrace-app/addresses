@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b3f33902ba90578be460c7be127e64827746845",
+  "displayName": "AAA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AAA Token",
+    "symbol": "AAA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

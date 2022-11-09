@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf3b185d104a61fbdd5accfa61f9f7f3576bdff97",
+  "displayName": "Clash Pay",
+  "type": "TOKEN",
+  "token": {
+    "name": "Clash Pay",
+    "symbol": "SCP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

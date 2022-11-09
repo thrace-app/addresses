@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2ed8d7388f49e3471dc887b43761872fdedec46",
+  "displayName": "Age of Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Age of Ethereum",
+    "symbol": "AoE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

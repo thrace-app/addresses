@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a0037a475228189c78e17b3d5f5dbc8e435cd9a",
+  "displayName": "Yearn Future Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn Future Exchange Token",
+    "symbol": "YF-XT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

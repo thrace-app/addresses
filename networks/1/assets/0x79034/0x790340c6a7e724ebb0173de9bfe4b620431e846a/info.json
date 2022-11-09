@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x790340c6a7e724ebb0173de9bfe4b620431e846a",
+  "displayName": "Subscription Payment Service",
+  "type": "TOKEN",
+  "token": {
+    "name": "Subscription Payment Service",
+    "symbol": "SPAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

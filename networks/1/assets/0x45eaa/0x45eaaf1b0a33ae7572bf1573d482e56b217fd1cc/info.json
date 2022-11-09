@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45eaaf1b0a33ae7572bf1573d482e56b217fd1cc",
+  "displayName": "Weed Farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "Weed Farm",
+    "symbol": "WeedFarm",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

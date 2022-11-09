@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc31902080d249934cb2f2e1bb6a7462d7ea7d45e",
+  "displayName": "One Plus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "One Plus Token",
+    "symbol": "1Plus",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

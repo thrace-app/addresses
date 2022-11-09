@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78ff871ecdbc2dab4212772192b48cae1ec74b8e",
+  "displayName": "Up Dai",
+  "type": "TOKEN",
+  "token": {
+    "name": "Up Dai",
+    "symbol": "UPDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

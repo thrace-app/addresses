@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad91857cf7d5a1b7d200daf67d119245f68c1618",
+  "displayName": "Oil Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Oil Coin",
+    "symbol": "OLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

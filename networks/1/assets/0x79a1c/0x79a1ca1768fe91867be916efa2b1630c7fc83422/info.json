@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79a1ca1768fe91867be916efa2b1630c7fc83422",
+  "displayName": "hyfi.token",
+  "type": "TOKEN",
+  "token": {
+    "name": "hyfi.token",
+    "symbol": "HyFi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

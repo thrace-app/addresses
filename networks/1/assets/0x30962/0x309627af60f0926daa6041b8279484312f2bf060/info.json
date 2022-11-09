@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x309627af60f0926daa6041b8279484312f2bf060",
+  "displayName": "Bancor USD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bancor USD Token",
+    "symbol": "USDB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

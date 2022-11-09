@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa4f3cc8547bff901f56b0b5a86d8af18aaf0c590",
+  "displayName": "The Dragon Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Dragon Coin",
+    "symbol": "TDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

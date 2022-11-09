@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x691f69f046ddc3a7535f5394ee66655849c7f80e",
+  "displayName": "DMG Stake",
+  "type": "TOKEN",
+  "token": {
+    "name": "DMG Stake",
+    "symbol": "DMGStake",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbfd4e1e5ed3d3f66acddde2c7b501992f8dfcd04",
+  "displayName": "InfiniteCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "InfiniteCoin",
+    "symbol": "IFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

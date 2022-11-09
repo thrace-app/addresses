@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11980d4bb4465cb4fc77a57b98a16787b3d834e7",
+  "displayName": "Stable Yield Credit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stable Yield Credit",
+    "symbol": "syUSD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

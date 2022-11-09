@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57f68838836c2266768a92370f52c5d89de4c92b",
+  "displayName": "Smart Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smart Ethereum",
+    "symbol": "SETH",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

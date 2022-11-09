@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58004eb5b7ee7bcd34f68ca68cbd72a52213e5c5",
+  "displayName": "Rare Gem Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rare Gem Token",
+    "symbol": "RARG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

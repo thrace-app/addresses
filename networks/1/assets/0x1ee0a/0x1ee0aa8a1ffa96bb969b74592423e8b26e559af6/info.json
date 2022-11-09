@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ee0aa8a1ffa96bb969b74592423e8b26e559af6",
+  "displayName": "Tethys Autoburning Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tethys Autoburning Token",
+    "symbol": "TAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

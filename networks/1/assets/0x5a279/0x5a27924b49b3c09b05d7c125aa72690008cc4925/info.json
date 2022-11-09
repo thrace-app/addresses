@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a27924b49b3c09b05d7c125aa72690008cc4925",
+  "displayName": "The farmers only crop",
+  "type": "TOKEN",
+  "token": {
+    "name": "The farmers only crop",
+    "symbol": "WHEAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

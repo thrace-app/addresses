@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13b5adae8f5d7f200261d48dd419852ea49dc5fd",
+  "displayName": "NotYoloChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "NotYoloChain",
+    "symbol": "NOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec29851be2af7350f0a8f8998b88a22586dda717",
+  "displayName": "Firefly Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Firefly Token",
+    "symbol": "FRFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

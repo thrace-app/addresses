@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x91de150c1f79530aa2db2d1834ba0a62f1f214ba",
+  "displayName": "RVN",
+  "type": "TOKEN",
+  "token": {
+    "name": "RVN",
+    "symbol": "RVNR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

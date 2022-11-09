@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c599b98346229ab453c74f528f22324272324d3",
+  "displayName": "Chicken Breast Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chicken Breast Coin",
+    "symbol": "CHICKEN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

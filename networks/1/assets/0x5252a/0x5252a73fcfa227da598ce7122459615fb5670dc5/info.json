@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5252a73fcfa227da598ce7122459615fb5670dc5",
+  "displayName": "AtourToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AtourToken",
+    "symbol": "ATOUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

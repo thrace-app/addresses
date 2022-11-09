@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84daadc27e13bb67ed34bc324ddc51e40553a7de",
+  "displayName": "Invisible cryptocurrency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Invisible cryptocurrency",
+    "symbol": "IBCY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

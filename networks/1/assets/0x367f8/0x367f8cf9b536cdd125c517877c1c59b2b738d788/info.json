@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x367f8cf9b536cdd125c517877c1c59b2b738d788",
+  "displayName": "Degen Goose",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Goose",
+    "symbol": "DEGENGOOSE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

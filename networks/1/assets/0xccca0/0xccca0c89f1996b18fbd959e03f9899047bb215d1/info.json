@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccca0c89f1996b18fbd959e03f9899047bb215d1",
+  "displayName": "SnowFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "SnowFi",
+    "symbol": "SNWF",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

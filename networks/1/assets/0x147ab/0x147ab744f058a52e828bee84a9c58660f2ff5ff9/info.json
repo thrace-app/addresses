@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x147ab744f058a52e828bee84a9c58660f2ff5ff9",
+  "displayName": "Noodle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Noodle",
+    "symbol": "NOOD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

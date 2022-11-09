@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8beb5611d2ffd7c947044c86632b5366a57ab516",
+  "displayName": "Raptrax Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Raptrax Coin",
+    "symbol": "RTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

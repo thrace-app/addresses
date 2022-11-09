@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1df5258a4c68b2f1bb5a9927b6245ef3ebeb2f17",
+  "displayName": "Mr Bean",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mr Bean",
+    "symbol": "MRBEAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

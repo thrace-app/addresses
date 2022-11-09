@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc6668fbc384d32a7281d9be5a3e532605cf840c",
+  "displayName": "Honor Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Honor Token",
+    "symbol": "HONOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

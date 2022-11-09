@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e0dca1fbda12a77ba06a5f55e6dbc82e4fe5b75",
+  "displayName": "StarCruiser",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarCruiser",
+    "symbol": "Cruiser",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

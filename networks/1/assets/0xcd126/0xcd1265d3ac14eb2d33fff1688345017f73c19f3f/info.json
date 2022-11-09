@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd1265d3ac14eb2d33fff1688345017f73c19f3f",
+  "displayName": "e-Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "e-Money",
+    "symbol": "NGM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

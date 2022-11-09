@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbb38be7c6d954320c0297c06ab3265a950cdf89",
+  "displayName": "Wrapped BOMB",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped BOMB",
+    "symbol": "WBOMB",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

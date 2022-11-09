@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49560a59a7edaecb47a2a41d1a676ba1094fc06a",
+  "displayName": "Crogecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crogecoin",
+    "symbol": "Croge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

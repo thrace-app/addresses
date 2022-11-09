@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf67beab5f5882fea6eaa7ca62077532d5a15d058",
+  "displayName": "Blue Dragon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Dragon",
+    "symbol": "$Soryu",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

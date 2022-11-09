@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b6fe16a3a6c0982ea7e83b389522eebb2036d85",
+  "displayName": "AlpaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlpaToken",
+    "symbol": "ALPA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

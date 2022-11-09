@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda2a988cab23bc66a16fd49ee2d82c5f3215f035",
+  "displayName": "Temtem NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Temtem NFT",
+    "symbol": "TEM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

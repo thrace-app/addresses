@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1a948c9739adbc31af2bbf1195eca00abd19b7f",
+  "displayName": "Cicada Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cicada Token",
+    "symbol": "CICADA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

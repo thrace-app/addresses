@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42abba6a7ecf3694a8afadfd58058b181909c91d",
+  "displayName": "Hoichi Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hoichi Bank",
+    "symbol": "HOICHIBANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

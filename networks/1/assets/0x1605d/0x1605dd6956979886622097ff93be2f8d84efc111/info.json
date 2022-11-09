@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1605dd6956979886622097ff93be2f8d84efc111",
+  "displayName": "Okabe Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Okabe Inu",
+    "symbol": "OKABEINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

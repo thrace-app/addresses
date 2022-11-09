@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99f68d60dac9458fcac23ab656f2fcbc271fc7bb",
+  "displayName": "NanoDOGE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NanoDOGE Token",
+    "symbol": "NanoDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

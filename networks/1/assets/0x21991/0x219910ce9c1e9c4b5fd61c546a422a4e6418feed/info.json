@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x219910ce9c1e9c4b5fd61c546a422a4e6418feed",
+  "displayName": "Bezos Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bezos Doge",
+    "symbol": "BDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x560468fd588ee10b2118581272d4b83f648b7ebe",
+  "displayName": "ShinKedo",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShinKedo",
+    "symbol": "ShinDo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

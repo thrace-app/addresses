@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc833108b1e41b7c578dd1ce7eba4c9da55fc762",
+  "displayName": "知乎币",
+  "type": "TOKEN",
+  "token": {
+    "name": "知乎币",
+    "symbol": "ZHB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

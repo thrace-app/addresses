@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f1de49dbe3b8de292b1960987106fe9fc6adb66",
+  "displayName": "MexicanTacoCurrency",
+  "type": "TOKEN",
+  "token": {
+    "name": "MexicanTacoCurrency",
+    "symbol": "MTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

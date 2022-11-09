@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8c978de79e12728e38aa952a6cb4166f891790f",
+  "displayName": "Roaring Kitty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Roaring Kitty",
+    "symbol": "$ROAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

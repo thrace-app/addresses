@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce2614d258a252a17448781c37cd7d48158126e3",
+  "displayName": "MagicStarlink",
+  "type": "TOKEN",
+  "token": {
+    "name": "MagicStarlink",
+    "symbol": "Starlink",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

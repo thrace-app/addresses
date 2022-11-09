@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83c77072e094bb14d75aa941d65378980d7a02f1",
+  "displayName": "OpenPunks",
+  "type": "TOKEN",
+  "token": {
+    "name": "OpenPunks",
+    "symbol": "OPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

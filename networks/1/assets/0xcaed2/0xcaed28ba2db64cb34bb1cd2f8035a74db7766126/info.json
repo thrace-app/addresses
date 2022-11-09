@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcaed28ba2db64cb34bb1cd2f8035a74db7766126",
+  "displayName": "Shiba Bot",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Bot",
+    "symbol": "ShibaBot",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

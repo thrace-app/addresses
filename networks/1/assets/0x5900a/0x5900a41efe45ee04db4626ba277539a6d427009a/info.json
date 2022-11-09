@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5900a41efe45ee04db4626ba277539a6d427009a",
+  "displayName": "TwoOfTwo",
+  "type": "TOKEN",
+  "token": {
+    "name": "TwoOfTwo",
+    "symbol": "2O2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

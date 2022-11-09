@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26a9c0c6f28ae2e69270bc39f13db87a27db4ce5",
+  "displayName": "DeFi Bomb",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi Bomb",
+    "symbol": "DBOMB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

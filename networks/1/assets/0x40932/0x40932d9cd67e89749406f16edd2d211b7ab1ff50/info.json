@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40932d9cd67e89749406f16edd2d211b7ab1ff50",
+  "displayName": "LPGToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LPGToken",
+    "symbol": "LPG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

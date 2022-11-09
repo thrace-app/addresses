@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95320a317c737f03c508b5eefea0276fe11c6459",
+  "displayName": "Pinky Promise Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pinky Promise Token",
+    "symbol": "PINKY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

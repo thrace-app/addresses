@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66a26c79014c1ae3f648fced1158faa4d64bd08f",
+  "displayName": "KRGToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KRGToken",
+    "symbol": "KRG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

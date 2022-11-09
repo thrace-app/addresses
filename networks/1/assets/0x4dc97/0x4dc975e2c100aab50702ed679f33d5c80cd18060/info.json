@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4dc975e2c100aab50702ed679f33d5c80cd18060",
+  "displayName": "decentralized contract chain token",
+  "type": "TOKEN",
+  "token": {
+    "name": "decentralized contract chain token",
+    "symbol": "DCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55220b6e274eeb5a8eb6580eedc02f17a914de4b",
+  "displayName": "El Salvador Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "El Salvador Bitcoin",
+    "symbol": "ELSAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

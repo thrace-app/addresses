@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83e4286629ab35b7d5a026bfe7cf532c118a1272",
+  "displayName": "Cat Catcher",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cat Catcher",
+    "symbol": "CC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

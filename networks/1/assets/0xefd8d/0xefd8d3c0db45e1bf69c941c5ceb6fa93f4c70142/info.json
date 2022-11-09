@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xefd8d3c0db45e1bf69c941c5ceb6fa93f4c70142",
+  "displayName": "sMartSwap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "sMartSwap Token",
+    "symbol": "YAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

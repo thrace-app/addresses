@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc769506c9411821f62aebc13a98d002561fb3a1f",
+  "displayName": "Derby Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Derby Coin",
+    "symbol": "TDC",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

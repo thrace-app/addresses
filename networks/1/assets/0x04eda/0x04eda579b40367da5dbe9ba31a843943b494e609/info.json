@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04eda579b40367da5dbe9ba31a843943b494e609",
+  "displayName": "Swish",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swish",
+    "symbol": "SWSH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

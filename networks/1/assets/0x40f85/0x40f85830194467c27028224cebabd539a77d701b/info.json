@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40f85830194467c27028224cebabd539a77d701b",
+  "displayName": "EthGram",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthGram",
+    "symbol": "ETHGRAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

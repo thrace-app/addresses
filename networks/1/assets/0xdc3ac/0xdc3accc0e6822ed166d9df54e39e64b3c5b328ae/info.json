@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc3accc0e6822ed166d9df54e39e64b3c5b328ae",
+  "displayName": "Snail Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Snail Doge",
+    "symbol": "SnailDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

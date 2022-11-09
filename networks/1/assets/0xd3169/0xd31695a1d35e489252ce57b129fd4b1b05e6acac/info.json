@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd31695a1d35e489252ce57b129fd4b1b05e6acac",
+  "displayName": "TOKPIE",
+  "type": "TOKEN",
+  "token": {
+    "name": "TOKPIE",
+    "symbol": "TKP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

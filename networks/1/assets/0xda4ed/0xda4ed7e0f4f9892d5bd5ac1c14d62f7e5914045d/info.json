@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda4ed7e0f4f9892d5bd5ac1c14d62f7e5914045d",
+  "displayName": "Gizmo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gizmo",
+    "symbol": "GIZMO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

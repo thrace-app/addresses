@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a6d40979e3fa0fd0320f0ba1b43110785f2888d",
+  "displayName": "Base.Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Base.Fund",
+    "symbol": "FBASE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

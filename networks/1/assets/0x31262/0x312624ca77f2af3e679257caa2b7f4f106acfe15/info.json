@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x312624ca77f2af3e679257caa2b7f4f106acfe15",
+  "displayName": "bulb",
+  "type": "TOKEN",
+  "token": {
+    "name": "bulb",
+    "symbol": "blb",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64fec5131ff08d7cb660e600603cf93f22798bce",
+  "displayName": "Dustin Poirier",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dustin Poirier",
+    "symbol": "Poirier",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

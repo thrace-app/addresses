@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x344ef4b5551b87b71a76c1f252b4eeee24532798",
+  "displayName": "Secret Ethereum System",
+  "type": "TOKEN",
+  "token": {
+    "name": "Secret Ethereum System",
+    "symbol": "SES",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

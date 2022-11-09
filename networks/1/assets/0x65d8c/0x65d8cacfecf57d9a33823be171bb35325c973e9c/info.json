@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65d8cacfecf57d9a33823be171bb35325c973e9c",
+  "displayName": "Banker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Banker",
+    "symbol": "BVLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

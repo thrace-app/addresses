@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c329fe8b5c5fd8d57289e58312274f6c88f3d50",
+  "displayName": "Cuban Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cuban Coin",
+    "symbol": "Mark",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

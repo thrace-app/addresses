@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xddec5cb890b066891151e5f6ffca101b4eb47409",
+  "displayName": "RAM",
+  "type": "TOKEN",
+  "token": {
+    "name": "RAM",
+    "symbol": "RAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

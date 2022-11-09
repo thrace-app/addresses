@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x456b603cc61a919fb7f03bc7fd0550eb9e526da6",
+  "displayName": "EZEcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EZEcoin",
+    "symbol": "EZEc",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

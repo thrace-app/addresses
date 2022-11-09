@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe10462f48107077574d0020abdab326b5295b3b6",
+  "displayName": "Ethereum Candy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Candy",
+    "symbol": "ECAN 🍬",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

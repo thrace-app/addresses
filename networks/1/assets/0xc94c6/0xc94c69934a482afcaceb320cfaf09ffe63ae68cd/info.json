@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc94c69934a482afcaceb320cfaf09ffe63ae68cd",
+  "displayName": "Rekt Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rekt Finance Token",
+    "symbol": "yfi.REKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2cb1040220768554cf699b0d863a3cd4324ce32",
+  "displayName": "iearn DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "iearn DAI",
+    "symbol": "yDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

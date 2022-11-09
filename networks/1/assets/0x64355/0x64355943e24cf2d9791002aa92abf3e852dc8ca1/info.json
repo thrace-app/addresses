@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64355943e24cf2d9791002aa92abf3e852dc8ca1",
+  "displayName": "Norris Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Norris Coin",
+    "symbol": "CHUCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

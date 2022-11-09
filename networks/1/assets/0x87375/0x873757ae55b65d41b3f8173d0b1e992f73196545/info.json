@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x873757ae55b65d41b3f8173d0b1e992f73196545",
+  "displayName": "DrainSolana",
+  "type": "TOKEN",
+  "token": {
+    "name": "DrainSolana",
+    "symbol": "DrainSol",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

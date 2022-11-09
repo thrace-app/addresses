@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84aea03883c9f96604d51c0e0c57a09068f57550",
+  "displayName": "Score Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Score Coin",
+    "symbol": "SCORE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

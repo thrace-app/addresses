@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ff44248386ee065c21cd11f0311bf6ed601158e",
+  "displayName": "SaitaDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "SaitaDoge",
+    "symbol": "SAID",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

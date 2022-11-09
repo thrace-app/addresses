@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed4699f180a14b5974c26f494483f9c327fd381a",
+  "displayName": "Synth sAUD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth sAUD",
+    "symbol": "sAUD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

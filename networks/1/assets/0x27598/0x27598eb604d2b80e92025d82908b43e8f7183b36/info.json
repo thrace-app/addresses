@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27598eb604d2b80e92025d82908b43e8f7183b36",
+  "displayName": "PeoCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PeoCoin",
+    "symbol": "PEOC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

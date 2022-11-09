@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd060bc6d5d0619aea921340b092e4c309e115cc5",
+  "displayName": "The Baby Sharks Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Baby Sharks Coin",
+    "symbol": "BabySHARKS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

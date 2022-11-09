@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80d5d166cd194a4d6ed6a878b3e5c467d1c46444",
+  "displayName": "OpulousToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "OpulousToken",
+    "symbol": "OPUL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

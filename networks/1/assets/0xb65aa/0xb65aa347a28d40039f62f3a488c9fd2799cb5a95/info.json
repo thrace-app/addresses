@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb65aa347a28d40039f62f3a488c9fd2799cb5a95",
+  "displayName": "Void Reserve Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Void Reserve Currency",
+    "symbol": "VRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x29746166eaf410e99eb6e538904efc3a3be145a8",
+  "displayName": "PriceCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PriceCoin",
+    "symbol": "PRICE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

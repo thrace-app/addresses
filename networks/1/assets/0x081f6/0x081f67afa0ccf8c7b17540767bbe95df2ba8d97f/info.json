@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
+  "displayName": "CoinEx Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinEx Token",
+    "symbol": "CET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

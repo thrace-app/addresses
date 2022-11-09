@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcfa93536df928d97036b7fed10776a1382199f4d",
+  "displayName": "VegionToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "VegionToken",
+    "symbol": "VT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

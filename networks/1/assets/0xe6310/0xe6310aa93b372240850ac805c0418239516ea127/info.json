@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe6310aa93b372240850ac805c0418239516ea127",
+  "displayName": "Experiment Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Experiment Token",
+    "symbol": "XPI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

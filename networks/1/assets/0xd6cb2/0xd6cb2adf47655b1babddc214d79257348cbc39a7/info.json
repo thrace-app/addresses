@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6cb2adf47655b1babddc214d79257348cbc39a7",
+  "displayName": "Oracle Top 5 Tokens Index",
+  "type": "TOKEN",
+  "token": {
+    "name": "Oracle Top 5 Tokens Index",
+    "symbol": "ORCL5",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

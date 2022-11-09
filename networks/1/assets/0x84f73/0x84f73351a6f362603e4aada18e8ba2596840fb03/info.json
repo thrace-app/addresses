@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84f73351a6f362603e4aada18e8ba2596840fb03",
+  "displayName": "Liquidity",
+  "type": "TOKEN",
+  "token": {
+    "name": "Liquidity",
+    "symbol": "LTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

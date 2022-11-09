@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73dd069c299a5d691e9836243bcaec9c8c1d8734",
+  "displayName": "Bitcoineum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoineum",
+    "symbol": "BTE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

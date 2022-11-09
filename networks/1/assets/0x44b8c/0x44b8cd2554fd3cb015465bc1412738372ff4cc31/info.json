@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44b8cd2554fd3cb015465bc1412738372ff4cc31",
+  "displayName": "Magic Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Magic Shiba",
+    "symbol": "SHIBCRAFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

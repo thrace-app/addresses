@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x59d4ccc94a9c4c3d3b4ba2aa343a9bdf95145dd1",
+  "displayName": "QUSD Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "QUSD Stablecoin",
+    "symbol": "QUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

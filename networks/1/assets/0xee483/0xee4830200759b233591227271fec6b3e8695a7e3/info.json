@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee4830200759b233591227271fec6b3e8695a7e3",
+  "displayName": "SafeNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeNFT",
+    "symbol": "SAFENFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

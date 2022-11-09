@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x446420744a50be7e1272c956bbe53e82ab19cb7c",
+  "displayName": "XWallet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XWallet Token",
+    "symbol": "XAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

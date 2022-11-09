@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfaf2621c104dd6e500eca32a841016bf2b337b2f",
+  "displayName": "Labradoodle doge token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Labradoodle doge token",
+    "symbol": "DOODLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

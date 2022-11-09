@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe9240075be590564cafd3b63f3a2aebbff5ddbf",
+  "displayName": "newapp.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "newapp.finance",
+    "symbol": "NPFE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

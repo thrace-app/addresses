@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7caad772532339af66d886520b8c546f6758ee4d",
+  "displayName": "Decentralized Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Decentralized Finance Token",
+    "symbol": "DEFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c4ce444252fbeb762d789d6457d2bd530e292f6",
+  "displayName": "Bitcoin Liquidity Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Liquidity Token",
+    "symbol": "BTCLT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

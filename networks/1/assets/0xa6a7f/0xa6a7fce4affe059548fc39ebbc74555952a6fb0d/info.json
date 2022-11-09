@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa6a7fce4affe059548fc39ebbc74555952a6fb0d",
+  "displayName": "MoriaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoriaToken",
+    "symbol": "MOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

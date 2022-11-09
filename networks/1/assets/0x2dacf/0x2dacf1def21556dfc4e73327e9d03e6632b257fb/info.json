@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dacf1def21556dfc4e73327e9d03e6632b257fb",
+  "displayName": "Melalie.com Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Melalie.com Token",
+    "symbol": "MEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

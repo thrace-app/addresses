@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2d5cb0eccb39d59567ef59ca0f9cf2ef90a90ec3",
+  "displayName": "Ape Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ape Fund",
+    "symbol": "ApeFund",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

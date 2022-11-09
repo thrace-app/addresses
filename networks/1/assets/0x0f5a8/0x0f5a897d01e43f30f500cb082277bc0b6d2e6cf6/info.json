@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f5a897d01e43f30f500cb082277bc0b6d2e6cf6",
+  "displayName": "Terrabyte Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Terrabyte Network Token",
+    "symbol": "TNT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

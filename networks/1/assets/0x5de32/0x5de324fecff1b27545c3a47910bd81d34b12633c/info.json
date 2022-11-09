@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5de324fecff1b27545c3a47910bd81d34b12633c",
+  "displayName": "H3X Stake",
+  "type": "TOKEN",
+  "token": {
+    "name": "H3X Stake",
+    "symbol": "H3Xstake",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

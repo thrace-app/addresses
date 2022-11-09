@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2cf9e193a6875909a14c2166125b07d0b145c52a",
+  "displayName": "Pencoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pencoin",
+    "symbol": "PC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

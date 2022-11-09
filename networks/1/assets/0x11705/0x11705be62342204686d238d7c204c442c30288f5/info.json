@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11705be62342204686d238d7c204c442c30288f5",
+  "displayName": "Wasabi Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wasabi Cash",
+    "symbol": "WAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

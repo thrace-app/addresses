@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1a60b07bdeb9672a40bca6d7ce93d45487853e4",
+  "displayName": "Alpha Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Alpha Doge",
+    "symbol": "aDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

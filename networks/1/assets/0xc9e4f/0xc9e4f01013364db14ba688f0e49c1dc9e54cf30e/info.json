@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc9e4f01013364db14ba688f0e49c1dc9e54cf30e",
+  "displayName": "ZeroToHero",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZeroToHero",
+    "symbol": "ZTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

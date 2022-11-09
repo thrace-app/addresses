@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c98feb7473e4bc46d30ae19a0c8598b87ca7fc5",
+  "displayName": "The Dark Secret",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Dark Secret",
+    "symbol": "SECRET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

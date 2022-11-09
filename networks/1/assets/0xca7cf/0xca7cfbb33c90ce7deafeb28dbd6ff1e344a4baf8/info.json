@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca7cfbb33c90ce7deafeb28dbd6ff1e344a4baf8",
+  "displayName": "Some things Money Can't Buy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Some things Money Can't Buy",
+    "symbol": "$Credit",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

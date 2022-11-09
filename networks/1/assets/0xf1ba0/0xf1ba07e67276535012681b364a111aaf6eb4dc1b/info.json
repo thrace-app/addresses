@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1ba07e67276535012681b364a111aaf6eb4dc1b",
+  "displayName": "DRC v2",
+  "type": "TOKEN",
+  "token": {
+    "name": "DRC v2",
+    "symbol": "DRCv2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

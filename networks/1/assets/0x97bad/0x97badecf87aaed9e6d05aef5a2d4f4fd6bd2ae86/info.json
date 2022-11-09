@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97badecf87aaed9e6d05aef5a2d4f4fd6bd2ae86",
+  "displayName": "Bond 007",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bond 007",
+    "symbol": "BOND",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

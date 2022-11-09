@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ff24ef3f0f3155702b04188b1f18f54499f752b",
+  "displayName": "NIKE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NIKE Token",
+    "symbol": "NKT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

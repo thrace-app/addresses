@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76f8f41c62f9ac37ecbbfd663bc313d126b7c868",
+  "displayName": "The Contraband Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Contraband Token",
+    "symbol": "DRGZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

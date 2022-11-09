@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x904428913b15060e2a46bdcdadd4b1ddea72f801",
+  "displayName": "UltraSwap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UltraSwap Token",
+    "symbol": "ULTRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

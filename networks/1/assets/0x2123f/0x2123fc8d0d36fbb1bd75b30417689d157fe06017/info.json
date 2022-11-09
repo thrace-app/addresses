@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2123fc8d0d36fbb1bd75b30417689d157fe06017",
+  "displayName": "Chum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chum",
+    "symbol": "CHUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

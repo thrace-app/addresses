@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3b7defdb971999d56588f108ae2590c56e88475",
+  "displayName": "Invader",
+  "type": "TOKEN",
+  "token": {
+    "name": "Invader",
+    "symbol": "INVDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

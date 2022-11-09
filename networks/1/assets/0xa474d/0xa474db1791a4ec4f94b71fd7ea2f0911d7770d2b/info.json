@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa474db1791a4ec4f94b71fd7ea2f0911d7770d2b",
+  "displayName": "XMM TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "XMM TOKEN",
+    "symbol": "XMM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

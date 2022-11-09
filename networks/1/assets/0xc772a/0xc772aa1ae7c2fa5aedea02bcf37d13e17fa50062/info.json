@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc772aa1ae7c2fa5aedea02bcf37d13e17fa50062",
+  "displayName": "NMIToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NMIToken",
+    "symbol": "NMI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

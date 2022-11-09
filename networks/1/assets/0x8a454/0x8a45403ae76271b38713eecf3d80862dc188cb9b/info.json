@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a45403ae76271b38713eecf3d80862dc188cb9b",
+  "displayName": "Rothschild",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rothschild",
+    "symbol": "BANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2d1fb7148ee5a5e445456b372a1bd08e7ad6993b",
+  "displayName": "SlimDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "SlimDoge",
+    "symbol": "SlimDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

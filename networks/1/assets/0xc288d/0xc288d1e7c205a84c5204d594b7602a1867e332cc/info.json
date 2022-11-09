@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc288d1e7c205a84c5204d594b7602a1867e332cc",
+  "displayName": "Waka Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Waka Inu",
+    "symbol": "WAKA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

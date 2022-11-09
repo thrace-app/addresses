@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ba3d1c8c8f0804d0c20179a956ac27856a05f66",
+  "displayName": "Aptos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aptos",
+    "symbol": "APT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

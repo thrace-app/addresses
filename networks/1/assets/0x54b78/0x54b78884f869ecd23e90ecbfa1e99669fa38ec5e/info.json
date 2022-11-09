@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x54b78884f869ecd23e90ecbfa1e99669fa38ec5e",
+  "displayName": "Darkcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Darkcoin",
+    "symbol": "DKC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a89d7aac4355b5784fb05e2c0407012be29361e",
+  "displayName": "Lucky Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucky Cat",
+    "symbol": "LUCA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

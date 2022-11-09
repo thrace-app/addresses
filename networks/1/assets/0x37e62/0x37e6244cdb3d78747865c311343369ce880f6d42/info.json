@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37e6244cdb3d78747865c311343369ce880f6d42",
+  "displayName": "GemBites",
+  "type": "TOKEN",
+  "token": {
+    "name": "GemBites",
+    "symbol": "GBTS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

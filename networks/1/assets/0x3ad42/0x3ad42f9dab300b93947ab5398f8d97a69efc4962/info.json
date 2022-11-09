@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ad42f9dab300b93947ab5398f8d97a69efc4962",
+  "displayName": "Initial Coin Offering",
+  "type": "TOKEN",
+  "token": {
+    "name": "Initial Coin Offering",
+    "symbol": "InitiativeQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

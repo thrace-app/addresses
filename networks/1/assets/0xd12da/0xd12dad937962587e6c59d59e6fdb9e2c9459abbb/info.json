@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd12dad937962587e6c59d59e6fdb9e2c9459abbb",
+  "displayName": "Wall-E Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wall-E Token",
+    "symbol": "WallE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

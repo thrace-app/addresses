@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe02f43baa5dc09d4c3851c7b036fa886d6e77fc",
+  "displayName": "eiD",
+  "type": "TOKEN",
+  "token": {
+    "name": "eiD",
+    "symbol": "$eiD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd9744cc5c72552c8282d25a816809a6dd12f2bc",
+  "displayName": "WePiggy",
+  "type": "TOKEN",
+  "token": {
+    "name": "WePiggy",
+    "symbol": "PIGGY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x399771a19e06096295a5621989397f6fa4ab8e62",
+  "displayName": "CryptoBurger",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoBurger",
+    "symbol": "cBURGER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

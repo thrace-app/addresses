@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a19f9e44852f4a92969228f28b14a0fadfea13d",
+  "displayName": "boogeyman",
+  "type": "TOKEN",
+  "token": {
+    "name": "boogeyman",
+    "symbol": "BGM",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

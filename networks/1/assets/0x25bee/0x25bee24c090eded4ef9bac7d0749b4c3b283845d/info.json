@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25bee24c090eded4ef9bac7d0749b4c3b283845d",
+  "displayName": "Yeezy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yeezy Token",
+    "symbol": "YZY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

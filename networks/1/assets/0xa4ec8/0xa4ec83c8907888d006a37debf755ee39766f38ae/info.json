@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa4ec83c8907888d006a37debf755ee39766f38ae",
+  "displayName": "Global Currency Unit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Global Currency Unit",
+    "symbol": "GCU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd378a2a4e37025f87528c7c1a4224b0a18f761eb",
+  "displayName": "BELLO_TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BELLO_TOKEN",
+    "symbol": "BELLO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

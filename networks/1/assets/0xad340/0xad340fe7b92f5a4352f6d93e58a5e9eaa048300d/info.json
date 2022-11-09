@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad340fe7b92f5a4352f6d93e58a5e9eaa048300d",
+  "displayName": "Spider Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spider Coin",
+    "symbol": "SPDX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

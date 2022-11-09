@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0521f45d74d8a00b866fdfe5b3fbedd1eef747f8",
+  "displayName": "John Doe Community",
+  "type": "TOKEN",
+  "token": {
+    "name": "John Doe Community",
+    "symbol": "JOHNDOE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x786dc93f128d06560fd95f365ce20bb6eb1ef02c",
+  "displayName": "UKSwapCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "UKSwapCoin",
+    "symbol": "UKS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

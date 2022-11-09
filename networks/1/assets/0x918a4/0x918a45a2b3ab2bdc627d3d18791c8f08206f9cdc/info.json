@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x918a45a2b3ab2bdc627d3d18791c8f08206f9cdc",
+  "displayName": "Aavegotchi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aavegotchi",
+    "symbol": "GHST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

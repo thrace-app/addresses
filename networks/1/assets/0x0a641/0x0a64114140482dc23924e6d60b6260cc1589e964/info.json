@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a64114140482dc23924e6d60b6260cc1589e964",
+  "displayName": "Koko Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Koko Inu",
+    "symbol": "$KOKO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

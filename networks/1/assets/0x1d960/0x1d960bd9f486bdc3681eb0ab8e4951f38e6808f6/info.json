@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d960bd9f486bdc3681eb0ab8e4951f38e6808f6",
+  "displayName": "KanchoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KanchoToken",
+    "symbol": "Kancho",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

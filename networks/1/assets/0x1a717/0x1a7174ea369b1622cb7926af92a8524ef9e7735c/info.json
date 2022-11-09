@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a7174ea369b1622cb7926af92a8524ef9e7735c",
+  "displayName": "ETHflation",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETHflation",
+    "symbol": "UP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

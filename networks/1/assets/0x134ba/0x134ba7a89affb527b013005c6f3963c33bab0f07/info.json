@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x134ba7a89affb527b013005c6f3963c33bab0f07",
+  "displayName": "Buy and Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Buy and Burn",
+    "symbol": "BNB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

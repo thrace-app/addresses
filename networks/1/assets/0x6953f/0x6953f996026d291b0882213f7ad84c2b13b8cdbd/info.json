@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6953f996026d291b0882213f7ad84c2b13b8cdbd",
+  "displayName": "Mirror Mint",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mirror Mint",
+    "symbol": "MMINT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

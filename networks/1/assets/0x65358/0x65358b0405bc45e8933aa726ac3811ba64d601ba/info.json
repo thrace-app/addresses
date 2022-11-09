@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65358b0405bc45e8933aa726ac3811ba64d601ba",
+  "displayName": "Teapay",
+  "type": "TOKEN",
+  "token": {
+    "name": "Teapay",
+    "symbol": "TEAPAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

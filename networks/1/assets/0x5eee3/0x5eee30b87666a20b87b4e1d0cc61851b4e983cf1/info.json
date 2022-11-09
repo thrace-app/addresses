@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5eee30b87666a20b87b4e1d0cc61851b4e983cf1",
+  "displayName": "Boki Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boki Coin",
+    "symbol": "BOKI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

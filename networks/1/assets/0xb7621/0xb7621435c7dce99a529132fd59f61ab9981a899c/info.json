@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7621435c7dce99a529132fd59f61ab9981a899c",
+  "displayName": "GasDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "GasDAO",
+    "symbol": "GAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

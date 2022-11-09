@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdba22fa08487bf2cfaf08f2a3a7cc7df1ed8bf49",
+  "displayName": "Kichiro Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kichiro Inu",
+    "symbol": "KICHI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

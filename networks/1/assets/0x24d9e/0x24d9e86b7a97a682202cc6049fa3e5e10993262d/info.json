@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24d9e86b7a97a682202cc6049fa3e5e10993262d",
+  "displayName": "Bandai Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bandai Token",
+    "symbol": "BANDAI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

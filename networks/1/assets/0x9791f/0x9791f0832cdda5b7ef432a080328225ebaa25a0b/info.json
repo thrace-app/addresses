@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9791f0832cdda5b7ef432a080328225ebaa25a0b",
+  "displayName": "ChickenWings",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChickenWings",
+    "symbol": "Wings",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

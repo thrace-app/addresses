@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x512997c66606036f0d655cba9356797624d316c1",
+  "displayName": "KusamaERC20",
+  "type": "TOKEN",
+  "token": {
+    "name": "KusamaERC20",
+    "symbol": "KSM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

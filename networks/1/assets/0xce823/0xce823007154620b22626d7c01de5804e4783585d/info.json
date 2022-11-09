@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce823007154620b22626d7c01de5804e4783585d",
+  "displayName": "Floki Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Floki Doge",
+    "symbol": "FLOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

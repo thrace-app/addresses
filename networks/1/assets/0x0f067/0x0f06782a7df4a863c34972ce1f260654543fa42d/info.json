@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f06782a7df4a863c34972ce1f260654543fa42d",
+  "displayName": "BNB Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "BNB Doge",
+    "symbol": "BDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

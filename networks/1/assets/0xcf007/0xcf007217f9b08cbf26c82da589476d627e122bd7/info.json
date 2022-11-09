@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcf007217f9b08cbf26c82da589476d627e122bd7",
+  "displayName": "MarketSwap.token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MarketSwap.token",
+    "symbol": "MRKS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

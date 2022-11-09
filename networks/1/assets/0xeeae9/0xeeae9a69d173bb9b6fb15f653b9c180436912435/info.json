@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeeae9a69d173bb9b6fb15f653b9c180436912435",
+  "displayName": "Pepe Pluto",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pepe Pluto",
+    "symbol": "PP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

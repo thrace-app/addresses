@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc119c54321ed8c7e212f5afd231f2102042dda62",
+  "displayName": "Sleep Protocal",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sleep Protocal",
+    "symbol": "$SLEEP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

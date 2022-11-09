@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd01ef27088276ac71e767006bc22dd26dca9bd27",
+  "displayName": "SpaceGem Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpaceGem Token",
+    "symbol": "SPACEGEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

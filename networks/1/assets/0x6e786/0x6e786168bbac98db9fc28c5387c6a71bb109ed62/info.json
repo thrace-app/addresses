@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e786168bbac98db9fc28c5387c6a71bb109ed62",
+  "displayName": "http://molie.net",
+  "type": "TOKEN",
+  "token": {
+    "name": "http://molie.net",
+    "symbol": "MOLIE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

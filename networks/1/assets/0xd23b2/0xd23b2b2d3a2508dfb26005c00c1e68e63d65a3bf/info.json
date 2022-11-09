@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd23b2b2d3a2508dfb26005c00c1e68e63d65a3bf",
+  "displayName": "stakedus",
+  "type": "TOKEN",
+  "token": {
+    "name": "stakedus",
+    "symbol": "SUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

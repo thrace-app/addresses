@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe9119ae39c6485169550f4ee6e6234d9670f045d",
+  "displayName": "BaTCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BaTCoin",
+    "symbol": "BaTCoin",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

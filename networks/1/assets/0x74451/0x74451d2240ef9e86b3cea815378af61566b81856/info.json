@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x74451d2240ef9e86b3cea815378af61566b81856",
+  "displayName": "Crunch Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crunch Token",
+    "symbol": "CRUNCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

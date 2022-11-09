@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x767588059265d2a243445dd3f23db37b96018dd5",
+  "displayName": "Primebank Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Primebank Coin",
+    "symbol": "PMC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

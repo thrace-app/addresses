@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xadd4a0dd63e08f5874762e647ad8cd4dc26c9724",
+  "displayName": "MEESH coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEESH coin",
+    "symbol": "MEESH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

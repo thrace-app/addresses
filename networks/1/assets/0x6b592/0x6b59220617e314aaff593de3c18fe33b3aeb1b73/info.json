@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b59220617e314aaff593de3c18fe33b3aeb1b73",
+  "displayName": "Internet Reserve Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Internet Reserve Currency",
+    "symbol": "IRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

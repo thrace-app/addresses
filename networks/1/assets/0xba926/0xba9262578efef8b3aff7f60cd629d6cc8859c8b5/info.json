@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba9262578efef8b3aff7f60cd629d6cc8859c8b5",
+  "displayName": "Fulcrum WBTC iToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fulcrum WBTC iToken",
+    "symbol": "iWBTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

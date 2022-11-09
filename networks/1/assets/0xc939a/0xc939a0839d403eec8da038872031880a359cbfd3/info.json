@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc939a0839d403eec8da038872031880a359cbfd3",
+  "displayName": "FutureSwap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FutureSwap Token",
+    "symbol": "FST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

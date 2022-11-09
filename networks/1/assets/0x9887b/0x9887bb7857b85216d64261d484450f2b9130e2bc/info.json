@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9887bb7857b85216d64261d484450f2b9130e2bc",
+  "displayName": "First K0de Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "First K0de Token",
+    "symbol": "FKT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

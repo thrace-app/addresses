@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24a459067d44a989e422fb59d6dc7fc76b1f29d3",
+  "displayName": "BTS",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTS",
+    "symbol": "BasketballStars",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

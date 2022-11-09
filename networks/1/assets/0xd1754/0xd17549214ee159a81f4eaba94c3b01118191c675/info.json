@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd17549214ee159a81f4eaba94c3b01118191c675",
+  "displayName": "Proton",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proton",
+    "symbol": "PRTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

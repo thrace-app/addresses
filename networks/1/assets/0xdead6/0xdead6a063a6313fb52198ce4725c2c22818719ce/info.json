@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdead6a063a6313fb52198ce4725c2c22818719ce",
+  "displayName": "Sore Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sore Token",
+    "symbol": "Sore",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

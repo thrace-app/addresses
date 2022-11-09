@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f55abb908245f508c5ce804182197d6e9e5cc0d",
+  "displayName": "7coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "7coin",
+    "symbol": "7SP",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

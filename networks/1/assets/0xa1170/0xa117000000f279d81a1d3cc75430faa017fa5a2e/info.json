@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+  "displayName": "Aragon Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aragon Network Token",
+    "symbol": "ANT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

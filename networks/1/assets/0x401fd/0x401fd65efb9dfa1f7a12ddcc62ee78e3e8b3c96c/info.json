@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x401fd65efb9dfa1f7a12ddcc62ee78e3e8b3c96c",
+  "displayName": "WEMIX TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "WEMIX TOKEN",
+    "symbol": "WEMIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

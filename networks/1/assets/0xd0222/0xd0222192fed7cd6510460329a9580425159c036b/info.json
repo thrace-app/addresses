@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0222192fed7cd6510460329a9580425159c036b",
+  "displayName": "Cheebs NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cheebs NFT",
+    "symbol": "CHEEBS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

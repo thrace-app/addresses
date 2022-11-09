@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x591d1835ef8e73a831d10cf1ce9dae3c9947a835",
+  "displayName": "Huddln Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Huddln Token",
+    "symbol": "HUDDLN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

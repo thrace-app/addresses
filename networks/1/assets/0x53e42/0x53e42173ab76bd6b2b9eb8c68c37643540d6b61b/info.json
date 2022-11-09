@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53e42173ab76bd6b2b9eb8c68c37643540d6b61b",
+  "displayName": "TogooCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TogooCoin",
+    "symbol": "TOGOO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

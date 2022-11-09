@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67536be4b5080335f6732538bbefce411d1c04ee",
+  "displayName": "World's Best",
+  "type": "TOKEN",
+  "token": {
+    "name": "World's Best",
+    "symbol": "TROPHY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

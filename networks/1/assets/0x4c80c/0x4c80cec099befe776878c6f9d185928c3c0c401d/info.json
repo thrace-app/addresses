@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c80cec099befe776878c6f9d185928c3c0c401d",
+  "displayName": "SpookyEth",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpookyEth",
+    "symbol": "SETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67d65da2a678791152d33cdcf92ce3b2bb2beccd",
+  "displayName": "Ready Player Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ready Player Cat",
+    "symbol": "RPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7d2c9754175e4c0fb9b7d11f525ffe0d1b1d500",
+  "displayName": "SafeHodl Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeHodl Token",
+    "symbol": "SAFEHODL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

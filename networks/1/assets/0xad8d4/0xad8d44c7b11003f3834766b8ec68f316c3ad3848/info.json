@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad8d44c7b11003f3834766b8ec68f316c3ad3848",
+  "displayName": "Bool Compensation Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bool Compensation Token",
+    "symbol": "BCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2fbfeccd2061827d320a48da895a03be1231767c",
+  "displayName": "Thetanut Index USDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Thetanut Index USDC",
+    "symbol": "indexUSDC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

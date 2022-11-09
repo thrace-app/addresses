@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x182121366835019dbee59b7e8cc9de3359f3d6db",
+  "displayName": "SCUU Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SCUU Token",
+    "symbol": "SCUUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

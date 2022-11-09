@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43a96962254855f16b925556f9e97be436a43448",
+  "displayName": "HORD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HORD Token",
+    "symbol": "HORD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

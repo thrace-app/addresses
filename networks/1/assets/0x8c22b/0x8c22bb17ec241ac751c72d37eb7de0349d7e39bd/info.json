@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c22bb17ec241ac751c72d37eb7de0349d7e39bd",
+  "displayName": "Proof of Luna",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Luna",
+    "symbol": "POL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

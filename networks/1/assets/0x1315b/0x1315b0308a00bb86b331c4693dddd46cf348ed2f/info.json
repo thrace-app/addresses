@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1315b0308a00bb86b331c4693dddd46cf348ed2f",
+  "displayName": "PAYDAY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PAYDAY Token",
+    "symbol": "PAYDAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

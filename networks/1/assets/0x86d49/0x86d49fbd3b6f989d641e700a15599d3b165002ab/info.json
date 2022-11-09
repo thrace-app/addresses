@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86d49fbd3b6f989d641e700a15599d3b165002ab",
+  "displayName": "HUH_Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HUH_Token",
+    "symbol": "HUH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

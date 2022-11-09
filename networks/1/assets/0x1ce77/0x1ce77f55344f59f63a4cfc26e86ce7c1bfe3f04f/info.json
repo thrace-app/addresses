@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ce77f55344f59f63a4cfc26e86ce7c1bfe3f04f",
+  "displayName": "ZKNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZKNFT",
+    "symbol": "ZKN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

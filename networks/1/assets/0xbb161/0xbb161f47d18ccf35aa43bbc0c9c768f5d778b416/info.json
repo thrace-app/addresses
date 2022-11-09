@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb161f47d18ccf35aa43bbc0c9c768f5d778b416",
+  "displayName": "ACH",
+  "type": "TOKEN",
+  "token": {
+    "name": "ACH",
+    "symbol": "ACH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

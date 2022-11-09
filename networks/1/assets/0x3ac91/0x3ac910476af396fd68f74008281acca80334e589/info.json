@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ac910476af396fd68f74008281acca80334e589",
+  "displayName": "Its Not Art",
+  "type": "TOKEN",
+  "token": {
+    "name": "Its Not Art",
+    "symbol": "$NotArt",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

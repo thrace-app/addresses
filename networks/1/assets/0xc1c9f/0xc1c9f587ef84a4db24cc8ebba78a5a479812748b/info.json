@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1c9f587ef84a4db24cc8ebba78a5a479812748b",
+  "displayName": "FART Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FART Token",
+    "symbol": "FART",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

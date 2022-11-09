@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85effd6e815c6e267e7d063b54ff9120634a0a4a",
+  "displayName": "Altruis Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Altruis Token",
+    "symbol": "ALS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

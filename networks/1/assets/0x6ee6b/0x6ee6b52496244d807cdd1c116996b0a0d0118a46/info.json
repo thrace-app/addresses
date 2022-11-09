@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ee6b52496244d807cdd1c116996b0a0d0118a46",
+  "displayName": "Butereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Butereum",
+    "symbol": "BETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x431b366be6069ae62f8121a901c6160b34af7f80",
+  "displayName": "GoldDAX",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoldDAX",
+    "symbol": "GDAX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7eb7b5eca64485108eb785c28c341b812243108",
+  "displayName": "MoonStarter",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonStarter",
+    "symbol": "MNST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+  "displayName": "Maker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Maker",
+    "symbol": "MKR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

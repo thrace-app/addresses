@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71c14b89f094c5f393e4429d563180ea398c708a",
+  "displayName": "Cheetah Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cheetah Token",
+    "symbol": "CHEET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

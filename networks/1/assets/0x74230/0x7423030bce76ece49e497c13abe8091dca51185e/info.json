@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7423030bce76ece49e497c13abe8091dca51185e",
+  "displayName": "RevCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RevCoin",
+    "symbol": "RVC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

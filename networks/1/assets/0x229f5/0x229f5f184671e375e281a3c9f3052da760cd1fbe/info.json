@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x229f5f184671e375e281a3c9f3052da760cd1fbe",
+  "displayName": "Remix DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Remix DAI",
+    "symbol": "REMIX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

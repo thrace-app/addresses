@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xebb813cfba761a863e063e822b808148c27d92d7",
+  "displayName": "Tial Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tial Token",
+    "symbol": "Tial",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

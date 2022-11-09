@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72e99e56bea5594864f984855dbf03c1857d3179",
+  "displayName": "NFTLootBox",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFTLootBox",
+    "symbol": "LOOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

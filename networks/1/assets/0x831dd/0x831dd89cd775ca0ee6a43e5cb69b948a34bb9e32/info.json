@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x831dd89cd775ca0ee6a43e5cb69b948a34bb9e32",
+  "displayName": "RFV3 TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "RFV3 TOKEN",
+    "symbol": "RFV3",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

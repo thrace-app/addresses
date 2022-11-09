@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1505c32bfb585ffd19262c5c47c0b9efe2b688a8",
+  "displayName": "MycroSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "MycroSwap",
+    "symbol": "MYS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x523a7fe78f3b11eff51441e3fcc95cb94a37d25c",
+  "displayName": "NiceCash Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NiceCash Token",
+    "symbol": "NCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

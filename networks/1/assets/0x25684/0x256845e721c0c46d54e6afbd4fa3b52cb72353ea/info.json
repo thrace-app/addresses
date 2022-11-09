@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x256845e721c0c46d54e6afbd4fa3b52cb72353ea",
+  "displayName": "UniDollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniDollar",
+    "symbol": "UNIUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

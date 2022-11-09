@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1dfd75d9dd5854355e332744c823f2ea8bd076cc",
+  "displayName": "SynthSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "SynthSwap",
+    "symbol": "SS",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

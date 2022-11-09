@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x988fc5e37281f6c165886db96b3fdd2f61e6bb3f",
+  "displayName": "Fang Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fang Token",
+    "symbol": "FANG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

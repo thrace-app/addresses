@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2139ebfd1532564a74f6836ecb0080355264768",
+  "displayName": "Persepolis Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Persepolis Coin",
+    "symbol": "PPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

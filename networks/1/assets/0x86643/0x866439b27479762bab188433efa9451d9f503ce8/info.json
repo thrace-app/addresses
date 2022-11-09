@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x866439b27479762bab188433efa9451d9f503ce8",
+  "displayName": "PolkaShare",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkaShare",
+    "symbol": "SHARE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x498646d8471a3e33ff56cfe83c0f96136e51f1f5",
+  "displayName": "PolkaBridge",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkaBridge",
+    "symbol": "PBR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa9ae945df40a580f42f85df5a2de5ce91d81110d",
+  "displayName": "Wame Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wame Token",
+    "symbol": "WAME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

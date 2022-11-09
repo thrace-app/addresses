@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50625b636dab619bf6af75f693dc486e56c2a694",
+  "displayName": "Groovy Hooman Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Groovy Hooman Token",
+    "symbol": "GHT",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

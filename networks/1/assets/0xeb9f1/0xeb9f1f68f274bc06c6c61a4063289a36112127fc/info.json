@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb9f1f68f274bc06c6c61a4063289a36112127fc",
+  "displayName": "Magnet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Magnet Token",
+    "symbol": "MGNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

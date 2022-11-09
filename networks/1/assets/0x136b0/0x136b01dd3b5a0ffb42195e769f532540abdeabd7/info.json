@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x136b01dd3b5a0ffb42195e769f532540abdeabd7",
+  "displayName": "HAL9K",
+  "type": "TOKEN",
+  "token": {
+    "name": "HAL9K",
+    "symbol": "HAL9000",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

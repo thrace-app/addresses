@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c8d02a36a1e0087946d1a14b6f41bf59b6efa33",
+  "displayName": "Burger Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burger Inu",
+    "symbol": "BURGER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

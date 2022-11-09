@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d3719ef1173dd99ba0db6ae4cbc24d67e67cfba",
+  "displayName": "Burn the Buffett",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burn the Buffett",
+    "symbol": "BUFF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

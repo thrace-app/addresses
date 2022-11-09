@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x63fd11eb13fb94822aad0546813957b709eaa823",
+  "displayName": "The First Meme",
+  "type": "TOKEN",
+  "token": {
+    "name": "The First Meme",
+    "symbol": "FLASHLIGHT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

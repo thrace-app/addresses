@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4afa835efd01fc265d3a76f27ee5308daef01b7d",
+  "displayName": "Temple of Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Temple of Doge",
+    "symbol": "TDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

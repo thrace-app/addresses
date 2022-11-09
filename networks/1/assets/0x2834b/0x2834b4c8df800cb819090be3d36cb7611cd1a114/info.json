@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2834b4c8df800cb819090be3d36cb7611cd1a114",
+  "displayName": "APE of the DAY",
+  "type": "TOKEN",
+  "token": {
+    "name": "APE of the DAY",
+    "symbol": "AOTD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

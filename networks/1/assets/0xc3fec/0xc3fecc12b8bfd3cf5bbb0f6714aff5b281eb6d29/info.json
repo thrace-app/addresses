@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3fecc12b8bfd3cf5bbb0f6714aff5b281eb6d29",
+  "displayName": "Tornadog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tornadog",
+    "symbol": "TORNDG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8761fb2461eba93a84b5bb4968d095e41c91b191",
+  "displayName": "Multi-layer encrypted token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Multi-layer encrypted token",
+    "symbol": "MLET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

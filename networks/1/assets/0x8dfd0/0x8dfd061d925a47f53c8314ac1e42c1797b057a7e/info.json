@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8dfd061d925a47f53c8314ac1e42c1797b057a7e",
+  "displayName": "An Actual Rug Pull",
+  "type": "TOKEN",
+  "token": {
+    "name": "An Actual Rug Pull",
+    "symbol": "AARP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

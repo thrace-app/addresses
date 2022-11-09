@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83fd1b757909c4b9ad490a7894ee98da4eca5fcb",
+  "displayName": "Gas Price Discount",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gas Price Discount",
+    "symbol": "GSPD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4ea977c6c3519a8527f3ff0728caab40c107152",
+  "displayName": "BigFoot",
+  "type": "TOKEN",
+  "token": {
+    "name": "BigFoot",
+    "symbol": "BGFT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

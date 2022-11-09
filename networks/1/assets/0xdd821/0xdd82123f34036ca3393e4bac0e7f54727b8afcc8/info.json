@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd82123f34036ca3393e4bac0e7f54727b8afcc8",
+  "displayName": "Miloyi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Miloyi Token",
+    "symbol": "Miloyi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

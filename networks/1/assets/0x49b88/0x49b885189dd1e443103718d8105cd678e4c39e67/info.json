@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49b885189dd1e443103718d8105cd678e4c39e67",
+  "displayName": "draw down bear Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "draw down bear Token",
+    "symbol": "DDB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

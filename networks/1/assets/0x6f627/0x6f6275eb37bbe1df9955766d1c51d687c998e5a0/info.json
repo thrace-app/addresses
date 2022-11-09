@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f6275eb37bbe1df9955766d1c51d687c998e5a0",
+  "displayName": "The Pump",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Pump",
+    "symbol": "Ponpu",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

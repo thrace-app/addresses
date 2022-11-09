@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a289589be4238b82641e47d8ed4a7981a29090f",
+  "displayName": "Homer Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Homer Inu",
+    "symbol": "Homerinu",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

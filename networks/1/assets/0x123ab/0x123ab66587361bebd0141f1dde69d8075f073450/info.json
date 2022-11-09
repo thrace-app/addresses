@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x123ab66587361bebd0141f1dde69d8075f073450",
+  "displayName": "Polars BSC Incentives token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polars BSC Incentives token",
+    "symbol": "PBI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

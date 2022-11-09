@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46ba0bfc76cafcef5563c9cbf281a2e4f05fdff9",
+  "displayName": "Lira",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lira",
+    "symbol": "LIRA",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

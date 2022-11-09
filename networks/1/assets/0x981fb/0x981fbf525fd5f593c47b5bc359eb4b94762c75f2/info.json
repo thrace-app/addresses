@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x981fbf525fd5f593c47b5bc359eb4b94762c75f2",
+  "displayName": "Stickers Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stickers Token",
+    "symbol": "STICKERS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

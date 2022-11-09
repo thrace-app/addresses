@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30acd53e2b71cf575bf9ddc3caa929d8984924c3",
+  "displayName": "Dev went Rogue",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dev went Rogue",
+    "symbol": "Rogue Dev",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

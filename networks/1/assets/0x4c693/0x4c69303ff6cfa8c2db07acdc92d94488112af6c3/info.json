@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c69303ff6cfa8c2db07acdc92d94488112af6c3",
+  "displayName": "Kratos Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kratos Token",
+    "symbol": "KRATOS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

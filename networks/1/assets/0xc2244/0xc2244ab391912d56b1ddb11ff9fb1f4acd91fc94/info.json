@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2244ab391912d56b1ddb11ff9fb1f4acd91fc94",
+  "displayName": "SEPN Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SEPN Coin",
+    "symbol": "SEPN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

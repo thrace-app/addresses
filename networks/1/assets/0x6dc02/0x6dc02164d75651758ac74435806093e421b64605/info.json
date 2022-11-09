@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6dc02164d75651758ac74435806093e421b64605",
+  "displayName": "Wrapped CHI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped CHI",
+    "symbol": "WCHI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

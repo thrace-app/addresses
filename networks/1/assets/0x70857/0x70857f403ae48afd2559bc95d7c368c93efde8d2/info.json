@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70857f403ae48afd2559bc95d7c368c93efde8d2",
+  "displayName": "We Want Green",
+  "type": "TOKEN",
+  "token": {
+    "name": "We Want Green",
+    "symbol": "GREEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

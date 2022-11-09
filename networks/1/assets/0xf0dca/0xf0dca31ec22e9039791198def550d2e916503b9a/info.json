@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0dca31ec22e9039791198def550d2e916503b9a",
+  "displayName": "Fractional NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fractional NFT",
+    "symbol": "fNFT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

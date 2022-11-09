@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82df128257a7d7556262e1ab7f1f639d9775b85e",
+  "displayName": "Collateral DeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Collateral DeFi",
+    "symbol": "COLL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

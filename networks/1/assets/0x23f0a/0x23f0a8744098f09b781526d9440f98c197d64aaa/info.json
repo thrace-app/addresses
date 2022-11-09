@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23f0a8744098f09b781526d9440f98c197d64aaa",
+  "displayName": "Luci Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luci Token",
+    "symbol": "LUCI",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

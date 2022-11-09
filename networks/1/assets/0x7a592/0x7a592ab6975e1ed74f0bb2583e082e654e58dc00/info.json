@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a592ab6975e1ed74f0bb2583e082e654e58dc00",
+  "displayName": "BabySushi",
+  "type": "TOKEN",
+  "token": {
+    "name": "BabySushi",
+    "symbol": "BSUSHI",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

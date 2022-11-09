@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc46e56d8bf7fa6930debd5335956edbcd7a7451",
+  "displayName": "Rupert",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rupert",
+    "symbol": "CCC10",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

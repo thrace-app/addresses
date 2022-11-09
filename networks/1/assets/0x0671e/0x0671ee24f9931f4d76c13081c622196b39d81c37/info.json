@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0671ee24f9931f4d76c13081c622196b39d81c37",
+  "displayName": "TencentCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TencentCoin",
+    "symbol": "TCNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

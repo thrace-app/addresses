@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdac2ae92cfd3f32a557f7974bce63734912128da",
+  "displayName": "Pig Belly",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pig Belly",
+    "symbol": "BELLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

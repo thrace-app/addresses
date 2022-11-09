@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70ffd685665dbdf2b6dce3217d4221bf8a209f79",
+  "displayName": "pass",
+  "type": "TOKEN",
+  "token": {
+    "name": "pass",
+    "symbol": "PSA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

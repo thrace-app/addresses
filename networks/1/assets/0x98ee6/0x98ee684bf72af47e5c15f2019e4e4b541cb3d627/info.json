@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x98ee684bf72af47e5c15f2019e4e4b541cb3d627",
+  "displayName": "Ethereum Color",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Color",
+    "symbol": "eColor",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

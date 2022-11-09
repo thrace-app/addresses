@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5f554e47ad3670cffd38c64546feb177062dae5",
+  "displayName": "Eternal Contract Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eternal Contract Token",
+    "symbol": "EOC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

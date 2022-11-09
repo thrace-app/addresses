@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77d6b0fba3562c9f01628c994ea20eb1eb2ba477",
+  "displayName": "Ghostar Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ghostar Token",
+    "symbol": "$GHOSTAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

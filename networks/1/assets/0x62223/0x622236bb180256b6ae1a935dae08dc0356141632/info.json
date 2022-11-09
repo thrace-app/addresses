@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x622236bb180256b6ae1a935dae08dc0356141632",
+  "displayName": "Mirror Write Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mirror Write Token",
+    "symbol": "WRITE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

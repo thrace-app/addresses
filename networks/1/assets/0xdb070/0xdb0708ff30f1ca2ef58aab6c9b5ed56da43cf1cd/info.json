@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb0708ff30f1ca2ef58aab6c9b5ed56da43cf1cd",
+  "displayName": "Tokyocoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tokyocoin",
+    "symbol": "TKC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e70cf4c149aed6501faec77c11db6fd8991bd68",
+  "displayName": "Noun Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Noun Token",
+    "symbol": "NOUN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

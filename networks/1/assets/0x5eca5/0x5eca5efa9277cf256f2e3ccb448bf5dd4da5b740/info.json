@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5eca5efa9277cf256f2e3ccb448bf5dd4da5b740",
+  "displayName": "AlunaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlunaToken",
+    "symbol": "ALN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

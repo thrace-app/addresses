@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85f138bfee4ef8e540890cfb48f620571d67eda3",
+  "displayName": "Wrapped AVAX (Wormhole)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped AVAX (Wormhole)",
+    "symbol": "WAVAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb123fa27dae083954cc1c31dbd17e945c1ccf0ea",
+  "displayName": "TAX",
+  "type": "TOKEN",
+  "token": {
+    "name": "TAX",
+    "symbol": "TAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4f815f1181c4387c001a371d0983018e58b30ff",
+  "displayName": "Miyagi Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Miyagi Cat",
+    "symbol": "MYCAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

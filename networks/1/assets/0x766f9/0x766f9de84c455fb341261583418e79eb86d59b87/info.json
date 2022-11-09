@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x766f9de84c455fb341261583418e79eb86d59b87",
+  "displayName": "BankOfTAMA",
+  "type": "TOKEN",
+  "token": {
+    "name": "BankOfTAMA",
+    "symbol": "BankOfTAMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

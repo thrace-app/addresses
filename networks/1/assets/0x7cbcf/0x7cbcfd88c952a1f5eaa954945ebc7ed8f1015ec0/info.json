@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7cbcfd88c952a1f5eaa954945ebc7ed8f1015ec0",
+  "displayName": "Silver Mint",
+  "type": "TOKEN",
+  "token": {
+    "name": "Silver Mint",
+    "symbol": "SLVM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68d3fd87068db891f2495997f068b352fe6f8b6a",
+  "displayName": "BloomCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BloomCoin",
+    "symbol": "BLN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

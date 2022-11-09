@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a16d9dd877d47c25f9874f426777fca0f9907b0",
+  "displayName": "Shiron Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiron Token",
+    "symbol": "Shiron",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4764c1fdbff66c62027eb3f643c0be27a1e84cd5",
+  "displayName": "Buffett Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Buffett Coin",
+    "symbol": "BUFFETT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

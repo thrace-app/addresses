@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03f1fd90f7fddaccb3cc593a5a35889cccdef777",
+  "displayName": "UniMex Token @ UniMex.Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniMex Token @ UniMex.Finance",
+    "symbol": "UMEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

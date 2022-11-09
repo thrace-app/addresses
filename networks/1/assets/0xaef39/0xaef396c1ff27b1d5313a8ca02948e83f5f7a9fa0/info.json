@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaef396c1ff27b1d5313a8ca02948e83f5f7a9fa0",
+  "displayName": "Kilo Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kilo Coin",
+    "symbol": "KILO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

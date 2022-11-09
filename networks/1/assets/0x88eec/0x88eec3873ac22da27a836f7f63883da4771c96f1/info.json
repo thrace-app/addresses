@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88eec3873ac22da27a836f7f63883da4771c96f1",
+  "displayName": "USD Oin one",
+  "type": "TOKEN",
+  "token": {
+    "name": "USD Oin one",
+    "symbol": "USDO1",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

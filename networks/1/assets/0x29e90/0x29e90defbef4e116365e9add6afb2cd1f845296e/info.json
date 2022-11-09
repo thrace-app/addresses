@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x29e90defbef4e116365e9add6afb2cd1f845296e",
+  "displayName": "MetaNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaNFT",
+    "symbol": "MNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

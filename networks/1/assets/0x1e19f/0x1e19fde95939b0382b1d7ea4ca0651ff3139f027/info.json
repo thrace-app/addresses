@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e19fde95939b0382b1d7ea4ca0651ff3139f027",
+  "displayName": "MultiStableCapital",
+  "type": "TOKEN",
+  "token": {
+    "name": "MultiStableCapital",
+    "symbol": "$MSC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

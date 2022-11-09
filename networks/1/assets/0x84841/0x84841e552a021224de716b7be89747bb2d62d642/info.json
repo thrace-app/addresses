@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84841e552a021224de716b7be89747bb2d62d642",
+  "displayName": "uniswap State Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "uniswap State Dollar",
+    "symbol": "uSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x801f914bedfc35b87e8bba20e4e86a041c3d93d9",
+  "displayName": "Identity",
+  "type": "TOKEN",
+  "token": {
+    "name": "Identity",
+    "symbol": "IDTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

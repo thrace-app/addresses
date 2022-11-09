@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40bdf58bf930ef272b21cdbd0bfdf0eac131aa9a",
+  "displayName": "CurioVotingToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CurioVotingToken",
+    "symbol": "CURV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

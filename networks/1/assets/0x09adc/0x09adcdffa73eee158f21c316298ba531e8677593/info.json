@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09adcdffa73eee158f21c316298ba531e8677593",
+  "displayName": "MetaX",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaX",
+    "symbol": "MTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

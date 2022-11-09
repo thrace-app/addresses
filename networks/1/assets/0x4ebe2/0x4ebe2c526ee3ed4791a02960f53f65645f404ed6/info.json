@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ebe2c526ee3ed4791a02960f53f65645f404ed6",
+  "displayName": "Transparent Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Transparent Token",
+    "symbol": "TRANSPARENT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

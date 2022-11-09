@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7f6014941460ff1f5ed3b5b2dd59f339d39dbab",
+  "displayName": "RubyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RubyCoin",
+    "symbol": "RC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

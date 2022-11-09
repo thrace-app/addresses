@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f74042823e5c6034b4ba10707502a105ce0c13e",
+  "displayName": "FGDTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "FGDTOKEN",
+    "symbol": "FGD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

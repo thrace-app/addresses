@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf64acba843f92800e2f078648c14fec004fa579",
+  "displayName": "Digital Lebanese Pound",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Lebanese Pound",
+    "symbol": "LBP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

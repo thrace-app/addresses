@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc99358a032e43ad477bcd526d3a82b3ee6698b1d",
+  "displayName": "SynLev",
+  "type": "TOKEN",
+  "token": {
+    "name": "SynLev",
+    "symbol": "$SYN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2300380b7b5bcc9d0d760a896b394dd86a21f944",
+  "displayName": "Fashion Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fashion Coin",
+    "symbol": "FSHN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

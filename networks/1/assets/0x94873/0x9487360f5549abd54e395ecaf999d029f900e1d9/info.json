@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9487360f5549abd54e395ecaf999d029f900e1d9",
+  "displayName": "Healing Potion",
+  "type": "TOKEN",
+  "token": {
+    "name": "Healing Potion",
+    "symbol": "HEALS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

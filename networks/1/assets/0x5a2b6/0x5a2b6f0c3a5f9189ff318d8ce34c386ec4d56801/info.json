@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a2b6f0c3a5f9189ff318d8ce34c386ec4d56801",
+  "displayName": "WCM token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WCM token",
+    "symbol": "WCM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

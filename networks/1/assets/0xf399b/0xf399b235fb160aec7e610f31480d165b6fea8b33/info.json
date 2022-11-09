@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf399b235fb160aec7e610f31480d165b6fea8b33",
+  "displayName": "X3on Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "X3on Token",
+    "symbol": "X3on",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

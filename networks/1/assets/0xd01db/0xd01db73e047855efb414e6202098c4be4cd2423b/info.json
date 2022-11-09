@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd01db73e047855efb414e6202098c4be4cd2423b",
+  "displayName": "Uquid Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uquid Coin",
+    "symbol": "UQC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x795d8b572fb6a38cf20da12db53e1275c6d9168e",
+  "displayName": "PlTest",
+  "type": "TOKEN",
+  "token": {
+    "name": "PlTest",
+    "symbol": "PLTEST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

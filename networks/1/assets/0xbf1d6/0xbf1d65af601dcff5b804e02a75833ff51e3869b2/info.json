@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf1d65af601dcff5b804e02a75833ff51e3869b2",
+  "displayName": "XiaMiPool Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XiaMiPool Token",
+    "symbol": "XMPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

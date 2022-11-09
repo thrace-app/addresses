@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca14bee2d9f3f9ec0368215693bbf90f534e3862",
+  "displayName": "GGToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GGToken",
+    "symbol": "GGTK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

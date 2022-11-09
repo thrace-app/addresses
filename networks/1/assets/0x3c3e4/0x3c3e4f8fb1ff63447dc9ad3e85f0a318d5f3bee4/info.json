@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c3e4f8fb1ff63447dc9ad3e85f0a318d5f3bee4",
+  "displayName": "PormiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PormiToken",
+    "symbol": "PMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

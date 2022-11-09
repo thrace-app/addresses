@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc9c377dab23bcb576a285e2da79201108e043e7",
+  "displayName": "Evil Society",
+  "type": "TOKEN",
+  "token": {
+    "name": "Evil Society",
+    "symbol": "EVIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

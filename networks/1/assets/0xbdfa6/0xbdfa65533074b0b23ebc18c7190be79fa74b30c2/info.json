@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbdfa65533074b0b23ebc18c7190be79fa74b30c2",
+  "displayName": "Zloadr Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zloadr Token",
+    "symbol": "ZDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

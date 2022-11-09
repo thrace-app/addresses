@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d002a834480367fb1a1dc5f47e82fde39ec2c42",
+  "displayName": "ETH/BTC Synthetic Token Expiring 1 August 2020",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH/BTC Synthetic Token Expiring 1 August 2020",
+    "symbol": "ETHBTC-AUG20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

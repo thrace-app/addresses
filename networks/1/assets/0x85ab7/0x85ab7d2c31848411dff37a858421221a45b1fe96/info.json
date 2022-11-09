@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85ab7d2c31848411dff37a858421221a45b1fe96",
+  "displayName": "BEN token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BEN token",
+    "symbol": "BEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

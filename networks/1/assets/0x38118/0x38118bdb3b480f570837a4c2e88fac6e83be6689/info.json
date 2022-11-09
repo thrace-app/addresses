@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38118bdb3b480f570837a4c2e88fac6e83be6689",
+  "displayName": "Werewolf Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Werewolf Coin",
+    "symbol": "WWC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46d886887b6908183032c75dee1b731b26d653c6",
+  "displayName": "GreenCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GreenCoin",
+    "symbol": "GRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

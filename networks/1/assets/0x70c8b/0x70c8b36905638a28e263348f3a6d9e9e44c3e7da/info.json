@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70c8b36905638a28e263348f3a6d9e9e44c3e7da",
+  "displayName": "Dimension Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dimension Coin",
+    "symbol": "DSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

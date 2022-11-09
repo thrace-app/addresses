@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88a07de49b1e97fdfeacf76b42463453d48c17cd",
+  "displayName": "Yoh Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yoh Token",
+    "symbol": "YOH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

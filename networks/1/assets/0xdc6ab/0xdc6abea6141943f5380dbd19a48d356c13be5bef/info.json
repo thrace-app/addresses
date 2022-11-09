@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc6abea6141943f5380dbd19a48d356c13be5bef",
+  "displayName": "PulseDinger",
+  "type": "TOKEN",
+  "token": {
+    "name": "PulseDinger",
+    "symbol": "PDinger",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f311b5d15fd1df2f2fcf525f64748085b85cec1",
+  "displayName": "RyoDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "RyoDoge",
+    "symbol": "RyoDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

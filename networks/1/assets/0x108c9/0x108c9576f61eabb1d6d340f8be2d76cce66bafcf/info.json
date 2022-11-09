@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x108c9576f61eabb1d6d340f8be2d76cce66bafcf",
+  "displayName": "Rivet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rivet Token",
+    "symbol": "RIVT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

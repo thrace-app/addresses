@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc75e8439beb3eec22bbb25d7218937ea04693c74",
+  "displayName": "CypherBot",
+  "type": "TOKEN",
+  "token": {
+    "name": "CypherBot",
+    "symbol": "CBOT20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

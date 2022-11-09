@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9366b7c00894c3555c7590b0384e5f6a9d55659f",
+  "displayName": "Rari Fund Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rari Fund Token",
+    "symbol": "RFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb824f2dfb75e15199077d106872c9aa47bd93b4",
+  "displayName": "Elastic LiteCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elastic LiteCoin",
+    "symbol": "eLTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

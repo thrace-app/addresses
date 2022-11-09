@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda605fd5e003e6de0f33f6474080623fa6483e3e",
+  "displayName": "Capital Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Capital Coin",
+    "symbol": "CPTL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

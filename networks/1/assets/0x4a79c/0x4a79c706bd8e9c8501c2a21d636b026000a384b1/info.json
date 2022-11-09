@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a79c706bd8e9c8501c2a21d636b026000a384b1",
+  "displayName": "Eth Magicians",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eth Magicians",
+    "symbol": "MAGIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

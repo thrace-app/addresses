@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea405356c0b816702719e3c98f358bfd62b37609",
+  "displayName": "TRON",
+  "type": "TOKEN",
+  "token": {
+    "name": "TRON",
+    "symbol": "TRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

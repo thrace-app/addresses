@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48be1e4fe4d9949d0685d3b8cfa54aadb08a675c",
+  "displayName": "CBD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CBD Token",
+    "symbol": "CBD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

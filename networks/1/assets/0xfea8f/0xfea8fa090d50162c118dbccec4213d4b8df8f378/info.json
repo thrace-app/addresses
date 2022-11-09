@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfea8fa090d50162c118dbccec4213d4b8df8f378",
+  "displayName": "Atlantis Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Atlantis Token",
+    "symbol": "ATLS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

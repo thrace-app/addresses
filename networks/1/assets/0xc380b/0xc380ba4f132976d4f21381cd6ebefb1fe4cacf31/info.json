@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc380ba4f132976d4f21381cd6ebefb1fe4cacf31",
+  "displayName": "Starbuck",
+  "type": "TOKEN",
+  "token": {
+    "name": "Starbuck",
+    "symbol": "SBUX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c35a721700936a654857b8467fb9dc1fa3927c7",
+  "displayName": "Waluigi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Waluigi Token",
+    "symbol": "Waluigi",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

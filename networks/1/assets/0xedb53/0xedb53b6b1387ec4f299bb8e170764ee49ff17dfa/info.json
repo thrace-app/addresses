@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xedb53b6b1387ec4f299bb8e170764ee49ff17dfa",
+  "displayName": "Smart Bill Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smart Bill Token",
+    "symbol": "SMBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

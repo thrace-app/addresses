@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8292ec4a830a375a91ed65ba74abae89366ed744",
+  "displayName": "Crypto Hive",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Hive",
+    "symbol": "HIVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

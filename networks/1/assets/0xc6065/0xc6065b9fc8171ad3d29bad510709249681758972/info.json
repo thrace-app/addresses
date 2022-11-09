@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6065b9fc8171ad3d29bad510709249681758972",
+  "displayName": "WFAIR Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WFAIR Token",
+    "symbol": "WFAIR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

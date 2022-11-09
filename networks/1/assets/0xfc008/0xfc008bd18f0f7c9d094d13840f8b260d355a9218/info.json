@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc008bd18f0f7c9d094d13840f8b260d355a9218",
+  "displayName": "Coffee",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coffee",
+    "symbol": "CUP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc65cd35d78833dccacd68eefe0bd4418bfa2f2b",
+  "displayName": "Handshake.org",
+  "type": "TOKEN",
+  "token": {
+    "name": "Handshake.org",
+    "symbol": "HNS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79a356510b5b7097c0c414908b94d30bfb168242",
+  "displayName": "KAVA",
+  "type": "TOKEN",
+  "token": {
+    "name": "KAVA",
+    "symbol": "KAVA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

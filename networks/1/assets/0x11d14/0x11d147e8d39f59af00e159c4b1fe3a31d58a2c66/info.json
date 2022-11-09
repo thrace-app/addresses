@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11d147e8d39f59af00e159c4b1fe3a31d58a2c66",
+  "displayName": "Wrapped Hive",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Hive",
+    "symbol": "WHIVE",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

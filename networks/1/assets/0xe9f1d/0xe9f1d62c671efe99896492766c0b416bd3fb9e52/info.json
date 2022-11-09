@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe9f1d62c671efe99896492766c0b416bd3fb9e52",
+  "displayName": "XOYCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "XOYCoin",
+    "symbol": "XOY",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

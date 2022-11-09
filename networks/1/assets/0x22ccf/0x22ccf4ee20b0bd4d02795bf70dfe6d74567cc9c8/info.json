@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22ccf4ee20b0bd4d02795bf70dfe6d74567cc9c8",
+  "displayName": "Bankroll Token v01",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bankroll Token v01",
+    "symbol": "BRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

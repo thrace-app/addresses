@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7d9c108d4e1dd1484d3e2568d7f74bfd763d356",
+  "displayName": "SORA Synthetic USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "SORA Synthetic USD",
+    "symbol": "XSTUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

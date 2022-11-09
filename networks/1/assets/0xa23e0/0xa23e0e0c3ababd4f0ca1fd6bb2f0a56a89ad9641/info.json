@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa23e0e0c3ababd4f0ca1fd6bb2f0a56a89ad9641",
+  "displayName": "Burn rising token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burn rising token",
+    "symbol": "BRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

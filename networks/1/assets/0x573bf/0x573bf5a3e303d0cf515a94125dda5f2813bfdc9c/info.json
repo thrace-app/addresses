@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x573bf5a3e303d0cf515a94125dda5f2813bfdc9c",
+  "displayName": "Earth Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Earth Coin",
+    "symbol": "EAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

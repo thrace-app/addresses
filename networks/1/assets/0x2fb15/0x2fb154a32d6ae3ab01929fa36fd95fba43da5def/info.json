@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2fb154a32d6ae3ab01929fa36fd95fba43da5def",
+  "displayName": "Automatic revenue",
+  "type": "TOKEN",
+  "token": {
+    "name": "Automatic revenue",
+    "symbol": "ATR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

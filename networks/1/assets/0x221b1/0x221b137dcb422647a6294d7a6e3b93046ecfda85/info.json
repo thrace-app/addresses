@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x221b137dcb422647a6294d7a6e3b93046ecfda85",
+  "displayName": "Livid Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Livid Coin",
+    "symbol": "LIVID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

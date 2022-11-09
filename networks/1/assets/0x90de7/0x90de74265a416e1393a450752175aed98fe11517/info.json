@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90de74265a416e1393a450752175aed98fe11517",
+  "displayName": "Unlock Discount Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unlock Discount Token",
+    "symbol": "UDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

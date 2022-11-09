@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd3673af09e76c74d889aabab68ca0645566a3a1",
+  "displayName": "Unicorn Candy Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unicorn Candy Coin",
+    "symbol": "Candy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

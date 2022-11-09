@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b74e3615980c66e9ffc60ea0c1f8755288906ba",
+  "displayName": "Tsuka Burner",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tsuka Burner",
+    "symbol": "TSUKABANK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

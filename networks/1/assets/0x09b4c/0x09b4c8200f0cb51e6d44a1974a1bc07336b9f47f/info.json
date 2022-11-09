@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09b4c8200f0cb51e6d44a1974a1bc07336b9f47f",
+  "displayName": "Flash-Mintable ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flash-Mintable ETH",
+    "symbol": "fmETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d3ee6b64e69ebe12a4bf0b01d031cb80f556ee4",
+  "displayName": "Wrapped PECO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped PECO",
+    "symbol": "PECO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

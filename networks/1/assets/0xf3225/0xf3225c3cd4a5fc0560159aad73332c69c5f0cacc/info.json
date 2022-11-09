@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf3225c3cd4a5fc0560159aad73332c69c5f0cacc",
+  "displayName": "Toffee Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Toffee Token",
+    "symbol": "TFE",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

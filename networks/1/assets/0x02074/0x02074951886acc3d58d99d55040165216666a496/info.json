@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02074951886acc3d58d99d55040165216666a496",
+  "displayName": "InvisiCash",
+  "type": "TOKEN",
+  "token": {
+    "name": "InvisiCash",
+    "symbol": "IC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

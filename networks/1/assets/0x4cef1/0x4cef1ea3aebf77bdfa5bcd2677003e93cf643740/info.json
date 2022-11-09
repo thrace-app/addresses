@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cef1ea3aebf77bdfa5bcd2677003e93cf643740",
+  "displayName": "http://en.daibank.org/",
+  "type": "TOKEN",
+  "token": {
+    "name": "http://en.daibank.org/",
+    "symbol": "DAIBANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

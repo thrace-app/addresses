@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65edd01906ce91da41a3af0d5c27a4d09aee3419",
+  "displayName": "Token of the Ancestors",
+  "type": "TOKEN",
+  "token": {
+    "name": "Token of the Ancestors",
+    "symbol": "ANCESTOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

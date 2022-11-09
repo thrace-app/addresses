@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc35c18d91d8a102d92405cb5441fc0f751d35cdf",
+  "displayName": "ErikaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ErikaToken",
+    "symbol": "ERKA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

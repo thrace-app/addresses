@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x081664994a7415211b0b1cf9974d785b42f59565",
+  "displayName": "YummyDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "YummyDao",
+    "symbol": "Yummy",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

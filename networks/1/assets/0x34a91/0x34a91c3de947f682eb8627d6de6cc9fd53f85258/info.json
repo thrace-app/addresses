@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34a91c3de947f682eb8627d6de6cc9fd53f85258",
+  "displayName": "Latora Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Latora Token",
+    "symbol": "Latora",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

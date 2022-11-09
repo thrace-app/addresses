@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0095151377296198241a25a0f36c805b03de2f12",
+  "displayName": "The Fumetzu Koin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Fumetzu Koin",
+    "symbol": "FUM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

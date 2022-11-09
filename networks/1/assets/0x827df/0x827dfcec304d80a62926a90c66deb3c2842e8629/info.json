@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x827dfcec304d80a62926a90c66deb3c2842e8629",
+  "displayName": "Fungible NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fungible NFT",
+    "symbol": "🟢",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

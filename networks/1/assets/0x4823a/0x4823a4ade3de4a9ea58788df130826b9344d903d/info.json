@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4823a4ade3de4a9ea58788df130826b9344d903d",
+  "displayName": "KingSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "KingSwap",
+    "symbol": "King",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

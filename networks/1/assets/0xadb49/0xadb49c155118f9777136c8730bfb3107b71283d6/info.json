@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xadb49c155118f9777136c8730bfb3107b71283d6",
+  "displayName": "GrimesToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GrimesToken",
+    "symbol": "GRIMES",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

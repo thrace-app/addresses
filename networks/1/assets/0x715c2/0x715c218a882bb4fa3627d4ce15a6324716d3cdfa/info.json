@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x715c218a882bb4fa3627d4ce15a6324716d3cdfa",
+  "displayName": "VMart Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VMart Token",
+    "symbol": "VMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

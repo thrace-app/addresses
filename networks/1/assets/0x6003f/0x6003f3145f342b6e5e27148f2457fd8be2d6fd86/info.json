@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6003f3145f342b6e5e27148f2457fd8be2d6fd86",
+  "displayName": "ramen farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "ramen farm",
+    "symbol": "RAMEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

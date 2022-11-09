@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x94b9e8eb135f26cfbad88ed290a9567e7715b91d",
+  "displayName": "Almond Tofu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Almond Tofu Token",
+    "symbol": "ATT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

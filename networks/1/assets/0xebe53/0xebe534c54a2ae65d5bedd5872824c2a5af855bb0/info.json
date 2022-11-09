@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xebe534c54a2ae65d5bedd5872824c2a5af855bb0",
+  "displayName": "USTP",
+  "type": "TOKEN",
+  "token": {
+    "name": "USTP",
+    "symbol": "USTP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

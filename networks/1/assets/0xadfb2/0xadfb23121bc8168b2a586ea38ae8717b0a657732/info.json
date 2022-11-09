@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xadfb23121bc8168b2a586ea38ae8717b0a657732",
+  "displayName": "Officer Dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Officer Dog",
+    "symbol": "OFDOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

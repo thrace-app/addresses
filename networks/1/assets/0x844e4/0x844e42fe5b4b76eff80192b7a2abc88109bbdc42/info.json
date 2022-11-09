@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x844e42fe5b4b76eff80192b7a2abc88109bbdc42",
+  "displayName": "AMPPTest",
+  "type": "TOKEN",
+  "token": {
+    "name": "AMPPTest",
+    "symbol": "AMPPT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

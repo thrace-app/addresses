@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbfe07fdb614518691378c7a6aa6bd5a06a73b75e",
+  "displayName": "Loki Chair Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Loki Chair Token",
+    "symbol": "LOKICHAIR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53884b61963351c283118a8e1fc05ba464a11959",
+  "displayName": "Monnos Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monnos Token",
+    "symbol": "MNS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

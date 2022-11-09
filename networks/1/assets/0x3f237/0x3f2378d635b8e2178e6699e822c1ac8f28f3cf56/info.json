@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f2378d635b8e2178e6699e822c1ac8f28f3cf56",
+  "displayName": "RastaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RastaCoin",
+    "symbol": "RCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

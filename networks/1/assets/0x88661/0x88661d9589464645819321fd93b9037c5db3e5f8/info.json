@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88661d9589464645819321fd93b9037c5db3e5f8",
+  "displayName": "BitFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitFi",
+    "symbol": "BTFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

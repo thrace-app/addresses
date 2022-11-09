@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0ec39a9988cd4b8fb1c6d212ac148b05ad94a94",
+  "displayName": "Doge Tea Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Tea Token",
+    "symbol": "DOGTEA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

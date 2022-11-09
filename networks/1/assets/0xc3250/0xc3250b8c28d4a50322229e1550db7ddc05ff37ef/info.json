@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3250b8c28d4a50322229e1550db7ddc05ff37ef",
+  "displayName": "1Trillion",
+  "type": "TOKEN",
+  "token": {
+    "name": "1Trillion",
+    "symbol": "1TRN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

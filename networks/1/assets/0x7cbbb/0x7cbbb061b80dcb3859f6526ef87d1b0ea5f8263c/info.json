@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7cbbb061b80dcb3859f6526ef87d1b0ea5f8263c",
+  "displayName": "BaseApe",
+  "type": "TOKEN",
+  "token": {
+    "name": "BaseApe",
+    "symbol": "BAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

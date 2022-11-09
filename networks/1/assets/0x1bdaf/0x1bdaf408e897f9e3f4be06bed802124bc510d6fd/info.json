@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1bdaf408e897f9e3f4be06bed802124bc510d6fd",
+  "displayName": "KittyPop",
+  "type": "TOKEN",
+  "token": {
+    "name": "KittyPop",
+    "symbol": "KPOP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

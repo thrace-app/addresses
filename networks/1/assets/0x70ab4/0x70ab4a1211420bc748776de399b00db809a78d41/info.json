@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70ab4a1211420bc748776de399b00db809a78d41",
+  "displayName": "Magic Internet Rubles",
+  "type": "TOKEN",
+  "token": {
+    "name": "Magic Internet Rubles",
+    "symbol": "MIR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

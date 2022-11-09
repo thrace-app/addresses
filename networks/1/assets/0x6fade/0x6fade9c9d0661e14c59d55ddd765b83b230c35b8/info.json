@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fade9c9d0661e14c59d55ddd765b83b230c35b8",
+  "displayName": "Block Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Block Protocol",
+    "symbol": "Block",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

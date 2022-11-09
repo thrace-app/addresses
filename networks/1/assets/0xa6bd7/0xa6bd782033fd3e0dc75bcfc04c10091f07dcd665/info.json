@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa6bd782033fd3e0dc75bcfc04c10091f07dcd665",
+  "displayName": "Ethbox Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethbox Token",
+    "symbol": "EBOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

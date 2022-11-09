@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc21d79947ec0aa2f3b7069486c85cfa123995c50",
+  "displayName": "Boxa Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boxa Coin",
+    "symbol": "BOXA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

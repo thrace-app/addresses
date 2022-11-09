@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d36e86085440cdc1819a4586235172ed04ec169",
+  "displayName": "Jupiter Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jupiter Token",
+    "symbol": "JTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

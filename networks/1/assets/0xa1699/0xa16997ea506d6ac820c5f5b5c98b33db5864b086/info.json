@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa16997ea506d6ac820c5f5b5c98b33db5864b086",
+  "displayName": "Nekocoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nekocoin",
+    "symbol": "NEKO",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

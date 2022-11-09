@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6014ea05bde904448b743833ddf07c3c7837481",
+  "displayName": "Synth iBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth iBTC",
+    "symbol": "iBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

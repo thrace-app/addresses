@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e568ab95f029e8df1e39b30c9d6d076eaa15945",
+  "displayName": "FlyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlyCoin",
+    "symbol": "FLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

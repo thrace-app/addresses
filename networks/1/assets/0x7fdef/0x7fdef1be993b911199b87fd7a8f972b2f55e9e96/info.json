@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fdef1be993b911199b87fd7a8f972b2f55e9e96",
+  "displayName": "Rebound Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rebound Token",
+    "symbol": "REB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd8e70e83e399307db3978d3f34b060a06792c36",
+  "displayName": "Wasabi BTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wasabi BTC",
+    "symbol": "waBTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

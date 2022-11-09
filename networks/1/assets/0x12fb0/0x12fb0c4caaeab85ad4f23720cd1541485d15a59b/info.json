@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12fb0c4caaeab85ad4f23720cd1541485d15a59b",
+  "displayName": "Genesis Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Genesis Protocol",
+    "symbol": "GNP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

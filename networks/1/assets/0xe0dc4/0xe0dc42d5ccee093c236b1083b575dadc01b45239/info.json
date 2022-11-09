@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0dc42d5ccee093c236b1083b575dadc01b45239",
+  "displayName": "DooBuy",
+  "type": "TOKEN",
+  "token": {
+    "name": "DooBuy",
+    "symbol": "DoBuy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

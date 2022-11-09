@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e24989179295aadc3370dd305e4ec0a49ebfc9e",
+  "displayName": "Easter Bunny",
+  "type": "TOKEN",
+  "token": {
+    "name": "Easter Bunny",
+    "symbol": "BUNNY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07afb925be0fbfc79ab1be6fe367b908ad602d38",
+  "displayName": "New Gold Asset",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Gold Asset",
+    "symbol": "GODL",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

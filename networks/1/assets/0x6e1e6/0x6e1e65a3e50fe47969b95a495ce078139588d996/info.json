@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e1e65a3e50fe47969b95a495ce078139588d996",
+  "displayName": "The Fungible Pak 100",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Fungible Pak 100",
+    "symbol": "PAK100",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

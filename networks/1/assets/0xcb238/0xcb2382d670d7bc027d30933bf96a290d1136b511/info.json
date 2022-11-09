@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb2382d670d7bc027d30933bf96a290d1136b511",
+  "displayName": "randomify.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "randomify.com",
+    "symbol": "rand",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

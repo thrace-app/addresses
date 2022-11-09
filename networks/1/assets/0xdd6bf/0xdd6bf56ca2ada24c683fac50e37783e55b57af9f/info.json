@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd6bf56ca2ada24c683fac50e37783e55b57af9f",
+  "displayName": "Brave New Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brave New Coin",
+    "symbol": "BNC",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

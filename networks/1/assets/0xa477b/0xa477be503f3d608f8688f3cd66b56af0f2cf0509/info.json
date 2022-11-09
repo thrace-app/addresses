@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa477be503f3d608f8688f3cd66b56af0f2cf0509",
+  "displayName": "Hyperliquid",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hyperliquid",
+    "symbol": "Hype",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

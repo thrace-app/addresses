@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1eb103f8187645ab29ef97038a1157f33bb69ab",
+  "displayName": "TrueGold",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrueGold",
+    "symbol": "TGOLD",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

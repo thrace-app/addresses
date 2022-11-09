@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85ba591b3444ed01b5d7f8cebdb897494709bbdc",
+  "displayName": "Dopex Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dopex Governance Token",
+    "symbol": "DPX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

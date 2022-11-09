@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75a124375145f57eeac7b4e098f1c5e20b2bb256",
+  "displayName": "Boost",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boost",
+    "symbol": "BOOST",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

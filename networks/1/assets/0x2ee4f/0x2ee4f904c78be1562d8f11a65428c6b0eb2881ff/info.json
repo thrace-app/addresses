@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ee4f904c78be1562d8f11a65428c6b0eb2881ff",
+  "displayName": "Shiba Diamond",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Diamond",
+    "symbol": "DSHIBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

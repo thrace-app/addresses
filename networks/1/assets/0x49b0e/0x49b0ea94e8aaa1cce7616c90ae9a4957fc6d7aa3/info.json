@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49b0ea94e8aaa1cce7616c90ae9a4957fc6d7aa3",
+  "displayName": "North Korean Won",
+  "type": "TOKEN",
+  "token": {
+    "name": "North Korean Won",
+    "symbol": "KPW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

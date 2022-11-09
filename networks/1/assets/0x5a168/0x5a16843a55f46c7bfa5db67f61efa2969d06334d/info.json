@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a16843a55f46c7bfa5db67f61efa2969d06334d",
+  "displayName": "GoshiDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoshiDoge",
+    "symbol": "GODOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

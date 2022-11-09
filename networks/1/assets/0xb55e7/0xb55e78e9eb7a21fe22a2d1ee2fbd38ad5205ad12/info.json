@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb55e78e9eb7a21fe22a2d1ee2fbd38ad5205ad12",
+  "displayName": "WormApe",
+  "type": "TOKEN",
+  "token": {
+    "name": "WormApe",
+    "symbol": "WAPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

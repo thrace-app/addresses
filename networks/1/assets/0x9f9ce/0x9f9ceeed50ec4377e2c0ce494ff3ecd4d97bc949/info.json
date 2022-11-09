@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f9ceeed50ec4377e2c0ce494ff3ecd4d97bc949",
+  "displayName": "Crypto Queen Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Queen Token",
+    "symbol": "CQ",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

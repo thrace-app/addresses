@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc9d326b30b142c19d9415de4747d71574f5aa9d2",
+  "displayName": "CrypToads",
+  "type": "TOKEN",
+  "token": {
+    "name": "CrypToads",
+    "symbol": "CRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

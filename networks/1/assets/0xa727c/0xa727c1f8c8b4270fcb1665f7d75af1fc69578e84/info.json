@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa727c1f8c8b4270fcb1665f7d75af1fc69578e84",
+  "displayName": "rose",
+  "type": "TOKEN",
+  "token": {
+    "name": "rose",
+    "symbol": "RoseToken",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

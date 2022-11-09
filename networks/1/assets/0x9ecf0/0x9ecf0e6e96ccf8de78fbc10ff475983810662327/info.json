@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ecf0e6e96ccf8de78fbc10ff475983810662327",
+  "displayName": "MergePool",
+  "type": "TOKEN",
+  "token": {
+    "name": "MergePool",
+    "symbol": "MPOOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62642035b273f48536d9413a65743ec32a3ad01a",
+  "displayName": "EtherGotchi",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherGotchi",
+    "symbol": "GOTCHI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

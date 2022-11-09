@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x967d6f2e97bb61d63755c34c651225a1cdaad6b4",
+  "displayName": "SafePay",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafePay",
+    "symbol": "SAPY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

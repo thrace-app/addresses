@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe12e3ae6544797404210243ff8f18dc12b5325eb",
+  "displayName": "MemeGold",
+  "type": "TOKEN",
+  "token": {
+    "name": "MemeGold",
+    "symbol": "MGD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

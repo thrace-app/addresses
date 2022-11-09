@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9345695ae32b24adfc5a511eb168c71d124bde8f",
+  "displayName": "IceBaby Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "IceBaby Token",
+    "symbol": "$ICEBABY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

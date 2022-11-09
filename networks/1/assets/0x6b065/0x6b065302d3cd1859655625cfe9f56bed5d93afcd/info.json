@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b065302d3cd1859655625cfe9f56bed5d93afcd",
+  "displayName": "Eco Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eco Shiba",
+    "symbol": "ESHIBA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

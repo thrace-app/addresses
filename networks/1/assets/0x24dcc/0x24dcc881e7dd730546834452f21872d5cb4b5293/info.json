@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24dcc881e7dd730546834452f21872d5cb4b5293",
+  "displayName": "Data Transaction Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Data Transaction Token",
+    "symbol": "XD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

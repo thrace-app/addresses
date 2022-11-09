@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43ec23961af3c004bd5bd3648ae195a10b26bd76",
+  "displayName": "MCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MCoin",
+    "symbol": "MCU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

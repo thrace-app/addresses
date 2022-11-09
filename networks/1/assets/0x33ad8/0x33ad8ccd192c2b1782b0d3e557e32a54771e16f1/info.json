@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33ad8ccd192c2b1782b0d3e557e32a54771e16f1",
+  "displayName": "SunPower",
+  "type": "TOKEN",
+  "token": {
+    "name": "SunPower",
+    "symbol": "SP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

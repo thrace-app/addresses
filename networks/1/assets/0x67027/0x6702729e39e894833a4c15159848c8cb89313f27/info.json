@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6702729e39e894833a4c15159848c8cb89313f27",
+  "displayName": "CherryFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "CherryFi",
+    "symbol": "CFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

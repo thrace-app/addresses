@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc7da19fa0fd7df62f8f2ec7196f1582be008d61",
+  "displayName": "Wrapped DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped DAI",
+    "symbol": " wDAI ",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

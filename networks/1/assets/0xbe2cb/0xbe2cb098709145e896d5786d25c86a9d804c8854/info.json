@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe2cb098709145e896d5786d25c86a9d804c8854",
+  "displayName": "BiliBiliCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BiliBiliCoin",
+    "symbol": "BLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

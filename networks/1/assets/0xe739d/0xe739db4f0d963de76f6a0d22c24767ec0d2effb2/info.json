@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe739db4f0d963de76f6a0d22c24767ec0d2effb2",
+  "displayName": "PiContract",
+  "type": "TOKEN",
+  "token": {
+    "name": "PiContract",
+    "symbol": "PiContract",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

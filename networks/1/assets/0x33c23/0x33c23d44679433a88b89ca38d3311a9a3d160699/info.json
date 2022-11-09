@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33c23d44679433a88b89ca38d3311a9a3d160699",
+  "displayName": "RainbowToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RainbowToken",
+    "symbol": "RAINBOW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

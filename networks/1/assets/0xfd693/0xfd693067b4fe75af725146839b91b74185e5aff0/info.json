@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd693067b4fe75af725146839b91b74185e5aff0",
+  "displayName": "HBC",
+  "type": "TOKEN",
+  "token": {
+    "name": "HBC",
+    "symbol": "HBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

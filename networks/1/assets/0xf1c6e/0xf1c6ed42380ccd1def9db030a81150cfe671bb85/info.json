@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1c6ed42380ccd1def9db030a81150cfe671bb85",
+  "displayName": "Shaggy Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shaggy Inu",
+    "symbol": "ShaggyInu",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

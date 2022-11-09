@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e9d86ff7eb24657bebb672f3162e3a7921e4778",
+  "displayName": "You get what you pay for",
+  "type": "TOKEN",
+  "token": {
+    "name": "You get what you pay for",
+    "symbol": "$PAY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

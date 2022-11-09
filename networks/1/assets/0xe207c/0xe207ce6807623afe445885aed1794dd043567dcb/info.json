@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe207ce6807623afe445885aed1794dd043567dcb",
+  "displayName": "Bitcoin Core Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Core Finance",
+    "symbol": "BTCF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

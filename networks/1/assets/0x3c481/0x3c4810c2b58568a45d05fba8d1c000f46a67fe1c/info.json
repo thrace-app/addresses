@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c4810c2b58568a45d05fba8d1c000f46a67fe1c",
+  "displayName": "CashDog",
+  "type": "TOKEN",
+  "token": {
+    "name": "CashDog",
+    "symbol": "CashDog",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

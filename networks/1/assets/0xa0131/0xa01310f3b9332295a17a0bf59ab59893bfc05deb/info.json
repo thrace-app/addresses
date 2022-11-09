@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa01310f3b9332295a17a0bf59ab59893bfc05deb",
+  "displayName": "AltCoins",
+  "type": "TOKEN",
+  "token": {
+    "name": "AltCoins",
+    "symbol": "ALTCN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd17cb6a19c3be42d377084c7deaab1a5e61e341f",
+  "displayName": "SpruceCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpruceCoin",
+    "symbol": "SPRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

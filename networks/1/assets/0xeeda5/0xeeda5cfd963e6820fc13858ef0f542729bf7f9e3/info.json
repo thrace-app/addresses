@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeeda5cfd963e6820fc13858ef0f542729bf7f9e3",
+  "displayName": "Blunt Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blunt Token",
+    "symbol": "BLNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

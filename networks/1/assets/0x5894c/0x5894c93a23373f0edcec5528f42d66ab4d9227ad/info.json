@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5894c93a23373f0edcec5528f42d66ab4d9227ad",
+  "displayName": "Sickle Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sickle Token",
+    "symbol": "SIC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

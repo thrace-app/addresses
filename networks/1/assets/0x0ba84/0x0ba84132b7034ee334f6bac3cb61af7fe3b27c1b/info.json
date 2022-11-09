@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ba84132b7034ee334f6bac3cb61af7fe3b27c1b",
+  "displayName": "Lse token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lse token",
+    "symbol": "Lse",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

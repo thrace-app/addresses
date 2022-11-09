@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e41c0f52a0d7fa33de379e3fee63358e6c8c851",
+  "displayName": "Tempus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tempus Token",
+    "symbol": "TEMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

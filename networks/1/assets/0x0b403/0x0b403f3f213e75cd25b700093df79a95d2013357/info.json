@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b403f3f213e75cd25b700093df79a95d2013357",
+  "displayName": "Example Fixed Supply Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Example Fixed Supply Token",
+    "symbol": "FIXED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb76898373288745b599172d0e34279c58343840",
+  "displayName": "Privacy Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Privacy Coin",
+    "symbol": "PRIVACY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

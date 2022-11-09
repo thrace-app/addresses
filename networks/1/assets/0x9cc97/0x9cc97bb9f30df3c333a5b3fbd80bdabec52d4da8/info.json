@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9cc97bb9f30df3c333a5b3fbd80bdabec52d4da8",
+  "displayName": "Pirate Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pirate Doge",
+    "symbol": "PIRATEDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

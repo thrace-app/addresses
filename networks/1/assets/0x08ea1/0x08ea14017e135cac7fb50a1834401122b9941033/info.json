@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08ea14017e135cac7fb50a1834401122b9941033",
+  "displayName": "T8T Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "T8T Coin",
+    "symbol": "T8T",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

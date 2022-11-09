@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc81bf5b3173bccdbe62dba5f5b695522ad63559",
+  "displayName": "Lead Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lead Token",
+    "symbol": "XPb",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

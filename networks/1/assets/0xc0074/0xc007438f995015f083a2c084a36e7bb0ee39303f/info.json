@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc007438f995015f083a2c084a36e7bb0ee39303f",
+  "displayName": "Peanut Butter",
+  "type": "TOKEN",
+  "token": {
+    "name": "Peanut Butter",
+    "symbol": "$PEANUT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

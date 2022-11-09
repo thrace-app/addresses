@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xffca3ab31d37c0abd28dbde5f0c09f42f72d5627",
+  "displayName": "Bofa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bofa Token",
+    "symbol": "Bofa",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

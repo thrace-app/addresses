@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21dfccbfbd6f421ca1360044fe2a4dfb7490d889",
+  "displayName": "Pizza DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pizza DAO",
+    "symbol": "PZZA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

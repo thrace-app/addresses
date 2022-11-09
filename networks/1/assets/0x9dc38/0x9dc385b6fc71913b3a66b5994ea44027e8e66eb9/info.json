@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9dc385b6fc71913b3a66b5994ea44027e8e66eb9",
+  "displayName": "What The Duck",
+  "type": "TOKEN",
+  "token": {
+    "name": "What The Duck",
+    "symbol": "WTD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd753a8d3be45f4772145d75e28014a333b705fb",
+  "displayName": "GearProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "GearProtocol",
+    "symbol": "GEAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3daced19d73bd3c85d3391df2616228f325b454b",
+  "displayName": "PearlTreasure",
+  "type": "TOKEN",
+  "token": {
+    "name": "PearlTreasure",
+    "symbol": "PEARL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

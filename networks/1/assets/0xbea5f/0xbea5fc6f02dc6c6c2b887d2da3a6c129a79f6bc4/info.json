@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbea5fc6f02dc6c6c2b887d2da3a6c129a79f6bc4",
+  "displayName": "MUNCH Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MUNCH Token",
+    "symbol": "MUNCH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

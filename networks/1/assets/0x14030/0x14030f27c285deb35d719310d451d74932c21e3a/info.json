@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14030f27c285deb35d719310d451d74932c21e3a",
+  "displayName": "Airpay Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Airpay Token",
+    "symbol": "$AIRP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87320d07dec4c99e31722c1175929e6b6639083a",
+  "displayName": "Restaurant Marketing Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Restaurant Marketing Token",
+    "symbol": "RSTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

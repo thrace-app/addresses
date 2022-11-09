@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6956f4b46cb44497236e13d23a4748c74f9d4387",
+  "displayName": "Lampcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lampcoin",
+    "symbol": "LAMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

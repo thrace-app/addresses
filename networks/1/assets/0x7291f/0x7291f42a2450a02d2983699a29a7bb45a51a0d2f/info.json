@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7291f42a2450a02d2983699a29a7bb45a51a0d2f",
+  "displayName": "DimProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "DimProtocol",
+    "symbol": "DIM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

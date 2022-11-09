@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f169392d12cc5ff903873ae251dd6ea8d7f32b2",
+  "displayName": "TroyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TroyCoin",
+    "symbol": "TYN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11aa157eebbe3349e697e7fb727d6a109f10834e",
+  "displayName": "BBS Network",
+  "type": "TOKEN",
+  "token": {
+    "name": "BBS Network",
+    "symbol": "BBS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

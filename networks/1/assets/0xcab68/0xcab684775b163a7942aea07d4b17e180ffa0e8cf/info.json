@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcab684775b163a7942aea07d4b17e180ffa0e8cf",
+  "displayName": "eToro",
+  "type": "TOKEN",
+  "token": {
+    "name": "eToro",
+    "symbol": "ETORO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

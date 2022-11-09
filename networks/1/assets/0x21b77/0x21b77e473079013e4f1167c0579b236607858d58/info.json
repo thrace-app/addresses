@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21b77e473079013e4f1167c0579b236607858d58",
+  "displayName": "Ethereum Validator",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Validator",
+    "symbol": "EVALID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

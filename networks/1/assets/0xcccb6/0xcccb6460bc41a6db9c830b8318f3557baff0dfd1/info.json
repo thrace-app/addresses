@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcccb6460bc41a6db9c830b8318f3557baff0dfd1",
+  "displayName": "Doppler",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doppler",
+    "symbol": "DOPL.",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

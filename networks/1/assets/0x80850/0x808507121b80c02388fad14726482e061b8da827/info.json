@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x808507121b80c02388fad14726482e061b8da827",
+  "displayName": "Pendle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21df9db27fff1e615d3babb9f3cb6578ee9ea5e8",
+  "displayName": "HexLite Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HexLite Token",
+    "symbol": "HLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

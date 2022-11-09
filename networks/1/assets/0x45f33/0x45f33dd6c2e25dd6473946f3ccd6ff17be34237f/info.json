@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45f33dd6c2e25dd6473946f3ccd6ff17be34237f",
+  "displayName": "Ticking Clock",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ticking Clock",
+    "symbol": "TICK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

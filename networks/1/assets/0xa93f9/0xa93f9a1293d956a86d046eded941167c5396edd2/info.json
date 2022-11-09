@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa93f9a1293d956a86d046eded941167c5396edd2",
+  "displayName": "HexDAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "HexDAI",
+    "symbol": "HEXD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

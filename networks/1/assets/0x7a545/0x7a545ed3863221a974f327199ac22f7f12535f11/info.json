@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a545ed3863221a974f327199ac22f7f12535f11",
+  "displayName": "Baguette Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baguette Token",
+    "symbol": "BGTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

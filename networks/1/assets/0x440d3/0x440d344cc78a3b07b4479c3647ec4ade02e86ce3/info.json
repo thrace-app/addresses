@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x440d344cc78a3b07b4479c3647ec4ade02e86ce3",
+  "displayName": "KetaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KetaToken",
+    "symbol": "KETA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

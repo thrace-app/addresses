@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cb9a2519ed2cbf5ff6504b6cdbf59c63c052fcd",
+  "displayName": "Thomas Reuters",
+  "type": "TOKEN",
+  "token": {
+    "name": "Thomas Reuters",
+    "symbol": "Thomas Reuters",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

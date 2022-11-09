@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xadf9ce79fe5a26c2735418c46d0e02c27c984bd8",
+  "displayName": "Prime Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Prime Token",
+    "symbol": "PT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

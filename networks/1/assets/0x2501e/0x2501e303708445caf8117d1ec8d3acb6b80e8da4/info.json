@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2501e303708445caf8117d1ec8d3acb6b80e8da4",
+  "displayName": "Banana Farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "Banana Farm",
+    "symbol": "BANA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

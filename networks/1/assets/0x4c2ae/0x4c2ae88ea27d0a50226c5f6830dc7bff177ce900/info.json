@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c2ae88ea27d0a50226c5f6830dc7bff177ce900",
+  "displayName": "A Doge dream",
+  "type": "TOKEN",
+  "token": {
+    "name": "A Doge dream",
+    "symbol": "BARK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

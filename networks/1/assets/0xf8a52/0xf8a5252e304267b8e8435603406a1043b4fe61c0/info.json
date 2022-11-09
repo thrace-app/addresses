@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8a5252e304267b8e8435603406a1043b4fe61c0",
+  "displayName": "CRYPTOPUNKS",
+  "type": "TOKEN",
+  "token": {
+    "name": "CRYPTOPUNKS",
+    "symbol": "CryptoPunks",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

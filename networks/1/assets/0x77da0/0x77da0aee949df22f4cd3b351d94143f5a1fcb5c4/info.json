@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77da0aee949df22f4cd3b351d94143f5a1fcb5c4",
+  "displayName": "Proof of NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of NFT",
+    "symbol": "PONFT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

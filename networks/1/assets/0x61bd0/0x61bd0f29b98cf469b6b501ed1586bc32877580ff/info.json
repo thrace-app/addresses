@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61bd0f29b98cf469b6b501ed1586bc32877580ff",
+  "displayName": "Vitalik Fan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitalik Fan Token",
+    "symbol": "BUTERIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

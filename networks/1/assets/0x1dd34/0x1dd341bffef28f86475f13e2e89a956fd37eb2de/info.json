@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1dd341bffef28f86475f13e2e89a956fd37eb2de",
+  "displayName": "Airlock",
+  "type": "TOKEN",
+  "token": {
+    "name": "Airlock",
+    "symbol": "AIRLOCK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

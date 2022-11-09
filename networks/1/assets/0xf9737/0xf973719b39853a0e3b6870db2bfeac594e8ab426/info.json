@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf973719b39853a0e3b6870db2bfeac594e8ab426",
+  "displayName": "EvilSanta",
+  "type": "TOKEN",
+  "token": {
+    "name": "EvilSanta",
+    "symbol": "ES",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

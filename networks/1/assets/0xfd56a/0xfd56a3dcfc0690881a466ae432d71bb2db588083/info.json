@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd56a3dcfc0690881a466ae432d71bb2db588083",
+  "displayName": "Fleet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fleet Token",
+    "symbol": "FLEET",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

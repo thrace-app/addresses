@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a36e42fd601100f8a9a61fceefd6abf299b191a",
+  "displayName": "Baby Yoda",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Yoda",
+    "symbol": "BABYYODA",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

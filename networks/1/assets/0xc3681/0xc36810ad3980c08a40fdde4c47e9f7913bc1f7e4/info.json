@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc36810ad3980c08a40fdde4c47e9f7913bc1f7e4",
+  "displayName": "IR Digital Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "IR Digital Token",
+    "symbol": "IRDT",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

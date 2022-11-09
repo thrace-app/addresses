@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f878c85e1164aaca36afc2e3839639082781e26",
+  "displayName": "Star Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Star Coin",
+    "symbol": "SC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

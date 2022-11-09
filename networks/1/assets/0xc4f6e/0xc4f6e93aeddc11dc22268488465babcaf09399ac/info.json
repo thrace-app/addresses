@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4f6e93aeddc11dc22268488465babcaf09399ac",
+  "displayName": "hi Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "hi Dollar",
+    "symbol": "HI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

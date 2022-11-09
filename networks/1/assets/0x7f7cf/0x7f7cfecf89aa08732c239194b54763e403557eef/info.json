@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f7cfecf89aa08732c239194b54763e403557eef",
+  "displayName": "GameStop Defi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GameStop Defi Token",
+    "symbol": "GMEDEFI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

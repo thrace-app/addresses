@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42c85f88688c683e91af5a9d9fe5ba18bd3e8273",
+  "displayName": "Kebab.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kebab.finance",
+    "symbol": "KEBAB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

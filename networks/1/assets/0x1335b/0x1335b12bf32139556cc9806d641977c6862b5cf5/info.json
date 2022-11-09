@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1335b12bf32139556cc9806d641977c6862b5cf5",
+  "displayName": "Tett",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tett",
+    "symbol": "tett",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

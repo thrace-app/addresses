@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46861bfc9d89a2bcd3e638c382d29884b18bd1a6",
+  "displayName": "IHOToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "IHOToken",
+    "symbol": "IHO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

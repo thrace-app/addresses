@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4483929faae42e166c6fe42b2df84badf8a5868",
+  "displayName": "BUSD Token (Wormhole)",
+  "type": "TOKEN",
+  "token": {
+    "name": "BUSD Token (Wormhole)",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

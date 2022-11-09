@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56e4078d2d350d7a1c6f2e2dfa927b3ba88eab98",
+  "displayName": "ROBO DOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "ROBO DOGE",
+    "symbol": "RDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

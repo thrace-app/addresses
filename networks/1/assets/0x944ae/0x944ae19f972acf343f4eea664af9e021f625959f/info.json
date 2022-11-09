@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x944ae19f972acf343f4eea664af9e021f625959f",
+  "displayName": "Plutus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Plutus",
+    "symbol": "PLS",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

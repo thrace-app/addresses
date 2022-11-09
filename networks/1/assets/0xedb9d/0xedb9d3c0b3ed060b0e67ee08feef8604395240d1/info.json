@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xedb9d3c0b3ed060b0e67ee08feef8604395240d1",
+  "displayName": "Block Consensus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Block Consensus Token",
+    "symbol": "BCT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

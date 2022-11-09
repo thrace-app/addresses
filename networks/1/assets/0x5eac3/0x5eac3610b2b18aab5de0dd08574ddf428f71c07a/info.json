@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5eac3610b2b18aab5de0dd08574ddf428f71c07a",
+  "displayName": "sbss token",
+  "type": "TOKEN",
+  "token": {
+    "name": "sbss token",
+    "symbol": "sbss",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

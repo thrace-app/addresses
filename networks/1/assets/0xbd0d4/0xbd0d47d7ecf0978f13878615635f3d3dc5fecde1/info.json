@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd0d47d7ecf0978f13878615635f3d3dc5fecde1",
+  "displayName": "KEKToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KEKToken",
+    "symbol": "KEK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

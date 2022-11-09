@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6ac1bfa0823e64e7a83cb643db1b74777cd9721",
+  "displayName": "Ether Punks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether Punks",
+    "symbol": "EPUNK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

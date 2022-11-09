@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbee237ed8d61fa1268cf7297bb3c13f131493eea",
+  "displayName": "Transpacific Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Transpacific Coin",
+    "symbol": "TPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x699529f30a54909c3cce884fa95e688e298912c9",
+  "displayName": "FOSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "FOSwap",
+    "symbol": "FOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

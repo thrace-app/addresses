@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xefdf8c3990b959a8c7e0c0a47f9e741aa76c97ac",
+  "displayName": "Bacon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bacon",
+    "symbol": "BCN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

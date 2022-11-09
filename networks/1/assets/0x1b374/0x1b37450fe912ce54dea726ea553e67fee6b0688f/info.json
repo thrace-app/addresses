@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b37450fe912ce54dea726ea553e67fee6b0688f",
+  "displayName": "Gimmie Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gimmie Doge",
+    "symbol": "GIMDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecff5865a1272ae0159eb8374e12cdeca45b4204",
+  "displayName": "Kitty NFT Marketplace",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kitty NFT Marketplace",
+    "symbol": "KNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12114172fde783fa26d2b865cc61b354cdb45bd3",
+  "displayName": "CoreVault",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoreVault",
+    "symbol": "CORV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

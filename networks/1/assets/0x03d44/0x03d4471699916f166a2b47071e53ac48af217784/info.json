@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03d4471699916f166a2b47071e53ac48af217784",
+  "displayName": "ShigCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShigCoin",
+    "symbol": "Shig",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

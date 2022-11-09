@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3a824707e146fcfa583738bbe49d061fe0d1294",
+  "displayName": "Universal Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Universal Token",
+    "symbol": "UNIV",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

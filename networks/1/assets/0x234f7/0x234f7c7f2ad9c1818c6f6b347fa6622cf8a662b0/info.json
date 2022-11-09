@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x234f7c7f2ad9c1818c6f6b347fa6622cf8a662b0",
+  "displayName": "Sunday Funday",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sunday Funday",
+    "symbol": "SundayFunday",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

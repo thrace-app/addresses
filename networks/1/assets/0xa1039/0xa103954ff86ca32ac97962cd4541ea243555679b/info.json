@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa103954ff86ca32ac97962cd4541ea243555679b",
+  "displayName": "Goblin coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goblin coin",
+    "symbol": "Goblin coin",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

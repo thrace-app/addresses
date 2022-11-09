@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb19c03a02a519a44542343803f3d42578cbc243",
+  "displayName": "CR Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CR Coin",
+    "symbol": "CRC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

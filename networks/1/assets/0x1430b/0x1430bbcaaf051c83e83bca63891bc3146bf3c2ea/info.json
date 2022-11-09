@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1430bbcaaf051c83e83bca63891bc3146bf3c2ea",
+  "displayName": "Minting Trump",
+  "type": "TOKEN",
+  "token": {
+    "name": "Minting Trump",
+    "symbol": "MINTRUMP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

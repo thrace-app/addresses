@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x714c9865ee65421e7221b92d327595d73f19e949",
+  "displayName": "Dynamic API",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dynamic API",
+    "symbol": "dAPI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

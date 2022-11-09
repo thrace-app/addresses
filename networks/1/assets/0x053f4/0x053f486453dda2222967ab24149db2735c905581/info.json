@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x053f486453dda2222967ab24149db2735c905581",
+  "displayName": "Shiba Sushi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Sushi",
+    "symbol": "SHIBASUSHI",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

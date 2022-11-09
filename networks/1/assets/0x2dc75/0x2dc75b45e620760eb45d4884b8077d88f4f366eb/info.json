@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dc75b45e620760eb45d4884b8077d88f4f366eb",
+  "displayName": "Helium",
+  "type": "TOKEN",
+  "token": {
+    "name": "Helium",
+    "symbol": "Helium",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

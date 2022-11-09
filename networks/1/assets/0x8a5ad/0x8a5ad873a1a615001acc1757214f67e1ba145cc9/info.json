@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a5ad873a1a615001acc1757214f67e1ba145cc9",
+  "displayName": "HEARTBEAT",
+  "type": "TOKEN",
+  "token": {
+    "name": "HEARTBEAT",
+    "symbol": "HBIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

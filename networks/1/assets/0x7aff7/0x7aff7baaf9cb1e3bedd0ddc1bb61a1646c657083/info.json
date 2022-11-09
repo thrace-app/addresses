@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7aff7baaf9cb1e3bedd0ddc1bb61a1646c657083",
+  "displayName": "Halsey Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Halsey Token",
+    "symbol": "HALSEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

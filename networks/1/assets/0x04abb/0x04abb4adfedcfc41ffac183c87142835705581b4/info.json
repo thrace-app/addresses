@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04abb4adfedcfc41ffac183c87142835705581b4",
+  "displayName": "The Orbit",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Orbit",
+    "symbol": "ORBIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

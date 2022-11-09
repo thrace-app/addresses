@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb3530ac51ded9c48bb74da82e803cfa334500ea",
+  "displayName": "Wrapped Arbitrum Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Arbitrum Token",
+    "symbol": "AB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

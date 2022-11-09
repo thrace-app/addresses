@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73eb2b0c7939d2dfb28b476c2fb3bb968eaf55b3",
+  "displayName": "VitaDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "VitaDoge",
+    "symbol": "VDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

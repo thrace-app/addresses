@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3dd1086cbc36d180ade18feb271078e1ba57688",
+  "displayName": "Pipe Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pipe Token",
+    "symbol": "PIPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

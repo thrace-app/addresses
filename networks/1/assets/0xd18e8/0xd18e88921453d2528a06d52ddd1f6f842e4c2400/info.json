@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd18e88921453d2528a06d52ddd1f6f842e4c2400",
+  "displayName": "CitiKeyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CitiKeyToken",
+    "symbol": "CKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

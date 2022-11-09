@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8fcfad991abb23589418cc552039a98ca6c544bb",
+  "displayName": "XblockbankToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "XblockbankToken",
+    "symbol": "XBT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

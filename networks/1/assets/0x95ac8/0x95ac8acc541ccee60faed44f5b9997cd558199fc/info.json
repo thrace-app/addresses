@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95ac8acc541ccee60faed44f5b9997cd558199fc",
+  "displayName": "Queen Shiba Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Queen Shiba Token",
+    "symbol": "QUEENSHIBA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

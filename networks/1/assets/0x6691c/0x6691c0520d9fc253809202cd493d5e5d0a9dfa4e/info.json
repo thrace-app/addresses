@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6691c0520d9fc253809202cd493d5e5d0a9dfa4e",
+  "displayName": "Doomer Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doomer Coin",
+    "symbol": "DOOMER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

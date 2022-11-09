@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88f16ed6847dfcaffb9bf124207bd21d42a3b3c3",
+  "displayName": "TwiChat Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TwiChat Coin",
+    "symbol": "TWCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e3aeb75392ca824d55479cae07f7f0b765743dd",
+  "displayName": "MoneyFold Euro",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoneyFold Euro",
+    "symbol": "EUR",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc84f7682235b7d03b073bc28f33263d09e23eac",
+  "displayName": "Tma Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tma Token",
+    "symbol": "TMA",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c0f3199b32cbaef77ee365cfd9c311db17d6bb5",
+  "displayName": "Monster Shib Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monster Shib Token",
+    "symbol": "MSHIB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

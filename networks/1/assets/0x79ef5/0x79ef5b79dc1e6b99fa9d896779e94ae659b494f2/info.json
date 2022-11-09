@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79ef5b79dc1e6b99fa9d896779e94ae659b494f2",
+  "displayName": "Mythical Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mythical Token",
+    "symbol": "MYTH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

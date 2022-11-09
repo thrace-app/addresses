@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69359ebc6e09fd78045ac3f844714f5d6ab74221",
+  "displayName": "FlokiETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlokiETH",
+    "symbol": "FLOETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

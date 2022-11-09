@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ddeeda0272fdd44060ddef77e75a05ba6b4d24f",
+  "displayName": "LiquidFroge",
+  "type": "TOKEN",
+  "token": {
+    "name": "LiquidFroge",
+    "symbol": "LIQUID",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

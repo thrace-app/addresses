@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85548e4f2ce7f8182c3588f3993c9f4a414bc5ff",
+  "displayName": "BlackappleToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlackappleToken",
+    "symbol": "BAPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

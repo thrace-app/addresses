@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c843cd1fe68ea8cf129d4bd4e92c76869098ae2",
+  "displayName": "Horse Power Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Horse Power Token",
+    "symbol": "HPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

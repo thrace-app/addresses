@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11f28e2176ebde961f9c01deb660cb7aa2af2c4c",
+  "displayName": "COREFI",
+  "type": "TOKEN",
+  "token": {
+    "name": "COREFI",
+    "symbol": "CFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

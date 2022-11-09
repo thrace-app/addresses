@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87ad2db2097a16a039e1d830022b4d7f3188c62a",
+  "displayName": "Methereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Methereum",
+    "symbol": "MTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

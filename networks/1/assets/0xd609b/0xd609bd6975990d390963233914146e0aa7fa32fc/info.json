@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd609bd6975990d390963233914146e0aa7fa32fc",
+  "displayName": "@BobsBurgersCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "@BobsBurgersCoin",
+    "symbol": "BBC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

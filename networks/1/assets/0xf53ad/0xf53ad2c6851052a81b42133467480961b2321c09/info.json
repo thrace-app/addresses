@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf53ad2c6851052a81b42133467480961b2321c09",
+  "displayName": "Pooled Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pooled Ether",
+    "symbol": "PETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

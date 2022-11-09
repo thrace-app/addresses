@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x695106ad73f506f9d0a9650a78019a93149ae07c",
+  "displayName": "BNS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BNS Token",
+    "symbol": "BNS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43110d4f2113d50574412e852ebd96f1593179e4",
+  "displayName": "ADA",
+  "type": "TOKEN",
+  "token": {
+    "name": "ADA",
+    "symbol": "ADA",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

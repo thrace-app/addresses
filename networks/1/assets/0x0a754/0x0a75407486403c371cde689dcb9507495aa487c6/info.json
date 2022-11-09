@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a75407486403c371cde689dcb9507495aa487c6",
+  "displayName": "SaunaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SaunaToken",
+    "symbol": "SAUNA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

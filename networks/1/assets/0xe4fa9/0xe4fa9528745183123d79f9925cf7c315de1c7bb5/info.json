@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4fa9528745183123d79f9925cf7c315de1c7bb5",
+  "displayName": "MineSweeper",
+  "type": "TOKEN",
+  "token": {
+    "name": "MineSweeper",
+    "symbol": "MINE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

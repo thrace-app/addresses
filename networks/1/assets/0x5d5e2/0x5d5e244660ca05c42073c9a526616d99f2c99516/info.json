@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d5e244660ca05c42073c9a526616d99f2c99516",
+  "displayName": "Game tree Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Game tree Coin",
+    "symbol": "GTCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

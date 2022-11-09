@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe495387337c7c5642f04f1d42ec0e8e990fecf90",
+  "displayName": "One Peg Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "One Peg Coin",
+    "symbol": "PEGC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

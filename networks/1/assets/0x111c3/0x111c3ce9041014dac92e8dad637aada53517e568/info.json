@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x111c3ce9041014dac92e8dad637aada53517e568",
+  "displayName": "Robo Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Robo Inu",
+    "symbol": "t.me/RoboInu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8de106cdf0a213fed58939353c1b91eb7ad513ac",
+  "displayName": "FlexYield",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlexYield",
+    "symbol": "FLEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

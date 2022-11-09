@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc6bab319eb4c18537963fade173a6917d17d0e6",
+  "displayName": "FXCM Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "FXCM Chain",
+    "symbol": "FXCM",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

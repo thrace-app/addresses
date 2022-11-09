@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc64b975212583ce0f72b02a929d2a868a5b1f08f",
+  "displayName": "EPAY",
+  "type": "TOKEN",
+  "token": {
+    "name": "EPAY",
+    "symbol": "EPAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

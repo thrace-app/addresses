@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5931fbb62552bc1144f4f801cc47ee2697da83b",
+  "displayName": "MetalinkOracle",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetalinkOracle",
+    "symbol": "METAlink",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe00dc799584ec473d4a885e0e3b7ef1ca7a38fa5",
+  "displayName": "Orso Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Orso Token",
+    "symbol": "OSO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

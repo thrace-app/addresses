@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1467a2317ae26b0d428ec97c1bfd37b9e0ac7f18",
+  "displayName": "KeeperDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "KeeperDAO",
+    "symbol": "K3DAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x339eda16b6498c8d60d65825fb4c520b83f09ad4",
+  "displayName": "Changer",
+  "type": "TOKEN",
+  "token": {
+    "name": "Changer",
+    "symbol": "CHG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

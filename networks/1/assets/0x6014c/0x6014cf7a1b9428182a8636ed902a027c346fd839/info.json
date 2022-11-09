@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6014cf7a1b9428182a8636ed902a027c346fd839",
+  "displayName": "Manta Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Manta Chain",
+    "symbol": "MNT",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

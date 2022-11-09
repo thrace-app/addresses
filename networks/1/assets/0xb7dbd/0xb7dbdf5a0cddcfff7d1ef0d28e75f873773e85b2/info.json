@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7dbdf5a0cddcfff7d1ef0d28e75f873773e85b2",
+  "displayName": "Junkyard Factory Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Junkyard Factory Token",
+    "symbol": "JUNK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

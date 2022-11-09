@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe41fdbfb04dd1e94cff4d68b0f84fd64e82fc12e",
+  "displayName": "Fight Club",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fight Club",
+    "symbol": "FCLUB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

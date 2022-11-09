@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbdda9670bc2a672c36cce0102ce8c69b12e9dee3",
+  "displayName": "ThirdFloorToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ThirdFloorToken",
+    "symbol": "TFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

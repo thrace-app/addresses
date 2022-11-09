@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x177ba0cac51bfc7ea24bad39d81dcefd59d74faa",
+  "displayName": "KittenFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "KittenFinance",
+    "symbol": "KIF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

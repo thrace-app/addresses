@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8362afaabb1deae2a8055f9ea92e4c3c7b218e3e",
+  "displayName": "Junecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Junecoin",
+    "symbol": "JUNE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

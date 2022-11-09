@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe7846c63df7a465a874795f677c7aa97b1198e5",
+  "displayName": "PENGU",
+  "type": "TOKEN",
+  "token": {
+    "name": "PENGU",
+    "symbol": "png",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

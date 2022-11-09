@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87320276194a829b7cfc2a51183c0e01b0269c81",
+  "displayName": "ParaDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "ParaDoge",
+    "symbol": "PARADOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc9a3eec67e97a7d77c9228228d3000f03d8d46d",
+  "displayName": "Wraped Lond Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wraped Lond Token",
+    "symbol": "LOND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7b48a55b5273304ec5ceaa2dec5e15d35f446c3",
+  "displayName": "Ned Flanders",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ned Flanders",
+    "symbol": "FLANDERs",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

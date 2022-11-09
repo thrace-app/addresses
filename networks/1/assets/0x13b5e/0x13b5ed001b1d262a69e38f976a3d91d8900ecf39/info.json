@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13b5ed001b1d262a69e38f976a3d91d8900ecf39",
+  "displayName": "Eminence.BTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eminence.BTC",
+    "symbol": "eBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

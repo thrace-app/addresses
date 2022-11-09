@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8ac382f987478b14928843dd48b0acade4034e4",
+  "displayName": "Super Neko",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Neko",
+    "symbol": "SUKO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

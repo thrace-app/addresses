@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6201d37454c5216b18d02e3c708deeaecadea030",
+  "displayName": "Yankee Shiba Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yankee Shiba Token",
+    "symbol": "YANKEE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

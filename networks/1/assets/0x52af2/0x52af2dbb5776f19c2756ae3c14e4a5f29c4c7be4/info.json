@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52af2dbb5776f19c2756ae3c14e4a5f29c4c7be4",
+  "displayName": "Island Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Island Token",
+    "symbol": "ISLAND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

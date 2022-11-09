@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd71f8aff8f369458d7f7edb75d376812309fb0fe",
+  "displayName": "PewDiePie Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PewDiePie Token",
+    "symbol": "PEWDS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

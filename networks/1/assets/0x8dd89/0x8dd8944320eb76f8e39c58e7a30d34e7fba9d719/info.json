@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8dd8944320eb76f8e39c58e7a30d34e7fba9d719",
+  "displayName": "Shifted ZEC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shifted ZEC",
+    "symbol": "zZEC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

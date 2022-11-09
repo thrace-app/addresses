@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ac617aefb7e083aabaee52dbe330f18ffc3e41f",
+  "displayName": "Greezly Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Greezly Token",
+    "symbol": "Greezly",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

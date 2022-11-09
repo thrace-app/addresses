@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfb8621c3ab692979e53b4c7ac2237d2e6e4b17c",
+  "displayName": "HollowFox Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HollowFox Token",
+    "symbol": "HFOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf69242428013f471a56365e58554f23acc64efb9",
+  "displayName": "Koalo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Koalo Token",
+    "symbol": "KOALO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

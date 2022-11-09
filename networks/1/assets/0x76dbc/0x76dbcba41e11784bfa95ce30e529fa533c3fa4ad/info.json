@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76dbcba41e11784bfa95ce30e529fa533c3fa4ad",
+  "displayName": "Smart Marketing Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smart Marketing Token",
+    "symbol": "SMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

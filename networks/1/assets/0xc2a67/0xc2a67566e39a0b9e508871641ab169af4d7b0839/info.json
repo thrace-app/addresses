@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2a67566e39a0b9e508871641ab169af4d7b0839",
+  "displayName": "Love Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Love Doge",
+    "symbol": "LOVEDOGE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

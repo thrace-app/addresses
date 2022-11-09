@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5781c107121bbd1c2f459335940a50abc22b681d",
+  "displayName": "sandwich",
+  "type": "TOKEN",
+  "token": {
+    "name": "sandwich",
+    "symbol": "SAND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

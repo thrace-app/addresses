@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d13e744e4f6f6fde53c9056f09354aa9b934a4a",
+  "displayName": "Weezy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Weezy Token",
+    "symbol": "Weezy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

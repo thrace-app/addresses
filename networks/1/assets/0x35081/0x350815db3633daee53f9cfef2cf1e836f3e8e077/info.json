@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x350815db3633daee53f9cfef2cf1e836f3e8e077",
+  "displayName": "The Ultimate Eco Friendly Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Ultimate Eco Friendly Coin",
+    "symbol": "GREEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

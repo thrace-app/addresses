@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19b9ba569c9e027342096d1fb35687650b749f51",
+  "displayName": "SuperFarm",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperFarm",
+    "symbol": "SUPER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73d4bd4adf1c7828639c3a707548887279ba8452",
+  "displayName": "Bank of $DIE",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of $DIE",
+    "symbol": "DIEB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x034c46cfafdecc9956e4283c1ae0d913c7d26fee",
+  "displayName": "CPD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CPD Token",
+    "symbol": "CPD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

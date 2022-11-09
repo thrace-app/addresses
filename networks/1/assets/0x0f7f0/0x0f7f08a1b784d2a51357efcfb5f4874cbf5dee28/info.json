@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f7f08a1b784d2a51357efcfb5f4874cbf5dee28",
+  "displayName": "Single Coffee Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Single Coffee Token",
+    "symbol": "CAFE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

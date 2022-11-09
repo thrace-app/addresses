@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xadf842347b18095eeeadff9374aa87e87d336249",
+  "displayName": "MetaFashion Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaFashion Coin",
+    "symbol": "METAFS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

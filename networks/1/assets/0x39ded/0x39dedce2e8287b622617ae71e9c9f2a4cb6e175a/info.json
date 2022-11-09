@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39dedce2e8287b622617ae71e9c9f2a4cb6e175a",
+  "displayName": "DMMStake",
+  "type": "TOKEN",
+  "token": {
+    "name": "DMMStake",
+    "symbol": "DMMS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

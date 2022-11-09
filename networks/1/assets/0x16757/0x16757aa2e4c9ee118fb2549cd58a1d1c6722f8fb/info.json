@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16757aa2e4c9ee118fb2549cd58a1d1c6722f8fb",
+  "displayName": "NGO Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NGO Coin",
+    "symbol": "NGO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

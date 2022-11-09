@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1620e2a57cba54b33877572e89a1dea3cd8bfbf7",
+  "displayName": "DAIN ERC-20",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAIN ERC-20",
+    "symbol": "DAINE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

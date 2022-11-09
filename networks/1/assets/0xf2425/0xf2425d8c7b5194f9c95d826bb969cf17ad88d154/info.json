@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2425d8c7b5194f9c95d826bb969cf17ad88d154",
+  "displayName": "FirstDerivative",
+  "type": "TOKEN",
+  "token": {
+    "name": "FirstDerivative",
+    "symbol": "FDV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

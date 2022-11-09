@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+  "displayName": "MCDEX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MCDEX Token",
+    "symbol": "MCB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

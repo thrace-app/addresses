@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc979c9f1e43c302948507756a186fb08bb489097",
+  "displayName": "ArtDAO token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ArtDAO token",
+    "symbol": "ART",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

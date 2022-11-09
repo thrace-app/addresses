@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f4405a1b37c2cc2fb17c9980d266d5a4d0d2ba6",
+  "displayName": "Fibo Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fibo Inu",
+    "symbol": "FIBO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

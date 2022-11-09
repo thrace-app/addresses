@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde86324d9bacd9850e06824dff012d7f513ba218",
+  "displayName": "Yamamoto Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yamamoto Inu",
+    "symbol": "YAMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

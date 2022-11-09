@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x384f6e0c98de722e4163e81f286335b96aa8b178",
+  "displayName": "FortToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FortToken",
+    "symbol": "FORT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

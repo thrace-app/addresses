@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6edfbd9433ff91c2eaef29aa17b1161d9675bb56",
+  "displayName": "The Arcade Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Arcade Token",
+    "symbol": "ARCD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

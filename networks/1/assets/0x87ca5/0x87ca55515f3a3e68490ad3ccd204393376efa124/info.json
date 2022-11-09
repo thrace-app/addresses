@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87ca55515f3a3e68490ad3ccd204393376efa124",
+  "displayName": "Shkreli Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shkreli Doge",
+    "symbol": "SHKIDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

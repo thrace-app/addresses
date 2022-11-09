@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x922d24925acb720c381df7d90873543ea3cbdb4a",
+  "displayName": "Gitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gitcoin",
+    "symbol": "GTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

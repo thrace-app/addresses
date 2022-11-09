@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x483009c9aec73194518723db2f849f82cb8f58a4",
+  "displayName": "KevCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KevCoin",
+    "symbol": "KVC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

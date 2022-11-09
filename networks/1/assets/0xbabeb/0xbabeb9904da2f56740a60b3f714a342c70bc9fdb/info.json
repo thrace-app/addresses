@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbabeb9904da2f56740a60b3f714a342c70bc9fdb",
+  "displayName": "KoroKushi",
+  "type": "TOKEN",
+  "token": {
+    "name": "KoroKushi",
+    "symbol": "KOKUSHI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xead4284bc9b0f9c2c7e5235823b078830d7a59b9",
+  "displayName": "Whitecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Whitecoin",
+    "symbol": "XWC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ef404f3ee013fc862a11ab110a3964dc99ff886",
+  "displayName": "Assets Core Platform Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Assets Core Platform Token",
+    "symbol": "ASCOR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

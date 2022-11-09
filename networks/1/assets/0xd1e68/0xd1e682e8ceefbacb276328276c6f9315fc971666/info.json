@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1e682e8ceefbacb276328276c6f9315fc971666",
+  "displayName": "The Great Sphinx",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Great Sphinx",
+    "symbol": "SPHINX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe50527e26ecc4b42c206222f237df5fe35eb573a",
+  "displayName": "Bender Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bender Coin",
+    "symbol": "BENDER",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

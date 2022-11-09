@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88888e6ada428b2c48b975112775af92d8518200",
+  "displayName": "OTTB",
+  "type": "TOKEN",
+  "token": {
+    "name": "OTTB",
+    "symbol": "OTTB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc115eb8f45a656f823e69fb6ba11833a0dc4c580",
+  "displayName": "Zaxi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zaxi Token",
+    "symbol": "Zaxi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

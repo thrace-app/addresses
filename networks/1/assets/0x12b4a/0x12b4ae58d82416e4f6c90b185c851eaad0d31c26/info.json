@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12b4ae58d82416e4f6c90b185c851eaad0d31c26",
+  "displayName": "SafeCat",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeCat",
+    "symbol": "SafeCat",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

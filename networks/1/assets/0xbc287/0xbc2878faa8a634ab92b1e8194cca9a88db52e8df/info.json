@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc2878faa8a634ab92b1e8194cca9a88db52e8df",
+  "displayName": "DUMB Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DUMB Token",
+    "symbol": "DUMB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

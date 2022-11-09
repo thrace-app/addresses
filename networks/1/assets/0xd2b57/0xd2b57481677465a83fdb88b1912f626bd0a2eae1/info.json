@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2b57481677465a83fdb88b1912f626bd0a2eae1",
+  "displayName": "World Reserve Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "World Reserve Currency",
+    "symbol": "WRCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

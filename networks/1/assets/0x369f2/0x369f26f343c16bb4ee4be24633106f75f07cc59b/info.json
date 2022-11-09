@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x369f26f343c16bb4ee4be24633106f75f07cc59b",
+  "displayName": "Doge Wow",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Wow",
+    "symbol": "WOW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

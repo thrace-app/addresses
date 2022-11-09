@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdef124243eab822a9c29053c35c8629d55fdfb22",
+  "displayName": "Nine Tailed Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nine Tailed Inu",
+    "symbol": "KYUUB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

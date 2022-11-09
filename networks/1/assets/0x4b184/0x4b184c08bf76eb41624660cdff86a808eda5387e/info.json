@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b184c08bf76eb41624660cdff86a808eda5387e",
+  "displayName": "TAILS TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "TAILS TOKEN",
+    "symbol": "TAILS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

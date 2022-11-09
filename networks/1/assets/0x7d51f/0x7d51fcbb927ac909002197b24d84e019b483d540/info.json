@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d51fcbb927ac909002197b24d84e019b483d540",
+  "displayName": "LazyShibDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "LazyShibDoge",
+    "symbol": "LSD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2078e7a99274759899cc206bb2a0d4b1564c279e",
+  "displayName": "iUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "iUSD",
+    "symbol": "IUSD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79d60509923d8dbc97ae4284f9d2782b488aee71",
+  "displayName": "World Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "World Bank",
+    "symbol": "wBANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

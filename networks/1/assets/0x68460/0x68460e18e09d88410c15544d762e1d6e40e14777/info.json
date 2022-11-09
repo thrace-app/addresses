@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68460e18e09d88410c15544d762e1d6e40e14777",
+  "displayName": "Fred The Fish",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fred The Fish",
+    "symbol": "$FISH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

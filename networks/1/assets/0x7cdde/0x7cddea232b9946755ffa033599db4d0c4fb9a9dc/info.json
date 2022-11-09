@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7cddea232b9946755ffa033599db4d0c4fb9a9dc",
+  "displayName": "Proof of ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of ETH",
+    "symbol": "VITALIK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

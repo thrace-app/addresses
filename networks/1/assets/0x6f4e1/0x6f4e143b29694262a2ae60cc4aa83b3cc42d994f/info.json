@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f4e143b29694262a2ae60cc4aa83b3cc42d994f",
+  "displayName": "MCCPrinter",
+  "type": "TOKEN",
+  "token": {
+    "name": "MCCPrinter",
+    "symbol": "MCCP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

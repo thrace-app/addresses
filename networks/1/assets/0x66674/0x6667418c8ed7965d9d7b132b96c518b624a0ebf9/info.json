@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6667418c8ed7965d9d7b132b96c518b624a0ebf9",
+  "displayName": "xBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "xBTC",
+    "symbol": "XBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97215b40e454b435d2871c9a74e9939133a58089",
+  "displayName": "WEB3 token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WEB3 token",
+    "symbol": "WEBT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

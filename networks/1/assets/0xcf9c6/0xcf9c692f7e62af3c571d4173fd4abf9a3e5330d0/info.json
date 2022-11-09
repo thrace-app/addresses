@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcf9c692f7e62af3c571d4173fd4abf9a3e5330d0",
+  "displayName": "OnigiriToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "OnigiriToken",
+    "symbol": "ONIGIRI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

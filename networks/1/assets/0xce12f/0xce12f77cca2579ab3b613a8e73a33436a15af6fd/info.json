@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce12f77cca2579ab3b613a8e73a33436a15af6fd",
+  "displayName": "GrimDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "GrimDoge",
+    "symbol": "GD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

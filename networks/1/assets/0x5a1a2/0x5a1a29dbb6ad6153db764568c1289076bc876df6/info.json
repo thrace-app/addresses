@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a1a29dbb6ad6153db764568c1289076bc876df6",
+  "displayName": "NeworkCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NeworkCoin",
+    "symbol": "NKC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

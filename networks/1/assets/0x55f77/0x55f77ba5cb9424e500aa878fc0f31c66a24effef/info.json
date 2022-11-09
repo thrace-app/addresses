@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55f77ba5cb9424e500aa878fc0f31c66a24effef",
+  "displayName": "Salad Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Salad Finance",
+    "symbol": "SAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

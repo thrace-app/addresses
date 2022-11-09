@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdec06fca69349a5f69937b9e3b5e27bb241037b8",
+  "displayName": "Web Developer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Web Developer Token",
+    "symbol": "WDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1af39b291fcd158ade7b85d83f1044d02ab8d6c2",
+  "displayName": "ZooToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZooToken",
+    "symbol": "ZOO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38c12e84218fe21fdfd51f459dbda92864ad0fb8",
+  "displayName": "Denji Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Denji Token",
+    "symbol": "DENJI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

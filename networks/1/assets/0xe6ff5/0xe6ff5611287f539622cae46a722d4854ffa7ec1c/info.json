@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe6ff5611287f539622cae46a722d4854ffa7ec1c",
+  "displayName": "XMZ token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XMZ token",
+    "symbol": "XMZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

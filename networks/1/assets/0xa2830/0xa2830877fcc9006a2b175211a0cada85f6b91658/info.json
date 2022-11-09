@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa2830877fcc9006a2b175211a0cada85f6b91658",
+  "displayName": "Chuck Norris Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chuck Norris Token",
+    "symbol": "CHUCK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

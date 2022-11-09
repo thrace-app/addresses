@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5dce57282a584d2746faf1593d3121fcac444dc",
+  "displayName": "Compound Dai",
+  "type": "TOKEN",
+  "token": {
+    "name": "Compound Dai",
+    "symbol": "cDAI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

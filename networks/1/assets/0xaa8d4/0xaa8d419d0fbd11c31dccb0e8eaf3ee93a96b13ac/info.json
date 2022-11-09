@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa8d419d0fbd11c31dccb0e8eaf3ee93a96b13ac",
+  "displayName": "NanoKirby",
+  "type": "TOKEN",
+  "token": {
+    "name": "NanoKirby",
+    "symbol": "nKIRBY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

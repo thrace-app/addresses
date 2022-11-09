@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71e13829fbc24ba97288d779de79598d9a9f12b0",
+  "displayName": "EtherCapital",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherCapital",
+    "symbol": "EC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

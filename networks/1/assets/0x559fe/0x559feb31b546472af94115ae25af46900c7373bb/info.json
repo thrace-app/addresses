@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x559feb31b546472af94115ae25af46900c7373bb",
+  "displayName": "Metal Clock",
+  "type": "TOKEN",
+  "token": {
+    "name": "Metal Clock",
+    "symbol": "BELL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

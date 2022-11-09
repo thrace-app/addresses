@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd731abbdd6050083f6e0032247fcec3f1f429430",
+  "displayName": "One Gem",
+  "type": "TOKEN",
+  "token": {
+    "name": "One Gem",
+    "symbol": "OG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

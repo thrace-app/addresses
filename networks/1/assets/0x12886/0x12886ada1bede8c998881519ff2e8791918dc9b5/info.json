@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12886ada1bede8c998881519ff2e8791918dc9b5",
+  "displayName": "Porga Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Porga Token",
+    "symbol": "PORGA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

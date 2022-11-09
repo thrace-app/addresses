@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x325a87aabeaa1097011f4838d9152ba44e7f282b",
+  "displayName": "WrappedPoWETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "WrappedPoWETH",
+    "symbol": "WPOWETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

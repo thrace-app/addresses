@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61da85e9a1cd900f0b56d77754698b784d04095e",
+  "displayName": "BlackRock",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlackRock",
+    "symbol": "BR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

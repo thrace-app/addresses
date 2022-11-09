@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe89e80ce91416ece0200cc919905634e824e6a55",
+  "displayName": "Vzade test token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vzade test token",
+    "symbol": "VZD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

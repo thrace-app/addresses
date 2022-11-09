@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x092a392b8f806623220079a7da3c9b6cb076737d",
+  "displayName": "Stoned Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stoned Doge",
+    "symbol": "STONED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

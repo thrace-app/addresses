@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5615b9799427280cbc34a33233ef59b6409a711",
+  "displayName": "Internet Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Internet Money",
+    "symbol": "eCASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd850942ef8811f2a866692a623011bde52a462c1",
+  "displayName": "VeChain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VeChain Token",
+    "symbol": "VEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

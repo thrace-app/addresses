@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x584684b4e4a542dd60e17f1651dd67e04c99c69f",
+  "displayName": "Chirp",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chirp",
+    "symbol": "CHIRP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

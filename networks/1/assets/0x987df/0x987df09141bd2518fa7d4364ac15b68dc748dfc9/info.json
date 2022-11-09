@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x987df09141bd2518fa7d4364ac15b68dc748dfc9",
+  "displayName": "Proof Of Baby",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof Of Baby",
+    "symbol": "POB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

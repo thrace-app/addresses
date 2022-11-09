@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33f76e07d6cb15cc61080f4f0cc21e363f5993b5",
+  "displayName": "STAK",
+  "type": "TOKEN",
+  "token": {
+    "name": "STAK",
+    "symbol": "STAK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

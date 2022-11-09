@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67a1ca08e580af9f54dc9b03fd59ec2388ad7c6c",
+  "displayName": "TiEN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TiEN Token",
+    "symbol": "TiEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

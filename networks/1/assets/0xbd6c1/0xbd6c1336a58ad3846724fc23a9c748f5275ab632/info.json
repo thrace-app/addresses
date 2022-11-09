@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd6c1336a58ad3846724fc23a9c748f5275ab632",
+  "displayName": "Doge Bond",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Bond",
+    "symbol": "D bond",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

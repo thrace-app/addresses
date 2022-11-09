@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x692accdd8b86692427e0aa4752ae917df01cc56f",
+  "displayName": "Sunrise Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sunrise Token",
+    "symbol": "SUNC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

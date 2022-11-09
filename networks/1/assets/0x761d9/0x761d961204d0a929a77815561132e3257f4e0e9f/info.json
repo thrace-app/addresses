@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x761d961204d0a929a77815561132e3257f4e0e9f",
+  "displayName": "Xyst Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Xyst Token",
+    "symbol": "XYST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

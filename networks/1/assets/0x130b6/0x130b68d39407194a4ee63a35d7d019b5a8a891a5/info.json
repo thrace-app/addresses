@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x130b68d39407194a4ee63a35d7d019b5a8a891a5",
+  "displayName": "Theta Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Theta Token",
+    "symbol": "thetatoken.org",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

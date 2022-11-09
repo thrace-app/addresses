@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f7f94a1dd7b15594d17543beb8b30b111dd464c",
+  "displayName": "SNX Debt Mirror",
+  "type": "TOKEN",
+  "token": {
+    "name": "SNX Debt Mirror",
+    "symbol": "dSNX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

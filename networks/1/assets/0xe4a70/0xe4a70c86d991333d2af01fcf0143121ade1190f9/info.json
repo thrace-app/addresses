@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4a70c86d991333d2af01fcf0143121ade1190f9",
+  "displayName": "Kai Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kai Stablecoin",
+    "symbol": "KAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

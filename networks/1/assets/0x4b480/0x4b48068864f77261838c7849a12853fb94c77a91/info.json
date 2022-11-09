@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b48068864f77261838c7849a12853fb94c77a91",
+  "displayName": "LITx Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LITx Token",
+    "symbol": "LITx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4842f3bfa4029e1452c1a5bcb0ad9e7552eff6b7",
+  "displayName": "SteamDog",
+  "type": "TOKEN",
+  "token": {
+    "name": "SteamDog",
+    "symbol": "SteamDog",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

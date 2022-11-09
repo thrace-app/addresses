@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1456688345527be1f37e9e627da0837d6f08c925",
+  "displayName": "USDP Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDP Stablecoin",
+    "symbol": "USDP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

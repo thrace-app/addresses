@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8901a5ad7e178ddf4d090b0f47519a7b280f837e",
+  "displayName": "BAPT",
+  "type": "TOKEN",
+  "token": {
+    "name": "BAPT",
+    "symbol": "Baby Aptos",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

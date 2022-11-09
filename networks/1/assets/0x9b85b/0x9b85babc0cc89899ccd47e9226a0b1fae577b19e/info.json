@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b85babc0cc89899ccd47e9226a0b1fae577b19e",
+  "displayName": "PPBToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PPBToken",
+    "symbol": "PPB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

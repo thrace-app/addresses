@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4a6d2bd3abf791e6fce79fab94d7e598ee45860",
+  "displayName": "BigCoinSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "BigCoinSwap",
+    "symbol": "BCS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

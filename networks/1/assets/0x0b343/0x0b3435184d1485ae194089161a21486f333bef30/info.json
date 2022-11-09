@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b3435184d1485ae194089161a21486f333bef30",
+  "displayName": "Lemon Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lemon Swap",
+    "symbol": "LMNS",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

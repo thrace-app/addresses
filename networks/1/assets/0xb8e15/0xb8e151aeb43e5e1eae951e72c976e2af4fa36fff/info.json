@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8e151aeb43e5e1eae951e72c976e2af4fa36fff",
+  "displayName": "BDESToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BDESToken",
+    "symbol": "BDES",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

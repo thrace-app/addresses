@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x275fb6fff3cbfe658eaead8dc32cd6c1e59f648f",
+  "displayName": "Landefi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Landefi Token",
+    "symbol": "LDFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

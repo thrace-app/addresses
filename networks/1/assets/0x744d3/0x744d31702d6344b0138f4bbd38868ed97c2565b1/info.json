@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x744d31702d6344b0138f4bbd38868ed97c2565b1",
+  "displayName": "DETHER",
+  "type": "TOKEN",
+  "token": {
+    "name": "DETHER",
+    "symbol": "DETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

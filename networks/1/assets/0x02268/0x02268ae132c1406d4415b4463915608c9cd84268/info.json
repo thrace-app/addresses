@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02268ae132c1406d4415b4463915608c9cd84268",
+  "displayName": "Staking DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Staking DAO",
+    "symbol": "POS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6",
+  "displayName": "Synth sLINK",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth sLINK",
+    "symbol": "sLINK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

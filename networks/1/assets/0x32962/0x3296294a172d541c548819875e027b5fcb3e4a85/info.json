@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3296294a172d541c548819875e027b5fcb3e4a85",
+  "displayName": "TopCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TopCoin",
+    "symbol": "TPC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

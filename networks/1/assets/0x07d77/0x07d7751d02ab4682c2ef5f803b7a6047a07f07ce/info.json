@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07d7751d02ab4682c2ef5f803b7a6047a07f07ce",
+  "displayName": "BeerToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BeerToken",
+    "symbol": "BEER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

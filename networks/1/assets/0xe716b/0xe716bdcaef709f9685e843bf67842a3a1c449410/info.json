@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe716bdcaef709f9685e843bf67842a3a1c449410",
+  "displayName": "rStake",
+  "type": "TOKEN",
+  "token": {
+    "name": "rStake",
+    "symbol": "RST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93e9fdd48b4963608243cb9ceb45e454e2a9141e",
+  "displayName": "UnicryptTest",
+  "type": "TOKEN",
+  "token": {
+    "name": "UnicryptTest",
+    "symbol": "UT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

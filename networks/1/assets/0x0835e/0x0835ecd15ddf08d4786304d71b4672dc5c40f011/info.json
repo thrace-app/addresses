@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0835ecd15ddf08d4786304d71b4672dc5c40f011",
+  "displayName": "PlusCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PlusCoin",
+    "symbol": "PLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

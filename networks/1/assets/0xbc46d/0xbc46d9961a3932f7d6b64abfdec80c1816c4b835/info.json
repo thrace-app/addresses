@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc46d9961a3932f7d6b64abfdec80c1816c4b835",
+  "displayName": "LiteXToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LiteXToken",
+    "symbol": "LXT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

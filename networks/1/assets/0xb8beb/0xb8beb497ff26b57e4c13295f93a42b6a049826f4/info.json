@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8beb497ff26b57e4c13295f93a42b6a049826f4",
+  "displayName": "CraftBeerCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CraftBeerCoin",
+    "symbol": "CBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

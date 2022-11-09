@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbadc6e5c69e810c1a9b55dec3719a819bf86f9df",
+  "displayName": "KnifeSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "KnifeSwap",
+    "symbol": "KNIFE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x542ecb2f705346ba483516beb50e4ef5835ebb76",
+  "displayName": "Wrapped BSTY",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped BSTY",
+    "symbol": "WBSTY",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

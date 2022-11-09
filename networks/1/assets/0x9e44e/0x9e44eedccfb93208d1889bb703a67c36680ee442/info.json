@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e44eedccfb93208d1889bb703a67c36680ee442",
+  "displayName": "Teh Doge's",
+  "type": "TOKEN",
+  "token": {
+    "name": "Teh Doge's",
+    "symbol": "THD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

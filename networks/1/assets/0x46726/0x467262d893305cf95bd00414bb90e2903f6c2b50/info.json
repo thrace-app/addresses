@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x467262d893305cf95bd00414bb90e2903f6c2b50",
+  "displayName": "Diamond Sword",
+  "type": "TOKEN",
+  "token": {
+    "name": "Diamond Sword",
+    "symbol": "SWORD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

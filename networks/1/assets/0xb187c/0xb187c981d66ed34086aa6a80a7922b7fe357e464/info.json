@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb187c981d66ed34086aa6a80a7922b7fe357e464",
+  "displayName": "The Big Thing",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Big Thing",
+    "symbol": "$TBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

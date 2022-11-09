@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x757703bd5b2c4bbcfde0be2c0b0e7c2f31fcf4e9",
+  "displayName": "Zest Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zest Token",
+    "symbol": "ZEST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

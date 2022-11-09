@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xddd0e35a71e99d6a1d083fc07a1bb42a1e3ab977",
+  "displayName": "safeEMAX",
+  "type": "TOKEN",
+  "token": {
+    "name": "safeEMAX",
+    "symbol": "safeEMAX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

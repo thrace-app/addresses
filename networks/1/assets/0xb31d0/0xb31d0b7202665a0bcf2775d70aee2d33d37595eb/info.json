@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb31d0b7202665a0bcf2775d70aee2d33d37595eb",
+  "displayName": "x100 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "x100 Token",
+    "symbol": "x100T",
+    "decimals": 1,
+    "type": "ERC20"
+  }
+}

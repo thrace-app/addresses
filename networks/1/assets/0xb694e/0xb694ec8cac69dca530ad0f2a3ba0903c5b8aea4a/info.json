@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb694ec8cac69dca530ad0f2a3ba0903c5b8aea4a",
+  "displayName": "Ticket Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ticket Token",
+    "symbol": "TICKET",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x582d23c7ec6b59afd041a522ff64ff081e8c0d2d",
+  "displayName": "ETHtx Minter Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETHtx Minter Token",
+    "symbol": "ETHmx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

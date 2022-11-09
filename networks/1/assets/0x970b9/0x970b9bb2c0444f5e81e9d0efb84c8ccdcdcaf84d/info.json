@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
+  "displayName": "Fuse Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fuse Token",
+    "symbol": "FUSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5f278ee11811efec0692ec61b1e9f9984f2de11",
+  "displayName": "SmartMint BondFiat StableToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SmartMint BondFiat StableToken",
+    "symbol": "EMIT",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

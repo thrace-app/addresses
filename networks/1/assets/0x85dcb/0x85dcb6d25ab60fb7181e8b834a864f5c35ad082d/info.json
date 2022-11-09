@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85dcb6d25ab60fb7181e8b834a864f5c35ad082d",
+  "displayName": "swissNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "swissNFT",
+    "symbol": "swissNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e2176ddf565e6365b4e24522201f13111e64670",
+  "displayName": "Shiba Jiro",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Jiro",
+    "symbol": "SHIRO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
+  "displayName": "BitMartToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitMartToken",
+    "symbol": "BMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

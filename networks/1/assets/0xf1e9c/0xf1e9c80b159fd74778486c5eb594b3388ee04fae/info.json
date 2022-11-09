@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1e9c80b159fd74778486c5eb594b3388ee04fae",
+  "displayName": "Green Capital",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Capital",
+    "symbol": "GCap",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

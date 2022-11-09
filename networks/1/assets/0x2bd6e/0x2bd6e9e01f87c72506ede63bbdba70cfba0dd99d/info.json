@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2bd6e9e01f87c72506ede63bbdba70cfba0dd99d",
+  "displayName": "OVToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "OVToken",
+    "symbol": "OV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

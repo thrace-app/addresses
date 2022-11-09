@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c2294806b9209ccfd65d9c11d1fdce47a8a5880",
+  "displayName": "The Miracle Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Miracle Token",
+    "symbol": "MIRACLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

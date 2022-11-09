@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d86b708708ce10b516e5a992a3d92f3edad1324",
+  "displayName": "UltraCore Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UltraCore Token",
+    "symbol": "ULTRACORE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

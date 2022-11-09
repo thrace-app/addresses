@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb177d62cb6f8335c04377a00e4502b269c685b8d",
+  "displayName": "DogeChain Token Rewards",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogeChain Token Rewards",
+    "symbol": "DCREWARDS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5058bdc884e2f63607ef71adabf1a00269ee325",
+  "displayName": "Wrapped UniCore LP",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped UniCore LP",
+    "symbol": "REACTOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

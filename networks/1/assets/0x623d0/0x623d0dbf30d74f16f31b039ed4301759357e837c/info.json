@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x623d0dbf30d74f16f31b039ed4301759357e837c",
+  "displayName": "Coffee with Einstein",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coffee with Einstein",
+    "symbol": "E=MC2",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

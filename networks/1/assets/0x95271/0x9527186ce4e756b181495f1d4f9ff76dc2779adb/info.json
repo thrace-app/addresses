@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9527186ce4e756b181495f1d4f9ff76dc2779adb",
+  "displayName": "SPACEX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SPACEX Token",
+    "symbol": "SPACEX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

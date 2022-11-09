@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb231662dddbf7945afc0db4c691594c379740c07",
+  "displayName": "Strong Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Strong Doge",
+    "symbol": "STRONGDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

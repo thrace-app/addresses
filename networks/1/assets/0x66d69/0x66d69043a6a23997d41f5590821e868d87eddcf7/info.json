@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66d69043a6a23997d41f5590821e868d87eddcf7",
+  "displayName": "wen lambo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "wen lambo Token",
+    "symbol": "WLT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

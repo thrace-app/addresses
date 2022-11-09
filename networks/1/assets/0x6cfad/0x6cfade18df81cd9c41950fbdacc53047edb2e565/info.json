@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6cfade18df81cd9c41950fbdacc53047edb2e565",
+  "displayName": "Imperial Credits",
+  "type": "TOKEN",
+  "token": {
+    "name": "Imperial Credits",
+    "symbol": "$CREDIT",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

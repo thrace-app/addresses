@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95f806733191abc13bdeede6caa7582484b29215",
+  "displayName": "DOY Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DOY Coin",
+    "symbol": "DOY",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

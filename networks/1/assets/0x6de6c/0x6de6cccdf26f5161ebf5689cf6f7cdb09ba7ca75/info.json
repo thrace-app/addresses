@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6de6cccdf26f5161ebf5689cf6f7cdb09ba7ca75",
+  "displayName": "SocialToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SocialToken",
+    "symbol": "SOLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

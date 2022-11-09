@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc53921494c53134241b40f8a364a528aa43a8097",
+  "displayName": "Titanium Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Titanium Token",
+    "symbol": "TITA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

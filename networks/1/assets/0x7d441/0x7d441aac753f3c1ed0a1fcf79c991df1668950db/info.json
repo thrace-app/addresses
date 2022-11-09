@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d441aac753f3c1ed0a1fcf79c991df1668950db",
+  "displayName": "Tesla Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tesla Finance",
+    "symbol": "TESFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

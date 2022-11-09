@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569",
+  "displayName": "Kapital DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kapital DAO Token",
+    "symbol": "KAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

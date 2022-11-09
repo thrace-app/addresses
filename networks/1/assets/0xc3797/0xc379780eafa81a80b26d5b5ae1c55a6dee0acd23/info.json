@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc379780eafa81a80b26d5b5ae1c55a6dee0acd23",
+  "displayName": "CreamPump Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CreamPump Token",
+    "symbol": "Cream",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

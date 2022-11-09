@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf36f062432169d4d83534a3673c465bcdf86d7a",
+  "displayName": "Spotify Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spotify Token",
+    "symbol": "Spotify",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

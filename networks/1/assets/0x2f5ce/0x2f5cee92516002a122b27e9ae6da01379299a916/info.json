@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f5cee92516002a122b27e9ae6da01379299a916",
+  "displayName": "Unstable Crypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unstable Crypto",
+    "symbol": "UnstableCrypto",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

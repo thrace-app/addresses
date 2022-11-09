@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88aacefb5f6bf3422a0fcad0a2a3ee0bb454837c",
+  "displayName": "Pumpkin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pumpkin",
+    "symbol": "PUMPKIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

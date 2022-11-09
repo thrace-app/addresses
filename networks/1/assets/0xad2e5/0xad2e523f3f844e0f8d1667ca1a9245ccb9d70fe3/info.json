@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad2e523f3f844e0f8d1667ca1a9245ccb9d70fe3",
+  "displayName": "Neymar Jr. Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neymar Jr. Token",
+    "symbol": "NJR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

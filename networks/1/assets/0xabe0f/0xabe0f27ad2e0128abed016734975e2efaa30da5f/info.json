@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabe0f27ad2e0128abed016734975e2efaa30da5f",
+  "displayName": "BingBong",
+  "type": "TOKEN",
+  "token": {
+    "name": "BingBong",
+    "symbol": "BINGBONG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

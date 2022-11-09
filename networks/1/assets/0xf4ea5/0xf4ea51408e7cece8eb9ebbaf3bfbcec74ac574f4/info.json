@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4ea51408e7cece8eb9ebbaf3bfbcec74ac574f4",
+  "displayName": "SatoshiFinanceToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SatoshiFinanceToken",
+    "symbol": "SFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

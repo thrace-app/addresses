@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x089d2494d9bbdcaca973070dfa2e0edb6f0eabe7",
+  "displayName": "Unimoon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unimoon Token",
+    "symbol": "Unim",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

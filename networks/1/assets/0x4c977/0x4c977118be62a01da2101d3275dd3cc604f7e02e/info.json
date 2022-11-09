@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c977118be62a01da2101d3275dd3cc604f7e02e",
+  "displayName": "VitalikDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "VitalikDoge",
+    "symbol": "VOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

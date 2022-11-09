@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb45e608dafb6ced582aa337558b7c82f59a3e2b4",
+  "displayName": "ETHLocal",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETHLocal",
+    "symbol": "LOCAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a3a4a22739a957be18b408254b0c85df04a6f0f",
+  "displayName": "High Risk Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "High Risk Doge",
+    "symbol": "HRD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

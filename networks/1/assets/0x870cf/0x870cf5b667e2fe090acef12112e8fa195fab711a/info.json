@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x870cf5b667e2fe090acef12112e8fa195fab711a",
+  "displayName": "WallStreetBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "WallStreetBurn",
+    "symbol": "WSB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

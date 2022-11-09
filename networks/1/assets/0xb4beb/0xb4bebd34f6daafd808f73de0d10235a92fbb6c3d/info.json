@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4bebd34f6daafd808f73de0d10235a92fbb6c3d",
+  "displayName": "Yearn Ecosystem Token Index",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn Ecosystem Token Index",
+    "symbol": "YETI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

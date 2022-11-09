@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90fe7f0b3d451bef609e51cdb3e585b6796fc732",
+  "displayName": "Reset Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Reset Token",
+    "symbol": "RESET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69cf6c5a644ed865554d54a9924ec1bda85bb486",
+  "displayName": "Proof Of Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof Of Doge",
+    "symbol": "DOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa13064c5ed73c1b2301fa5efaae6963016122f80",
+  "displayName": "Swash Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swash Token",
+    "symbol": "SWASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03b3bcfbec8057d31fe90009d975e849aadc100a",
+  "displayName": "STEX token",
+  "type": "TOKEN",
+  "token": {
+    "name": "STEX token",
+    "symbol": "STEXR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

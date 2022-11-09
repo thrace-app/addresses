@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa544103cacdb805051388995c0af541c0c259979",
+  "displayName": "Ballercoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ballercoin",
+    "symbol": "BALLER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5144d9e89faae4edee1f76d6f9a5d3f6f82d40c9",
+  "displayName": "Normy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Normy Token",
+    "symbol": "Normy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

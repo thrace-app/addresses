@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a21c97080ec1bf7f4b9378101de27375f4a4002",
+  "displayName": "Manta Ray",
+  "type": "TOKEN",
+  "token": {
+    "name": "Manta Ray",
+    "symbol": "MREV",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

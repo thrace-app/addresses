@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a2f759c32d7cb8e71065b6956d73759bb82bac5",
+  "displayName": "HLCompany",
+  "type": "TOKEN",
+  "token": {
+    "name": "HLCompany",
+    "symbol": "HLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

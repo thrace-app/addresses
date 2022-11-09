@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf3d7fe5d930d2e447c09616529b29e80fb63faa5",
+  "displayName": "Free Willy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Free Willy",
+    "symbol": "Whale",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

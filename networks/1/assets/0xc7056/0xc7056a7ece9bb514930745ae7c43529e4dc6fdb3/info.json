@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7056a7ece9bb514930745ae7c43529e4dc6fdb3",
+  "displayName": "Classic Crypto Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Classic Crypto Token",
+    "symbol": "CCT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

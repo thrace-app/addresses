@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecbcc9a826254ede5a39fa0c9699abfa46056e22",
+  "displayName": "Bidencoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bidencoin",
+    "symbol": "BIDN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

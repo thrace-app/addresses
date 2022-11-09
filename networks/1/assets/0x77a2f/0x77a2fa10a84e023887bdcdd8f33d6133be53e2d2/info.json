@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77a2fa10a84e023887bdcdd8f33d6133be53e2d2",
+  "displayName": "Wrapped Ripple",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Ripple",
+    "symbol": "wXRP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

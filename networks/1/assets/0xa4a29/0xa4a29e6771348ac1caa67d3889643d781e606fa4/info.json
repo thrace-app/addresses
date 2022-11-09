@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa4a29e6771348ac1caa67d3889643d781e606fa4",
+  "displayName": "Doggiswap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doggiswap Token",
+    "symbol": "DOGGI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32e082fc98305a1bcf1ed16ffd8b4131000b4969",
+  "displayName": "Cornix Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cornix Token",
+    "symbol": "CORNIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

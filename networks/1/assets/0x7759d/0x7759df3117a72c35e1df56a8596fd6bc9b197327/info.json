@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7759df3117a72c35e1df56a8596fd6bc9b197327",
+  "displayName": "Wookiee",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wookiee",
+    "symbol": "$WOOK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

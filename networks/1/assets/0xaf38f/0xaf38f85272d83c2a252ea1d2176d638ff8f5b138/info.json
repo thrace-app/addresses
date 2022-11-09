@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf38f85272d83c2a252ea1d2176d638ff8f5b138",
+  "displayName": "DecentralizedUniversalCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DecentralizedUniversalCoin",
+    "symbol": "DUC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

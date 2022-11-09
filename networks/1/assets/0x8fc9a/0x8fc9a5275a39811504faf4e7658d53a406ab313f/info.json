@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8fc9a5275a39811504faf4e7658d53a406ab313f",
+  "displayName": "RocketChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "RocketChain",
+    "symbol": "RC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

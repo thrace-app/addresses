@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x941e2d56bfba29c53f2fb1f3ae4d4011e45dc504",
+  "displayName": "Coinary Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coinary Token",
+    "symbol": "CYT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

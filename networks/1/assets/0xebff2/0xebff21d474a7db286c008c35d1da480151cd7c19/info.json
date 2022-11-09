@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xebff21d474a7db286c008c35d1da480151cd7c19",
+  "displayName": "Bonzai Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bonzai Token",
+    "symbol": "BONZAI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

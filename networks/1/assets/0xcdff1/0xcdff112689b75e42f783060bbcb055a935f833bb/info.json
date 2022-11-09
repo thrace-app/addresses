@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcdff112689b75e42f783060bbcb055a935f833bb",
+  "displayName": "Exchase",
+  "type": "TOKEN",
+  "token": {
+    "name": "Exchase",
+    "symbol": "EXSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

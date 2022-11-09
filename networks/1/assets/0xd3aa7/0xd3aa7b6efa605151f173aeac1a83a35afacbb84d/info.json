@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3aa7b6efa605151f173aeac1a83a35afacbb84d",
+  "displayName": "HOGE Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HOGE Governance Token",
+    "symbol": "HGT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

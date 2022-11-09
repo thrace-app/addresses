@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84155b2be780c8ecedfe06cdad341f295858579d",
+  "displayName": "Trust Community Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trust Community Token",
+    "symbol": "TCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

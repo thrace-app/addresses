@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7a7bcfb8fd304092995c5750cbbed1d545f5967",
+  "displayName": "LilSupplyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LilSupplyToken",
+    "symbol": "LIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

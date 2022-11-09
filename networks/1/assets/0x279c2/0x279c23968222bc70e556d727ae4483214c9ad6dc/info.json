@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x279c23968222bc70e556d727ae4483214c9ad6dc",
+  "displayName": "GrandApe",
+  "type": "TOKEN",
+  "token": {
+    "name": "GrandApe",
+    "symbol": "GApe",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

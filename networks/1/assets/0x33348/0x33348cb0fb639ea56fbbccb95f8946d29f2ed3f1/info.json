@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33348cb0fb639ea56fbbccb95f8946d29f2ed3f1",
+  "displayName": "Walang Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Walang Token",
+    "symbol": "WALANG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b901f6068f3f69621061e97bfa9bed0cb18517d",
+  "displayName": "Decent Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Decent Coin",
+    "symbol": "DECENT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

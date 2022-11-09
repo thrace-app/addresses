@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccbb97a4288cfa8452c6f73705bfb648ef572953",
+  "displayName": "Future Yearn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Future Yearn",
+    "symbol": "XYearn",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

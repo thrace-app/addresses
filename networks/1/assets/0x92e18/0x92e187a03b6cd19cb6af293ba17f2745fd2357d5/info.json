@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+  "displayName": "Unit Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unit Protocol",
+    "symbol": "DUCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

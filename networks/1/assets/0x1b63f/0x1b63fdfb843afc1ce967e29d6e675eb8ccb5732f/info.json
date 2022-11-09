@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b63fdfb843afc1ce967e29d6e675eb8ccb5732f",
+  "displayName": "DeFi Yield Support Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi Yield Support Token",
+    "symbol": "DYST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

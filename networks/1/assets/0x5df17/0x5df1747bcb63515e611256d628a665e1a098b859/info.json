@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5df1747bcb63515e611256d628a665e1a098b859",
+  "displayName": "Investereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Investereum",
+    "symbol": "INVESTOR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

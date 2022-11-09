@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca6a22c5caac63374d2e67956d1fcdcc1dfc7808",
+  "displayName": "CK Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CK Token",
+    "symbol": "CK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

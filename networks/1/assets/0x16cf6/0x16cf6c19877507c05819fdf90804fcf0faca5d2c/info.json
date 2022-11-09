@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16cf6c19877507c05819fdf90804fcf0faca5d2c",
+  "displayName": "MegaMillion",
+  "type": "TOKEN",
+  "token": {
+    "name": "MegaMillion",
+    "symbol": "MMil",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

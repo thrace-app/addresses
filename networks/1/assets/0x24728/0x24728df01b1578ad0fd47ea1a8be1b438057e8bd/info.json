@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24728df01b1578ad0fd47ea1a8be1b438057e8bd",
+  "displayName": "eccentric",
+  "type": "TOKEN",
+  "token": {
+    "name": "eccentric",
+    "symbol": "ecco",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

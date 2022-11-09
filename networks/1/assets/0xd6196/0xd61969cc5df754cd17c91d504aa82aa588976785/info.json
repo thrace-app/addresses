@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd61969cc5df754cd17c91d504aa82aa588976785",
+  "displayName": "PuffCore",
+  "type": "TOKEN",
+  "token": {
+    "name": "PuffCore",
+    "symbol": "PUFF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

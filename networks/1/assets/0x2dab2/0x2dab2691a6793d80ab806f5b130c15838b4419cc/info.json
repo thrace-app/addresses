@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dab2691a6793d80ab806f5b130c15838b4419cc",
+  "displayName": "InverseToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "InverseToken",
+    "symbol": "IVR",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc12152a7acf8ed64d24ce691a98a9a8f8ffc2ff",
+  "displayName": "Othereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Othereum",
+    "symbol": "OTHEREUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

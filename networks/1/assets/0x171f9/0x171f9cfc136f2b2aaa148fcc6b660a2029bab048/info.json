@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x171f9cfc136f2b2aaa148fcc6b660a2029bab048",
+  "displayName": "Gold Standard",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gold Standard",
+    "symbol": "AUS",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b40c86c14e4409d0676296c0ae1c7728e35c6f3",
+  "displayName": "CultToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CultToken",
+    "symbol": "CULT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

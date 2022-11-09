@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a49360098cf9061630211874398ec75704c0595",
+  "displayName": "SuniExchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuniExchange",
+    "symbol": "SUEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

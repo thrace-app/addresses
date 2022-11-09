@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdce1a2e3539c01c62928cb1e4268ab2bf5bcccbe",
+  "displayName": "GRUG",
+  "type": "TOKEN",
+  "token": {
+    "name": "GRUG",
+    "symbol": "GRUG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc772caed3f41ec8b91eb3a7a1363a7543aac7bba",
+  "displayName": "Aircash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aircash",
+    "symbol": "AIR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

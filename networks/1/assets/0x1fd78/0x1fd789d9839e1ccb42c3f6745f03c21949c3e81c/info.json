@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fd789d9839e1ccb42c3f6745f03c21949c3e81c",
+  "displayName": "SafeReal",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeReal",
+    "symbol": "SAFEREAL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

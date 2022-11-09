@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71a4caa05d7319ee40b49201fb992aa12a4550da",
+  "displayName": "Bitcoin Rebase Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Rebase Token",
+    "symbol": "BRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

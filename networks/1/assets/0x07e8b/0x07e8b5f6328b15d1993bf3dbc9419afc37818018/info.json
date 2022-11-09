@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07e8b5f6328b15d1993bf3dbc9419afc37818018",
+  "displayName": "Dify Erc20",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dify Erc20",
+    "symbol": "DC20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x622f2962ae78e8686ecc1e30cf2f9a6e5ac35626",
+  "displayName": "WrappedPolis",
+  "type": "TOKEN",
+  "token": {
+    "name": "WrappedPolis",
+    "symbol": "WPOLIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

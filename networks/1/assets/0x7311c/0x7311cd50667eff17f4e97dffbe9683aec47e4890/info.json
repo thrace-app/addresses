@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7311cd50667eff17f4e97dffbe9683aec47e4890",
+  "displayName": "VSD Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "VSD Coin",
+    "symbol": "VSDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

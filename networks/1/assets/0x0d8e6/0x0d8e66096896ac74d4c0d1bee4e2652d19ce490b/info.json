@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d8e66096896ac74d4c0d1bee4e2652d19ce490b",
+  "displayName": "SCKToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SCKToken",
+    "symbol": "SCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

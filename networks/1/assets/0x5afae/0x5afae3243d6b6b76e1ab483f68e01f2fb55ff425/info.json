@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5afae3243d6b6b76e1ab483f68e01f2fb55ff425",
+  "displayName": "Bityond Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bityond Token",
+    "symbol": "BYT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

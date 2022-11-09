@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x238fd29cda0dd014e09c61c8442779a9b0506d86",
+  "displayName": "Fundz",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fundz",
+    "symbol": "FNDZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

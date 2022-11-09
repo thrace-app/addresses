@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa0bb10cec1fa372eb3abc17c933fc6ba863dd9e",
+  "displayName": "Hms Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hms Token",
+    "symbol": "HMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

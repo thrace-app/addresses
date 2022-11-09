@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe6f409f4820e71a5a57186984b00e5ee6dcd3131",
+  "displayName": "Polar Dex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polar Dex",
+    "symbol": "PolarDex",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

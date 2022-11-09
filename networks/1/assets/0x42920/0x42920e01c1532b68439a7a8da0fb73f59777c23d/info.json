@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42920e01c1532b68439a7a8da0fb73f59777c23d",
+  "displayName": "Nord Stream",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nord Stream",
+    "symbol": "GAS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

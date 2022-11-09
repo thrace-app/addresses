@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbed558d68c9a14bf10f71d447f9e6a4f904929ac",
+  "displayName": "FirstStep",
+  "type": "TOKEN",
+  "token": {
+    "name": "FirstStep",
+    "symbol": "1stSTEP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

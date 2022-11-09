@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe2c1514ab197a5d8bf2d788f5729c3b1dc56e912",
+  "displayName": "Piggy Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Piggy Bank",
+    "symbol": "Piggy Bank",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

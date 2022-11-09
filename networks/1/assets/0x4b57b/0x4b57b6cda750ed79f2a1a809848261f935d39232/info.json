@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b57b6cda750ed79f2a1a809848261f935d39232",
+  "displayName": "Plutus Defi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Plutus Defi",
+    "symbol": "PLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80952ab40058b02b810e98724157de3a12bc094c",
+  "displayName": "basis.cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "basis.cash",
+    "symbol": "BAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

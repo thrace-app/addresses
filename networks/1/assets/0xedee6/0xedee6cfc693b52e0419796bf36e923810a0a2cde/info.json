@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xedee6cfc693b52e0419796bf36e923810a0a2cde",
+  "displayName": "Hot Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hot Cat",
+    "symbol": "HCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

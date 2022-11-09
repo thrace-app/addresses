@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56c0cfdea3f8659863a231c7f298c0a48038f6d2",
+  "displayName": "Octus Bridge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Octus Bridge",
+    "symbol": "BRIDGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

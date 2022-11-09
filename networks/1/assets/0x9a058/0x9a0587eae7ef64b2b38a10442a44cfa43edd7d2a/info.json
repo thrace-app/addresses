@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a0587eae7ef64b2b38a10442a44cfa43edd7d2a",
+  "displayName": "Welltrado token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Welltrado token",
+    "symbol": "WTL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

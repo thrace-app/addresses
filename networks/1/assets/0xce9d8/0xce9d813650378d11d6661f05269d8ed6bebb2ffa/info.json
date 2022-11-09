@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce9d813650378d11d6661f05269d8ed6bebb2ffa",
+  "displayName": "TENToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TENToken",
+    "symbol": "TENT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

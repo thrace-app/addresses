@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda158328817c7b717c37a3b14833928e71446a92",
+  "displayName": "Wrapped BENTO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped BENTO Token",
+    "symbol": "wBENTO",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

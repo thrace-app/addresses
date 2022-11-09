@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fcc45c08d00292606fe7159638bd9ddc98c6470",
+  "displayName": "grumplz Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "grumplz Token",
+    "symbol": "GRUMPL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

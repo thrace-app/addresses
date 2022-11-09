@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e9c3b0e535d261f5e9a1eda43ee4836ca20795a",
+  "displayName": "CRCL Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CRCL Token",
+    "symbol": "CRCL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

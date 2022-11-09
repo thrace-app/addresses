@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x324b23a4b70eb3d70a3d5534d53e2bebab6a240d",
+  "displayName": "BTS",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTS",
+    "symbol": "BTS",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

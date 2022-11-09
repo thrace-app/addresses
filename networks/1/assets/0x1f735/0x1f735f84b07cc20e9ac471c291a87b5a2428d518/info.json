@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f735f84b07cc20e9ac471c291a87b5a2428d518",
+  "displayName": "Deepbrainchain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Deepbrainchain Token",
+    "symbol": "DBC",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

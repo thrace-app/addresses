@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ae39895b0e7bd8a73d5dbe0142a17d3d7d711e5",
+  "displayName": "We Like The Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "We Like The Coin",
+    "symbol": "WLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

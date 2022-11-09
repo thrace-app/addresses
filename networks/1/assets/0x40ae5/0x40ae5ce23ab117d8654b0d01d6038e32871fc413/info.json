@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40ae5ce23ab117d8654b0d01d6038e32871fc413",
+  "displayName": "Wrapped Gold Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Gold Token",
+    "symbol": "GLDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272",
+  "displayName": "SushiBar",
+  "type": "TOKEN",
+  "token": {
+    "name": "SushiBar",
+    "symbol": "xSUSHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

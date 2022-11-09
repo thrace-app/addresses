@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8718d61bb29c9e5d71286914f7892feed0830d76",
+  "displayName": "MoonPool",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonPool",
+    "symbol": "MPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

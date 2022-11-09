@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d1555d8cb3c846bb4f7d5b1b1080872c3166676",
+  "displayName": "Wrapped Mirror SLV Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Mirror SLV Token",
+    "symbol": "mSLV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

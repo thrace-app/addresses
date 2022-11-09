@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa2a05d69fd61cef28c35729856152cd6bfdc5db0",
+  "displayName": "Trilly Willy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trilly Willy",
+    "symbol": "Trilly",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

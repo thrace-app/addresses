@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x671bf94778898164b8e25fcebc5c922edba1a8d7",
+  "displayName": "Rare Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rare Inu",
+    "symbol": "rare_inu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

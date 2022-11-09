@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82d743932b94d067c915b50c9d52fcc01adf23bb",
+  "displayName": "Kwon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kwon Token",
+    "symbol": "KWON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

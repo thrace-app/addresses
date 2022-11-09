@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34901b641ac50e2f327232d0d560c0e81ae9b76f",
+  "displayName": "Super Double",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Double",
+    "symbol": "$SD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

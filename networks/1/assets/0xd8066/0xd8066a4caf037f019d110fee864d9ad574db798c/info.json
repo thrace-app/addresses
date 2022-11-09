@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8066a4caf037f019d110fee864d9ad574db798c",
+  "displayName": "Dracula Token Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dracula Token Finance",
+    "symbol": "DRCF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

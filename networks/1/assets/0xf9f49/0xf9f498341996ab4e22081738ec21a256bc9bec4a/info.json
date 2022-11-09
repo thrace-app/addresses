@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf9f498341996ab4e22081738ec21a256bc9bec4a",
+  "displayName": "Avocado Kitty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Avocado Kitty",
+    "symbol": "AvoKitty",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

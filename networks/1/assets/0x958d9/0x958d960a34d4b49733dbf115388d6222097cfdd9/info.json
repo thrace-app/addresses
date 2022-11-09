@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x958d960a34d4b49733dbf115388d6222097cfdd9",
+  "displayName": "Selected Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Selected Coin",
+    "symbol": "SDN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

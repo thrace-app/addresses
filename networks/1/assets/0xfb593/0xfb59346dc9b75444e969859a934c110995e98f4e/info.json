@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb59346dc9b75444e969859a934c110995e98f4e",
+  "displayName": "RedToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RedToken",
+    "symbol": "RED",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

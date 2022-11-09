@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1030996223e0d9afae26adf1375a2ef8fcb6ac83",
+  "displayName": "PumpCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PumpCoin",
+    "symbol": "PUMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

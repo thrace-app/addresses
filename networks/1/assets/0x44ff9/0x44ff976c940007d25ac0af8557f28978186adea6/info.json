@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44ff976c940007d25ac0af8557f28978186adea6",
+  "displayName": "Pingu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pingu",
+    "symbol": "NOOTNOOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

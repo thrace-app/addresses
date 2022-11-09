@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7471dfd6d15bf7f6805c4e90aff1a85d1c81be3",
+  "displayName": "Elon Fan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Fan Token",
+    "symbol": "ELON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

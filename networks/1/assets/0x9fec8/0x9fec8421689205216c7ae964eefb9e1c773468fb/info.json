@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9fec8421689205216c7ae964eefb9e1c773468fb",
+  "displayName": "Baby Example Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Example Protocol",
+    "symbol": "BEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

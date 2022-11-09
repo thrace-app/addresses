@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7148a6467ec9b59a4a1e0e0cbcd24c847a4ddbe6",
+  "displayName": "Riddle Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Riddle Token",
+    "symbol": "RIDDLE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

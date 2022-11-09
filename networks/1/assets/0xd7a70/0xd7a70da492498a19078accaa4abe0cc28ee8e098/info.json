@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7a70da492498a19078accaa4abe0cc28ee8e098",
+  "displayName": "sentcoins token",
+  "type": "TOKEN",
+  "token": {
+    "name": "sentcoins token",
+    "symbol": "STC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

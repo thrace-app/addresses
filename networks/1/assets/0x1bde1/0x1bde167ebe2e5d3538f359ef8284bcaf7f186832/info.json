@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1bde167ebe2e5d3538f359ef8284bcaf7f186832",
+  "displayName": "Compound Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Compound Bitcoin",
+    "symbol": "COBIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

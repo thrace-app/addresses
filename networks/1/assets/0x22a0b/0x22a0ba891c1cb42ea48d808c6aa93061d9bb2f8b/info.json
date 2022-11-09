@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22a0ba891c1cb42ea48d808c6aa93061d9bb2f8b",
+  "displayName": "Ramen Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ramen Protocol",
+    "symbol": "NOODLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb215809b56324851210d2408d503dc3277788c2b",
+  "displayName": "EchoNetwork",
+  "type": "TOKEN",
+  "token": {
+    "name": "EchoNetwork",
+    "symbol": "ECHO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2aed2307765e2ec509cf88d7a4f2e987ad8fafde",
+  "displayName": "42-coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "42-coin",
+    "symbol": "42",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

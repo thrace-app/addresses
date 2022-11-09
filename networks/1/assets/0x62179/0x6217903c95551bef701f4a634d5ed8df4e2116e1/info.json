@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6217903c95551bef701f4a634d5ed8df4e2116e1",
+  "displayName": "Pepe Lore",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pepe Lore",
+    "symbol": "PL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

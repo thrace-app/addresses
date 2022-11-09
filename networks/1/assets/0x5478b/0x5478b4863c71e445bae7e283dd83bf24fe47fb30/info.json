@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5478b4863c71e445bae7e283dd83bf24fe47fb30",
+  "displayName": "RiotCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RiotCoin",
+    "symbol": "RIOTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

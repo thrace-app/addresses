@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf9026647d6247a92a1895d9a3ad243c3c8d07c69",
+  "displayName": "Ass Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ass Token",
+    "symbol": "ASS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

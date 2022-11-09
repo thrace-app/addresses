@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecc13b124d79cdbaa0e1145a26b322620d5cd2e7",
+  "displayName": "TrackerDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrackerDoge",
+    "symbol": "TINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a9b94615ec6bf09e4e60248b121480fd5bb99ef",
+  "displayName": "Hex Pump",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hex Pump",
+    "symbol": "HEXPUMP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

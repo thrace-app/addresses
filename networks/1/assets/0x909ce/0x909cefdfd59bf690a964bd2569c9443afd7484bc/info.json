@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x909cefdfd59bf690a964bd2569c9443afd7484bc",
+  "displayName": "Bit-Rush",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bit-Rush",
+    "symbol": "RUSH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

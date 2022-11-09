@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x539efe69bcdd21a83efd9122571a64cc25e0282b",
+  "displayName": "Ethereum Blue",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Blue",
+    "symbol": "BLUE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

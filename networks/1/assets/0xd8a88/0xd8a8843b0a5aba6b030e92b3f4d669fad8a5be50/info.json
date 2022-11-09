@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8a8843b0a5aba6b030e92b3f4d669fad8a5be50",
+  "displayName": "AfroDex Labs Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AfroDex Labs Token",
+    "symbol": "AFDLT",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

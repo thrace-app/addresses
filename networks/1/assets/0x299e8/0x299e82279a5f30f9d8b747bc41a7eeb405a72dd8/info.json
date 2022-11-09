@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x299e82279a5f30f9d8b747bc41a7eeb405a72dd8",
+  "displayName": "BZ Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BZ Token",
+    "symbol": "BZT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

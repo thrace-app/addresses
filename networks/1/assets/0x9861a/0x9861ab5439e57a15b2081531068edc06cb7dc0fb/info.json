@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9861ab5439e57a15b2081531068edc06cb7dc0fb",
+  "displayName": "Moper Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moper Token",
+    "symbol": "Moper",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

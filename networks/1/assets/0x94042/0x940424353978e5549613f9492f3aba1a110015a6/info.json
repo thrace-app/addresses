@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x940424353978e5549613f9492f3aba1a110015a6",
+  "displayName": "Takoyaki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Takoyaki Token",
+    "symbol": "TAKOYAKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e90f510d389688132f50acfb812a6a1f4d3317b",
+  "displayName": "DuckDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "DuckDAO",
+    "symbol": "$DUCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04a8cbc7236dd53c69139c9581640861a8cf59b3",
+  "displayName": "MetaShiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaShiba",
+    "symbol": "MetaShiba",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x640c0320e6ad938b87ea1fe0ecb3c3ac163c6a0f",
+  "displayName": "DxChain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DxChain Token",
+    "symbol": "DX",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

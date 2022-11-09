@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b120fa54444ce699e5d0887ea2d8fd0bd68980e",
+  "displayName": "Faded Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Faded Doge",
+    "symbol": "FOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

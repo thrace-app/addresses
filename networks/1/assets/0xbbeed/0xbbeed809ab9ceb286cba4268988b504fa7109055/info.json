@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbeed809ab9ceb286cba4268988b504fa7109055",
+  "displayName": "Spongebobcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spongebobcoin",
+    "symbol": "Spongebob",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

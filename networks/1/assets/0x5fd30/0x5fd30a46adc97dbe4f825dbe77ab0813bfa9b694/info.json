@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5fd30a46adc97dbe4f825dbe77ab0813bfa9b694",
+  "displayName": "HogeClone",
+  "type": "TOKEN",
+  "token": {
+    "name": "HogeClone",
+    "symbol": "HOGECLONE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

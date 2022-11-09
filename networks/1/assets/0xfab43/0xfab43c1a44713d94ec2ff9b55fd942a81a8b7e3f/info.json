@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfab43c1a44713d94ec2ff9b55fd942a81a8b7e3f",
+  "displayName": "McDonald Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "McDonald Doge",
+    "symbol": "McDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

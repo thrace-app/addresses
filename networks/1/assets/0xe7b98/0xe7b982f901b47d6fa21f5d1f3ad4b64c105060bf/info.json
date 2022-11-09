@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7b982f901b47d6fa21f5d1f3ad4b64c105060bf",
+  "displayName": "Virtual Credit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Virtual Credit",
+    "symbol": "VCRED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x018488c3cd23833e019595bef273ddbbd37d209c",
+  "displayName": "AEGToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AEGToken",
+    "symbol": "AEGToken",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

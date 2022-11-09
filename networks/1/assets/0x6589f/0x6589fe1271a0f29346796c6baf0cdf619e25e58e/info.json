@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6589fe1271a0f29346796c6baf0cdf619e25e58e",
+  "displayName": "GRAIN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GRAIN Token",
+    "symbol": "GRAIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

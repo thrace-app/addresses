@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x987c0f36d366ffb47a798609b2468550eed62781",
+  "displayName": "KDX",
+  "type": "TOKEN",
+  "token": {
+    "name": "KDX",
+    "symbol": "KDX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

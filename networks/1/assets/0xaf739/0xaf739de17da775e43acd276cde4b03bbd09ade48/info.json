@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf739de17da775e43acd276cde4b03bbd09ade48",
+  "displayName": "AaveToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AaveToken",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

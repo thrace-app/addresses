@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd149a3e0b4154c85166638842ade591d084b52fc",
+  "displayName": "Positive Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Positive Token",
+    "symbol": "POSITIVE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

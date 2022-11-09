@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd29f64577603f2854ab5270e0c68d44cee41e435",
+  "displayName": "DapCash",
+  "type": "TOKEN",
+  "token": {
+    "name": "DapCash",
+    "symbol": "NKAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

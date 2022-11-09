@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6dee3ef3517ea19214e52d9445be536c6c1acb28",
+  "displayName": "Fubu Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fubu Inu Token",
+    "symbol": "FUBINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

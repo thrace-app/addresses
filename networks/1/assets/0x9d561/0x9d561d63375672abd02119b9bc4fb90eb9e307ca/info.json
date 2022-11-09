@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d561d63375672abd02119b9bc4fb90eb9e307ca",
+  "displayName": "Direct",
+  "type": "TOKEN",
+  "token": {
+    "name": "Direct",
+    "symbol": "DRCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

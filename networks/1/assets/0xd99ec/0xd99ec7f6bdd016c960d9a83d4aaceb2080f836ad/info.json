@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd99ec7f6bdd016c960d9a83d4aaceb2080f836ad",
+  "displayName": "BeanCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BeanCoin",
+    "symbol": "BC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

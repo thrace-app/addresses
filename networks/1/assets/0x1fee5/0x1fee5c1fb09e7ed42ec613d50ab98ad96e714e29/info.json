@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fee5c1fb09e7ed42ec613d50ab98ad96e714e29",
+  "displayName": "White Duck",
+  "type": "TOKEN",
+  "token": {
+    "name": "White Duck",
+    "symbol": "WDK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

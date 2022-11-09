@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cff49d0a19ed6ff845a9122fa912abcfb1f68a6",
+  "displayName": "WadzPay Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WadzPay Token",
+    "symbol": "WTK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

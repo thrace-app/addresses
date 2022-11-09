@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x286925b015f200cc34b319c75461a56684c07598",
+  "displayName": "Crazy Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crazy Doge",
+    "symbol": "CZD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

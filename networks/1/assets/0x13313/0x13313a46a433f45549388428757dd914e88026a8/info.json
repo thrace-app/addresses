@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13313a46a433f45549388428757dd914e88026a8",
+  "displayName": "Compound Yield",
+  "type": "TOKEN",
+  "token": {
+    "name": "Compound Yield",
+    "symbol": "CYD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

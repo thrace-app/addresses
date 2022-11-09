@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6406623ef8d90f812e7cdab863f2d79a302c820c",
+  "displayName": "lava",
+  "type": "TOKEN",
+  "token": {
+    "name": "lava",
+    "symbol": "FIRE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f9bcbebfce35fa54212e3a2a25509046a5eb37e",
+  "displayName": "The Dragon Pearl",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Dragon Pearl",
+    "symbol": "PEARL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

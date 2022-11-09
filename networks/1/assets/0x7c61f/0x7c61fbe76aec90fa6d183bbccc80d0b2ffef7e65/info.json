@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c61fbe76aec90fa6d183bbccc80d0b2ffef7e65",
+  "displayName": "DuckElon",
+  "type": "TOKEN",
+  "token": {
+    "name": "DuckElon",
+    "symbol": "DELON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

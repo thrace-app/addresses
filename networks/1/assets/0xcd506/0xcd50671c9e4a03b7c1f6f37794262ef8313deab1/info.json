@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd50671c9e4a03b7c1f6f37794262ef8313deab1",
+  "displayName": "Tari Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tari Protocol",
+    "symbol": "TARI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

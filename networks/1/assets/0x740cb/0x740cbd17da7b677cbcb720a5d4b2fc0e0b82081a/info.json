@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x740cbd17da7b677cbcb720a5d4b2fc0e0b82081a",
+  "displayName": "SafeMoonSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeMoonSwap",
+    "symbol": "SMS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12d79c345cac7b050a5ff0797b5a607e254c73f5",
+  "displayName": "Buytex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Buytex",
+    "symbol": "BUX",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1051323517cfc44cdc39fc2d7dafd88064033797",
+  "displayName": "Tribute Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tribute Token",
+    "symbol": "TRBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

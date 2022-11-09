@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f4e079fa6491c0682adc52c8b8be86b42648340",
+  "displayName": "Vitalik Mastermind Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitalik Mastermind Token",
+    "symbol": "MASTERMIND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

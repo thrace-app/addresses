@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f824257f289d351c7fe08acd7ad16eac652c60a",
+  "displayName": "mycred.io",
+  "type": "TOKEN",
+  "token": {
+    "name": "mycred.io",
+    "symbol": "CRED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

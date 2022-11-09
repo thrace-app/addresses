@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd123466f3fef79988f00db6732fc64557cd30441",
+  "displayName": "Pyrabank Private",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pyrabank Private",
+    "symbol": "PRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3667bbbd024f50f3300db8bc6a801b3faea71eed",
+  "displayName": "TradingCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TradingCoin",
+    "symbol": "TDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

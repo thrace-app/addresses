@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f61169e9c7856213c64fcfafb3e241a9eebd920",
+  "displayName": "Human Health Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Human Health Token",
+    "symbol": "HHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfdc4a3fc36df16a78edcaf1b837d3acaaedb2cb4",
+  "displayName": "ScifiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ScifiToken",
+    "symbol": "SCIFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

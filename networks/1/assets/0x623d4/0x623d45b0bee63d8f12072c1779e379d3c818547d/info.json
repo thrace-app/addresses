@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x623d45b0bee63d8f12072c1779e379d3c818547d",
+  "displayName": "Demonic Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Demonic Doge",
+    "symbol": "$DDoge",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

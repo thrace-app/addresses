@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f08673f076b5b6487ea604773f054c8b1bd9148",
+  "displayName": "BitcoinToMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitcoinToMoon",
+    "symbol": "BTCM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

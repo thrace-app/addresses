@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcafa95fe1a5a05a0dbbc4e682a80ad16c860c63f",
+  "displayName": "OMS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OMS Token",
+    "symbol": "OMS",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1237aa7f535b0cc33fd973d66cbf830354d16c7",
+  "displayName": "yearn Wrapped Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "yearn Wrapped Ether",
+    "symbol": "yWETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

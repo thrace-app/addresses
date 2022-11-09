@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c32185b81766a051e08de671207b34466dd1021",
+  "displayName": "BTC Proxy",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTC Proxy",
+    "symbol": "BTCpx",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8f82d18df5690b15ff5eb34d36f1c3e22ead72a",
+  "displayName": "Amon Pay",
+  "type": "TOKEN",
+  "token": {
+    "name": "Amon Pay",
+    "symbol": "AMY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

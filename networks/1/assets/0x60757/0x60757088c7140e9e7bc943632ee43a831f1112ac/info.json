@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x60757088c7140e9e7bc943632ee43a831f1112ac",
+  "displayName": "Fish Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fish Token",
+    "symbol": "FISH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

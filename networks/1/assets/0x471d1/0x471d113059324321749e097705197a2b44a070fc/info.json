@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x471d113059324321749e097705197a2b44a070fc",
+  "displayName": "Kanga Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kanga Exchange Token",
+    "symbol": "KNG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

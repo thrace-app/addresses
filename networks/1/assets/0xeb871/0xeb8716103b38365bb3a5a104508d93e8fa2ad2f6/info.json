@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb8716103b38365bb3a5a104508d93e8fa2ad2f6",
+  "displayName": "Accept Crypto Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Accept Crypto Token",
+    "symbol": "$ACEPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

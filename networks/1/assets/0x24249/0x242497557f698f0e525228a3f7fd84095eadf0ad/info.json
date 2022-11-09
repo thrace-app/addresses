@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x242497557f698f0e525228a3f7fd84095eadf0ad",
+  "displayName": "SuperBowl",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperBowl",
+    "symbol": "BOWL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

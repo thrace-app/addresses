@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfdde82a0695315e6700ef60b6f9c6ef20c65bfad",
+  "displayName": "APY Vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "APY Vault",
+    "symbol": "APYv",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

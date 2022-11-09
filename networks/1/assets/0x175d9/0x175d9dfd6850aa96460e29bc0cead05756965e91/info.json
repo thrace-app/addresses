@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x175d9dfd6850aa96460e29bc0cead05756965e91",
+  "displayName": "Starname",
+  "type": "TOKEN",
+  "token": {
+    "name": "Starname",
+    "symbol": "WIOV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7ed24bbcfbc334740598f1ce52b23a0a55ab007",
+  "displayName": "DCPad",
+  "type": "TOKEN",
+  "token": {
+    "name": "DCPad",
+    "symbol": "DCPAD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

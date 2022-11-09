@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cd26c0be22d73821e3076686990199e8b5cc11c",
+  "displayName": "SpaceX DeFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpaceX DeFi Token",
+    "symbol": "SCX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

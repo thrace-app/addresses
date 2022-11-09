@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde621989216a655f0fa604f077203323fa64788f",
+  "displayName": "MozzaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MozzaToken",
+    "symbol": "MOZZA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

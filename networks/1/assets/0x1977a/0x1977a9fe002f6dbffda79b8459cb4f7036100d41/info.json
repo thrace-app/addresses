@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1977a9fe002f6dbffda79b8459cb4f7036100d41",
+  "displayName": "Legacy Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Legacy Coin",
+    "symbol": "LGCY",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

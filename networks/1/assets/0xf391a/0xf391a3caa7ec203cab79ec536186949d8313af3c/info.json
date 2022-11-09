@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf391a3caa7ec203cab79ec536186949d8313af3c",
+  "displayName": "Ooki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ooki Token",
+    "symbol": "OOKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

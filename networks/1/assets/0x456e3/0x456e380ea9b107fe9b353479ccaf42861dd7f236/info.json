@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x456e380ea9b107fe9b353479ccaf42861dd7f236",
+  "displayName": "Ethereum Gnee",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Gnee",
+    "symbol": "EGNEE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

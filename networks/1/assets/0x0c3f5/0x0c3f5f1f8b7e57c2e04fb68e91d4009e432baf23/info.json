@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c3f5f1f8b7e57c2e04fb68e91d4009e432baf23",
+  "displayName": "NuvaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NuvaToken",
+    "symbol": "NUVA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

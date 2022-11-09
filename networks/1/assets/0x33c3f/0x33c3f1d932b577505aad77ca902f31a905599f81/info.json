@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33c3f1d932b577505aad77ca902f31a905599f81",
+  "displayName": "The Red Whale",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Red Whale",
+    "symbol": "RedWhale",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

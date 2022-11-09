@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x410c71ed3ec37b06346de18ba956171eb1e38b81",
+  "displayName": "Degen Saitama",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Saitama",
+    "symbol": "DEGENTAMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5622fc0bd7ef3f07b2d1b05097dff6f50cc0b2f5",
+  "displayName": "PIKA TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "PIKA TOKEN",
+    "symbol": "PKAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda8a8fc099955ce2f2bf7b5d9d0640045a141ef8",
+  "displayName": "The Golden Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Golden Burn",
+    "symbol": "BURN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

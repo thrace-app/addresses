@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ce09c398a78324a3b898eb14ec6a30bed0ddd0a",
+  "displayName": "This is Wild",
+  "type": "TOKEN",
+  "token": {
+    "name": "This is Wild",
+    "symbol": "WILD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

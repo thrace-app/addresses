@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8001fc0362052a3506661edea4c81df8f4ce707f",
+  "displayName": "CNY",
+  "type": "TOKEN",
+  "token": {
+    "name": "CNY",
+    "symbol": "CNY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

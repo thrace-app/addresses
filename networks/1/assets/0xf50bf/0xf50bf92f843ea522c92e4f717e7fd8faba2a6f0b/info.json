@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf50bf92f843ea522c92e4f717e7fd8faba2a6f0b",
+  "displayName": "ZeroSwapToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZeroSwapToken",
+    "symbol": "ZEE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

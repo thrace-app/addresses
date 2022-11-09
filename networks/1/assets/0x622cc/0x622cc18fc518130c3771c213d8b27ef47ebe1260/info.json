@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x622cc18fc518130c3771c213d8b27ef47ebe1260",
+  "displayName": "Golden Kitty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Kitty",
+    "symbol": "Gokitty",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

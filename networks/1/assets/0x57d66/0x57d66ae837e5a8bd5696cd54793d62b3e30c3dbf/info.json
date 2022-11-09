@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57d66ae837e5a8bd5696cd54793d62b3e30c3dbf",
+  "displayName": "Wrapped DonaldTrump",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped DonaldTrump",
+    "symbol": "WTRUMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

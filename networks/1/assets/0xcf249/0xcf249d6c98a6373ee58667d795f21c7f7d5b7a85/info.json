@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcf249d6c98a6373ee58667d795f21c7f7d5b7a85",
+  "displayName": "SpiderDAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpiderDAO Token",
+    "symbol": "SPDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

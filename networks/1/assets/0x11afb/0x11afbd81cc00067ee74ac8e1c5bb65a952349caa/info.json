@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11afbd81cc00067ee74ac8e1c5bb65a952349caa",
+  "displayName": "ETX Share",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETX Share",
+    "symbol": "ETX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

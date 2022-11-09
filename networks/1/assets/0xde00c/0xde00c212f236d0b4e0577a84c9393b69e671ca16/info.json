@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde00c212f236d0b4e0577a84c9393b69e671ca16",
+  "displayName": "Neko Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neko Inu",
+    "symbol": "NEKO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

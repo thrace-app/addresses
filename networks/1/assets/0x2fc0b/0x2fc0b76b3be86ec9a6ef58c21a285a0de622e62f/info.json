@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2fc0b76b3be86ec9a6ef58c21a285a0de622e62f",
+  "displayName": "Granny Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Granny Token",
+    "symbol": "GRANNY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

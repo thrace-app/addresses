@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd81105c6f4af7fc090adcb07abf5bd1c8a72d11b",
+  "displayName": "Cowboy Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cowboy Doge",
+    "symbol": "CDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

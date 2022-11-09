@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc515c1ae99c1b2926858c256b66158c27683569a",
+  "displayName": "Bibor Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bibor Token",
+    "symbol": "BIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

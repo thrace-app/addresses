@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x31ecdfa78039ce88135902137de160a535c1d2df",
+  "displayName": "FIFA Ultimate Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FIFA Ultimate Token",
+    "symbol": "FUT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

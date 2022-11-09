@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x481d68a671bfbe1857e8f667283e07dc24c5db11",
+  "displayName": "DOG Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "DOG Protocol",
+    "symbol": "WOOF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd078a8434061ba5909c0703799641465f2e9aa43",
+  "displayName": "ON3 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ON3 Token",
+    "symbol": "ON3",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fb348e702ace399daadeb777c6bcca3d26b805a",
+  "displayName": "Big Floppa Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Big Floppa Coin",
+    "symbol": "FLOPPA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

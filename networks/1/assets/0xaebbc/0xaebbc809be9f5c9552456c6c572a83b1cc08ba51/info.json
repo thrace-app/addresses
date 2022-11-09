@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaebbc809be9f5c9552456c6c572a83b1cc08ba51",
+  "displayName": "Dinos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dinos",
+    "symbol": "DINOS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

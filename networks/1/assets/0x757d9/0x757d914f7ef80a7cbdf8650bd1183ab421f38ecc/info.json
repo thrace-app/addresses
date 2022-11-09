@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x757d914f7ef80a7cbdf8650bd1183ab421f38ecc",
+  "displayName": "MysteryDoge Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MysteryDoge Token",
+    "symbol": "MDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

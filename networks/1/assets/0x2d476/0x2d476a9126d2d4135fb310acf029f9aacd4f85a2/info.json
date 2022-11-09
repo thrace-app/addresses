@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2d476a9126d2d4135fb310acf029f9aacd4f85a2",
+  "displayName": "Soft Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Soft Token",
+    "symbol": "SFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab9438fcf25b45a1cbcca59c77889d483587e713",
+  "displayName": "A Dogs Tale",
+  "type": "TOKEN",
+  "token": {
+    "name": "A Dogs Tale",
+    "symbol": "Hachiko",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

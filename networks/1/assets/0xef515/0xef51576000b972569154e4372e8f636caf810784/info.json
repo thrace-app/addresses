@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef51576000b972569154e4372e8f636caf810784",
+  "displayName": "Down Dai",
+  "type": "TOKEN",
+  "token": {
+    "name": "Down Dai",
+    "symbol": "DOWNDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

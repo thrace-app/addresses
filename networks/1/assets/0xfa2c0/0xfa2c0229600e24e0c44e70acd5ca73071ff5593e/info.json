@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa2c0229600e24e0c44e70acd5ca73071ff5593e",
+  "displayName": "Golden Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Ethereum",
+    "symbol": "GETH",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

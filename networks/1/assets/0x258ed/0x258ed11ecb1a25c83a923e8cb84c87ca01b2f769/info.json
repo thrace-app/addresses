@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x258ed11ecb1a25c83a923e8cb84c87ca01b2f769",
+  "displayName": "Urashima Taro",
+  "type": "TOKEN",
+  "token": {
+    "name": "Urashima Taro",
+    "symbol": "TURTLE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

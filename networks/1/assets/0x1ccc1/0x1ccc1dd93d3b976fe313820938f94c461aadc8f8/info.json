@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ccc1dd93d3b976fe313820938f94c461aadc8f8",
+  "displayName": "Voral Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Voral Token",
+    "symbol": "VRL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

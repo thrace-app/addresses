@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ef58be540d8d2e333e50c4667da767935cfe801",
+  "displayName": "Vote Red",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vote Red",
+    "symbol": "VoteRed",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

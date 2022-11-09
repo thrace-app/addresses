@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc086c78795d098ec3c4e897e8cf9d99c22d04593",
+  "displayName": "Proof of gwei",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of gwei",
+    "symbol": "POG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

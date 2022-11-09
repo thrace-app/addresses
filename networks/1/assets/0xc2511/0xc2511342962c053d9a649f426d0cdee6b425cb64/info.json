@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2511342962c053d9a649f426d0cdee6b425cb64",
+  "displayName": "ZebToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZebToken",
+    "symbol": "ZEB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

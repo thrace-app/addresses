@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33f46059a0ad1e781da76841f2a69eaea28a6986",
+  "displayName": "Captain Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Captain Cat",
+    "symbol": "CC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

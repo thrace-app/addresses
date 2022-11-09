@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40acbf1c03a6f9965c72af0edb7d135cec01aa9a",
+  "displayName": "BaiWanCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BaiWanCoin",
+    "symbol": "BWC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

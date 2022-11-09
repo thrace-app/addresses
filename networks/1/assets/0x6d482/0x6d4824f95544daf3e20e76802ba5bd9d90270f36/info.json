@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d4824f95544daf3e20e76802ba5bd9d90270f36",
+  "displayName": "Quesadilla Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quesadilla Token",
+    "symbol": "QUESADILLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

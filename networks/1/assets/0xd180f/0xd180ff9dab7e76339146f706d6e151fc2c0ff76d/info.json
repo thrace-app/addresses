@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd180ff9dab7e76339146f706d6e151fc2c0ff76d",
+  "displayName": "Rugrats Eth",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rugrats Eth",
+    "symbol": "RUGRATS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

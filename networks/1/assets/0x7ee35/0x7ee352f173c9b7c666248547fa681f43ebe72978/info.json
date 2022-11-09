@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ee352f173c9b7c666248547fa681f43ebe72978",
+  "displayName": "ASDF Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ASDF Token",
+    "symbol": "ASDF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

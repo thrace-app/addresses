@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9b94781855399ca56d167a86d0a9937930d6e87",
+  "displayName": "ShybaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShybaToken",
+    "symbol": "SHYBA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

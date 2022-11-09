@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d0f5149c502faf215c89ab306ec3e50b15e2892",
+  "displayName": "Portion Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Portion Token",
+    "symbol": "PRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

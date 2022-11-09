@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f3a044283dec5bf9da98b49756dcfcf09bb11ec",
+  "displayName": "Blue Checkmark",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Checkmark",
+    "symbol": "Verified",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1536e1f38f1d262137d738bff26ab72a3cf1955d",
+  "displayName": "Raydium",
+  "type": "TOKEN",
+  "token": {
+    "name": "Raydium",
+    "symbol": "RAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

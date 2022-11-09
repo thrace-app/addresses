@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b096276e20cfa0bbefa4af2f67aa620a4eb491c",
+  "displayName": "WAFFLES",
+  "type": "TOKEN",
+  "token": {
+    "name": "WAFFLES",
+    "symbol": "WAFFLE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

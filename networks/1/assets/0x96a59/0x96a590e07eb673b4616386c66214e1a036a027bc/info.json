@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96a590e07eb673b4616386c66214e1a036a027bc",
+  "displayName": "Beycoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Beycoin",
+    "symbol": "DREM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

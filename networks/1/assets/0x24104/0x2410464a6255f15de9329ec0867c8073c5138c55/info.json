@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2410464a6255f15de9329ec0867c8073c5138c55",
+  "displayName": "Adam and Eve",
+  "type": "TOKEN",
+  "token": {
+    "name": "Adam and Eve",
+    "symbol": "APPLE",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c6a77c4bbf4e9a0b0435a77f16794139648ba03",
+  "displayName": "Bellamy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bellamy Token",
+    "symbol": "BELLAMY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

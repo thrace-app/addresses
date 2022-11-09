@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd70edb8c099ec809c376ca0ae6f56399212ae716",
+  "displayName": "Supernova Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Supernova Fund",
+    "symbol": "NOVA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

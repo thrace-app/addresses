@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12addecccc058d72a36f18dcf9510fe70a88fe7b",
+  "displayName": "Flokiter",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flokiter",
+    "symbol": "FLOKITER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

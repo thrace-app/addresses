@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a9d27c6049a5080a6268eb97db49bf83f45d98f",
+  "displayName": "Oasis Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Oasis Coin",
+    "symbol": "OCN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0400a01cbe05df4604a38cf822107ec080810ab",
+  "displayName": "DatoriumStaking",
+  "type": "TOKEN",
+  "token": {
+    "name": "DatoriumStaking",
+    "symbol": "DAST",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

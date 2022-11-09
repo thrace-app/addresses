@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69b6ae8e3e3d5908d61931af1dea3514ad1e134c",
+  "displayName": "NeoxCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NeoxCoin",
+    "symbol": "NEOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

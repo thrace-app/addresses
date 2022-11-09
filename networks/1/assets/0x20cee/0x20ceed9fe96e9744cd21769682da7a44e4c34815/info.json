@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20ceed9fe96e9744cd21769682da7a44e4c34815",
+  "displayName": "Virtual Mint Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Virtual Mint Token",
+    "symbol": "VMINT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

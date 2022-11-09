@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1849b8919a40cb94878e1e6b8858c7c956bc1ada",
+  "displayName": "Pomelo Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pomelo Coin",
+    "symbol": "POMELO COIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

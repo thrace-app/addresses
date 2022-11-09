@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8754ba5137ed21f0bafd6b4630be1fd0aa97d2a0",
+  "displayName": "BHCcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BHCcoin",
+    "symbol": "BHC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

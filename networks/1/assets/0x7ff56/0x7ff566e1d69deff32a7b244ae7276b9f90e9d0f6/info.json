@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ff566e1d69deff32a7b244ae7276b9f90e9d0f6",
+  "displayName": "yearn Curve.fi renBTC/wBTC/sBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "yearn Curve.fi renBTC/wBTC/sBTC",
+    "symbol": "ycrvRenWSBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

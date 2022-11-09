@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d8129963291740dddd917ab01af18c7aed4ba58",
+  "displayName": "MineBee",
+  "type": "TOKEN",
+  "token": {
+    "name": "MineBee",
+    "symbol": "MB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ed336db5f63e4c6cb9ced8afefc1d00ce62bbf2",
+  "displayName": "Twithereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Twithereum",
+    "symbol": "Tweeth",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

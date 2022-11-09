@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbffd0cc97d13cbbeaf8a29d03439a05434fca515",
+  "displayName": "Sucky Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sucky Inu",
+    "symbol": "SUCKYINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

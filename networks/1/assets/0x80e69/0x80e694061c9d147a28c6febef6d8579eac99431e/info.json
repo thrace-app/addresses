@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80e694061c9d147a28c6febef6d8579eac99431e",
+  "displayName": "Community Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Community Coin",
+    "symbol": "CCoin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

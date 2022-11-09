@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf001937650bb4f62b57521824b2c20f5b91bea05",
+  "displayName": "Taraxa Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Taraxa Coin",
+    "symbol": "TARA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

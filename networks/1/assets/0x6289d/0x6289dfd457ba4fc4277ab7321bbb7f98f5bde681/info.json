@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6289dfd457ba4fc4277ab7321bbb7f98f5bde681",
+  "displayName": "D8ex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "D8ex Token",
+    "symbol": "D8ex",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

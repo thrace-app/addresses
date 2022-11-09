@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4af698b479d0098229dc715655c667ceb6cd8433",
+  "displayName": "MaidCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MaidCoin",
+    "symbol": "$MAID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

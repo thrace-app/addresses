@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ea6319de48511b2b63100fdc909120865fb8677",
+  "displayName": "Partner wallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Partner wallet",
+    "symbol": "PAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

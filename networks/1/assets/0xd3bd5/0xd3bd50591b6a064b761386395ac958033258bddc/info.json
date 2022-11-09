@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3bd50591b6a064b761386395ac958033258bddc",
+  "displayName": "Bread & Pastries",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bread & Pastries",
+    "symbol": "B&P",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

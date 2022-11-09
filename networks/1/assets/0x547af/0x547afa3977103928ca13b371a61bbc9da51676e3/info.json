@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x547afa3977103928ca13b371a61bbc9da51676e3",
+  "displayName": "Wake Me Up",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wake Me Up",
+    "symbol": "ALARM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

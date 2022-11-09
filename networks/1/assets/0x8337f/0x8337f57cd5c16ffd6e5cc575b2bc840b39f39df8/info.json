@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8337f57cd5c16ffd6e5cc575b2bc840b39f39df8",
+  "displayName": "Uniswap X",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uniswap X",
+    "symbol": "UNIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

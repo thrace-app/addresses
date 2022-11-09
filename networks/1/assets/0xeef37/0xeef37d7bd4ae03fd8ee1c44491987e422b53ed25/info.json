@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeef37d7bd4ae03fd8ee1c44491987e422b53ed25",
+  "displayName": "KryptoPets",
+  "type": "TOKEN",
+  "token": {
+    "name": "KryptoPets",
+    "symbol": "KPETS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

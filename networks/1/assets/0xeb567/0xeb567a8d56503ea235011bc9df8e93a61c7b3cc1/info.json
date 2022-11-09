@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb567a8d56503ea235011bc9df8e93a61c7b3cc1",
+  "displayName": "Elonium Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elonium Token",
+    "symbol": "ELIUM",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

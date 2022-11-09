@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe217a5597dc3ee39297eb30dc735689aed3587b",
+  "displayName": "BOTTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BOTTOKEN",
+    "symbol": "BOTT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb340a8d5700e53f7605222258e29ef73f6368c7e",
+  "displayName": "Pony Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pony Protocol",
+    "symbol": "PYP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

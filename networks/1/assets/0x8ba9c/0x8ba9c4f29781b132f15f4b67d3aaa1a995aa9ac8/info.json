@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ba9c4f29781b132f15f4b67d3aaa1a995aa9ac8",
+  "displayName": "Musky Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Musky Swap",
+    "symbol": "MUSKSWAP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x389abb2345b4b1ba9b84499f5da5859f75e186e6",
+  "displayName": "Twitter Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Twitter Cat",
+    "symbol": "TWCAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

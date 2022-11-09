@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86b300ef935284a99fa5d148a9a6ccc5103b21a8",
+  "displayName": "CryptoDash Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoDash Token",
+    "symbol": "CDASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

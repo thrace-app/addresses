@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8796542765747ed7f921ff12faff057b5d624d7",
+  "displayName": "Void Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Void Token",
+    "symbol": "VOID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

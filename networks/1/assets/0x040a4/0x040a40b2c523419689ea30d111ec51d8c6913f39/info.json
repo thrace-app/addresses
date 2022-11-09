@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x040a40b2c523419689ea30d111ec51d8c6913f39",
+  "displayName": "Thinkium Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Thinkium Token",
+    "symbol": "TKM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

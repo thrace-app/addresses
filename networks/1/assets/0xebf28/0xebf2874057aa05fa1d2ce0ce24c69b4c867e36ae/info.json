@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xebf2874057aa05fa1d2ce0ce24c69b4c867e36ae",
+  "displayName": "MoroCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoroCoin",
+    "symbol": "MORO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

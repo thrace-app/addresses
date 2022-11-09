@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d6267448284ad4d8efc9951cd65eb354f4056f3",
+  "displayName": "SantaDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "SantaDoge",
+    "symbol": "SantaDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

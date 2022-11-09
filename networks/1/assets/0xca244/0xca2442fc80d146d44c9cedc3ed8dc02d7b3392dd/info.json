@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca2442fc80d146d44c9cedc3ed8dc02d7b3392dd",
+  "displayName": "Grim Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grim Ether",
+    "symbol": "DETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

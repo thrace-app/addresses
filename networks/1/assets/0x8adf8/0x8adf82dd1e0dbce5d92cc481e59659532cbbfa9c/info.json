@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8adf82dd1e0dbce5d92cc481e59659532cbbfa9c",
+  "displayName": "RUBC Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "RUBC Stablecoin",
+    "symbol": "RUBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

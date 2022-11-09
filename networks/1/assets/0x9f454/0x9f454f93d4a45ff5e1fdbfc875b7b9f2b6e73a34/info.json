@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f454f93d4a45ff5e1fdbfc875b7b9f2b6e73a34",
+  "displayName": "Mozaic Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mozaic Token",
+    "symbol": "Mozaic",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

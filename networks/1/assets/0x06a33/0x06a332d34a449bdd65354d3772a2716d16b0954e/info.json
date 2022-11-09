@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06a332d34a449bdd65354d3772a2716d16b0954e",
+  "displayName": "Graph Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Graph Token",
+    "symbol": "GRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

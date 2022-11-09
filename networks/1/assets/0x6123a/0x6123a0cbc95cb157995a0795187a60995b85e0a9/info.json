@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6123a0cbc95cb157995a0795187a60995b85e0a9",
+  "displayName": "BTCDaiRebalancingSetToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTCDaiRebalancingSetToken",
+    "symbol": "BTCDai",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1378ec93ab2b07ba5a0eaef19cf354a33f64b9fd",
+  "displayName": "Yearn Finance Diamond Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn Finance Diamond Token",
+    "symbol": "YFDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

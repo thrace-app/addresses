@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e1b0c16a8f0ace6051dd58b258e37c4e58ed50a",
+  "displayName": "Boomer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boomer Token",
+    "symbol": "BOMR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4722d9342ac92fdc7d7f98fa9ed0654d05ad6f1d",
+  "displayName": "Meerkat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meerkat",
+    "symbol": "MEERKAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

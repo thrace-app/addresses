@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f2856dd43273d80c845679fb148fb96e5b996f2",
+  "displayName": "APELend",
+  "type": "TOKEN",
+  "token": {
+    "name": "APELend",
+    "symbol": "APEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

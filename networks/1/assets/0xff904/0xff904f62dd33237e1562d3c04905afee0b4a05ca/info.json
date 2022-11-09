@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff904f62dd33237e1562d3c04905afee0b4a05ca",
+  "displayName": "Jojos Crypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jojos Crypto",
+    "symbol": "JOJO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

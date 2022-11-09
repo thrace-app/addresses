@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x94236591125e935f5ac128bb3d5062944c24958c",
+  "displayName": "VegaWallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "VegaWallet",
+    "symbol": "VGW",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

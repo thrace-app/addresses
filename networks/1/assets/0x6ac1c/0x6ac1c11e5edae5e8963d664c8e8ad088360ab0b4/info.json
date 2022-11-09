@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ac1c11e5edae5e8963d664c8e8ad088360ab0b4",
+  "displayName": "Zolyum Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zolyum Token",
+    "symbol": "Zolyum",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

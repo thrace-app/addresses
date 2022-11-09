@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1c81d674dfe352ecbc07dece5f054109d2793ef",
+  "displayName": "Luka Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luka Token",
+    "symbol": "LUKA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

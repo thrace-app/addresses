@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbad4d2a896f550906a451cf30b012ccc55d14e85",
+  "displayName": "Trading Widget",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trading Widget",
+    "symbol": "WIGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

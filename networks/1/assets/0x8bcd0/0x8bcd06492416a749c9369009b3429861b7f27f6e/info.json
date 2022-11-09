@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8bcd06492416a749c9369009b3429861b7f27f6e",
+  "displayName": "BlackHat",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlackHat",
+    "symbol": "BLKC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

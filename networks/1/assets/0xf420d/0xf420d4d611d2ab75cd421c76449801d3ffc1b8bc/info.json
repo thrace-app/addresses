@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf420d4d611d2ab75cd421c76449801d3ffc1b8bc",
+  "displayName": "SafuMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafuMoon",
+    "symbol": "SAFU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

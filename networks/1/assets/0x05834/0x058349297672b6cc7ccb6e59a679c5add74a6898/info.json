@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x058349297672b6cc7ccb6e59a679c5add74a6898",
+  "displayName": "Ethereum Vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Vault",
+    "symbol": "ETHV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

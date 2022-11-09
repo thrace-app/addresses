@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbbc3a290c7d2755b48681c87f25f9d7f480ad42f",
+  "displayName": "Remittance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Remittance Token",
+    "symbol": "REMCO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

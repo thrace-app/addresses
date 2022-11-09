@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x45c1bd455c923740c16f0eee8fc7cf8e5766ad6c",
+  "displayName": "Elon Shares",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Shares",
+    "symbol": "ELOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

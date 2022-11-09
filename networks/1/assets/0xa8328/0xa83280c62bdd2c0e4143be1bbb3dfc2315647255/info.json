@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa83280c62bdd2c0e4143be1bbb3dfc2315647255",
+  "displayName": "GlitchToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GlitchToken",
+    "symbol": "GT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

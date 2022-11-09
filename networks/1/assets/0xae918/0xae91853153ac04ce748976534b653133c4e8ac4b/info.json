@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae91853153ac04ce748976534b653133c4e8ac4b",
+  "displayName": "Unilock",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unilock",
+    "symbol": "ULock",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

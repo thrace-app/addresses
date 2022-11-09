@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x686d1561bfe2b727cd8d543d686fc79f002fc680",
+  "displayName": "MetaEstate",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaEstate",
+    "symbol": "Estate",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

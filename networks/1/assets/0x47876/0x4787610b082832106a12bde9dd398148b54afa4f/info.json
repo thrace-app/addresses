@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4787610b082832106a12bde9dd398148b54afa4f",
+  "displayName": "YMIToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "YMIToken",
+    "symbol": "YMI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

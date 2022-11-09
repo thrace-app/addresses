@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe29544a2006fb2e2b43aa2bad247f1a3d1de0ee8",
+  "displayName": "matest",
+  "type": "TOKEN",
+  "token": {
+    "name": "matest",
+    "symbol": "MATES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

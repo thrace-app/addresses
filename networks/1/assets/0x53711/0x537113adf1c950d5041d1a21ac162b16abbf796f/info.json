@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x537113adf1c950d5041d1a21ac162b16abbf796f",
+  "displayName": "SSB",
+  "type": "TOKEN",
+  "token": {
+    "name": "SSB",
+    "symbol": "SSB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

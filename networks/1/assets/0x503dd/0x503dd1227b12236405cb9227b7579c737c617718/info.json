@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x503dd1227b12236405cb9227b7579c737c617718",
+  "displayName": "EtherGalaxy",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherGalaxy",
+    "symbol": "ETHGALAXY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

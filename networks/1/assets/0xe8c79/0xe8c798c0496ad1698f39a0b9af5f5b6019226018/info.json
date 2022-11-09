@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe8c798c0496ad1698f39a0b9af5f5b6019226018",
+  "displayName": "WinlinkCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WinlinkCoin",
+    "symbol": "WLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

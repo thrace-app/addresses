@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34049b1fe45714605cae5d028270b678f91ad2ca",
+  "displayName": "Hank The Tank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hank The Tank",
+    "symbol": "HANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

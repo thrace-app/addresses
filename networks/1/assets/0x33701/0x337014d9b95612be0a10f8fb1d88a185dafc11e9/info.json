@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x337014d9b95612be0a10f8fb1d88a185dafc11e9",
+  "displayName": "Family Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Family Token",
+    "symbol": "DOM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

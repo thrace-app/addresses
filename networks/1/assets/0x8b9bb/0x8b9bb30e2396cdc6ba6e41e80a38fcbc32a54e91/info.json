@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b9bb30e2396cdc6ba6e41e80a38fcbc32a54e91",
+  "displayName": "USD Lucky Monkey Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "USD Lucky Monkey Token",
+    "symbol": "USDL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

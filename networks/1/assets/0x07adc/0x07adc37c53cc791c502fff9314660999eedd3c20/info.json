@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07adc37c53cc791c502fff9314660999eedd3c20",
+  "displayName": "DIY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DIY Token",
+    "symbol": "$DIY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

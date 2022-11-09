@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xded70ba0a1c23b2f17f4c58dbd0079e1768defbc",
+  "displayName": "Mops Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mops Bank",
+    "symbol": "$MOPSBANK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

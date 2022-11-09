@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf62b635c4411736769d123f72736d5ea676ae12c",
+  "displayName": "Official Vitalik Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Official Vitalik Token",
+    "symbol": "OVT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

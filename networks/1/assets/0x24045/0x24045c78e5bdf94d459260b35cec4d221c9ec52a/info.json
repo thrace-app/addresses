@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24045c78e5bdf94d459260b35cec4d221c9ec52a",
+  "displayName": "Siho Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Siho Token",
+    "symbol": "SIHO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

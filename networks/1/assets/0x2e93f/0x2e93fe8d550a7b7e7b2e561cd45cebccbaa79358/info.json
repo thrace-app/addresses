@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e93fe8d550a7b7e7b2e561cd45cebccbaa79358",
+  "displayName": "GXChain Core Asset",
+  "type": "TOKEN",
+  "token": {
+    "name": "GXChain Core Asset",
+    "symbol": "GXC",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

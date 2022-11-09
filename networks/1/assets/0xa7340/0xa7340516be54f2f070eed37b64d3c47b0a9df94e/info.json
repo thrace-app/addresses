@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa7340516be54f2f070eed37b64d3c47b0a9df94e",
+  "displayName": "LRB Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LRB Token",
+    "symbol": "LRB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

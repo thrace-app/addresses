@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a2b333abfc1794f975b75dd99f2887117cfd4ea",
+  "displayName": "PHIToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PHIToken",
+    "symbol": "PHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

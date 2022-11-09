@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd06173e522113262ed3fef6e2f173a38643c444",
+  "displayName": "Axie Infinity Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Axie Infinity Token",
+    "symbol": "AXS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

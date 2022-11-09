@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08e2998d97b7d43449354a4a86bc9b7966c6fe2d",
+  "displayName": "NeoTokyo",
+  "type": "TOKEN",
+  "token": {
+    "name": "NeoTokyo",
+    "symbol": "TOK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

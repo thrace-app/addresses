@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a857d96946987f241cb8083d500904671ba566e",
+  "displayName": "King Uni",
+  "type": "TOKEN",
+  "token": {
+    "name": "King Uni",
+    "symbol": "KU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

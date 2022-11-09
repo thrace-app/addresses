@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54",
+  "displayName": "SSV Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SSV Token",
+    "symbol": "SSV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd90cd68f0384cb3b7ef5aeb4c1f59ff8b01bb52e",
+  "displayName": "空投币",
+  "type": "TOKEN",
+  "token": {
+    "name": "空投币",
+    "symbol": "CANDY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

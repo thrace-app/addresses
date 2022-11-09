@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe5d6b89116246021d45983f3a5e7773e83bb59f",
+  "displayName": "EcoCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EcoCoin",
+    "symbol": "EcoCoin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

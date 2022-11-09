@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1091a339533dbd07d0d4e92867dc304fd9f39e77",
+  "displayName": "EthereumRai",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumRai",
+    "symbol": "eRAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

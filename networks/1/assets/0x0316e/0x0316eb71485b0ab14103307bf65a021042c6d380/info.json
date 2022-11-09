@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+  "displayName": "Huobi BTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Huobi BTC",
+    "symbol": "HBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

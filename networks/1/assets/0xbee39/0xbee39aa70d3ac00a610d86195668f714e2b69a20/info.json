@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbee39aa70d3ac00a610d86195668f714e2b69a20",
+  "displayName": "Franken Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Franken Doge",
+    "symbol": "FDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

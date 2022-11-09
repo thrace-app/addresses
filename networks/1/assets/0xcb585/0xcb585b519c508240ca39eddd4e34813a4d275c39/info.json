@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb585b519c508240ca39eddd4e34813a4d275c39",
+  "displayName": "WrappedShibaInu",
+  "type": "TOKEN",
+  "token": {
+    "name": "WrappedShibaInu",
+    "symbol": "WSINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

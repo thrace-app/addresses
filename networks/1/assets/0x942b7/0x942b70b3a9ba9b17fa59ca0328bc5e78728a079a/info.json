@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x942b70b3a9ba9b17fa59ca0328bc5e78728a079a",
+  "displayName": "Aries Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aries Token",
+    "symbol": "ARIE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

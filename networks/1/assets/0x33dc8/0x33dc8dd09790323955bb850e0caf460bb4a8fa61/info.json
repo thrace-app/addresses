@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33dc8dd09790323955bb850e0caf460bb4a8fa61",
+  "displayName": "NiiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NiiCoin",
+    "symbol": "NiiC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

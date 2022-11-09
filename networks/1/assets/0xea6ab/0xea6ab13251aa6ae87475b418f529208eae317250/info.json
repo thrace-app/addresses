@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea6ab13251aa6ae87475b418f529208eae317250",
+  "displayName": "NotYourOrdinaryToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NotYourOrdinaryToken",
+    "symbol": "NYOT",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

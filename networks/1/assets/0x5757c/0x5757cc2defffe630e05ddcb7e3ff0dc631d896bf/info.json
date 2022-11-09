@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5757cc2defffe630e05ddcb7e3ff0dc631d896bf",
+  "displayName": "New York Times",
+  "type": "TOKEN",
+  "token": {
+    "name": "New York Times",
+    "symbol": "NYC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

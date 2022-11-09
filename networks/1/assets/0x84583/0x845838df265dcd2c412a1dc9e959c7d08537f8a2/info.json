@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x845838df265dcd2c412a1dc9e959c7d08537f8a2",
+  "displayName": "Curve.fi cDAI/cUSDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve.fi cDAI/cUSDC",
+    "symbol": "cDAI+cUSDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

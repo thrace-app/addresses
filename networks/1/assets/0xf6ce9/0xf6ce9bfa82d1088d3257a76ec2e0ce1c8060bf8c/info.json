@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6ce9bfa82d1088d3257a76ec2e0ce1c8060bf8c",
+  "displayName": "BerezkaDepositQToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BerezkaDepositQToken",
+    "symbol": "BDQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

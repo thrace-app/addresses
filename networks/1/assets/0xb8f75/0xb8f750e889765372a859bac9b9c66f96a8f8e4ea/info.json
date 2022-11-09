@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8f750e889765372a859bac9b9c66f96a8f8e4ea",
+  "displayName": "BurnThanos",
+  "type": "TOKEN",
+  "token": {
+    "name": "BurnThanos",
+    "symbol": "BTHAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

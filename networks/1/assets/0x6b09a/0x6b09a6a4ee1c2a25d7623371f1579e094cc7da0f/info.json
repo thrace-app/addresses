@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b09a6a4ee1c2a25d7623371f1579e094cc7da0f",
+  "displayName": "GolffToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GolffToken",
+    "symbol": "GOF",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

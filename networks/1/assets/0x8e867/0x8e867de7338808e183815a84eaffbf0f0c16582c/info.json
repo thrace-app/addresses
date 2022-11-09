@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e867de7338808e183815a84eaffbf0f0c16582c",
+  "displayName": "Shiba Sender",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Sender",
+    "symbol": "QOMROCKET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

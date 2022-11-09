@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb188ba54fa07707244ab75e0e53aac9aabf88ca5",
+  "displayName": "ETHVcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETHVcoin",
+    "symbol": "ETHV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8d2130f9815afbf5aa49c1355875551cfe6e708",
+  "displayName": "ELIO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ELIO Token",
+    "symbol": "ELIO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

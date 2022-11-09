@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18e706b552f79312812793819c54b086b87cfc66",
+  "displayName": "A Duck Hunter",
+  "type": "TOKEN",
+  "token": {
+    "name": "A Duck Hunter",
+    "symbol": "QUACK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

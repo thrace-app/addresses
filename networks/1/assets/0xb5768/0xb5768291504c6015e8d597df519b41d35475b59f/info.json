@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5768291504c6015e8d597df519b41d35475b59f",
+  "displayName": "Kolcium Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kolcium Token",
+    "symbol": "Kolcium",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

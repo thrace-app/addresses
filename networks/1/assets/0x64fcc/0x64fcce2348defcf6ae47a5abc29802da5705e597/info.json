@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64fcce2348defcf6ae47a5abc29802da5705e597",
+  "displayName": "Son Of Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Son Of Doge",
+    "symbol": "SODOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

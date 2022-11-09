@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12c11da34def4c509adfe0438c0d2170006f2b87",
+  "displayName": "Pyro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pyro Token",
+    "symbol": "PYRO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

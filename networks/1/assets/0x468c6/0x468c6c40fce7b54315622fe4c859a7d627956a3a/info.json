@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x468c6c40fce7b54315622fe4c859a7d627956a3a",
+  "displayName": "MEV Rekt",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEV Rekt",
+    "symbol": "MEVREKT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

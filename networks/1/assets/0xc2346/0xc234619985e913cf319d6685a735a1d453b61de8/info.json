@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc234619985e913cf319d6685a735a1d453b61de8",
+  "displayName": "VenusRocket Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VenusRocket Token",
+    "symbol": "VENUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36f26644d69195ce74ff68644543e9c8837333c4",
+  "displayName": "KariocaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KariocaToken",
+    "symbol": "KARIOCA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x166a47c3413972360c3eb2ee7f4bceb6e1c82d47",
+  "displayName": "Ethereum Syrup",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Syrup",
+    "symbol": "ETHSYRUP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

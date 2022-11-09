@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64502b66c31977e285ea55a17b1d4a52cd427221",
+  "displayName": "SeedDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "SeedDoge",
+    "symbol": "SeedDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

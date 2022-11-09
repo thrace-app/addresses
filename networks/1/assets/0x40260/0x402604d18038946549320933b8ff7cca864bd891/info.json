@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x402604d18038946549320933b8ff7cca864bd891",
+  "displayName": "The Pirate Bay Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Pirate Bay Token",
+    "symbol": "TPB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

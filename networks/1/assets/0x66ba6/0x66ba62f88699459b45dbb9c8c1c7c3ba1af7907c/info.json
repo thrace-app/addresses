@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66ba62f88699459b45dbb9c8c1c7c3ba1af7907c",
+  "displayName": "Saitama NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Saitama NFT",
+    "symbol": "SAITNFT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

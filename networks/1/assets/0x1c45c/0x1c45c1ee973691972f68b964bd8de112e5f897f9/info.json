@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c45c1ee973691972f68b964bd8de112e5f897f9",
+  "displayName": "Roast Duck",
+  "type": "TOKEN",
+  "token": {
+    "name": "Roast Duck",
+    "symbol": "DUCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

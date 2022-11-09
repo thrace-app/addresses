@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8969a1e6cfc96912caa3d26b07ad0ccf49400fb2",
+  "displayName": "CounterCore",
+  "type": "TOKEN",
+  "token": {
+    "name": "CounterCore",
+    "symbol": "COUNTERCORE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

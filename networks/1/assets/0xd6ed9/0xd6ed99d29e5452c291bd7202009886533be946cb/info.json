@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6ed99d29e5452c291bd7202009886533be946cb",
+  "displayName": "Over The Counter",
+  "type": "TOKEN",
+  "token": {
+    "name": "Over The Counter",
+    "symbol": "OTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

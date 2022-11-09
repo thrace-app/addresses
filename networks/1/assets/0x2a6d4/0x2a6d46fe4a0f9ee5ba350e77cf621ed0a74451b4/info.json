@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a6d46fe4a0f9ee5ba350e77cf621ed0a74451b4",
+  "displayName": "Blowfish Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blowfish Token",
+    "symbol": "BFSH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

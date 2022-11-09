@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01bf2c6ff1c43135086e925ad236fa9218e4f9d2",
+  "displayName": "t.me/snake_games",
+  "type": "TOKEN",
+  "token": {
+    "name": "t.me/snake_games",
+    "symbol": "SNAKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

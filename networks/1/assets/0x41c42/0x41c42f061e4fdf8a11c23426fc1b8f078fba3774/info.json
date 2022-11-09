@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41c42f061e4fdf8a11c23426fc1b8f078fba3774",
+  "displayName": "BetFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "BetFi",
+    "symbol": "BFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

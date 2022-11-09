@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1048365c4476d28a5c7e749a7d09de4d309d3a7",
+  "displayName": "TownCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TownCoin",
+    "symbol": "TOWN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

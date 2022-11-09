@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0faa224bb361529826019cd8d0c19b2dbce4e04",
+  "displayName": "BFG Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BFG Token",
+    "symbol": "BFG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

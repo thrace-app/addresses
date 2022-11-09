@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9fc3c3f52a9b18b0e7e3893ca51cb3e640d9c2bd",
+  "displayName": "YElon Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "YElon Coin",
+    "symbol": "YELON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

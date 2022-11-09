@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1833cb56de49337b353bc65660ccd2b0fcaf91ca",
+  "displayName": "DeFiOrbit",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiOrbit",
+    "symbol": "DeORBIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

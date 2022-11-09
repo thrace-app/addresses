@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc08515d77c8e20d5957df9ad492e426020be64fe",
+  "displayName": "Non Fungible Media Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Non Fungible Media Token",
+    "symbol": "NFMToken",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

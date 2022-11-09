@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6458249db0027832142846d21e995acbc28c8c79",
+  "displayName": "FARM Reward Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FARM Reward Token",
+    "symbol": "FARM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

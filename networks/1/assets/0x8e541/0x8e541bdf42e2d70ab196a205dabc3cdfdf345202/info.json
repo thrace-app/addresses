@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e541bdf42e2d70ab196a205dabc3cdfdf345202",
+  "displayName": "TsunamiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TsunamiToken",
+    "symbol": "TSU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

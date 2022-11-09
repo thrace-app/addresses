@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x430d0537bff2066e3ea05ff947c5f7db2e2ff255",
+  "displayName": "F Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "F Token",
+    "symbol": "F",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

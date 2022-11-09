@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42d103d5576ec9d87bd4a91bee3c0688883dbc12",
+  "displayName": "paidnetwork.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "paidnetwork.com",
+    "symbol": "PAID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

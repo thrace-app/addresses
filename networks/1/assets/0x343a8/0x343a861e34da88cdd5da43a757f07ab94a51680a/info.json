@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x343a861e34da88cdd5da43a757f07ab94a51680a",
+  "displayName": "TrickOrTreat",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrickOrTreat",
+    "symbol": "ToT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

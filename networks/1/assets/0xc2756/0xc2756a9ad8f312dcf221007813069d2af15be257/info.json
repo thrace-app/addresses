@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2756a9ad8f312dcf221007813069d2af15be257",
+  "displayName": "Bear Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bear Inu",
+    "symbol": "BEAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

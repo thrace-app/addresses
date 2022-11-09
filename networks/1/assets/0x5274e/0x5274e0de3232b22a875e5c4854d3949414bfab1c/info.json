@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5274e0de3232b22a875e5c4854d3949414bfab1c",
+  "displayName": "Super Bowl Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Bowl Token",
+    "symbol": "SUPERBOWL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a86ea281097773edc70e02a7edddea6cd3bd4db",
+  "displayName": "Peasant coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Peasant coin",
+    "symbol": "PEAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

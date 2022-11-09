@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x432087c3023bcc910975c53f7b58adae98001077",
+  "displayName": "The Green Rabbit",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Green Rabbit",
+    "symbol": "GRBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

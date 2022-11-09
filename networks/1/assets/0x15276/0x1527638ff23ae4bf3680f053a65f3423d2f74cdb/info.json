@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1527638ff23ae4bf3680f053a65f3423d2f74cdb",
+  "displayName": "Ethereum Genesis Block",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Genesis Block",
+    "symbol": "ETH0",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

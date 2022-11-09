@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce6c7ce160bf46ca396d7dade78d17e1970ae0ec",
+  "displayName": "DUNECOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "DUNECOIN",
+    "symbol": "DUNECOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

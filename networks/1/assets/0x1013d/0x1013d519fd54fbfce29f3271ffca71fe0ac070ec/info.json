@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1013d519fd54fbfce29f3271ffca71fe0ac070ec",
+  "displayName": "Ever Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ever Money",
+    "symbol": "EVERMONEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

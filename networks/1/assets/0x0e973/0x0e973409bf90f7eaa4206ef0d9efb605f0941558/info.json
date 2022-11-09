@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e973409bf90f7eaa4206ef0d9efb605f0941558",
+  "displayName": "CUDOS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CUDOS Token",
+    "symbol": "CUDOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

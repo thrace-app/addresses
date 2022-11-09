@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ad6b595a6ccf4342aacbb58eb52fff98aceb0f6",
+  "displayName": "Forever Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Forever Coin",
+    "symbol": "ForEver",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

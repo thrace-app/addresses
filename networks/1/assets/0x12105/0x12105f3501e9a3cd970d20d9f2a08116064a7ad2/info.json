@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12105f3501e9a3cd970d20d9f2a08116064a7ad2",
+  "displayName": "Fetch Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fetch Inu",
+    "symbol": "FINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x724d63b9df3c8e8df1da8f64e312e3ca84077031",
+  "displayName": "Proof of Karma",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Karma",
+    "symbol": "POK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

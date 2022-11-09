@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf971b9e3ecbd38e2771e83d976c441fd8731fb5d",
+  "displayName": "MiniApeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MiniApeCoin",
+    "symbol": "MAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

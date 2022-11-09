@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe9e81cc296451e58ef2952a9c6ffeed9baab6e3",
+  "displayName": "A Risky Play",
+  "type": "TOKEN",
+  "token": {
+    "name": "A Risky Play",
+    "symbol": "REKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x198787875dd2924638bd674feb5b8170c45d170e",
+  "displayName": "Borutotoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Borutotoken",
+    "symbol": "Boruto",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

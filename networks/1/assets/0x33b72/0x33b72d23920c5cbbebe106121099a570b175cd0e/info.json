@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33b72d23920c5cbbebe106121099a570b175cd0e",
+  "displayName": "Devilo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Devilo Token",
+    "symbol": "DVT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

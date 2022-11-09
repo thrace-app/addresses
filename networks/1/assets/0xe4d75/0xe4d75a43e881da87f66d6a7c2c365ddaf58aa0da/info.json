@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4d75a43e881da87f66d6a7c2c365ddaf58aa0da",
+  "displayName": "Kardashian Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kardashian Coin",
+    "symbol": "KC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

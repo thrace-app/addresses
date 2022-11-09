@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x244473c2d56837882edb805f3fc1d18c1866d74f",
+  "displayName": "Meow Moon Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meow Moon Cat",
+    "symbol": "MEOWMOON",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

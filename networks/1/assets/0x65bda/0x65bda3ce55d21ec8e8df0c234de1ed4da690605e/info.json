@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65bda3ce55d21ec8e8df0c234de1ed4da690605e",
+  "displayName": "Guess Me",
+  "type": "TOKEN",
+  "token": {
+    "name": "Guess Me",
+    "symbol": "GM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

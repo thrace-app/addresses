@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e828ac5c480069d4765654fb4b8733b910b13b2",
+  "displayName": "Colony Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Colony Network Token",
+    "symbol": "CLNY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

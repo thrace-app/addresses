@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85b64f8ae9dd6ee20e6359797e2192179ea20e39",
+  "displayName": "joule",
+  "type": "TOKEN",
+  "token": {
+    "name": "joule",
+    "symbol": "JL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

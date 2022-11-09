@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe2eaf3fc26630c5165464ce9fca0611a1eb1e421",
+  "displayName": "Frax Share",
+  "type": "TOKEN",
+  "token": {
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

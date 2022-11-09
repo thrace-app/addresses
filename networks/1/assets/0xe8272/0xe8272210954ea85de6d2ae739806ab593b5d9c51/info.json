@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe8272210954ea85de6d2ae739806ab593b5d9c51",
+  "displayName": "Alpha5Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Alpha5Token",
+    "symbol": "A5T",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

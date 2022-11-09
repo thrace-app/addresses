@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c84656cb4c286daa16f27d8b305f1053b5a8771",
+  "displayName": "BRO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BRO Token",
+    "symbol": "BRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

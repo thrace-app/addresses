@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x881b9c3575c225000304fd72d8513a9046cdc830",
+  "displayName": "Kickass Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kickass Doge",
+    "symbol": "KADOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

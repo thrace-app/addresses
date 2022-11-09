@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5beabaebb3146685dd74176f68a0721f91297d37",
+  "displayName": "Bounce Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bounce Token",
+    "symbol": "BOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

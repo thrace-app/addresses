@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x054dbe5d19f8edb36eac3f84eceb51e5fc645a97",
+  "displayName": "FRE TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "FRE TOKEN",
+    "symbol": "FRE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

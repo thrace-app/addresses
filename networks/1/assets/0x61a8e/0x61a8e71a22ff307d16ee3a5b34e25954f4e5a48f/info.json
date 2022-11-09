@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61a8e71a22ff307d16ee3a5b34e25954f4e5a48f",
+  "displayName": "PhoSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "PhoSwap",
+    "symbol": "PHO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

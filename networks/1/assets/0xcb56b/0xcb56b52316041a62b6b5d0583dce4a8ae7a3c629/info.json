@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb56b52316041a62b6b5d0583dce4a8ae7a3c629",
+  "displayName": "Cigarette Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cigarette Token",
+    "symbol": "CIG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

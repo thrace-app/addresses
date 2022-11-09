@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7bd198b9107496fd5cc3d7655af52f43a8edbc4c",
+  "displayName": "oneVBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "oneVBTC",
+    "symbol": "oneVBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

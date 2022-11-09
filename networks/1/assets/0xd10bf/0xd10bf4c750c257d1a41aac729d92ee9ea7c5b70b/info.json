@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd10bf4c750c257d1a41aac729d92ee9ea7c5b70b",
+  "displayName": "P5 Gaming Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "P5 Gaming Token",
+    "symbol": "P5T",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

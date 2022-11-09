@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5dc1c7d6dbbb3de99d7c41407e507868090fc2a1",
+  "displayName": "KanaKoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KanaKoin",
+    "symbol": "KANA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

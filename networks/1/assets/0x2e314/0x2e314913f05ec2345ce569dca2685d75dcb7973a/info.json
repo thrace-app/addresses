@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e314913f05ec2345ce569dca2685d75dcb7973a",
+  "displayName": "Exotic Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Exotic Swap",
+    "symbol": "EXOTIC",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

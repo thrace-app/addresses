@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x94fdb232f64da8f13a3f631229e4ca9b50f1b258",
+  "displayName": "Hoge Reincarnated",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hoge Reincarnated",
+    "symbol": "HOGER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

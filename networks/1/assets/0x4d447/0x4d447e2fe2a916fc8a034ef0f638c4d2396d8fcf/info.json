@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d447e2fe2a916fc8a034ef0f638c4d2396d8fcf",
+  "displayName": "ratio",
+  "type": "TOKEN",
+  "token": {
+    "name": "ratio",
+    "symbol": "RATIO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

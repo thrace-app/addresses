@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde7fa6d0b7e89abe968610d39a5f378782a77946",
+  "displayName": "Kurwa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kurwa Token",
+    "symbol": "KURWA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

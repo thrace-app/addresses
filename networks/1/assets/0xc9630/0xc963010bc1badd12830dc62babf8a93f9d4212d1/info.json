@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc963010bc1badd12830dc62babf8a93f9d4212d1",
+  "displayName": "COREGEM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "COREGEM Token",
+    "symbol": "CGM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

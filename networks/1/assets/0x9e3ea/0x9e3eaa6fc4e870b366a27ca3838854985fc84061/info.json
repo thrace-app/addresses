@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e3eaa6fc4e870b366a27ca3838854985fc84061",
+  "displayName": "ccc token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ccc token",
+    "symbol": "ccc",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20e4ca84d4ab633cf962c364e24c010fbb4126f8",
+  "displayName": "UFO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UFO Token",
+    "symbol": "UFO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

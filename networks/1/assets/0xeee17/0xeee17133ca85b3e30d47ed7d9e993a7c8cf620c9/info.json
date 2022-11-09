@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeee17133ca85b3e30d47ed7d9e993a7c8cf620c9",
+  "displayName": "The First Hunter",
+  "type": "TOKEN",
+  "token": {
+    "name": "The First Hunter",
+    "symbol": "FOE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

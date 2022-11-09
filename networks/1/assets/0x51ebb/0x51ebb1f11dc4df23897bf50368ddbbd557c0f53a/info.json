@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51ebb1f11dc4df23897bf50368ddbbd557c0f53a",
+  "displayName": "DIDI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DIDI Token",
+    "symbol": "DIDI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5815555b1907d5d643862e0034cb31e517e4435c",
+  "displayName": "Mona Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mona Gold",
+    "symbol": "Mona Gold",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

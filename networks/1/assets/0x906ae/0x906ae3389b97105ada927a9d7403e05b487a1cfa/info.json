@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x906ae3389b97105ada927a9d7403e05b487a1cfa",
+  "displayName": "ZMint Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZMint Token",
+    "symbol": "ZMINT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

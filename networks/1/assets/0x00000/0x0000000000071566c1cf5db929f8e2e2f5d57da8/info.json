@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0000000000071566c1cf5db929f8e2e2f5d57da8",
+  "displayName": "UOU",
+  "type": "TOKEN",
+  "token": {
+    "name": "UOU",
+    "symbol": "UOU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

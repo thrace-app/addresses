@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15698bef1848fe6cb228075ebdeef34595c1a90a",
+  "displayName": "ProofOfSteak",
+  "type": "TOKEN",
+  "token": {
+    "name": "ProofOfSteak",
+    "symbol": "Steak",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

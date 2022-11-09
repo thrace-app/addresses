@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b3f95938958a4029fa8b01873e2721b02950883",
+  "displayName": "CardSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "CardSwap",
+    "symbol": "CSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

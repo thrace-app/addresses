@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81c159f7abaa9139227aff62959b86b4141f6eb2",
+  "displayName": "Elon's Marvin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon's Marvin",
+    "symbol": "MARVIN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3de7148c41e3b3233f3310e794f68d8e70ca69af",
+  "displayName": "ShibaLink",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShibaLink",
+    "symbol": "SLINK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

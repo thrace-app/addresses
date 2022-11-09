@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc26e56b5ecd53fe7bce1c3cf6819f1da1818c4c",
+  "displayName": "NFT20 CryptoCrystal",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT20 CryptoCrystal",
+    "symbol": "CryptoCrystal20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc9444d31a580d35a951f77b36f0de073dac69316",
+  "displayName": "DeFi Plaza governance token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi Plaza governance token",
+    "symbol": "DFP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

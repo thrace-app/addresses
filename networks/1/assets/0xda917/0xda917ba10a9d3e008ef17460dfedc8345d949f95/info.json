@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda917ba10a9d3e008ef17460dfedc8345d949f95",
+  "displayName": "DragonFruit",
+  "type": "TOKEN",
+  "token": {
+    "name": "DragonFruit",
+    "symbol": "DFU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

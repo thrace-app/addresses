@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d78d138669d6d35e2d8cbe0c197328ce36ab77f",
+  "displayName": "Baba Yaga",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baba Yaga",
+    "symbol": "YAGA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

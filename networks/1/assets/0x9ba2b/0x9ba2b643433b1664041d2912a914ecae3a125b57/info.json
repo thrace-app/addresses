@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ba2b643433b1664041d2912a914ecae3a125b57",
+  "displayName": "EthereumExodia",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumExodia",
+    "symbol": "eEXO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9abc56ecc174d34676f14380e57c530410384593",
+  "displayName": "Kura Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kura Cat",
+    "symbol": "KURA",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

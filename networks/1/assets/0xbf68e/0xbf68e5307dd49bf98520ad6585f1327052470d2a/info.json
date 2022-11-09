@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf68e5307dd49bf98520ad6585f1327052470d2a",
+  "displayName": "Hipper Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hipper Token",
+    "symbol": "Hipper",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

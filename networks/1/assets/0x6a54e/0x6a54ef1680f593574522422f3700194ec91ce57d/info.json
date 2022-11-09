@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a54ef1680f593574522422f3700194ec91ce57d",
+  "displayName": "PooTogether Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PooTogether Token",
+    "symbol": "POO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

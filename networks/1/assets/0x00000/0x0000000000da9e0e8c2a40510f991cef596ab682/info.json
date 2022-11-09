@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0000000000da9e0e8c2a40510f991cef596ab682",
+  "displayName": "Frax Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Frax Ether",
+    "symbol": "frxETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

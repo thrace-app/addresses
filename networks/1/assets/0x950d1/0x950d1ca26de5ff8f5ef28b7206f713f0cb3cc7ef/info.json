@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x950d1ca26de5ff8f5ef28b7206f713f0cb3cc7ef",
+  "displayName": "Global Staking Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Global Staking Token",
+    "symbol": "GST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

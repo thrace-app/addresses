@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa45db5126631c95eb7dbe4741775628b8f6a70f7",
+  "displayName": "SolanaSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "SolanaSwap",
+    "symbol": "SOSW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

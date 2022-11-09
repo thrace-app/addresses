@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b06270472ea90aa5cb20a6e78be541d65ea8ff2",
+  "displayName": "Yearn Loans Stake",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn Loans Stake",
+    "symbol": "YLS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

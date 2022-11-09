@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26d5ebc81ec1a2cf09464fc210a655bfcfac41ac",
+  "displayName": "UniEuro",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniEuro",
+    "symbol": "EUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

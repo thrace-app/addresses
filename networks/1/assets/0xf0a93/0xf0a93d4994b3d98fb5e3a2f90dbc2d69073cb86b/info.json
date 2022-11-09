@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0a93d4994b3d98fb5e3a2f90dbc2d69073cb86b",
+  "displayName": "PWRD Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PWRD Stablecoin",
+    "symbol": "PWRD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

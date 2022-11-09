@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf89694775a4867d7eee145250a3536aa716413c4",
+  "displayName": "Art World Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Art World Token",
+    "symbol": "ARTSY",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

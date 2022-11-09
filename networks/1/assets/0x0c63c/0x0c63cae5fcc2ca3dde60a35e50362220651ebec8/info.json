@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c63cae5fcc2ca3dde60a35e50362220651ebec8",
+  "displayName": "stakedXEM",
+  "type": "TOKEN",
+  "token": {
+    "name": "stakedXEM",
+    "symbol": "stXEM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

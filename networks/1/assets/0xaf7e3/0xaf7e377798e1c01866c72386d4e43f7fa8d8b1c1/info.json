@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf7e377798e1c01866c72386d4e43f7fa8d8b1c1",
+  "displayName": "Flashbots Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flashbots Token",
+    "symbol": "FLASHBOTS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

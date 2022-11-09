@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x252e0a721d7fdae84c4d268f0d9d19ea7ae8adf8",
+  "displayName": "BLP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BLP Token",
+    "symbol": "BLP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x28ed4fd6dedb226b16b92ce6997f7cdfdf0c519b",
+  "displayName": "Scotcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Scotcoin",
+    "symbol": "SCOT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

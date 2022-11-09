@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a162b56ec198c8310aef1f40c9601e5f40d8542",
+  "displayName": "Ethereum London",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum London",
+    "symbol": "EIP 1559",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea5edef1287afdf9eb8a46f9773abfc10820c61c",
+  "displayName": "Ease Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ease Token",
+    "symbol": "EASE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

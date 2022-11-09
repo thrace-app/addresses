@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20d9d87bee835e36dbe5142de60c0dbfdb4e07b8",
+  "displayName": "MoonSucidalToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonSucidalToken",
+    "symbol": "MST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38d58b82cb24a3e0410a7991f255174c9fd8093b",
+  "displayName": "TealToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TealToken",
+    "symbol": "TEAT",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

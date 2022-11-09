@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacc6c1d817187cd46696a408d1fc78229dd9cfab",
+  "displayName": "CockCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CockCoin",
+    "symbol": "COCK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

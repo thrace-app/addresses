@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83284cbe36cd9e3b9b7229aa6517671456810311",
+  "displayName": "Teh Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Teh Bank",
+    "symbol": "TBANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

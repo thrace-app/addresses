@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ded97cd60f248e0948675c3955dbcc8058ae06b",
+  "displayName": "Maximus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Maximus Token",
+    "symbol": "MAXIMUS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

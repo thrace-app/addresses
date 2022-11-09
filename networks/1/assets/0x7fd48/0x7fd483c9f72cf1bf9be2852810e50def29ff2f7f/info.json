@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fd483c9f72cf1bf9be2852810e50def29ff2f7f",
+  "displayName": "CotteToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CotteToken",
+    "symbol": "CTO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c3113c961cce62bac16c309286889f4362b94dc",
+  "displayName": "MarginlyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MarginlyToken",
+    "symbol": "MGN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

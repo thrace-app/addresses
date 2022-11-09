@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x082b61c1bed72e3394d351e63b4c04df0a8fe6ca",
+  "displayName": "HomeRun Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HomeRun Token",
+    "symbol": "HMRN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

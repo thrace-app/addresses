@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4188ebfed21ac63c4e38dc0e184cc8ed00de1a39",
+  "displayName": "Milkium Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Milkium Token",
+    "symbol": "Milkium",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

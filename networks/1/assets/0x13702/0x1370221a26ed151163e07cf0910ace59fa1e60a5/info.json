@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1370221a26ed151163e07cf0910ace59fa1e60a5",
+  "displayName": "Falcon Heavy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Falcon Heavy",
+    "symbol": "Falcon",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

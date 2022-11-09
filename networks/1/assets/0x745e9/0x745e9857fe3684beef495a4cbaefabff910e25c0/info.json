@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x745e9857fe3684beef495a4cbaefabff910e25c0",
+  "displayName": "The cursed samurai",
+  "type": "TOKEN",
+  "token": {
+    "name": "The cursed samurai",
+    "symbol": "HYAKKIMARU",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

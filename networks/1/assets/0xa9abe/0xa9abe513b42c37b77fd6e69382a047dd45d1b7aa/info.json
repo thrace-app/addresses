@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa9abe513b42c37b77fd6e69382a047dd45d1b7aa",
+  "displayName": "Bitcoin Classic",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Classic",
+    "symbol": "BTCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

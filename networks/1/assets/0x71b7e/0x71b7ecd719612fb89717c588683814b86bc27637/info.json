@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71b7ecd719612fb89717c588683814b86bc27637",
+  "displayName": "Wrapped AMC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped AMC",
+    "symbol": "AMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

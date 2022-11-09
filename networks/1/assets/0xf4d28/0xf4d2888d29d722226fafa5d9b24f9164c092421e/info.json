@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4d2888d29d722226fafa5d9b24f9164c092421e",
+  "displayName": "LooksRare Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LooksRare Token",
+    "symbol": "LOOKS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

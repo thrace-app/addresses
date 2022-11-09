@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7740de61d256034b520938cd08b928f061fd0f9c",
+  "displayName": "Yama Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yama Token",
+    "symbol": "YAMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

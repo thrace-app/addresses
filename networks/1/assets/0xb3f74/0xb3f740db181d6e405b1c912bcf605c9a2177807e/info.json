@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3f740db181d6e405b1c912bcf605c9a2177807e",
+  "displayName": "PeopleUtilityToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PeopleUtilityToken",
+    "symbol": "PUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

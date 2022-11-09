@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb21e4dfefcbd0cc5c39883ca69414510607ff9b",
+  "displayName": "Feex Exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "Feex Exchange",
+    "symbol": "FEEX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

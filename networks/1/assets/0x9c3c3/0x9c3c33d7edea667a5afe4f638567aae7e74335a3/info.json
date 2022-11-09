@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c3c33d7edea667a5afe4f638567aae7e74335a3",
+  "displayName": "Rock inu token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rock inu token",
+    "symbol": "ROCKINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

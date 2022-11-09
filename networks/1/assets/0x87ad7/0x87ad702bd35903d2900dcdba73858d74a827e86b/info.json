@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87ad702bd35903d2900dcdba73858d74a827e86b",
+  "displayName": "Neptune",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neptune",
+    "symbol": "NEP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

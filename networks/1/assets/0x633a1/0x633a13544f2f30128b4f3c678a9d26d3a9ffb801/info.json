@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x633a13544f2f30128b4f3c678a9d26d3a9ffb801",
+  "displayName": "D-Coins",
+  "type": "TOKEN",
+  "token": {
+    "name": "D-Coins",
+    "symbol": "DCOIN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

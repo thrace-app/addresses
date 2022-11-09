@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x086e7db0d2ef979d57c92ef1450be9539aa082aa",
+  "displayName": "eMONERO",
+  "type": "TOKEN",
+  "token": {
+    "name": "eMONERO",
+    "symbol": "MNRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

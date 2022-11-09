@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0121f401aed32ab128d3c3f9acf0013e5899388e",
+  "displayName": "Memereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Memereum",
+    "symbol": "MEME",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

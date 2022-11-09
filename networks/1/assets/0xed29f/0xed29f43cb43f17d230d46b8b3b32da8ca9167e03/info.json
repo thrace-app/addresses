@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed29f43cb43f17d230d46b8b3b32da8ca9167e03",
+  "displayName": "Ryoshi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ryoshi Token",
+    "symbol": "Ryoshi Token",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

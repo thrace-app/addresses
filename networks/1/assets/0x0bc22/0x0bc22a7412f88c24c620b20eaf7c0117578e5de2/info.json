@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0bc22a7412f88c24c620b20eaf7c0117578e5de2",
+  "displayName": "CosmosDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "CosmosDAO",
+    "symbol": "COSMOS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

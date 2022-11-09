@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x999883f05e9f36cebc7860c7d80fd42a22c76916",
+  "displayName": "Watam Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Watam Token",
+    "symbol": "Watam",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

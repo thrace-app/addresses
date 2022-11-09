@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6618ddc12a5de58443bee9deafdebec1a6141918",
+  "displayName": "With Blockchain Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "With Blockchain Coin",
+    "symbol": "WBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

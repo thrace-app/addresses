@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x456b59cf721702142e39813a7bd46a41a644d788",
+  "displayName": "Parody Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Parody Protocol",
+    "symbol": "PP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

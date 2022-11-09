@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d16cf3ec5f763d4d99cb0b0b110eefd93b11b56",
+  "displayName": "Synth sOIL",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth sOIL",
+    "symbol": "sOIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

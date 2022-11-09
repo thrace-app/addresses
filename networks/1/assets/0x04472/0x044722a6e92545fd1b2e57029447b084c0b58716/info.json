@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x044722a6e92545fd1b2e57029447b084c0b58716",
+  "displayName": "Dont buy More Than One Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dont buy More Than One Token",
+    "symbol": "BUYONE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

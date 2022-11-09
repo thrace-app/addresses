@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4309d07f597dda7e0817fab958a61742947c4262",
+  "displayName": "MondayMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "MondayMoon",
+    "symbol": "MM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x334cbb5858417aee161b53ee0d5349ccf54514cf",
+  "displayName": "PoolTogether Dai Ticket (Compound)",
+  "type": "TOKEN",
+  "token": {
+    "name": "PoolTogether Dai Ticket (Compound)",
+    "symbol": "PcDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

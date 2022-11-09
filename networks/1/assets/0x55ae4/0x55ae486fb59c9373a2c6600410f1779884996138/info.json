@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55ae486fb59c9373a2c6600410f1779884996138",
+  "displayName": "Brownie Points",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brownie Points",
+    "symbol": "BPTS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

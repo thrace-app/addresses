@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdda89c20fac2838e9af2bb5f82d416ed5219ee50",
+  "displayName": "AGToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AGToken",
+    "symbol": "AGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

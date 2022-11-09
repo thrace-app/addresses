@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ddf55c9094d4eac93bcb08c26a10e6d996f86d0",
+  "displayName": "GDEX TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "GDEX TOKEN",
+    "symbol": "GDX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

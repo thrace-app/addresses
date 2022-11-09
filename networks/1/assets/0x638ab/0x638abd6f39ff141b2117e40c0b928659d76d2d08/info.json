@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x638abd6f39ff141b2117e40c0b928659d76d2d08",
+  "displayName": "GBCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GBCoin",
+    "symbol": "GBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

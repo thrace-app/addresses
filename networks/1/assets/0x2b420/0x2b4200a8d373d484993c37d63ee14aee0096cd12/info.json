@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b4200a8d373d484993c37d63ee14aee0096cd12",
+  "displayName": "USDFreeLiquidity",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDFreeLiquidity",
+    "symbol": "USDFL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

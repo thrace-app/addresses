@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73d16546e92cd4f8ebbf3b2d97be76eedb7d2e4d",
+  "displayName": "The Tokenized Ethereum Classic",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Tokenized Ethereum Classic",
+    "symbol": "imETC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

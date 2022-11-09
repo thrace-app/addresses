@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c59783de2a7a8b6b3913d4412d7aadee421356b",
+  "displayName": "Don Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Don Coin",
+    "symbol": "DON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

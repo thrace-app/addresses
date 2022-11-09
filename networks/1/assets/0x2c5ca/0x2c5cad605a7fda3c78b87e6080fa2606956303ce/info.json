@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c5cad605a7fda3c78b87e6080fa2606956303ce",
+  "displayName": "Doge Binance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Binance",
+    "symbol": "DOGEBNB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

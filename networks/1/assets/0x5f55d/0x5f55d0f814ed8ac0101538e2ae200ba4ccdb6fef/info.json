@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f55d0f814ed8ac0101538e2ae200ba4ccdb6fef",
+  "displayName": "OPENPAY",
+  "type": "TOKEN",
+  "token": {
+    "name": "OPENPAY",
+    "symbol": "OPY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

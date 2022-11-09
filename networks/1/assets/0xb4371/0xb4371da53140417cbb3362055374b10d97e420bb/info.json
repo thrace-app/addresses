@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4371da53140417cbb3362055374b10d97e420bb",
+  "displayName": "Switcheo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Switcheo Token",
+    "symbol": "SWTH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

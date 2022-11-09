@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67f377f3290b4824b1dd4d1c5ede3124703f55be",
+  "displayName": "MyDelivery",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyDelivery",
+    "symbol": "MYD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

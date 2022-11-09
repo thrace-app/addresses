@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x030ba81f1c18d280636f32af80b9aad02cf0854e",
+  "displayName": "Aave interest bearing WETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave interest bearing WETH",
+    "symbol": "aWETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

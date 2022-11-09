@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05451e77373fb76da213ba8c38a15c83c9b4f8d6",
+  "displayName": "String Cheese Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "String Cheese Token",
+    "symbol": "STRINGY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x530584d4e182fda14e518a5e8c10bff3a7b0aa48",
+  "displayName": "Dropbox Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dropbox Token",
+    "symbol": "Dropbox",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a11911821c3c3d0006e18d9b7ab2e1dd641a92a",
+  "displayName": "PAUSABLE TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "PAUSABLE TOKEN",
+    "symbol": "PAUSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

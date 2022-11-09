@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78230e69d6e6449db1e11904e0bd81c018454d7a",
+  "displayName": "LeapToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LeapToken",
+    "symbol": "LEAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

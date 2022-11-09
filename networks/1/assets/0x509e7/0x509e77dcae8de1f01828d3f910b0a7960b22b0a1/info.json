@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x509e77dcae8de1f01828d3f910b0a7960b22b0a1",
+  "displayName": "YFI Tokens Index",
+  "type": "TOKEN",
+  "token": {
+    "name": "YFI Tokens Index",
+    "symbol": "YFINDEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

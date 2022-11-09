@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55d82432ca863de4d6a90143d90e32e84a67e357",
+  "displayName": "Cyndaquil Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cyndaquil Token",
+    "symbol": "Cyndaquil",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

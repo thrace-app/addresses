@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd46fe4101ab13a37c87e9a7533bafc223d9eb284",
+  "displayName": "Flaming Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flaming Doge",
+    "symbol": "FDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

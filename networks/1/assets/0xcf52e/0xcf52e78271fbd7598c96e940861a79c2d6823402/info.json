@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcf52e78271fbd7598c96e940861a79c2d6823402",
+  "displayName": "ZilCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZilCoin",
+    "symbol": "ZRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

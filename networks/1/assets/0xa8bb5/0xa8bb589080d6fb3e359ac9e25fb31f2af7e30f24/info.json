@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa8bb589080d6fb3e359ac9e25fb31f2af7e30f24",
+  "displayName": "STMcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "STMcoin",
+    "symbol": "STM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

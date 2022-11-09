@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x379e5f3eab1b05f3811519907b36b8e04fe3a897",
+  "displayName": "IMCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "IMCoin",
+    "symbol": "IMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

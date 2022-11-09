@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22585c163b353510e8fef984c02609302eb5fc62",
+  "displayName": "The Reaper",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Reaper",
+    "symbol": "REAP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

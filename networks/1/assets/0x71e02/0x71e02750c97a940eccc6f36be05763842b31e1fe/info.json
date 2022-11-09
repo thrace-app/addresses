@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71e02750c97a940eccc6f36be05763842b31e1fe",
+  "displayName": "SENDCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "SENDCOIN",
+    "symbol": "NELK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

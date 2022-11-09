@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd814506c9d9c2210a4bb5123dc87f9d956212395",
+  "displayName": "The Flying Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Flying Doge",
+    "symbol": "FLYDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

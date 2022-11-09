@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecdba4580d3bdcfcd7395908b6e5bb001575d046",
+  "displayName": "APELON Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "APELON Token",
+    "symbol": "APELON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

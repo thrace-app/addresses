@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb728bfbf4f59293cc2405587d6e993f016e58159",
+  "displayName": "LaMove Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LaMove Token",
+    "symbol": "LaMove",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

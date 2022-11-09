@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa66d09bce909ff5158f760b004bd8d42fa69195",
+  "displayName": "CGD",
+  "type": "TOKEN",
+  "token": {
+    "name": "CGD",
+    "symbol": "CGD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

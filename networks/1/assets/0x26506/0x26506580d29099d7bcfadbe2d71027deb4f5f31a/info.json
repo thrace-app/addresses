@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26506580d29099d7bcfadbe2d71027deb4f5f31a",
+  "displayName": "AD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AD Token",
+    "symbol": "AD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

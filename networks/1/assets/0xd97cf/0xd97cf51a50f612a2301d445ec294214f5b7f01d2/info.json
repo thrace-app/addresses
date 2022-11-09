@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd97cf51a50f612a2301d445ec294214f5b7f01d2",
+  "displayName": "Coe Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coe Token",
+    "symbol": "COE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

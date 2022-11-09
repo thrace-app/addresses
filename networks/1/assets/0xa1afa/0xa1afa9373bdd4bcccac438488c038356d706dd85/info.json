@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1afa9373bdd4bcccac438488c038356d706dd85",
+  "displayName": "Fungus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fungus",
+    "symbol": "FUNGUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

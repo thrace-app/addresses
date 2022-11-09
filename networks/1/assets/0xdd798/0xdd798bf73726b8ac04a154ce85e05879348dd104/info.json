@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd798bf73726b8ac04a154ce85e05879348dd104",
+  "displayName": "Elon Ninja",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Ninja",
+    "symbol": "ELONINJA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

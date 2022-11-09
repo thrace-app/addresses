@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x877580c2fbf06f6785b8804db2c36fa1adb7357c",
+  "displayName": "MTGOX",
+  "type": "TOKEN",
+  "token": {
+    "name": "MTGOX",
+    "symbol": "MTGOX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

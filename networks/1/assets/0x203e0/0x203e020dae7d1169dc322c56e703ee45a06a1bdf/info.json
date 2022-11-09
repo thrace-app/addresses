@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x203e020dae7d1169dc322c56e703ee45a06a1bdf",
+  "displayName": "Grilled Cheese Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grilled Cheese Token",
+    "symbol": "GCT 🥪",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac964cdabd19ef35a0812c5285da7faee2b01bf2",
+  "displayName": "New Years Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Years Coin",
+    "symbol": "NYC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

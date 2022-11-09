@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce3f6f6672616c39d8b6858f8dac9902eca42c84",
+  "displayName": "DAO1",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAO1",
+    "symbol": "DAO1",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

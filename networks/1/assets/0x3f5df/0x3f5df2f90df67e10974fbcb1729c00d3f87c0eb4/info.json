@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f5df2f90df67e10974fbcb1729c00d3f87c0eb4",
+  "displayName": "ShinCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShinCoin",
+    "symbol": "SCOIN",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

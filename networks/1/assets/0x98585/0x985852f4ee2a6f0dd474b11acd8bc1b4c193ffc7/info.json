@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x985852f4ee2a6f0dd474b11acd8bc1b4c193ffc7",
+  "displayName": "PI Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "PI Cash",
+    "symbol": "PIH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

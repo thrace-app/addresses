@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e7bd538c342c787617e87960da9fdfd384c02f1",
+  "displayName": "Proof Of Gem",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof Of Gem",
+    "symbol": "POG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

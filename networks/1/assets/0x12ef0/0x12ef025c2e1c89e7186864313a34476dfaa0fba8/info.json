@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12ef025c2e1c89e7186864313a34476dfaa0fba8",
+  "displayName": "Designer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Designer Token",
+    "symbol": "Designer",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

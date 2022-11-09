@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ba367acac0c42ef0a6572ecdc8021af02d42be5",
+  "displayName": "Wrapped Optimism Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Optimism Token",
+    "symbol": "OP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

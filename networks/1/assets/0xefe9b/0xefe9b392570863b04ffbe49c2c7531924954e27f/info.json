@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xefe9b392570863b04ffbe49c2c7531924954e27f",
+  "displayName": "HotPot Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HotPot Token",
+    "symbol": "HotPot",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

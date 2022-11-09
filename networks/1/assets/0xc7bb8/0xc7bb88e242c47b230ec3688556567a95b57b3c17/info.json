@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7bb88e242c47b230ec3688556567a95b57b3c17",
+  "displayName": "Cross-Asset Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cross-Asset Swap",
+    "symbol": "yCAS",
+    "decimals": 7,
+    "type": "ERC20"
+  }
+}

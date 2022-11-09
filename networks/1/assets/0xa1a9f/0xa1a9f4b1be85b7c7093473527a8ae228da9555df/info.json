@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1a9f4b1be85b7c7093473527a8ae228da9555df",
+  "displayName": "ZSU Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZSU Token",
+    "symbol": "ZSU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

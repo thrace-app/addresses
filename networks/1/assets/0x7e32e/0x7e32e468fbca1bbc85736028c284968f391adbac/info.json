@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e32e468fbca1bbc85736028c284968f391adbac",
+  "displayName": "Battle Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Battle Token",
+    "symbol": "BATT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac18f0e956fd78ca44fa52909bbe05a1cf137dd4",
+  "displayName": "cosmcoin.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "cosmcoin.com",
+    "symbol": "COSM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

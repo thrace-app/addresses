@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7c93563c2b8a1f42dfc1c82c3ac0cec6199e5d4",
+  "displayName": "Bit2Me Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bit2Me Token",
+    "symbol": "B2M",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

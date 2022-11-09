@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x260df160d6554e6a05619f2e9188c119b3e35f1e",
+  "displayName": "HLTH Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HLTH Token",
+    "symbol": "HLTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73bdb33352288132bda4226d67a74ae4cd171627",
+  "displayName": "EthGuardian",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthGuardian",
+    "symbol": "Guardian",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

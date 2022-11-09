@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbfc0d2aa93b73b59bb2324f38a630fcfd5aea9ff",
+  "displayName": "Dozer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dozer Token",
+    "symbol": "DOZER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe661493a2f94cca7f0a7c0566290f9c12e69bd52",
+  "displayName": "testus",
+  "type": "TOKEN",
+  "token": {
+    "name": "testus",
+    "symbol": "US",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

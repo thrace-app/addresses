@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf812281dd2689d71f78d155f97b84eafaa683906",
+  "displayName": "Captain America",
+  "type": "TOKEN",
+  "token": {
+    "name": "Captain America",
+    "symbol": "CA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

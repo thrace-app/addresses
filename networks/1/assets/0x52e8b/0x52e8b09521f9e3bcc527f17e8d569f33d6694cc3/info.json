@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52e8b09521f9e3bcc527f17e8d569f33d6694cc3",
+  "displayName": "Riot Points Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Riot Points Token",
+    "symbol": "RIOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

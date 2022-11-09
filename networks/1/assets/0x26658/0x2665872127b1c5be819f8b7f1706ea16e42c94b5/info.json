@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2665872127b1c5be819f8b7f1706ea16e42c94b5",
+  "displayName": "Proof of Monkeys",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Monkeys",
+    "symbol": "MPOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4104b135dbc9609fc1a9490e61369036497660c8",
+  "displayName": "APWine Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "APWine Token",
+    "symbol": "APW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

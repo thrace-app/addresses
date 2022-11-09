@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82515f49309101999dbb7113971e2188e1d7a4ee",
+  "displayName": "ElonMuskToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ElonMuskToken",
+    "symbol": "ERM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

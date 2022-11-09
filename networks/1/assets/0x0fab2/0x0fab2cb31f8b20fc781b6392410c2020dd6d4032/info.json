@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0fab2cb31f8b20fc781b6392410c2020dd6d4032",
+  "displayName": "HexKatz Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "HexKatz Coin",
+    "symbol": "HKATZ",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

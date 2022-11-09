@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb791a875ea4836a9ec16cdcf4f747c0b9ca47c7d",
+  "displayName": "Virtual Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Virtual Dollar",
+    "symbol": "DV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

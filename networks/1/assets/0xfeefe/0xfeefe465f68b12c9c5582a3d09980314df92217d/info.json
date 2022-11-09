@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfeefe465f68b12c9c5582a3d09980314df92217d",
+  "displayName": "Fillcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fillcoin",
+    "symbol": "FILL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

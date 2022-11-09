@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x611bafa32c484143d4d07a16975006f917bd360a",
+  "displayName": "Polkadot",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

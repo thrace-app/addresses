@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x280859197658dbff6f7751487157f14ac62def03",
+  "displayName": "EtherField",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherField",
+    "symbol": "eField",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

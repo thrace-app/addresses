@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9bc7192c77ed55e5cca8f927de1391c5bc84428a",
+  "displayName": "Finpools Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Finpools Token",
+    "symbol": "FIPO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

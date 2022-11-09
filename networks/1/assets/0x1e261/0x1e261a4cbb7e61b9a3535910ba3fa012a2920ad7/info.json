@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e261a4cbb7e61b9a3535910ba3fa012a2920ad7",
+  "displayName": "StarStream",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarStream",
+    "symbol": "STARS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

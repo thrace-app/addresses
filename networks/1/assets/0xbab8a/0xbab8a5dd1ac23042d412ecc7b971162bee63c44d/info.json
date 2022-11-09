@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbab8a5dd1ac23042d412ecc7b971162bee63c44d",
+  "displayName": "Take The Yield",
+  "type": "TOKEN",
+  "token": {
+    "name": "Take The Yield",
+    "symbol": "TTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

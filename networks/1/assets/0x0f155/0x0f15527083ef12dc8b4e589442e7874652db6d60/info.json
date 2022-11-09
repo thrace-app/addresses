@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f15527083ef12dc8b4e589442e7874652db6d60",
+  "displayName": "Tax Free",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tax Free",
+    "symbol": "NOTAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

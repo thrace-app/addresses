@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26721ea18b09c864da573d9b99961fb0b0ee7c35",
+  "displayName": "EthereumPay",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumPay",
+    "symbol": "ETHPAY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

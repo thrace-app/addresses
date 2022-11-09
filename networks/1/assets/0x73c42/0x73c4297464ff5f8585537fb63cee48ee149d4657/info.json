@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73c4297464ff5f8585537fb63cee48ee149d4657",
+  "displayName": "Egod Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Egod Token",
+    "symbol": "Egod",
+    "decimals": 1,
+    "type": "ERC20"
+  }
+}

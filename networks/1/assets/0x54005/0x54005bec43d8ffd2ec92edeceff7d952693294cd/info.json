@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x54005bec43d8ffd2ec92edeceff7d952693294cd",
+  "displayName": "Spaceships Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spaceships Coin",
+    "symbol": "SPSX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

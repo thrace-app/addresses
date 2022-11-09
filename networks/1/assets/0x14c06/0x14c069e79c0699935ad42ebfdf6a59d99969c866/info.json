@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14c069e79c0699935ad42ebfdf6a59d99969c866",
+  "displayName": "KUMA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KUMA Token",
+    "symbol": "KUMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

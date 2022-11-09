@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a96e767bfcce8e80370be00821ed5ba283d4a17",
+  "displayName": "GOGO Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GOGO Finance Token",
+    "symbol": "GOGO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

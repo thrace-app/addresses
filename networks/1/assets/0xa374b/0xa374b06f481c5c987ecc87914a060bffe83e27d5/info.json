@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa374b06f481c5c987ecc87914a060bffe83e27d5",
+  "displayName": "B2O Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "B2O Token",
+    "symbol": "B2O",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

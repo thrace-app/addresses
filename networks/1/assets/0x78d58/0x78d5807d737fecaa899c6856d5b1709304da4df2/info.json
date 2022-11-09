@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78d5807d737fecaa899c6856d5b1709304da4df2",
+  "displayName": "AuszCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AuszCoin",
+    "symbol": "AZC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

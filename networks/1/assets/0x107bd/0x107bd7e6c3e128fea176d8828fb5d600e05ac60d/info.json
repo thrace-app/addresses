@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x107bd7e6c3e128fea176d8828fb5d600e05ac60d",
+  "displayName": "BigBang Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BigBang Token",
+    "symbol": "BIBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

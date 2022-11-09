@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x952e72dbfa10c7de115dd8a82817c885633044c6",
+  "displayName": "OracleSwapToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "OracleSwapToken",
+    "symbol": "OSW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

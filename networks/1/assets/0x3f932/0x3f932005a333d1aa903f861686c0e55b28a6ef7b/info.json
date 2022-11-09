@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f932005a333d1aa903f861686c0e55b28a6ef7b",
+  "displayName": "Wallet X",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wallet X",
+    "symbol": "WALLETX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

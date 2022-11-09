@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12850c93add7cef8b12188cda55d99f7a044a1b5",
+  "displayName": "Degenerated Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degenerated Finance Token",
+    "symbol": "DEGENFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

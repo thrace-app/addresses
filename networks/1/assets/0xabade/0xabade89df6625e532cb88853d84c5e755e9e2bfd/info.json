@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabade89df6625e532cb88853d84c5e755e9e2bfd",
+  "displayName": "BlueChip Capital Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlueChip Capital Token",
+    "symbol": "BCC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

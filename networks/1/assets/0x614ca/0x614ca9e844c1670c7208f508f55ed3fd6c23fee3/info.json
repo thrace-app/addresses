@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x614ca9e844c1670c7208f508f55ed3fd6c23fee3",
+  "displayName": "Chuck E Cheese",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chuck E Cheese",
+    "symbol": "CHUCKECHEESE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

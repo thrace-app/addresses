@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84d4afe150da7ea1165b9e45ff8ee4798d7c38da",
+  "displayName": "DMM: USDT",
+  "type": "TOKEN",
+  "token": {
+    "name": "DMM: USDT",
+    "symbol": "mUSDT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

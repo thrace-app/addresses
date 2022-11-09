@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf25fecb1920cf4d41d1c439da2a51241625ceac9",
+  "displayName": "RickAndMorty",
+  "type": "TOKEN",
+  "token": {
+    "name": "RickAndMorty",
+    "symbol": "$RICKMORTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

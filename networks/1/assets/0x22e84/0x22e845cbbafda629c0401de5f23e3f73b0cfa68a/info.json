@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22e845cbbafda629c0401de5f23e3f73b0cfa68a",
+  "displayName": "BAYC Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BAYC Token",
+    "symbol": "BAYC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

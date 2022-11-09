@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef7e0f278b149feab9ba6c98ecebcfc449d47d02",
+  "displayName": "Shift Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shift Token",
+    "symbol": "STC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

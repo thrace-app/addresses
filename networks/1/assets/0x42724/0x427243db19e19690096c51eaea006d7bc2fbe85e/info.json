@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x427243db19e19690096c51eaea006d7bc2fbe85e",
+  "displayName": "BabyUSDT",
+  "type": "TOKEN",
+  "token": {
+    "name": "BabyUSDT",
+    "symbol": "BUSDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

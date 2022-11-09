@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24b089d04e1757143012317f270225502436aae0",
+  "displayName": "The Saitama Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Saitama Protocol",
+    "symbol": "TSP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

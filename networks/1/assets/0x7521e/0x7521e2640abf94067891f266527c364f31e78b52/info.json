@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7521e2640abf94067891f266527c364f31e78b52",
+  "displayName": "Birds Peep",
+  "type": "TOKEN",
+  "token": {
+    "name": "Birds Peep",
+    "symbol": "PEEP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

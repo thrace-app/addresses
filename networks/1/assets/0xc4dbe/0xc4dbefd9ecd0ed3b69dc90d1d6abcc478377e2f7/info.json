@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4dbefd9ecd0ed3b69dc90d1d6abcc478377e2f7",
+  "displayName": "EthereumLambo",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumLambo",
+    "symbol": "ELAMBO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2008e3057bd734e10ad13c9eae45ff132abc1722",
+  "displayName": "Zebi Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zebi Coin",
+    "symbol": "ZCO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

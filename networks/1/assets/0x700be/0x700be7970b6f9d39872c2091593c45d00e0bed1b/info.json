@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x700be7970b6f9d39872c2091593c45d00e0bed1b",
+  "displayName": "Recipe Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Recipe Token",
+    "symbol": "RECIPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

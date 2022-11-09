@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b202f32762dc8a55b0ce3d1c357af8bb3173ada",
+  "displayName": "Goobers",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goobers",
+    "symbol": "GOOB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

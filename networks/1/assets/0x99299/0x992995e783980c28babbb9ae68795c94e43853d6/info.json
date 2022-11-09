@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x992995e783980c28babbb9ae68795c94e43853d6",
+  "displayName": "Loser Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Loser Coin",
+    "symbol": "LOSER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

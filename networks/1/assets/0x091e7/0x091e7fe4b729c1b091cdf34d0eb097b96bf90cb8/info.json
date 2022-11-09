@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x091e7fe4b729c1b091cdf34d0eb097b96bf90cb8",
+  "displayName": "MITTENS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MITTENS Token",
+    "symbol": "MITTENS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

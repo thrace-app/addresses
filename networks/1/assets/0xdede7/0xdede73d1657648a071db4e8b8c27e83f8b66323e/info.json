@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdede73d1657648a071db4e8b8c27e83f8b66323e",
+  "displayName": "BridgeNode",
+  "type": "TOKEN",
+  "token": {
+    "name": "BridgeNode",
+    "symbol": "BGN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26f66ab59a52ab71f617b1d02eb84e2aacd3f541",
+  "displayName": "Tender",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tender",
+    "symbol": "TDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

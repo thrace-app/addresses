@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ef119c6e985843d2d4a290f749a603a6ca69dee",
+  "displayName": "HomeAssetSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "HomeAssetSwap",
+    "symbol": "HAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

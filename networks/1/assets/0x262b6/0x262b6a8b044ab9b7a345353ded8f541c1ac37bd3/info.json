@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x262b6a8b044ab9b7a345353ded8f541c1ac37bd3",
+  "displayName": "Center Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Center Coin",
+    "symbol": "CENT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

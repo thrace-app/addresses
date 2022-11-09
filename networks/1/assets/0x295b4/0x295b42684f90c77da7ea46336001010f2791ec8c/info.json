@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x295b42684f90c77da7ea46336001010f2791ec8c",
+  "displayName": "Xi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Xi Token",
+    "symbol": "XI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

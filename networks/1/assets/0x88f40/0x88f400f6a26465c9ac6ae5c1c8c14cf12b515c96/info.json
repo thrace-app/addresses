@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88f400f6a26465c9ac6ae5c1c8c14cf12b515c96",
+  "displayName": "Virus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Virus Token",
+    "symbol": "VIRUS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

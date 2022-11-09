@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x859be3a70683163c275b1ba597bd4db975066013",
+  "displayName": "NoCovidToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NoCovidToken",
+    "symbol": "NCVT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

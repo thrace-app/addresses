@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa3a79e1149325ea219a73a837734b46c0d67bed9",
+  "displayName": "Norato Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Norato Token",
+    "symbol": "Norato",
+    "decimals": 13,
+    "type": "ERC20"
+  }
+}

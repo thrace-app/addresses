@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x973c2fefcf18933cab307cd501ff59e4bac634cc",
+  "displayName": "Garbage",
+  "type": "TOKEN",
+  "token": {
+    "name": "Garbage",
+    "symbol": "GARBAGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

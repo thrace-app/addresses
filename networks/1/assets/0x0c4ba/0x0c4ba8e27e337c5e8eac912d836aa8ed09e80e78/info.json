@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c4ba8e27e337c5e8eac912d836aa8ed09e80e78",
+  "displayName": "HeroInfinity Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HeroInfinity Token",
+    "symbol": "HRI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

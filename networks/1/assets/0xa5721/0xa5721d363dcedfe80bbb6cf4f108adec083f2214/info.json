@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa5721d363dcedfe80bbb6cf4f108adec083f2214",
+  "displayName": "Yu Gi Oh! Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yu Gi Oh! Token",
+    "symbol": "YGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

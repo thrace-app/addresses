@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66eb10c9b80fc52401384285f5ecc18c0b924bbd",
+  "displayName": "BACDv2 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BACDv2 Token",
+    "symbol": "BACD2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

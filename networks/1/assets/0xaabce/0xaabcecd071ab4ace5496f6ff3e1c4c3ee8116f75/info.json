@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaabcecd071ab4ace5496f6ff3e1c4c3ee8116f75",
+  "displayName": "PolkaInu",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkaInu",
+    "symbol": "PINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

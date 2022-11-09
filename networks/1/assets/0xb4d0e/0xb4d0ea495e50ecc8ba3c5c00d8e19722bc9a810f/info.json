@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4d0ea495e50ecc8ba3c5c00d8e19722bc9a810f",
+  "displayName": "lamborcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "lamborcoin",
+    "symbol": "LBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

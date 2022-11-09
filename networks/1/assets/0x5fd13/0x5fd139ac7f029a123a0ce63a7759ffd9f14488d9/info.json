@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5fd139ac7f029a123a0ce63a7759ffd9f14488d9",
+  "displayName": "Vitalik Fan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitalik Fan Token",
+    "symbol": "VFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

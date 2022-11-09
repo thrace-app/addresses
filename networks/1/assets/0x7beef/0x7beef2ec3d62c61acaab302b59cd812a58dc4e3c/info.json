@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7beef2ec3d62c61acaab302b59cd812a58dc4e3c",
+  "displayName": "Interesting Payload Number",
+  "type": "TOKEN",
+  "token": {
+    "name": "Interesting Payload Number",
+    "symbol": "420T",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71b9e1f858d7ad9b51ed40c56c38f6452571c806",
+  "displayName": "Peacock Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Peacock Coin",
+    "symbol": "PCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

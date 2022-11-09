@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c81dc8473a321c7919ceffbbf75d212e9096cf3",
+  "displayName": "GoldBux",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoldBux",
+    "symbol": "GDBX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

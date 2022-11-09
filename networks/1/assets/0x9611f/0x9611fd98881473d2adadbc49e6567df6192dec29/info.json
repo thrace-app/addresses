@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9611fd98881473d2adadbc49e6567df6192dec29",
+  "displayName": "ParlerToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ParlerToken",
+    "symbol": "PRLR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

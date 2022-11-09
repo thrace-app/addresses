@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe581ad03c694d211b28bc624445da8604d41d46e",
+  "displayName": "BitKingToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitKingToken",
+    "symbol": "BKG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

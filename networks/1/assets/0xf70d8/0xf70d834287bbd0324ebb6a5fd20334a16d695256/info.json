@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf70d834287bbd0324ebb6a5fd20334a16d695256",
+  "displayName": "Fubuki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fubuki Token",
+    "symbol": "FUBUKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

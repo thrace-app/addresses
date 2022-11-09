@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9dd2cab2eb5d2dbb266a886860001999c7be08f9",
+  "displayName": "CawBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "CawBank",
+    "symbol": "CAWB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

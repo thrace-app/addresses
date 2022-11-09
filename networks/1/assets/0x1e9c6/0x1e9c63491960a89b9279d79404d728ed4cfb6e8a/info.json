@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e9c63491960a89b9279d79404d728ed4cfb6e8a",
+  "displayName": "The Genesis Floki",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Genesis Floki",
+    "symbol": "GenFloki",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

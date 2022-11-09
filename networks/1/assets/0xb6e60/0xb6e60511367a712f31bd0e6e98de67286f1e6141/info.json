@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb6e60511367a712f31bd0e6e98de67286f1e6141",
+  "displayName": "Drachma Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Drachma Coin",
+    "symbol": "DRMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

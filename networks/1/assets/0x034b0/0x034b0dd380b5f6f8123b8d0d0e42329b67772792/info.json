@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x034b0dd380b5f6f8123b8d0d0e42329b67772792",
+  "displayName": "ADAB Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ADAB Token",
+    "symbol": "ADAB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

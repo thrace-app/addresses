@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85b1902ad00ed7d004098f2459f8e6f29a3af518",
+  "displayName": "MemoDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "MemoDAO",
+    "symbol": "MEMO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

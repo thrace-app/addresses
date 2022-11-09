@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcda9d1d7e4fa00d55eb326f38c6079ed7a4ec2c8",
+  "displayName": "Sheeple Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sheeple Token",
+    "symbol": "SHPL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

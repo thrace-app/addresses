@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38f4460d92855a84d55fdffb8a77cf968ed9a882",
+  "displayName": "Beast Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Beast Token",
+    "symbol": "BEAST",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

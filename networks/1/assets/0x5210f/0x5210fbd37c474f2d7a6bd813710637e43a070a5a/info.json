@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5210fbd37c474f2d7a6bd813710637e43a070a5a",
+  "displayName": "egUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "egUSD",
+    "symbol": "egUSD",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

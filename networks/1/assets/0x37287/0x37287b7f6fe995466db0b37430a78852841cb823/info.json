@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37287b7f6fe995466db0b37430a78852841cb823",
+  "displayName": "Keikochi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Keikochi Token",
+    "symbol": "Keikochi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

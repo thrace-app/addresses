@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdada02029134f73af874640ef351a8cf85ddada0",
+  "displayName": "DAppNode DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAppNode DAO Token",
+    "symbol": "NODE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd21708785a39986bec88264971c5ff4862860ea7",
+  "displayName": "Nuke Mars",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nuke Mars",
+    "symbol": "NUKEMARS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

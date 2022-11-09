@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38327e248d0799515376802237ad5780e5b57655",
+  "displayName": "The Tequila Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Tequila Cat",
+    "symbol": "TEQCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

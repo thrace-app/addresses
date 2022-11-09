@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55036d41088b2a256ad6e54d76730ea1a9ecb71c",
+  "displayName": "ETH:X",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH:X",
+    "symbol": "Proof of X",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

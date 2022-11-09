@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0534e695f6196646d9fe9254333541a30dae07b7",
+  "displayName": "SwallowToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SwallowToken",
+    "symbol": "$SWALLOW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

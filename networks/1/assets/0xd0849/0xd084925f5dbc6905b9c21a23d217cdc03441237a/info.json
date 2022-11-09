@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd084925f5dbc6905b9c21a23d217cdc03441237a",
+  "displayName": "DoogleDapp",
+  "type": "TOKEN",
+  "token": {
+    "name": "DoogleDapp",
+    "symbol": "Doogle",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

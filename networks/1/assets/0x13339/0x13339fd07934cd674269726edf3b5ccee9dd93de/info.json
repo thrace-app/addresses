@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13339fd07934cd674269726edf3b5ccee9dd93de",
+  "displayName": "CurToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CurToken",
+    "symbol": "CUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

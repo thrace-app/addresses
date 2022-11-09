@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf52939c19157257500c3ae81065b59c896fb2cf8",
+  "displayName": "Bob Ross",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bob Ross",
+    "symbol": "BR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

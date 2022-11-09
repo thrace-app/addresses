@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07a8990a167b7ae7ab7c0c8b6caafa63694e10fb",
+  "displayName": "Ethereum Transaction",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Transaction",
+    "symbol": "ETHtx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

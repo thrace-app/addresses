@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x517ab044bda9629e785657dbbcae95c40c8f452c",
+  "displayName": "Jira Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jira Token",
+    "symbol": "JIRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

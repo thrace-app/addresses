@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x448bd15ac18ce6386c27914c14c18fd9148df75f",
+  "displayName": "XS2 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XS2 Token",
+    "symbol": "XS2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd459b8625869775a30a77d9446c1ab68ae93766d",
+  "displayName": "ointest",
+  "type": "TOKEN",
+  "token": {
+    "name": "ointest",
+    "symbol": "lalal",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

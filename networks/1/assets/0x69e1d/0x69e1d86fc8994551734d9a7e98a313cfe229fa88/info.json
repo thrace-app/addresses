@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69e1d86fc8994551734d9a7e98a313cfe229fa88",
+  "displayName": "Literally Useless Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Literally Useless Token",
+    "symbol": "LUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

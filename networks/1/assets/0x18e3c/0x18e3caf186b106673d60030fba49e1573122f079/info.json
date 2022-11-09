@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18e3caf186b106673d60030fba49e1573122f079",
+  "displayName": "Tesla Dogecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tesla Dogecoin",
+    "symbol": "TDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

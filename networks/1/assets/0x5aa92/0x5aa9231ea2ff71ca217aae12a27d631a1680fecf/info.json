@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5aa9231ea2ff71ca217aae12a27d631a1680fecf",
+  "displayName": "Filcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Filcoin",
+    "symbol": "FLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

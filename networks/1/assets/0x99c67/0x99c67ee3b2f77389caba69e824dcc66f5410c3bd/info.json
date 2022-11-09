@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99c67ee3b2f77389caba69e824dcc66f5410c3bd",
+  "displayName": "Tamadoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tamadoge",
+    "symbol": "TAMADOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

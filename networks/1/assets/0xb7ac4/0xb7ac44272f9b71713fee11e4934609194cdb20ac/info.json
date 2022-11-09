@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7ac44272f9b71713fee11e4934609194cdb20ac",
+  "displayName": "EverRose",
+  "type": "TOKEN",
+  "token": {
+    "name": "EverRose",
+    "symbol": "ROSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

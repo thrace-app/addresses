@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x31a2bcf633d16dee21e3377c8e62070ef553b051",
+  "displayName": "MNET Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MNET Token",
+    "symbol": "MNET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

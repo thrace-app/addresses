@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7183aa1805435a80d0dd6c7897b9f4756f4ecaed",
+  "displayName": "PavitchDAOToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PavitchDAOToken",
+    "symbol": "PVK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

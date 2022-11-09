@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe14745650c3fda9bd7e189b9fa4f90e76d861f4e",
+  "displayName": "Doge Cake Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Cake Token",
+    "symbol": "cDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf74f31a39703afda3531d37b7bae464e0b295804",
+  "displayName": "starburn utility token",
+  "type": "TOKEN",
+  "token": {
+    "name": "starburn utility token",
+    "symbol": "SBUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

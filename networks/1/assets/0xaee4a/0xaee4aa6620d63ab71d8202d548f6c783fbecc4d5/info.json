@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaee4aa6620d63ab71d8202d548f6c783fbecc4d5",
+  "displayName": "FCFS token v2",
+  "type": "TOKEN",
+  "token": {
+    "name": "FCFS token v2",
+    "symbol": "FCFS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

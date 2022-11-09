@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x548b61ee55864993885e4ba1db1ba4067045f553",
+  "displayName": "BigMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "BigMoon",
+    "symbol": "BGM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

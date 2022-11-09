@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd16202b2ef098f5ee37c38925c79172cfd52550c",
+  "displayName": "Dear Diary",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dear Diary",
+    "symbol": "DIARY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

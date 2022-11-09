@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d4e278332f55b822dc0af569d14363f579e419c",
+  "displayName": "sidecar",
+  "type": "TOKEN",
+  "token": {
+    "name": "sidecar",
+    "symbol": "sidecar",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

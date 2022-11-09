@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6c889f35a35451d50899128ebe9c8b54cd1e902",
+  "displayName": "meToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "meToken",
+    "symbol": "NFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

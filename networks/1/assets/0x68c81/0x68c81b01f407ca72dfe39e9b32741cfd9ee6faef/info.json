@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68c81b01f407ca72dfe39e9b32741cfd9ee6faef",
+  "displayName": "RUNIT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RUNIT Token",
+    "symbol": "RIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

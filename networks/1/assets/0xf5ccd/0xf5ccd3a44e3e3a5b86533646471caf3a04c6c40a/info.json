@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5ccd3a44e3e3a5b86533646471caf3a04c6c40a",
+  "displayName": "DexGame token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DexGame token",
+    "symbol": "DG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

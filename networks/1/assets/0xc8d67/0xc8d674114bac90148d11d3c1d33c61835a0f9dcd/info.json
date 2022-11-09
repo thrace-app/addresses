@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8d674114bac90148d11d3c1d33c61835a0f9dcd",
+  "displayName": "Wrapped Mirror NFLX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Mirror NFLX Token",
+    "symbol": "mNFLX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

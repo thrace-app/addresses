@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a3e8f486492ff080b8951a5263ed0537951f554",
+  "displayName": "Quantum Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quantum Doge",
+    "symbol": "QDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

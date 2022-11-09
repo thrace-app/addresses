@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47c429d6ad8b47e7afd8ad109e4d7eef49f980e9",
+  "displayName": "Mad Santa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mad Santa Token",
+    "symbol": "MAD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

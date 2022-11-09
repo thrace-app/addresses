@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ad02ec49373c93f0fb9b80f77429a683995c214",
+  "displayName": "Robbery Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Robbery Token",
+    "symbol": "RRY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

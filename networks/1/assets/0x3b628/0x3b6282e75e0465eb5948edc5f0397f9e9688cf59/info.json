@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b6282e75e0465eb5948edc5f0397f9e9688cf59",
+  "displayName": "Derived Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Derived Ether",
+    "symbol": "dEth",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb6ae917237cfea1d03925bded707a87d625621c",
+  "displayName": "KAKA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KAKA Token",
+    "symbol": "KAKA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4664a0438d8e50e00b285fdd24a3a5c9c76a75e5",
+  "displayName": "FloppaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FloppaCoin",
+    "symbol": "FLOP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

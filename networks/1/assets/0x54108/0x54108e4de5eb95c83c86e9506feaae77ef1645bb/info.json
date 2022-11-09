@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x54108e4de5eb95c83c86e9506feaae77ef1645bb",
+  "displayName": "CDSTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "CDSTOKEN",
+    "symbol": "CDS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

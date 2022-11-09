@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc7e29ce0367b6fdc0e855530ac41fd4cb84d1f0",
+  "displayName": "AntiDORA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AntiDORA Token",
+    "symbol": "antiDORA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

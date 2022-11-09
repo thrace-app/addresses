@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15d62fa1bd7a32b2662343ba7df617c956422a24",
+  "displayName": "EthereumRetro",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumRetro",
+    "symbol": "ERetro",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

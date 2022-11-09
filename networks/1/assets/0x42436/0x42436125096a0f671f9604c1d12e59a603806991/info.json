@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42436125096a0f671f9604c1d12e59a603806991",
+  "displayName": "BabySerum",
+  "type": "TOKEN",
+  "token": {
+    "name": "BabySerum",
+    "symbol": "BSER",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

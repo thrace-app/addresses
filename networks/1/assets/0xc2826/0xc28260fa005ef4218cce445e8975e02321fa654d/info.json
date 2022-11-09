@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc28260fa005ef4218cce445e8975e02321fa654d",
+  "displayName": "Gemly Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gemly Token",
+    "symbol": "GML",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

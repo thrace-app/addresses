@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x005285cf447f1841cfaf0d1b4eb584e382f4249d",
+  "displayName": "stusdt",
+  "type": "TOKEN",
+  "token": {
+    "name": "stusdt",
+    "symbol": "STUSDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

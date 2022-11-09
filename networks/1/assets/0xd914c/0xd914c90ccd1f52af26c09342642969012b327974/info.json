@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd914c90ccd1f52af26c09342642969012b327974",
+  "displayName": "Fantasy Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fantasy Finance",
+    "symbol": "FANTA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

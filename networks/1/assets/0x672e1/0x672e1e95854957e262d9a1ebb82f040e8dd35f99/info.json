@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x672e1e95854957e262d9a1ebb82f040e8dd35f99",
+  "displayName": "NoteBurn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NoteBurn Token",
+    "symbol": "NOTE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

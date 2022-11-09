@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5ff8a878db0fef8f35899bf9df1a0ad1f4df247",
+  "displayName": "TheNewProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "TheNewProtocol",
+    "symbol": "TNPCL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1971f439dbdcaa43decd887192d91ad0e1f9c35",
+  "displayName": "Neko Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neko Inu",
+    "symbol": "NKINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

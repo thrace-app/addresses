@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe101bf7beca412d05991e7091c4598725c9c7e81",
+  "displayName": "The Crypto Crash",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Crypto Crash",
+    "symbol": "CRASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

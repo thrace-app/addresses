@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51349a018045d278869b8409d4f8b1f662ed4256",
+  "displayName": "Mav Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mav Token",
+    "symbol": "Mav",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

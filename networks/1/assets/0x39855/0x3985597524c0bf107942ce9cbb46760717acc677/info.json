@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3985597524c0bf107942ce9cbb46760717acc677",
+  "displayName": "Dumb Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dumb Inu",
+    "symbol": "DINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

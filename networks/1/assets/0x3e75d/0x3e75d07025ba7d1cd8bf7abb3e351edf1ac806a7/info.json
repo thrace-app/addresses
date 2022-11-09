@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e75d07025ba7d1cd8bf7abb3e351edf1ac806a7",
+  "displayName": "GameStonk",
+  "type": "TOKEN",
+  "token": {
+    "name": "GameStonk",
+    "symbol": "$GME",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

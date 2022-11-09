@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1eb8458a2fc34a02f60a4ffda4bacd359cf0cb6",
+  "displayName": "NormandyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NormandyToken",
+    "symbol": "NORMD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

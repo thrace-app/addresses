@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeadc218ac4cb7895a5a56e6484646b48f841c45a",
+  "displayName": "MFI_ERC20",
+  "type": "TOKEN",
+  "token": {
+    "name": "MFI_ERC20",
+    "symbol": "MFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

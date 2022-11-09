@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20e7125677311fca903a8897042b9983f22ea295",
+  "displayName": "FreewayToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FreewayToken",
+    "symbol": "FWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

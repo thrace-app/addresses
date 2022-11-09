@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12a06769c5a8881aafb4ea0f6d8b7ad79eaebc35",
+  "displayName": "Uniswap LP [WETH/ROOT]",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uniswap LP [WETH/ROOT]",
+    "symbol": "RLP:WETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

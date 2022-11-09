@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae8c6c6409b1cce66b210ac82343019bdcdfddd7",
+  "displayName": "https://t.me/pay_accept",
+  "type": "TOKEN",
+  "token": {
+    "name": "https://t.me/pay_accept",
+    "symbol": "PAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

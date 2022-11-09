@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xffadb67ed7fb074ead6b06d99c999a641f20b47b",
+  "displayName": "gn coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "gn coin",
+    "symbol": "gn",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

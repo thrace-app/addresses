@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a39fb8e49c972047006078034fee0ffa474ed6e",
+  "displayName": "Rockstar Games",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rockstar Games",
+    "symbol": "RSG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae72c17786205c0d9a2138d692ffa606494b5a7f",
+  "displayName": "Olympic Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Olympic Coin",
+    "symbol": "OLYMPIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x001f265fcf3dc40f373a44bac600c6cb1eea64bd",
+  "displayName": "MMCrypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "MMCrypto",
+    "symbol": "MMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

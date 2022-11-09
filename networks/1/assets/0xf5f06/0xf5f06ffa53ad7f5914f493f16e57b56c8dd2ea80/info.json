@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5f06ffa53ad7f5914f493f16e57b56c8dd2ea80",
+  "displayName": "Jelly Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jelly Token",
+    "symbol": "JELLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

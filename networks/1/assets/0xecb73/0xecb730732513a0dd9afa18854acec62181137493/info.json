@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecb730732513a0dd9afa18854acec62181137493",
+  "displayName": "DreamDog",
+  "type": "TOKEN",
+  "token": {
+    "name": "DreamDog",
+    "symbol": "DreamDog",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

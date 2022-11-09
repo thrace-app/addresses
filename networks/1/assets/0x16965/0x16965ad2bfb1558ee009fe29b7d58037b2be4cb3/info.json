@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16965ad2bfb1558ee009fe29b7d58037b2be4cb3",
+  "displayName": "Big Fish",
+  "type": "TOKEN",
+  "token": {
+    "name": "Big Fish",
+    "symbol": "$BISH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe682c3e3beb8e82623d30e9608ca2313e47ba4d",
+  "displayName": "Vegan Rob Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vegan Rob Token",
+    "symbol": "VRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

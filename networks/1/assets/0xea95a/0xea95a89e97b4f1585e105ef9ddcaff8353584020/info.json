@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea95a89e97b4f1585e105ef9ddcaff8353584020",
+  "displayName": "UniCorn",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniCorn",
+    "symbol": "UNIC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

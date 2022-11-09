@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b676112d70dc31ef982950227784c815e6cbd81",
+  "displayName": "LazyPunk Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LazyPunk Token",
+    "symbol": "LZP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

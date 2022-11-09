@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c0cd812fecef28b8beabd944fb02012bb9be138",
+  "displayName": "Toy Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Toy Coin",
+    "symbol": "TOY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

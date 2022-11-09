@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f2c5fdeaea07d94a112ea1013190a1f8472d048",
+  "displayName": "MoneyPox",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoneyPox",
+    "symbol": "MPX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

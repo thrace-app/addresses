@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x869b1f57380ae501d387b19262efd3c0eb7501b0",
+  "displayName": "Oxycoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Oxycoin",
+    "symbol": "OXY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

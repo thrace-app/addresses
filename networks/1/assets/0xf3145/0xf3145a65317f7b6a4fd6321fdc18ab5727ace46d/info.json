@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf3145a65317f7b6a4fd6321fdc18ab5727ace46d",
+  "displayName": "Mystery Box",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mystery Box",
+    "symbol": "MBOX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

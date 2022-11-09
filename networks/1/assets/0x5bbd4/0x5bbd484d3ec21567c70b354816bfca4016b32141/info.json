@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5bbd484d3ec21567c70b354816bfca4016b32141",
+  "displayName": "SafeFoxx",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeFoxx",
+    "symbol": "sFoxx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

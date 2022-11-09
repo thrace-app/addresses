@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x60be1e1fe41c1370adaf5d8e66f07cf1c2df2268",
+  "displayName": "Perion Credits",
+  "type": "TOKEN",
+  "token": {
+    "name": "Perion Credits",
+    "symbol": "PERC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

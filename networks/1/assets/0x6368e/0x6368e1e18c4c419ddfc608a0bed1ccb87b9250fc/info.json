@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6368e1e18c4c419ddfc608a0bed1ccb87b9250fc",
+  "displayName": "Tap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tap",
+    "symbol": "XTP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

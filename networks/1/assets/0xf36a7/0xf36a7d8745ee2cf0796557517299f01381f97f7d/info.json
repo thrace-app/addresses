@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf36a7d8745ee2cf0796557517299f01381f97f7d",
+  "displayName": "VineDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "VineDoge",
+    "symbol": "VINEDOGE",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

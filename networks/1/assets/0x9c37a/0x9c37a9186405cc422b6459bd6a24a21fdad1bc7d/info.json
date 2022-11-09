@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c37a9186405cc422b6459bd6a24a21fdad1bc7d",
+  "displayName": "Rise Only Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rise Only Token",
+    "symbol": "ROT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

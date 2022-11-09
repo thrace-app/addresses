@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95af2ec3cfa851790e91ed21f34c002f55f0be5a",
+  "displayName": "water",
+  "type": "TOKEN",
+  "token": {
+    "name": "water",
+    "symbol": "WTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

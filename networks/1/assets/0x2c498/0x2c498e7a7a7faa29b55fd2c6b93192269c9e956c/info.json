@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c498e7a7a7faa29b55fd2c6b93192269c9e956c",
+  "displayName": "CoinGecko Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinGecko Token",
+    "symbol": "GECKO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

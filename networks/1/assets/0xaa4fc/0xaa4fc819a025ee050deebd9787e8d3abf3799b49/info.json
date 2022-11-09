@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa4fc819a025ee050deebd9787e8d3abf3799b49",
+  "displayName": "Ethereum Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Protocol",
+    "symbol": "$EPRTCL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

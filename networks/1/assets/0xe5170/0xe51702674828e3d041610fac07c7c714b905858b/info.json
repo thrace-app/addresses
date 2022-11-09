@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe51702674828e3d041610fac07c7c714b905858b",
+  "displayName": "GoldXCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoldXCoin",
+    "symbol": "GXC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

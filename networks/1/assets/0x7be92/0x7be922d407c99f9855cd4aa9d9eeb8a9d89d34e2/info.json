@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7be922d407c99f9855cd4aa9d9eeb8a9d89d34e2",
+  "displayName": "gmDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "gmDao",
+    "symbol": "gm",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

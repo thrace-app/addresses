@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda1935a3e9ab282ef79aaa7d03ae4b8359d6e8cd",
+  "displayName": "Hourglass",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hourglass",
+    "symbol": "HOUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

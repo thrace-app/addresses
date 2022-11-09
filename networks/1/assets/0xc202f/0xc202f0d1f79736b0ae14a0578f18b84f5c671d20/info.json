@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc202f0d1f79736b0ae14a0578f18b84f5c671d20",
+  "displayName": "STC",
+  "type": "TOKEN",
+  "token": {
+    "name": "STC",
+    "symbol": "STC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

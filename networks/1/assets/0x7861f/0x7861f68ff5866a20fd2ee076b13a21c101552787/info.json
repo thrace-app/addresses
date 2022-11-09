@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7861f68ff5866a20fd2ee076b13a21c101552787",
+  "displayName": "Diamond Pepe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Diamond Pepe",
+    "symbol": "D-PEPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

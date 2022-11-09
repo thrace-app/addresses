@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcecad010210bc6020d511d04a00bbbf9de53ef6e",
+  "displayName": "Drugstoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Drugstoken",
+    "symbol": "DRUGS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27",
+  "displayName": "Iron Bank EUR",
+  "type": "TOKEN",
+  "token": {
+    "name": "Iron Bank EUR",
+    "symbol": "ibEUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

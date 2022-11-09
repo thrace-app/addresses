@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26a604dffe3ddab3bee816097f81d3c4a2a4cf97",
+  "displayName": "CorionX utility token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CorionX utility token",
+    "symbol": "CORX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

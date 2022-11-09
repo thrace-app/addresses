@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0070c6594d9632f927eba5f95bf413d9115fbe9e",
+  "displayName": "NeoBlock",
+  "type": "TOKEN",
+  "token": {
+    "name": "NeoBlock",
+    "symbol": "NEB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

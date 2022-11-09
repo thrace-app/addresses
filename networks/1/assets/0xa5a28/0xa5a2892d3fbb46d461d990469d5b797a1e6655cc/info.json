@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa5a2892d3fbb46d461d990469d5b797a1e6655cc",
+  "displayName": "Bichoncoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bichoncoin",
+    "symbol": "BICH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

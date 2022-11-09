@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf9fd7a89bfb8a07a225080236e5ca570ee2a76a1",
+  "displayName": "KRWb Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KRWb Token",
+    "symbol": "KRWb",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

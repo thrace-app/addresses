@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff59c6a13b272db7b278f04e5300e53b46faad78",
+  "displayName": "ToknTrade",
+  "type": "TOKEN",
+  "token": {
+    "name": "ToknTrade",
+    "symbol": "TOKN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

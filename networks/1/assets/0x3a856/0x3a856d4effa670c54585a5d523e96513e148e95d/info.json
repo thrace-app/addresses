@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a856d4effa670c54585a5d523e96513e148e95d",
+  "displayName": "Trias Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trias Token",
+    "symbol": "TRIAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

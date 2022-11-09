@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8574142e950ec233dd4260c27a66132e70f1ad18",
+  "displayName": "MMOP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MMOP Token",
+    "symbol": "MMOP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

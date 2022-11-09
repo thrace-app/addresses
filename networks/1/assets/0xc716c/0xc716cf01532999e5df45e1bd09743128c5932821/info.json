@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc716cf01532999e5df45e1bd09743128c5932821",
+  "displayName": "Lucky Maneki",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucky Maneki",
+    "symbol": "MANEKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0c33ebeedddb898b2b7e44d6c0b56860b298075",
+  "displayName": "BMToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BMToken",
+    "symbol": "BMTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x045da4bfe02b320f4403674b3b7d121737727a36",
+  "displayName": "Defi Franc",
+  "type": "TOKEN",
+  "token": {
+    "name": "Defi Franc",
+    "symbol": "DCHF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3579e381caf332af7f5f4f3177924308571322d3",
+  "displayName": "ShadyBucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShadyBucks",
+    "symbol": "SBK",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

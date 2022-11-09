@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x862e269ab225b28bdea07786ad8822b5774eb7fd",
+  "displayName": "BabySolana",
+  "type": "TOKEN",
+  "token": {
+    "name": "BabySolana",
+    "symbol": "BABYSOL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

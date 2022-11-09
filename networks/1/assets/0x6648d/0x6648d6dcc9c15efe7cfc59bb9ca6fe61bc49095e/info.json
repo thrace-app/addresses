@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6648d6dcc9c15efe7cfc59bb9ca6fe61bc49095e",
+  "displayName": "Chocolate Wallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chocolate Wallet",
+    "symbol": "CHOCOWALLET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

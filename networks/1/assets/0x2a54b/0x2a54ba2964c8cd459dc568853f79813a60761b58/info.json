@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a54ba2964c8cd459dc568853f79813a60761b58",
+  "displayName": "USDI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDI Token",
+    "symbol": "USDI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

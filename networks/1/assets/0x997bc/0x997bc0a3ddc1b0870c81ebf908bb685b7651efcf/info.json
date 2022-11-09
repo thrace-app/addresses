@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x997bc0a3ddc1b0870c81ebf908bb685b7651efcf",
+  "displayName": "Enzy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Enzy Token",
+    "symbol": "ENZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

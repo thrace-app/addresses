@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x083f5a19e1fc2287cdb253b190afe837660979d9",
+  "displayName": "Pride Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pride Token",
+    "symbol": "$PRIDE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x348471781f03d99ae7957cc135446745c1b6970d",
+  "displayName": "Bitgear",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitgear",
+    "symbol": "GEAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

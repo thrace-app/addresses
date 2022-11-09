@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cb3578c2242fb1de7ba4e259fe9c76272b6e779",
+  "displayName": "Gerbil",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gerbil",
+    "symbol": "GRBIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac6fdc509a1345f77a12d112d3c04bc1c9360ff9",
+  "displayName": "HYPERDOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "HYPERDOGE",
+    "symbol": "HYPER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x28e0559db2c98019e1c3ae26e382fb58c3973d5a",
+  "displayName": "One ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "One ETH",
+    "symbol": "TECH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd64a81b7dbfaff29621eccdbe5743a10de80bc8c",
+  "displayName": "ParaSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "ParaSwap",
+    "symbol": "PSP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

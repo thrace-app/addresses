@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x29beba3d649b0cb2d21bb4d672f317e5a12cc581",
+  "displayName": "The Next Bang",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Next Bang",
+    "symbol": "BANG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

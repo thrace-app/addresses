@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae1a4694baeb146b354cd341573ceadd2d67d863",
+  "displayName": "Gold Retriever",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gold Retriever",
+    "symbol": "GLDN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

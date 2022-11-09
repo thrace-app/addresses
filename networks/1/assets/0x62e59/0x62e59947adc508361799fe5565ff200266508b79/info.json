@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62e59947adc508361799fe5565ff200266508b79",
+  "displayName": "Nano Weekly Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nano Weekly Token",
+    "symbol": "NWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

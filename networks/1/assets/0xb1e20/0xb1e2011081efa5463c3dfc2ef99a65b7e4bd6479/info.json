@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1e2011081efa5463c3dfc2ef99a65b7e4bd6479",
+  "displayName": "Binary Payments",
+  "type": "TOKEN",
+  "token": {
+    "name": "Binary Payments",
+    "symbol": "BinaryPay",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

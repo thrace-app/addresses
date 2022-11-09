@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x28bc9aeb825d8fdcc6c9961abac40de47c52e343",
+  "displayName": "NEO",
+  "type": "TOKEN",
+  "token": {
+    "name": "NEO",
+    "symbol": "NEON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

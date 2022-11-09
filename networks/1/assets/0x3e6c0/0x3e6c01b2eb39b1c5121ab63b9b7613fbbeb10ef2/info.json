@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e6c01b2eb39b1c5121ab63b9b7613fbbeb10ef2",
+  "displayName": "Eco swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eco swap",
+    "symbol": "ESWAP",
+    "decimals": 1,
+    "type": "ERC20"
+  }
+}

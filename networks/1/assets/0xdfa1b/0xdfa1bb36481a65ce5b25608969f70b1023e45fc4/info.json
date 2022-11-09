@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfa1bb36481a65ce5b25608969f70b1023e45fc4",
+  "displayName": "Emergency Signal",
+  "type": "TOKEN",
+  "token": {
+    "name": "Emergency Signal",
+    "symbol": "MAYDAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

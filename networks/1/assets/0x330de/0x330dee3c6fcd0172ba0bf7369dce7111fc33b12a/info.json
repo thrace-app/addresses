@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x330dee3c6fcd0172ba0bf7369dce7111fc33b12a",
+  "displayName": "Night Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Night Token",
+    "symbol": "NIGHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

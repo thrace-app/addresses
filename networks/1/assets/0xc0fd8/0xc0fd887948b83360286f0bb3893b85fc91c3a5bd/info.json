@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0fd887948b83360286f0bb3893b85fc91c3a5bd",
+  "displayName": "Fox Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fox Inu",
+    "symbol": "FOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

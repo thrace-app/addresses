@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f08962d948c5c59cac284035748be21134ebc2b",
+  "displayName": "UMA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UMA Token",
+    "symbol": "UMA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x983c059d1be984f8f06c2559351c5ab1cb1dcdb7",
+  "displayName": "Titan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Titan Token",
+    "symbol": "TITAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

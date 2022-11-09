@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3e78ff34a0be3c787e17548598725aa00bf96e8",
+  "displayName": "White Doge Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "White Doge Coin",
+    "symbol": "WDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

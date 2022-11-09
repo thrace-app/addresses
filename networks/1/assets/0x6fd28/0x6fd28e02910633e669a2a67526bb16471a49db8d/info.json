@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fd28e02910633e669a2a67526bb16471a49db8d",
+  "displayName": "Ethereum Private",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Private",
+    "symbol": "EPRIV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

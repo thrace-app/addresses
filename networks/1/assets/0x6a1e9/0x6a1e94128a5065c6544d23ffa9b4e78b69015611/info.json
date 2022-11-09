@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a1e94128a5065c6544d23ffa9b4e78b69015611",
+  "displayName": "Cash Back",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cash Back",
+    "symbol": "CASH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

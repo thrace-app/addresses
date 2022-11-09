@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2781cad3ec12182fd8defc51081440a446c10a1",
+  "displayName": "JRVToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "JRVToken",
+    "symbol": "JRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

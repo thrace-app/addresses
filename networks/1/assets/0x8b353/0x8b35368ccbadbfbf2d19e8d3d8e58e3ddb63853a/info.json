@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b35368ccbadbfbf2d19e8d3d8e58e3ddb63853a",
+  "displayName": "CGCX Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CGCX Exchange Token",
+    "symbol": "CGCX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

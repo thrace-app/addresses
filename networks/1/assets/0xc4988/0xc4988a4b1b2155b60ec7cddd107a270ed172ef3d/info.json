@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4988a4b1b2155b60ec7cddd107a270ed172ef3d",
+  "displayName": "A1x Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "A1x Token",
+    "symbol": "A1x",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

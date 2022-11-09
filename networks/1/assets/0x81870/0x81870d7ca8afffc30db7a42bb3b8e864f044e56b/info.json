@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81870d7ca8afffc30db7a42bb3b8e864f044e56b",
+  "displayName": "Standard Crypto Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Standard Crypto Fund",
+    "symbol": "QQQF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

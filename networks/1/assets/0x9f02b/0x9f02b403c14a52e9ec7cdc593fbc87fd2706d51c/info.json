@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f02b403c14a52e9ec7cdc593fbc87fd2706d51c",
+  "displayName": "TTWB Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TTWB Token",
+    "symbol": "TTWB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

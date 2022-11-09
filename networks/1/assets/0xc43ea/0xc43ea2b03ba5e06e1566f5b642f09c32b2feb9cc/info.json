@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc43ea2b03ba5e06e1566f5b642f09c32b2feb9cc",
+  "displayName": "GoldEther V2",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoldEther V2",
+    "symbol": "GOLDV2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

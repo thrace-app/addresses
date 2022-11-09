@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf72fcd9dcf0190923fadd44811e240ef4533fc86",
+  "displayName": "Wrapped Mirror VIXY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Mirror VIXY Token",
+    "symbol": "mVIXY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81049ab4a8b78896799ce0610e11f161efb24ee0",
+  "displayName": "Chicago Mercantile Exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chicago Mercantile Exchange",
+    "symbol": "CME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

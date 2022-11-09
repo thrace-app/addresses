@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5329734994bbe291f2ea26c22b4e4c13dd881f3b",
+  "displayName": "BTC Consortium",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTC Consortium",
+    "symbol": "BTCc",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

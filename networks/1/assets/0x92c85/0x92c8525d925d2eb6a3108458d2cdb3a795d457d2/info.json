@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92c8525d925d2eb6a3108458d2cdb3a795d457d2",
+  "displayName": "Holographic Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Holographic Doge",
+    "symbol": "HODO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

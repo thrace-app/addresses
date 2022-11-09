@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85117d0053e6a855e4041fff1a9502567c47a968",
+  "displayName": "BODE coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BODE coin",
+    "symbol": "BDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

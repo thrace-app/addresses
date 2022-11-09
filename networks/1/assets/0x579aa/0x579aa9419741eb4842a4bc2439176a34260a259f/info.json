@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x579aa9419741eb4842a4bc2439176a34260a259f",
+  "displayName": "Cobrashi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cobrashi Token",
+    "symbol": "COBRASHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

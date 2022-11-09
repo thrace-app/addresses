@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6558ebe73d92c4bf58195055a5ecca7ab7aa4dc9",
+  "displayName": "Terracoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Terracoin",
+    "symbol": "TCC",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2794e1e064f8782a4de3091cbe0bc7a9371c899c",
+  "displayName": "eThoreum",
+  "type": "TOKEN",
+  "token": {
+    "name": "eThoreum",
+    "symbol": "ETHOR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

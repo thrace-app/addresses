@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34623f98ee1c629bfcfee06be51d26a81dfaff1b",
+  "displayName": "Diamond of Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Diamond of Ethereum",
+    "symbol": "EDM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

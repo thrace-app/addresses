@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfbe012bee6c266ff941a16e8712f143ffab0237",
+  "displayName": "Yahoo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yahoo",
+    "symbol": "Yahoo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f29c3b0fe777ba3000bac776279783f81df381b",
+  "displayName": "CapitalCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CapitalCoin",
+    "symbol": "CCO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

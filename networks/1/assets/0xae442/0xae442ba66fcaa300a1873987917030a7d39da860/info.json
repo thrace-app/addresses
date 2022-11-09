@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae442ba66fcaa300a1873987917030a7d39da860",
+  "displayName": "OshiBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "OshiBurn",
+    "symbol": "OSB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

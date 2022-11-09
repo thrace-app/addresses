@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0c1fee4904be2bae183a7059230a75431a03e8e",
+  "displayName": "DamnFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "DamnFi",
+    "symbol": "DAMN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

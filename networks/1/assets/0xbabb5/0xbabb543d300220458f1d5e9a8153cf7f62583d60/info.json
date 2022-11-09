@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbabb543d300220458f1d5e9a8153cf7f62583d60",
+  "displayName": "Bad Bunnies",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bad Bunnies",
+    "symbol": "BUN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87a4d5e39636ea56dc2c22419a8b1ed4256cec47",
+  "displayName": "BoozeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BoozeToken",
+    "symbol": "$BOOZE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

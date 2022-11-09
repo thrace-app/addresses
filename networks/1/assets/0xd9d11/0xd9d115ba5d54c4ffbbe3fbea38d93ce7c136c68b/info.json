@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9d115ba5d54c4ffbbe3fbea38d93ce7c136c68b",
+  "displayName": "Bullereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bullereum",
+    "symbol": "bETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

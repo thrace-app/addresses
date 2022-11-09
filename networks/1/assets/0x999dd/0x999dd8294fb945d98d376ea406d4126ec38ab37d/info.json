@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x999dd8294fb945d98d376ea406d4126ec38ab37d",
+  "displayName": "Gameloft Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gameloft Token",
+    "symbol": "GLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

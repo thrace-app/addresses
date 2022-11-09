@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b63881a2e5da6fae4ebfa5dd691c7a099aa4445",
+  "displayName": "QTRA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "QTRA Token",
+    "symbol": "QTRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

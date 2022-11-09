@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88f2385bf6d2e26705ab98104299130c132ff5d7",
+  "displayName": "Hedget Tokens",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hedget Tokens",
+    "symbol": "HGET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

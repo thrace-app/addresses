@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5820296b0e0ed79ac4ee759de185106a1aad47a9",
+  "displayName": "ASTL Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ASTL Token",
+    "symbol": "ASTL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

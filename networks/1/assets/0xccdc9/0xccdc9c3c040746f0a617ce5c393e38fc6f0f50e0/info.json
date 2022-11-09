@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccdc9c3c040746f0a617ce5c393e38fc6f0f50e0",
+  "displayName": "OpenUnreal Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OpenUnreal Token",
+    "symbol": "OUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

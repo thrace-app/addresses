@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb2d05f740a265eda7e642d5942d938834ecd5b86",
+  "displayName": "Mutt Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mutt Token",
+    "symbol": "MUTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

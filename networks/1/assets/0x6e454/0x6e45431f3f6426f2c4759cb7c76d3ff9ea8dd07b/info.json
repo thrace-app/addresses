@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e45431f3f6426f2c4759cb7c76d3ff9ea8dd07b",
+  "displayName": "Bubblegum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bubblegum",
+    "symbol": "GUM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

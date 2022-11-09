@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ef793bddb442bc7a39e2039187c07a79f9fd1c5",
+  "displayName": "Sports Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sports Coin",
+    "symbol": "SPORT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

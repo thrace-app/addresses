@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56ed9af78907c5c3558e473dea861270e1b87614",
+  "displayName": "Bank Of Cramer",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank Of Cramer",
+    "symbol": "BCRAMER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

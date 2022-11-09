@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc152c503acb673e7baa099bdd0f9727484e634a2",
+  "displayName": "WrappedGalaxy",
+  "type": "TOKEN",
+  "token": {
+    "name": "WrappedGalaxy",
+    "symbol": "WGLX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

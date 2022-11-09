@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdeadb071ab55db23aea4cf9b316faa8b7bd26196",
+  "displayName": "Pawn Bots Burn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pawn Bots Burn Token",
+    "symbol": "BURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

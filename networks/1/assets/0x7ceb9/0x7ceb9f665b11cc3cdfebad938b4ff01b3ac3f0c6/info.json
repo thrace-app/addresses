@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ceb9f665b11cc3cdfebad938b4ff01b3ac3f0c6",
+  "displayName": "MyokoSwap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyokoSwap Token",
+    "symbol": "MYOKO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

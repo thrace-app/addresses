@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81e2c527aa856ac66a787d53e30197604ed6365c",
+  "displayName": "MagicShibaMoney",
+  "type": "TOKEN",
+  "token": {
+    "name": "MagicShibaMoney",
+    "symbol": "MSM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

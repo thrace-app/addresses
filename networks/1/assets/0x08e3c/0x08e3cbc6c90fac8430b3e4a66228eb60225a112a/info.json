@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08e3cbc6c90fac8430b3e4a66228eb60225a112a",
+  "displayName": "GoCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoCoin",
+    "symbol": "GOC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

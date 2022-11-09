@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42354017925fd8f905305e1e165629ebb8f63d49",
+  "displayName": "Jim Jones Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jim Jones Coin",
+    "symbol": "Capo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

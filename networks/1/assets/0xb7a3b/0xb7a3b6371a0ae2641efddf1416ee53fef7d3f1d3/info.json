@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7a3b6371a0ae2641efddf1416ee53fef7d3f1d3",
+  "displayName": "MetaCow",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaCow",
+    "symbol": "METAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

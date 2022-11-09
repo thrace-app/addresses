@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9bedcd470351cbadfff3bd340085655bb260fdb2",
+  "displayName": "Shed Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shed Coin",
+    "symbol": "SHED",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

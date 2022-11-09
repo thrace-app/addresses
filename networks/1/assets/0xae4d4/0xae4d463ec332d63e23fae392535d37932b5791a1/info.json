@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae4d463ec332d63e23fae392535d37932b5791a1",
+  "displayName": "Balance  Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Balance  Coin",
+    "symbol": "BAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa7514635270abf31dc07be8a70664650106540c0",
+  "displayName": "Chonk Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chonk Token",
+    "symbol": "CHONK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

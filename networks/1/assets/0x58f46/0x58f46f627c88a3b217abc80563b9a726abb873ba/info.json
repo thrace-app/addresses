@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58f46f627c88a3b217abc80563b9a726abb873ba",
+  "displayName": "Bubbles",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bubbles",
+    "symbol": "BUBBLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

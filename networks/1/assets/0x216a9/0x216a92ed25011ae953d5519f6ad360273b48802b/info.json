@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x216a92ed25011ae953d5519f6ad360273b48802b",
+  "displayName": "Bank of Tsuka",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of Tsuka",
+    "symbol": "BTSUKA",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41156154fa7d3e30d0f26e540d25fde1e58e6797",
+  "displayName": "Cheddar Pizza",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cheddar Pizza",
+    "symbol": "CHEDPIZZA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

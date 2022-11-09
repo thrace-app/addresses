@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x611179eb80bd3e93b7bc05dc42603dab5c996019",
+  "displayName": "Crypto Ant",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Ant",
+    "symbol": "CANT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71286b2161c0b166a5b632e17766ae6e7e7566af",
+  "displayName": "EthereumCum",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumCum",
+    "symbol": "eCum",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

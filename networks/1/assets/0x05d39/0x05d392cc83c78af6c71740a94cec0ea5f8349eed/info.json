@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05d392cc83c78af6c71740a94cec0ea5f8349eed",
+  "displayName": "Stable Blockchain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stable Blockchain",
+    "symbol": "SBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

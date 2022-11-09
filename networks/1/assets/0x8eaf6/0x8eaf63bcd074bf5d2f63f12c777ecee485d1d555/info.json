@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8eaf63bcd074bf5d2f63f12c777ecee485d1d555",
+  "displayName": "Purple Rabbit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Purple Rabbit",
+    "symbol": "PR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

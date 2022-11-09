@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7d252abf8ef9d9683069cfb97c16b013fdf7202",
+  "displayName": "ParaChainDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "ParaChainDoge",
+    "symbol": "PCDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

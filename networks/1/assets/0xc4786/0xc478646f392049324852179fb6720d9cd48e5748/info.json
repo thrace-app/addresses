@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc478646f392049324852179fb6720d9cd48e5748",
+  "displayName": "PEPS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PEPS Token",
+    "symbol": "PEPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

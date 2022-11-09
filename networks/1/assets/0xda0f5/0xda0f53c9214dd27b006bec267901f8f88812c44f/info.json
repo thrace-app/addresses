@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda0f53c9214dd27b006bec267901f8f88812c44f",
+  "displayName": "Nice Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nice Coin",
+    "symbol": "NICC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

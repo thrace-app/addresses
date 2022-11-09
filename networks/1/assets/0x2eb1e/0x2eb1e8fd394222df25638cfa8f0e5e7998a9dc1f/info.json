@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2eb1e8fd394222df25638cfa8f0e5e7998a9dc1f",
+  "displayName": "Burninator Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burninator Token",
+    "symbol": "BRNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

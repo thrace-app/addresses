@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b94a1281db0335c9efd68aca5c98b494d775c70",
+  "displayName": "Path Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Path Network Token",
+    "symbol": "PATH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

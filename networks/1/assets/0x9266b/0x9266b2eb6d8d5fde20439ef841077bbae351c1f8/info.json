@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9266b2eb6d8d5fde20439ef841077bbae351c1f8",
+  "displayName": "Boa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boa Token",
+    "symbol": "BOA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

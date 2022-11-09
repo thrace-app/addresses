@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24e3794605c84e580eea4972738d633e8a7127c8",
+  "displayName": "Katalyo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Katalyo Token",
+    "symbol": "KTLYO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

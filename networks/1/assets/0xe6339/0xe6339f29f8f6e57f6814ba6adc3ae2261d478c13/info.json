@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe6339f29f8f6e57f6814ba6adc3ae2261d478c13",
+  "displayName": "Fuel Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fuel Token",
+    "symbol": "Fuel",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

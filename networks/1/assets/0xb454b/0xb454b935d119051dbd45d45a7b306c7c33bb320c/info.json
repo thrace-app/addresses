@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb454b935d119051dbd45d45a7b306c7c33bb320c",
+  "displayName": "Proof of Cardano",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Cardano",
+    "symbol": "ADA2.0",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

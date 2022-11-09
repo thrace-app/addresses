@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0931102ce47d221d94376ff5497de3737504cd90",
+  "displayName": "Wormecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wormecoin",
+    "symbol": "Worm",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1406825186d63980fd6e2ec61888f7b91c4bae4",
+  "displayName": "Strudel BTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Strudel BTC",
+    "symbol": "VBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

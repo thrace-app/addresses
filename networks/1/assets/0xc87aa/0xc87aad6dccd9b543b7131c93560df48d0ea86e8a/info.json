@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc87aad6dccd9b543b7131c93560df48d0ea86e8a",
+  "displayName": "EMPTtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "EMPTtoken",
+    "symbol": "empt",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

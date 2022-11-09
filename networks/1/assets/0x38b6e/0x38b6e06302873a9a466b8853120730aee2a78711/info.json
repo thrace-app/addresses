@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38b6e06302873a9a466b8853120730aee2a78711",
+  "displayName": "ShineToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShineToken",
+    "symbol": "SHINE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

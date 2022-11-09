@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x909171ab06909ff74cc183039567ddc071754acd",
+  "displayName": "Pulse Unity Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pulse Unity Token",
+    "symbol": "PLSU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

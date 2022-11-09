@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x470fa453c3ef2962e078fdf59da8a68c81c43710",
+  "displayName": "Leak Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Leak Token",
+    "symbol": "LEAK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

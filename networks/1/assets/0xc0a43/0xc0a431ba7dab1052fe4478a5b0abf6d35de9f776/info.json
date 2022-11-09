@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0a431ba7dab1052fe4478a5b0abf6d35de9f776",
+  "displayName": "Fresh Pastries",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fresh Pastries",
+    "symbol": "PSTR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

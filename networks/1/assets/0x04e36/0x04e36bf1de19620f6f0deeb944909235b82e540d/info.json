@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04e36bf1de19620f6f0deeb944909235b82e540d",
+  "displayName": "UBC",
+  "type": "TOKEN",
+  "token": {
+    "name": "UBC",
+    "symbol": "UBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

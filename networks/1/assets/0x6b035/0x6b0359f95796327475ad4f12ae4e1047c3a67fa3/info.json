@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b0359f95796327475ad4f12ae4e1047c3a67fa3",
+  "displayName": "FinFine Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FinFine Token",
+    "symbol": "FFT",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

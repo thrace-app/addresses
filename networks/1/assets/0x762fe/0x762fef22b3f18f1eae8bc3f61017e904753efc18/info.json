@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x762fef22b3f18f1eae8bc3f61017e904753efc18",
+  "displayName": "Quokka Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quokka Inu",
+    "symbol": "$QUOKKA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

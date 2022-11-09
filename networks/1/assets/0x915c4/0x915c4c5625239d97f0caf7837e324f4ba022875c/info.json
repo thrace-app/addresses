@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x915c4c5625239d97f0caf7837e324f4ba022875c",
+  "displayName": "Speed Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Speed Token",
+    "symbol": "SPEED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

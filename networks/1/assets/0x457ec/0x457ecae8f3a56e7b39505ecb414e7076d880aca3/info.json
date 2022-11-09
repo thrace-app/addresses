@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x457ecae8f3a56e7b39505ecb414e7076d880aca3",
+  "displayName": "LiquidBurnero",
+  "type": "TOKEN",
+  "token": {
+    "name": "LiquidBurnero",
+    "symbol": "LiBurn",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

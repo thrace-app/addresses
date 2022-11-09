@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfefea1cf16b85d91d40653ad81c335a9ea7e465b",
+  "displayName": "CryptoFoxes NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoFoxes NFT",
+    "symbol": "FOX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

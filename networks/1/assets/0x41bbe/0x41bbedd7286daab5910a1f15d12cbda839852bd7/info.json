@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41bbedd7286daab5910a1f15d12cbda839852bd7",
+  "displayName": "Wrapped Mirror MSFT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Mirror MSFT Token",
+    "symbol": "mMSFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33aae69789ae11d0d69f9a1bede68fc3814df3cc",
+  "displayName": "FrogDAO Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FrogDAO Governance Token",
+    "symbol": "$FDG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

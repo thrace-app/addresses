@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x368a373c13cba6709a50438e3c8ce14d2248ea7a",
+  "displayName": "PolkadotCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkadotCoin",
+    "symbol": "DOTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

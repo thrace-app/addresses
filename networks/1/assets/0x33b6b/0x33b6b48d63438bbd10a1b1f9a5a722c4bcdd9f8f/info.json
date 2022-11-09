@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33b6b48d63438bbd10a1b1f9a5a722c4bcdd9f8f",
+  "displayName": "Blackheart Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blackheart Token",
+    "symbol": "BLACK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

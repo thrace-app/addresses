@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x31ea6cf9949132db401dcbee91609e8585318249",
+  "displayName": "Shutdown",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shutdown",
+    "symbol": "DOWN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

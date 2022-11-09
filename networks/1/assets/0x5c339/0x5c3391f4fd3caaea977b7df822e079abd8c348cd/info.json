@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c3391f4fd3caaea977b7df822e079abd8c348cd",
+  "displayName": "MOMO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MOMO Token",
+    "symbol": "MOMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

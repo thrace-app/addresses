@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe42578eb49e618163050ca092f98dee8c740fb0d",
+  "displayName": "YFTezos",
+  "type": "TOKEN",
+  "token": {
+    "name": "YFTezos",
+    "symbol": "YFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

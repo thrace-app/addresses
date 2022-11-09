@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeae6952421420329e48e836766002f8908797c4c",
+  "displayName": "Siamese Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Siamese Cat",
+    "symbol": "SiameseCat",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

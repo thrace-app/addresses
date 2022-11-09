@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x213ecae6b3cbc0ad976f7d82626546d5b63a71cb",
+  "displayName": "GCD Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GCD Stablecoin",
+    "symbol": "GCD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

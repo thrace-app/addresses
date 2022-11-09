@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b32f6850a014b778c038bb10b5de1ac64de151f",
+  "displayName": "Baba Magic Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baba Magic Token",
+    "symbol": "BMAGIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

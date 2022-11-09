@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe81971ec924de1ae0ecd9d1a8c2162b64373f6e",
+  "displayName": "Food Club Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Food Club Token",
+    "symbol": "FOODC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

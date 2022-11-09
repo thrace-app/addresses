@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x092eff65e97915b62d935ef52cf4799e9cd41927",
+  "displayName": "Priszip Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Priszip Token",
+    "symbol": "PIP",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

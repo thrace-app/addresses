@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ea4ff33f511a1cf9da5ff47b33b886e30053364",
+  "displayName": "BitWalletMarket",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitWalletMarket",
+    "symbol": "BWM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

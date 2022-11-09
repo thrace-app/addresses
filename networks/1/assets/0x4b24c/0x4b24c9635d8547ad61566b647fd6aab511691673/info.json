@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b24c9635d8547ad61566b647fd6aab511691673",
+  "displayName": "WildCat",
+  "type": "TOKEN",
+  "token": {
+    "name": "WildCat",
+    "symbol": "WILD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

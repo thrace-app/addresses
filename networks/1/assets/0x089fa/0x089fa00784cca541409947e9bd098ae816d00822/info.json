@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x089fa00784cca541409947e9bd098ae816d00822",
+  "displayName": "Klaytn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Klaytn",
+    "symbol": "KLAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

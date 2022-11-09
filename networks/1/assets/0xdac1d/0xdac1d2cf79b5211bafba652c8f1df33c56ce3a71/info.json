@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdac1d2cf79b5211bafba652c8f1df33c56ce3a71",
+  "displayName": "Elon PulseChain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon PulseChain Token",
+    "symbol": "ELONPULSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

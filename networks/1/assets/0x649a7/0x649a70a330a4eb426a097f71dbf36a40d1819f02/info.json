@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x649a70a330a4eb426a097f71dbf36a40d1819f02",
+  "displayName": "ThousandXcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ThousandXcoin",
+    "symbol": "TXCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

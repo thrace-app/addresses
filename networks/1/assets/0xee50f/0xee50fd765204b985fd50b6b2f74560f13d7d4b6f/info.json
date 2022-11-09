@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee50fd765204b985fd50b6b2f74560f13d7d4b6f",
+  "displayName": "AmpersandCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AmpersandCoin",
+    "symbol": "AMP",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

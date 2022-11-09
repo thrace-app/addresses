@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa17a236f2badc98ddc0cf999abb47d47fc0a6cf",
+  "displayName": "Curve.fi ETH/aETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve.fi ETH/aETH",
+    "symbol": "ankrCRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

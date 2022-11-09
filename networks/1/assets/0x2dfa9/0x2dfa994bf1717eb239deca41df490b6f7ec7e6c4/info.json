@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dfa994bf1717eb239deca41df490b6f7ec7e6c4",
+  "displayName": "Slurry Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Slurry Coin",
+    "symbol": "SLRY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

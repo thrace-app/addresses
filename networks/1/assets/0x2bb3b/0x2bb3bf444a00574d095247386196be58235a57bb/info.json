@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2bb3bf444a00574d095247386196be58235a57bb",
+  "displayName": "HashFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "HashFi",
+    "symbol": "HASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

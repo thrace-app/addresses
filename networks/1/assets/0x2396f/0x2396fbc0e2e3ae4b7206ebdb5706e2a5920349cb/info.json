@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2396fbc0e2e3ae4b7206ebdb5706e2a5920349cb",
+  "displayName": "Color Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Color Coin",
+    "symbol": "CLR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

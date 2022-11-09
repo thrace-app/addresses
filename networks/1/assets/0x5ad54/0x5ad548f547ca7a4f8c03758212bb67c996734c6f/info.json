@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ad548f547ca7a4f8c03758212bb67c996734c6f",
+  "displayName": "The Doge Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Doge Coin",
+    "symbol": "TDC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

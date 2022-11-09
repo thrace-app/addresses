@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81cfbe839cdc32e8a3f1bb6ac2d8aa7c9b5f4bef",
+  "displayName": "Handout Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Handout Token",
+    "symbol": "HANDO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

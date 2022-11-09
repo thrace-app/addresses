@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0cb20b77adbe5cd58fcecc4f4069d04b327862e5",
+  "displayName": "Mystery Ghost Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mystery Ghost Token",
+    "symbol": "MGT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

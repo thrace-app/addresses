@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d040c4fb69fd49a0e71e2c3a0ad3dcfd7e22b31",
+  "displayName": "Core Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Core Swap",
+    "symbol": "CS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

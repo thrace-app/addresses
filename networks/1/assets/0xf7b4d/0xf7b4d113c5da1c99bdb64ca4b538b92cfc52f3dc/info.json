@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7b4d113c5da1c99bdb64ca4b538b92cfc52f3dc",
+  "displayName": "Wrapped BCH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped BCH",
+    "symbol": "WBCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

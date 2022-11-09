@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb339022c13018556b7c731dbb852493d452bf96f",
+  "displayName": "DODO Egg",
+  "type": "TOKEN",
+  "token": {
+    "name": "DODO Egg",
+    "symbol": "DEgg",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x975f01a382d68bfe77f007f50af14b7e2ff5374a",
+  "displayName": "G2x Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "G2x Token",
+    "symbol": "G2x",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

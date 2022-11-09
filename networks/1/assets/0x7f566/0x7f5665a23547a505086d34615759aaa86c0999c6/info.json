@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f5665a23547a505086d34615759aaa86c0999c6",
+  "displayName": "WORRY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WORRY Token",
+    "symbol": "WORRY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

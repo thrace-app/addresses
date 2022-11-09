@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x000000000ca5171087c18fb271ca844a2370fc0a",
+  "displayName": "Merkle Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Merkle Network Token",
+    "symbol": "MERKLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

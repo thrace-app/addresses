@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65a0025efa7f32913deeca74e93bc957758cf360",
+  "displayName": "Vixen Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vixen Token",
+    "symbol": "VIXEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

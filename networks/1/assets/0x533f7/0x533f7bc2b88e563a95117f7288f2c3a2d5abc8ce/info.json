@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x533f7bc2b88e563a95117f7288f2c3a2d5abc8ce",
+  "displayName": "Curve Gold Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve Gold Token",
+    "symbol": "CRVG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

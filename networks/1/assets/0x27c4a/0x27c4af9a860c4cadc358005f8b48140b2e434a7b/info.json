@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27c4af9a860c4cadc358005f8b48140b2e434a7b",
+  "displayName": "Validator",
+  "type": "TOKEN",
+  "token": {
+    "name": "Validator",
+    "symbol": "VALX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

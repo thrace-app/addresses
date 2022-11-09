@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x74d8a186f57796aa0354d9d5178abc0a27a5d574",
+  "displayName": "FILECOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "FILECOIN",
+    "symbol": "fil",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

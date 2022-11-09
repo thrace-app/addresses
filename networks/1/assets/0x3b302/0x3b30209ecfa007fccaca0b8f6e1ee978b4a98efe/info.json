@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b30209ecfa007fccaca0b8f6e1ee978b4a98efe",
+  "displayName": "Big World Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Big World Coin",
+    "symbol": "BWC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

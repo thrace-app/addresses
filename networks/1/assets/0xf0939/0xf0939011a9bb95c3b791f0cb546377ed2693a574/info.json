@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0939011a9bb95c3b791f0cb546377ed2693a574",
+  "displayName": "Zero.Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zero.Exchange Token",
+    "symbol": "ZERO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

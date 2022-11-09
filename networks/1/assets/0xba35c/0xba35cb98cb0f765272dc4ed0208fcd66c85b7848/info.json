@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba35cb98cb0f765272dc4ed0208fcd66c85b7848",
+  "displayName": "Megumin Kitty",
+  "type": "TOKEN",
+  "token": {
+    "name": "Megumin Kitty",
+    "symbol": "$MEGUMIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

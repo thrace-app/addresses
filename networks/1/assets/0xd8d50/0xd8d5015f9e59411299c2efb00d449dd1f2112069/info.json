@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8d5015f9e59411299c2efb00d449dd1f2112069",
+  "displayName": "RefundDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "RefundDAO",
+    "symbol": "REFUND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

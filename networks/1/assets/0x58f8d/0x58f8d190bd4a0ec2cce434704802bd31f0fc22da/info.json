@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58f8d190bd4a0ec2cce434704802bd31f0fc22da",
+  "displayName": "Incinerator",
+  "type": "TOKEN",
+  "token": {
+    "name": "Incinerator",
+    "symbol": "INC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

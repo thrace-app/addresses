@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13f11c9905a08ca76e3e853be63d4f0944326c72",
+  "displayName": "Divi Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Divi Exchange Token",
+    "symbol": "DIVX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

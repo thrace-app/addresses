@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe897ce745c7ab3ec30927f29028ee0bd3ddbf0c7",
+  "displayName": "Susu Token on Mainnet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Susu Token on Mainnet",
+    "symbol": "SUSU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

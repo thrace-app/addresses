@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2611842b8ba099485c941f1b1f04af7967189897",
+  "displayName": "Parrot",
+  "type": "TOKEN",
+  "token": {
+    "name": "Parrot",
+    "symbol": "PARROT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

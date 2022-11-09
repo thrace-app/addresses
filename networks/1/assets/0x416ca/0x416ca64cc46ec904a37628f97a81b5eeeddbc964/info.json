@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x416ca64cc46ec904a37628f97a81b5eeeddbc964",
+  "displayName": "xTendies",
+  "type": "TOKEN",
+  "token": {
+    "name": "xTendies",
+    "symbol": "XTEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

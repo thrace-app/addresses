@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaad3912e25450a391e65b0a296e6e74a4ee30885",
+  "displayName": "OpenDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "OpenDAO",
+    "symbol": "OPEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5650a80b8bd886dfaa5c7da064b4e6fa20fbe339",
+  "displayName": "Bitcoin Core",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Core",
+    "symbol": "BASE58",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

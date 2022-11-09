@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd9d31fc7dcf5b0a0436cabe918afe8625b85106",
+  "displayName": "검은 개",
+  "type": "TOKEN",
+  "token": {
+    "name": "검은 개",
+    "symbol": "BLACKDOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

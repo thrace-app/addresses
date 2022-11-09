@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90b6ef9e136f7752081c79d3c2609a959b6c3a0e",
+  "displayName": "The Larp Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Larp Coin",
+    "symbol": "RYOSHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

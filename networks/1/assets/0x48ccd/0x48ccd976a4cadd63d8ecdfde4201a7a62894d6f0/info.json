@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48ccd976a4cadd63d8ecdfde4201a7a62894d6f0",
+  "displayName": "Poke DOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "Poke DOGE",
+    "symbol": "PDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcf0425a35f1fa900bb347cb996d3094d1df3cd48",
+  "displayName": "Moose",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moose",
+    "symbol": "MM",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1bba22bce5b3d26dc0ec64562408a6f415956724",
+  "displayName": "ChartEx",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChartEx",
+    "symbol": "CHART",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

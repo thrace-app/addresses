@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x31903e333809897ee57af57567f4377a1a78756c",
+  "displayName": "CRYPTOPUNT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CRYPTOPUNT Token",
+    "symbol": "PUN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

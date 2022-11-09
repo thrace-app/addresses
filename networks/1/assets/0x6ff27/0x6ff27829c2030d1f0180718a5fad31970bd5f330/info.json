@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ff27829c2030d1f0180718a5fad31970bd5f330",
+  "displayName": "Jungle Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jungle Token",
+    "symbol": "JNGL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

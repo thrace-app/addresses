@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x757a4f255bdb02784ad905cdf3dd38792fbdbd69",
+  "displayName": "Elonator Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elonator Token",
+    "symbol": "ELTO",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

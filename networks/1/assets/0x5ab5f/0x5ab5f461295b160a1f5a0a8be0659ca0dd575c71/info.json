@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ab5f461295b160a1f5a0a8be0659ca0dd575c71",
+  "displayName": "COMET",
+  "type": "TOKEN",
+  "token": {
+    "name": "COMET",
+    "symbol": "COMET coin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

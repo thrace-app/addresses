@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ea43cbc1573bd6e9496cfbf12cabebdff1962e8",
+  "displayName": "EA Sports Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EA Sports Token",
+    "symbol": "EA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

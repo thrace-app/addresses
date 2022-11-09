@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a0d4ac7c7603cc543fbfdaad892561a5038a8de",
+  "displayName": "DumbTurtle",
+  "type": "TOKEN",
+  "token": {
+    "name": "DumbTurtle",
+    "symbol": "TURT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

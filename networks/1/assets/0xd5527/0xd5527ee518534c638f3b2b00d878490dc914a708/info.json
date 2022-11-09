@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5527ee518534c638f3b2b00d878490dc914a708",
+  "displayName": "CardWallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "CardWallet",
+    "symbol": "CW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

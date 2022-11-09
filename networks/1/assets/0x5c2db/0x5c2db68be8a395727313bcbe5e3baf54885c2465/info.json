@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c2db68be8a395727313bcbe5e3baf54885c2465",
+  "displayName": "RaptDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "RaptDAO",
+    "symbol": "RAPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

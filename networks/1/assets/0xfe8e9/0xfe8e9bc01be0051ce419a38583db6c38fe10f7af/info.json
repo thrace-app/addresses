@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe8e9bc01be0051ce419a38583db6c38fe10f7af",
+  "displayName": "Super Foxx",
+  "type": "TOKEN",
+  "token": {
+    "name": "Super Foxx",
+    "symbol": "SFOXX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

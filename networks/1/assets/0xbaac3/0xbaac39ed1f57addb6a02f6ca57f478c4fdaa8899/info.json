@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbaac39ed1f57addb6a02f6ca57f478c4fdaa8899",
+  "displayName": "The Doge NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Doge NFT",
+    "symbol": "DOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

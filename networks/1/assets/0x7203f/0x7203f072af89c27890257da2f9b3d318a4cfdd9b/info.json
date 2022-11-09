@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7203f072af89c27890257da2f9b3d318a4cfdd9b",
+  "displayName": "Money Heist",
+  "type": "TOKEN",
+  "token": {
+    "name": "Money Heist",
+    "symbol": "$MoneyHeist",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

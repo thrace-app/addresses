@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1193ba291db4baaad03fe48772d6e1a85b310dfa",
+  "displayName": "bnbridge.exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "bnbridge.exchange",
+    "symbol": "BRIDGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

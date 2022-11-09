@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf99ca49182abec979f7ea91c89a0adb1e5b44e90",
+  "displayName": "GinuToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GinuToken",
+    "symbol": "GINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

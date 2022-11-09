@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7781404a48038a3f1ee027a36106ebde827058e",
+  "displayName": "Star Fish",
+  "type": "TOKEN",
+  "token": {
+    "name": "Star Fish",
+    "symbol": "STAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

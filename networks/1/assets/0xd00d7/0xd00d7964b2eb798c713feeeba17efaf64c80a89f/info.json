@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd00d7964b2eb798c713feeeba17efaf64c80a89f",
+  "displayName": "Roller Staker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Roller Staker",
+    "symbol": "ROLL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

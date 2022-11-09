@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f772afc80e973e5b68a0cbda0aa32c42210b3c4",
+  "displayName": "Mail Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mail Token",
+    "symbol": "MAIL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

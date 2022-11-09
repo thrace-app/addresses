@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc23619600bd0034b6331336dc9622ba52fee81ab",
+  "displayName": "Game of Presidents",
+  "type": "TOKEN",
+  "token": {
+    "name": "Game of Presidents",
+    "symbol": "GOP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

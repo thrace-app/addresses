@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33be5da05e370f25086cbf2106c7e900b3ffd8f4",
+  "displayName": "Ethereum Stars",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Stars",
+    "symbol": "eStars",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

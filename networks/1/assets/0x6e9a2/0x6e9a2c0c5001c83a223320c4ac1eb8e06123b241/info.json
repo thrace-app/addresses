@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e9a2c0c5001c83a223320c4ac1eb8e06123b241",
+  "displayName": "Celestial Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Celestial Token",
+    "symbol": "CELESTIAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

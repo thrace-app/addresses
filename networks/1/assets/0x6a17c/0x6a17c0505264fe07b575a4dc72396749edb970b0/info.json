@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a17c0505264fe07b575a4dc72396749edb970b0",
+  "displayName": "Shinji Ikari",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shinji Ikari",
+    "symbol": "EVANGELION",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

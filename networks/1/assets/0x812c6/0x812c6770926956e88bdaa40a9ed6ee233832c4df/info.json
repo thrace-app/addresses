@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x812c6770926956e88bdaa40a9ed6ee233832c4df",
+  "displayName": "PeachSwap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PeachSwap Token",
+    "symbol": "TAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

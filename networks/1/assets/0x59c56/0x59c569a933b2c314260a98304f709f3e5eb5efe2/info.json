@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x59c569a933b2c314260a98304f709f3e5eb5efe2",
+  "displayName": "Capria Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Capria Token",
+    "symbol": "CTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

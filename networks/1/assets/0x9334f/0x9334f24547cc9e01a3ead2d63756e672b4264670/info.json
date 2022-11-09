@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9334f24547cc9e01a3ead2d63756e672b4264670",
+  "displayName": "HypeDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "HypeDoge",
+    "symbol": "Hdoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

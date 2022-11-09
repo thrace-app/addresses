@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd95f2986cf4656a896eb2418ce49ea1e3ec358dc",
+  "displayName": "Yelon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yelon",
+    "symbol": "YELON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

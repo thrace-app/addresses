@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfcea50dad3e3dabb8ce989f426b1a26fda2fe6b3",
+  "displayName": "Ethereum DAD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum DAD",
+    "symbol": "ethDAD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

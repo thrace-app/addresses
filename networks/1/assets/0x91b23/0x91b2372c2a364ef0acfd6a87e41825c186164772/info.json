@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x91b2372c2a364ef0acfd6a87e41825c186164772",
+  "displayName": "PeetyCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PeetyCoin",
+    "symbol": "PTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

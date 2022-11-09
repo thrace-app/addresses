@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c174f598cea34769740ce3838f9055ea91cf191",
+  "displayName": "ZORBY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZORBY Token",
+    "symbol": "ZORBY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

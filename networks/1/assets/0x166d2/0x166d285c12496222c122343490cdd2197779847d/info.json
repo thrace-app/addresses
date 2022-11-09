@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x166d285c12496222c122343490cdd2197779847d",
+  "displayName": "CryptoCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoCoin",
+    "symbol": "CC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

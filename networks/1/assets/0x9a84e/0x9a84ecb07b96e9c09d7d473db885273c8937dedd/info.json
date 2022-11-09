@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a84ecb07b96e9c09d7d473db885273c8937dedd",
+  "displayName": "Synthetic Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synthetic Swap",
+    "symbol": "sSwap",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

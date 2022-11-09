@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf922136d2bb23867d59686ce6f97add6c520f976",
+  "displayName": "DGS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DGS Token",
+    "symbol": "DGS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

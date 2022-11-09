@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5dfeefc027cbcd7b14d6c983076649adfb970e80",
+  "displayName": "Angel Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Angel Coin",
+    "symbol": "AGL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

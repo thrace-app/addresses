@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5b8f5616fe42d5ceca3e87f3fddbdd8f496d760",
+  "displayName": "ZperToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZperToken",
+    "symbol": "ZPR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

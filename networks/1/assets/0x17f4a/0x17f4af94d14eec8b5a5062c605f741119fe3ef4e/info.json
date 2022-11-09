@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17f4af94d14eec8b5a5062c605f741119fe3ef4e",
+  "displayName": "The Pump Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Pump Protocol",
+    "symbol": "pTHE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

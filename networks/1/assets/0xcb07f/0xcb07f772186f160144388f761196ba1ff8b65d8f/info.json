@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb07f772186f160144388f761196ba1ff8b65d8f",
+  "displayName": "MUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "MUSD",
+    "symbol": "MUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

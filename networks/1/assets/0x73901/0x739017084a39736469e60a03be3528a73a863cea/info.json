@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x739017084a39736469e60a03be3528a73a863cea",
+  "displayName": "DogTag",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogTag",
+    "symbol": "DTAG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

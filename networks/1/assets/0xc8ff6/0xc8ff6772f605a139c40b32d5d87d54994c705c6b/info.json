@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8ff6772f605a139c40b32d5d87d54994c705c6b",
+  "displayName": "Lion Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lion Token",
+    "symbol": "LION",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

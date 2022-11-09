@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71452717769c25bbca648b96b0882f0bbfed8269",
+  "displayName": "BlockBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlockBank",
+    "symbol": "BBANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

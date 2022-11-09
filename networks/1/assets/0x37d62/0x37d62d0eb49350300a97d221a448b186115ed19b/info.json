@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37d62d0eb49350300a97d221a448b186115ed19b",
+  "displayName": "Banshee Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Banshee Token",
+    "symbol": "BANSH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

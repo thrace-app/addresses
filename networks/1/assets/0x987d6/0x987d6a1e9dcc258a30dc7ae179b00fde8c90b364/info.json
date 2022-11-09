@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x987d6a1e9dcc258a30dc7ae179b00fde8c90b364",
+  "displayName": "miningking",
+  "type": "TOKEN",
+  "token": {
+    "name": "miningking",
+    "symbol": "MKG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

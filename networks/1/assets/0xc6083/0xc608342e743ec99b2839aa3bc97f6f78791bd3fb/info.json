@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc608342e743ec99b2839aa3bc97f6f78791bd3fb",
+  "displayName": "MemeCalf",
+  "type": "TOKEN",
+  "token": {
+    "name": "MemeCalf",
+    "symbol": "MCALF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

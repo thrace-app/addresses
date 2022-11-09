@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x476e1f5d2304466707f997cc16a346ded2e54f70",
+  "displayName": "Arc Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Arc Coin",
+    "symbol": "ARC",
+    "decimals": 11,
+    "type": "ERC20"
+  }
+}

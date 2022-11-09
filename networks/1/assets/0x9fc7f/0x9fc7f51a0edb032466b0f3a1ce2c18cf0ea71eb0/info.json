@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9fc7f51a0edb032466b0f3a1ce2c18cf0ea71eb0",
+  "displayName": "Casual Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Casual Token",
+    "symbol": "CASUAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

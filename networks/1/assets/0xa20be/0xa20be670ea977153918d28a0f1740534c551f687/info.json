@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa20be670ea977153918d28a0f1740534c551f687",
+  "displayName": "Ultimate Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ultimate Coin",
+    "symbol": "ULT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

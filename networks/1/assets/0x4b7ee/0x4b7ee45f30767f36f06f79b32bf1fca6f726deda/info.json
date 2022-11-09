@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b7ee45f30767f36f06f79b32bf1fca6f726deda",
+  "displayName": "Ethereum Wrapped Filecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Wrapped Filecoin",
+    "symbol": "eFIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

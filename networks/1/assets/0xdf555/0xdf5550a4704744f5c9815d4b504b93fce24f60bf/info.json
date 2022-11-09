@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf5550a4704744f5c9815d4b504b93fce24f60bf",
+  "displayName": "Movecoin ERC20",
+  "type": "TOKEN",
+  "token": {
+    "name": "Movecoin ERC20",
+    "symbol": "MOVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

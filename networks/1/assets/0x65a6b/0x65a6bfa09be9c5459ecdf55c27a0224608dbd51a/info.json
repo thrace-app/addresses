@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65a6bfa09be9c5459ecdf55c27a0224608dbd51a",
+  "displayName": "SWE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SWE Token",
+    "symbol": "SWE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

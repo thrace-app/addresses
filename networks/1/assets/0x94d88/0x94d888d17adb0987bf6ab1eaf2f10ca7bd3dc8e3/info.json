@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x94d888d17adb0987bf6ab1eaf2f10ca7bd3dc8e3",
+  "displayName": "The Doge Mission",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Doge Mission",
+    "symbol": "DMSN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

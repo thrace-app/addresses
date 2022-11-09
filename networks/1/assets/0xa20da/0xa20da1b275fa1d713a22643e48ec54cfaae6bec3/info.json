@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa20da1b275fa1d713a22643e48ec54cfaae6bec3",
+  "displayName": "TerraFTX",
+  "type": "TOKEN",
+  "token": {
+    "name": "TerraFTX",
+    "symbol": "TerraFTT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3befea912546efb4b317967848ade0d38076d3e",
+  "displayName": "Jarvis Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jarvis Coin",
+    "symbol": "JCI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

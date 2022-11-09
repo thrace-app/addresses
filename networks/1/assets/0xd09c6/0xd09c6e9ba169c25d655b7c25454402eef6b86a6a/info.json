@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd09c6e9ba169c25d655b7c25454402eef6b86a6a",
+  "displayName": "TFG: EGG Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TFG: EGG Token",
+    "symbol": "EGG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

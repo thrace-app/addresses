@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdef42afc9d4b4767b61add3d926a9aa5cc210275",
+  "displayName": "Infinity token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Infinity token",
+    "symbol": "INFTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

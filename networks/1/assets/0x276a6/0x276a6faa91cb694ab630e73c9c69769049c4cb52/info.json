@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x276a6faa91cb694ab630e73c9c69769049c4cb52",
+  "displayName": "Print Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Print Ethereum",
+    "symbol": "$PE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

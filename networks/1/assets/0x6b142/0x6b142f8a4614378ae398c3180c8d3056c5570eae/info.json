@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b142f8a4614378ae398c3180c8d3056c5570eae",
+  "displayName": "Omniswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Omniswap",
+    "symbol": "OMNI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

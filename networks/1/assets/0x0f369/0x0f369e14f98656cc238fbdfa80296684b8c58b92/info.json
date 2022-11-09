@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f369e14f98656cc238fbdfa80296684b8c58b92",
+  "displayName": "The Sandbox",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Sandbox",
+    "symbol": "SAND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e6bb68acec8fefbd87d192be09bb274170a0548",
+  "displayName": "Aave interest bearing AMPL",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave interest bearing AMPL",
+    "symbol": "aAMPL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

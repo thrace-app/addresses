@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7771499e86f059e31039aac800d535f09316aaa",
+  "displayName": "Generic Ohm Fork",
+  "type": "TOKEN",
+  "token": {
+    "name": "Generic Ohm Fork",
+    "symbol": "GF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

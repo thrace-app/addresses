@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7dcfd702ea4f4760bcc98383caf50011f38afce6",
+  "displayName": "MasterFarmer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MasterFarmer Token",
+    "symbol": "MFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

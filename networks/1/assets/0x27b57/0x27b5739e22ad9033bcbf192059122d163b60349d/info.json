@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27b5739e22ad9033bcbf192059122d163b60349d",
+  "displayName": "Staked Yearn CRV Vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "Staked Yearn CRV Vault",
+    "symbol": "st-yCRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

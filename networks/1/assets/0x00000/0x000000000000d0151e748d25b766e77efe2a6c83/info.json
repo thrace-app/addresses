@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x000000000000d0151e748d25b766e77efe2a6c83",
+  "displayName": "XDEFI Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XDEFI Governance Token",
+    "symbol": "XDEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42949d91e420fcbe70095a87b1942d7f9ee8224e",
+  "displayName": "TORN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TORN Token",
+    "symbol": "TORN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

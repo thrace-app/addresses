@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc07eb91961662d275e2d285bdc21885a4db136b0",
+  "displayName": "FARM_WBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "FARM_WBTC",
+    "symbol": "fWBTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

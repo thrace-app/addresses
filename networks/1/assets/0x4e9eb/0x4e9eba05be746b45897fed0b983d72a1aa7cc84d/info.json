@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e9eba05be746b45897fed0b983d72a1aa7cc84d",
+  "displayName": "facebookcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "facebookcoin",
+    "symbol": "FBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

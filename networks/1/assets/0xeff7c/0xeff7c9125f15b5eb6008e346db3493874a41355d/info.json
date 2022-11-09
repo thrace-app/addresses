@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeff7c9125f15b5eb6008e346db3493874a41355d",
+  "displayName": "Big Bro",
+  "type": "TOKEN",
+  "token": {
+    "name": "Big Bro",
+    "symbol": "BIGBRO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

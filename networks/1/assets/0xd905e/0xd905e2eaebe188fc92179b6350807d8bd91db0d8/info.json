@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd905e2eaebe188fc92179b6350807d8bd91db0d8",
+  "displayName": "Curve.fi DAI/USDC/USDT/PAX",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve.fi DAI/USDC/USDT/PAX",
+    "symbol": "ypaxCrv",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd77a834dcc5bcb246c5c2d8f5e9c4ac7d6e363be",
+  "displayName": "metesting",
+  "type": "TOKEN",
+  "token": {
+    "name": "metesting",
+    "symbol": "METEST",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

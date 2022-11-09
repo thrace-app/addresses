@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfdb1f2c7a2888bbdcc95845c19b3dfa4cd3cc6fd",
+  "displayName": "PLEBCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "PLEBCOIN",
+    "symbol": "PLEB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ce1ca6bb6033e1f8811bae7852506bd13ecc77d",
+  "displayName": "Elon Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Finance",
+    "symbol": "ELFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

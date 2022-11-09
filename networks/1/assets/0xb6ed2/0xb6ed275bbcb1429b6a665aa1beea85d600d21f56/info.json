@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb6ed275bbcb1429b6a665aa1beea85d600d21f56",
+  "displayName": "etherparty.io",
+  "type": "TOKEN",
+  "token": {
+    "name": "etherparty.io",
+    "symbol": "ETHPARTY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

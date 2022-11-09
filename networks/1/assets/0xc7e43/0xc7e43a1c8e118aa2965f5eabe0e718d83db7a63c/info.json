@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7e43a1c8e118aa2965f5eabe0e718d83db7a63c",
+  "displayName": "ZCore Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZCore Token",
+    "symbol": "ZCRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

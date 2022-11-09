@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48ca170704c64f307daf71b386df9eced13cf148",
+  "displayName": "Attari Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Attari Token",
+    "symbol": "ATRI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

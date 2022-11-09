@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb2df91dcf1256ba08bada2c63b75e9ea464939bd",
+  "displayName": "Free Cain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Free Cain Token",
+    "symbol": "FREECAIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

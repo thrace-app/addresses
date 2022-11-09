@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x959437e4c2603548a9df91482f376f29bb40d946",
+  "displayName": "GeneToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GeneToken",
+    "symbol": "GENE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

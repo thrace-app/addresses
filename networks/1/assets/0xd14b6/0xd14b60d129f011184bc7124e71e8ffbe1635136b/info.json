@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd14b60d129f011184bc7124e71e8ffbe1635136b",
+  "displayName": "Nano Million",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nano Million",
+    "symbol": "nMM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

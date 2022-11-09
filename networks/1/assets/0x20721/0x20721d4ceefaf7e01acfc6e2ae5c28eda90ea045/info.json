@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20721d4ceefaf7e01acfc6e2ae5c28eda90ea045",
+  "displayName": "Brand Stuff",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brand Stuff",
+    "symbol": "PIG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

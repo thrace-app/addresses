@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c54e239f4869262bf651ca74b0ff18ed8346f95",
+  "displayName": "Gen-X",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gen-X",
+    "symbol": "GenX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

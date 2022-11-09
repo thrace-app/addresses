@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00c1b60b6b77bc30966b5214315cacb086881159",
+  "displayName": "Howler Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Howler Token",
+    "symbol": "HOWL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

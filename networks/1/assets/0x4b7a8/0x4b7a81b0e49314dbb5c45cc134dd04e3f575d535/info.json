@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b7a81b0e49314dbb5c45cc134dd04e3f575d535",
+  "displayName": "BAGCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BAGCOIN",
+    "symbol": "BAGS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

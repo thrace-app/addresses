@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc5ccff1b500d8bbac11857ba62074326fbad595",
+  "displayName": "Space Pig",
+  "type": "TOKEN",
+  "token": {
+    "name": "Space Pig",
+    "symbol": "SPIG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

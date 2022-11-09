@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92f1e94db06102ab5f5359f820a300b37dda5e5d",
+  "displayName": "System DeFi for Reference",
+  "type": "TOKEN",
+  "token": {
+    "name": "System DeFi for Reference",
+    "symbol": "SDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

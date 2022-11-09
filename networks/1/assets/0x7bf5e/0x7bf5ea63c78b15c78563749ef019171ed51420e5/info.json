@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7bf5ea63c78b15c78563749ef019171ed51420e5",
+  "displayName": "THE ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "THE ETH",
+    "symbol": "TETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

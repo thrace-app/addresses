@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb918f8ab041ff4e2c6d70dba716915865d1bb71",
+  "displayName": "Kung Fu Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kung Fu Coin",
+    "symbol": "KFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42b4df7e402a71eae743c6c5410ce3bbb63aef22",
+  "displayName": "HD Punks",
+  "type": "TOKEN",
+  "token": {
+    "name": "HD Punks",
+    "symbol": "HDPUNK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

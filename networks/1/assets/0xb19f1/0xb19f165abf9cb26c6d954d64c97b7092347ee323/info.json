@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb19f165abf9cb26c6d954d64c97b7092347ee323",
+  "displayName": "A Risky Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "A Risky Inu",
+    "symbol": "RISKY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

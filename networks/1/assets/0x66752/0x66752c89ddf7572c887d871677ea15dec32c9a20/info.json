@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66752c89ddf7572c887d871677ea15dec32c9a20",
+  "displayName": "Kakashi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kakashi",
+    "symbol": "t.me/kakashi_coin",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

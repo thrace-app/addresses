@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x967f5993e54f4b17162a6bc2f449b77f4be10785",
+  "displayName": "Misako Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Misako Token",
+    "symbol": "$MISAKO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

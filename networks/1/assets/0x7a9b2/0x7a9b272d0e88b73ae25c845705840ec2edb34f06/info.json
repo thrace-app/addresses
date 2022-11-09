@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a9b272d0e88b73ae25c845705840ec2edb34f06",
+  "displayName": "Liquity",
+  "type": "TOKEN",
+  "token": {
+    "name": "Liquity",
+    "symbol": "LQTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

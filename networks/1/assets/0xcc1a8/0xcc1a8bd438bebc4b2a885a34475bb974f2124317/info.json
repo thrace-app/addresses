@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc1a8bd438bebc4b2a885a34475bb974f2124317",
+  "displayName": "WholeEarthCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WholeEarthCoin",
+    "symbol": "WEC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7384cdb3a93989394ef40b94b552fb803ca771d2",
+  "displayName": "TPLinkCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TPLinkCoin",
+    "symbol": "TPLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

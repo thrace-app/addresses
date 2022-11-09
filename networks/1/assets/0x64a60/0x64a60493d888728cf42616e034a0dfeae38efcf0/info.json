@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64a60493d888728cf42616e034a0dfeae38efcf0",
+  "displayName": "Oneledger Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Oneledger Token",
+    "symbol": "OLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

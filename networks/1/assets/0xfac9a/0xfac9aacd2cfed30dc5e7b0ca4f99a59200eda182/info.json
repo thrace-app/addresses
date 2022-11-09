@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfac9aacd2cfed30dc5e7b0ca4f99a59200eda182",
+  "displayName": "Sors Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sors Token",
+    "symbol": "SORS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

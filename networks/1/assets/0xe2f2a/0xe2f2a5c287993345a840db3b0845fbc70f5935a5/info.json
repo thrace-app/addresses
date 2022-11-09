@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
+  "displayName": "mStable USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "mStable USD",
+    "symbol": "mUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

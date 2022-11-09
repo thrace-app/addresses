@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62a04032bb956465119e74d231ab7579bc717ee6",
+  "displayName": "IOUDOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "IOUDOGE",
+    "symbol": "IDOGE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x027ab2327294180c43c81687735bbbd8951cf8ca",
+  "displayName": "Elon Musk’s video game",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Musk’s video game",
+    "symbol": "VIDEOGAME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x481c433c62c9280f7c0064d3528935c7e1972ae4",
+  "displayName": "inDex",
+  "type": "TOKEN",
+  "token": {
+    "name": "inDex",
+    "symbol": "INDEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

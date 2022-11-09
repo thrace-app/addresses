@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x955af50912eb3a2e6755090f6a78bdbf68a3b24c",
+  "displayName": "Dill Pickle Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dill Pickle Token",
+    "symbol": "DILL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

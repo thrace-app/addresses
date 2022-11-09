@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x051cf5178f60e9def5d5a39b2a988a9f914107cb",
+  "displayName": "Epstein Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Epstein Token",
+    "symbol": "EPSTEIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

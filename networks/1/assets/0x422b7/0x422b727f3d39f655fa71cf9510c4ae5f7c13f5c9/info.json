@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x422b727f3d39f655fa71cf9510c4ae5f7c13f5c9",
+  "displayName": "Hot Potato",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hot Potato",
+    "symbol": "HOTP",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

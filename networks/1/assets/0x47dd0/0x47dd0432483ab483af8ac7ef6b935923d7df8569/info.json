@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47dd0432483ab483af8ac7ef6b935923d7df8569",
+  "displayName": "Black Dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Black Dog",
+    "symbol": "BDOG",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5281f573fac33a0ae4ce8fc176446c91710ec2d1",
+  "displayName": "X2m Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "X2m Token",
+    "symbol": "X2m",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

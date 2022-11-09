@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0243f77b6571cfab4cc3541c3599e02d019d0c49",
+  "displayName": "ethSWAP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ethSWAP Token",
+    "symbol": "ethSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

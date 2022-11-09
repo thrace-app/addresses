@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf71fc797c64f56b8fd8e0b54518115a06a910fc0",
+  "displayName": "LUNC Penguins",
+  "type": "TOKEN",
+  "token": {
+    "name": "LUNC Penguins",
+    "symbol": "LUNCP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

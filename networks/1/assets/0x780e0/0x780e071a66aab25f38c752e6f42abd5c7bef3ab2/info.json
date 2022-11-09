@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x780e071a66aab25f38c752e6f42abd5c7bef3ab2",
+  "displayName": "FIFAHero",
+  "type": "TOKEN",
+  "token": {
+    "name": "FIFAHero",
+    "symbol": "$FH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

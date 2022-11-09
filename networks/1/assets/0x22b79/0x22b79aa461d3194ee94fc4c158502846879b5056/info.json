@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22b79aa461d3194ee94fc4c158502846879b5056",
+  "displayName": "Indigo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Indigo Token",
+    "symbol": "INDIGO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

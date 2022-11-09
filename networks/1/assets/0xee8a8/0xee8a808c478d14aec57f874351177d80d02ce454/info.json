@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee8a808c478d14aec57f874351177d80d02ce454",
+  "displayName": "UmbriaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "UmbriaToken",
+    "symbol": "UMBR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

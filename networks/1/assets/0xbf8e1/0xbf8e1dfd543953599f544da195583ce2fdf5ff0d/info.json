@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf8e1dfd543953599f544da195583ce2fdf5ff0d",
+  "displayName": "DegenID Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DegenID Token",
+    "symbol": "DID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

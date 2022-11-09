@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e4d0e9529b15df994a790015a5158160fe2584f",
+  "displayName": "BadgerStork",
+  "type": "TOKEN",
+  "token": {
+    "name": "BadgerStork",
+    "symbol": "BGRST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

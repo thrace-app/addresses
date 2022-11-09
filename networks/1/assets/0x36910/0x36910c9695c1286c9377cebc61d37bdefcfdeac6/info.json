@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36910c9695c1286c9377cebc61d37bdefcfdeac6",
+  "displayName": "Thirm Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Thirm Bitcoin",
+    "symbol": "tBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

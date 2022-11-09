@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xece83617db208ad255ad4f45daf81e25137535bb",
+  "displayName": "Invacio Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Invacio Coin",
+    "symbol": "INV",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

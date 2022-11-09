@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c0d9d54424ad38395bd4f26192935e7a31f20ae",
+  "displayName": "Ethereum Carbon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Carbon",
+    "symbol": "Carbon",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

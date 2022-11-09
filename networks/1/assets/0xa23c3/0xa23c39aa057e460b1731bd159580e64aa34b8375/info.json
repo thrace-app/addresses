@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa23c39aa057e460b1731bd159580e64aa34b8375",
+  "displayName": "KamaCash",
+  "type": "TOKEN",
+  "token": {
+    "name": "KamaCash",
+    "symbol": "KCASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

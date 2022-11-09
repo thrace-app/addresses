@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef826a1d83012e695d5842dc18c8df7564b7faa5",
+  "displayName": "BSM TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BSM TOKEN",
+    "symbol": "BSM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x253892e81d175922fb2c351f386147626641efe1",
+  "displayName": "Shorts Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shorts Token",
+    "symbol": "SHRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

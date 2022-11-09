@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42625760567738cf8d6bdd796c139b9d532c558e",
+  "displayName": "SHIBA USDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "SHIBA USDC",
+    "symbol": "SHIBUSDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

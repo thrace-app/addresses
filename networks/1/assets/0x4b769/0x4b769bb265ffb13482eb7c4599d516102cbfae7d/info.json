@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b769bb265ffb13482eb7c4599d516102cbfae7d",
+  "displayName": "Camembert Cheese",
+  "type": "TOKEN",
+  "token": {
+    "name": "Camembert Cheese",
+    "symbol": "CAMEMBERT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

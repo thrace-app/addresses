@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d8a0810596b1c4bfb4111d178fed9e1ffad4c3b",
+  "displayName": "BabyMillion Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BabyMillion Token",
+    "symbol": "BABYMM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

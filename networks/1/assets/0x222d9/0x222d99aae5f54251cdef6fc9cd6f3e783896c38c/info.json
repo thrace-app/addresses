@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x222d99aae5f54251cdef6fc9cd6f3e783896c38c",
+  "displayName": "Karma",
+  "type": "TOKEN",
+  "token": {
+    "name": "Karma",
+    "symbol": "Karma",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

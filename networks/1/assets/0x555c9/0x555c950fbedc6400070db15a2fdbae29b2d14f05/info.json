@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x555c950fbedc6400070db15a2fdbae29b2d14f05",
+  "displayName": "Inu Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inu Burn",
+    "symbol": "INUBURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

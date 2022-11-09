@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5afb5b51f534f48d3da7eb1160739e18c358d9fe",
+  "displayName": "Great wall Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Great wall Coin",
+    "symbol": "GWC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

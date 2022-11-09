@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6133a1d8c4bf787127b235f3677e119517a0c132",
+  "displayName": "StandardToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "StandardToken",
+    "symbol": "ST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

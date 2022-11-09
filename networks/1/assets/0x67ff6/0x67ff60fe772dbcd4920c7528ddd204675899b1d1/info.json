@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67ff60fe772dbcd4920c7528ddd204675899b1d1",
+  "displayName": "PoW Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "PoW Shiba",
+    "symbol": "POWSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

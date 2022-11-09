@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82a3ed1ed8ecb83210e1a3cb07e49da80340adbe",
+  "displayName": "KyneSys Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KyneSys Token",
+    "symbol": "KYS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

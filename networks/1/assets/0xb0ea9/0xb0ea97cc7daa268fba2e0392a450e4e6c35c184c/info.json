@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0ea97cc7daa268fba2e0392a450e4e6c35c184c",
+  "displayName": "Fidelity Gold Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fidelity Gold Token",
+    "symbol": "FGT",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

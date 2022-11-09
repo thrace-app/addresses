@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66d0c18b74c2e604096d1f4f16662a1be93419bf",
+  "displayName": "Thunder Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Thunder Cash",
+    "symbol": "tCash",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

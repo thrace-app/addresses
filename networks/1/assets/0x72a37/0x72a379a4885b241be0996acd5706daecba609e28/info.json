@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72a379a4885b241be0996acd5706daecba609e28",
+  "displayName": "CryptoWankers",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoWankers",
+    "symbol": "WANK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

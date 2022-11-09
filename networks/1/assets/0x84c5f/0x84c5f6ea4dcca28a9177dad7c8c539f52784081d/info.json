@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84c5f6ea4dcca28a9177dad7c8c539f52784081d",
+  "displayName": "Mike Pence",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mike Pence",
+    "symbol": "Pence",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

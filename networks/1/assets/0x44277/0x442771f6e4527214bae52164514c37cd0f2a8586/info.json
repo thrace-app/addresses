@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x442771f6e4527214bae52164514c37cd0f2a8586",
+  "displayName": "Pimp Doge Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pimp Doge Coin",
+    "symbol": "$PimpDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

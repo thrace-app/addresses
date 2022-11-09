@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x956b5d8bbbd81a03c545b75e99028d09326797de",
+  "displayName": "Ghidorah Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ghidorah Token",
+    "symbol": "Ghidorah",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

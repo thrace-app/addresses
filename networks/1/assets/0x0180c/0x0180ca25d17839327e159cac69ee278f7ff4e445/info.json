@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0180ca25d17839327e159cac69ee278f7ff4e445",
+  "displayName": "Safe Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Inu",
+    "symbol": "Safe",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

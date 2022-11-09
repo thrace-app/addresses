@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x373acda15ce392362e4b46ed97a7feecd7ef9eb8",
+  "displayName": "Squiggle DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Squiggle DAO Token",
+    "symbol": "SQUIG",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

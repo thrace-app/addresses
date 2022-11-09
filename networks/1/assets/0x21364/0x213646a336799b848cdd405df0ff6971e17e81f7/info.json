@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x213646a336799b848cdd405df0ff6971e17e81f7",
+  "displayName": "Dexthereum Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dexthereum Finance Token",
+    "symbol": "DXFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

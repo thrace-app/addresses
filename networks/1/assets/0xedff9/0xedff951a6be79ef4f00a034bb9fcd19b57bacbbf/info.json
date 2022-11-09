@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xedff951a6be79ef4f00a034bb9fcd19b57bacbbf",
+  "displayName": "PokerX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PokerX Token",
+    "symbol": "PKX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

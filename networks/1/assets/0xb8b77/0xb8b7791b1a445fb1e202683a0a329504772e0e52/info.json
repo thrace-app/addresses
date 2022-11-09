@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8b7791b1a445fb1e202683a0a329504772e0e52",
+  "displayName": "Student Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Student Coin",
+    "symbol": "STC",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

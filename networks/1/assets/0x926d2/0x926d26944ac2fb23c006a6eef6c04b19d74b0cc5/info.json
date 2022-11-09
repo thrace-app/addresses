@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x926d26944ac2fb23c006a6eef6c04b19d74b0cc5",
+  "displayName": "Metaroid Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Metaroid Token",
+    "symbol": "METAROID",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

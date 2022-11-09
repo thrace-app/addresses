@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x281fbb8cf9e988953237ea4db8b9e255f28ac703",
+  "displayName": "SafeBear",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeBear",
+    "symbol": "safebear.io",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

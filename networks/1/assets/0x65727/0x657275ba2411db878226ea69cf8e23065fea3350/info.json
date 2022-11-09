@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x657275ba2411db878226ea69cf8e23065fea3350",
+  "displayName": "Truth Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Truth Token",
+    "symbol": "TRUTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

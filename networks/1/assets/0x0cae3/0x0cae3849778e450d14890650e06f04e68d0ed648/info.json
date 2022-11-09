@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0cae3849778e450d14890650e06f04e68d0ed648",
+  "displayName": "Gatocoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gatocoin",
+    "symbol": "GATO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

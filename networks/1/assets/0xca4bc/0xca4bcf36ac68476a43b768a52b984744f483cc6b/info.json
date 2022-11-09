@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca4bcf36ac68476a43b768a52b984744f483cc6b",
+  "displayName": "PolkaCore",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkaCore",
+    "symbol": "pCORE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d5686eadea7327f5a0c4820dca90457a0e88763",
+  "displayName": "Ally Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ally Token",
+    "symbol": "ALY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

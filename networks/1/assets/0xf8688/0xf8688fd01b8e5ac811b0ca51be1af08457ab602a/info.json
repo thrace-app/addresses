@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8688fd01b8e5ac811b0ca51be1af08457ab602a",
+  "displayName": "EBankc Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EBankc Token",
+    "symbol": "EBCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

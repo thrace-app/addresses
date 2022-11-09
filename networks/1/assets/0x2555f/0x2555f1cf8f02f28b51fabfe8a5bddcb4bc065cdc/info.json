@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2555f1cf8f02f28b51fabfe8a5bddcb4bc065cdc",
+  "displayName": "SafeMoon Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeMoon Cash",
+    "symbol": "SMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd188aa25b391cfb4b3236199bf05b38b358c0a5f",
+  "displayName": "Michael Jackson",
+  "type": "TOKEN",
+  "token": {
+    "name": "Michael Jackson",
+    "symbol": "MJ",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb556b1064e4e171b721bc15109a5a84b2eeb7c8a",
+  "displayName": "Guy Fieri Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Guy Fieri Coin",
+    "symbol": "FIERI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

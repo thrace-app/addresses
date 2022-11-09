@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x713d57f701299ed6945d5079ce6679b7741023bb",
+  "displayName": "Tst",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tst",
+    "symbol": "Tst",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcbc1a0585a4ad6e327473edfbbd75d2c3758414f",
+  "displayName": "Common Ground Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Common Ground Token",
+    "symbol": "CGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a706b21139cfcff4996f9ea6a57ba249805587f",
+  "displayName": "McTest",
+  "type": "TOKEN",
+  "token": {
+    "name": "McTest",
+    "symbol": "MCG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87fb5a2e712e3ee57607c32c43ab177b0a234e0f",
+  "displayName": "Uniglo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uniglo Token",
+    "symbol": "GLO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5dc58b30c6c15eecfd03bcb2798055fe01ac8b2f",
+  "displayName": "To The Moon",
+  "type": "TOKEN",
+  "token": {
+    "name": "To The Moon",
+    "symbol": "ttMOON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

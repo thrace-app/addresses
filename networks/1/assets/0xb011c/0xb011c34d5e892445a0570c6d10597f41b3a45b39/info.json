@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb011c34d5e892445a0570c6d10597f41b3a45b39",
+  "displayName": "Wrapped CRES",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped CRES",
+    "symbol": "wCRES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

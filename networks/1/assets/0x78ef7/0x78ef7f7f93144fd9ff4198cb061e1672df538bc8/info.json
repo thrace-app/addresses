@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78ef7f7f93144fd9ff4198cb061e1672df538bc8",
+  "displayName": "Cosmic Latte",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cosmic Latte",
+    "symbol": "LATTE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfcf6d31187a8c56bc3b04761f1d7a8a385b51b4f",
+  "displayName": "Kakao NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kakao NFT",
+    "symbol": "Kakao",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

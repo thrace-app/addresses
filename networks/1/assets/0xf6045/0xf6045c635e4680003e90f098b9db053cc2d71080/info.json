@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6045c635e4680003e90f098b9db053cc2d71080",
+  "displayName": "Meth Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meth Token",
+    "symbol": "METH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

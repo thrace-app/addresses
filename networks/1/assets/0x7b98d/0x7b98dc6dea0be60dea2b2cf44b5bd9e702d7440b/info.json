@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b98dc6dea0be60dea2b2cf44b5bd9e702d7440b",
+  "displayName": "BitrouToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitrouToken",
+    "symbol": "ROT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

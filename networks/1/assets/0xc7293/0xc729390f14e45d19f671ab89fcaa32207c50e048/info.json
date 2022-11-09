@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc729390f14e45d19f671ab89fcaa32207c50e048",
+  "displayName": "Dynamic Supply Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dynamic Supply Token",
+    "symbol": "DST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

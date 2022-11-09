@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbad92ce565f0d0024f8ae81c0abea239b3560532",
+  "displayName": "Chocolate Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chocolate Inu",
+    "symbol": "CHINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

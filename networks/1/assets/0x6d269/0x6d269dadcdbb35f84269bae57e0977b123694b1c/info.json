@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d269dadcdbb35f84269bae57e0977b123694b1c",
+  "displayName": "Indacoin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Indacoin Token",
+    "symbol": "INDA",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

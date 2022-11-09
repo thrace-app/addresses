@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8912db7d4c302c543eb8c0f97a90d705932e384b",
+  "displayName": "monkeyswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "monkeyswap",
+    "symbol": "MONKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

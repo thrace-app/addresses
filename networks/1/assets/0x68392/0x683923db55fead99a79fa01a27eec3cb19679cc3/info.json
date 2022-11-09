@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x683923db55fead99a79fa01a27eec3cb19679cc3",
+  "displayName": "Aave interest bearing FEI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave interest bearing FEI",
+    "symbol": "aFEI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

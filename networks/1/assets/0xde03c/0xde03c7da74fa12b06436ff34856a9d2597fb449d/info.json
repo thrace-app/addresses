@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde03c7da74fa12b06436ff34856a9d2597fb449d",
+  "displayName": "Freddy DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Freddy DAO",
+    "symbol": "FDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

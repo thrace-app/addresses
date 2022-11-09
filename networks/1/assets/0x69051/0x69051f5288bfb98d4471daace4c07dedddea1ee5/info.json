@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69051f5288bfb98d4471daace4c07dedddea1ee5",
+  "displayName": "DabbyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DabbyToken",
+    "symbol": "DBBY",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

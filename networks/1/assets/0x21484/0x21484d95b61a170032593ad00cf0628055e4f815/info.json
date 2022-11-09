@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21484d95b61a170032593ad00cf0628055e4f815",
+  "displayName": "[MEVo]TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "[MEVo]TOKEN",
+    "symbol": "Mevo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

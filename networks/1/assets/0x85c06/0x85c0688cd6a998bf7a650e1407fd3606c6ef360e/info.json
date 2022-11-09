@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85c0688cd6a998bf7a650e1407fd3606c6ef360e",
+  "displayName": "Pancake Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pancake Token",
+    "symbol": "PNCK",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

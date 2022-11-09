@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1be9f6861d11f2fd363a75225040ede6374b65bf",
+  "displayName": "TokenTrezor.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "TokenTrezor.com",
+    "symbol": "TOTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

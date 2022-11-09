@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc40bab13e15daee1a03315247fe89457fc1fc84b",
+  "displayName": "GameBonusCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GameBonusCoin",
+    "symbol": "GBCN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

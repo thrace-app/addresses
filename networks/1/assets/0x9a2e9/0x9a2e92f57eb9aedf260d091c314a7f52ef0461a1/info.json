@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a2e92f57eb9aedf260d091c314a7f52ef0461a1",
+  "displayName": "GELDCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GELDCoin",
+    "symbol": "GELDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

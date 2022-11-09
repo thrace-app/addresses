@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb4c24ef65fa533a95d77a864a77759b5c3a0f0c",
+  "displayName": "FlanoSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlanoSwap",
+    "symbol": "FLAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

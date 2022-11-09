@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x376911779fee06a5e3c76b45bf218485d7314190",
+  "displayName": "TGIK Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TGIK Token",
+    "symbol": "TGIK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

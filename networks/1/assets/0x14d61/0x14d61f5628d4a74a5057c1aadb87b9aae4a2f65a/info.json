@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14d61f5628d4a74a5057c1aadb87b9aae4a2f65a",
+  "displayName": "Proof of Satoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Satoshi",
+    "symbol": "BTC2.0",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

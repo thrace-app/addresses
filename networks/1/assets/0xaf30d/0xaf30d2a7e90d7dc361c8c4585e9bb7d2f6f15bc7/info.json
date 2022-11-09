@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7",
+  "displayName": "FirstBlood Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FirstBlood Token",
+    "symbol": "1ST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e2caad256bd9795d7cb7886b7036b4bdd4039cb",
+  "displayName": "Poki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Poki Token",
+    "symbol": "POKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

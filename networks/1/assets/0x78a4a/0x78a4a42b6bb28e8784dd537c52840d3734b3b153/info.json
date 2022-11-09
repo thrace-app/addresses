@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78a4a42b6bb28e8784dd537c52840d3734b3b153",
+  "displayName": "Rick and Morty Navigator",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rick and Morty Navigator",
+    "symbol": "RICKM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

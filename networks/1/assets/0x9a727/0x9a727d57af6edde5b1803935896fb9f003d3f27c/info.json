@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a727d57af6edde5b1803935896fb9f003d3f27c",
+  "displayName": "UST Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "UST Inu",
+    "symbol": "USTINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

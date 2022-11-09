@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20e00041129b4d8a8574a6c0e28a9e71c754aeca",
+  "displayName": "PIGGY",
+  "type": "TOKEN",
+  "token": {
+    "name": "PIGGY",
+    "symbol": "OINK",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8a307be5a415431d348ffa6b2badf54424885bf",
+  "displayName": "Unicorn Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unicorn Protocol",
+    "symbol": "UP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc22956c3cfec3ee9a9925abee044f05bc47f6632",
+  "displayName": "Celo Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Celo Dollar",
+    "symbol": "cUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12b28e6fffa7ff813b15b597d894d5ef5b0b7428",
+  "displayName": "NanoCore",
+  "type": "TOKEN",
+  "token": {
+    "name": "NanoCore",
+    "symbol": "NANOCORE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

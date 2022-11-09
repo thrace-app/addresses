@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x600097c77791f6ba18f6255123c2d27e6ca250d3",
+  "displayName": "GOUBAO token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GOUBAO token",
+    "symbol": "GBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

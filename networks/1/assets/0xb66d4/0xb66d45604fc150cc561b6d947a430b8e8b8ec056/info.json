@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb66d45604fc150cc561b6d947a430b8e8b8ec056",
+  "displayName": "Fluf Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fluf Token",
+    "symbol": "FLUF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

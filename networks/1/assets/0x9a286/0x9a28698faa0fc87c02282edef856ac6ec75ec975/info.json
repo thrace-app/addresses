@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a28698faa0fc87c02282edef856ac6ec75ec975",
+  "displayName": "FREXA Test Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FREXA Test Token",
+    "symbol": "FRXT",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

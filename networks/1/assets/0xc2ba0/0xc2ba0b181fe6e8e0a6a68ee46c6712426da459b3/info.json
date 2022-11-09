@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2ba0b181fe6e8e0a6a68ee46c6712426da459b3",
+  "displayName": "tokenNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "tokenNFT",
+    "symbol": "tNFT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

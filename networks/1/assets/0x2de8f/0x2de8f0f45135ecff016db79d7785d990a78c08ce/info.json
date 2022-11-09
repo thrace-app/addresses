@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2de8f0f45135ecff016db79d7785d990a78c08ce",
+  "displayName": "The Snap",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Snap",
+    "symbol": "SNAP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

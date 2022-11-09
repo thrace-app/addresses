@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d8830b745fda5c698fcdde7070ca71d74309b29",
+  "displayName": "WW3Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WW3Token",
+    "symbol": "WW3",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

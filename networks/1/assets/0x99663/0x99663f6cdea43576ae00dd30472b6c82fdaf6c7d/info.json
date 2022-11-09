@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99663f6cdea43576ae00dd30472b6c82fdaf6c7d",
+  "displayName": "Winners",
+  "type": "TOKEN",
+  "token": {
+    "name": "Winners",
+    "symbol": "WIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

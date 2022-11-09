@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d995dff18a77994e197eba0be8efa11293f137b",
+  "displayName": "Detro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Detro Token",
+    "symbol": "Detro",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

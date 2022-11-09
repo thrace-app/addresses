@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44d24cca11166fcce6e1c43181e76411653f0191",
+  "displayName": "SwapHelper Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SwapHelper Token",
+    "symbol": "SHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

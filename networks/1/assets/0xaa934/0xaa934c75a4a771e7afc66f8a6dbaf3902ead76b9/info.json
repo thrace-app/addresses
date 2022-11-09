@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa934c75a4a771e7afc66f8a6dbaf3902ead76b9",
+  "displayName": "The Musk Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Musk Protocol",
+    "symbol": "Elon",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

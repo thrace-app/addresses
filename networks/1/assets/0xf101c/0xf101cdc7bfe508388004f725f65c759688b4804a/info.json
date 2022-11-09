@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf101cdc7bfe508388004f725f65c759688b4804a",
+  "displayName": "Ars Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ars Token",
+    "symbol": "ARS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

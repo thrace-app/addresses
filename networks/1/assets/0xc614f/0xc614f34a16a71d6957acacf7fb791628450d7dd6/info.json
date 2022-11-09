@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc614f34a16a71d6957acacf7fb791628450d7dd6",
+  "displayName": "Cypher token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cypher token",
+    "symbol": "CYP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

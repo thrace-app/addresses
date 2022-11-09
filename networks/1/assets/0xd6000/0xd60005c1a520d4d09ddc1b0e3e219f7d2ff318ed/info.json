@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd60005c1a520d4d09ddc1b0e3e219f7d2ff318ed",
+  "displayName": "Orochi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Orochi Token",
+    "symbol": "Orochi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

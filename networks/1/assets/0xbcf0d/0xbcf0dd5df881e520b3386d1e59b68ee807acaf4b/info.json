@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbcf0dd5df881e520b3386d1e59b68ee807acaf4b",
+  "displayName": "Toxic",
+  "type": "TOKEN",
+  "token": {
+    "name": "Toxic",
+    "symbol": "TOXIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

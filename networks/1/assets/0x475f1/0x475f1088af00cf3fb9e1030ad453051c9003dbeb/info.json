@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x475f1088af00cf3fb9e1030ad453051c9003dbeb",
+  "displayName": "Homeless Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Homeless Token",
+    "symbol": "HOMELESS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcdef3fadbf339dc65676e1866eb4c1d901587c46",
+  "displayName": "Viking Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Viking Finance",
+    "symbol": "VIKING",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

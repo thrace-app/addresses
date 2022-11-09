@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb2a01ad9738450f082e5238e43b17fe80781faae",
+  "displayName": "Food Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Food Token",
+    "symbol": "FDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

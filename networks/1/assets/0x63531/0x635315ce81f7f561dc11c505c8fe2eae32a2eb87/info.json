@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x635315ce81f7f561dc11c505c8fe2eae32a2eb87",
+  "displayName": "Peking Duck",
+  "type": "TOKEN",
+  "token": {
+    "name": "Peking Duck",
+    "symbol": "PDUCK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

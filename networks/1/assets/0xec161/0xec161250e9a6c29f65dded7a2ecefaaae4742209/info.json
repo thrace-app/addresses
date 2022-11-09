@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec161250e9a6c29f65dded7a2ecefaaae4742209",
+  "displayName": "1inch network token",
+  "type": "TOKEN",
+  "token": {
+    "name": "1inch network token",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

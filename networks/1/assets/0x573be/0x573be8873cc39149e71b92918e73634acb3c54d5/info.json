@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x573be8873cc39149e71b92918e73634acb3c54d5",
+  "displayName": "FridayBeers",
+  "type": "TOKEN",
+  "token": {
+    "name": "FridayBeers",
+    "symbol": "BEER",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5f6bbbc50f0eff85114bebcdcd2af5d688ab86f",
+  "displayName": "Zilladin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zilladin Token",
+    "symbol": "ZILLADIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

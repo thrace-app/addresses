@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x978b1ec350eb62ceef82dc016815ee85a38da3e4",
+  "displayName": "Unmarshal Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unmarshal Token",
+    "symbol": "MARSH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

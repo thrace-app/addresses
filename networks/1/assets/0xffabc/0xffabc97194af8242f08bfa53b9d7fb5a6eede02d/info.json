@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xffabc97194af8242f08bfa53b9d7fb5a6eede02d",
+  "displayName": "Shiba Kart",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Kart",
+    "symbol": "ShibaKart",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

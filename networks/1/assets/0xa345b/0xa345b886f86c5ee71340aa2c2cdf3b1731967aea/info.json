@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa345b886f86c5ee71340aa2c2cdf3b1731967aea",
+  "displayName": "GME Dividend",
+  "type": "TOKEN",
+  "token": {
+    "name": "GME Dividend",
+    "symbol": "GMED",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

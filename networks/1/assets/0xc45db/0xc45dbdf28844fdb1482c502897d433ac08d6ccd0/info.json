@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc45dbdf28844fdb1482c502897d433ac08d6ccd0",
+  "displayName": "BitNautic Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitNautic Token",
+    "symbol": "BTNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

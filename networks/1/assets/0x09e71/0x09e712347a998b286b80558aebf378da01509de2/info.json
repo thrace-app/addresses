@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09e712347a998b286b80558aebf378da01509de2",
+  "displayName": "CryptoPetroleum",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoPetroleum",
+    "symbol": "PETROLEUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

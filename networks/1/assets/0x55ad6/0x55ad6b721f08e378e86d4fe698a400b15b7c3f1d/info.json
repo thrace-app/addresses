@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55ad6b721f08e378e86d4fe698a400b15b7c3f1d",
+  "displayName": "Stepsister Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stepsister Token",
+    "symbol": "STEPSIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

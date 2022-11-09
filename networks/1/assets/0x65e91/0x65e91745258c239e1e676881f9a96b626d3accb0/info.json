@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65e91745258c239e1e676881f9a96b626d3accb0",
+  "displayName": "New Community Solana",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Community Solana",
+    "symbol": "cSOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d09144f3479bb805cb7c92346987420bcbdc10c",
+  "displayName": "CreamY USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "CreamY USD",
+    "symbol": "cyUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

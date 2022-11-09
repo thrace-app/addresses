@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf21a813b7847b6e912fb1ee6b4196d6ad4f7350f",
+  "displayName": "Urbit ID",
+  "type": "TOKEN",
+  "token": {
+    "name": "Urbit ID",
+    "symbol": "DUST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

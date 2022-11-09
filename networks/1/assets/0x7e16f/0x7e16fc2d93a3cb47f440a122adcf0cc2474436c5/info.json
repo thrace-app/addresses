@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e16fc2d93a3cb47f440a122adcf0cc2474436c5",
+  "displayName": "cp0x token",
+  "type": "TOKEN",
+  "token": {
+    "name": "cp0x token",
+    "symbol": "CP0X",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

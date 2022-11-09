@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b4d9e591c6324cbbb1355bc50a27892fd2af99c",
+  "displayName": "Synth CryptoCurrency Index",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth CryptoCurrency Index",
+    "symbol": "xCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

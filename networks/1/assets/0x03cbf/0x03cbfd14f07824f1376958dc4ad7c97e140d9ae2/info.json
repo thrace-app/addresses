@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03cbfd14f07824f1376958dc4ad7c97e140d9ae2",
+  "displayName": "Rcs Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rcs Token",
+    "symbol": "RCS",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

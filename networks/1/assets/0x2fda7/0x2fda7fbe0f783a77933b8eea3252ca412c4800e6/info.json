@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2fda7fbe0f783a77933b8eea3252ca412c4800e6",
+  "displayName": "Defi vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "Defi vault",
+    "symbol": "VAVLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x582d66c6d81ee943566f41895475f47f7ccf9f90",
+  "displayName": "Rich Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rich Doge",
+    "symbol": "RDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

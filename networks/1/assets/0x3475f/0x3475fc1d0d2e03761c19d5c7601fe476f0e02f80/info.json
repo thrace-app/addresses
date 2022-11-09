@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3475fc1d0d2e03761c19d5c7601fe476f0e02f80",
+  "displayName": "Beep",
+  "type": "TOKEN",
+  "token": {
+    "name": "Beep",
+    "symbol": "BOTZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

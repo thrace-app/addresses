@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4964b8372fc6a0e344629162b5519ccd63523e1a",
+  "displayName": "LlamaLend Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LlamaLend Token",
+    "symbol": "LLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6415a92f59d7e8eb09a8e082773cedf08910855d",
+  "displayName": "CubeDao Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CubeDao Token",
+    "symbol": "CDA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

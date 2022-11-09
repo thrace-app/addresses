@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8988a8b29570f84bbf786c90d595547db4deb238",
+  "displayName": "4chan.org Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "4chan.org Token",
+    "symbol": "CHAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

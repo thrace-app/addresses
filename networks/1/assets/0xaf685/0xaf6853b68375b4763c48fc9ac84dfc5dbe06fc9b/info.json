@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf6853b68375b4763c48fc9ac84dfc5dbe06fc9b",
+  "displayName": "Democracy Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Democracy Coin",
+    "symbol": "DC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

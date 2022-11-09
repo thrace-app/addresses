@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90598be3a9123b7c0aa02e793e0235c0e59e5bc6",
+  "displayName": "BarterTrade",
+  "type": "TOKEN",
+  "token": {
+    "name": "BarterTrade",
+    "symbol": "BRTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

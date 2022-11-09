@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04e19e1e40cfd8c93c9a570b67835dfedefdfa26",
+  "displayName": "Proof of Santa",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Santa",
+    "symbol": "PoS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb559b328606f474918cef6d04f5696b2ee72e46c",
+  "displayName": "Bitcoin SON",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin SON",
+    "symbol": "BTCSON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

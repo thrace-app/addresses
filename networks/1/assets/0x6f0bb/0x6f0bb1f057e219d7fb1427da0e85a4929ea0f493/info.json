@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f0bb1f057e219d7fb1427da0e85a4929ea0f493",
+  "displayName": "The RIO",
+  "type": "TOKEN",
+  "token": {
+    "name": "The RIO",
+    "symbol": "$RIO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

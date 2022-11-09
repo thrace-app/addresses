@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9fdbfa316dee1c0d6c641f3208c31daacf199737",
+  "displayName": "Glow Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Glow Token",
+    "symbol": "GLOW",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3d2456419ae0eff10917a1fe56da78ecfd7f897",
+  "displayName": "He Who Sends It",
+  "type": "TOKEN",
+  "token": {
+    "name": "He Who Sends It",
+    "symbol": "SENDER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

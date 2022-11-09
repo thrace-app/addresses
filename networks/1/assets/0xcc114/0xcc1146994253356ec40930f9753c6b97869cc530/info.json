@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc1146994253356ec40930f9753c6b97869cc530",
+  "displayName": "OneChanceToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "OneChanceToken",
+    "symbol": "OCT",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

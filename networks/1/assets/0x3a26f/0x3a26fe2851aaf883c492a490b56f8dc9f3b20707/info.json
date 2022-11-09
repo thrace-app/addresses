@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a26fe2851aaf883c492a490b56f8dc9f3b20707",
+  "displayName": "Depth Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Depth Token",
+    "symbol": "DEP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

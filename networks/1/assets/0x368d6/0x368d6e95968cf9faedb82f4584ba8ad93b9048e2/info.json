@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x368d6e95968cf9faedb82f4584ba8ad93b9048e2",
+  "displayName": "Fancy Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fancy Doge",
+    "symbol": "FOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

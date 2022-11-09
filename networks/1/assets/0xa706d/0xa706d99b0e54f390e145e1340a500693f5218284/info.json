@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa706d99b0e54f390e145e1340a500693f5218284",
+  "displayName": "BentoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BentoToken",
+    "symbol": "BENTO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

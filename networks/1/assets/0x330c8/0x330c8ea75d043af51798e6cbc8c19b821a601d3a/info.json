@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x330c8ea75d043af51798e6cbc8c19b821a601d3a",
+  "displayName": "ESQToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ESQToken",
+    "symbol": "ESQ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c2cd519a25fff332d98e83462c035fe7f692f8b",
+  "displayName": "SquanchCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SquanchCoin",
+    "symbol": "SQUANCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66c42148f8db090274296ec4314113771b7f66e8",
+  "displayName": "Smoke Protocol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smoke Protocol Token",
+    "symbol": "$SMOKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

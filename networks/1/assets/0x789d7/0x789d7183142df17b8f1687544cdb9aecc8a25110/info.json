@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x789d7183142df17b8f1687544cdb9aecc8a25110",
+  "displayName": "The Cure DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Cure DAO",
+    "symbol": "CURE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

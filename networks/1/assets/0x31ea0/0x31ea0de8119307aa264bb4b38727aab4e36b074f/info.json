@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x31ea0de8119307aa264bb4b38727aab4e36b074f",
+  "displayName": "Bit Store Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bit Store Coin",
+    "symbol": "STORE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

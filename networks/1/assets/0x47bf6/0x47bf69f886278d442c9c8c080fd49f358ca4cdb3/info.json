@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47bf69f886278d442c9c8c080fd49f358ca4cdb3",
+  "displayName": "Silver Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Silver Protocol",
+    "symbol": "SILVER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

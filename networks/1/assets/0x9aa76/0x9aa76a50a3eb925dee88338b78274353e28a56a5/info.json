@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9aa76a50a3eb925dee88338b78274353e28a56a5",
+  "displayName": "BRAVO",
+  "type": "TOKEN",
+  "token": {
+    "name": "BRAVO",
+    "symbol": "ECHO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

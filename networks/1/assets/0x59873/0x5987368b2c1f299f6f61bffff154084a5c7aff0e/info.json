@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5987368b2c1f299f6f61bffff154084a5c7aff0e",
+  "displayName": "Bye Bezos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bye Bezos",
+    "symbol": "BYEBEZOS",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

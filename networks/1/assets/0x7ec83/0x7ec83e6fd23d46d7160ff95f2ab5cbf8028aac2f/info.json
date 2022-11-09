@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ec83e6fd23d46d7160ff95f2ab5cbf8028aac2f",
+  "displayName": "One Piece Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "One Piece Token",
+    "symbol": "OPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

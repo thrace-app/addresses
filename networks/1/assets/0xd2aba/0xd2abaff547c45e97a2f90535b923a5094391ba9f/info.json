@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2abaff547c45e97a2f90535b923a5094391ba9f",
+  "displayName": "PeoplesATM",
+  "type": "TOKEN",
+  "token": {
+    "name": "PeoplesATM",
+    "symbol": "PATM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

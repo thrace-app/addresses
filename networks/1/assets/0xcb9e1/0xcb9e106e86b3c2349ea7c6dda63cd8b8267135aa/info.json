@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb9e106e86b3c2349ea7c6dda63cd8b8267135aa",
+  "displayName": "PickleToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PickleToken",
+    "symbol": "PICKLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

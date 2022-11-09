@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc6e06778708177a18210181b073da747c88490a",
+  "displayName": "Syndicate Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Syndicate Token",
+    "symbol": "SYNR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

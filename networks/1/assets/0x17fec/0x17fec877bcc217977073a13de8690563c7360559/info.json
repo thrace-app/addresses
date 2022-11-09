@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17fec877bcc217977073a13de8690563c7360559",
+  "displayName": "Faith Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Faith Token",
+    "symbol": "FAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

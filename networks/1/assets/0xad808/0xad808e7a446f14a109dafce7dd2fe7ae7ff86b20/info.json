@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad808e7a446f14a109dafce7dd2fe7ae7ff86b20",
+  "displayName": "BAFI Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BAFI Finance Token",
+    "symbol": "BAFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

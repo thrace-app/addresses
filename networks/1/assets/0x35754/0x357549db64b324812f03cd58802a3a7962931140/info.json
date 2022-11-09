@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x357549db64b324812f03cd58802a3a7962931140",
+  "displayName": "Square Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Square Token",
+    "symbol": "SQUARE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdadb60e8d97ffcf75e4a4b9d00bde41af739211a",
+  "displayName": "Umms Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Umms Token",
+    "symbol": "UMMS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

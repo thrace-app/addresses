@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53df85a0ec5d0a5cf899ed4aa1e3ec8545f27ae6",
+  "displayName": "Nigerian Naira",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nigerian Naira",
+    "symbol": "$NGN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

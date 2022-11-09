@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0d3141d4cef0230afa71fa993ec7b40b951a248",
+  "displayName": "Tricrypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tricrypto",
+    "symbol": "TRIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

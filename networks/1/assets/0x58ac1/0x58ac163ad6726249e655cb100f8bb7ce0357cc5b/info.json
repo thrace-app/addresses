@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x58ac163ad6726249e655cb100f8bb7ce0357cc5b",
+  "displayName": "Bears On The Block",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bears On The Block",
+    "symbol": "BOTB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

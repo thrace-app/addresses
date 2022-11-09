@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5af306d3cdcf1fe9194f787bd42c6694ec150ab",
+  "displayName": "FlipsideToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FlipsideToken",
+    "symbol": "FLIT",
+    "decimals": 11,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1355b0fa2b67695814dcf1e0c36e796bfbe7dabf",
+  "displayName": "Siberian Husky Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Siberian Husky Token",
+    "symbol": "SHU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

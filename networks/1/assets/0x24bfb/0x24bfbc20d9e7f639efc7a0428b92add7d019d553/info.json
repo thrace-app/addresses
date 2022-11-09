@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24bfbc20d9e7f639efc7a0428b92add7d019d553",
+  "displayName": "Fast Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fast Doge",
+    "symbol": "FastDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

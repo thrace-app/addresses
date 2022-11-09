@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x46eef6df28e501799f2c12eb44f49dc2f1d09049",
+  "displayName": "Ethereum Dragon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Dragon",
+    "symbol": "EDG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

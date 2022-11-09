@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b1a3bd407430e73cc20b64de8610ae73dbdc495",
+  "displayName": "Green Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Token",
+    "symbol": "GRNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

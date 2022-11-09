@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dff249961d6d9af4af5ccb579d0acabc87dae1b",
+  "displayName": "coffee.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "coffee.finance",
+    "symbol": "COYFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

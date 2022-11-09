@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x741c338d702c34e051e8bcb02b19a213f266c8df",
+  "displayName": "Flow Pool Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flow Pool Token",
+    "symbol": "FPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

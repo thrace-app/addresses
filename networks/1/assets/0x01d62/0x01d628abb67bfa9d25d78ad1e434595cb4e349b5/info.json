@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01d628abb67bfa9d25d78ad1e434595cb4e349b5",
+  "displayName": "Doge Universe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Universe",
+    "symbol": "DOGEU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

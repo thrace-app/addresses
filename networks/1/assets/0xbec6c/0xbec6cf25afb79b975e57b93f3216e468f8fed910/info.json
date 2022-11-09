@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbec6cf25afb79b975e57b93f3216e468f8fed910",
+  "displayName": "ImmunityToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ImmunityToken",
+    "symbol": "IMTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

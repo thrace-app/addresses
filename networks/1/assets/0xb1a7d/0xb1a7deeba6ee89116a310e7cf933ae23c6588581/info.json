@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1a7deeba6ee89116a310e7cf933ae23c6588581",
+  "displayName": "Untitled Duck Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Untitled Duck Coin",
+    "symbol": "UNDUCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

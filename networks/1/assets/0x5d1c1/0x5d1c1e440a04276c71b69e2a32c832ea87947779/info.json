@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d1c1e440a04276c71b69e2a32c832ea87947779",
+  "displayName": "Mina Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mina Protocol",
+    "symbol": "MIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6441372079871da9ba9baeed65ea9108d211abb7",
+  "displayName": "Lunacorn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lunacorn",
+    "symbol": "LCORN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

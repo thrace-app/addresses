@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43d2f2d0ca71b602e19e47f9cd7e6e5e0ccd7723",
+  "displayName": "PifCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PifCoin",
+    "symbol": "PFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

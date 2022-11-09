@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36dcffd8c8adc2264fcd226c0ef8b9562686a9a9",
+  "displayName": "SafeBezos",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeBezos",
+    "symbol": "SAFEBEZOS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

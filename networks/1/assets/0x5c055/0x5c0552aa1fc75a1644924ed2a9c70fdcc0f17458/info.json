@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c0552aa1fc75a1644924ed2a9c70fdcc0f17458",
+  "displayName": "Bongo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bongo Token",
+    "symbol": "BONGO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

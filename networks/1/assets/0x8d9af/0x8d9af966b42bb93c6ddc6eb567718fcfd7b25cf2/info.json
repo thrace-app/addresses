@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d9af966b42bb93c6ddc6eb567718fcfd7b25cf2",
+  "displayName": "Unochain Staker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unochain Staker",
+    "symbol": "UNOST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

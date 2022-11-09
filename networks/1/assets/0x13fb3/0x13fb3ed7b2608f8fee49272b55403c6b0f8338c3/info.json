@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13fb3ed7b2608f8fee49272b55403c6b0f8338c3",
+  "displayName": "Petals Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Petals Token",
+    "symbol": "PETALS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

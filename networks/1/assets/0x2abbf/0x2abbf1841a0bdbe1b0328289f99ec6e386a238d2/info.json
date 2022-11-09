@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2abbf1841a0bdbe1b0328289f99ec6e386a238d2",
+  "displayName": "BATMAN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BATMAN",
+    "symbol": "BAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

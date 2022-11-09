@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5045ec109e9cd2454bd82246b50af472da8a5049",
+  "displayName": "Doge Farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Farm",
+    "symbol": "HARVEST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

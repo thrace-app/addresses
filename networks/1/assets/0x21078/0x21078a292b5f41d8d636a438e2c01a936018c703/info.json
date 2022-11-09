@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21078a292b5f41d8d636a438e2c01a936018c703",
+  "displayName": "The Balls Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Balls Protocol",
+    "symbol": "BALLS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

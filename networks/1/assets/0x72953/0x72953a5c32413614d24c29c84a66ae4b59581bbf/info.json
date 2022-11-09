@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x72953a5c32413614d24c29c84a66ae4b59581bbf",
+  "displayName": "CLever Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CLever Token",
+    "symbol": "CLEV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

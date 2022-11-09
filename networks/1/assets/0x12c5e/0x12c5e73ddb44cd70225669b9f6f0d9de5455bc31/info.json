@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12c5e73ddb44cd70225669b9f6f0d9de5455bc31",
+  "displayName": "Idoneus Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Idoneus Token",
+    "symbol": "IDON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

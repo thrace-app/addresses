@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0475bf6514c20f194daf17e38653387664b82e8",
+  "displayName": "PowerKee Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PowerKee Token",
+    "symbol": "PKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

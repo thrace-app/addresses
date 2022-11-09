@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e601e60b584b2bec4bdb92c7bf2de474785c566",
+  "displayName": "wAAVE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "wAAVE Token",
+    "symbol": "WAAVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4fa4da7e9758a780d6d8ae3bcd007986cebe75fa",
+  "displayName": "Flysio Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flysio Token",
+    "symbol": "FLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

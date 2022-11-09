@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac4df2d98f14495263b9dfbc47451c46d8ab0a30",
+  "displayName": "Belden Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Belden Coin",
+    "symbol": "BDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

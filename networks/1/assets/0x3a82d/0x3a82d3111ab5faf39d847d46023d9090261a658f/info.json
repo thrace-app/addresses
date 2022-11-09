@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a82d3111ab5faf39d847d46023d9090261a658f",
+  "displayName": "Tycoon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tycoon Token",
+    "symbol": "TYC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4171a3303cb65c04e6aba4d1aa1632c04a472960",
+  "displayName": "The Exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Exchange",
+    "symbol": "TEE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

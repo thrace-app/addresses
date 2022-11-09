@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43042004bbf081ba75ec5dd8282d0ee638c8e08f",
+  "displayName": "DCP token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DCP token",
+    "symbol": "DCP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

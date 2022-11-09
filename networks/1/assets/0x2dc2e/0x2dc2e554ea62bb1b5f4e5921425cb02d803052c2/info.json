@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dc2e554ea62bb1b5f4e5921425cb02d803052c2",
+  "displayName": "ADAM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ADAM Token",
+    "symbol": "ADAM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

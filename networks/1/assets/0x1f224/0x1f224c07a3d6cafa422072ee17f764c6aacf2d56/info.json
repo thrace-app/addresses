@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f224c07a3d6cafa422072ee17f764c6aacf2d56",
+  "displayName": "Kyvalion Token Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kyvalion Token Coin",
+    "symbol": "KTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

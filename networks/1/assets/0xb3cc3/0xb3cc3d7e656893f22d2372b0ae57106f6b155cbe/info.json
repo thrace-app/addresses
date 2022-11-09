@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3cc3d7e656893f22d2372b0ae57106f6b155cbe",
+  "displayName": "Dogger Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dogger Token",
+    "symbol": "DOGGER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf9abaeec0334fd30804446db7423abe0c02ef47d",
+  "displayName": "SHO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SHO Token",
+    "symbol": "SHO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

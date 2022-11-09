@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x192e9d29d43db385063799bc239e772c3b6888f3",
+  "displayName": "FARM_crvRenWBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "FARM_crvRenWBTC",
+    "symbol": "fcrvRenWBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

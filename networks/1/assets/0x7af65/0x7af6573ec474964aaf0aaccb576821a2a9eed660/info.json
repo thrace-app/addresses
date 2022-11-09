@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7af6573ec474964aaf0aaccb576821a2a9eed660",
+  "displayName": "PirateCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PirateCoin",
+    "symbol": "PirateCoin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

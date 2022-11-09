@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90a21d67fb371bb1f471787d77e643233dfd71b7",
+  "displayName": "You need coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "You need coin",
+    "symbol": "YNC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

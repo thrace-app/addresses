@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b266c77eed49b314f6698aee03a7adf0162eb66",
+  "displayName": "Tether Meta Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tether Meta Token",
+    "symbol": "TMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

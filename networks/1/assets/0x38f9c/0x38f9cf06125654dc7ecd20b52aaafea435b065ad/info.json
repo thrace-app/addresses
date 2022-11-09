@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38f9cf06125654dc7ecd20b52aaafea435b065ad",
+  "displayName": "Ether Leash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether Leash",
+    "symbol": "eLeash",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

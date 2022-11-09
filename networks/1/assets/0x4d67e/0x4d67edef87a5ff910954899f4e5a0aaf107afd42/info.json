@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d67edef87a5ff910954899f4e5a0aaf107afd42",
+  "displayName": "BlueSparrowToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlueSparrowToken",
+    "symbol": "BlueSparrow",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

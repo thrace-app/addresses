@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b6c1fbd15ddb55bbee4e973b85f80493a5dbc0a",
+  "displayName": "DeFibrillator Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFibrillator Chain",
+    "symbol": "DFIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x346b17d2fff8e78dd01f8beb222bced3e218241a",
+  "displayName": "Ethereum Banana",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Banana",
+    "symbol": "EBAN 🍌",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

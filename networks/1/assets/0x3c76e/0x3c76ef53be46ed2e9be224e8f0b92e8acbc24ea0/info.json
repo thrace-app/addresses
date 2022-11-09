@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c76ef53be46ed2e9be224e8f0b92e8acbc24ea0",
+  "displayName": "BitsouToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitsouToken",
+    "symbol": "BTU",
+    "decimals": 3,
+    "type": "ERC20"
+  }
+}

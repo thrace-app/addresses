@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad1ffee89cd0ab18b1cbb321c899bd6d2090bbe3",
+  "displayName": "Pom Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pom Bank",
+    "symbol": "PomB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

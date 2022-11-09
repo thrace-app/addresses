@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a14508ad2c40b7aad91a8e677f8dee3b79b0c92",
+  "displayName": "The Home Depot",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Home Depot",
+    "symbol": "Home Depot",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

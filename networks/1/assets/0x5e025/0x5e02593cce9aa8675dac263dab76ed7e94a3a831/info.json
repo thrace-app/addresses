@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e02593cce9aa8675dac263dab76ed7e94a3a831",
+  "displayName": "Pogger Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pogger Token",
+    "symbol": "POGGER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

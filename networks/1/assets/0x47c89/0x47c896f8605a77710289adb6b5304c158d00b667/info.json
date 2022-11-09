@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47c896f8605a77710289adb6b5304c158d00b667",
+  "displayName": "TheSmith",
+  "type": "TOKEN",
+  "token": {
+    "name": "TheSmith",
+    "symbol": "Smith",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd93b88fbc8bc392523a94a086576c73bb8d305b9",
+  "displayName": "Mango Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mango Doge",
+    "symbol": "MDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

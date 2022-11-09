@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06f37c5640889a0c9f78213b1cb132482ac2ee2c",
+  "displayName": "Daddy Doge Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Daddy Doge Token",
+    "symbol": "DADDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

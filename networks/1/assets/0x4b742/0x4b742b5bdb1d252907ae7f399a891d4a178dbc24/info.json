@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b742b5bdb1d252907ae7f399a891d4a178dbc24",
+  "displayName": "B One Payment",
+  "type": "TOKEN",
+  "token": {
+    "name": "B One Payment",
+    "symbol": "B1P",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

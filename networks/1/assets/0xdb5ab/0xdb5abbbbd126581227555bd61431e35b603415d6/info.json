@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb5abbbbd126581227555bd61431e35b603415d6",
+  "displayName": "finance.Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "finance.Token",
+    "symbol": "FTOC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

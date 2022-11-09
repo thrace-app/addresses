@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48ca1b283148a9c90bb443c45360f1dd19b47f12",
+  "displayName": "Coingecko token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coingecko token",
+    "symbol": "CGK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

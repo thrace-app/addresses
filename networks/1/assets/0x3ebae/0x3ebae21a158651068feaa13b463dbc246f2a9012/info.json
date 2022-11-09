@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ebae21a158651068feaa13b463dbc246f2a9012",
+  "displayName": "Flip Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flip Doge",
+    "symbol": "FLIPDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

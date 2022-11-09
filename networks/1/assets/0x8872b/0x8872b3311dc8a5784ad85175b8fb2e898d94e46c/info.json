@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8872b3311dc8a5784ad85175b8fb2e898d94e46c",
+  "displayName": "newtonium.org",
+  "type": "TOKEN",
+  "token": {
+    "name": "newtonium.org",
+    "symbol": "NEWTON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

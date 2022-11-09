@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3006e97182dcc0c1affd169794eacbb66a6daa2",
+  "displayName": "Zahir Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zahir Token",
+    "symbol": "ZAHIR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

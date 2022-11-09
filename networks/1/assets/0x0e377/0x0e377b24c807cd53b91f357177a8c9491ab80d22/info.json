@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e377b24c807cd53b91f357177a8c9491ab80d22",
+  "displayName": "Dog Money DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dog Money DAO",
+    "symbol": "DMD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

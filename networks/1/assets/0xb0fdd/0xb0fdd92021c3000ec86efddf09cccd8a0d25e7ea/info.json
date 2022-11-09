@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0fdd92021c3000ec86efddf09cccd8a0d25e7ea",
+  "displayName": "Flamezy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flamezy Token",
+    "symbol": "Flamezy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3edb60ce9af70530578c8406a9108aff03266c59",
+  "displayName": "Brother Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brother Token",
+    "symbol": "BROTHER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

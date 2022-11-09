@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x204557cc98a38ab0543778df008f7b43adb239d7",
+  "displayName": "CryptoWorld",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoWorld",
+    "symbol": "CW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

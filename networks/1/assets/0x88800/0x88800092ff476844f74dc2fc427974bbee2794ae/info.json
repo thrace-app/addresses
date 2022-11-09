@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88800092ff476844f74dc2fc427974bbee2794ae",
+  "displayName": "Ambire Wallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ambire Wallet",
+    "symbol": "WALLET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09156797aea901337197b2582930ff06cde6210e",
+  "displayName": "DragOn Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "DragOn Burn",
+    "symbol": "DOB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

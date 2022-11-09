@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe8cee66429035443024657356302fa26790b401",
+  "displayName": "BrainWash",
+  "type": "TOKEN",
+  "token": {
+    "name": "BrainWash",
+    "symbol": "BW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

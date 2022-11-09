@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4689020104edee22454e0f76d3ff682b48806850",
+  "displayName": "MoonFuel",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonFuel",
+    "symbol": "MOONFUEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

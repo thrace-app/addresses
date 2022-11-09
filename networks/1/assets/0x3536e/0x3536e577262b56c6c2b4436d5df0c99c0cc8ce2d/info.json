@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3536e577262b56c6c2b4436d5df0c99c0cc8ce2d",
+  "displayName": "ScorpionToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ScorpionToken",
+    "symbol": "SCORP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

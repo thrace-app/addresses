@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1252560e9bf579550622f25c533fea1279e10a1",
+  "displayName": "New Link coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Link coin",
+    "symbol": "Nlink",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

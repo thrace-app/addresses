@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc1155a18d78d77f33530543944592ebd60900fc",
+  "displayName": "HKTokenCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "HKTokenCoin",
+    "symbol": "HKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

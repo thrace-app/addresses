@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4fe56fc650d427bec40225d68b30f4241663039",
+  "displayName": "Iwan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Iwan Token",
+    "symbol": "IWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

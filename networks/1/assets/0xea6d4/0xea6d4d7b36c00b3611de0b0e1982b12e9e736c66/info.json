@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea6d4d7b36c00b3611de0b0e1982b12e9e736c66",
+  "displayName": "Apple Card Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Apple Card Token",
+    "symbol": "ACD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

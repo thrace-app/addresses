@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13fd075d6feee49c9295737d71b4a0447e481d77",
+  "displayName": "Bobby Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bobby Inu",
+    "symbol": "BINU",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

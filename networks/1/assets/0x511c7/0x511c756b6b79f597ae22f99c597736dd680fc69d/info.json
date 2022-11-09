@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x511c756b6b79f597ae22f99c597736dd680fc69d",
+  "displayName": "Firefox Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Firefox Coin",
+    "symbol": "FFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

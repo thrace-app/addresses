@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b41188dd51361a59daa4967a8af1b9fd06df225",
+  "displayName": "Tanooki",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tanooki",
+    "symbol": "TANOOKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

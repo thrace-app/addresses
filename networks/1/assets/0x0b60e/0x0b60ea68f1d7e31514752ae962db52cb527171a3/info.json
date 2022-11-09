@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b60ea68f1d7e31514752ae962db52cb527171a3",
+  "displayName": "Best Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Best Coin",
+    "symbol": "BEST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

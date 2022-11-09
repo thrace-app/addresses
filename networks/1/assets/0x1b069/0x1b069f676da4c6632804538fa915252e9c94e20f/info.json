@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b069f676da4c6632804538fa915252e9c94e20f",
+  "displayName": "Grooby Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grooby Token",
+    "symbol": "GROOBY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe33586055d39b7d2d17be6f2ae0671447e98c72b",
+  "displayName": "FxswapToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FxswapToken",
+    "symbol": "FXSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

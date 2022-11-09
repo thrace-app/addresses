@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf67493d2523c86025564733c0142c99ae138efcb",
+  "displayName": "Goat Cheese Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goat Cheese Token",
+    "symbol": "GOAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

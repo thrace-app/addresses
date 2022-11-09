@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc817716e706c20c5091e3953fc1dc89122276719",
+  "displayName": "Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gold",
+    "symbol": "Au",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

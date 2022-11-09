@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc68e57bc244eaafc646b70692bcf632137bd8bdc",
+  "displayName": "Burn And Earn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burn And Earn",
+    "symbol": "BAE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

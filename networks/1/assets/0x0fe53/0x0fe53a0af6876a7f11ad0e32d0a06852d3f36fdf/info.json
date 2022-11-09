@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0fe53a0af6876a7f11ad0e32d0a06852d3f36fdf",
+  "displayName": "Kizaru Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kizaru Token",
+    "symbol": "KIZARU",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

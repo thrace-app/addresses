@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a98b6aef8ac099e3def72b5da3da102c0ebe1a0",
+  "displayName": "Bitcoin Dex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Dex",
+    "symbol": "BTCDX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

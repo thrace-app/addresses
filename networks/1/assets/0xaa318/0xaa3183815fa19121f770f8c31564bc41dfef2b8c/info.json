@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa3183815fa19121f770f8c31564bc41dfef2b8c",
+  "displayName": "OnlyOneToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "OnlyOneToken",
+    "symbol": "OOT",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

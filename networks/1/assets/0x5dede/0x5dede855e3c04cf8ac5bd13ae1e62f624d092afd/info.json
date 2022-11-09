@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5dede855e3c04cf8ac5bd13ae1e62f624d092afd",
+  "displayName": "Ronin Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ronin Inu",
+    "symbol": "RINU",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

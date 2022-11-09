@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4375f686a23c5bb1a8e3b5d89c997081737c3bb1",
+  "displayName": "Momoco Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Momoco Token",
+    "symbol": "MOMOCO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

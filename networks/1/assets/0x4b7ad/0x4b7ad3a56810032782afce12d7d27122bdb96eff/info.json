@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b7ad3a56810032782afce12d7d27122bdb96eff",
+  "displayName": "Sparkle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sparkle",
+    "symbol": "SPRKL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

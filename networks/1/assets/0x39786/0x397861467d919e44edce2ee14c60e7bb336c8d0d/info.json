@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x397861467d919e44edce2ee14c60e7bb336c8d0d",
+  "displayName": "PoutineToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PoutineToken",
+    "symbol": "PTNE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

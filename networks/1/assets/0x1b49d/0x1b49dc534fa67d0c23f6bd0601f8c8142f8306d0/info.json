@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b49dc534fa67d0c23f6bd0601f8c8142f8306d0",
+  "displayName": "FractionalArt",
+  "type": "TOKEN",
+  "token": {
+    "name": "FractionalArt",
+    "symbol": "FRCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

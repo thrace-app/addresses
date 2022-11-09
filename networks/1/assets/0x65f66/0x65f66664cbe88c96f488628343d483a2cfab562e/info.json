@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65f66664cbe88c96f488628343d483a2cfab562e",
+  "displayName": "LinkChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "LinkChain",
+    "symbol": "$LINK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00e76361d45707507db7bdeb7dd2c0f5c1c3fa6d",
+  "displayName": "Deku Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Deku Inu",
+    "symbol": "DEKU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x436763dcb3af1701d369635e315efbbd3138028c",
+  "displayName": "Whiskey Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Whiskey Token",
+    "symbol": "WHISKEY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

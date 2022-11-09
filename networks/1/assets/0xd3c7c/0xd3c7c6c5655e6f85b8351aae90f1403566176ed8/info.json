@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3c7c6c5655e6f85b8351aae90f1403566176ed8",
+  "displayName": "Valkyrie Test",
+  "type": "TOKEN",
+  "token": {
+    "name": "Valkyrie Test",
+    "symbol": "VTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

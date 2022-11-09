@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34b4d949554fc3e7cb4e708e09c9bbc549b6ec1b",
+  "displayName": "Real Estate Asset Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Real Estate Asset Token",
+    "symbol": "REA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

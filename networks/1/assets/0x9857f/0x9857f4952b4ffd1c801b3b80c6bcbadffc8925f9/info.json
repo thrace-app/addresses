@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9857f4952b4ffd1c801b3b80c6bcbadffc8925f9",
+  "displayName": "Vitalik Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitalik Inu",
+    "symbol": "VINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53c02b22e524c19e5246006b3bb1e7d5515107fc",
+  "displayName": "btctoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "btctoken",
+    "symbol": "btct",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

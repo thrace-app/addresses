@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b9743f556d65e757c4c650b4555baf354cb8bd3",
+  "displayName": "EthBits ETBS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthBits ETBS Token",
+    "symbol": "ETBS",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

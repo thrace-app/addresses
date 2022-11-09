@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb78f87f3885aa051f736e808b3b1a58b7b41a922",
+  "displayName": "STABLECOINS",
+  "type": "TOKEN",
+  "token": {
+    "name": "STABLECOINS",
+    "symbol": "USTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

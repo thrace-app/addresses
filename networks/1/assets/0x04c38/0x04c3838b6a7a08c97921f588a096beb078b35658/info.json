@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04c3838b6a7a08c97921f588a096beb078b35658",
+  "displayName": "Microv Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Microv Token",
+    "symbol": "MICROV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

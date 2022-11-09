@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e8f2ca4193c01e84d6caa10cfdcb76ead4b3ad3",
+  "displayName": "WeiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WeiCoin",
+    "symbol": "WEIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

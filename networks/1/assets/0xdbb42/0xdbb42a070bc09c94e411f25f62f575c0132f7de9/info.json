@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbb42a070bc09c94e411f25f62f575c0132f7de9",
+  "displayName": "Little Dragon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Little Dragon",
+    "symbol": "LDGN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

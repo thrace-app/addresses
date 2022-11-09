@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda5180086461ff6eeb09580181ac160522dcdcd4",
+  "displayName": "BraziliexToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BraziliexToken",
+    "symbol": "BRZX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

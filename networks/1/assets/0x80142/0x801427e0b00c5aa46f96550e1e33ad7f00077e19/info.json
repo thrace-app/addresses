@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x801427e0b00c5aa46f96550e1e33ad7f00077e19",
+  "displayName": "FTX Wrapped AMC",
+  "type": "TOKEN",
+  "token": {
+    "name": "FTX Wrapped AMC",
+    "symbol": "wAMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

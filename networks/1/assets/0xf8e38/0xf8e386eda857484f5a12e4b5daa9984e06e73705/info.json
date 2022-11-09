@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8e386eda857484f5a12e4b5daa9984e06e73705",
+  "displayName": "Indorse Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Indorse Token",
+    "symbol": "IND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

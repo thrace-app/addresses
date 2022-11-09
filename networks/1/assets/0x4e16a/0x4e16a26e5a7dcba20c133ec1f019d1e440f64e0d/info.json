@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e16a26e5a7dcba20c133ec1f019d1e440f64e0d",
+  "displayName": "WIOGToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WIOGToken",
+    "symbol": "WIOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

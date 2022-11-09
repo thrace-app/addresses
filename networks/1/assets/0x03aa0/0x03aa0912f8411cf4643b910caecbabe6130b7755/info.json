@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03aa0912f8411cf4643b910caecbabe6130b7755",
+  "displayName": "Goblin Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goblin Gold",
+    "symbol": "GOBLIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

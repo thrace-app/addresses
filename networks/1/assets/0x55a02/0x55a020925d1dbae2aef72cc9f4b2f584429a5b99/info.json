@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55a020925d1dbae2aef72cc9f4b2f584429a5b99",
+  "displayName": "Octopus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Octopus",
+    "symbol": "O",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

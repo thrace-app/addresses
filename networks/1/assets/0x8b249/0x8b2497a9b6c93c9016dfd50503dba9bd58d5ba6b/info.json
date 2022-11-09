@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b2497a9b6c93c9016dfd50503dba9bd58d5ba6b",
+  "displayName": "World Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "World Finance Token",
+    "symbol": "WFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

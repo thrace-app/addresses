@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x173736b8b9e54c070fa2b80d87d6f2f44cbcd395",
+  "displayName": "We are all Satoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "We are all Satoshi",
+    "symbol": "Satoshi",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

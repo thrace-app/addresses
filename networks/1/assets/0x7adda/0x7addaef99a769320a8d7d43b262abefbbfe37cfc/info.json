@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7addaef99a769320a8d7d43b262abefbbfe37cfc",
+  "displayName": "PolyStake",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolyStake",
+    "symbol": "PSTA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

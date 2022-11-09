@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52b3117d278fa98b73513517e7be117ff3f98f40",
+  "displayName": "Farm Per Hour",
+  "type": "TOKEN",
+  "token": {
+    "name": "Farm Per Hour",
+    "symbol": "FPH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

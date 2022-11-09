@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb2a780154fca426af7e7548a41079612bc5433d1",
+  "displayName": "fry.world",
+  "type": "TOKEN",
+  "token": {
+    "name": "fry.world",
+    "symbol": "FRIES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

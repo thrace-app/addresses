@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22a8b088f3a9328e66b5e04d1106f0a97c04e91f",
+  "displayName": "Lucky Ethereum coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucky Ethereum coin",
+    "symbol": "LUEC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

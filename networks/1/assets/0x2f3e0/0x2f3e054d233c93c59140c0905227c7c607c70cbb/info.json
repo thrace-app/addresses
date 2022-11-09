@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f3e054d233c93c59140c0905227c7c607c70cbb",
+  "displayName": "CoomCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoomCoin",
+    "symbol": "COOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a48a334906f1a323628ee3eec33e8cce7bd2cfc",
+  "displayName": "MularPay",
+  "type": "TOKEN",
+  "token": {
+    "name": "MularPay",
+    "symbol": "MP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

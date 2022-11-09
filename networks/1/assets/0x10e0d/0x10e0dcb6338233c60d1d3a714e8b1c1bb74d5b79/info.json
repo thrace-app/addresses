@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10e0dcb6338233c60d1d3a714e8b1c1bb74d5b79",
+  "displayName": "KudosToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KudosToken",
+    "symbol": "KUDOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

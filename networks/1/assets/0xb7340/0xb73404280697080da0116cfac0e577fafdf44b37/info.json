@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb73404280697080da0116cfac0e577fafdf44b37",
+  "displayName": "QuickMining Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "QuickMining Token",
+    "symbol": "QM",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

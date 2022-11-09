@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf3bd2e2cdffb339a8232a01521345eb7f9a9a2c5",
+  "displayName": "Ampleforth",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ampleforth",
+    "symbol": "AMPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

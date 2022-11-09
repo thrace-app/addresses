@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67b2e9e140707e7817e384b08b750ec565344c98",
+  "displayName": "Polkadog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polkadog",
+    "symbol": "PDOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

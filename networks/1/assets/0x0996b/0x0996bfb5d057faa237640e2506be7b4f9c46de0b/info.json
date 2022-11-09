@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0996bfb5d057faa237640e2506be7b4f9c46de0b",
+  "displayName": "Render Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Render Token",
+    "symbol": "RNDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

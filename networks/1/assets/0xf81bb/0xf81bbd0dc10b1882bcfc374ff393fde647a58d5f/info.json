@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf81bbd0dc10b1882bcfc374ff393fde647a58d5f",
+  "displayName": "Kong Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kong Bank",
+    "symbol": "KONGBANK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

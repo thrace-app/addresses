@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8e0aeb37c717445b1a812472c4126599f5b4b4d",
+  "displayName": "Degen Cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Cat",
+    "symbol": "DCAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

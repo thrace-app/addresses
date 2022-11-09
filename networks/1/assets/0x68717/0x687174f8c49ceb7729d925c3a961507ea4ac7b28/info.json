@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x687174f8c49ceb7729d925c3a961507ea4ac7b28",
+  "displayName": "GAT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GAT Token",
+    "symbol": "GAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

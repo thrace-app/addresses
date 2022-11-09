@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x570db9a388b641c92722c0f35574c33063a972d7",
+  "displayName": "ScratchToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ScratchToken",
+    "symbol": "SCRATCH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

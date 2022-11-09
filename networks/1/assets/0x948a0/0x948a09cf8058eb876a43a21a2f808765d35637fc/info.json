@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x948a09cf8058eb876a43a21a2f808765d35637fc",
+  "displayName": "BasicTrade",
+  "type": "TOKEN",
+  "token": {
+    "name": "BasicTrade",
+    "symbol": "BSIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

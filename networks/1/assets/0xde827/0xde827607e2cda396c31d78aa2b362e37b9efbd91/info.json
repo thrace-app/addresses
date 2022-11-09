@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde827607e2cda396c31d78aa2b362e37b9efbd91",
+  "displayName": "Koshi Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Koshi Protocol",
+    "symbol": "$KOSHI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

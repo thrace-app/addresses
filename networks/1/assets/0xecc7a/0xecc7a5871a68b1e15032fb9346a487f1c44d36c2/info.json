@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecc7a5871a68b1e15032fb9346a487f1c44d36c2",
+  "displayName": "Green Eyed Monsters",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Eyed Monsters",
+    "symbol": "GEM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16f15a3a002f771723c4c4869dcb86c946559ed5",
+  "displayName": "BabyLuffyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BabyLuffyToken",
+    "symbol": "BL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

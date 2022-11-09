@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9208dcafbfa24e663d91dd852395b4534ad3f460",
+  "displayName": "BlueChip",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlueChip",
+    "symbol": "$BCP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

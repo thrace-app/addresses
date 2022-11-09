@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2d002b9a94f976297a59f9575247e8a205dc377",
+  "displayName": "Boog Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boog Token",
+    "symbol": "BOOG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8105b0d4a9ae55658b418065fea4282a8d2e968",
+  "displayName": "DrinkChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "DrinkChain",
+    "symbol": "Drink",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

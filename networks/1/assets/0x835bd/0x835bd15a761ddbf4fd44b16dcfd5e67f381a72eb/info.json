@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x835bd15a761ddbf4fd44b16dcfd5e67f381a72eb",
+  "displayName": "I Can Has Cheezburger Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "I Can Has Cheezburger Token",
+    "symbol": "ICHC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

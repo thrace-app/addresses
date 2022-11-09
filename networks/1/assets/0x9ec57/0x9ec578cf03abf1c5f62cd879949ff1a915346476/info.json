@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ec578cf03abf1c5f62cd879949ff1a915346476",
+  "displayName": "Spirit coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spirit coin",
+    "symbol": "SCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

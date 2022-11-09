@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb6982d07c90a1e7d4829c05fb96f275920d660a5",
+  "displayName": "World Cup Pot",
+  "type": "TOKEN",
+  "token": {
+    "name": "World Cup Pot",
+    "symbol": "$WCP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

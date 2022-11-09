@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d368655d72780b2b9e1a227407c1525d32cb2e9",
+  "displayName": "ToGooToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ToGooToken",
+    "symbol": "TGT",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

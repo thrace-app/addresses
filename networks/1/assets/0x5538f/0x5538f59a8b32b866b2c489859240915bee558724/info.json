@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5538f59a8b32b866b2c489859240915bee558724",
+  "displayName": "IntegrateValueAsset",
+  "type": "TOKEN",
+  "token": {
+    "name": "IntegrateValueAsset",
+    "symbol": "IVA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

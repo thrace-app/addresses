@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f22ad99c334e6689bae751cc225bcc38fe54f82",
+  "displayName": "CryptoMoonShots",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoMoonShots",
+    "symbol": "CMS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

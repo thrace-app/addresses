@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee5fa9619cf1630532cc613e0176f655b3864f0c",
+  "displayName": "DeFiYieldProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiYieldProtocol",
+    "symbol": "DYP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

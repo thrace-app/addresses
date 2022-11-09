@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc538143202f3b11382d8606aae90a96b042a19db",
+  "displayName": "Coinsbit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coinsbit Token",
+    "symbol": "CNB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

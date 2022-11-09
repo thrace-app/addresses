@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa06c78d64adc57733bf4be0718fb91951f4b3c1d",
+  "displayName": "UniDApp",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniDApp",
+    "symbol": "UDP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

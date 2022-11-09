@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee91e47cff7ab926b45edce1687020a3748556c3",
+  "displayName": "Shadowlands Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shadowlands Token",
+    "symbol": "SHT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

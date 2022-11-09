@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21c4a578dcddc53b5f81ea51c971090a54b74d9e",
+  "displayName": "GAS DOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "GAS DOGE",
+    "symbol": "GasDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x401676630027fc107ff1b208cd22b16d45a5eaf4",
+  "displayName": "Ten Coin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ten Coin Token",
+    "symbol": "TCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdebeef87158349b5e0314b4e9647c73624c782e5",
+  "displayName": "Holy Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Holy Inu",
+    "symbol": "HOLYINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

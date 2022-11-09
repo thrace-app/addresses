@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd8ecd7fc8f358eb051412c18fc7b0c6e2f52148a",
+  "displayName": "Serum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Serum",
+    "symbol": "SRM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

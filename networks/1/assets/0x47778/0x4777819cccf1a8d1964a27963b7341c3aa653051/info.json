@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4777819cccf1a8d1964a27963b7341c3aa653051",
+  "displayName": "Brettcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brettcoin",
+    "symbol": "BRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

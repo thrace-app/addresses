@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1bc89691c4ca315fd52096e24a5022c646480be",
+  "displayName": "Brogecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brogecoin",
+    "symbol": "BROGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

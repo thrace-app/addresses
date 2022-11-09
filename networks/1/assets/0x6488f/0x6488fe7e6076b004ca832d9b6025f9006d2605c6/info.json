@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6488fe7e6076b004ca832d9b6025f9006d2605c6",
+  "displayName": "tatsumakiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "tatsumakiToken",
+    "symbol": "tatsumaki",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

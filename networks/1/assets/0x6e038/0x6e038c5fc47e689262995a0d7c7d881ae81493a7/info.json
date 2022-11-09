@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e038c5fc47e689262995a0d7c7d881ae81493a7",
+  "displayName": "Gazillion Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gazillion Token",
+    "symbol": "GT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9020b98d8c34007142ad4594d0b54d85e4fad02",
+  "displayName": "EggSwaps",
+  "type": "TOKEN",
+  "token": {
+    "name": "EggSwaps",
+    "symbol": "EGG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

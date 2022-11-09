@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99ec6147844af705b53a442adf27f8076265f501",
+  "displayName": "WTI",
+  "type": "TOKEN",
+  "token": {
+    "name": "WTI",
+    "symbol": "WTI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

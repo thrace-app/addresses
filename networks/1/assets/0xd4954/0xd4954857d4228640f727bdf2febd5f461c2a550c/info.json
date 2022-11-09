@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4954857d4228640f727bdf2febd5f461c2a550c",
+  "displayName": "Xanax Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Xanax Token",
+    "symbol": "XANAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6add56eb225d4848d525839fde18b90bbc0e9c7c",
+  "displayName": "Gibby Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gibby Coin",
+    "symbol": "GIBBY",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

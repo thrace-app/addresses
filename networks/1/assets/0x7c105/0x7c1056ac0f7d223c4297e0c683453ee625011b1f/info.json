@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c1056ac0f7d223c4297e0c683453ee625011b1f",
+  "displayName": "ButtCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ButtCoin",
+    "symbol": "0xBUTT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

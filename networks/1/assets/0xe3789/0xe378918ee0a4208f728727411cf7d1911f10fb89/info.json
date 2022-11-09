@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe378918ee0a4208f728727411cf7d1911f10fb89",
+  "displayName": "World Cup Ball",
+  "type": "TOKEN",
+  "token": {
+    "name": "World Cup Ball",
+    "symbol": "WCB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

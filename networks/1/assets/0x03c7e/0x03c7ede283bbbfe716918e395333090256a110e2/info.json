@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03c7ede283bbbfe716918e395333090256a110e2",
+  "displayName": "Sakamoto",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sakamoto",
+    "symbol": "Sakamoto",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

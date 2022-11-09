@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc013341c944944e5d0d9fd7f4107b8537b868860",
+  "displayName": "Fuda Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fuda Coin",
+    "symbol": "FDS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

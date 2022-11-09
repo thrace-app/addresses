@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68bdfd200f71114b11594d756ae86248c7847439",
+  "displayName": "The Power",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Power",
+    "symbol": "POW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ea1518ebd3b56ed6f29a960f68c4bd3bd8a11f3",
+  "displayName": "samurai token",
+  "type": "TOKEN",
+  "token": {
+    "name": "samurai token",
+    "symbol": "SAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

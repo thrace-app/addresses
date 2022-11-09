@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77e9618179820961ee99a988983bc9ab41ff3112",
+  "displayName": "Dragon X",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dragon X",
+    "symbol": "DAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

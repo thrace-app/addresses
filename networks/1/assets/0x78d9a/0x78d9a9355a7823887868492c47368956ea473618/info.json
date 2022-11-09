@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78d9a9355a7823887868492c47368956ea473618",
+  "displayName": "BastardToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BastardToken",
+    "symbol": "BASTARD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

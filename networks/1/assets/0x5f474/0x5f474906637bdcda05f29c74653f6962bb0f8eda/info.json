@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f474906637bdcda05f29c74653f6962bb0f8eda",
+  "displayName": "DeFinity",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFinity",
+    "symbol": "DEFX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

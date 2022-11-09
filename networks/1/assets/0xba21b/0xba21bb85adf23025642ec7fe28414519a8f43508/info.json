@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba21bb85adf23025642ec7fe28414519a8f43508",
+  "displayName": "Doge Viper",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Viper",
+    "symbol": "DogeV",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

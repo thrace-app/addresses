@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf98f61a89e1a2c521229d1395d5fbc39a4e58a9a",
+  "displayName": "Aureus Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aureus Coin",
+    "symbol": "AUREUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

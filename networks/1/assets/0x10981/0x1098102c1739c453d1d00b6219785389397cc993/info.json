@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1098102c1739c453d1d00b6219785389397cc993",
+  "displayName": "Easter Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Easter Inu",
+    "symbol": "EGGS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d7df208e470a328c5768779a04ba456f1618bc4",
+  "displayName": "Tipcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tipcoin",
+    "symbol": "TIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

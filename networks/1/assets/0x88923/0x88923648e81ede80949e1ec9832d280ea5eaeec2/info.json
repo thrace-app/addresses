@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88923648e81ede80949e1ec9832d280ea5eaeec2",
+  "displayName": "mBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "mBTC",
+    "symbol": "mBTC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

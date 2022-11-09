@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9743cb5f346daa80a3a50b0859efb85a49e4b8cc",
+  "displayName": "Fintex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fintex",
+    "symbol": "FTEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

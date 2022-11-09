@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5273063725a43a323300c502478c22fbb4e92c2d",
+  "displayName": "MY IDENTITY COIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "MY IDENTITY COIN",
+    "symbol": "MYID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

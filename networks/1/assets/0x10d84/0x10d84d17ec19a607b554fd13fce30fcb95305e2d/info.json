@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10d84d17ec19a607b554fd13fce30fcb95305e2d",
+  "displayName": "CyberKong",
+  "type": "TOKEN",
+  "token": {
+    "name": "CyberKong",
+    "symbol": "CKONG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

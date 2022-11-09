@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30662bff322dc20571b8190abe9ca7601bad47cd",
+  "displayName": "Roronoa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Roronoa Token",
+    "symbol": "RORONOA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

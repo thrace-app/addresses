@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70a8a6fabd42652319b751de9a38a36a86fe1cdf",
+  "displayName": "Ulla Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ulla Token",
+    "symbol": "Ulla",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

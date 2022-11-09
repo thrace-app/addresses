@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x432ded31bdf499d8194b7c3215340ce16de551b1",
+  "displayName": "defi.network",
+  "type": "TOKEN",
+  "token": {
+    "name": "defi.network",
+    "symbol": "DFFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf12742b136cfccfc23e9673bdb31b68b656558e",
+  "displayName": "Our Little Secret",
+  "type": "TOKEN",
+  "token": {
+    "name": "Our Little Secret",
+    "symbol": "DONT TELL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

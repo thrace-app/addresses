@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcbdf1deb934e945a70b7289bb98e97013777f820",
+  "displayName": "Doge of Woof Street",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge of Woof Street",
+    "symbol": "WSDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

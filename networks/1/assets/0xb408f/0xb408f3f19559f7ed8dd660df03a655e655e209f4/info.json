@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb408f3f19559f7ed8dd660df03a655e655e209f4",
+  "displayName": "yearn.deriswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "yearn.deriswap",
+    "symbol": "yDERI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

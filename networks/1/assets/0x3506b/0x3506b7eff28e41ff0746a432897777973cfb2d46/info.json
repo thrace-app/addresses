@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3506b7eff28e41ff0746a432897777973cfb2d46",
+  "displayName": "League of Legends",
+  "type": "TOKEN",
+  "token": {
+    "name": "League of Legends",
+    "symbol": "LOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

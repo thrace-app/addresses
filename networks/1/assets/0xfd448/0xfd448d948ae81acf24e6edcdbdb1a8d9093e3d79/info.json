@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd448d948ae81acf24e6edcdbdb1a8d9093e3d79",
+  "displayName": "Pigeon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pigeon Token",
+    "symbol": "PGN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

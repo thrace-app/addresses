@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7beef0fc985542d02c391a91b956e6f7c43f16d3",
+  "displayName": "merry.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "merry.finance",
+    "symbol": "MERRY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

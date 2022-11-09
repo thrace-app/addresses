@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x715ce123449786ac44f994ef7a37177c70498f31",
+  "displayName": "Green Arrow Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Arrow Coin",
+    "symbol": "GAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

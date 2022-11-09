@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x888142cb35c184a9f258b1b1eaacc2c492e83939",
+  "displayName": "OXO DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "OXO DAO",
+    "symbol": "OXO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

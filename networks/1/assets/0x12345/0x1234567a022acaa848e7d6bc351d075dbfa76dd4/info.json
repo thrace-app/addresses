@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1234567a022acaa848e7d6bc351d075dbfa76dd4",
+  "displayName": "Voken TeraByte",
+  "type": "TOKEN",
+  "token": {
+    "name": "Voken TeraByte",
+    "symbol": "VokenTB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

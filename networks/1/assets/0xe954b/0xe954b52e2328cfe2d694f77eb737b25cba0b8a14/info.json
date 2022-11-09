@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe954b52e2328cfe2d694f77eb737b25cba0b8a14",
+  "displayName": "Harry Potter",
+  "type": "TOKEN",
+  "token": {
+    "name": "Harry Potter",
+    "symbol": "HP",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

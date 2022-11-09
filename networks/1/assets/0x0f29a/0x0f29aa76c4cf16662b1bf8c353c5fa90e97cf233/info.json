@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f29aa76c4cf16662b1bf8c353c5fa90e97cf233",
+  "displayName": "Doge Bot",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Bot",
+    "symbol": "dBOT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc282e482d10f0355f0e6e96ce9e4c9c73fcd21eb",
+  "displayName": "Lucky Dragon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucky Dragon",
+    "symbol": "LDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

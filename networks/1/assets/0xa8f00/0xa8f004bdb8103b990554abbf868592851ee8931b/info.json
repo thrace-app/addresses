@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa8f004bdb8103b990554abbf868592851ee8931b",
+  "displayName": "Coinbase Stock Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coinbase Stock Token",
+    "symbol": "COIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

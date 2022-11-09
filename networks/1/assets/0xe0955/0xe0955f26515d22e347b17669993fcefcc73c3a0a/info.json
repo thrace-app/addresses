@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0955f26515d22e347b17669993fcefcc73c3a0a",
+  "displayName": "Stacker Ventures Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stacker Ventures Token",
+    "symbol": "STACK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

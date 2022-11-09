@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfeacd98098d575aa03ef249e2aa7de0bc740f8cf",
+  "displayName": "Triangle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Triangle",
+    "symbol": "Δ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

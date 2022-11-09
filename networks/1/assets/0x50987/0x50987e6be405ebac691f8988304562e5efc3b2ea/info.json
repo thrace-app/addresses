@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50987e6be405ebac691f8988304562e5efc3b2ea",
+  "displayName": "Mycro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mycro Token",
+    "symbol": "MYO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

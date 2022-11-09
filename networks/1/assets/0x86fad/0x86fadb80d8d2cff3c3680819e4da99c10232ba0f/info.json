@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86fadb80d8d2cff3c3680819e4da99c10232ba0f",
+  "displayName": "EURBASE Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EURBASE Stablecoin",
+    "symbol": "EBASE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

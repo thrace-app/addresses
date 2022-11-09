@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd97624a4e3e5ba939cac020c81a775176fa93ce4",
+  "displayName": "BearCrypt",
+  "type": "TOKEN",
+  "token": {
+    "name": "BearCrypt",
+    "symbol": "BCX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15fd5ac3c35d26ef23b7fcd77fc4fd4f6e571831",
+  "displayName": "Puden Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Puden Token",
+    "symbol": "PUDEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

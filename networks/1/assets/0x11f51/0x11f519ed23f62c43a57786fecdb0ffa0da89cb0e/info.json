@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11f519ed23f62c43a57786fecdb0ffa0da89cb0e",
+  "displayName": "Free Fall",
+  "type": "TOKEN",
+  "token": {
+    "name": "Free Fall",
+    "symbol": "FALL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

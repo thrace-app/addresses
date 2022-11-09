@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8cddb93d0a83064a8fd6c18f4b80397c30e55777",
+  "displayName": "This is a Gem",
+  "type": "TOKEN",
+  "token": {
+    "name": "This is a Gem",
+    "symbol": "GEM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

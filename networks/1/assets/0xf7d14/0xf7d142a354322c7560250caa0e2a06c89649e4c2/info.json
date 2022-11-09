@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7d142a354322c7560250caa0e2a06c89649e4c2",
+  "displayName": "TLN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TLN Token",
+    "symbol": "TLN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

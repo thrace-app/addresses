@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa91a6e37514a1180bb07d4a83473640f35834ddb",
+  "displayName": "ShenZhen Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShenZhen Token",
+    "symbol": "SZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

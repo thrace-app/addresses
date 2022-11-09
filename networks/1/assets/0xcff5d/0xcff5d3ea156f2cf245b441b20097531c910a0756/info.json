@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcff5d3ea156f2cf245b441b20097531c910a0756",
+  "displayName": "Proof Of Solana",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof Of Solana",
+    "symbol": "Solana 2.0",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

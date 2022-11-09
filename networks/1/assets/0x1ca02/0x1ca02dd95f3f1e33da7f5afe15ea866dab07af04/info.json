@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ca02dd95f3f1e33da7f5afe15ea866dab07af04",
+  "displayName": "King Arthur",
+  "type": "TOKEN",
+  "token": {
+    "name": "King Arthur",
+    "symbol": "BKING",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

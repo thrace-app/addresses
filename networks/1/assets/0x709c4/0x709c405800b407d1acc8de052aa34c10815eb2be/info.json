@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x709c405800b407d1acc8de052aa34c10815eb2be",
+  "displayName": "DiGold",
+  "type": "TOKEN",
+  "token": {
+    "name": "DiGold",
+    "symbol": "DIG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ec020fc602130eaa5a4546d628f5b7aac0a3d64",
+  "displayName": "Mini Fluffy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini Fluffy",
+    "symbol": "miniFluffy",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

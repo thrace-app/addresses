@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7912e792a7947c0e627eff1447d8084d15b89a3b",
+  "displayName": "BeepCrap Gateway",
+  "type": "TOKEN",
+  "token": {
+    "name": "BeepCrap Gateway",
+    "symbol": "BEEPCRAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

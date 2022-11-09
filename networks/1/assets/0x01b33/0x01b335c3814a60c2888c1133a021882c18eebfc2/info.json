@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01b335c3814a60c2888c1133a021882c18eebfc2",
+  "displayName": "Emu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Emu",
+    "symbol": "EMU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

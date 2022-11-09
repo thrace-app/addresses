@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff0a024b66739357c4ed231fb3dbc0c8c22749f5",
+  "displayName": "Binance Wrapped WRX",
+  "type": "TOKEN",
+  "token": {
+    "name": "Binance Wrapped WRX",
+    "symbol": "BWRX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

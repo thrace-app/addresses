@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b8a7bab5a5fa4811f1ec9c1e64237bab1c2cfc2",
+  "displayName": "Tsukinu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tsukinu Token",
+    "symbol": "TSUKINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

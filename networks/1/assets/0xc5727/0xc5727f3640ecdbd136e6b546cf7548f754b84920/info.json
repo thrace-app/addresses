@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc5727f3640ecdbd136e6b546cf7548f754b84920",
+  "displayName": "vMANA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "vMANA Token",
+    "symbol": "vMANA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

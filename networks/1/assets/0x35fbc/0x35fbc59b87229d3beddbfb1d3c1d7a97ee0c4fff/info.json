@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35fbc59b87229d3beddbfb1d3c1d7a97ee0c4fff",
+  "displayName": "Adrenaline Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Adrenaline Token",
+    "symbol": "ADR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5b7eb1dce7421379cde13fd29a5848a22aff0fb",
+  "displayName": "Astro Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Astro Finance",
+    "symbol": "AFE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

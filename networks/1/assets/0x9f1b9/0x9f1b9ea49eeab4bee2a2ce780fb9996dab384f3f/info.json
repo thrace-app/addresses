@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f1b9ea49eeab4bee2a2ce780fb9996dab384f3f",
+  "displayName": "CPC",
+  "type": "TOKEN",
+  "token": {
+    "name": "CPC",
+    "symbol": "CPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

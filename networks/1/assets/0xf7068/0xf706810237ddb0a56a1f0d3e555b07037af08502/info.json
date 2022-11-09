@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf706810237ddb0a56a1f0d3e555b07037af08502",
+  "displayName": "BUNE Protocol Secondary Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BUNE Protocol Secondary Token",
+    "symbol": "BUNE",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

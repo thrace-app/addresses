@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57220e0d2ab6060b7f70901fbaeeac6cb2bbb82b",
+  "displayName": "DeerCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeerCoin",
+    "symbol": "DEERCOIN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

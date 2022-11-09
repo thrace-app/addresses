@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36ad0af2609676c2d67b2ae0efd3316011a21a59",
+  "displayName": "Golden Pi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Pi",
+    "symbol": "GPI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

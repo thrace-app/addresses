@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe143793705bf42b14e6a2804e14a36b3e910b93",
+  "displayName": "Sync.Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sync.Token",
+    "symbol": "SYNC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

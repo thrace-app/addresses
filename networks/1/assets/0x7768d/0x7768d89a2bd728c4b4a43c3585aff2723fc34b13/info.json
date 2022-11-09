@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7768d89a2bd728c4b4a43c3585aff2723fc34b13",
+  "displayName": "Project Z",
+  "type": "TOKEN",
+  "token": {
+    "name": "Project Z",
+    "symbol": "ZETA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

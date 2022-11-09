@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x863ad391091ae0e87b850c2bb7bfc7597c79c93f",
+  "displayName": "CanvasToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CanvasToken",
+    "symbol": "CANVAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

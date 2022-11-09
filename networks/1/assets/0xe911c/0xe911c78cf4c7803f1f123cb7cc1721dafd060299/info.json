@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe911c78cf4c7803f1f123cb7cc1721dafd060299",
+  "displayName": "IBB Test",
+  "type": "TOKEN",
+  "token": {
+    "name": "IBB Test",
+    "symbol": "IBBTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

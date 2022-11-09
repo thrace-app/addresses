@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e9d9124596af6d8faaefc9b3e07b3ce397d34f7",
+  "displayName": "REIToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "REIToken",
+    "symbol": "REIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

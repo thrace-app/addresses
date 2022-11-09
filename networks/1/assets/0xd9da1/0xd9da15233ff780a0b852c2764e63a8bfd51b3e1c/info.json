@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9da15233ff780a0b852c2764e63a8bfd51b3e1c",
+  "displayName": "Cthulu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cthulu Token",
+    "symbol": "CTHULU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

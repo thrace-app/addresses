@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04514e243ecd4de6bc1d8aa054d86328160ae93d",
+  "displayName": "t.me/BurnTheDay",
+  "type": "TOKEN",
+  "token": {
+    "name": "t.me/BurnTheDay",
+    "symbol": "BTD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4ab17630a87d7d0117aa24cf0cb48a32fc1d8ae",
+  "displayName": "Yearcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearcoin",
+    "symbol": "YEAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

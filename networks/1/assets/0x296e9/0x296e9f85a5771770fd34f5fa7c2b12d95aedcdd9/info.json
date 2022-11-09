@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x296e9f85a5771770fd34f5fa7c2b12d95aedcdd9",
+  "displayName": "Elon Muskrat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Muskrat",
+    "symbol": "MUSKRAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

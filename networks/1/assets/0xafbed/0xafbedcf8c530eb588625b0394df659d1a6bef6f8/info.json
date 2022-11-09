@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafbedcf8c530eb588625b0394df659d1a6bef6f8",
+  "displayName": "Vinit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vinit Token",
+    "symbol": "VINITTOKEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

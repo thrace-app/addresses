@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaaaa3fad0f31f0005e6c6dbf74e82aa07cffafb5",
+  "displayName": "ThousandToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ThousandToken",
+    "symbol": "TT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

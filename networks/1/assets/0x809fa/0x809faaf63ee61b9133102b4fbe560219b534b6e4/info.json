@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x809faaf63ee61b9133102b4fbe560219b534b6e4",
+  "displayName": "PurpleCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PurpleCoin",
+    "symbol": "PPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

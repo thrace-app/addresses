@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9",
+  "displayName": "Alchemix USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Alchemix USD",
+    "symbol": "alUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

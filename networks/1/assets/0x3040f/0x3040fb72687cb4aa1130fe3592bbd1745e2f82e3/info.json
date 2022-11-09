@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3040fb72687cb4aa1130fe3592bbd1745e2f82e3",
+  "displayName": "Goshu Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goshu Inu Token",
+    "symbol": "GOSHU",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

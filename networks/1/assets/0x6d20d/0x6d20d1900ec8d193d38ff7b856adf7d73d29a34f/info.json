@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d20d1900ec8d193d38ff7b856adf7d73d29a34f",
+  "displayName": "LPOA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LPOA Token",
+    "symbol": "LPOA",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

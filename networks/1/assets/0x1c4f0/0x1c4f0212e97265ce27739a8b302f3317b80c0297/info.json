@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c4f0212e97265ce27739a8b302f3317b80c0297",
+  "displayName": "BikeFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BikeFi Token",
+    "symbol": "BIKEF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb846f1cd31acc9a6db72a1c58dc1760485505f4",
+  "displayName": "ZombieCats Fractional Vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZombieCats Fractional Vault",
+    "symbol": "ZCAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

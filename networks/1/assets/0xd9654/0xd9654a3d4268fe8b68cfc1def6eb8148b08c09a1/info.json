@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9654a3d4268fe8b68cfc1def6eb8148b08c09a1",
+  "displayName": "Celebrity Fan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Celebrity Fan Token",
+    "symbol": "CELEB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe887c748275c092731807217377593e34694e33b",
+  "displayName": "Cryb Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryb Token",
+    "symbol": "CRYB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

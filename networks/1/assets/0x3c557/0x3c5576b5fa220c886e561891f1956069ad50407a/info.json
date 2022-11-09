@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c5576b5fa220c886e561891f1956069ad50407a",
+  "displayName": "NFTitties",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFTitties",
+    "symbol": "TITS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

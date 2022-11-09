@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26ddf6cabadcbf4f013841bd8d914830beb0d984",
+  "displayName": "KuaiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KuaiToken",
+    "symbol": "KT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

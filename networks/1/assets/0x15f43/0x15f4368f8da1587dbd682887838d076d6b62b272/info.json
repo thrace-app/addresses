@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15f4368f8da1587dbd682887838d076d6b62b272",
+  "displayName": "R2n Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "R2n Token",
+    "symbol": "R2n",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

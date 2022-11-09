@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e251a1f1f81918d1d902970b19024af6b53aaf0",
+  "displayName": "Caffeine Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Caffeine Token",
+    "symbol": "CAFN",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbdda280ee7bccc68f3be60a369b6b1eaee02493c",
+  "displayName": "BitoxTokens",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitoxTokens",
+    "symbol": "BITOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

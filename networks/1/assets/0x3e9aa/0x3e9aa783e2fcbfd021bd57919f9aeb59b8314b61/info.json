@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e9aa783e2fcbfd021bd57919f9aeb59b8314b61",
+  "displayName": "Weam Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Weam Token",
+    "symbol": "WEAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

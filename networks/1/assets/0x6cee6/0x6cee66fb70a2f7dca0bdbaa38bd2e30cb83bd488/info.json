@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6cee66fb70a2f7dca0bdbaa38bd2e30cb83bd488",
+  "displayName": "Motern Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Motern Token",
+    "symbol": "Motern",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

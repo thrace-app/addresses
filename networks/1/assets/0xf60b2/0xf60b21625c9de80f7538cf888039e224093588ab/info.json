@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf60b21625c9de80f7538cf888039e224093588ab",
+  "displayName": "Launchpad",
+  "type": "TOKEN",
+  "token": {
+    "name": "Launchpad",
+    "symbol": "LAUNCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

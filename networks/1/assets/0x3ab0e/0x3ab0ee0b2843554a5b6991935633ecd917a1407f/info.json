@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ab0ee0b2843554a5b6991935633ecd917a1407f",
+  "displayName": "Aether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aether",
+    "symbol": "AEther",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

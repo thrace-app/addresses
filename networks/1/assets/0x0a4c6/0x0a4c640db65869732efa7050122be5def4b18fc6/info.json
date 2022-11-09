@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0a4c640db65869732efa7050122be5def4b18fc6",
+  "displayName": "PrometheusCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PrometheusCoin",
+    "symbol": "PRSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

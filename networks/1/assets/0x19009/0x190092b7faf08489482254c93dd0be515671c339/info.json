@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x190092b7faf08489482254c93dd0be515671c339",
+  "displayName": "Space Shuttle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Space Shuttle",
+    "symbol": "SHUTTLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

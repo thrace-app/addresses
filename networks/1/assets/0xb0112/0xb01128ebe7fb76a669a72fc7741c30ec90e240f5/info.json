@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb01128ebe7fb76a669a72fc7741c30ec90e240f5",
+  "displayName": "Birdcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Birdcoin",
+    "symbol": "HOOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

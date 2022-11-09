@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe10834cf53b40e57fdc74ba7e31ec6eb86ee1504",
+  "displayName": "Clout Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Clout Token",
+    "symbol": "CLOUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

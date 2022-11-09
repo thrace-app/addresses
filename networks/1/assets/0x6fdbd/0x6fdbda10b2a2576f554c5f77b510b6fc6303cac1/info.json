@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fdbda10b2a2576f554c5f77b510b6fc6303cac1",
+  "displayName": "The Holder's Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Holder's Token",
+    "symbol": "THT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x007897d52797d90d778f0a05bb2bd090024710f2",
+  "displayName": "Leo Messi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Leo Messi",
+    "symbol": "Leo Messi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

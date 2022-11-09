@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x786001c9c5ca6e502deb8a8a72480d2147891f32",
+  "displayName": "BetProtocolToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BetProtocolToken",
+    "symbol": "BEPRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

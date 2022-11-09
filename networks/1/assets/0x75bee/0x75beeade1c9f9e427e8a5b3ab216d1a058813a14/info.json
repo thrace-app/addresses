@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75beeade1c9f9e427e8a5b3ab216d1a058813a14",
+  "displayName": "SupDucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "SupDucks",
+    "symbol": "Sup20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

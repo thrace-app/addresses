@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3620a54ec63b98fb709f91c1f89f77842049afc3",
+  "displayName": "DeLorean",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeLorean",
+    "symbol": "DMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

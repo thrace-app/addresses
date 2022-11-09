@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xffa8b451f22ab4ceabdef3a9dc66aad3564c8829",
+  "displayName": "Blaze the cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blaze the cat",
+    "symbol": "$BLAZE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

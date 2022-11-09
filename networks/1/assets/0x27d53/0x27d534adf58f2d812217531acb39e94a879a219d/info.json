@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27d534adf58f2d812217531acb39e94a879a219d",
+  "displayName": "Bathing Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bathing Ape",
+    "symbol": "bAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

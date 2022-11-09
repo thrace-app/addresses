@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x541b874e45ff20a8e3c5f25bc985cb47117bfe18",
+  "displayName": "Mother Goose",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mother Goose",
+    "symbol": "MGOOSE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

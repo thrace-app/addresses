@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x836247ea52ad62dda34b1cc06d264df234be4f6a",
+  "displayName": "Spooky Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spooky Doge",
+    "symbol": "SDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

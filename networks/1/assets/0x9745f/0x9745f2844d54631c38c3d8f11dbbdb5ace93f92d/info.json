@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9745f2844d54631c38c3d8f11dbbdb5ace93f92d",
+  "displayName": "Zimba Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zimba Token",
+    "symbol": "$ZIMBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

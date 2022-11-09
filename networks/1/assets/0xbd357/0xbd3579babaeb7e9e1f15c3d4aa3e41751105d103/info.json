@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd3579babaeb7e9e1f15c3d4aa3e41751105d103",
+  "displayName": "Wrapped ZTX (Ethereum)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped ZTX (Ethereum)",
+    "symbol": "wZTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

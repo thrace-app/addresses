@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73fbcf29f9dc95496c8d40c6eceae7c420015e35",
+  "displayName": "Pepe NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pepe NFT",
+    "symbol": "NFP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

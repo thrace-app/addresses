@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35210579b55af19f7b698aabc943cadad754c4ab",
+  "displayName": "Poolz Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Poolz Token",
+    "symbol": "POZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

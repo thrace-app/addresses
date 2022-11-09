@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25b449cb40c9144c3dc61d40a14142509724cff9",
+  "displayName": "OINCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "OINCoin",
+    "symbol": "OINC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

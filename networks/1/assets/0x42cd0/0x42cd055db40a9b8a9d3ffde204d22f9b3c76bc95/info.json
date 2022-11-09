@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42cd055db40a9b8a9d3ffde204d22f9b3c76bc95",
+  "displayName": "PolylaunchToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolylaunchToken",
+    "symbol": "POLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

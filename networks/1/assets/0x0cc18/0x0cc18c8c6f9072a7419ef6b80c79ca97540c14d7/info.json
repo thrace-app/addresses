@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0cc18c8c6f9072a7419ef6b80c79ca97540c14d7",
+  "displayName": "Ethereum Space",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Space",
+    "symbol": "eSPACE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

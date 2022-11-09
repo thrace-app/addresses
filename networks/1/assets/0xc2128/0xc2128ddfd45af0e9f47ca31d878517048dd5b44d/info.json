@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2128ddfd45af0e9f47ca31d878517048dd5b44d",
+  "displayName": "Big Foot Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Big Foot Token",
+    "symbol": "YETI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

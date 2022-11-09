@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce1412f2593bd6f17f91c7087ac9336f72a4bb30",
+  "displayName": "Spaghetti",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spaghetti",
+    "symbol": "PASTA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

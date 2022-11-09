@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc659bd0859f30e13fdf8beffc28de2c87f870477",
+  "displayName": "Fantastic4 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fantastic4 Token",
+    "symbol": "F4",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

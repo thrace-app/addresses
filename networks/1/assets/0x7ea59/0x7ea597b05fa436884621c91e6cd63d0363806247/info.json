@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ea597b05fa436884621c91e6cd63d0363806247",
+  "displayName": "The Initiated Developer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Initiated Developer Token",
+    "symbol": "$TID",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

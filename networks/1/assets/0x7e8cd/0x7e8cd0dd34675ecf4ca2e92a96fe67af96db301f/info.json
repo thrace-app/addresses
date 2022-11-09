@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e8cd0dd34675ecf4ca2e92a96fe67af96db301f",
+  "displayName": "Crane",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crane",
+    "symbol": "CRANE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

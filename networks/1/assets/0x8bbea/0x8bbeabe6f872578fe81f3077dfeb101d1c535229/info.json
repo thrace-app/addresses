@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8bbeabe6f872578fe81f3077dfeb101d1c535229",
+  "displayName": "PokeInu",
+  "type": "TOKEN",
+  "token": {
+    "name": "PokeInu",
+    "symbol": "POKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

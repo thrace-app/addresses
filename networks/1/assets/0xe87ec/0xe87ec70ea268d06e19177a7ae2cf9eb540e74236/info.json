@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe87ec70ea268d06e19177a7ae2cf9eb540e74236",
+  "displayName": "SpiderManToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpiderManToken",
+    "symbol": "Spider",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

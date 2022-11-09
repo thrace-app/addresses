@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfe5c20a93d28fea5cd0b9965db403d08f814114",
+  "displayName": "DiasporaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DiasporaToken",
+    "symbol": "DIASPORA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9720bcf5a92542d4e286792fc978b63a09731cf0",
+  "displayName": "Outside the Box Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Outside the Box Coin",
+    "symbol": "OTBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

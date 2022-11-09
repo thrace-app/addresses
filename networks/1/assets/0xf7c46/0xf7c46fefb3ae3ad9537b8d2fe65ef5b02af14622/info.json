@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7c46fefb3ae3ad9537b8d2fe65ef5b02af14622",
+  "displayName": "Sphero Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sphero Network Token",
+    "symbol": "SPH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

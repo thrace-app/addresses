@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d935895275c2b53caba69d71d1412603a6afa03",
+  "displayName": "FORK token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FORK token",
+    "symbol": "FORK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

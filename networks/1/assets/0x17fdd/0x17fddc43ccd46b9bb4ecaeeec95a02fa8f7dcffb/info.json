@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17fddc43ccd46b9bb4ecaeeec95a02fa8f7dcffb",
+  "displayName": "MAIQCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MAIQCoin",
+    "symbol": "MAIQ",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

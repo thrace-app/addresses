@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x846c66cf71c43f80403b51fe3906b3599d63336f",
+  "displayName": "PumaPay",
+  "type": "TOKEN",
+  "token": {
+    "name": "PumaPay",
+    "symbol": "PMA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

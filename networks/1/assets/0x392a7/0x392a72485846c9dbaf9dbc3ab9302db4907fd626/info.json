@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x392a72485846c9dbaf9dbc3ab9302db4907fd626",
+  "displayName": "Defipool token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Defipool token",
+    "symbol": "DPOOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

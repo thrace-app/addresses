@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x414197fc50cf36f70a2f3b78790a1c8bd922da44",
+  "displayName": "Bart Simpson Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bart Simpson Finance",
+    "symbol": "BART",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

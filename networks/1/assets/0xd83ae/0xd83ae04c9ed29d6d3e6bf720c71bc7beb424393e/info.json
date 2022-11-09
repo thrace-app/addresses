@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd83ae04c9ed29d6d3e6bf720c71bc7beb424393e",
+  "displayName": "InsureToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "InsureToken",
+    "symbol": "INSURE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

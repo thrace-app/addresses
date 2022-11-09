@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcb182bcfbc6e3b71dc11ca7e5a3273842ae71421",
+  "displayName": "KH Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KH Token",
+    "symbol": "KH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

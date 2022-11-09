@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c02c20d95bbc7b698fe97031971add67a8cf203",
+  "displayName": "OrangeFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "OrangeFi",
+    "symbol": "OFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

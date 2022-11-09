@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccb4dfdb4f95697ab5c389185f0ba9042a78576f",
+  "displayName": "NFTWiki Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFTWiki Token",
+    "symbol": "NFTK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

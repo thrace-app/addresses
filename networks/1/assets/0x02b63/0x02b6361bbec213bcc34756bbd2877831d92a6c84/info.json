@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02b6361bbec213bcc34756bbd2877831d92a6c84",
+  "displayName": "Wall Street Decentral Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wall Street Decentral Token",
+    "symbol": "WALL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

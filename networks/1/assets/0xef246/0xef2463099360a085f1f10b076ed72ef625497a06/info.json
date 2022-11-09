@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef2463099360a085f1f10b076ed72ef625497a06",
+  "displayName": "Sharpe Platform Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sharpe Platform Token",
+    "symbol": "SHP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

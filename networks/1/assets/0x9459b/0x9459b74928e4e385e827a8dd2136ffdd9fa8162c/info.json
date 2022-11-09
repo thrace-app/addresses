@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9459b74928e4e385e827a8dd2136ffdd9fa8162c",
+  "displayName": "DeFi DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi DAO Token",
+    "symbol": "DefiDao",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

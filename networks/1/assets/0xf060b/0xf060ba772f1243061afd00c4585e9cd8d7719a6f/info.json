@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf060ba772f1243061afd00c4585e9cd8d7719a6f",
+  "displayName": "LongToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LongToken",
+    "symbol": "LONG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

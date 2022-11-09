@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x260dd2fdb177f5735cfb2ed666af11db8b91ae54",
+  "displayName": "SuperFly",
+  "type": "TOKEN",
+  "token": {
+    "name": "SuperFly",
+    "symbol": "FLY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

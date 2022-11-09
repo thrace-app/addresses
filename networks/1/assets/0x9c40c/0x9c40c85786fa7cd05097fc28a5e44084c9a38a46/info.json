@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c40c85786fa7cd05097fc28a5e44084c9a38a46",
+  "displayName": "Kawaii Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kawaii Token",
+    "symbol": "KAWAII",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

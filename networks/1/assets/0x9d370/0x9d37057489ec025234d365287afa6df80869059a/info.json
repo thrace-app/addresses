@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d37057489ec025234d365287afa6df80869059a",
+  "displayName": "FancyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FancyToken",
+    "symbol": "FANC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

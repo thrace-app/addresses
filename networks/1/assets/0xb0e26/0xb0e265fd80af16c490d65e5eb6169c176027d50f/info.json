@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0e265fd80af16c490d65e5eb6169c176027d50f",
+  "displayName": "Chowy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chowy Token",
+    "symbol": "Chowy",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

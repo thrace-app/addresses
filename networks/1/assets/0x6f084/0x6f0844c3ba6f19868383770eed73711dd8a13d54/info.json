@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f0844c3ba6f19868383770eed73711dd8a13d54",
+  "displayName": "Knockout Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Knockout Token",
+    "symbol": "KO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

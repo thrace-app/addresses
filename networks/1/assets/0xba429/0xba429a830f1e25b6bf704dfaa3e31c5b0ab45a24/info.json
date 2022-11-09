@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba429a830f1e25b6bf704dfaa3e31c5b0ab45a24",
+  "displayName": "EverToad",
+  "type": "TOKEN",
+  "token": {
+    "name": "EverToad",
+    "symbol": "ETOAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

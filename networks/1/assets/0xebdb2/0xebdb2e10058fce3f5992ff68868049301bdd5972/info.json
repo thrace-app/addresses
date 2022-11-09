@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xebdb2e10058fce3f5992ff68868049301bdd5972",
+  "displayName": "Ant Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ant Token",
+    "symbol": "ANTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

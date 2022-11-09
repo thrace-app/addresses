@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf44a80c17813789f60090638827aeb23698b122",
+  "displayName": "stableDEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "stableDEX",
+    "symbol": "STDEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

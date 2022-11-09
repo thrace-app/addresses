@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x709821cc4490a828b5e37a6c983f930876cd124e",
+  "displayName": "I Love You Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "I Love You Token",
+    "symbol": "$ILY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

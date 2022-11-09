@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf31e87e5c41fd6fc6404f157f410195dde394a3",
+  "displayName": "CryptoStar",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoStar",
+    "symbol": "CStar",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

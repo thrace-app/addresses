@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0af08d2f324ea89eea1c9cea5eb24c72c58afb4",
+  "displayName": "Digital Moneky",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Moneky",
+    "symbol": "DM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

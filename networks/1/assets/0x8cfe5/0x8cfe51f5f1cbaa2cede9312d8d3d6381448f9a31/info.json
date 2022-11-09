@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8cfe51f5f1cbaa2cede9312d8d3d6381448f9a31",
+  "displayName": "Toast Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Toast Token",
+    "symbol": "TOST",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

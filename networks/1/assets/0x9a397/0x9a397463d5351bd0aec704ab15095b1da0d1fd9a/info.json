@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a397463d5351bd0aec704ab15095b1da0d1fd9a",
+  "displayName": "DogeChain Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogeChain Burn",
+    "symbol": "DCBURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

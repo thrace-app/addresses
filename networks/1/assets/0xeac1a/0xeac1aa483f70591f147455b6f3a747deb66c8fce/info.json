@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeac1aa483f70591f147455b6f3a747deb66c8fce",
+  "displayName": "LanasBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "LanasBurn",
+    "symbol": "LBURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

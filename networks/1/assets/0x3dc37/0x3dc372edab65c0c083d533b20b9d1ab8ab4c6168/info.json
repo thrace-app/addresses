@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3dc372edab65c0c083d533b20b9d1ab8ab4c6168",
+  "displayName": "NodeService",
+  "type": "TOKEN",
+  "token": {
+    "name": "NodeService",
+    "symbol": "NaaS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

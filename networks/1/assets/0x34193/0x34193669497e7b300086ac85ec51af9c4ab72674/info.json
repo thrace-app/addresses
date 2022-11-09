@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34193669497e7b300086ac85ec51af9c4ab72674",
+  "displayName": "Doge Network",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Network",
+    "symbol": "DogNET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

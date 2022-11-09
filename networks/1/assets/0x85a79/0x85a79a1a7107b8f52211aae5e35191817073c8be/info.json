@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85a79a1a7107b8f52211aae5e35191817073c8be",
+  "displayName": "LuaSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "LuaSwap",
+    "symbol": "LUA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

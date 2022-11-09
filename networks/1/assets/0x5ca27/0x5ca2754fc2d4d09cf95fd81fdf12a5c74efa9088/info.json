@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ca2754fc2d4d09cf95fd81fdf12a5c74efa9088",
+  "displayName": "CruxCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CruxCoin",
+    "symbol": "CXC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

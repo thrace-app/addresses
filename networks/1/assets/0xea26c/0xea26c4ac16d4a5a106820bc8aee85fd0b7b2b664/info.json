@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+  "displayName": "QuarkChain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "QuarkChain Token",
+    "symbol": "QKC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

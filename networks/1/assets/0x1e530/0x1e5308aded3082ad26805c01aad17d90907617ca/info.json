@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e5308aded3082ad26805c01aad17d90907617ca",
+  "displayName": "TDFCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "TDFCOIN",
+    "symbol": "TDFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ecc405022bd8da169957b5db4f1ce67b482e77a",
+  "displayName": "EGEX",
+  "type": "TOKEN",
+  "token": {
+    "name": "EGEX",
+    "symbol": "EGEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

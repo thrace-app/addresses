@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x768de24d898840a595cc98fb2ac154820797a3a5",
+  "displayName": "Cheroot Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cheroot Token",
+    "symbol": "Cheroot",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

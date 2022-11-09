@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe866ddc81677b6660c0a3db65392c561f8b0aeae",
+  "displayName": "FoodCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FoodCoin",
+    "symbol": "Food",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

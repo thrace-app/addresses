@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57dbf6d9ed29241693ce9ac90816609dbe1832c5",
+  "displayName": "DSBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "DSBTC",
+    "symbol": "DSBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

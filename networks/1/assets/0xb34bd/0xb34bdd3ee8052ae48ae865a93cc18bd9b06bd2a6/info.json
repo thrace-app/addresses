@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb34bdd3ee8052ae48ae865a93cc18bd9b06bd2a6",
+  "displayName": "rug.pull",
+  "type": "TOKEN",
+  "token": {
+    "name": "rug.pull",
+    "symbol": "RUG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04f33d09aae7923fcd82590b1d8fef0ce41936e1",
+  "displayName": "BasedPepe",
+  "type": "TOKEN",
+  "token": {
+    "name": "BasedPepe",
+    "symbol": "BASEDPEPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

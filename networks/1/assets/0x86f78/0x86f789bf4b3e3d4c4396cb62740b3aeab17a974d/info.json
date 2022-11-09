@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86f789bf4b3e3d4c4396cb62740b3aeab17a974d",
+  "displayName": "LockerDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "LockerDAO",
+    "symbol": "LDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

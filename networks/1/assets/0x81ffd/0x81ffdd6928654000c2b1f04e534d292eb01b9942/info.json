@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81ffdd6928654000c2b1f04e534d292eb01b9942",
+  "displayName": "MoneyDucksToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoneyDucksToken",
+    "symbol": "MDUCKS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

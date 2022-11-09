@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd11c0baf6d7c993646208b90d8e165a0a30b19bf",
+  "displayName": "Ethstake",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethstake",
+    "symbol": "EST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

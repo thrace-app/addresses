@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x562a582e9b502318bdc27895dfbaee2aab1552e4",
+  "displayName": "LEPRECOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "LEPRECOIN",
+    "symbol": "LPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

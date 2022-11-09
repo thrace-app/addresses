@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30d804f30b1a979666165189ca6427354a81f77f",
+  "displayName": "Corndog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Corndog",
+    "symbol": "Corndog",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

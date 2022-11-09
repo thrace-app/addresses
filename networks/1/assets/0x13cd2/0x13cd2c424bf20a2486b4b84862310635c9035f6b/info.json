@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13cd2c424bf20a2486b4b84862310635c9035f6b",
+  "displayName": "Shaolin Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shaolin Network Token",
+    "symbol": "Shaolin-NT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

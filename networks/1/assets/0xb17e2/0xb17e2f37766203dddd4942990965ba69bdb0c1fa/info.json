@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb17e2f37766203dddd4942990965ba69bdb0c1fa",
+  "displayName": "Hyper Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hyper Burn",
+    "symbol": "HBURN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

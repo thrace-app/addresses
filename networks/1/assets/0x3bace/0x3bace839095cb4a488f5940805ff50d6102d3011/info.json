@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3bace839095cb4a488f5940805ff50d6102d3011",
+  "displayName": "ACTT TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "ACTT TOKEN",
+    "symbol": "ACTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

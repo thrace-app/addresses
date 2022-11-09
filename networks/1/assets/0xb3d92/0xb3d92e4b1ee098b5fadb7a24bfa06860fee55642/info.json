@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3d92e4b1ee098b5fadb7a24bfa06860fee55642",
+  "displayName": "BLOCK-X",
+  "type": "TOKEN",
+  "token": {
+    "name": "BLOCK-X",
+    "symbol": "X",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

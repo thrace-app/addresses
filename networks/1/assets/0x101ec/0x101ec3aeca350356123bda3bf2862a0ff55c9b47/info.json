@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x101ec3aeca350356123bda3bf2862a0ff55c9b47",
+  "displayName": "GASNFTs",
+  "type": "TOKEN",
+  "token": {
+    "name": "GASNFTs",
+    "symbol": "GAS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

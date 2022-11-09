@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbaa9c87c92e8b1408ac1302a6d2099073359f9a8",
+  "displayName": "Stupid Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stupid Money",
+    "symbol": "STUPID$",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

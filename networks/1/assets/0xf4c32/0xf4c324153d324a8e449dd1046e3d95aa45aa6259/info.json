@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4c324153d324a8e449dd1046e3d95aa45aa6259",
+  "displayName": "Simple Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Simple Inu",
+    "symbol": "SIMPLE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

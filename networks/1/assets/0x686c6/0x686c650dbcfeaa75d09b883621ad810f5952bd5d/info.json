@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x686c650dbcfeaa75d09b883621ad810f5952bd5d",
+  "displayName": "AAX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AAX Token",
+    "symbol": "AAB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

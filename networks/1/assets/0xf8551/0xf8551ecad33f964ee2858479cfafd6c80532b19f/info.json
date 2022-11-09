@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8551ecad33f964ee2858479cfafd6c80532b19f",
+  "displayName": "Natarn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Natarn Token",
+    "symbol": "NATARN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

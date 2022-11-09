@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c896c8193bfe3c035bf0e0e6cbf9befafedb15e",
+  "displayName": "Election Vote",
+  "type": "TOKEN",
+  "token": {
+    "name": "Election Vote",
+    "symbol": "EVOTE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05e4de681283bdf7c35ef7de4b87e465e80a6216",
+  "displayName": "YourGamify Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YourGamify Token",
+    "symbol": "GAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc4cd30ae2461f4dfb2308ed8868ccf187c9cf83",
+  "displayName": "eTHOR",
+  "type": "TOKEN",
+  "token": {
+    "name": "eTHOR",
+    "symbol": "ETHR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

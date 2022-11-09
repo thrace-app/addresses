@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee4831724293c487afd01f896d35beef50eaa3f0",
+  "displayName": "XPCH Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "XPCH Coin",
+    "symbol": "XPCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

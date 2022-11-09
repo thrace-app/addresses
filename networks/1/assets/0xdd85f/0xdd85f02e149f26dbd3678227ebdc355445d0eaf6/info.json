@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd85f02e149f26dbd3678227ebdc355445d0eaf6",
+  "displayName": "Semi Deflationary Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Semi Deflationary Token",
+    "symbol": "SDT",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48b79e48d7add1137b99dd7fa9b3282dd2811087",
+  "displayName": "SolFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "SolFi",
+    "symbol": "SFT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

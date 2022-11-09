@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76eb2fe28b36b3ee97f3adae0c69606eedb2a37c",
+  "displayName": "Yearn USD Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn USD Coin",
+    "symbol": "cyUSDC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

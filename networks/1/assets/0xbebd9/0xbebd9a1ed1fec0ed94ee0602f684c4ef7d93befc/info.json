@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbebd9a1ed1fec0ed94ee0602f684c4ef7d93befc",
+  "displayName": "AmericanPug Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AmericanPug Token",
+    "symbol": "USAPUG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

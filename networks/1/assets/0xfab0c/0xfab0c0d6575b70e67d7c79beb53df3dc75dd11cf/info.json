@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfab0c0d6575b70e67d7c79beb53df3dc75dd11cf",
+  "displayName": "Leviathan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Leviathan Token",
+    "symbol": "LEVIATHAN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5194143bc01c7f3b4f42a63698baa32cffebc677",
+  "displayName": "DailyChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "DailyChain",
+    "symbol": "DAILY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

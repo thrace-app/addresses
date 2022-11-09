@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69bcbba614735309dacc1486928f37e260a540df",
+  "displayName": "Decentralized Game",
+  "type": "TOKEN",
+  "token": {
+    "name": "Decentralized Game",
+    "symbol": "DGame",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

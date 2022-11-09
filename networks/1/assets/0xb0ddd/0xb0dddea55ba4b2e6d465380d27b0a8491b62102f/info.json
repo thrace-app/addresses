@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0dddea55ba4b2e6d465380d27b0a8491b62102f",
+  "displayName": "Delorean Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Delorean Token",
+    "symbol": "Delory",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

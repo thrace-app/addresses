@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00a78b1e437c736d9a62d8b8a64b7e2766feefde",
+  "displayName": "The Degen Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Degen Ape",
+    "symbol": "DAPE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

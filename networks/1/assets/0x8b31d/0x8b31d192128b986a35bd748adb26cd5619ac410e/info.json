@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b31d192128b986a35bd748adb26cd5619ac410e",
+  "displayName": "MSFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "MSFT",
+    "symbol": "uMSFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

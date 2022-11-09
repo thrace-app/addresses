@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32e523782faec81a8faec56481851d22a923fa85",
+  "displayName": "X Chain Gas",
+  "type": "TOKEN",
+  "token": {
+    "name": "X Chain Gas",
+    "symbol": "XCHG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

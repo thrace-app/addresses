@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba9ee2622f6870222041e4938d672dc9f8ba78d1",
+  "displayName": "RageToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RageToken",
+    "symbol": "RAGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

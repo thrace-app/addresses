@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e8bc69d20b683eb14a90e9f8e01b4803aaedbd5",
+  "displayName": "Fresh Baked Bread",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fresh Baked Bread",
+    "symbol": "FBB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

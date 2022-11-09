@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa45f26130d023bdff18fc05e39424e98955959a1",
+  "displayName": "Wall Street Bets",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wall Street Bets",
+    "symbol": "WSB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

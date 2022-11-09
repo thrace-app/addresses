@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0d33873f1ca8684eef685e891e79bef77375da5",
+  "displayName": "BucksCake",
+  "type": "TOKEN",
+  "token": {
+    "name": "BucksCake",
+    "symbol": "BCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70bef3bb2f001da2fddb207dae696cd9faff3f5d",
+  "displayName": "Ninja Squad Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ninja Squad Token",
+    "symbol": "NST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

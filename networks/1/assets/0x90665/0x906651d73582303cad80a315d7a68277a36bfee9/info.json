@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x906651d73582303cad80a315d7a68277a36bfee9",
+  "displayName": "Coin Mining",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coin Mining",
+    "symbol": "C3",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

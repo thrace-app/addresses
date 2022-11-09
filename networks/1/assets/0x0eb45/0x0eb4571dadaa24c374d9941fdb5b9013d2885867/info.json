@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0eb4571dadaa24c374d9941fdb5b9013d2885867",
+  "displayName": "DAOMaker Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAOMaker Token",
+    "symbol": "DAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

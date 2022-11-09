@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe01807f119d77c0c11bbe26b7a7bacfa391f8e4",
+  "displayName": "Atomic Core Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Atomic Core Token",
+    "symbol": "ATCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

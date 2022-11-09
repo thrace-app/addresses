@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc662542499cae4ff9bb453b872aca90e0fb979e",
+  "displayName": "Endex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Endex",
+    "symbol": "endex.org",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

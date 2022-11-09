@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10b8caac05575e14f858a81b735926e2d3e6600e",
+  "displayName": "QUACK",
+  "type": "TOKEN",
+  "token": {
+    "name": "QUACK",
+    "symbol": "QUACK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

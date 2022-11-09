@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a9b1c9428379d23ec639fbd7836a5b30384fefe",
+  "displayName": "Tokens of Mesopatamia",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tokens of Mesopatamia",
+    "symbol": "TOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

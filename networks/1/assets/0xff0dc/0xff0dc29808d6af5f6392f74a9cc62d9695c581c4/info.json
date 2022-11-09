@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff0dc29808d6af5f6392f74a9cc62d9695c581c4",
+  "displayName": "TAPCrypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "TAPCrypto",
+    "symbol": "TAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

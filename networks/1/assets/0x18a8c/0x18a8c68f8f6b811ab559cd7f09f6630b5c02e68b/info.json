@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18a8c68f8f6b811ab559cd7f09f6630b5c02e68b",
+  "displayName": "Joni Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Joni Token",
+    "symbol": "JONI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

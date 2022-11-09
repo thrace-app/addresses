@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1758cb7e26441a4909f695caa92d37dcf37066bb",
+  "displayName": "Garbaggio Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Garbaggio Token",
+    "symbol": "GARB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

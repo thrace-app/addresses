@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d92711fc5874cd93474a54482e435742f17930d",
+  "displayName": "SenderNetwork",
+  "type": "TOKEN",
+  "token": {
+    "name": "SenderNetwork",
+    "symbol": "SN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

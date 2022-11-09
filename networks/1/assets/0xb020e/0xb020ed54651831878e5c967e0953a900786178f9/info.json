@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb020ed54651831878e5c967e0953a900786178f9",
+  "displayName": "Baz Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baz Token",
+    "symbol": "BAZT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

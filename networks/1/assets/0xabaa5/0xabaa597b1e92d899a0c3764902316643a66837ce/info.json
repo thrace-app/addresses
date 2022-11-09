@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabaa597b1e92d899a0c3764902316643a66837ce",
+  "displayName": "SecretKeeper",
+  "type": "TOKEN",
+  "token": {
+    "name": "SecretKeeper",
+    "symbol": "SKPR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

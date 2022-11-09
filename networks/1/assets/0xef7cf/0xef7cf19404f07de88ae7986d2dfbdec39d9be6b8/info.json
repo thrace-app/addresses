@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef7cf19404f07de88ae7986d2dfbdec39d9be6b8",
+  "displayName": "Los Pollos Hermanos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Los Pollos Hermanos",
+    "symbol": "LosPollos",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

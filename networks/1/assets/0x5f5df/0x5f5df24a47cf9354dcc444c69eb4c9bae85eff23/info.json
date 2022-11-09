@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f5df24a47cf9354dcc444c69eb4c9bae85eff23",
+  "displayName": "WangHongCoin token",
+  "type": "TOKEN",
+  "token": {
+    "name": "WangHongCoin token",
+    "symbol": "WHC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

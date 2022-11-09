@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x979edc5afa527f1e31ef24ea907aed6f0e7b3efa",
+  "displayName": "Tamagotchi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tamagotchi",
+    "symbol": "Tamagotchi",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

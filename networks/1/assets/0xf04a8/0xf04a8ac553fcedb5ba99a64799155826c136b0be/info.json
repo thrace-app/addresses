@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf04a8ac553fcedb5ba99a64799155826c136b0be",
+  "displayName": "Flixx",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flixx",
+    "symbol": "FLIXX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

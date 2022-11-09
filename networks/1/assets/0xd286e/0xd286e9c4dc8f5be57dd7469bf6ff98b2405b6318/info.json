@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd286e9c4dc8f5be57dd7469bf6ff98b2405b6318",
+  "displayName": "Doge Bird",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Bird",
+    "symbol": "DBIRD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

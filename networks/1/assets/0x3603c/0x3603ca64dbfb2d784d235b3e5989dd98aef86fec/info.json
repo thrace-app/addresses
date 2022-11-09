@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3603ca64dbfb2d784d235b3e5989dd98aef86fec",
+  "displayName": "CatPepe Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CatPepe Token",
+    "symbol": "CPEPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

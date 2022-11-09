@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed51ad7fe72881d8aac4365050a31e89ff09ef4c",
+  "displayName": "Small target Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Small target Coin",
+    "symbol": "SMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

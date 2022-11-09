@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x318447b617b26688f9b7ac98d0c4c06eec086eb7",
+  "displayName": "YouEarn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YouEarn Token",
+    "symbol": "YEF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

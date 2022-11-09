@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x045fac92e00e18b3969addeb18774bc0411d9394",
+  "displayName": "OnlyCoreToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "OnlyCoreToken",
+    "symbol": "OCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27fa441141189f16813814cf3d9136a1f19a17a1",
+  "displayName": "Fun Monkey",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fun Monkey",
+    "symbol": "FUN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

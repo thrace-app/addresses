@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b07fe4058c6e21bc052d572e82f3d34624aca2b",
+  "displayName": "The Micecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Micecoin",
+    "symbol": "THEMICE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

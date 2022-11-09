@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce7f76dade64b94ea347c6f9bd9c3509574fdf52",
+  "displayName": "Buy The Dip",
+  "type": "TOKEN",
+  "token": {
+    "name": "Buy The Dip",
+    "symbol": "BUYTHEDIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

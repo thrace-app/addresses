@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
+  "displayName": "DomRaiderToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DomRaiderToken",
+    "symbol": "DRT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

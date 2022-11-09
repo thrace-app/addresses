@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd79f5eb8c293f3a116cb982f26c858dafcaa5e8",
+  "displayName": "BasedDAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "BasedDAI",
+    "symbol": "bDAI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

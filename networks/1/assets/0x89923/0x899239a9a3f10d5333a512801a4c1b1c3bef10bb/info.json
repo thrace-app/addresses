@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x899239a9a3f10d5333a512801a4c1b1c3bef10bb",
+  "displayName": "O3 Swap Token(Test)",
+  "type": "TOKEN",
+  "token": {
+    "name": "O3 Swap Token(Test)",
+    "symbol": "O3(Test)",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed479ab7e36bc43db057fd08e3da498221cbb011",
+  "displayName": "TheBitGold",
+  "type": "TOKEN",
+  "token": {
+    "name": "TheBitGold",
+    "symbol": "BGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

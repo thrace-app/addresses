@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a225e292ade21f62e239c72a79201c86bd66ebd",
+  "displayName": "PSI Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "PSI Protocol",
+    "symbol": "PSI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

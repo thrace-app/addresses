@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x888bb2a2ac32bb2f33a8b892f3d83069f98d1e13",
+  "displayName": "Amazon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Amazon Token",
+    "symbol": "AMAZON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

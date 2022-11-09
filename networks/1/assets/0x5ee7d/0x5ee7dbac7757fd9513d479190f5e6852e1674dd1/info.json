@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ee7dbac7757fd9513d479190f5e6852e1674dd1",
+  "displayName": "SEND ETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "SEND ETH",
+    "symbol": "SEND",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

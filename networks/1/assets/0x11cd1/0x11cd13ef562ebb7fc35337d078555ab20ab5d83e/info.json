@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11cd13ef562ebb7fc35337d078555ab20ab5d83e",
+  "displayName": "ECU",
+  "type": "TOKEN",
+  "token": {
+    "name": "ECU",
+    "symbol": "ECU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

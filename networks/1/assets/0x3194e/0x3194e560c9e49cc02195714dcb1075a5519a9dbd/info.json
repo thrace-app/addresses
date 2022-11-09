@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3194e560c9e49cc02195714dcb1075a5519a9dbd",
+  "displayName": "Pyrothereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pyrothereum",
+    "symbol": "PYRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

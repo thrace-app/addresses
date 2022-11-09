@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f1d057d1140cb32653779c7719310d431d49861",
+  "displayName": "SodaEthereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "SodaEthereum",
+    "symbol": "SoETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

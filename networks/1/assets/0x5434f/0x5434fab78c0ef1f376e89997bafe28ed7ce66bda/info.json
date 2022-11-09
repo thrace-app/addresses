@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5434fab78c0ef1f376e89997bafe28ed7ce66bda",
+  "displayName": "Ryu Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ryu Inu Token",
+    "symbol": "Ryu Inu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b85fd9c6185acf3ed0471fd0780bd11ca64491f",
+  "displayName": "DogPrezToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DogPrezToken",
+    "symbol": "DogPrez",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

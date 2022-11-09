@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbad1e5ea932940964d312fba0030ec4e68c736ce",
+  "displayName": "Schrodinger",
+  "type": "TOKEN",
+  "token": {
+    "name": "Schrodinger",
+    "symbol": "$Schrodinger",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

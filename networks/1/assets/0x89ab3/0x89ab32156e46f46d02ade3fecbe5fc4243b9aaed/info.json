@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
+  "displayName": "pNetwork Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "pNetwork Token",
+    "symbol": "PNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

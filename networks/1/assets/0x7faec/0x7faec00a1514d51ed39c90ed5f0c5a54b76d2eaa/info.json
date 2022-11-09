@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7faec00a1514d51ed39c90ed5f0c5a54b76d2eaa",
+  "displayName": "Digital Reserve Currency Fork",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Reserve Currency Fork",
+    "symbol": "DRCV2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

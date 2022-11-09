@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f95127fdb416d7df0590ae0b0bee0d08df5a998",
+  "displayName": "DooCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DooCoin",
+    "symbol": "DOO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85eddd22f4459881089bd98b9922b1b35ed264fc",
+  "displayName": "Tanuki Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tanuki Shiba",
+    "symbol": "SHIBNUKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b25bd0b3528f820f549ed433aae3d89edead896",
+  "displayName": "Protocoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Protocoin",
+    "symbol": "PROT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

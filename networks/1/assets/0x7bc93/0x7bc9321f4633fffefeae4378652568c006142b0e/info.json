@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7bc9321f4633fffefeae4378652568c006142b0e",
+  "displayName": "AHBtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AHBtoken",
+    "symbol": "AHB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

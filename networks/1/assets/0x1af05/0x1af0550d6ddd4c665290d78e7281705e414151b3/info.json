@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1af0550d6ddd4c665290d78e7281705e414151b3",
+  "displayName": "Edaev coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Edaev coin",
+    "symbol": "EDA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

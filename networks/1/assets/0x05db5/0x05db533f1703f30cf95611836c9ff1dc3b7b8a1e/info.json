@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05db533f1703f30cf95611836c9ff1dc3b7b8a1e",
+  "displayName": "McDonalds",
+  "type": "TOKEN",
+  "token": {
+    "name": "McDonalds",
+    "symbol": "MAC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86fb75cb80057ae93ff9f7a6f9513ddd9427f439",
+  "displayName": "ApeChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "ApeChain",
+    "symbol": "AC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x019706204ae32c45579da65d5f1e39ed757d806a",
+  "displayName": "Metal Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Metal Token",
+    "symbol": "METAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

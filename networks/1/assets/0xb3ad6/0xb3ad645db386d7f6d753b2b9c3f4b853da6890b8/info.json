@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3ad645db386d7f6d753b2b9c3f4b853da6890b8",
+  "displayName": "Concentrator Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Concentrator Token",
+    "symbol": "CTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

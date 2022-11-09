@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa5b409e6a31b335feabc765bbb05a79cce1d490f",
+  "displayName": "Domain Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Domain Coin",
+    "symbol": "HTTP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

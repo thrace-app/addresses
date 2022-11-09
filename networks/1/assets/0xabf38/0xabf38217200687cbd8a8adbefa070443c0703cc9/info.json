@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabf38217200687cbd8a8adbefa070443c0703cc9",
+  "displayName": "EggRollToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "EggRollToken",
+    "symbol": "EggRoll",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

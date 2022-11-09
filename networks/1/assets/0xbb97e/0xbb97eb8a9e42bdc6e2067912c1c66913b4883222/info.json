@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbb97eb8a9e42bdc6e2067912c1c66913b4883222",
+  "displayName": "BitcoinDuke",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitcoinDuke",
+    "symbol": "BTCDUKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb374036296d2917c57f3fdc141276fac56b49e8",
+  "displayName": "Novicoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Novicoin",
+    "symbol": "NOVI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

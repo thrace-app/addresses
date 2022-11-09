@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7671904eed7f10808b664fc30bb8693fd7237abf",
+  "displayName": "BitberryToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitberryToken",
+    "symbol": "BBR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

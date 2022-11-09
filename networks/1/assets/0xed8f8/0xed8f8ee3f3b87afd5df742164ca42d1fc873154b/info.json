@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed8f8ee3f3b87afd5df742164ca42d1fc873154b",
+  "displayName": "The Deed",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Deed",
+    "symbol": "DEED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

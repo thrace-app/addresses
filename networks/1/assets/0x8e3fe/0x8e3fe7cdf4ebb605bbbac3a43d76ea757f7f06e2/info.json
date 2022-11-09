@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e3fe7cdf4ebb605bbbac3a43d76ea757f7f06e2",
+  "displayName": "NarakaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "NarakaToken",
+    "symbol": "NT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

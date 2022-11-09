@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24b80d37beb3960bb1685ca23aee2c221913ed4c",
+  "displayName": "The Protocol Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Protocol Burn",
+    "symbol": "BTHE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01b236e28788d3373fdc07087fde4edd5798cc9e",
+  "displayName": "Black Hole",
+  "type": "TOKEN",
+  "token": {
+    "name": "Black Hole",
+    "symbol": "BLH",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

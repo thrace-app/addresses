@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f5f9f63bf4b14c8061eb76bbb14ffe594cebaa4",
+  "displayName": "PolkaShiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkaShiba",
+    "symbol": "pSHIBA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

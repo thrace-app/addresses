@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7546bf7c92ad3311ff08a0ec68c224b58ae5439e",
+  "displayName": "bltest",
+  "type": "TOKEN",
+  "token": {
+    "name": "bltest",
+    "symbol": "blt",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

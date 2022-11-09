@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcaf9493d1df74b756b067976de121bf56ac0b6da",
+  "displayName": "Ok Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ok Protocol",
+    "symbol": "$OK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1878489c3edd1996c7a1fc5006ffe6e97727a3be",
+  "displayName": "BWC Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BWC Coin",
+    "symbol": "BWC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

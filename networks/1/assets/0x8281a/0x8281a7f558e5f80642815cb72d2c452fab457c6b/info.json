@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8281a7f558e5f80642815cb72d2c452fab457c6b",
+  "displayName": "CyberclubCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CyberclubCoin",
+    "symbol": "CCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae66bea480f7a6c91f07c58f2aee185883558fb8",
+  "displayName": "EarnDefiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EarnDefiCoin",
+    "symbol": "EDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

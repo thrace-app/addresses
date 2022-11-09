@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe6e58af3476bbb9664b5610c9605ec32eacf7ca4",
+  "displayName": "Mine",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mine",
+    "symbol": "MINE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

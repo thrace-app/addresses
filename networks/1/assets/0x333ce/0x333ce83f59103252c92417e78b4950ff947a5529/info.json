@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x333ce83f59103252c92417e78b4950ff947a5529",
+  "displayName": "Barterchain.net Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Barterchain.net Token",
+    "symbol": "BRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

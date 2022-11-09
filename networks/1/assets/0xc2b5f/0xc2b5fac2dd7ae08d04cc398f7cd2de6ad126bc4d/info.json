@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2b5fac2dd7ae08d04cc398f7cd2de6ad126bc4d",
+  "displayName": "Banana Kong",
+  "type": "TOKEN",
+  "token": {
+    "name": "Banana Kong",
+    "symbol": "BKONG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

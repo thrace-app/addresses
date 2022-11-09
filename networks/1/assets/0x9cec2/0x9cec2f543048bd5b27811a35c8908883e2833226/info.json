@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9cec2f543048bd5b27811a35c8908883e2833226",
+  "displayName": "Community BNB",
+  "type": "TOKEN",
+  "token": {
+    "name": "Community BNB",
+    "symbol": "cBNB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe531642e9bb5d027e9c20e03284287b97919a9a5",
+  "displayName": "FaithCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FaithCoin",
+    "symbol": "FAITH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

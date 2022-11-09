@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a8e7abea48bd200648b3312a98fad541bc5902d",
+  "displayName": "Golden Rabbit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Rabbit",
+    "symbol": "GLDNRABBIT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

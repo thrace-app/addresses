@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x630bc7dd0abfc2d196289ce09db947dd2cafae7c",
+  "displayName": "Nabox Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nabox Token",
+    "symbol": "NABOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

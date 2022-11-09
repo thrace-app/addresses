@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce6f86fe833627fcb56fc172dda2aae72298b072",
+  "displayName": "GitLabCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GitLabCoin",
+    "symbol": "GLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

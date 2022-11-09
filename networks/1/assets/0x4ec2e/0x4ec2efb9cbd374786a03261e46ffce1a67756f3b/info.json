@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ec2efb9cbd374786a03261e46ffce1a67756f3b",
+  "displayName": "Deflacoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Deflacoin",
+    "symbol": "DEFL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

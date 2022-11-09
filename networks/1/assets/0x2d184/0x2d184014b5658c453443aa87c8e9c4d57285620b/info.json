@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2d184014b5658c453443aa87c8e9c4d57285620b",
+  "displayName": "JSE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JSE Token",
+    "symbol": "JSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

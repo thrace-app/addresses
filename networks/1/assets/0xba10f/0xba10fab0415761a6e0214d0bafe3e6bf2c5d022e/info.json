@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba10fab0415761a6e0214d0bafe3e6bf2c5d022e",
+  "displayName": "LaunchPool",
+  "type": "TOKEN",
+  "token": {
+    "name": "LaunchPool",
+    "symbol": "LP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

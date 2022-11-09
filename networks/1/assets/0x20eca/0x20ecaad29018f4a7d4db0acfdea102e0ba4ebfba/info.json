@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20ecaad29018f4a7d4db0acfdea102e0ba4ebfba",
+  "displayName": "Blue Kirby Whitelist",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Kirby Whitelist",
+    "symbol": "BKWLIST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

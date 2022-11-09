@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3086ee74dfc7d8e43e64436551481659495129c",
+  "displayName": "Buzz Lightyear",
+  "type": "TOKEN",
+  "token": {
+    "name": "Buzz Lightyear",
+    "symbol": "BUZZ",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

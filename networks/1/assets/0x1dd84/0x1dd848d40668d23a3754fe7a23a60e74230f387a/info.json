@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1dd848d40668d23a3754fe7a23a60e74230f387a",
+  "displayName": "NYT",
+  "type": "TOKEN",
+  "token": {
+    "name": "NYT",
+    "symbol": "NYT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

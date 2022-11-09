@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa8f5522850c9a771db0235fcfc585caac62cf179",
+  "displayName": "gabecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "gabecoin",
+    "symbol": "GABECOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

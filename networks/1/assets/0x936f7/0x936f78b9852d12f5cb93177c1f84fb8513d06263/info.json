@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x936f78b9852d12f5cb93177c1f84fb8513d06263",
+  "displayName": "Golem Network Token Wrapped",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golem Network Token Wrapped",
+    "symbol": "GNTW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

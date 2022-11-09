@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b08a21a525886c9633aeecd66f03d5dd3168b77",
+  "displayName": "HatterETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "HatterETH",
+    "symbol": "Hatter",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

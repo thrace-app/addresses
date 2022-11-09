@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ee2e5e5f9fb12a0381d4b94ea8c64c6e7ee8f1b",
+  "displayName": "Solidity token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Solidity token",
+    "symbol": "STK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

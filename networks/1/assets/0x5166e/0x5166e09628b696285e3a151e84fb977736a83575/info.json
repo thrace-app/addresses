@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5166e09628b696285e3a151e84fb977736a83575",
+  "displayName": "Volatility Protocol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Volatility Protocol Token",
+    "symbol": "VOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea5edef10f8255cd03541e8ff163a2836e0d7bd3",
+  "displayName": "WBTC-WETH SLP Ease Vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "WBTC-WETH SLP Ease Vault",
+    "symbol": "ez-SLP-WBTC-WETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

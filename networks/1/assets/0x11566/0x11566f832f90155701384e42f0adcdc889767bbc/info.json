@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11566f832f90155701384e42f0adcdc889767bbc",
+  "displayName": "HexSaitama",
+  "type": "TOKEN",
+  "token": {
+    "name": "HexSaitama",
+    "symbol": "HEXTAMA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

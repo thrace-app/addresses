@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x931a7ca74e35f35a46881a4f968d5fbd095a0279",
+  "displayName": "FailToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FailToken",
+    "symbol": "FAIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

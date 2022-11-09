@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0a04519acde1ccb3b8383fc15d2ed9ed18ad5ae",
+  "displayName": "Smash Bros Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smash Bros Token",
+    "symbol": "SMASHBROS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

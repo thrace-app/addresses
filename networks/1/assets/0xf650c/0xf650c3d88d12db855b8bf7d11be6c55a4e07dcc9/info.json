@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+  "displayName": "Compound USDT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Compound USDT",
+    "symbol": "cUSDT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9311f4776ec5326b3095f85964899bd5cba2d874",
+  "displayName": "Zopta Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zopta Token",
+    "symbol": "Zopta",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

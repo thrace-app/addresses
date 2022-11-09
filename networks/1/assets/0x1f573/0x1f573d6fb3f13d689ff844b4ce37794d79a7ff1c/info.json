@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+  "displayName": "Bancor Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bancor Network Token",
+    "symbol": "BNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

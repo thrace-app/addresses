@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x540f063759de97d7826509efef8abb355565a95a",
+  "displayName": "Enterprise chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Enterprise chain",
+    "symbol": "ETC-1",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbfc3fc417e6582560db3b8b7dc9dbf0b1c77684c",
+  "displayName": "GoodChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoodChain",
+    "symbol": "GCN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

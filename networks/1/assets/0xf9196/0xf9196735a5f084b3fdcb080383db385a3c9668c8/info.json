@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf9196735a5f084b3fdcb080383db385a3c9668c8",
+  "displayName": "Moon Exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moon Exchange",
+    "symbol": "MEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

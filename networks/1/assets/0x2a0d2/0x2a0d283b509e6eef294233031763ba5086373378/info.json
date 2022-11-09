@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a0d283b509e6eef294233031763ba5086373378",
+  "displayName": "DefiSafe",
+  "type": "TOKEN",
+  "token": {
+    "name": "DefiSafe",
+    "symbol": "DSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

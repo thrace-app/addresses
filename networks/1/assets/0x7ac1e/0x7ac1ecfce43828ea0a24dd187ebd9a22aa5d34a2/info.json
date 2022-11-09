@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ac1ecfce43828ea0a24dd187ebd9a22aa5d34a2",
+  "displayName": "Scarf Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Scarf Token",
+    "symbol": "SCARF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

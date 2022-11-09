@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc1230436557f1250812fabbee5b8524b43250f3",
+  "displayName": "NarutoNetwork",
+  "type": "TOKEN",
+  "token": {
+    "name": "NarutoNetwork",
+    "symbol": "NARUTO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff362c6a335e373633f1677540aac6917208dc0d",
+  "displayName": "DeFiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiCoin",
+    "symbol": "DFC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

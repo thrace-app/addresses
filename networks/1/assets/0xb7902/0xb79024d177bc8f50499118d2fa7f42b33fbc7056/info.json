@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb79024d177bc8f50499118d2fa7f42b33fbc7056",
+  "displayName": "eGame",
+  "type": "TOKEN",
+  "token": {
+    "name": "eGame",
+    "symbol": "eGI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

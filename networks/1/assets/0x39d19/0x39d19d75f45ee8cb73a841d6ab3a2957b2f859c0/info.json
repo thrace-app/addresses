@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39d19d75f45ee8cb73a841d6ab3a2957b2f859c0",
+  "displayName": "First Million",
+  "type": "TOKEN",
+  "token": {
+    "name": "First Million",
+    "symbol": "FM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

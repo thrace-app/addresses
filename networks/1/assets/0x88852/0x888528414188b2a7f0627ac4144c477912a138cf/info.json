@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x888528414188b2a7f0627ac4144c477912a138cf",
+  "displayName": "Oracle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Oracle",
+    "symbol": "$Tarot",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

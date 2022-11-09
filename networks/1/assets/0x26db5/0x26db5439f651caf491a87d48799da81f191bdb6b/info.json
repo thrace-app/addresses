@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26db5439f651caf491a87d48799da81f191bdb6b",
+  "displayName": "CashBetCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CashBetCoin",
+    "symbol": "CBC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

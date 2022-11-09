@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1e4eb659216b7d304cb539a07763a3f6fcaa330",
+  "displayName": "YF Moonshot Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YF Moonshot Token",
+    "symbol": "YFMS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

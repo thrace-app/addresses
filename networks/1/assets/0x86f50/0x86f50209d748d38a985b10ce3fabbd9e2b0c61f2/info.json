@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86f50209d748d38a985b10ce3fabbd9e2b0c61f2",
+  "displayName": "Obelisk Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Obelisk Governance Token",
+    "symbol": "OBELISK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

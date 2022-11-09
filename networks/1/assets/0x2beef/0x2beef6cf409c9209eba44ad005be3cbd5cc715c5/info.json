@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2beef6cf409c9209eba44ad005be3cbd5cc715c5",
+  "displayName": "ValueSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "ValueSwap",
+    "symbol": "VSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

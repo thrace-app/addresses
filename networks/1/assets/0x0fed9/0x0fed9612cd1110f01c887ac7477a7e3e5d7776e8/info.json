@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0fed9612cd1110f01c887ac7477a7e3e5d7776e8",
+  "displayName": "Centaur Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Centaur Token",
+    "symbol": "CNTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81ba4c47bd212ade1161544335607b9d9d4f71fe",
+  "displayName": "Kyzoom Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kyzoom Token",
+    "symbol": "Kyzoom",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

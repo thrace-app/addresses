@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabe5ee8473297ac91ae9a5273d838fc181f325b4",
+  "displayName": "Tada!",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tada!",
+    "symbol": "TADA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

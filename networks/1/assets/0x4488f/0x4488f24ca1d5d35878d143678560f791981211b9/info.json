@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4488f24ca1d5d35878d143678560f791981211b9",
+  "displayName": "CIMBO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CIMBO Token",
+    "symbol": "CIMBO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

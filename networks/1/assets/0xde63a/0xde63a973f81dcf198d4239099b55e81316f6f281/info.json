@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde63a973f81dcf198d4239099b55e81316f6f281",
+  "displayName": "VP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VP Token",
+    "symbol": "KEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

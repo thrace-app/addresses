@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26a96677aa1a4bcb7229f4825dad4835a1268d7c",
+  "displayName": "Hub Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hub Exchange Token",
+    "symbol": "HUB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

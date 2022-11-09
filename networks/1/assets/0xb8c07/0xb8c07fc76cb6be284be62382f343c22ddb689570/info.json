@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8c07fc76cb6be284be62382f343c22ddb689570",
+  "displayName": "Big Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Big Ape",
+    "symbol": "BAPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

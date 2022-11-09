@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc9f86a9808d6c04c690e236c4d9e9efd043b6869",
+  "displayName": "Vito Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vito Token",
+    "symbol": "VITO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

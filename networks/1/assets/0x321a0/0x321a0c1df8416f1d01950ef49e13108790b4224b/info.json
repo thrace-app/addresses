@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x321a0c1df8416f1d01950ef49e13108790b4224b",
+  "displayName": "Tiny Eggplant",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tiny Eggplant",
+    "symbol": "TEGG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

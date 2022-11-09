@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe8fad06547aed2ea43c97d28ad67c162a4023b10",
+  "displayName": "TurkishCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TurkishCoin",
+    "symbol": "TRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

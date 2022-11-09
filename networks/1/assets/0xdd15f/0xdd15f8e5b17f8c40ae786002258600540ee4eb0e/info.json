@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd15f8e5b17f8c40ae786002258600540ee4eb0e",
+  "displayName": "DAOWhale",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAOWhale",
+    "symbol": "WAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

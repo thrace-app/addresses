@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9996b2cf02dee19b430617d628e5e4fbdca01fdd",
+  "displayName": "AstroSnake",
+  "type": "TOKEN",
+  "token": {
+    "name": "AstroSnake",
+    "symbol": "ASS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

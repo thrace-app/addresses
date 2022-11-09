@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39c4ca947ade88add3531f4a0b3915ed18a41ea2",
+  "displayName": "STSSToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "STSSToken",
+    "symbol": "STSS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

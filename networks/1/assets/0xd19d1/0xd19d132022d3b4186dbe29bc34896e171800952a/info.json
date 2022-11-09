@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd19d132022d3b4186dbe29bc34896e171800952a",
+  "displayName": "James Bond",
+  "type": "TOKEN",
+  "token": {
+    "name": "James Bond",
+    "symbol": "BOND",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61da4439af79d6c567afbc97421d9debfdfb96be",
+  "displayName": "KismetCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KismetCoin",
+    "symbol": "KISMET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

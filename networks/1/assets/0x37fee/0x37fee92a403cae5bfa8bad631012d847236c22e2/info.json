@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37fee92a403cae5bfa8bad631012d847236c22e2",
+  "displayName": "Usagi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Usagi",
+    "symbol": "Usagi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

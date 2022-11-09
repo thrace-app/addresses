@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48334b48e9d83411acae50c9802a711b1339c809",
+  "displayName": "Dog food",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dog food",
+    "symbol": "DFCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

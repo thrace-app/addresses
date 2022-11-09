@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2101dcb6841bc9e84063dedf8d0181fb73a97725",
+  "displayName": "SaburaiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SaburaiToken",
+    "symbol": "SaburaiToken",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

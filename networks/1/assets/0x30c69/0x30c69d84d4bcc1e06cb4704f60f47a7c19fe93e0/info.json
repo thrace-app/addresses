@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30c69d84d4bcc1e06cb4704f60f47a7c19fe93e0",
+  "displayName": "LCS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LCS Token",
+    "symbol": "LCST",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

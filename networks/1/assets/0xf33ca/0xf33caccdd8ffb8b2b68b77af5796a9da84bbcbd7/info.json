@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf33caccdd8ffb8b2b68b77af5796a9da84bbcbd7",
+  "displayName": "WonderToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WonderToken",
+    "symbol": "WOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

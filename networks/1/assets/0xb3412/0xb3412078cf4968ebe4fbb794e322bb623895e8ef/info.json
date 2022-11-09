@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3412078cf4968ebe4fbb794e322bb623895e8ef",
+  "displayName": "CBDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "CBDC",
+    "symbol": "CBDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

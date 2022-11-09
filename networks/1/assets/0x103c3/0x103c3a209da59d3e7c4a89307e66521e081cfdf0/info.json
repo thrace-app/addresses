@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
+  "displayName": "Genesis Vision Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Genesis Vision Token",
+    "symbol": "GVT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

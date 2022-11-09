@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xddf993bebbd397f2a42de7c39f09f9c8e34ef322",
+  "displayName": "Cronos Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cronos Coin",
+    "symbol": "CRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

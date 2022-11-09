@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41f808a936ecdb3a3b2feb4ef4203b8fb2deaa5b",
+  "displayName": "StarGate",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarGate",
+    "symbol": "STARGATE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

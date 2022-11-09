@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3eb89fc9dc735927c3939833b33be1ffb8d60685",
+  "displayName": "Average token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Average token",
+    "symbol": "AVER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

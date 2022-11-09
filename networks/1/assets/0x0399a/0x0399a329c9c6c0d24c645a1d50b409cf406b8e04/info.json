@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0399a329c9c6c0d24c645a1d50b409cf406b8e04",
+  "displayName": "HubbardCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "HubbardCoin",
+    "symbol": "XENU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

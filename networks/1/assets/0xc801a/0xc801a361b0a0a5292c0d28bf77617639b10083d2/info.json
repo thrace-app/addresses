@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc801a361b0a0a5292c0d28bf77617639b10083d2",
+  "displayName": "SendPadToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SendPadToken",
+    "symbol": "SPAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

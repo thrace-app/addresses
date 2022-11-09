@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e49bd4c62fefbabdd709c13c4dc6ee470155fb9",
+  "displayName": "Psychedelic Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Psychedelic Coin",
+    "symbol": "PSYCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

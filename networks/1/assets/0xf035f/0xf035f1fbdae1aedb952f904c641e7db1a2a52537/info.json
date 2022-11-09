@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf035f1fbdae1aedb952f904c641e7db1a2a52537",
+  "displayName": "DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAI",
+    "symbol": "DAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

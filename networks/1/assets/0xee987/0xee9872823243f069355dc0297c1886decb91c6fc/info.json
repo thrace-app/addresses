@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee9872823243f069355dc0297c1886decb91c6fc",
+  "displayName": "Biscuit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Biscuit",
+    "symbol": "Biscuit",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

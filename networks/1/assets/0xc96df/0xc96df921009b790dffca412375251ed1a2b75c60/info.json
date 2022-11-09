@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc96df921009b790dffca412375251ed1a2b75c60",
+  "displayName": "Ormeus Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ormeus Coin",
+    "symbol": "ORME",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

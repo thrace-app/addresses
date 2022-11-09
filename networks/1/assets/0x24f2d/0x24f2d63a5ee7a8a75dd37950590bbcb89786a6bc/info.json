@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24f2d63a5ee7a8a75dd37950590bbcb89786a6bc",
+  "displayName": "AvaDog",
+  "type": "TOKEN",
+  "token": {
+    "name": "AvaDog",
+    "symbol": "ADOG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

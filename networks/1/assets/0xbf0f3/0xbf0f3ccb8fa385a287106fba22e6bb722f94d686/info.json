@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf0f3ccb8fa385a287106fba22e6bb722f94d686",
+  "displayName": "Zytara USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zytara USD",
+    "symbol": "ZUSD",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

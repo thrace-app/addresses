@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x28eaac80b4113eda0adb8e34a564881137feb444",
+  "displayName": "ampx token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ampx token",
+    "symbol": "ampx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

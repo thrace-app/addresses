@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90d5381f7e294808c7bb150d18b5578968443e4a",
+  "displayName": "Dork Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dork Inu",
+    "symbol": "DORK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

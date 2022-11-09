@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9f7deaeb3450cd698fd6d45a7b05a18d84bb1e1",
+  "displayName": "NEXE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NEXE Token",
+    "symbol": "NEXE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

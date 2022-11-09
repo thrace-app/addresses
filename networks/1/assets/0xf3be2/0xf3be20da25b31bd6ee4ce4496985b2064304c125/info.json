@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf3be20da25b31bd6ee4ce4496985b2064304c125",
+  "displayName": "MYUBI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MYUBI Token",
+    "symbol": "MYU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

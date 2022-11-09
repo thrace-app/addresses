@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10174ebee39c78d59599a2d3a59ba7c1b7fcfbbf",
+  "displayName": "TarotLandToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TarotLandToken",
+    "symbol": "TLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

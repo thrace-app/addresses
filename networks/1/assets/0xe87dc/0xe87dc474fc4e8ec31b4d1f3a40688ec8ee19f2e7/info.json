@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe87dc474fc4e8ec31b4d1f3a40688ec8ee19f2e7",
+  "displayName": "DGBProtokol",
+  "type": "TOKEN",
+  "token": {
+    "name": "DGBProtokol",
+    "symbol": "DGB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

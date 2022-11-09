@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b16f7cd84384b20e6810aaefe42f195457d4c08",
+  "displayName": "Ape Juice",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ape Juice",
+    "symbol": "$JUICE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

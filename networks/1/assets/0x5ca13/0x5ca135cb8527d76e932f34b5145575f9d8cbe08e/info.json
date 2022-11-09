@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ca135cb8527d76e932f34b5145575f9d8cbe08e",
+  "displayName": "Frax Price Index",
+  "type": "TOKEN",
+  "token": {
+    "name": "Frax Price Index",
+    "symbol": "FPI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

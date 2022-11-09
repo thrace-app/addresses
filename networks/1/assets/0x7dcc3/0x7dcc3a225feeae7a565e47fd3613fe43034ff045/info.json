@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7dcc3a225feeae7a565e47fd3613fe43034ff045",
+  "displayName": "Elon Of The Year",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Of The Year",
+    "symbol": "EOTY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

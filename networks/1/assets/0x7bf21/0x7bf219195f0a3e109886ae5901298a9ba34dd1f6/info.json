@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7bf219195f0a3e109886ae5901298a9ba34dd1f6",
+  "displayName": "VanCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "VanCoin",
+    "symbol": "VAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

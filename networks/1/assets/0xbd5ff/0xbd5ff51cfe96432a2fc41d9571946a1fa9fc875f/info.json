@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd5ff51cfe96432a2fc41d9571946a1fa9fc875f",
+  "displayName": "NFThereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFThereum",
+    "symbol": "nETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

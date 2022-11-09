@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x516c164a879892a156920a215855c3416616c46e",
+  "displayName": "Bancor LINK Pool Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bancor LINK Pool Token",
+    "symbol": "bnLINK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2600b84ad475a9cbed65e8b7f858eb46e93db0a6",
+  "displayName": "Free USD Faucet Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Free USD Faucet Finance",
+    "symbol": "DefiUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

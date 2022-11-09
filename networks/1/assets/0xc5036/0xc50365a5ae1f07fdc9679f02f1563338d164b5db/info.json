@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc50365a5ae1f07fdc9679f02f1563338d164b5db",
+  "displayName": "Meme Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meme Finance",
+    "symbol": "$MF",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x28df5e6ff6dcfeb4c69a4332dd51cf4733287081",
+  "displayName": "Stripper Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stripper Token",
+    "symbol": "STRIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

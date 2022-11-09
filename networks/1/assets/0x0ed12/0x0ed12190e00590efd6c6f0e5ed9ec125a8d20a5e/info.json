@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ed12190e00590efd6c6f0e5ed9ec125a8d20a5e",
+  "displayName": "BogToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BogToken",
+    "symbol": "BOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

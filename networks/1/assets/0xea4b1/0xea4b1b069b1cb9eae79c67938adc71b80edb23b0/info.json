@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea4b1b069b1cb9eae79c67938adc71b80edb23b0",
+  "displayName": "DegenerateToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DegenerateToken",
+    "symbol": "DGNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8609c71bb317390d797e44a6cf1d267931228ec2",
+  "displayName": "Bitcoin Volcano",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Volcano",
+    "symbol": "BTCVL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

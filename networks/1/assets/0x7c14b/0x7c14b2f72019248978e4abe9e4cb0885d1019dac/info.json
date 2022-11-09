@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c14b2f72019248978e4abe9e4cb0885d1019dac",
+  "displayName": "ShitCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShitCoin",
+    "symbol": "SHIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

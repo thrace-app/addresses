@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbae235823d7255d9d48635ced4735227244cd583",
+  "displayName": "Staker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Staker",
+    "symbol": "STR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

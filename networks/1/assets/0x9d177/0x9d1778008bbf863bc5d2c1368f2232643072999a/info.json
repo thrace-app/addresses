@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d1778008bbf863bc5d2c1368f2232643072999a",
+  "displayName": "SpaceGold",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpaceGold",
+    "symbol": "$SG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

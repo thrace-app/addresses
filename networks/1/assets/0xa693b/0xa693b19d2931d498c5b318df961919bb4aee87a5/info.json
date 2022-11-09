@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
+  "displayName": "UST (Wormhole)",
+  "type": "TOKEN",
+  "token": {
+    "name": "UST (Wormhole)",
+    "symbol": "UST",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

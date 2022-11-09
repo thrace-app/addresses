@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e356442f6f8679e477eb38833eecbddcd140aef",
+  "displayName": "NanoPass",
+  "type": "TOKEN",
+  "token": {
+    "name": "NanoPass",
+    "symbol": "NPASS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

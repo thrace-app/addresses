@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb7b96a60e381dab3316baf2578d8925301314b9",
+  "displayName": "CryptoETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoETH",
+    "symbol": "$CE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

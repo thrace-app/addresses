@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79f4fb9de652dd6a3ace7d25bb085072c727b373",
+  "displayName": "Concordium",
+  "type": "TOKEN",
+  "token": {
+    "name": "Concordium",
+    "symbol": "GTU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

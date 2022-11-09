@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80acb802869f7b825cdbdacb504cf95b595bb930",
+  "displayName": "Core",
+  "type": "TOKEN",
+  "token": {
+    "name": "Core",
+    "symbol": "CRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

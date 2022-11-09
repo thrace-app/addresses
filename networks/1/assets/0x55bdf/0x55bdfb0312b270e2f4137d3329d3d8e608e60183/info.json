@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55bdfb0312b270e2f4137d3329d3d8e608e60183",
+  "displayName": "Hippo Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hippo Swap",
+    "symbol": "HIPPO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

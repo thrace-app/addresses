@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b44ccc86c373fd4fa62f316bdfb9a4f3ad32407",
+  "displayName": "Native Token YBDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Native Token YBDAO",
+    "symbol": "YBREE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

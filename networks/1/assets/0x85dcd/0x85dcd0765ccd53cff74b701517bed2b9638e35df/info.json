@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85dcd0765ccd53cff74b701517bed2b9638e35df",
+  "displayName": "Honk Charity",
+  "type": "TOKEN",
+  "token": {
+    "name": "Honk Charity",
+    "symbol": "HONK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

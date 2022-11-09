@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f7098696aac7c114a013229c3c752e41b07e80f",
+  "displayName": "Decentralized Stable Asset",
+  "type": "TOKEN",
+  "token": {
+    "name": "Decentralized Stable Asset",
+    "symbol": "DSA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

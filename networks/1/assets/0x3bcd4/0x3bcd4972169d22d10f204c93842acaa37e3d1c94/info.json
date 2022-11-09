@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3bcd4972169d22d10f204c93842acaa37e3d1c94",
+  "displayName": "CloudChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "CloudChain",
+    "symbol": "CCHAIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

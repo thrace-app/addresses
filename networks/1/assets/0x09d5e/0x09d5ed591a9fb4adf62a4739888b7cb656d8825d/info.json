@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09d5ed591a9fb4adf62a4739888b7cb656d8825d",
+  "displayName": "Real Stable Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Real Stable Dollar",
+    "symbol": "RSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2cdbc0952cb444faaced712ac6d09ea61a238102",
+  "displayName": "RokokToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RokokToken",
+    "symbol": "RKK",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

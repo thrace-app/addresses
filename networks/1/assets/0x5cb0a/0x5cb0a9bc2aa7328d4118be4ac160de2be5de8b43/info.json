@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cb0a9bc2aa7328d4118be4ac160de2be5de8b43",
+  "displayName": "Proof of Lambo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Lambo",
+    "symbol": "Lambo 2.0",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

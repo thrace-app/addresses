@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0651b66d6af12ccf27ad194170e0deb5aa5cc454",
+  "displayName": "BBB Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "BBB Finance",
+    "symbol": "BBB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

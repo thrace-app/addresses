@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdead0d70e02ae02076ddef2ffc52c12c0991f4bf",
+  "displayName": "KachingCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KachingCoin",
+    "symbol": "KAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

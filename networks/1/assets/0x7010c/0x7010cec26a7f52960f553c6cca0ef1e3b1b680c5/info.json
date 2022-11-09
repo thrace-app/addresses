@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7010cec26a7f52960f553c6cca0ef1e3b1b680c5",
+  "displayName": "Crypto Pixies",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Pixies",
+    "symbol": "PIXIES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

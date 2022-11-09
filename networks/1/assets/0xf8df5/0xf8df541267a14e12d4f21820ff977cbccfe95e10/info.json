@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf8df541267a14e12d4f21820ff977cbccfe95e10",
+  "displayName": "Farmer Pepe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Farmer Pepe",
+    "symbol": "FRP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

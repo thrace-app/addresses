@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xafef0965576070d1608f374cb14049eefad218ec",
+  "displayName": "WeiDai",
+  "type": "TOKEN",
+  "token": {
+    "name": "WeiDai",
+    "symbol": "WEIDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

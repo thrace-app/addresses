@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2ef2ac3f6b01dd495a579ba5601f34f14619fc8",
+  "displayName": "Horgi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Horgi Token",
+    "symbol": "HORGI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

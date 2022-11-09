@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe171e4b490636799849012ed8db7e162e5073ee4",
+  "displayName": "Swaprol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swaprol Token",
+    "symbol": "SWPRL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2075ab08d7c74eee8776b3726661c2b55413d721",
+  "displayName": "YieldXToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "YieldXToken",
+    "symbol": "YieldX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

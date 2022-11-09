@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdafe6d3d4a17a8ca92a74c5877e2e23af45e32a0",
+  "displayName": "Capture The Flag",
+  "type": "TOKEN",
+  "token": {
+    "name": "Capture The Flag",
+    "symbol": "$FLAG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

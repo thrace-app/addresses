@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6767615a97a8204298bbac44c57ef1a615eed244",
+  "displayName": "CribnbERC20",
+  "type": "TOKEN",
+  "token": {
+    "name": "CribnbERC20",
+    "symbol": "CRB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

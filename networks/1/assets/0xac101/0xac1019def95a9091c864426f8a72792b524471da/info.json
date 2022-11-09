@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac1019def95a9091c864426f8a72792b524471da",
+  "displayName": "Level Up",
+  "type": "TOKEN",
+  "token": {
+    "name": "Level Up",
+    "symbol": "LEVEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

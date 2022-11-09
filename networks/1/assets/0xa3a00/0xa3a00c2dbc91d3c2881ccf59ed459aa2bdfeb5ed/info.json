@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa3a00c2dbc91d3c2881ccf59ed459aa2bdfeb5ed",
+  "displayName": "Ghili Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ghili Token",
+    "symbol": "$GHL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

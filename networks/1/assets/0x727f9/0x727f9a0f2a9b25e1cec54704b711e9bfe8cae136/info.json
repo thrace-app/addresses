@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x727f9a0f2a9b25e1cec54704b711e9bfe8cae136",
+  "displayName": "Degen Spaceship",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Spaceship",
+    "symbol": "SPACESHIP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

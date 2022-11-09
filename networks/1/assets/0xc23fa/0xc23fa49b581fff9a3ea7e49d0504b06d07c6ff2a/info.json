@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc23fa49b581fff9a3ea7e49d0504b06d07c6ff2a",
+  "displayName": "Crazy Rich Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crazy Rich Coin",
+    "symbol": "CRC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

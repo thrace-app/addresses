@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe06cf759e30912dfaa63182476ad2ddb74f60dfa",
+  "displayName": "Cowboy Neko",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cowboy Neko",
+    "symbol": "COWBOY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

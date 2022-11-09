@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe70aea86686e9d787141a4e2991ac9fbee364edb",
+  "displayName": "Ratatosk Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ratatosk Token",
+    "symbol": "RATATOSK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

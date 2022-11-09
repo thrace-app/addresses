@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf35e5f50be06f137aee4637ff97b71594164106",
+  "displayName": "Moon Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moon Chain",
+    "symbol": "MC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

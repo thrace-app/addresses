@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x371919b6432c649d2ac961827bc4b9213b076e9c",
+  "displayName": "KOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "KOGE",
+    "symbol": "koge.finance",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

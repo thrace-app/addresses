@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ebefbd39b33f3d4343d4144043a1bba5fb82aa4",
+  "displayName": "Valhalla Burn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Valhalla Burn",
+    "symbol": "VBURN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

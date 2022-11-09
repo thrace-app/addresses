@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f",
+  "displayName": "Interest-Bearing BTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Interest-Bearing BTC",
+    "symbol": "ibBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

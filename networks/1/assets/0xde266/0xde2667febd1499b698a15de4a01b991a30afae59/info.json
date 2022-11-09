@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde2667febd1499b698a15de4a01b991a30afae59",
+  "displayName": "Dazed Dogs Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dazed Dogs Token",
+    "symbol": "DDOGS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

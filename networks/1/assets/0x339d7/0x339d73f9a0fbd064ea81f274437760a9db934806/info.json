@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x339d73f9a0fbd064ea81f274437760a9db934806",
+  "displayName": "Grazing Sushi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grazing Sushi",
+    "symbol": "gSushi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

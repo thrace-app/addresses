@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ac585788c6a52caac0f8ccdc1df77eb62f8acc8",
+  "displayName": "Opyn Compound Dai",
+  "type": "TOKEN",
+  "token": {
+    "name": "Opyn Compound Dai",
+    "symbol": "ocDai",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

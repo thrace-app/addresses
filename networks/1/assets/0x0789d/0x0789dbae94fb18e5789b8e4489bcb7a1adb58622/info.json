@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0789dbae94fb18e5789b8e4489bcb7a1adb58622",
+  "displayName": "FiscoCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FiscoCoin",
+    "symbol": "FSCC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

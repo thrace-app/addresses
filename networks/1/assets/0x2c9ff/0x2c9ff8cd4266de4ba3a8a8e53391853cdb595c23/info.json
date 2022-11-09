@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c9ff8cd4266de4ba3a8a8e53391853cdb595c23",
+  "displayName": "DAC",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAC",
+    "symbol": "DAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

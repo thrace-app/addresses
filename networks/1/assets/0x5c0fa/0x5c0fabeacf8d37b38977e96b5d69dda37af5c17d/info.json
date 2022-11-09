@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c0fabeacf8d37b38977e96b5d69dda37af5c17d",
+  "displayName": "Ethereum Fair",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Fair",
+    "symbol": "ETF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75571a52de30e2d7160af134798acfb80cc9c0be",
+  "displayName": "Wrapped Navcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Navcoin",
+    "symbol": "WNAV",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

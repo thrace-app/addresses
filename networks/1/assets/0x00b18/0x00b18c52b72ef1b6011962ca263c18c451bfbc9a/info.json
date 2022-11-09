@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00b18c52b72ef1b6011962ca263c18c451bfbc9a",
+  "displayName": "GoldFinX",
+  "type": "TOKEN",
+  "token": {
+    "name": "GoldFinX",
+    "symbol": "GIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

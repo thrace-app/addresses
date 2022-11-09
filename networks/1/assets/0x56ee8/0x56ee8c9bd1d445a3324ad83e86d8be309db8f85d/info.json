@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56ee8c9bd1d445a3324ad83e86d8be309db8f85d",
+  "displayName": "Solareum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Solareum",
+    "symbol": "SLRM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa3ea9562c3b6fe40e74f0155a0fdadd1254f7a68",
+  "displayName": "3D Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "3D Coin",
+    "symbol": "3D",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

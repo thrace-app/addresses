@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7da4034d6bf12909e5d0198c3784f55a06e0210",
+  "displayName": "Cash on Delivery",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cash on Delivery",
+    "symbol": "COD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

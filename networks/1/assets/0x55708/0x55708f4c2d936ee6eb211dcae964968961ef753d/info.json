@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55708f4c2d936ee6eb211dcae964968961ef753d",
+  "displayName": "badger.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "badger.finance",
+    "symbol": "BADGER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

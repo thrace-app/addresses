@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee78eac54d7b5c2d0712efec08599195a87e8ba5",
+  "displayName": "cPayments",
+  "type": "TOKEN",
+  "token": {
+    "name": "cPayments",
+    "symbol": "CPAY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

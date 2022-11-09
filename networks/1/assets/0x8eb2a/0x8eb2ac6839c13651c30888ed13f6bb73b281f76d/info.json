@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8eb2ac6839c13651c30888ed13f6bb73b281f76d",
+  "displayName": "MyMoneyGame",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyMoneyGame",
+    "symbol": "MMG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

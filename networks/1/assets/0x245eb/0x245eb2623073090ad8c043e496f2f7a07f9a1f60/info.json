@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x245eb2623073090ad8c043e496f2f7a07f9a1f60",
+  "displayName": "Dragon Juice",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dragon Juice",
+    "symbol": "DJUICE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

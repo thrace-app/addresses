@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20875cbf7744d634e7911de50360033cc8debfc5",
+  "displayName": "Yuji Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yuji Token",
+    "symbol": "YUJI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

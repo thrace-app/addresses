@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac0101fb65f6000eba067658c5fa5481832018c8",
+  "displayName": "Kaneki Ken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kaneki Ken",
+    "symbol": "KANEKI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

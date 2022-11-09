@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30f78b4aaf258cab71fad56e11e7faf4081d1052",
+  "displayName": "Watermelon Swap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Watermelon Swap Token",
+    "symbol": "WSWAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

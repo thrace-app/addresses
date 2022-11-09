@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55ff7c8d75d233f5803e7555d0c6620b8e07e635",
+  "displayName": "UniFuel",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniFuel",
+    "symbol": "UNIFUEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

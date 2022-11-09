@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc8367e0a219e25b5abe286e687e3d30fe816940b",
+  "displayName": "Synic Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synic Token",
+    "symbol": "YFAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

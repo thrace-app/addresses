@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3bca9babaa44581670e3919b009e11687fdd6083",
+  "displayName": "Click Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Click Coin",
+    "symbol": "Click",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

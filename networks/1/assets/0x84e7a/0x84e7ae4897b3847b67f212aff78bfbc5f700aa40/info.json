@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84e7ae4897b3847b67f212aff78bfbc5f700aa40",
+  "displayName": "Virtual Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Virtual Bitcoin",
+    "symbol": "VBTC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

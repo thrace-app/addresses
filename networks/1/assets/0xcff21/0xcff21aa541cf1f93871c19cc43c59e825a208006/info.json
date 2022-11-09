@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcff21aa541cf1f93871c19cc43c59e825a208006",
+  "displayName": "Tesla Bot",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tesla Bot",
+    "symbol": "TBOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

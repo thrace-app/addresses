@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4536b39b30ce0e213fd449d8fba96909d8870501",
+  "displayName": "PampLottery",
+  "type": "TOKEN",
+  "token": {
+    "name": "PampLottery",
+    "symbol": "PML",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

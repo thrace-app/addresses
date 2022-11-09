@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x36f1cb305959c8e580b18181e913ae9a901b5485",
+  "displayName": "OptionRoom Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OptionRoom Token",
+    "symbol": "ROOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

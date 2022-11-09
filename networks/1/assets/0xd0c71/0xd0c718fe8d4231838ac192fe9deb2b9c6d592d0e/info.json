@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0c718fe8d4231838ac192fe9deb2b9c6d592d0e",
+  "displayName": "Rivia Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rivia Token",
+    "symbol": "RIVIA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

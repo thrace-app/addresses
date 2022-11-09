@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4cb3db185d11e1cd3eefde5ffa5ddf4976c3b2e",
+  "displayName": "AIISwapCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AIISwapCoin",
+    "symbol": "AIIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

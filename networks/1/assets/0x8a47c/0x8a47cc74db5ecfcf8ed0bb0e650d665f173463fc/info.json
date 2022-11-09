@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a47cc74db5ecfcf8ed0bb0e650d665f173463fc",
+  "displayName": "Bolt Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bolt Doge",
+    "symbol": "BoltDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x733a3d114e219dda151c31ee685ef725b7ae881d",
+  "displayName": "Blueberry Muffin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blueberry Muffin",
+    "symbol": "BUFFIN",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

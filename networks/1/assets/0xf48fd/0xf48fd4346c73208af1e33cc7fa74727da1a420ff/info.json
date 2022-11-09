@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf48fd4346c73208af1e33cc7fa74727da1a420ff",
+  "displayName": "BabyWhale",
+  "type": "TOKEN",
+  "token": {
+    "name": "BabyWhale",
+    "symbol": "BBW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

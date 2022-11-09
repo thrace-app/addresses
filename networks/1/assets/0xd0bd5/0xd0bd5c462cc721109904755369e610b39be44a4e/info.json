@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0bd5c462cc721109904755369e610b39be44a4e",
+  "displayName": "Ropsten Testnet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ropsten Testnet",
+    "symbol": "RT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

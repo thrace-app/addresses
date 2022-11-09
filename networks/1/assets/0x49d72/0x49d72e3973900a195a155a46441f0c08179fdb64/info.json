@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49d72e3973900a195a155a46441f0c08179fdb64",
+  "displayName": "Cream ETH Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cream ETH Token",
+    "symbol": "CRETH2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

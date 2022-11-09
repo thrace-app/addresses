@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x555b572c63fe4f6cec08e7d6633756a7470fac27",
+  "displayName": "WAL",
+  "type": "TOKEN",
+  "token": {
+    "name": "WAL",
+    "symbol": "WAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

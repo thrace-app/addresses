@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39198b3db944bf10a220f5426b0125170c7ebde9",
+  "displayName": "ICU Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ICU Token",
+    "symbol": "ICUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

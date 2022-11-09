@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xedf46cfb90171f84b57d9b4c38a60edcce4650cf",
+  "displayName": "PluDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "PluDoge",
+    "symbol": "PLUDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

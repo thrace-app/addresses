@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71ee1edaf2f7758e6b75b81e9573294b06eeef77",
+  "displayName": "Civet Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Civet Coin",
+    "symbol": "Civet",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

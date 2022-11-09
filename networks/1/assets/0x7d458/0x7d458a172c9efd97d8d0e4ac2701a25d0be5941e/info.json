@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d458a172c9efd97d8d0e4ac2701a25d0be5941e",
+  "displayName": "SanctionErc",
+  "type": "TOKEN",
+  "token": {
+    "name": "SanctionErc",
+    "symbol": "Sanction",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

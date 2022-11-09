@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6644f14ae1fb74d8467b594121088897eefd0caf",
+  "displayName": "Tesla Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tesla Inu",
+    "symbol": "$TSLA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

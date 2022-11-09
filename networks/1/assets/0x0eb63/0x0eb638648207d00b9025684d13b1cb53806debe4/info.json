@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0eb638648207d00b9025684d13b1cb53806debe4",
+  "displayName": "NIL Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NIL Coin",
+    "symbol": "NIL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

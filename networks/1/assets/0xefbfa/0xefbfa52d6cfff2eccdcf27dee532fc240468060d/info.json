@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xefbfa52d6cfff2eccdcf27dee532fc240468060d",
+  "displayName": "Ethereum Forever",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Forever",
+    "symbol": "ETHEREVER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

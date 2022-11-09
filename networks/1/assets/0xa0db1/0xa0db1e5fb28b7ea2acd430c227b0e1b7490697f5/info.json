@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa0db1e5fb28b7ea2acd430c227b0e1b7490697f5",
+  "displayName": "ScarceToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ScarceToken",
+    "symbol": "SCARCE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

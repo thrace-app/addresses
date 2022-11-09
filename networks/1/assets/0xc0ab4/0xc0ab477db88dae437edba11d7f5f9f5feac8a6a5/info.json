@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0ab477db88dae437edba11d7f5f9f5feac8a6a5",
+  "displayName": "Hoshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hoshi",
+    "symbol": "Hoshi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

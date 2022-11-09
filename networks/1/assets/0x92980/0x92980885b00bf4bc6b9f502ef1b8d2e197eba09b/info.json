@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92980885b00bf4bc6b9f502ef1b8d2e197eba09b",
+  "displayName": "Fake Internet Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fake Internet Money",
+    "symbol": "FIM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

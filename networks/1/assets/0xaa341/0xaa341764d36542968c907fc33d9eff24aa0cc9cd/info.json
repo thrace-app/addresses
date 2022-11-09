@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa341764d36542968c907fc33d9eff24aa0cc9cd",
+  "displayName": "Spacen Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spacen Token",
+    "symbol": "SPN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

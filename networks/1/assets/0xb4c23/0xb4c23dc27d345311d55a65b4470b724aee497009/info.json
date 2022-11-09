@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4c23dc27d345311d55a65b4470b724aee497009",
+  "displayName": "DuskCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DuskCoin",
+    "symbol": "Dusk",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

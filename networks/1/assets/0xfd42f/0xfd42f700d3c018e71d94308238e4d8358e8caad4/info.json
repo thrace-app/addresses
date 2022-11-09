@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd42f700d3c018e71d94308238e4d8358e8caad4",
+  "displayName": "Streamers Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Streamers Fund",
+    "symbol": "STREAM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x565ac8639e53a4bff4afb34ac63a49d7bf01500e",
+  "displayName": "XPAY Pro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XPAY Pro Token",
+    "symbol": "XPAYPro",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

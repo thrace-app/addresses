@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6e8f0748b9d75d3405e975bdfbadd6db5ec79a7",
+  "displayName": "Future X Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Future X Coin",
+    "symbol": "FXC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

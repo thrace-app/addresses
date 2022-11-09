@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba7970f10d9f0531941dced1dda7ef3016b24e5b",
+  "displayName": "Based Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Based Gold",
+    "symbol": "BGLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

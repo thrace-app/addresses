@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2565423a7e9fe3d004b29e1a1d27d680e935877",
+  "displayName": "Defi Cross Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Defi Cross Token",
+    "symbol": "XXA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

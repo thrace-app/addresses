@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2cc9e2c0ea7aaa9c022f851b341e8ecd9b821608",
+  "displayName": "Boba Fett Trailer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boba Fett Trailer Token",
+    "symbol": "BobaTrailer",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

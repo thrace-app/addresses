@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b016b1c6cbb116f3b1eb9ea805259509ddcf6a5",
+  "displayName": "Yearn Yield Farming",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn Yield Farming",
+    "symbol": "YYF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

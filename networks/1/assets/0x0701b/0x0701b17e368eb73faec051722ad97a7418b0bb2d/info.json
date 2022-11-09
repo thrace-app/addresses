@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0701b17e368eb73faec051722ad97a7418b0bb2d",
+  "displayName": "Ramyeon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ramyeon",
+    "symbol": "라면",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

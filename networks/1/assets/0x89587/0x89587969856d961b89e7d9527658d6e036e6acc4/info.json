@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89587969856d961b89e7d9527658d6e036e6acc4",
+  "displayName": "OnlyWhales",
+  "type": "TOKEN",
+  "token": {
+    "name": "OnlyWhales",
+    "symbol": "OW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

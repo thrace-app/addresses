@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x553b0898384f9ec1edea182cf3b3f46cec4946b3",
+  "displayName": "Creature Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Creature Token",
+    "symbol": "CREATURE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x951609910441b311380f12b0448520130d445b5f",
+  "displayName": "Dove Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dove Token",
+    "symbol": "DOVE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

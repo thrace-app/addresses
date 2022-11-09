@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x098e3a1224e6830879c45cf665ae93cf463cfbef",
+  "displayName": "Polka Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polka Finance",
+    "symbol": "PFIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

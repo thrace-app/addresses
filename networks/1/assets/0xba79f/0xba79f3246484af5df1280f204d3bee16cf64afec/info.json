@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba79f3246484af5df1280f204d3bee16cf64afec",
+  "displayName": "Central Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Central Bank",
+    "symbol": "CB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

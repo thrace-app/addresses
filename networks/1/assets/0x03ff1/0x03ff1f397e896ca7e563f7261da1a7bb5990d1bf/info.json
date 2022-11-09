@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03ff1f397e896ca7e563f7261da1a7bb5990d1bf",
+  "displayName": "Hoichi Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hoichi Fund",
+    "symbol": "$HFUND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaedec13bb44a16920c8cc37b44b054cbf186940f",
+  "displayName": "Central Bank Of Degen",
+  "type": "TOKEN",
+  "token": {
+    "name": "Central Bank Of Degen",
+    "symbol": "CBDEGEN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

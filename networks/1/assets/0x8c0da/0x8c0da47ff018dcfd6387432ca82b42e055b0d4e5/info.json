@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c0da47ff018dcfd6387432ca82b42e055b0d4e5",
+  "displayName": "Markex Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Markex Finance Token",
+    "symbol": "MKX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6508e635260f3f6a385419951cbb89342ed07a8b",
+  "displayName": "HUBFinex",
+  "type": "TOKEN",
+  "token": {
+    "name": "HUBFinex",
+    "symbol": "HFX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

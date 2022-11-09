@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x15cb0b9b4ed34189136d82e60cbe10bd6c9cdcce",
+  "displayName": "Nano Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nano Protocol",
+    "symbol": "NANO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

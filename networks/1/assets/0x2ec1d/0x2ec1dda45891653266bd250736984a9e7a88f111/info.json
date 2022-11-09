@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ec1dda45891653266bd250736984a9e7a88f111",
+  "displayName": "Omphalos Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Omphalos Token",
+    "symbol": "OMPLS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4a30287888873c41f13978d283c9f38b3cb2120e",
+  "displayName": "Litecoin Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Litecoin Finance",
+    "symbol": "LTCF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

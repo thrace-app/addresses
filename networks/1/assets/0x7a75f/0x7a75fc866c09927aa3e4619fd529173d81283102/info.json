@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a75fc866c09927aa3e4619fd529173d81283102",
+  "displayName": "CanETH Rewards",
+  "type": "TOKEN",
+  "token": {
+    "name": "CanETH Rewards",
+    "symbol": "CReth",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

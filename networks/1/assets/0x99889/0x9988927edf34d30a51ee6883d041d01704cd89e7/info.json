@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9988927edf34d30a51ee6883d041d01704cd89e7",
+  "displayName": "Dragons Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dragons Gold",
+    "symbol": "DGOLD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

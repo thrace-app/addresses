@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b4389afb3e243a65668b7311fa9ef092a8a3b64",
+  "displayName": "Real Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Real Coin",
+    "symbol": "REAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

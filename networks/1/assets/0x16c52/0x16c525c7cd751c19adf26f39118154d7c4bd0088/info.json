@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x16c525c7cd751c19adf26f39118154d7c4bd0088",
+  "displayName": "Guardian Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Guardian Token",
+    "symbol": "Guardian",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

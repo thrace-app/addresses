@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9089a67137b39e864be6716ed75b7f507bb226ca",
+  "displayName": "Yellow Shiba Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yellow Shiba Inu",
+    "symbol": "YShiba",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

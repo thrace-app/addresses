@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88276b040dfecb3648cd8967befad4ab5e6bd7e5",
+  "displayName": "Troy Ounces of Pure Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Troy Ounces of Pure Gold",
+    "symbol": "GOLD OZ",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

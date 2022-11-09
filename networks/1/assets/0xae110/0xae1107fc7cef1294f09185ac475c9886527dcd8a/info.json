@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xae1107fc7cef1294f09185ac475c9886527dcd8a",
+  "displayName": "ADAL Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ADAL Token",
+    "symbol": "ADAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3cad00e830ee01ab4819b013ae595a981bf69f02",
+  "displayName": "Pepe Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pepe Inu",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

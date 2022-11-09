@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x13c28a8875d0f95daab8bdc65b44a0a246e2490e",
+  "displayName": "BABcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BABcoin",
+    "symbol": "BAB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdace001b4b83ce39acd9d3d1b559bb9245430be3",
+  "displayName": "Taki App",
+  "type": "TOKEN",
+  "token": {
+    "name": "Taki App",
+    "symbol": "Taki",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

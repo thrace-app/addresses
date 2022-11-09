@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x466dd97f83b18ac23ddf16931f8171a817953ff1",
+  "displayName": "Shifted BCH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shifted BCH",
+    "symbol": "zBCH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

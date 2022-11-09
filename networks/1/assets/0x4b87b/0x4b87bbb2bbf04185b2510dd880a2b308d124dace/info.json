@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b87bbb2bbf04185b2510dd880a2b308d124dace",
+  "displayName": "BigDumbCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BigDumbCoin",
+    "symbol": "BigDumbCoin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

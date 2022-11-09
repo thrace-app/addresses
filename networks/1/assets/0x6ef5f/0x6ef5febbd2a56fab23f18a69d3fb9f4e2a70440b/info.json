@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ef5febbd2a56fab23f18a69d3fb9f4e2a70440b",
+  "displayName": "Intercoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Intercoin",
+    "symbol": "ITR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

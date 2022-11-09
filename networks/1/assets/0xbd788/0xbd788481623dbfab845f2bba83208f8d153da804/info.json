@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd788481623dbfab845f2bba83208f8d153da804",
+  "displayName": "The Philosopher",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Philosopher",
+    "symbol": "MEDIOCRATES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

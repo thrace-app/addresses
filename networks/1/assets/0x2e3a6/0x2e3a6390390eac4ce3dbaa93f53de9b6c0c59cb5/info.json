@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e3a6390390eac4ce3dbaa93f53de9b6c0c59cb5",
+  "displayName": "Wario Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wario Coin",
+    "symbol": "Wario",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

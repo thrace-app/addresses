@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabcb4793ecce5db06977a6271eea13d46fe7d1b5",
+  "displayName": "sparta",
+  "type": "TOKEN",
+  "token": {
+    "name": "sparta",
+    "symbol": "SPARTA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ce550fac2d46ad4f228deb26077aa5b085b133f",
+  "displayName": "Landing on Mars",
+  "type": "TOKEN",
+  "token": {
+    "name": "Landing on Mars",
+    "symbol": "ROVERX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

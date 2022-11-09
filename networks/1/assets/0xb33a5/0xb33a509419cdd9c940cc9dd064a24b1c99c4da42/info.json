@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb33a509419cdd9c940cc9dd064a24b1c99c4da42",
+  "displayName": "MinePool",
+  "type": "TOKEN",
+  "token": {
+    "name": "MinePool",
+    "symbol": "MPOOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

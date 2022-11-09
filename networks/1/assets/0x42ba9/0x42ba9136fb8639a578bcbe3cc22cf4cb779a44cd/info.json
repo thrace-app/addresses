@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42ba9136fb8639a578bcbe3cc22cf4cb779a44cd",
+  "displayName": "Sloth Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sloth Inu",
+    "symbol": "SLOTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

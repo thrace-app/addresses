@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x49b22ca28bb191d9eb49545312f5a565bc40c320",
+  "displayName": "HorseCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "HorseCoin",
+    "symbol": "HOC",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

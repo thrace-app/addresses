@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x171dac276f78cef5481d782bc628f28e94ce00b0",
+  "displayName": "Chest Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chest Protocol",
+    "symbol": "CHEST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

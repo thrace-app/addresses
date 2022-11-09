@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10ea2d1d2fbfea622b2b23beeee75ad02ac877b6",
+  "displayName": "ETH WHALE",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH WHALE",
+    "symbol": "EWHALE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

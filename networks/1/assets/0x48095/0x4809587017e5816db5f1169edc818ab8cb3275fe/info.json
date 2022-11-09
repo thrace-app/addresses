@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4809587017e5816db5f1169edc818ab8cb3275fe",
+  "displayName": "Learn Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Learn Protocol",
+    "symbol": "LEARN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

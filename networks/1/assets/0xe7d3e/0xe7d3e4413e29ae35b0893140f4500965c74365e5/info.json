@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7d3e4413e29ae35b0893140f4500965c74365e5",
+  "displayName": "B2BCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "B2BCoin",
+    "symbol": "BBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5bc1780ff57b6e1b7de73726c2ca3c11b0f53775",
+  "displayName": "Rhino Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rhino Finance",
+    "symbol": "Rhino",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

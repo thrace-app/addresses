@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc169333c7ee1ffd6f56527fa15e2b265e6c69db1",
+  "displayName": "Pixcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pixcoin",
+    "symbol": "PIXC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

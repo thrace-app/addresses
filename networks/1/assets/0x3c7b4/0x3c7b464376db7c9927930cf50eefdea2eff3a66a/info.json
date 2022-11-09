@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c7b464376db7c9927930cf50eefdea2eff3a66a",
+  "displayName": "USDA",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDA",
+    "symbol": "USDA",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

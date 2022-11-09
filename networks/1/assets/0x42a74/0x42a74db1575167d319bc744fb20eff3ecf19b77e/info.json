@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42a74db1575167d319bc744fb20eff3ecf19b77e",
+  "displayName": "Bored Crypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bored Crypto",
+    "symbol": "Bored Crypto",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

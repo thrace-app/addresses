@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d229e1b4faab62f621ef2f6a610961f7bd7b23b",
+  "displayName": "Curve EURS-USDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve EURS-USDC",
+    "symbol": "crvEURSUSDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

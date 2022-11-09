@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a51ff7c3929bc8a515e5f2c3aa7259e1160b4c6",
+  "displayName": "Athena Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Athena Token",
+    "symbol": "Athena",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

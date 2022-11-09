@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa490cf71ca3d581774a2f37bc3c14a85cb50fd0",
+  "displayName": "Centaur",
+  "type": "TOKEN",
+  "token": {
+    "name": "Centaur",
+    "symbol": "CENT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

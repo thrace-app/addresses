@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x951ee3df112328ab251d2cc0396c8e1e27e2eda1",
+  "displayName": "UniMonero",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniMonero",
+    "symbol": "UMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

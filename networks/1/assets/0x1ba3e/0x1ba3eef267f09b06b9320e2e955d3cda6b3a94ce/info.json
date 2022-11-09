@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ba3eef267f09b06b9320e2e955d3cda6b3a94ce",
+  "displayName": "SamToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SamToken",
+    "symbol": "$SAM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

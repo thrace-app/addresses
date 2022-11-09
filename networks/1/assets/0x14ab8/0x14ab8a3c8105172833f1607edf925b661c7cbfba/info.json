@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14ab8a3c8105172833f1607edf925b661c7cbfba",
+  "displayName": "Qurito Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Qurito Token",
+    "symbol": "QURITO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9e70240d2a8a30a592d3f076441c4f303b26de12",
+  "displayName": "Wrapped OCT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped OCT",
+    "symbol": "OCT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

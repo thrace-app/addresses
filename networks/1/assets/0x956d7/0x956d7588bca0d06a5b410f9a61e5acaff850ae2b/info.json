@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x956d7588bca0d06a5b410f9a61e5acaff850ae2b",
+  "displayName": "DIN token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DIN token",
+    "symbol": "DIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

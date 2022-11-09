@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb6b8def199ba52ec11d7c186c060c6a9466b6cb3",
+  "displayName": "So This Is Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "So This Is Money",
+    "symbol": "STIM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

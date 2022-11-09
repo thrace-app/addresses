@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad167ea728907eeb870b77b2864afbf5f4eec3cc",
+  "displayName": "Hospital Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hospital Coin",
+    "symbol": "HOSP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

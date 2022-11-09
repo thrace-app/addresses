@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d226bff737c5855254c307523afb3c464c5680b",
+  "displayName": "Pebble",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pebble",
+    "symbol": "PBL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

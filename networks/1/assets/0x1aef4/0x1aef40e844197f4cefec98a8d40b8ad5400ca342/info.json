@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1aef40e844197f4cefec98a8d40b8ad5400ca342",
+  "displayName": "Time Capsule",
+  "type": "TOKEN",
+  "token": {
+    "name": "Time Capsule",
+    "symbol": "$TIME",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

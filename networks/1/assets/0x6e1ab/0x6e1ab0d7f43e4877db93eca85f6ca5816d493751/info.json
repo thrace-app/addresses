@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e1ab0d7f43e4877db93eca85f6ca5816d493751",
+  "displayName": "Vitalik Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vitalik Protocol",
+    "symbol": "VITK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

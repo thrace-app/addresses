@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x049cac7a6a4f885dd6da82954d0284078f0e9ae0",
+  "displayName": "Puli Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Puli Token",
+    "symbol": "PULI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

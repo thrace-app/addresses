@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf2ca3e4177c4620ba4ee137387180b8a4c9ddba",
+  "displayName": "Who Am I",
+  "type": "TOKEN",
+  "token": {
+    "name": "Who Am I",
+    "symbol": "WAMI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

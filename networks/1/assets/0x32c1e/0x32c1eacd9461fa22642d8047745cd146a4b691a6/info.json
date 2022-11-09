@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32c1eacd9461fa22642d8047745cd146a4b691a6",
+  "displayName": "AnswerToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AnswerToken",
+    "symbol": "ANSR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7bbbbed72e388eda885b6c114741f972a30358d",
+  "displayName": "Abacus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Abacus",
+    "symbol": "ABA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

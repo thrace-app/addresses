@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c4eeaef5143f17e93fa126a6465bd0420b8b70b",
+  "displayName": "LUNDR Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LUNDR Token",
+    "symbol": "LUNDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

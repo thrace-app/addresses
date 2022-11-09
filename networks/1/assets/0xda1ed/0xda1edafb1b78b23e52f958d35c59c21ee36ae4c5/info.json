@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda1edafb1b78b23e52f958d35c59c21ee36ae4c5",
+  "displayName": "AI Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "AI Doge",
+    "symbol": "AID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

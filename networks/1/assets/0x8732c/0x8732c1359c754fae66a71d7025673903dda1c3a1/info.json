@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8732c1359c754fae66a71d7025673903dda1c3a1",
+  "displayName": "MetaKing",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaKing",
+    "symbol": "$MetaKing",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

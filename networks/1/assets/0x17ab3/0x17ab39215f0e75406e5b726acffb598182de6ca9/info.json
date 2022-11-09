@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17ab39215f0e75406e5b726acffb598182de6ca9",
+  "displayName": "StreetCredit",
+  "type": "TOKEN",
+  "token": {
+    "name": "StreetCredit",
+    "symbol": "SCRED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

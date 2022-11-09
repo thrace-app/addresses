@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x386eb78f2ee79adde8bdb0a0e27292755ebfea58",
+  "displayName": "Pod USD Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pod USD Coin",
+    "symbol": "pUSDC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

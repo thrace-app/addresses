@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99d36e97676a68313ffdc627fd6b56382a2a08b6",
+  "displayName": "Baby Trump Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Trump Token",
+    "symbol": "BabyTrump",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

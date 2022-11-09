@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc31c6cb370b847c2ea8ee143923e33b514fb69fd",
+  "displayName": "CommunityMoonToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CommunityMoonToken",
+    "symbol": "CMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

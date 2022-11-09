@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42039f55bb984e2315cefaed3a12d0b4c3328a08",
+  "displayName": "Xmpleforth",
+  "type": "TOKEN",
+  "token": {
+    "name": "Xmpleforth",
+    "symbol": "XAMPL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

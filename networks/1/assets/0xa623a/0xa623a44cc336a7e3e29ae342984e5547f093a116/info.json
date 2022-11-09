@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa623a44cc336a7e3e29ae342984e5547f093a116",
+  "displayName": "Credit Digital Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Credit Digital Token",
+    "symbol": "CRDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

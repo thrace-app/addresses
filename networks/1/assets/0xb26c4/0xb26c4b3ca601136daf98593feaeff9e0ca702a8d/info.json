@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb26c4b3ca601136daf98593feaeff9e0ca702a8d",
+  "displayName": "Aladdin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aladdin Token",
+    "symbol": "ALD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

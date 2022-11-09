@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x59199d38c96c2539122a0df94ec2a81993e73f5b",
+  "displayName": "Raspberry",
+  "type": "TOKEN",
+  "token": {
+    "name": "Raspberry",
+    "symbol": "RASPBERRY",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

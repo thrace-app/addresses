@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x872708baef1cb6f021ea8ec2f86dc56de88472e5",
+  "displayName": "Earth Day",
+  "type": "TOKEN",
+  "token": {
+    "name": "Earth Day",
+    "symbol": "EARTH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

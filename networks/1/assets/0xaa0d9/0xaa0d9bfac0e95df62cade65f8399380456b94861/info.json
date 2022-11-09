@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa0d9bfac0e95df62cade65f8399380456b94861",
+  "displayName": "Shiba Senpai",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Senpai",
+    "symbol": "SHIBPAI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

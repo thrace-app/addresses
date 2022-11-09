@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ffdcee10657d0f60e29015325d2be3031ccc08d",
+  "displayName": "Ponyswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ponyswap",
+    "symbol": "PONY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

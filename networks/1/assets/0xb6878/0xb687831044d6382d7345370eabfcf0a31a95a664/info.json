@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb687831044d6382d7345370eabfcf0a31a95a664",
+  "displayName": "Let's Send",
+  "type": "TOKEN",
+  "token": {
+    "name": "Let's Send",
+    "symbol": "LETS-SEND",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

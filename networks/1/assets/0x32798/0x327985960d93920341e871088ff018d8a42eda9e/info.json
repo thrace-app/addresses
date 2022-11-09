@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x327985960d93920341e871088ff018d8a42eda9e",
+  "displayName": "MagicTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "MagicTOKEN",
+    "symbol": "MAGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdebaa67a818c0582e35406a29ee07fe63e93130a",
+  "displayName": "Metal Backed Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Metal Backed Money",
+    "symbol": "MBMX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

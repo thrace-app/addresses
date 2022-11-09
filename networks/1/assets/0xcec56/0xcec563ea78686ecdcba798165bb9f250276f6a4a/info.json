@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcec563ea78686ecdcba798165bb9f250276f6a4a",
+  "displayName": "Mini Tamadoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mini Tamadoge",
+    "symbol": "MTAMA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x752ff65b884b9c260d212c804e0b7aceea012473",
+  "displayName": "SnapCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SnapCoin",
+    "symbol": "SNPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

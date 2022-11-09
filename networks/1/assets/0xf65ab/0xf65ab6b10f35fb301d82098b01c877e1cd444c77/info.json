@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf65ab6b10f35fb301d82098b01c877e1cd444c77",
+  "displayName": "BioChain Bridge",
+  "type": "TOKEN",
+  "token": {
+    "name": "BioChain Bridge",
+    "symbol": "BioChain",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

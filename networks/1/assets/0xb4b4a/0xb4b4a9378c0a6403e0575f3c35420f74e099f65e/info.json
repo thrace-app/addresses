@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4b4a9378c0a6403e0575f3c35420f74e099f65e",
+  "displayName": "Private Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Private Bank",
+    "symbol": "BANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

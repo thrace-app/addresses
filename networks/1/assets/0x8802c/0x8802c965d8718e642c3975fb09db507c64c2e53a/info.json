@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8802c965d8718e642c3975fb09db507c64c2e53a",
+  "displayName": "Vanta Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vanta Token",
+    "symbol": "Vanta",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x894a180cf0bdf32ff6b3268a1ae95d2fbc5500ab",
+  "displayName": "testing",
+  "type": "TOKEN",
+  "token": {
+    "name": "testing",
+    "symbol": "TESTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

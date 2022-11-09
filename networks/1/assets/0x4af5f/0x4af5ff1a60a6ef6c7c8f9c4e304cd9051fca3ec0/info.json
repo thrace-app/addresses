@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4af5ff1a60a6ef6c7c8f9c4e304cd9051fca3ec0",
+  "displayName": "RigelToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RigelToken",
+    "symbol": "RGP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x987e075a3bb03bb50322a84f906acd7295ee8734",
+  "displayName": "I Like You",
+  "type": "TOKEN",
+  "token": {
+    "name": "I Like You",
+    "symbol": "ILU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

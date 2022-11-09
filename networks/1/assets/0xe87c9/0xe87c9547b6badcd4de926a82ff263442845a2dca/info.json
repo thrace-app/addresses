@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe87c9547b6badcd4de926a82ff263442845a2dca",
+  "displayName": "PumpOrDump",
+  "type": "TOKEN",
+  "token": {
+    "name": "PumpOrDump",
+    "symbol": "POD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

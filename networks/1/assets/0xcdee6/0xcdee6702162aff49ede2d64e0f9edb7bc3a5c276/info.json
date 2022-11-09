@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcdee6702162aff49ede2d64e0f9edb7bc3a5c276",
+  "displayName": "Brokar Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brokar Token",
+    "symbol": "$BROKAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

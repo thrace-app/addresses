@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x870405f7fa584ddb3fe4112b64fee32247ff88c8",
+  "displayName": "ShabuVault",
+  "type": "TOKEN",
+  "token": {
+    "name": "ShabuVault",
+    "symbol": "SHABU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

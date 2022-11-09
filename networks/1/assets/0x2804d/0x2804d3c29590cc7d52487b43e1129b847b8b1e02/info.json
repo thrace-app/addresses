@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2804d3c29590cc7d52487b43e1129b847b8b1e02",
+  "displayName": "Fritz Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fritz Token",
+    "symbol": "FRITZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

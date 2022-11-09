@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38aca0510b9e48c77818b73f7b14957043607587",
+  "displayName": "Geode USD Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Geode USD Coin",
+    "symbol": "gUSDC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdaab5e695bb0e8ce8384ee56ba38fa8290618e52",
+  "displayName": "Crypto Daily Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto Daily Token",
+    "symbol": "CRDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

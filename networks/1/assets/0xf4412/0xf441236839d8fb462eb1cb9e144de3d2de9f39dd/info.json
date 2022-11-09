@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf441236839d8fb462eb1cb9e144de3d2de9f39dd",
+  "displayName": "Trust The Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trust The Token",
+    "symbol": "TRUST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

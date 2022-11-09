@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa903ab101fe1e0d9ce4c8b8bba20d6024e406ad",
+  "displayName": "LPC.coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LPC.coin",
+    "symbol": "LPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

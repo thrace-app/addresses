@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5050b7df7fc25c742be42ab8d6614536fbd357e6",
+  "displayName": "APEGOTCHI",
+  "type": "TOKEN",
+  "token": {
+    "name": "APEGOTCHI",
+    "symbol": "GOTCHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

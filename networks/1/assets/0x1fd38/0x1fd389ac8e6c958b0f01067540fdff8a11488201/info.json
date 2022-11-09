@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fd389ac8e6c958b0f01067540fdff8a11488201",
+  "displayName": "Wallex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wallex Token",
+    "symbol": "WLXT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

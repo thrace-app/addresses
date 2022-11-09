@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8fd8de153228f02a57dcfd550adf88be017b598a",
+  "displayName": "Hoax Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hoax Coin",
+    "symbol": "HOAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

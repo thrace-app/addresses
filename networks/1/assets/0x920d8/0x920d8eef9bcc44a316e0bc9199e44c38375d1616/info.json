@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x920d8eef9bcc44a316e0bc9199e44c38375d1616",
+  "displayName": "NanoApeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "NanoApeCoin",
+    "symbol": "NAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

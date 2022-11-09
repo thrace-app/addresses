@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7435ff44105a99f64f2b4f9562ae3ae104721e90",
+  "displayName": "True ERC20",
+  "type": "TOKEN",
+  "token": {
+    "name": "True ERC20",
+    "symbol": "TERC20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

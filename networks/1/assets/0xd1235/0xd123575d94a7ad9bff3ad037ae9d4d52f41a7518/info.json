@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd123575d94a7ad9bff3ad037ae9d4d52f41a7518",
+  "displayName": "Wrapped Wish",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Wish",
+    "symbol": "WWish",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

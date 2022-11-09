@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x59664cb547aaddd00a4e15b0fe5c8dceb6fd328d",
+  "displayName": "Titstoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Titstoken",
+    "symbol": "TITS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

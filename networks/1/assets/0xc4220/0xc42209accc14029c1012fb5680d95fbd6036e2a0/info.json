@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc42209accc14029c1012fb5680d95fbd6036e2a0",
+  "displayName": "PayPie",
+  "type": "TOKEN",
+  "token": {
+    "name": "PayPie",
+    "symbol": "PPP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

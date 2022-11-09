@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x097dc2c38efed283f0344c840cb1f531a778e019",
+  "displayName": "HBCU Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "HBCU Coin",
+    "symbol": "HBCUC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

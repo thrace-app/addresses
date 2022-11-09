@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe41b22f9cd36c1ce0d9c1f6b1f2fbf4326be0811",
+  "displayName": "Multi Planetary Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Multi Planetary Currency",
+    "symbol": "MPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

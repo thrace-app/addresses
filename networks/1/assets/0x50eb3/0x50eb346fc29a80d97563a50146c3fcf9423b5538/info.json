@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50eb346fc29a80d97563a50146c3fcf9423b5538",
+  "displayName": "Skull Candy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Skull Candy",
+    "symbol": "CANDY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

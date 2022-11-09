@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7bf7c2aeba9f77919ed2e0cb5684ff7fe084b306",
+  "displayName": "RocketMoontoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RocketMoontoken",
+    "symbol": "RMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

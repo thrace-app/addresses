@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14a47885db4aee4b83d13e281b2013a18aa75ff4",
+  "displayName": "KRUN Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KRUN Coin",
+    "symbol": "KRUN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2d756b08f055e6f96ab32b89a2620a70060ceda",
+  "displayName": "MevDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "MevDoge",
+    "symbol": "MOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

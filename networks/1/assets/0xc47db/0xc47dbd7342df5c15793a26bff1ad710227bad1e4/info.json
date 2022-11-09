@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc47dbd7342df5c15793a26bff1ad710227bad1e4",
+  "displayName": "Master Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Master Token",
+    "symbol": "MAK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

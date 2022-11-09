@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b1cdfe63b9b3f9c8a1d8e6daddcb96f6cb67029",
+  "displayName": "SLM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SLM Token",
+    "symbol": "SLM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x352e399488b3a30ced6b2d5569b48c247ff106d7",
+  "displayName": "Ninja Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ninja Inu Token",
+    "symbol": "NinjaInu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

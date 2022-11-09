@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e350fe734f368de20db997f0b1713d9a29e64c2",
+  "displayName": "BCUG Vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "BCUG Vault",
+    "symbol": "BCUG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

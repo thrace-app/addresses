@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01fd80f96bbd3ec95f5eeec1777b1fbb0e33a864",
+  "displayName": "Autistic Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Autistic Token",
+    "symbol": "AUT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

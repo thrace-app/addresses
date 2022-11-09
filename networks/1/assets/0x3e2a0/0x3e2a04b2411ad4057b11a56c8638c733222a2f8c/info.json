@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e2a04b2411ad4057b11a56c8638c733222a2f8c",
+  "displayName": "GibsToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GibsToken",
+    "symbol": "Gibs",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

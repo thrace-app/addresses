@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe66b3aa360bb78468c00bebe163630269db3324f",
+  "displayName": "Merchant Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Merchant Token",
+    "symbol": "MTO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

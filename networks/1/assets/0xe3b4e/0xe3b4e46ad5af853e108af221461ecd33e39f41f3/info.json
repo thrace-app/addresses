@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3b4e46ad5af853e108af221461ecd33e39f41f3",
+  "displayName": "Happy Seal",
+  "type": "TOKEN",
+  "token": {
+    "name": "Happy Seal",
+    "symbol": "HSEAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

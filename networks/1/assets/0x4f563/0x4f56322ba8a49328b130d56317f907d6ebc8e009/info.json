@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f56322ba8a49328b130d56317f907d6ebc8e009",
+  "displayName": "Space Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Space Shiba",
+    "symbol": "pSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

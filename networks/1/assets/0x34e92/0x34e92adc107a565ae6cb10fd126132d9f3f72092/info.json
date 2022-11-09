@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34e92adc107a565ae6cb10fd126132d9f3f72092",
+  "displayName": "Bootstrap Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bootstrap Fund",
+    "symbol": "BSTRP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

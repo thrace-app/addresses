@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ada2a695e214d86cf3e1eb9219b93c06bc6e90d",
+  "displayName": "EtherStones",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherStones",
+    "symbol": "ETHS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

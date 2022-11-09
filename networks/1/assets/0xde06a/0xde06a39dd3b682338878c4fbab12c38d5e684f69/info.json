@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde06a39dd3b682338878c4fbab12c38d5e684f69",
+  "displayName": "Kowalski Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kowalski Token",
+    "symbol": "KOWAL",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d88115301dac903d7d328bbfed6169eef4a5bdd",
+  "displayName": "The Tennis Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Tennis Protocol",
+    "symbol": "TTP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

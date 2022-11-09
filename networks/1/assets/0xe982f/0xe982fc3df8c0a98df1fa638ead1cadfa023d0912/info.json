@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe982fc3df8c0a98df1fa638ead1cadfa023d0912",
+  "displayName": "Golem",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golem",
+    "symbol": "GOLEM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

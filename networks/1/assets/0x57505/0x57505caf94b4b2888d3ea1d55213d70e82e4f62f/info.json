@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57505caf94b4b2888d3ea1d55213d70e82e4f62f",
+  "displayName": "Aquarius Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aquarius Token",
+    "symbol": "AQU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

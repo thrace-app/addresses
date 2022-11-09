@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeb3f55e45ac9440eef3e31bbfecef8bf580b0836",
+  "displayName": "Racoon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Racoon Token",
+    "symbol": "COON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

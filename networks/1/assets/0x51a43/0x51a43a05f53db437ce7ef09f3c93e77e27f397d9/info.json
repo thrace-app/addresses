@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51a43a05f53db437ce7ef09f3c93e77e27f397d9",
+  "displayName": "Tadpole",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tadpole",
+    "symbol": "TADPOLE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

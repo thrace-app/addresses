@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00000000001876eb1444c986fd502e618c587430",
+  "displayName": "Dharma Dai",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dharma Dai",
+    "symbol": "dDai",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

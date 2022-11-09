@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b2b49e3fd5562e218a5627d80eda7973084869f",
+  "displayName": "Joke Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Joke Inu",
+    "symbol": "JOKEINU",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

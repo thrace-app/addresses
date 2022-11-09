@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc120e4c2bf88e6c5ff55ea293e816acf64785e6d",
+  "displayName": "BugDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "BugDAO",
+    "symbol": "BUG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

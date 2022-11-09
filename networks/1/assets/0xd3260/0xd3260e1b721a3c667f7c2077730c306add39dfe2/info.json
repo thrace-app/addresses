@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3260e1b721a3c667f7c2077730c306add39dfe2",
+  "displayName": "poobs token",
+  "type": "TOKEN",
+  "token": {
+    "name": "poobs token",
+    "symbol": " poobs",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

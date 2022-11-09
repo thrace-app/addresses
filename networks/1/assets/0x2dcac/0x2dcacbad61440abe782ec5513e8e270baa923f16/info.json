@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dcacbad61440abe782ec5513e8e270baa923f16",
+  "displayName": "PolkaFantasy",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkaFantasy",
+    "symbol": "XP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5978708d6cce1cc9640eed47422d64c91bbd5171",
+  "displayName": "LOLTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "LOLTOKEN",
+    "symbol": "LOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

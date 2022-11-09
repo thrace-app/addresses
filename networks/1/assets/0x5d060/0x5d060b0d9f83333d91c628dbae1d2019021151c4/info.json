@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5d060b0d9f83333d91c628dbae1d2019021151c4",
+  "displayName": "EmptyChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "EmptyChain",
+    "symbol": "EC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

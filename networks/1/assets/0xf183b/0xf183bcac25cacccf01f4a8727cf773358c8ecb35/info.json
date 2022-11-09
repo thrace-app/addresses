@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf183bcac25cacccf01f4a8727cf773358c8ecb35",
+  "displayName": "Efinity Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Efinity Token",
+    "symbol": "EFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

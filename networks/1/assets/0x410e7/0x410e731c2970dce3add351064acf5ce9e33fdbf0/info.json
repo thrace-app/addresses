@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x410e731c2970dce3add351064acf5ce9e33fdbf0",
+  "displayName": "Onbuff Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Onbuff Token",
+    "symbol": "ONIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

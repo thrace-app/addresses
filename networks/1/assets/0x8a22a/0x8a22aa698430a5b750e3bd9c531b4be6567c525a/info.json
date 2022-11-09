@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a22aa698430a5b750e3bd9c531b4be6567c525a",
+  "displayName": "EthereumShit",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumShit",
+    "symbol": "ETS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

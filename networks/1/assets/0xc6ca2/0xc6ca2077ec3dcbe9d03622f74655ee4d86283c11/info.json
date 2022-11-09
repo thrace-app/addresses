@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6ca2077ec3dcbe9d03622f74655ee4d86283c11",
+  "displayName": "Crazy Cheems",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crazy Cheems",
+    "symbol": "CHEEMS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

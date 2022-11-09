@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e8e318517e2eba784e518e2c29fe152a720677d",
+  "displayName": "RDLY Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RDLY Token",
+    "symbol": "RDLY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

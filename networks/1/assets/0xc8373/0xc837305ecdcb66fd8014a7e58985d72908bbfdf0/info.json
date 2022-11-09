@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc837305ecdcb66fd8014a7e58985d72908bbfdf0",
+  "displayName": "Fudmart Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fudmart Token",
+    "symbol": "FMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

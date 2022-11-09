@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf9e6b1c7830ee17edb7dfad526f4eeffa165253b",
+  "displayName": "Pozaly Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pozaly Token",
+    "symbol": "Pozaly",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

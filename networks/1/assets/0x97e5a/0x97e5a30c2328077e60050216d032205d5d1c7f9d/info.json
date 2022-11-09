@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97e5a30c2328077e60050216d032205d5d1c7f9d",
+  "displayName": "JINS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JINS Token",
+    "symbol": "JINS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbadcefd709e77385b5fdb99113bcfe8009b4b20b",
+  "displayName": "Finiko",
+  "type": "TOKEN",
+  "token": {
+    "name": "Finiko",
+    "symbol": "FNK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

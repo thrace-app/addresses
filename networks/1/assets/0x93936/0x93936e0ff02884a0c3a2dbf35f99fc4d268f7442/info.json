@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93936e0ff02884a0c3a2dbf35f99fc4d268f7442",
+  "displayName": "ERD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ERD Token",
+    "symbol": "ERD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

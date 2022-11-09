@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09912a52f793916135427dfa13bdb556ce57ef83",
+  "displayName": "XFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "XFinance",
+    "symbol": "XFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

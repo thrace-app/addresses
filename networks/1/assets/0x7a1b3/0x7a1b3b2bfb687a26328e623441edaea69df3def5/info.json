@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a1b3b2bfb687a26328e623441edaea69df3def5",
+  "displayName": "The Internet Computer",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Internet Computer",
+    "symbol": "ICP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

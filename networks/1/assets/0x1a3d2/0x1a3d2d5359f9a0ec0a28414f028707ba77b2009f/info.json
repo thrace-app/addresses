@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a3d2d5359f9a0ec0a28414f028707ba77b2009f",
+  "displayName": "AGA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AGA Token",
+    "symbol": "AGA",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

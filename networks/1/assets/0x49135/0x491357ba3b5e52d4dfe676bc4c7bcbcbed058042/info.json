@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x491357ba3b5e52d4dfe676bc4c7bcbcbed058042",
+  "displayName": "Luke Skywalker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luke Skywalker",
+    "symbol": "Luke",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

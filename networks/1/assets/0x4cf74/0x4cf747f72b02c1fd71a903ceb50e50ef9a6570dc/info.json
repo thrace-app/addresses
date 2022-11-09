@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cf747f72b02c1fd71a903ceb50e50ef9a6570dc",
+  "displayName": "TenSor Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TenSor Token",
+    "symbol": "TenSor",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

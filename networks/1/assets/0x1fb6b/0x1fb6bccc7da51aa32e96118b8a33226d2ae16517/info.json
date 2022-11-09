@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fb6bccc7da51aa32e96118b8a33226d2ae16517",
+  "displayName": "Global Rental Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Global Rental Token",
+    "symbol": "GRT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

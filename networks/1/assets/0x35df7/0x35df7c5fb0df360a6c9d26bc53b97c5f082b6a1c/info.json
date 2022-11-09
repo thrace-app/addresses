@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35df7c5fb0df360a6c9d26bc53b97c5f082b6a1c",
+  "displayName": "EcoFi Genesis Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EcoFi Genesis Token",
+    "symbol": "EGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

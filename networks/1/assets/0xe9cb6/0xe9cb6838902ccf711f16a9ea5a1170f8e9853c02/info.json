@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe9cb6838902ccf711f16a9ea5a1170f8e9853c02",
+  "displayName": "StripCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "StripCoin",
+    "symbol": "STRIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33835bc4bd50ba1e3ec10f5fbeed559a234a6931",
+  "displayName": "Tidal Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tidal Token",
+    "symbol": "TlDAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

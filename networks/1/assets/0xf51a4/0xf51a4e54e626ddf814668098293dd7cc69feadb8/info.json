@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf51a4e54e626ddf814668098293dd7cc69feadb8",
+  "displayName": "Woodpecker",
+  "type": "TOKEN",
+  "token": {
+    "name": "Woodpecker",
+    "symbol": "WOOD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

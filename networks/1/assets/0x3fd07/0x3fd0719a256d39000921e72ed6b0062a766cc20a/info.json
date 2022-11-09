@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fd0719a256d39000921e72ed6b0062a766cc20a",
+  "displayName": "Fake Andy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fake Andy",
+    "symbol": "ANDY8052",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

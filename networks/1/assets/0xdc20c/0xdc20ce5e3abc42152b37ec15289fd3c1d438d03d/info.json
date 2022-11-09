@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc20ce5e3abc42152b37ec15289fd3c1d438d03d",
+  "displayName": "Flying Cats",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flying Cats",
+    "symbol": "FCATS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

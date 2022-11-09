@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf4cbccfce178ceecd7aeb0f13c8ae7a150d3e27e",
+  "displayName": "PoW Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "PoW Inu",
+    "symbol": "PINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

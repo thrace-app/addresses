@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fdce6373120d787ba21b3bc1db829b2b8cbfe93",
+  "displayName": "Moon Shard",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moon Shard",
+    "symbol": "$MSHARD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

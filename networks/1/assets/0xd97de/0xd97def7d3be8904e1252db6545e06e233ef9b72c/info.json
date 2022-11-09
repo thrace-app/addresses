@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd97def7d3be8904e1252db6545e06e233ef9b72c",
+  "displayName": "vitalik & eth",
+  "type": "TOKEN",
+  "token": {
+    "name": "vitalik & eth",
+    "symbol": "VETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

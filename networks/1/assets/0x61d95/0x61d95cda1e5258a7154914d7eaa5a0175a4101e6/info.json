@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61d95cda1e5258a7154914d7eaa5a0175a4101e6",
+  "displayName": "Giza Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Giza Doge",
+    "symbol": "GIZOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

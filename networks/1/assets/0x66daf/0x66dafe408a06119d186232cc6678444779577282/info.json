@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x66dafe408a06119d186232cc6678444779577282",
+  "displayName": "Alex Jones",
+  "type": "TOKEN",
+  "token": {
+    "name": "Alex Jones",
+    "symbol": "HOAX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

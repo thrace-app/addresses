@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6edcdcdd72ae48595228537a0c156bd99f78241d",
+  "displayName": "EternalDefiToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "EternalDefiToken",
+    "symbol": "EDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e4a10dc577d53ac4db292cd9906b2984ba9108c",
+  "displayName": "Etheric fang tokens",
+  "type": "TOKEN",
+  "token": {
+    "name": "Etheric fang tokens",
+    "symbol": "ETHS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

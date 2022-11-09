@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x147a31f5b348fb601419368edab898d55050c4d0",
+  "displayName": "Ether Foxx",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether Foxx",
+    "symbol": "eFoxx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

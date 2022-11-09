@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ab7812b830664c65d61a3cc27ac8c3ef4742d0e",
+  "displayName": "Life of an Artist Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Life of an Artist Token",
+    "symbol": "LOAAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x888888877a18532b78d259577d00057054c50dd8",
+  "displayName": "Universal Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Universal Dollar",
+    "symbol": "U8D",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

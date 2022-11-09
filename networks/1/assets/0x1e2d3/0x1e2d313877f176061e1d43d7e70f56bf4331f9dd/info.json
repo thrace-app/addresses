@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1e2d313877f176061e1d43d7e70f56bf4331f9dd",
+  "displayName": "CharToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CharToken",
+    "symbol": "CHARZ",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

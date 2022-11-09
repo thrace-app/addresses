@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3888ec70f27c807865bbefec3f1e65f61b610bd7",
+  "displayName": "Tether Classic",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tether Classic",
+    "symbol": "TetherC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x527acb4357bbb1786f828f93a5ab754e2162c735",
+  "displayName": "BridgedEchelon",
+  "type": "TOKEN",
+  "token": {
+    "name": "BridgedEchelon",
+    "symbol": "bECH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

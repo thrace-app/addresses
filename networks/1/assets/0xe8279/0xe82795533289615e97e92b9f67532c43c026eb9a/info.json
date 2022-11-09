@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe82795533289615e97e92b9f67532c43c026eb9a",
+  "displayName": "Stock Map Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stock Map Token",
+    "symbol": "SMP",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

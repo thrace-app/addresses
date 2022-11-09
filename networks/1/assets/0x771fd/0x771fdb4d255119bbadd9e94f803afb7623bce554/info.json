@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x771fdb4d255119bbadd9e94f803afb7623bce554",
+  "displayName": "Unistake DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unistake DAO Token",
+    "symbol": "UNS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

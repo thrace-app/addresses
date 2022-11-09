@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2376b9a457167074187c28185911e5dd876a5c63",
+  "displayName": "SkullToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SkullToken",
+    "symbol": "SKULL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

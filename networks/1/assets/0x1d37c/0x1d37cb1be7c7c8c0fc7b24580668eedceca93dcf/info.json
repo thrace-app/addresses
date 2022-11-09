@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d37cb1be7c7c8c0fc7b24580668eedceca93dcf",
+  "displayName": "WonderPals",
+  "type": "TOKEN",
+  "token": {
+    "name": "WonderPals",
+    "symbol": "PAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08be0ec6483858e48cc9f2f7f30c58589e170db7",
+  "displayName": "dontbuyfox.org",
+  "type": "TOKEN",
+  "token": {
+    "name": "dontbuyfox.org",
+    "symbol": "$FOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

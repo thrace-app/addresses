@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd377b3f21fc6a6fe0e3f36ef0ce771d2bc6c775c",
+  "displayName": "Shiba And Cheese",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba And Cheese",
+    "symbol": "ShibNCheese",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f453b603dd36809560466792cef9977815ec924",
+  "displayName": "The Future Dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Future Dog",
+    "symbol": "FDOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

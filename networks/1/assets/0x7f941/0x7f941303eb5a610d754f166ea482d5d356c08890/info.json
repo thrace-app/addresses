@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f941303eb5a610d754f166ea482d5d356c08890",
+  "displayName": "Zorbit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zorbit",
+    "symbol": "ZBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

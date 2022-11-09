@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fae84daff6330c3380b80e342a55a633c0e2ea0",
+  "displayName": "BurgerKoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BurgerKoin",
+    "symbol": "BKNG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x022d99b653fe22120ecbc496bb67f723b55bba8c",
+  "displayName": "pgCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "pgCOIN",
+    "symbol": "PGG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3b072f45ba56d1e08e5e6d7f6fc25e252676a4ab",
+  "displayName": "FRC",
+  "type": "TOKEN",
+  "token": {
+    "name": "FRC",
+    "symbol": "Fvck Rug Culture",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

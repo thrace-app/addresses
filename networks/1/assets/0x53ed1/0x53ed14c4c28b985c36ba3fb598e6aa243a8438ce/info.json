@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53ed14c4c28b985c36ba3fb598e6aa243a8438ce",
+  "displayName": "Fuzzereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fuzzereum",
+    "symbol": "FUZZER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

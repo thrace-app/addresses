@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68fbc92a69b47005a50a1a893b7e37ee3d80b0a2",
+  "displayName": "NeuroBank",
+  "type": "TOKEN",
+  "token": {
+    "name": "NeuroBank",
+    "symbol": "NeuroBank",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26629825591a2c79b3e6c44a1e89a27f242e0f36",
+  "displayName": "Netflix Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Netflix Coin",
+    "symbol": "$NFLX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

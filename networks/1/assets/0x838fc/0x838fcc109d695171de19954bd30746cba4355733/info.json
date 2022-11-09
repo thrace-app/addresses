@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x838fcc109d695171de19954bd30746cba4355733",
+  "displayName": "Ripple Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ripple Inu",
+    "symbol": "RIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

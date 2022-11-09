@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x499ae32401cbaf4f903b1420250f92a03f363ce7",
+  "displayName": "Cowswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cowswap",
+    "symbol": "Cowswap",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

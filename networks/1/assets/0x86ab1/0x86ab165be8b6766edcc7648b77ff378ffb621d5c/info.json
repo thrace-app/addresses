@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x86ab165be8b6766edcc7648b77ff378ffb621d5c",
+  "displayName": "CrossWallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "CrossWallet",
+    "symbol": "CWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

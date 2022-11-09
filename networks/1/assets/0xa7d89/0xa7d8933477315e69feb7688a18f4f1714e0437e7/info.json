@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa7d8933477315e69feb7688a18f4f1714e0437e7",
+  "displayName": "BTC2.0",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTC2.0",
+    "symbol": "BTCV2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

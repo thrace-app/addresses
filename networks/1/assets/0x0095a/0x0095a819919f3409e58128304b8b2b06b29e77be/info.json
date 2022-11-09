@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0095a819919f3409e58128304b8b2b06b29e77be",
+  "displayName": "PikaShiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "PikaShiba",
+    "symbol": "PHIBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd45b222d2b301850bcd75c38fda1d7e495eac664",
+  "displayName": "Lucky Neko",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucky Neko",
+    "symbol": "LNEKO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

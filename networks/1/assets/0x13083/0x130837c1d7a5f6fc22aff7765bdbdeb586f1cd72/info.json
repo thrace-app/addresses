@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x130837c1d7a5f6fc22aff7765bdbdeb586f1cd72",
+  "displayName": "MEVBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "MEVBurn",
+    "symbol": "MEVBURN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

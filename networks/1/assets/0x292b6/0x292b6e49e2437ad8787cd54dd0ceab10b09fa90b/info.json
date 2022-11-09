@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x292b6e49e2437ad8787cd54dd0ceab10b09fa90b",
+  "displayName": "OasisDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "OasisDao",
+    "symbol": "Oasis",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

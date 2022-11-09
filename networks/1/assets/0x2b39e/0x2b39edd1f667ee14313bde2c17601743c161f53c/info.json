@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b39edd1f667ee14313bde2c17601743c161f53c",
+  "displayName": "LokeyDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "LokeyDAO",
+    "symbol": "LOKEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

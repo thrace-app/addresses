@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ae4184e991bf891c368feb79262b751cc6c9fc9",
+  "displayName": "Eth Note",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eth Note",
+    "symbol": "ETHNOTE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

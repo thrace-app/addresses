@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9043d4d51c9d2e31e3f169de4551e416970c27ef",
+  "displayName": "Prime DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Prime DAI",
+    "symbol": "pDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

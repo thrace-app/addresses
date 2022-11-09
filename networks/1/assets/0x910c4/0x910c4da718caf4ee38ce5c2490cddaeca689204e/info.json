@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x910c4da718caf4ee38ce5c2490cddaeca689204e",
+  "displayName": "Waste Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Waste Coin",
+    "symbol": "WaCo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

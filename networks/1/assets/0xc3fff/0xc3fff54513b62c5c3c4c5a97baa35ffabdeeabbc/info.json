@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3fff54513b62c5c3c4c5a97baa35ffabdeeabbc",
+  "displayName": "EPAN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EPAN Token",
+    "symbol": "EPAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

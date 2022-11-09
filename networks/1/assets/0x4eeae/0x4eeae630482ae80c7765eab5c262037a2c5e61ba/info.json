@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4eeae630482ae80c7765eab5c262037a2c5e61ba",
+  "displayName": "Thunder Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Thunder Token",
+    "symbol": "TT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

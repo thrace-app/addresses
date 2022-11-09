@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x704ebb34c391621b4725b68f71d51aa4d7abda16",
+  "displayName": "Jabs Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jabs Token",
+    "symbol": "JABS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

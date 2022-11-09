@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xadd8f91a13eec0c195910ea36aa653b185300d89",
+  "displayName": "Wrapped Origin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Origin",
+    "symbol": "WOG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

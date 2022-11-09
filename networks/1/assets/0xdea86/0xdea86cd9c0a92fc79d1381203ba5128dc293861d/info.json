@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdea86cd9c0a92fc79d1381203ba5128dc293861d",
+  "displayName": "SoundCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SoundCoin",
+    "symbol": "SOUND",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

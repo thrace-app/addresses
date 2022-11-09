@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7abf6175646cb00e6120d7d97c9671db48ad572",
+  "displayName": "Hash Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hash Token",
+    "symbol": "HASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

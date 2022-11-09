@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e077e17e654a5b6b11fa5b534464f46704e547a",
+  "displayName": "The Tsuka Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Tsuka Protocol",
+    "symbol": "TsukaProtocol",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

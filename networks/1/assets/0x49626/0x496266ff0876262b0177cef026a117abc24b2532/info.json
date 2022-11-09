@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x496266ff0876262b0177cef026a117abc24b2532",
+  "displayName": "Parity Blockchain Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Parity Blockchain Dollar",
+    "symbol": "XDL",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

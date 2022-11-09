@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7751c6a97bd8191daa1137d1a6bbe12bb51327c",
+  "displayName": "Nft Exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nft Exchange",
+    "symbol": "NIFTY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

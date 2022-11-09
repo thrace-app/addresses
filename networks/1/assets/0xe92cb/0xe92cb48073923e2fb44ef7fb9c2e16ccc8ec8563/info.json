@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe92cb48073923e2fb44ef7fb9c2e16ccc8ec8563",
+  "displayName": "My Precious",
+  "type": "TOKEN",
+  "token": {
+    "name": "My Precious",
+    "symbol": "VALUABLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12beb5077b25c4b80aa695300cc4f9fd177b47fe",
+  "displayName": "Shibarium",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shibarium",
+    "symbol": "SHIBARIUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

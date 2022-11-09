@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x07417875b0d0f64f6822efcef588208f5a4c83e9",
+  "displayName": "The Wolf Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Wolf Token",
+    "symbol": "WF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

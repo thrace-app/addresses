@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67795e8037e49117f33d04d839a360023d9eb622",
+  "displayName": "Ethereum Queen",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Queen",
+    "symbol": "QETH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

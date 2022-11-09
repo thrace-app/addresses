@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x147f39365070086ee85498e34ac35977f48fdc23",
+  "displayName": "Lossless Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lossless Token",
+    "symbol": "LSS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

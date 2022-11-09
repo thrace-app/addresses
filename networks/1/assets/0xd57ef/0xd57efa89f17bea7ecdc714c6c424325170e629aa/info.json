@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd57efa89f17bea7ecdc714c6c424325170e629aa",
+  "displayName": "Netcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Netcoin",
+    "symbol": "NETCOIN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

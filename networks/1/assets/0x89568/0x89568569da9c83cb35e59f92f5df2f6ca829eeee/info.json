@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89568569da9c83cb35e59f92f5df2f6ca829eeee",
+  "displayName": "PyroMatic",
+  "type": "TOKEN",
+  "token": {
+    "name": "PyroMatic",
+    "symbol": "PYRO",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

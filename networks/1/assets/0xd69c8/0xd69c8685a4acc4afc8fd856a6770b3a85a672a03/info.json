@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd69c8685a4acc4afc8fd856a6770b3a85a672a03",
+  "displayName": "Harvey Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Harvey Coin",
+    "symbol": "HARVEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

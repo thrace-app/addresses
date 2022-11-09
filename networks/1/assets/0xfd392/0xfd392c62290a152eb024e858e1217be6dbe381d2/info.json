@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfd392c62290a152eb024e858e1217be6dbe381d2",
+  "displayName": "MITH Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "MITH Cash",
+    "symbol": "MIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a2704178a886c0db5482548028b34fdce62115f",
+  "displayName": "MoonLock Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonLock Protocol",
+    "symbol": "MLP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

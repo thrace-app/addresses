@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23a9496dded33667f359cf1b5bd45f9a4f7963c9",
+  "displayName": "Quetzal",
+  "type": "TOKEN",
+  "token": {
+    "name": "Quetzal",
+    "symbol": "Quetzal",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

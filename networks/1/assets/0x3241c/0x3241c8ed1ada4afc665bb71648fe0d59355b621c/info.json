@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3241c8ed1ada4afc665bb71648fe0d59355b621c",
+  "displayName": "Yam Swap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yam Swap Token",
+    "symbol": "YAMx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

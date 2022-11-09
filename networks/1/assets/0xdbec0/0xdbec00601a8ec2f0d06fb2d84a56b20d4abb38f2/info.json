@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdbec00601a8ec2f0d06fb2d84a56b20d4abb38f2",
+  "displayName": "THBTToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "THBTToken",
+    "symbol": "THBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

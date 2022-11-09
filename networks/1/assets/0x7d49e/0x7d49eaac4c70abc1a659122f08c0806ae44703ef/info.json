@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d49eaac4c70abc1a659122f08c0806ae44703ef",
+  "displayName": "Dragon Exchange",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dragon Exchange",
+    "symbol": "DET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

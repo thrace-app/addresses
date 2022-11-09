@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe2ad7844b89d49f90843ed05db46615b9761e88d",
+  "displayName": "Freeze",
+  "type": "TOKEN",
+  "token": {
+    "name": "Freeze",
+    "symbol": "Freeze",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

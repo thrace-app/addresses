@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa01323135c284ac93880a7b64b2afcf8cd04f3e3",
+  "displayName": "SushETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "SushETH",
+    "symbol": "$SUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

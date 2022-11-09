@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20a95c898f039e305b95bc026b0b0864d2a634c0",
+  "displayName": "Etherisc",
+  "type": "TOKEN",
+  "token": {
+    "name": "Etherisc",
+    "symbol": "ETHR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

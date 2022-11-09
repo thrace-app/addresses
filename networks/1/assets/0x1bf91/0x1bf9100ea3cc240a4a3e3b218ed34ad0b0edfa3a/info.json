@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1bf9100ea3cc240a4a3e3b218ed34ad0b0edfa3a",
+  "displayName": "HooToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "HooToken",
+    "symbol": "HOO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab21bcc9a0ad4093f8de5168976fd3ed76fb30a3",
+  "displayName": "OLira Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OLira Token",
+    "symbol": "OLira",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8ced781ec78efc5e2d06bd27767bd098ec28a5d7",
+  "displayName": "Base Altcap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Base Altcap",
+    "symbol": "BASE2",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

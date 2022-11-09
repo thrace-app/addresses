@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d875a26d9afcbf4f58c920509c876b594499c87",
+  "displayName": "K-Chain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "K-Chain Token",
+    "symbol": "KCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

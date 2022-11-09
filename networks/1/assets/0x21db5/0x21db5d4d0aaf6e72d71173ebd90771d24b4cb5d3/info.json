@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21db5d4d0aaf6e72d71173ebd90771d24b4cb5d3",
+  "displayName": "TokenLoan",
+  "type": "TOKEN",
+  "token": {
+    "name": "TokenLoan",
+    "symbol": "TL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

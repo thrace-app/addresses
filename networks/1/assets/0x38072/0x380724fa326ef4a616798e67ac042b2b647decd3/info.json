@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x380724fa326ef4a616798e67ac042b2b647decd3",
+  "displayName": "SpartanGlobalCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpartanGlobalCoin",
+    "symbol": "SGC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

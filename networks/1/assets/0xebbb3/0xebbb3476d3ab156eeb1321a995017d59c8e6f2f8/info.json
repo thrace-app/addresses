@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xebbb3476d3ab156eeb1321a995017d59c8e6f2f8",
+  "displayName": "CryptoPunks NFT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoPunks NFT Token",
+    "symbol": "CPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

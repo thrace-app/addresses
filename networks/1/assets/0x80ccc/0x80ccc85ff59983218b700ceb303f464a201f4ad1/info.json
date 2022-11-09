@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80ccc85ff59983218b700ceb303f464a201f4ad1",
+  "displayName": "rugtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "rugtoken",
+    "symbol": "RGN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

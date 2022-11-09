@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7baf34e736a52002b22a85a74bb96eca3016efbc",
+  "displayName": "Shiba Gas",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiba Gas",
+    "symbol": "SHIBAGAS",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

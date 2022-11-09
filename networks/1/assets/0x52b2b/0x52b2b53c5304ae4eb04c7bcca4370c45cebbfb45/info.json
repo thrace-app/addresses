@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52b2b53c5304ae4eb04c7bcca4370c45cebbfb45",
+  "displayName": "DeFiShiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiShiba",
+    "symbol": "DSHIBA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

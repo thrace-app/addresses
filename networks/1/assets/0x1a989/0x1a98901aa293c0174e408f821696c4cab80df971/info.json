@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a98901aa293c0174e408f821696c4cab80df971",
+  "displayName": "Wrapped Martkist",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Martkist",
+    "symbol": "WMARTK",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

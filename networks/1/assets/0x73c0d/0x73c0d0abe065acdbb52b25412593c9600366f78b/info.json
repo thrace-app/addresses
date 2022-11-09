@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73c0d0abe065acdbb52b25412593c9600366f78b",
+  "displayName": "WePoS",
+  "type": "TOKEN",
+  "token": {
+    "name": "WePoS",
+    "symbol": "POS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

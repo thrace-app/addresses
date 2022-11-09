@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3825c0034d7942a266905573ee7025c4efae7e0",
+  "displayName": "foofersInc",
+  "type": "TOKEN",
+  "token": {
+    "name": "foofersInc",
+    "symbol": "FOOF",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

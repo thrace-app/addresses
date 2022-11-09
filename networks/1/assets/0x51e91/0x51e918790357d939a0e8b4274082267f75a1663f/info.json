@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51e918790357d939a0e8b4274082267f75a1663f",
+  "displayName": "SmokinToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SmokinToken",
+    "symbol": "SMKN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

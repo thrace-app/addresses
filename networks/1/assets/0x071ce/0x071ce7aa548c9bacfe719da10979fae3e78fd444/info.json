@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x071ce7aa548c9bacfe719da10979fae3e78fd444",
+  "displayName": "BTCST",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTCST",
+    "symbol": "BTCST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

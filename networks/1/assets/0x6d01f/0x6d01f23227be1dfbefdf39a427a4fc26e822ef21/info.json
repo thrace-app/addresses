@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d01f23227be1dfbefdf39a427a4fc26e822ef21",
+  "displayName": "Crystal Eth",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crystal Eth",
+    "symbol": "Crystal",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

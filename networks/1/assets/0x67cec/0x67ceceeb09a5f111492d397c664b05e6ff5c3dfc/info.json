@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67ceceeb09a5f111492d397c664b05e6ff5c3dfc",
+  "displayName": "Burger Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Burger Finance",
+    "symbol": "BURG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

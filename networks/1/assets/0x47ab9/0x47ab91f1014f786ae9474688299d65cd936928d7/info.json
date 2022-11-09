@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47ab91f1014f786ae9474688299d65cd936928d7",
+  "displayName": "Draven Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Draven Token",
+    "symbol": "DRAVEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

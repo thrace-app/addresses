@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcbf71da46f38656ca22ac7f1403de2613033ff0e",
+  "displayName": "Echo Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Echo Finance",
+    "symbol": "ECHO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

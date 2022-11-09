@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42b54830bcbb0a240aa54cd3f8d1a4db00851fe3",
+  "displayName": "Sprout",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sprout",
+    "symbol": "Seed",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

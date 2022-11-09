@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe610e04a9d8120afc2730d21cd71564cddd3d9b7",
+  "displayName": "auricoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "auricoin",
+    "symbol": "ric",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

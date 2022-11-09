@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d3a9807c4cf685d12d856fd41119de1fb579eb7",
+  "displayName": "Primary",
+  "type": "TOKEN",
+  "token": {
+    "name": "Primary",
+    "symbol": "PRIMARY",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

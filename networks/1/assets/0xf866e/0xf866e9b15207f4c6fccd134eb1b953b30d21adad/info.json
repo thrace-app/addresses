@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf866e9b15207f4c6fccd134eb1b953b30d21adad",
+  "displayName": "Natio Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Natio Token",
+    "symbol": "Natio",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b7533812759b45c2b44c19e320ba2cd2681b542",
+  "displayName": "SingularityNET Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SingularityNET Token",
+    "symbol": "AGIX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

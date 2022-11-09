@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ad3cfe1089faaf45e2eba09cffc2a9101d81157",
+  "displayName": "MICROBIT",
+  "type": "TOKEN",
+  "token": {
+    "name": "MICROBIT",
+    "symbol": "MBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

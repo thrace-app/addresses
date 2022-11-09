@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f83287ff768d1c1e17a42f44d644d7f22e8ee1d",
+  "displayName": "Synth sCHF",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth sCHF",
+    "symbol": "sCHF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

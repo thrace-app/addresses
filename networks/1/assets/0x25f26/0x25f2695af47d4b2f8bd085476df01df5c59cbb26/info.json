@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25f2695af47d4b2f8bd085476df01df5c59cbb26",
+  "displayName": "Blue Cheese",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Cheese",
+    "symbol": "BLUE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

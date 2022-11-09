@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0cf58006b2400ebec3eb8c05b73170138a340563",
+  "displayName": "Good Boy Points",
+  "type": "TOKEN",
+  "token": {
+    "name": "Good Boy Points",
+    "symbol": "GBP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

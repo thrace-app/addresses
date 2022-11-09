@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9e48ca4bbe924fac6fb6b439917614d126ac98d",
+  "displayName": "TomatoCash",
+  "type": "TOKEN",
+  "token": {
+    "name": "TomatoCash",
+    "symbol": "TOMATO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

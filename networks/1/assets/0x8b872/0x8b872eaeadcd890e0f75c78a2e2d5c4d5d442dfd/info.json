@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b872eaeadcd890e0f75c78a2e2d5c4d5d442dfd",
+  "displayName": "Rise Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rise Token",
+    "symbol": "RISE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

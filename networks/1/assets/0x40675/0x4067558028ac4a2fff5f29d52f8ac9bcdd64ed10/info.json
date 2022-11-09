@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4067558028ac4a2fff5f29d52f8ac9bcdd64ed10",
+  "displayName": "King of Crypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "King of Crypto",
+    "symbol": "KOC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

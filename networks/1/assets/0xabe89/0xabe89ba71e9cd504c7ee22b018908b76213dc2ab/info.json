@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabe89ba71e9cd504c7ee22b018908b76213dc2ab",
+  "displayName": "COFC Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "COFC Cash",
+    "symbol": "COFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ebb8db803a96fa81fe5817243f91e5432c7259d",
+  "displayName": "Camel Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Camel Token",
+    "symbol": "CAMEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

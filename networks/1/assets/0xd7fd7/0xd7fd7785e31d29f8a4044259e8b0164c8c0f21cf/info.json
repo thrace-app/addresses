@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7fd7785e31d29f8a4044259e8b0164c8c0f21cf",
+  "displayName": "Daily Ponzi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Daily Ponzi Token",
+    "symbol": "DPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

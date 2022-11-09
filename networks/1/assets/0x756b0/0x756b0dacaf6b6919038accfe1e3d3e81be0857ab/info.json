@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x756b0dacaf6b6919038accfe1e3d3e81be0857ab",
+  "displayName": "The Example Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Example Protocol",
+    "symbol": "TEP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

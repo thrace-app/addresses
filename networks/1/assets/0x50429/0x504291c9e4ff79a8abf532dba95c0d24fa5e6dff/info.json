@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x504291c9e4ff79a8abf532dba95c0d24fa5e6dff",
+  "displayName": "Sleepy Joe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sleepy Joe",
+    "symbol": "JOE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

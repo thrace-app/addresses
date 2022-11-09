@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x642cac76fb411328427c84ef5ff58167a6c42c1d",
+  "displayName": "MBKToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MBKToken",
+    "symbol": "MBK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

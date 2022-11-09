@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18935a8f20bd683f293b44d46d281618ae14d700",
+  "displayName": "The kangaroo",
+  "type": "TOKEN",
+  "token": {
+    "name": "The kangaroo",
+    "symbol": "TK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

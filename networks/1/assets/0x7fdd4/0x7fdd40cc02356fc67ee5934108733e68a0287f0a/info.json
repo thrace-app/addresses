@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fdd40cc02356fc67ee5934108733e68a0287f0a",
+  "displayName": "Yubby Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yubby Inu",
+    "symbol": "$YUI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd5f061bcf3c09afd4bffc9fd1a884e2ee030a111",
+  "displayName": "Mario Simulation",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mario Simulation",
+    "symbol": "SIM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

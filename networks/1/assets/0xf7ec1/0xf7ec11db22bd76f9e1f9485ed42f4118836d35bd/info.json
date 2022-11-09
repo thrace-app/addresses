@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7ec11db22bd76f9e1f9485ed42f4118836d35bd",
+  "displayName": "USDE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "USDE Token",
+    "symbol": "USDE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

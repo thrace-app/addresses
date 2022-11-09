@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5264997509e0d541929240034db99062557dade7",
+  "displayName": "UNI Test Token 1",
+  "type": "TOKEN",
+  "token": {
+    "name": "UNI Test Token 1",
+    "symbol": "UNIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

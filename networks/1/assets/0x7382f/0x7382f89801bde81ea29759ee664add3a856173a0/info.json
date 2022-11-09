@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7382f89801bde81ea29759ee664add3a856173a0",
+  "displayName": "Galactic Eth",
+  "type": "TOKEN",
+  "token": {
+    "name": "Galactic Eth",
+    "symbol": "GETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

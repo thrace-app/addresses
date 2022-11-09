@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11e33d9b5f28b6854bd8b08e2f7d1114e1b4b552",
+  "displayName": "Kodachi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kodachi Token",
+    "symbol": "KODACHI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

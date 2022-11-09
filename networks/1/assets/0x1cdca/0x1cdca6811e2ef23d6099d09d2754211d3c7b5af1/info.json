@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cdca6811e2ef23d6099d09d2754211d3c7b5af1",
+  "displayName": "CyberTronChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "CyberTronChain",
+    "symbol": "CTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

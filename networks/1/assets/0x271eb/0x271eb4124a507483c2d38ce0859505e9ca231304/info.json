@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x271eb4124a507483c2d38ce0859505e9ca231304",
+  "displayName": "Yearn Finance Money",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn Finance Money",
+    "symbol": "YFIM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

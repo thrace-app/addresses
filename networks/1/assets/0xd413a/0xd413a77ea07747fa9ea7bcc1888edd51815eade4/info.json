@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd413a77ea07747fa9ea7bcc1888edd51815eade4",
+  "displayName": "CyberChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "CyberChain",
+    "symbol": "CYBER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

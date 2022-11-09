@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10e79d0117865b48c825f7db7533ed619d68aac3",
+  "displayName": "EthGild",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthGild",
+    "symbol": "ETHg",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

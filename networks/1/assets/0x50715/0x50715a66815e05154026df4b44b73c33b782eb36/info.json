@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50715a66815e05154026df4b44b73c33b782eb36",
+  "displayName": "Lopcoin Acquirer",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lopcoin Acquirer",
+    "symbol": "LOPX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

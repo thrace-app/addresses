@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8df6606b8e624333ebecce706edbf7139bdd56b1",
+  "displayName": "L2PAD",
+  "type": "TOKEN",
+  "token": {
+    "name": "L2PAD",
+    "symbol": "L2PAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbee52d5c51f3cb569a52bbe42e871b683112478e",
+  "displayName": "Fox and Hounds",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fox and Hounds",
+    "symbol": "$FAX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

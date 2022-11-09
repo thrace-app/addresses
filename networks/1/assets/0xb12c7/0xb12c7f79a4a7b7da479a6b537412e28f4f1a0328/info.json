@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb12c7f79a4a7b7da479a6b537412e28f4f1a0328",
+  "displayName": "Triple Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Triple Coin",
+    "symbol": "TRC",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

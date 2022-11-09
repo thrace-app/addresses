@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x631bb0d264fe053ac059d5580c79e8bd39a37057",
+  "displayName": "Dai Stablecoin item",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dai Stablecoin item",
+    "symbol": "iDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

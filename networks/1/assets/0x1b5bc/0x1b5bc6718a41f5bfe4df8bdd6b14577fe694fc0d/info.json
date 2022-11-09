@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b5bc6718a41f5bfe4df8bdd6b14577fe694fc0d",
+  "displayName": "Ethereum Generator",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Generator",
+    "symbol": "EGENERATOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

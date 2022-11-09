@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4681169017cd0ed61dfbdc6cdbc1c5bb1273255",
+  "displayName": "PR Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PR Coin",
+    "symbol": "USTD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

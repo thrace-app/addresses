@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x008284d2293b1295b6a4f4a39a6a2f5aac715930",
+  "displayName": "Sexy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sexy Token",
+    "symbol": "SEXYF",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

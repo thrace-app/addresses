@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41509f84c64bc3af71f616f3b5075974eb1b8bc2",
+  "displayName": "AOTcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AOTcoin",
+    "symbol": "AOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26eac4b2080c343621c9792c0f27edd25e2c3197",
+  "displayName": "SmallGoal",
+  "type": "TOKEN",
+  "token": {
+    "name": "SmallGoal",
+    "symbol": "SG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

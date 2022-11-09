@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c4871b80b822a335c401583115a17d19ccdd3f5",
+  "displayName": "Book Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Book Coin",
+    "symbol": "BOOK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

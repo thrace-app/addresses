@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe49b6d3d89b71d75b0bf2c3dd9e97404d2927e09",
+  "displayName": "Pineapple token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pineapple token",
+    "symbol": "PPTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d195f646b2834c2cde76952d5f30211a1f84036",
+  "displayName": "Luna Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luna Cash",
+    "symbol": "LCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

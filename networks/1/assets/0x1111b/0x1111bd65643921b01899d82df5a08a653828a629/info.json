@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1111bd65643921b01899d82df5a08a653828a629",
+  "displayName": "Web 2.0",
+  "type": "TOKEN",
+  "token": {
+    "name": "Web 2.0",
+    "symbol": "WEB2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa02d0b6bfce1dbd02b9cbb70e6b480333e8a86ec",
+  "displayName": "IPW Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "IPW Token",
+    "symbol": "IPWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

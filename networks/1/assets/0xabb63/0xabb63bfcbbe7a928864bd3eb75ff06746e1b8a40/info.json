@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabb63bfcbbe7a928864bd3eb75ff06746e1b8a40",
+  "displayName": "BAG Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "BAG Gold",
+    "symbol": "BGLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

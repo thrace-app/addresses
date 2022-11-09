@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe2814758fab4ab19fc56bf93bd6189e8358c108c",
+  "displayName": "Trillion Twin Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trillion Twin Token",
+    "symbol": "TTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

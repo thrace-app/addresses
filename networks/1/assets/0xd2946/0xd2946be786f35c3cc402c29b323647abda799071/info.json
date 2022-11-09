@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2946be786f35c3cc402c29b323647abda799071",
+  "displayName": "Vikky Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vikky Token",
+    "symbol": "VIKKY",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

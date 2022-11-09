@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x973c30d614b7c4c79b015db496aa883246562eee",
+  "displayName": "eBucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "eBucks",
+    "symbol": "eBucks",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

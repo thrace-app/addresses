@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0f1728d9513efc316d0e93a0758c992f88b0809",
+  "displayName": "SWTCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SWTCoin",
+    "symbol": "SWAT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

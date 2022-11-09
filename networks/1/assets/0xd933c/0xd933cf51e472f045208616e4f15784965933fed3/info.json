@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd933cf51e472f045208616e4f15784965933fed3",
+  "displayName": "Jorn Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jorn Token",
+    "symbol": "JORN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

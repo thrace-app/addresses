@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x461e836daabcdb490562bd784651fbcd16914f19",
+  "displayName": "StarlinksDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarlinksDao",
+    "symbol": "Starlinks",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

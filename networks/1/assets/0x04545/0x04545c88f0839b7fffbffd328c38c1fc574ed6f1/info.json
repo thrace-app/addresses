@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04545c88f0839b7fffbffd328c38c1fc574ed6f1",
+  "displayName": "Diana Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Diana Token",
+    "symbol": "DIANA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

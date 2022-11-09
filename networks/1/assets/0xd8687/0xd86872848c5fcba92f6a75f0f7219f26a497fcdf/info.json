@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd86872848c5fcba92f6a75f0f7219f26a497fcdf",
+  "displayName": "PolkastarterToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkastarterToken",
+    "symbol": "POLS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

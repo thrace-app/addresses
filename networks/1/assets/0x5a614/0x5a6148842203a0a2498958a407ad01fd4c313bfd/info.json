@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a6148842203a0a2498958a407ad01fd4c313bfd",
+  "displayName": "Saitama Chain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Saitama Chain",
+    "symbol": "SaitamaChain",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

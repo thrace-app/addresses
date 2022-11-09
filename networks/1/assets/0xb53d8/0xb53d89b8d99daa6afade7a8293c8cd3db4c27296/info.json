@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb53d89b8d99daa6afade7a8293c8cd3db4c27296",
+  "displayName": "wheat.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "wheat.finance",
+    "symbol": "WHEAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

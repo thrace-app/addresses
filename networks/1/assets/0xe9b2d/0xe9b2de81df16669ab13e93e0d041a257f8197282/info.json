@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe9b2de81df16669ab13e93e0d041a257f8197282",
+  "displayName": "Dino Ape",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dino Ape",
+    "symbol": "DAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

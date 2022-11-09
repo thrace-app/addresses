@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25d1a7027022b8293beee6d9ed2080c1703ab552",
+  "displayName": "Green Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Green Ethereum",
+    "symbol": "GREEN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

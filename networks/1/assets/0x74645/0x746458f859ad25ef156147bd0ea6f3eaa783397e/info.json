@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x746458f859ad25ef156147bd0ea6f3eaa783397e",
+  "displayName": "FRAC Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FRAC Token",
+    "symbol": "FRAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

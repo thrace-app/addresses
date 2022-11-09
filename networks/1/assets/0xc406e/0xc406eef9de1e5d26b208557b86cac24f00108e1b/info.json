@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc406eef9de1e5d26b208557b86cac24f00108e1b",
+  "displayName": "Cryptoz",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryptoz",
+    "symbol": "CRYPTOZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

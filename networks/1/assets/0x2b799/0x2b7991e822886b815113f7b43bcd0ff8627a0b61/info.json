@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b7991e822886b815113f7b43bcd0ff8627a0b61",
+  "displayName": "ANMcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ANMcoin",
+    "symbol": "ANM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

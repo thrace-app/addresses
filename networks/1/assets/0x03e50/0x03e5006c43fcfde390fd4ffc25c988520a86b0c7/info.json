@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03e5006c43fcfde390fd4ffc25c988520a86b0c7",
+  "displayName": "Butter",
+  "type": "TOKEN",
+  "token": {
+    "name": "Butter",
+    "symbol": "BUTTER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

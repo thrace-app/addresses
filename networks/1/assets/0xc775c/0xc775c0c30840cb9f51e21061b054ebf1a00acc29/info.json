@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc775c0c30840cb9f51e21061b054ebf1a00acc29",
+  "displayName": "Wrapped PSL",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped PSL",
+    "symbol": "WPSL",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

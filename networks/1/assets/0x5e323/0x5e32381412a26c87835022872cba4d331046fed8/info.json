@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e32381412a26c87835022872cba4d331046fed8",
+  "displayName": "Great Game",
+  "type": "TOKEN",
+  "token": {
+    "name": "Great Game",
+    "symbol": "GG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

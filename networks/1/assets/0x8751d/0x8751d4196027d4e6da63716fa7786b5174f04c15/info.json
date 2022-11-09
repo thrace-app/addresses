@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8751d4196027d4e6da63716fa7786b5174f04c15",
+  "displayName": "Wrapped Interest-Bearing Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Interest-Bearing Bitcoin",
+    "symbol": "wibBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

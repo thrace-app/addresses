@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d47b67a39a0252292f0652e120c75dfb8946eff",
+  "displayName": "Zombie Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zombie Doge",
+    "symbol": "ZOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

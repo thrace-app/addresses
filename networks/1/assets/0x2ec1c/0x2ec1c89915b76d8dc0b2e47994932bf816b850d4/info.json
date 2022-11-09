@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ec1c89915b76d8dc0b2e47994932bf816b850d4",
+  "displayName": "Etherworlds",
+  "type": "TOKEN",
+  "token": {
+    "name": "Etherworlds",
+    "symbol": "EW20",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

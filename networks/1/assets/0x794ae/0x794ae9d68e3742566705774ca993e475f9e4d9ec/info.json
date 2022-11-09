@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x794ae9d68e3742566705774ca993e475f9e4d9ec",
+  "displayName": "Neuron Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Neuron Doge",
+    "symbol": "NDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

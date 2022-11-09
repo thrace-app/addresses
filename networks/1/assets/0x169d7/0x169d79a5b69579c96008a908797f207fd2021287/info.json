@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x169d79a5b69579c96008a908797f207fd2021287",
+  "displayName": "Mars Protocol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mars Protocol Token",
+    "symbol": "MARS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

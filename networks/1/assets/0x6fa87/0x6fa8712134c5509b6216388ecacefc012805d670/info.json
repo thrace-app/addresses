@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fa8712134c5509b6216388ecacefc012805d670",
+  "displayName": "BTCUN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTCUN",
+    "symbol": "BTCUN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

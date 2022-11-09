@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef2889b8d67c59b551254750a726fb4c45bd6494",
+  "displayName": "Penny Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Penny Bank",
+    "symbol": "PNY",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

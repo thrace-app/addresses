@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71f2365f135e6070989f1658aabed13d70950f15",
+  "displayName": "CentFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "CentFi",
+    "symbol": "CFIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

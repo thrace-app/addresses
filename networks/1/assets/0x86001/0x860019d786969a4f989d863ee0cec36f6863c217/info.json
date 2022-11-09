@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x860019d786969a4f989d863ee0cec36f6863c217",
+  "displayName": "Yoreba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yoreba",
+    "symbol": "yoreba",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

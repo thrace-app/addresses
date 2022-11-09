@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cb888182fbffdb62c08fb4b5a343914f00fdfee",
+  "displayName": "Moneybrain BiPS",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moneybrain BiPS",
+    "symbol": "BiPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

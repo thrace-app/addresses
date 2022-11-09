@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x987b2637691d1a864756e71d8db8a6f9d99168eb",
+  "displayName": "Bola Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bola Inu",
+    "symbol": "BOLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

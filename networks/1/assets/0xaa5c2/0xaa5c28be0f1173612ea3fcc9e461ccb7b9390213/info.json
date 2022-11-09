@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa5c28be0f1173612ea3fcc9e461ccb7b9390213",
+  "displayName": "EVCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "EVCOIN",
+    "symbol": "EVCO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

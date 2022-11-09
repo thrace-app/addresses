@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8cdee8aa0a8445a7785525984c52f8878ae7c52",
+  "displayName": "Lucky Yeti",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lucky Yeti",
+    "symbol": "YETI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

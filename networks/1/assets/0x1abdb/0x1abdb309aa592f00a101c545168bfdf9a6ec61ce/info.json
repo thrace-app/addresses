@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1abdb309aa592f00a101c545168bfdf9a6ec61ce",
+  "displayName": "BCAChain Initial Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BCAChain Initial Token",
+    "symbol": "BCAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

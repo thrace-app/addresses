@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1c2fc69a982835bb4a6b75984f4301e6082221c",
+  "displayName": "Nemo Farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nemo Farm",
+    "symbol": "NFM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

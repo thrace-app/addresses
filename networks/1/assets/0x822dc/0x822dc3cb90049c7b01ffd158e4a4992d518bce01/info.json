@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x822dc3cb90049c7b01ffd158e4a4992d518bce01",
+  "displayName": "MedFund",
+  "type": "TOKEN",
+  "token": {
+    "name": "MedFund",
+    "symbol": "MFund",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

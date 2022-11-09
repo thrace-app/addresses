@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6df594b37fd4c44cd3ed368886d5b9f72698307",
+  "displayName": "BTCGratis",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTCGratis",
+    "symbol": "BTCG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

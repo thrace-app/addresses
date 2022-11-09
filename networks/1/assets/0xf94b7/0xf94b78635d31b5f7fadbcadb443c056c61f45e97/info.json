@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf94b78635d31b5f7fadbcadb443c056c61f45e97",
+  "displayName": "KaPo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KaPo Token",
+    "symbol": "KaPo",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb9eceb9f717852ad0d936b46155cb0c0f43cbe8e",
+  "displayName": "Ubiner Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ubiner Token",
+    "symbol": "UBIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcfe67607517648196e2aff343cc9852b39db4623",
+  "displayName": "Trese Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trese Token",
+    "symbol": "Trese",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

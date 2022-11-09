@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc092164c53715ae6a0bd8033eef2b62c6bc1102",
+  "displayName": "Student Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Student Inu",
+    "symbol": "STUDENT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

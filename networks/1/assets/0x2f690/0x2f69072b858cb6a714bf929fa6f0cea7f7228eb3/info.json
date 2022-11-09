@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f69072b858cb6a714bf929fa6f0cea7f7228eb3",
+  "displayName": "The Genesis Shib",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Genesis Shib",
+    "symbol": "GenShib",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

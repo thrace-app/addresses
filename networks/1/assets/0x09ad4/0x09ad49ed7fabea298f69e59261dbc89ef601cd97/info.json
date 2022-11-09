@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09ad49ed7fabea298f69e59261dbc89ef601cd97",
+  "displayName": "Federal Reserve Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Federal Reserve Inu",
+    "symbol": "FEDINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

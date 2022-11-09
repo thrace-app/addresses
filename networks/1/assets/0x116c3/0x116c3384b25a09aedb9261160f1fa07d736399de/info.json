@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x116c3384b25a09aedb9261160f1fa07d736399de",
+  "displayName": "Nice",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nice",
+    "symbol": "NAISU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

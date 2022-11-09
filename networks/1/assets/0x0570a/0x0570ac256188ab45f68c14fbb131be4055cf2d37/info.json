@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0570ac256188ab45f68c14fbb131be4055cf2d37",
+  "displayName": "Forever Usd",
+  "type": "TOKEN",
+  "token": {
+    "name": "Forever Usd",
+    "symbol": "F$USD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

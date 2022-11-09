@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7afb39837fd244a651e4f0c5660b4037214d4adf",
+  "displayName": "SodaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SodaToken",
+    "symbol": "SODA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

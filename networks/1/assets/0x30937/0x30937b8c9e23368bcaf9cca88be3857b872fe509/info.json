@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30937b8c9e23368bcaf9cca88be3857b872fe509",
+  "displayName": "Sausage Dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sausage Dog",
+    "symbol": "WIENER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

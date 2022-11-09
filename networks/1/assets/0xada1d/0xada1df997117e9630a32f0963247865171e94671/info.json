@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xada1df997117e9630a32f0963247865171e94671",
+  "displayName": "Baby Squid",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Squid",
+    "symbol": "BSQUID",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

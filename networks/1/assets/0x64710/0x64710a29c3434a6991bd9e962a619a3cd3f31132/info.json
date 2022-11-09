@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64710a29c3434a6991bd9e962a619a3cd3f31132",
+  "displayName": "aMining Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "aMining Network Token",
+    "symbol": "ANT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

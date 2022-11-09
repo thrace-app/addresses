@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb2ae5356a1682a78eb905b2c42cb410f35938c66",
+  "displayName": "Fair Access Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fair Access Token",
+    "symbol": "FAT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

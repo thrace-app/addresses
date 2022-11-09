@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab6e163cbeb3959b68b90bec722f5a9eef82ba72",
+  "displayName": "Ethereum Pro",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Pro",
+    "symbol": "EPRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

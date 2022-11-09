@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa911cd9963348bbbfba283b456cbbf2b85b4fe2e",
+  "displayName": "ChadCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChadCoin",
+    "symbol": "CHAD",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

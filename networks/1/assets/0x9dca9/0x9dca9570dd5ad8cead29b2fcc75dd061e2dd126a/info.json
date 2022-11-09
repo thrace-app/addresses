@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9dca9570dd5ad8cead29b2fcc75dd061e2dd126a",
+  "displayName": "Dragon Warrior",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dragon Warrior",
+    "symbol": "Shiryu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

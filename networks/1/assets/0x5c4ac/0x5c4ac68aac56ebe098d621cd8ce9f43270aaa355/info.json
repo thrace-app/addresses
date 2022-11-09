@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c4ac68aac56ebe098d621cd8ce9f43270aaa355",
+  "displayName": "bXIOT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "bXIOT Token",
+    "symbol": "bXIOT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

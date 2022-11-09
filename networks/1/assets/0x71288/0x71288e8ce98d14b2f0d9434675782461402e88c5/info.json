@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x71288e8ce98d14b2f0d9434675782461402e88c5",
+  "displayName": "Ethereum Diamond",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Diamond",
+    "symbol": "ETHD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

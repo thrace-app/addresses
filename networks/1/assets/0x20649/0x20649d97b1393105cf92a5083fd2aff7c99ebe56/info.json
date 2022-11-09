@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20649d97b1393105cf92a5083fd2aff7c99ebe56",
+  "displayName": "STBTCDaiRebalancingSetToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "STBTCDaiRebalancingSetToken",
+    "symbol": "STBTCDai",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd461fc80353e46939efb5fe8de687890173162a",
+  "displayName": "The 7s Example",
+  "type": "TOKEN",
+  "token": {
+    "name": "The 7s Example",
+    "symbol": "T7E",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

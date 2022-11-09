@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcefe420f3cdf1cc440a0b463cac9ab40e3d3a353",
+  "displayName": "RottWeiler Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RottWeiler Token",
+    "symbol": "ROTW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

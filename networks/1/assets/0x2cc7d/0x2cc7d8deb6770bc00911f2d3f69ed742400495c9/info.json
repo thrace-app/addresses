@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2cc7d8deb6770bc00911f2d3f69ed742400495c9",
+  "displayName": "Dogecoin Silver",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dogecoin Silver",
+    "symbol": "DOGES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

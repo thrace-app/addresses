@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x240539db1a298d4c2f7442b14f19be9ef48377ba",
+  "displayName": "NVDIA",
+  "type": "TOKEN",
+  "token": {
+    "name": "NVDIA",
+    "symbol": "NVDA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

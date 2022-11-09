@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5bef7ba03ae8f3fce58a94a465a3e7be42fc160",
+  "displayName": "Unspent Transaction Output",
+  "type": "TOKEN",
+  "token": {
+    "name": "Unspent Transaction Output",
+    "symbol": "UTXO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

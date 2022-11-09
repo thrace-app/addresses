@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b8090d4e673228baa47e550b4540706bc0afa05",
+  "displayName": "Zere Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zere Token",
+    "symbol": "Zere",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

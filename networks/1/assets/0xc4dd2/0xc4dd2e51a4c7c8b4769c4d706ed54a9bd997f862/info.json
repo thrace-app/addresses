@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4dd2e51a4c7c8b4769c4d706ed54a9bd997f862",
+  "displayName": "defiStable Cash",
+  "type": "TOKEN",
+  "token": {
+    "name": "defiStable Cash",
+    "symbol": "DSC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

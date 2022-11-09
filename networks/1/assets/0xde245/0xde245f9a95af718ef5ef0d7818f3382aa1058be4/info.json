@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde245f9a95af718ef5ef0d7818f3382aa1058be4",
+  "displayName": "test snipe",
+  "type": "TOKEN",
+  "token": {
+    "name": "test snipe",
+    "symbol": "TEST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

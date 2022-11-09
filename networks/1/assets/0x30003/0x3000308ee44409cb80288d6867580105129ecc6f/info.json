@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3000308ee44409cb80288d6867580105129ecc6f",
+  "displayName": "Polonium",
+  "type": "TOKEN",
+  "token": {
+    "name": "Polonium",
+    "symbol": "Po",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

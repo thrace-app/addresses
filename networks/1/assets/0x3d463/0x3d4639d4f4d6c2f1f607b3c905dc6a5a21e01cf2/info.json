@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d4639d4f4d6c2f1f607b3c905dc6a5a21e01cf2",
+  "displayName": "OKB Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OKB Token",
+    "symbol": "OKB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

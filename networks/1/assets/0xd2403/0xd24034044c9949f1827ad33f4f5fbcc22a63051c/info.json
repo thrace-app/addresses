@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd24034044c9949f1827ad33f4f5fbcc22a63051c",
+  "displayName": "MicroBerlin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MicroBerlin",
+    "symbol": "MB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

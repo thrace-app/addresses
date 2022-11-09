@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x98dd33e2b9ca1c0fa35df635362de6d44fc5754a",
+  "displayName": "A Cat in Space",
+  "type": "TOKEN",
+  "token": {
+    "name": "A Cat in Space",
+    "symbol": "Félicette",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

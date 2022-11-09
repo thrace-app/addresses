@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73d42bcc899d785c673dc8163eadee396909e286",
+  "displayName": "THE BLUE DOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "THE BLUE DOGE",
+    "symbol": "BLOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

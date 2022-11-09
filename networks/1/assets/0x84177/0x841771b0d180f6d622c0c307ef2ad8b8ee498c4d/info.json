@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x841771b0d180f6d622c0c307ef2ad8b8ee498c4d",
+  "displayName": "Happy Hour",
+  "type": "TOKEN",
+  "token": {
+    "name": "Happy Hour",
+    "symbol": "$HOUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

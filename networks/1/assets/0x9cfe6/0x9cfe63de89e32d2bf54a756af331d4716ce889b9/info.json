@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9cfe63de89e32d2bf54a756af331d4716ce889b9",
+  "displayName": "Pi",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pi",
+    "symbol": "$PI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc30c61a1bd65d143cd35050411a4cd64a23e2755",
+  "displayName": "NAXX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NAXX Token",
+    "symbol": "NAXX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

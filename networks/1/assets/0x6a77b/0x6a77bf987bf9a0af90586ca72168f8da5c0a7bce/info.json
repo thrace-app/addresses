@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a77bf987bf9a0af90586ca72168f8da5c0a7bce",
+  "displayName": "Bitcoin Electronic",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Electronic",
+    "symbol": "BTCE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

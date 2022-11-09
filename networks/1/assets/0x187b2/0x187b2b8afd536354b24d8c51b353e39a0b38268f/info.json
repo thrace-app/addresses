@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x187b2b8afd536354b24d8c51b353e39a0b38268f",
+  "displayName": "PeyniCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PeyniCoin",
+    "symbol": "PYC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

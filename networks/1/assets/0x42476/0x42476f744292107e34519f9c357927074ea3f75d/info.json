@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42476f744292107e34519f9c357927074ea3f75d",
+  "displayName": "Loom Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Loom Token",
+    "symbol": "LOOM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

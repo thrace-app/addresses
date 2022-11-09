@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47ee672caefa771287bea71777c00d8a166de8dc",
+  "displayName": "The Mona Lisa Doge Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Mona Lisa Doge Coin",
+    "symbol": "MLDOGE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

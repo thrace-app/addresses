@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33e6ec09a694a9c05d0d9e40173af9d44eea0045",
+  "displayName": "Spartan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spartan Token",
+    "symbol": "SPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

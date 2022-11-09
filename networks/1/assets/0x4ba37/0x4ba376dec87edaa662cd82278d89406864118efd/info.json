@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4ba376dec87edaa662cd82278d89406864118efd",
+  "displayName": "IDMOToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "IDMOToken",
+    "symbol": "IDMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b001a09d702870c9dba9bddc9baea4d7e6fe135",
+  "displayName": "GFN Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GFN Coin",
+    "symbol": "GFN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

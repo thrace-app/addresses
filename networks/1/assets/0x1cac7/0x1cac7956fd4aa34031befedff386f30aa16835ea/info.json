@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cac7956fd4aa34031befedff386f30aa16835ea",
+  "displayName": "VcashPay",
+  "type": "TOKEN",
+  "token": {
+    "name": "VcashPay",
+    "symbol": "VCP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a44b38f6bb9df5c91459a6f4807cab2d0919c3d",
+  "displayName": "Link Reward Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Link Reward Token",
+    "symbol": "LRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

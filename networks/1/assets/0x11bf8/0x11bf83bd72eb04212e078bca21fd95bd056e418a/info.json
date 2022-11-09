@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11bf83bd72eb04212e078bca21fd95bd056e418a",
+  "displayName": "Blankos Block Party Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blankos Block Party Token",
+    "symbol": "BBPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

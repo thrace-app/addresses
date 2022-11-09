@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x700bef66897073c75c037869ae7681f6e42d73f2",
+  "displayName": "Aptro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aptro Token",
+    "symbol": "APTRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

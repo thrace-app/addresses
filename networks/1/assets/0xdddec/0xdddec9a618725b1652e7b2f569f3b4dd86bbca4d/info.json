@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdddec9a618725b1652e7b2f569f3b4dd86bbca4d",
+  "displayName": "UniLottery Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniLottery Token",
+    "symbol": "ULT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

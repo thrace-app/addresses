@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14094949152eddbfcd073717200da82fed8dc960",
+  "displayName": "Fulcrum SAI iToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fulcrum SAI iToken",
+    "symbol": "iSAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

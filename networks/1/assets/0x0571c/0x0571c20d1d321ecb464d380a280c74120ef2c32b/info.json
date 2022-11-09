@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0571c20d1d321ecb464d380a280c74120ef2c32b",
+  "displayName": "FUTURECOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "FUTURECOIN",
+    "symbol": "FTC",
+    "decimals": 16,
+    "type": "ERC20"
+  }
+}

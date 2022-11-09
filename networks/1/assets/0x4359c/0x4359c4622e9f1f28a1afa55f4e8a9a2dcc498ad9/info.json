@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4359c4622e9f1f28a1afa55f4e8a9a2dcc498ad9",
+  "displayName": "Goku token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goku token",
+    "symbol": "GOKU",
+    "decimals": 7,
+    "type": "ERC20"
+  }
+}

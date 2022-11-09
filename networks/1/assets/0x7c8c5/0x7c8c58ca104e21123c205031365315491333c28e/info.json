@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c8c58ca104e21123c205031365315491333c28e",
+  "displayName": "Golden Camel",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Camel",
+    "symbol": "CAMEL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

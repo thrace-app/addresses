@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ab08793daf474963c81a7c1e6b8c65887dc2ee5",
+  "displayName": "CryptoClass",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoClass",
+    "symbol": "CCL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

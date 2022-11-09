@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x063139aa26c2b913177fb97f1952d266b30779e7",
+  "displayName": "PubgCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PubgCoin",
+    "symbol": "PUBG",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde4d327c424ec36000200ce0e857fa211194b024",
+  "displayName": "Suckereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Suckereum",
+    "symbol": "SUCKER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

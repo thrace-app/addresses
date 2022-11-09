@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3dbc7827eec4b225f169214c869320fee3ad52ba",
+  "displayName": "Piegon Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Piegon Gold",
+    "symbol": "PIEGON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

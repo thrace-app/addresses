@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x29ceddcf0da3c1d8068a7dfbd0fb06c2e438ff70",
+  "displayName": "FreelaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FreelaToken",
+    "symbol": "FREL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f343e6ceb43d8456d4cf9f0cc40ee5ce863801f",
+  "displayName": "acrcash",
+  "type": "TOKEN",
+  "token": {
+    "name": "acrcash",
+    "symbol": "ACH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

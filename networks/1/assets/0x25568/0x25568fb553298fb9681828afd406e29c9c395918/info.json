@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25568fb553298fb9681828afd406e29c9c395918",
+  "displayName": "MoneyApe",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoneyApe",
+    "symbol": "MONEYAPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

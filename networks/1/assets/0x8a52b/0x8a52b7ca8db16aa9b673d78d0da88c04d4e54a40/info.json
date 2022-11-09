@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a52b7ca8db16aa9b673d78d0da88c04d4e54a40",
+  "displayName": "Sora Token 2",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sora Token 2",
+    "symbol": "XOR2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

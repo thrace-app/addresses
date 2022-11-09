@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5959ee3ab3ac348dd4213df5af78de97f289206c",
+  "displayName": "varcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "varcoin",
+    "symbol": "VARC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

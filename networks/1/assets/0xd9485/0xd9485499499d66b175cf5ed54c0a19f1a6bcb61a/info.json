@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a",
+  "displayName": "UseChain Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UseChain Token",
+    "symbol": "USE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

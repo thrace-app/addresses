@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2505dd4c06976bc6242f4b55939cb1a0ba201354",
+  "displayName": "TopCoinToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TopCoinToken",
+    "symbol": "TCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

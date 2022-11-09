@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc67d29984ea763557951288980bab66941bcbbe8",
+  "displayName": "HuoJu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "HuoJu Token",
+    "symbol": "HJ",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

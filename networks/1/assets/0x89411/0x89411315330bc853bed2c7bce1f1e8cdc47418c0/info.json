@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89411315330bc853bed2c7bce1f1e8cdc47418c0",
+  "displayName": "Baby Bart Simpson",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby Bart Simpson",
+    "symbol": "BabyBART",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

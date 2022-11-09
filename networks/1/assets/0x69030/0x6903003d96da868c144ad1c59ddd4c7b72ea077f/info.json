@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6903003d96da868c144ad1c59ddd4c7b72ea077f",
+  "displayName": "Blazing Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blazing Token",
+    "symbol": "BLA",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

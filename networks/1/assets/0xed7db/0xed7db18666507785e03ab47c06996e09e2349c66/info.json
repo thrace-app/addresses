@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed7db18666507785e03ab47c06996e09e2349c66",
+  "displayName": "MateX",
+  "type": "TOKEN",
+  "token": {
+    "name": "MateX",
+    "symbol": "MX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

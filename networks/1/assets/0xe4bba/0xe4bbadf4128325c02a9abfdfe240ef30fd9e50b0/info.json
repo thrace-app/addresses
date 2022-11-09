@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe4bbadf4128325c02a9abfdfe240ef30fd9e50b0",
+  "displayName": "Shining Stars Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shining Stars Token",
+    "symbol": "SSTARS",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

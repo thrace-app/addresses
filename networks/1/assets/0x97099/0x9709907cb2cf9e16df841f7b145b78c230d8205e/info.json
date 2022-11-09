@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9709907cb2cf9e16df841f7b145b78c230d8205e",
+  "displayName": "Proof of work",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of work",
+    "symbol": "POW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

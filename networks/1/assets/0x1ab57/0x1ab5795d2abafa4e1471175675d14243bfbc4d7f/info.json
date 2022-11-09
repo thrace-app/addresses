@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ab5795d2abafa4e1471175675d14243bfbc4d7f",
+  "displayName": "Binance Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Binance Protocol",
+    "symbol": "Binance",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

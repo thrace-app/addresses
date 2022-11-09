@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf01d7939441a3b1b108c70a28dcd99c6a98ad4b4",
+  "displayName": "Partial Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Partial Coin",
+    "symbol": "PRTL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

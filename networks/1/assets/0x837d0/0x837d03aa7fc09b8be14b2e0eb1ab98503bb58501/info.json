@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x837d03aa7fc09b8be14b2e0eb1ab98503bb58501",
+  "displayName": "DeFi Miner Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi Miner Token",
+    "symbol": "DFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

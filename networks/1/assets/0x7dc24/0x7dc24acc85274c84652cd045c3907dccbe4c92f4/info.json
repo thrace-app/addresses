@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7dc24acc85274c84652cd045c3907dccbe4c92f4",
+  "displayName": "One Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "One Coin",
+    "symbol": "ONE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

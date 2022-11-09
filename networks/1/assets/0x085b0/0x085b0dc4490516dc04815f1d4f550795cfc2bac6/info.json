@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x085b0dc4490516dc04815f1d4f550795cfc2bac6",
+  "displayName": "PUBG Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PUBG Token",
+    "symbol": "PUBG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

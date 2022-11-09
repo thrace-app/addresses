@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3601757dc7f7deff752dd467f463067a6ad393c1",
+  "displayName": "The DeFi Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "The DeFi Protocol",
+    "symbol": "TDP",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

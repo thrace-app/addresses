@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96a23b889552683dd70ce048d0a32bc3e44362f7",
+  "displayName": "Fake Taxi Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fake Taxi Doge",
+    "symbol": "FTDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

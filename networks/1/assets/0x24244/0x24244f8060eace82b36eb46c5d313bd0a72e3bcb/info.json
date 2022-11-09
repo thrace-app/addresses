@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x24244f8060eace82b36eb46c5d313bd0a72e3bcb",
+  "displayName": "dYdX",
+  "type": "TOKEN",
+  "token": {
+    "name": "dYdX",
+    "symbol": "DYDX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

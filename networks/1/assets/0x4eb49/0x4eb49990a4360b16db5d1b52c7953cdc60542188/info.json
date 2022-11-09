@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4eb49990a4360b16db5d1b52c7953cdc60542188",
+  "displayName": "Ola Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ola Coin",
+    "symbol": "OLC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

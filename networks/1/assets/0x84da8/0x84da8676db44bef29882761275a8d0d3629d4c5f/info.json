@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84da8676db44bef29882761275a8d0d3629d4c5f",
+  "displayName": "BOOM",
+  "type": "TOKEN",
+  "token": {
+    "name": "BOOM",
+    "symbol": "BAZOOKA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

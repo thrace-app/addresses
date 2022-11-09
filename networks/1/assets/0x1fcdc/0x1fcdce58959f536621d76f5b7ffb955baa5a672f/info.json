@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fcdce58959f536621d76f5b7ffb955baa5a672f",
+  "displayName": "The Force Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Force Token",
+    "symbol": "FOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

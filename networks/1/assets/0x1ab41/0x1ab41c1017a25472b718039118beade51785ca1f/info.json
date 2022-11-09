@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1ab41c1017a25472b718039118beade51785ca1f",
+  "displayName": "Non Fungible Music",
+  "type": "TOKEN",
+  "token": {
+    "name": "Non Fungible Music",
+    "symbol": "NFM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

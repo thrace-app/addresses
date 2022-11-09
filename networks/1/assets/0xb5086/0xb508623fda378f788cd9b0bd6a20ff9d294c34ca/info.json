@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb508623fda378f788cd9b0bd6a20ff9d294c34ca",
+  "displayName": "Type R Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Type R Token",
+    "symbol": "TYPER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x28fedbbbb213648869072615a6365ad58f8afcb2",
+  "displayName": "Recovery",
+  "type": "TOKEN",
+  "token": {
+    "name": "Recovery",
+    "symbol": "LIFE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

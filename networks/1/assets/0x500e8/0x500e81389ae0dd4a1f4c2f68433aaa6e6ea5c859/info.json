@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x500e81389ae0dd4a1f4c2f68433aaa6e6ea5c859",
+  "displayName": "Floki Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Floki Inu",
+    "symbol": "FLOKI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

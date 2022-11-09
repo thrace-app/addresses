@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x973f054edbecd287209c36a2651094fa52f99a71",
+  "displayName": "ARTH USD Rebase",
+  "type": "TOKEN",
+  "token": {
+    "name": "ARTH USD Rebase",
+    "symbol": "ARTH.usd",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

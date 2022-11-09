@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f4a01eaac28072c1337d8272e90f4fae73d4690",
+  "displayName": "The Current Thing",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Current Thing",
+    "symbol": "TCT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

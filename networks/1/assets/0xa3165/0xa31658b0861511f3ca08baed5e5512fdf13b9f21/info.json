@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa31658b0861511f3ca08baed5e5512fdf13b9f21",
+  "displayName": "ZaT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZaT Token",
+    "symbol": "ZaT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

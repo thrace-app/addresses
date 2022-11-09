@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38adf3d23e349d33c48dff798be24e4f75d9138d",
+  "displayName": "March Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "March Token",
+    "symbol": "MARCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

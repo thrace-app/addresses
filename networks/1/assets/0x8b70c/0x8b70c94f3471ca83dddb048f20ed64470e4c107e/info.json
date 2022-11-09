@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b70c94f3471ca83dddb048f20ed64470e4c107e",
+  "displayName": "FT",
+  "type": "TOKEN",
+  "token": {
+    "name": "FT",
+    "symbol": "FT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

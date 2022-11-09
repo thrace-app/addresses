@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdcbc2e6ed0dbd530e34dd0ea67b60cce05d5b871",
+  "displayName": "Static Network",
+  "type": "TOKEN",
+  "token": {
+    "name": "Static Network",
+    "symbol": "STATIC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

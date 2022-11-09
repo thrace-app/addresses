@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67e2ac98c0def1ccaac7e2a5c6e5142a41e576a1",
+  "displayName": "PerksCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PerksCoin",
+    "symbol": "PCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

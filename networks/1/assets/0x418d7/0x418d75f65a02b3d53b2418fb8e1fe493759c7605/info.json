@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
+  "displayName": "Wrapped BNB (Wormhole)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped BNB (Wormhole)",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

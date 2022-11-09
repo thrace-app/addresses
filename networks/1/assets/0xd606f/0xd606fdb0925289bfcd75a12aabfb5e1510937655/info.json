@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd606fdb0925289bfcd75a12aabfb5e1510937655",
+  "displayName": "thegraph.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "thegraph.com",
+    "symbol": "GRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

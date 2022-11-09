@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19008ac5431435b5b1740017a513f55bc78f7997",
+  "displayName": "Fair Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fair Coin",
+    "symbol": "FAR",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

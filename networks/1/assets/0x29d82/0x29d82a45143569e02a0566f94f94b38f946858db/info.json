@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x29d82a45143569e02a0566f94f94b38f946858db",
+  "displayName": "CTWorld Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CTWorld Token",
+    "symbol": "CTW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

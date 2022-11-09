@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec9908540cc58bd86cd4a7cf03a3bbf915a6f0df",
+  "displayName": "Free Britney Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Free Britney Token",
+    "symbol": "FreeBritney",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

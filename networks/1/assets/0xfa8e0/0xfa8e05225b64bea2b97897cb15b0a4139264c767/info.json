@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa8e05225b64bea2b97897cb15b0a4139264c767",
+  "displayName": "Omega Dao Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Omega Dao Token",
+    "symbol": "OmegaDAO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

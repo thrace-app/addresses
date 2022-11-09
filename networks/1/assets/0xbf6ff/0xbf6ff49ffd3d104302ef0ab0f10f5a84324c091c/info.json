@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbf6ff49ffd3d104302ef0ab0f10f5a84324c091c",
+  "displayName": "Nftfy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nftfy Token",
+    "symbol": "NFTFY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

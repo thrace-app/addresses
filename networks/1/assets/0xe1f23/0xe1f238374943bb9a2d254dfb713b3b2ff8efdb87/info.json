@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1f238374943bb9a2d254dfb713b3b2ff8efdb87",
+  "displayName": "ETradingStakeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETradingStakeToken",
+    "symbol": "ETRD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

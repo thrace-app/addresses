@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79c71d3436f39ce382d0f58f1b011d88100b9d91",
+  "displayName": "Xeonbit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Xeonbit Token",
+    "symbol": "XNS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

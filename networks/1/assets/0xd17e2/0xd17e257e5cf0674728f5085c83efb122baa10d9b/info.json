@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd17e257e5cf0674728f5085c83efb122baa10d9b",
+  "displayName": "AntiUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "AntiUSD",
+    "symbol": "aUSD",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

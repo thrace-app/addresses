@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb379b20bf605ba720b63501274a92b0ff717b293",
+  "displayName": "Save Money Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Save Money Coin",
+    "symbol": "SMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

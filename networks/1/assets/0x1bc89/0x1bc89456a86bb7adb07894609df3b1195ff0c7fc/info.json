@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1bc89456a86bb7adb07894609df3b1195ff0c7fc",
+  "displayName": "The Time Keeper",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Time Keeper",
+    "symbol": "Chronos",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

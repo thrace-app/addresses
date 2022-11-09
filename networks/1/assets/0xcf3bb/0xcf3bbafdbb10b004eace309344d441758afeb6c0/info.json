@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcf3bbafdbb10b004eace309344d441758afeb6c0",
+  "displayName": "INO Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "INO Coin",
+    "symbol": "INO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc4da986745a282b358f24042ab92d8b2c7fa12d",
+  "displayName": "Good protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Good protocol",
+    "symbol": "$Good",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

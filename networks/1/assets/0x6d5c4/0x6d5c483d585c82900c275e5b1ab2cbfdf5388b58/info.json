@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d5c483d585c82900c275e5b1ab2cbfdf5388b58",
+  "displayName": "XZ Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XZ Token",
+    "symbol": "XZ",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

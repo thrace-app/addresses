@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xffd0b32bb593927dd55358ec79050ad81ccefa12",
+  "displayName": "BlackFridayToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlackFridayToken",
+    "symbol": "BFT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

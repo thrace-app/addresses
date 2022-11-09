@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x368306eb52c8313fd398418c8220ddd560940e68",
+  "displayName": "SwapMatic Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SwapMatic Token",
+    "symbol": "SWAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

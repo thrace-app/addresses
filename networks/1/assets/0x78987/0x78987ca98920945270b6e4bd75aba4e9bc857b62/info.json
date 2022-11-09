@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78987ca98920945270b6e4bd75aba4e9bc857b62",
+  "displayName": "HardProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "HardProtocol",
+    "symbol": "HARD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

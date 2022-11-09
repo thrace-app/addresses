@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b27484939e9d0a9c61d2894f0d5cae5eef8559f",
+  "displayName": "Proof of Serum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Serum",
+    "symbol": "POS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

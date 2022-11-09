@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0010e428a2c734913732a22169f078ac95b991cd",
+  "displayName": "ZKEVM",
+  "type": "TOKEN",
+  "token": {
+    "name": "ZKEVM",
+    "symbol": "ZKEVM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

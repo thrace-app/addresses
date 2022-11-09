@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf6940c1e6dd89c4e365f292a4977214700182d2",
+  "displayName": "Pinknode Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pinknode Token",
+    "symbol": "PNODE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

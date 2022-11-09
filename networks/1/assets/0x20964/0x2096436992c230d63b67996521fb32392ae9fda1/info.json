@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2096436992c230d63b67996521fb32392ae9fda1",
+  "displayName": "Rocket Goose",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rocket Goose",
+    "symbol": "RocketGoose",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

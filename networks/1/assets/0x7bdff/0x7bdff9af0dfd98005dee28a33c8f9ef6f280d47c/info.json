@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7bdff9af0dfd98005dee28a33c8f9ef6f280d47c",
+  "displayName": "DCA protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "DCA protocol",
+    "symbol": "DCA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

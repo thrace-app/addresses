@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19143c0dfac1d1716b5fb5dfd3907812fee6e504",
+  "displayName": "Maltese coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Maltese coin",
+    "symbol": "MEE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

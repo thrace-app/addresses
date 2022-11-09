@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47cfbe33381cc61d3a10e619b5ea29851c6c81e5",
+  "displayName": "FuckNFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "FuckNFT",
+    "symbol": "fNFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

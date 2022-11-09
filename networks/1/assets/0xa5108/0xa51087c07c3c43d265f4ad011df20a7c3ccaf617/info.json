@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa51087c07c3c43d265f4ad011df20a7c3ccaf617",
+  "displayName": "eStake",
+  "type": "TOKEN",
+  "token": {
+    "name": "eStake",
+    "symbol": "EST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

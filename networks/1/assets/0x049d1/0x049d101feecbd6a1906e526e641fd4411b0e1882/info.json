@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x049d101feecbd6a1906e526e641fd4411b0e1882",
+  "displayName": "Shibui Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shibui Token",
+    "symbol": "SHIBUI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

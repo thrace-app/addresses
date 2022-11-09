@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05c2d39be454d70a18e0636a5739e8b9780aaa92",
+  "displayName": "ApeFanToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ApeFanToken",
+    "symbol": "ApeF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

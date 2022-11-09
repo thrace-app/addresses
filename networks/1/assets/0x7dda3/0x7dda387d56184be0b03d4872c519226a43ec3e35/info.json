@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7dda387d56184be0b03d4872c519226a43ec3e35",
+  "displayName": "SpectreToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpectreToken",
+    "symbol": "SPECTRE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

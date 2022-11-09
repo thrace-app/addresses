@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83c9a4fdd0101c2daf5a32c91f232316e6a3562e",
+  "displayName": "Chewie Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chewie Coin",
+    "symbol": "CHWE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

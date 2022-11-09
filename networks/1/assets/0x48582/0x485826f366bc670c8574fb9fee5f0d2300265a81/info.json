@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x485826f366bc670c8574fb9fee5f0d2300265a81",
+  "displayName": "Ghost Busters Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ghost Busters Token",
+    "symbol": "GB",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

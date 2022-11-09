@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c06d6898b336ad14f26b311e40fc8549a015ab3",
+  "displayName": "Meteor Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meteor Coin",
+    "symbol": "Meteor",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

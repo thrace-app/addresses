@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe7167b958c5cbaedd37a29582bb66d989377dbc",
+  "displayName": "Zoor Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zoor Coin",
+    "symbol": "ZOOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

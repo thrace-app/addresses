@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x249414d1fb0dbba40fc529a76031b30b4b6666c6",
+  "displayName": "Debt Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Debt Coin",
+    "symbol": "DBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

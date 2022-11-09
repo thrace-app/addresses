@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c6322fe887365193371bb844ccc35038230bedc",
+  "displayName": "DexGuruDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "DexGuruDAO",
+    "symbol": "DexGuru",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3060d17146ae260110c6a384101de13c679aaded",
+  "displayName": "Nuke",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nuke",
+    "symbol": "NUKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

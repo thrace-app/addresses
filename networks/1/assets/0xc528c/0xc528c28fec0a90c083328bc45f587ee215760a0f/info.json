@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc528c28fec0a90c083328bc45f587ee215760a0f",
+  "displayName": "Endor Protocol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Endor Protocol Token",
+    "symbol": "EDR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

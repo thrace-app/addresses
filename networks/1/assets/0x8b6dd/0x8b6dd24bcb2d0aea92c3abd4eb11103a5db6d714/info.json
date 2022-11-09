@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b6dd24bcb2d0aea92c3abd4eb11103a5db6d714",
+  "displayName": "dXIOT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "dXIOT Token",
+    "symbol": "dXIOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

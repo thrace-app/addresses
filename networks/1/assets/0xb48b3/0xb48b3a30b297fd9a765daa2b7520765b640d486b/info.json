@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb48b3a30b297fd9a765daa2b7520765b640d486b",
+  "displayName": "Another Fucking Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Another Fucking Token",
+    "symbol": "AFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

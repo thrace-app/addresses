@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8c1f025f0d61371319852bbf66922126b86a1b5c",
+  "displayName": "Happy Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Happy Coin",
+    "symbol": "HAPPY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

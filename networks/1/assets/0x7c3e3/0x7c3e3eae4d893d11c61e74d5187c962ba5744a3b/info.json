@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c3e3eae4d893d11c61e74d5187c962ba5744a3b",
+  "displayName": "Kokoswap Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kokoswap Token",
+    "symbol": "KOKO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

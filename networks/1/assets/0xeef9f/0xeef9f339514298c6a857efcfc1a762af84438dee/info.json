@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeef9f339514298c6a857efcfc1a762af84438dee",
+  "displayName": "Hermez Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hermez Network Token",
+    "symbol": "HEZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

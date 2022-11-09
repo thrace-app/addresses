@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd05ba04f50dc7e9a67e7ef56b382cf53c6f9dc5a",
+  "displayName": "DigiDaigakuToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DigiDaigakuToken",
+    "symbol": "DIGIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9ed8459bad71d32088b51ffdf04292a63f6c6d53",
+  "displayName": "Secret Tofu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Secret Tofu",
+    "symbol": "TOFU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

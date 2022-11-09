@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f20ed5f919dc1c1695042542c13adcfc100dcab",
+  "displayName": "Component",
+  "type": "TOKEN",
+  "token": {
+    "name": "Component",
+    "symbol": "CMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

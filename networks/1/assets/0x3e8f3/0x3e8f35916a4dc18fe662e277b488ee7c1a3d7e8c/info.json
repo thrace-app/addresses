@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e8f35916a4dc18fe662e277b488ee7c1a3d7e8c",
+  "displayName": "Plasmium Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Plasmium Token",
+    "symbol": "PLSM",
+    "decimals": 16,
+    "type": "ERC20"
+  }
+}

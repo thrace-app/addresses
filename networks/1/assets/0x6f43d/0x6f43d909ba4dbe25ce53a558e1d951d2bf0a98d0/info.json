@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f43d909ba4dbe25ce53a558e1d951d2bf0a98d0",
+  "displayName": "Dinosaur Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dinosaur Protocol",
+    "symbol": "Dinosaur",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

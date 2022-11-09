@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26d73252d2b375f142c731fc85c9876ead1027b3",
+  "displayName": "DCBet",
+  "type": "TOKEN",
+  "token": {
+    "name": "DCBet",
+    "symbol": "DCB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

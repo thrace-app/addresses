@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e437684368893fd87d30290626856372080f6f2",
+  "displayName": "UniDex",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniDex",
+    "symbol": "UDEX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

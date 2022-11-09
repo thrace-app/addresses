@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f6343efebfdb2f171485db9c20136b8d5182d6c",
+  "displayName": "weePayCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "weePayCoin",
+    "symbol": "WPC",
+    "decimals": 15,
+    "type": "ERC20"
+  }
+}

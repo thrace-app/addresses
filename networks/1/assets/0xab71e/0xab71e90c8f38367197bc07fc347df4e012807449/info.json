@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab71e90c8f38367197bc07fc347df4e012807449",
+  "displayName": "YoozCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "YoozCoin",
+    "symbol": "YZC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1154e868d760df3546e7ad30247cebf259ea344",
+  "displayName": "Federal Reserve Digital Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "Federal Reserve Digital Currency",
+    "symbol": "FRDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

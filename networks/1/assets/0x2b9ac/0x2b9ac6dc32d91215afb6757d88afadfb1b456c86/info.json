@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2b9ac6dc32d91215afb6757d88afadfb1b456c86",
+  "displayName": "WyreBitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WyreBitcoin",
+    "symbol": "WyBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

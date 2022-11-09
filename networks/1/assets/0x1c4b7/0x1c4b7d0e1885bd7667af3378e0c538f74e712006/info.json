@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c4b7d0e1885bd7667af3378e0c538f74e712006",
+  "displayName": "IOGToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "IOGToken",
+    "symbol": "IOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d0a05b22061a8ade2451ee622cf915faf1eac2e",
+  "displayName": "Skill Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Skill Token",
+    "symbol": "SKILL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

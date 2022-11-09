@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4e5e205d61a3347ebe273f415df5d8c559ca4e2",
+  "displayName": "SolMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "SolMoon",
+    "symbol": "SOLMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

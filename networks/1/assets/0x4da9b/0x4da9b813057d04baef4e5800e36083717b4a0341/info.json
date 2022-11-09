@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4da9b813057d04baef4e5800e36083717b4a0341",
+  "displayName": "Aave Interest bearing TUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aave Interest bearing TUSD",
+    "symbol": "aTUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

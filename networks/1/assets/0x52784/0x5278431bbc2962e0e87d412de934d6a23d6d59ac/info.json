@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5278431bbc2962e0e87d412de934d6a23d6d59ac",
+  "displayName": "OnlyDegensToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "OnlyDegensToken",
+    "symbol": "ODT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

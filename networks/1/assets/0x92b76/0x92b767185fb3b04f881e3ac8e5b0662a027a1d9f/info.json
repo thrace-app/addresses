@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x92b767185fb3b04f881e3ac8e5b0662a027a1d9f",
+  "displayName": "Cream Dai Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cream Dai Stablecoin",
+    "symbol": "crDAI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x049fab818c3893d8bdc5c5da3dcdf8b726b8ffde",
+  "displayName": "Dego Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dego Finance Token",
+    "symbol": "DEGO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

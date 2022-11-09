@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21244850be977b0b7ec805e2744a5de76cc5f921",
+  "displayName": "warrior",
+  "type": "TOKEN",
+  "token": {
+    "name": "warrior",
+    "symbol": "Achilles",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8290d7a64f25e6b5002d98367e8367c1b532b534",
+  "displayName": "oneUNI",
+  "type": "TOKEN",
+  "token": {
+    "name": "oneUNI",
+    "symbol": "oneUNI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

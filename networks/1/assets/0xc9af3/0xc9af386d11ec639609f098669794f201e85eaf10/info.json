@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc9af386d11ec639609f098669794f201e85eaf10",
+  "displayName": "Yota Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yota Token",
+    "symbol": "Yota",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

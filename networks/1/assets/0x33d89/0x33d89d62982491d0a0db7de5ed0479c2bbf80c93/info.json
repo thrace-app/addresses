@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33d89d62982491d0a0db7de5ed0479c2bbf80c93",
+  "displayName": "Yieldster",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yieldster",
+    "symbol": "YXL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42f6c89656e11b2d9cddaa6f31e8c2b87d1c1db9",
+  "displayName": "bscex.org",
+  "type": "TOKEN",
+  "token": {
+    "name": "bscex.org",
+    "symbol": "BSCX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

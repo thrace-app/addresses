@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf678355d3efb31fc8a656fbb1a8f5e8dd6218e9a",
+  "displayName": "Trinity Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trinity Token",
+    "symbol": "TRI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

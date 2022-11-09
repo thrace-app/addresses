@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf073c245fab2a8c62b52cbc460cf674ef195560",
+  "displayName": "WSB",
+  "type": "TOKEN",
+  "token": {
+    "name": "WSB",
+    "symbol": "WSBW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

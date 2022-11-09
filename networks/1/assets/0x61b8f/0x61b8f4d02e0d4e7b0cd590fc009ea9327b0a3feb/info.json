@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61b8f4d02e0d4e7b0cd590fc009ea9327b0a3feb",
+  "displayName": "The Cook",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Cook",
+    "symbol": "CHEF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

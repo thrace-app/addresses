@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x29d718427c042c6008b02969f24c53d1587167e0",
+  "displayName": "CFP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CFP Token",
+    "symbol": "CFP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

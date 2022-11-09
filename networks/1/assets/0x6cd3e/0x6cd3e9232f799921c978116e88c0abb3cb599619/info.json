@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6cd3e9232f799921c978116e88c0abb3cb599619",
+  "displayName": "Optimistic Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Optimistic Doge",
+    "symbol": "OPDoge",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

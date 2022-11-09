@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+  "displayName": "Stake DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stake DAO Token",
+    "symbol": "SDT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

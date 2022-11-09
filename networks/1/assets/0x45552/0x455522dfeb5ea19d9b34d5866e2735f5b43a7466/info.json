@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x455522dfeb5ea19d9b34d5866e2735f5b43a7466",
+  "displayName": "Proof of Nyan",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Nyan",
+    "symbol": "NYANDOGE",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

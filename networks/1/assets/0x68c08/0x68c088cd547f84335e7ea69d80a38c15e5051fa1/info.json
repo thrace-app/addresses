@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68c088cd547f84335e7ea69d80a38c15e5051fa1",
+  "displayName": "Dave Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dave Coin",
+    "symbol": "DAVE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

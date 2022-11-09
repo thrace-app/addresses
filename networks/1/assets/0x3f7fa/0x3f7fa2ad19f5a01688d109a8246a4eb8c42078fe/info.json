@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f7fa2ad19f5a01688d109a8246a4eb8c42078fe",
+  "displayName": "LieCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "LieCoin",
+    "symbol": "LIE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

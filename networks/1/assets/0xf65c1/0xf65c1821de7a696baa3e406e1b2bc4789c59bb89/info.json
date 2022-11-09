@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf65c1821de7a696baa3e406e1b2bc4789c59bb89",
+  "displayName": "Uno Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uno Token",
+    "symbol": "UNO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

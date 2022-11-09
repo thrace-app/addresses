@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f870e74bff2cebbe064602bea3186566f567049",
+  "displayName": "ForeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ForeToken",
+    "symbol": "FORE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

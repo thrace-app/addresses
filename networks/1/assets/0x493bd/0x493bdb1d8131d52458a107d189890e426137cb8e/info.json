@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x493bdb1d8131d52458a107d189890e426137cb8e",
+  "displayName": "SMOL BANK",
+  "type": "TOKEN",
+  "token": {
+    "name": "SMOL BANK",
+    "symbol": "$BANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

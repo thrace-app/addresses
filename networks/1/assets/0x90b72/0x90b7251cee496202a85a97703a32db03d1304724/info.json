@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90b7251cee496202a85a97703a32db03d1304724",
+  "displayName": "Swiss Ambitions Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swiss Ambitions Token",
+    "symbol": "SAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

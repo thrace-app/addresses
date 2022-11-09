@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95aaf1904ea61f31e8475b21b948c1c3b212c225",
+  "displayName": "BPAL Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BPAL Coin",
+    "symbol": "BPAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e5b5d4e59ba940f17313154a2447937482c99db",
+  "displayName": "Vulo USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vulo USD",
+    "symbol": "VUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

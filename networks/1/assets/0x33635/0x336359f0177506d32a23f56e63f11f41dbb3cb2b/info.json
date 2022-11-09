@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x336359f0177506d32a23f56e63f11f41dbb3cb2b",
+  "displayName": "Gitaro Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gitaro Token",
+    "symbol": "GITARO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

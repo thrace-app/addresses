@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3e19f8808d651ebf3a67025f05123b44c6beb239",
+  "displayName": "Arbitrum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Arbitrum",
+    "symbol": "Arbitrum",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

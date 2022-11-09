@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2cf75e5500c449b0f26b1dc0b466f83e1b3bbe0f",
+  "displayName": "Rice",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rice",
+    "symbol": "RICE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

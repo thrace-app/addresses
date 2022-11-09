@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea5edef156c03504df1e4ae5f02e3ca27e79189d",
+  "displayName": "aCRV Ease Vault",
+  "type": "TOKEN",
+  "token": {
+    "name": "aCRV Ease Vault",
+    "symbol": "ez-aCRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

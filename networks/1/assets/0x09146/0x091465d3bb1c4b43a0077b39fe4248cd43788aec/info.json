@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x091465d3bb1c4b43a0077b39fe4248cd43788aec",
+  "displayName": "AntAPEToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AntAPEToken",
+    "symbol": "AntAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

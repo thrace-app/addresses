@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbac98e0a952ada4c4348f8c8078cd1682747b8b6",
+  "displayName": "Swap Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swap Doge",
+    "symbol": "SWDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

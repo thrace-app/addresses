@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc16dae3d45cd00145a6b272393ce8ef5ccc5b01b",
+  "displayName": "Rollup",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rollup",
+    "symbol": "ROLL",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

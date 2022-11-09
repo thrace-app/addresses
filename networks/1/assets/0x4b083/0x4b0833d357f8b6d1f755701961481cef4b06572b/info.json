@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b0833d357f8b6d1f755701961481cef4b06572b",
+  "displayName": "CCS",
+  "type": "TOKEN",
+  "token": {
+    "name": "CCS",
+    "symbol": "ccs",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85c94894b96651397aca3dfaa1715ab4ef853ec5",
+  "displayName": "USTC Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "USTC Inu",
+    "symbol": "USTCINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

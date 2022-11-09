@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d1188679c8f0f6c2c7f461c6a1f196ca259de5e",
+  "displayName": "posercoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "posercoin",
+    "symbol": "posc",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

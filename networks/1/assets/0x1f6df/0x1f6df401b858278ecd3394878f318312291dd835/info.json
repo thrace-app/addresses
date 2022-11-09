@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f6df401b858278ecd3394878f318312291dd835",
+  "displayName": "Gaia protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gaia protocol",
+    "symbol": "GAIA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

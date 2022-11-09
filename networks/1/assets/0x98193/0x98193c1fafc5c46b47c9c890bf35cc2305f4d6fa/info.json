@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x98193c1fafc5c46b47c9c890bf35cc2305f4d6fa",
+  "displayName": "PokerEth",
+  "type": "TOKEN",
+  "token": {
+    "name": "PokerEth",
+    "symbol": "POKER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

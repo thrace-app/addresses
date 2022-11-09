@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcadb96858fe496bb6309622f9023ba2defb5d540",
+  "displayName": "SBToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SBToken",
+    "symbol": "SBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

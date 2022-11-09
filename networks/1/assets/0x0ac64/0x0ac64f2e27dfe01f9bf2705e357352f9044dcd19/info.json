@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ac64f2e27dfe01f9bf2705e357352f9044dcd19",
+  "displayName": "Pill of Ether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pill of Ether",
+    "symbol": "PILL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

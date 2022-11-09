@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5877636734719c297e56708ce4d229cb765775fe",
+  "displayName": "BIRD COIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BIRD COIN",
+    "symbol": "CHIRP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

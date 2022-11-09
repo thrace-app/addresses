@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67b35ffd7f06b6dd04d6062e6cd50f26f5c31d6b",
+  "displayName": "Uncle Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uncle Doge",
+    "symbol": "Uncle Doge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

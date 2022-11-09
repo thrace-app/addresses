@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83455ca9db5ff9e8a5abed583231dcd014c4984b",
+  "displayName": "UniShoes",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniShoes",
+    "symbol": "SHOES",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

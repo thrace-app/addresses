@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x840cd151f3a18eb640458ebd40d1228aa88db255",
+  "displayName": "IOweYou",
+  "type": "TOKEN",
+  "token": {
+    "name": "IOweYou",
+    "symbol": "IOU",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

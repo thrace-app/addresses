@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34f199041b3ebfa94551a926038c7e60fdcbe1d2",
+  "displayName": "Hocus Pocus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hocus Pocus",
+    "symbol": "HoPo",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

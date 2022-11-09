@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e96b6103c0caf681bf68b4799415d70460a8285",
+  "displayName": "Balancy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Balancy",
+    "symbol": "BLC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

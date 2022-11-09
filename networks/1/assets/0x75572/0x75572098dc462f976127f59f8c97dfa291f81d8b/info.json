@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75572098dc462f976127f59f8c97dfa291f81d8b",
+  "displayName": "Vether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vether",
+    "symbol": "VETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

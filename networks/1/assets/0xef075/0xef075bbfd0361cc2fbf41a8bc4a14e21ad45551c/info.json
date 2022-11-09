@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef075bbfd0361cc2fbf41a8bc4a14e21ad45551c",
+  "displayName": "Hommie Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hommie Coin",
+    "symbol": "HOMMIE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

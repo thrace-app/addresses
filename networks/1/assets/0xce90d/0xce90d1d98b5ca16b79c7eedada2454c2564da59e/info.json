@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce90d1d98b5ca16b79c7eedada2454c2564da59e",
+  "displayName": "Tomcat Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tomcat Coin",
+    "symbol": "TOMC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

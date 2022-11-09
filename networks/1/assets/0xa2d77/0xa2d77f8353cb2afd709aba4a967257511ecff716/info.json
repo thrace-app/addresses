@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa2d77f8353cb2afd709aba4a967257511ecff716",
+  "displayName": "Internet Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Internet Exchange Token",
+    "symbol": "INEX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

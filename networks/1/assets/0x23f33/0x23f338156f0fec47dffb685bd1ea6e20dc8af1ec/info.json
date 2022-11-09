@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23f338156f0fec47dffb685bd1ea6e20dc8af1ec",
+  "displayName": "Kramer Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kramer Inu",
+    "symbol": "KRAMER",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

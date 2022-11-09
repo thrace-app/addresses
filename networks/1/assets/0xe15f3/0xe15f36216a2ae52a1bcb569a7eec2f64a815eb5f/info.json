@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe15f36216a2ae52a1bcb569a7eec2f64a815eb5f",
+  "displayName": "MetaMates",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaMates",
+    "symbol": "MATES",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

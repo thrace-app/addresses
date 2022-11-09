@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7d0cd4889b67b91bd263e6c9910bc90ea1ae62f",
+  "displayName": "MonkDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "MonkDoge",
+    "symbol": "MKDOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7880f5b7a75a7175da2ee34d16c9c288d2e20f1d",
+  "displayName": "EmiSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "EmiSwap",
+    "symbol": "ESW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

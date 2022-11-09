@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84bc0db140a64c5ed4d85a9acd93a4f2700c354f",
+  "displayName": "CTCcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CTCcoin",
+    "symbol": "CTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

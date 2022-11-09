@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b5fc621a982a6c0e281d3e087264e55e3c95654",
+  "displayName": "VAIOT.AI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VAIOT.AI Token",
+    "symbol": "VAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

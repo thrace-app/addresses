@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7bf8f0f1b8fb50efc3efa25cb8d118d8886fa0c9",
+  "displayName": "Eram Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eram Token",
+    "symbol": "ERAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

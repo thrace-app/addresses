@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90377c5ff5ed9840f94207eb70f0025cbcc9df1c",
+  "displayName": "Gainz",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gainz",
+    "symbol": "GAIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a288d490e294ff99b12fd68d419db3c2f368531",
+  "displayName": "Miro Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Miro Protocol",
+    "symbol": "MIRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

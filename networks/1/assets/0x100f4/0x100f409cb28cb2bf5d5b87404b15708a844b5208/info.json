@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x100f409cb28cb2bf5d5b87404b15708a844b5208",
+  "displayName": "Foxy Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Foxy Inu",
+    "symbol": "FINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

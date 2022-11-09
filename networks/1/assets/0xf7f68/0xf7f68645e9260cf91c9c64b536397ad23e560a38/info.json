@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7f68645e9260cf91c9c64b536397ad23e560a38",
+  "displayName": "UCAP",
+  "type": "TOKEN",
+  "token": {
+    "name": "UCAP",
+    "symbol": "ucap.finance",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

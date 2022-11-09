@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a6f6ef13bfdbb143de9bb3e12b7449ddd0ad786",
+  "displayName": "DeFiPi",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiPi",
+    "symbol": "DFP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

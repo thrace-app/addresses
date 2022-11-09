@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cee28edc7106dc12f972ac85ef0e8cc464e9cf5",
+  "displayName": "Fuck you Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fuck you Token",
+    "symbol": "FCKT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

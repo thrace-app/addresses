@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23693431de4cccae05d0caf63be0f1dcfcdf4906",
+  "displayName": "Tezos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tezos",
+    "symbol": "XTZ",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

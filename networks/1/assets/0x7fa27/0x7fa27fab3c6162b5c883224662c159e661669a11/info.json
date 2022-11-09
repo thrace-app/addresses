@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7fa27fab3c6162b5c883224662c159e661669a11",
+  "displayName": "starswap.io",
+  "type": "TOKEN",
+  "token": {
+    "name": "starswap.io",
+    "symbol": "STAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

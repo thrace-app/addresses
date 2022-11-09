@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x423ed06aa96577964a8708480aae39e8ada4e4b6",
+  "displayName": "AptosMock",
+  "type": "TOKEN",
+  "token": {
+    "name": "AptosMock",
+    "symbol": "APM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

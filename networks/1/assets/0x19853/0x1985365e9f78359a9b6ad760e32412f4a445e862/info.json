@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1985365e9f78359a9b6ad760e32412f4a445e862",
+  "displayName": "Reputation",
+  "type": "TOKEN",
+  "token": {
+    "name": "Reputation",
+    "symbol": "REP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x96a65609a7b84e8842732deb08f56c3e21ac6f8a",
+  "displayName": "Centra token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Centra token",
+    "symbol": "Centra",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

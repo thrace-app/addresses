@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5cb9b948a0221816cbd58a5a47e19f62db702244",
+  "displayName": "FEGtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FEGtoken",
+    "symbol": "FEG2.0",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

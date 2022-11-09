@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27e320099ff69b26cedcf5582657ebde0e56168e",
+  "displayName": "SXY token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SXY token",
+    "symbol": "SXY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

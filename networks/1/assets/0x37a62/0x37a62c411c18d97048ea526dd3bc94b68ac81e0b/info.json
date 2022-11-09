@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37a62c411c18d97048ea526dd3bc94b68ac81e0b",
+  "displayName": "ClienteleCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ClienteleCoin",
+    "symbol": "CLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

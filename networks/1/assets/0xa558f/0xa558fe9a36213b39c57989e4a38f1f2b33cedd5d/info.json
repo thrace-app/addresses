@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa558fe9a36213b39c57989e4a38f1f2b33cedd5d",
+  "displayName": "Hound Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hound Token",
+    "symbol": "Hound",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

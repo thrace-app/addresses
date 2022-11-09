@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4272071ecadd69d933adcd19ca99fe80664fc08",
+  "displayName": "CryptoFranc",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoFranc",
+    "symbol": "XCHF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

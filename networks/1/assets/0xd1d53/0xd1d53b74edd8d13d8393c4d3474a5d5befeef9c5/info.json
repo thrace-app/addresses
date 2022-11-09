@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1d53b74edd8d13d8393c4d3474a5d5befeef9c5",
+  "displayName": "OuroSwapToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "OuroSwapToken",
+    "symbol": "OST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

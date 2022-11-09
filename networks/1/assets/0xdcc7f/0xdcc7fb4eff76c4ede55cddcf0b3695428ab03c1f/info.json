@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdcc7fb4eff76c4ede55cddcf0b3695428ab03c1f",
+  "displayName": "RugBurnToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "RugBurnToken",
+    "symbol": "RBT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

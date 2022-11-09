@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2341fc1e33eaf923ebd0aaa89c1982805d08270b",
+  "displayName": "Kusama Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kusama Inu",
+    "symbol": "KusaNu",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

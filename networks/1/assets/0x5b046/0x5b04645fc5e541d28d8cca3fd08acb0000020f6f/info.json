@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b04645fc5e541d28d8cca3fd08acb0000020f6f",
+  "displayName": "Wrapped YFI",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped YFI",
+    "symbol": "wYFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

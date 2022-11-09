@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xabbd7c8223b210a882c4708b7648ef6285bda1fd",
+  "displayName": "TogetherGo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TogetherGo Token",
+    "symbol": "TGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

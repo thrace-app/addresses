@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3271c39caf99a09f110ccd92474e2163aafb832c",
+  "displayName": "AVE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AVE Token",
+    "symbol": "AOTA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

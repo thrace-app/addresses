@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7bba182caa8dfe291f909f69a1ead39789f1d414",
+  "displayName": "Proof of Moon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Moon",
+    "symbol": "PoM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

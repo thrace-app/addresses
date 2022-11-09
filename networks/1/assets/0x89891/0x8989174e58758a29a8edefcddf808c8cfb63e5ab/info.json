@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8989174e58758a29a8edefcddf808c8cfb63e5ab",
+  "displayName": "Lotus Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lotus Coin",
+    "symbol": "LTCX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

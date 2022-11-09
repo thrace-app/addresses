@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaefb21fbfca842c9e9974fc5447ad38c1e9d015a",
+  "displayName": "Dynamic Dragon",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dynamic Dragon",
+    "symbol": "Dyno",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

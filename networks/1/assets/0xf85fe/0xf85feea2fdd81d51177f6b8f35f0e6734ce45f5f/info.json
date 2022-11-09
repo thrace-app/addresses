@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f",
+  "displayName": "CyberMiles Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CyberMiles Token",
+    "symbol": "CMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd093f2634286afbc9d728c63ebc0d69f7d6cfc1a",
+  "displayName": "HoneyCash",
+  "type": "TOKEN",
+  "token": {
+    "name": "HoneyCash",
+    "symbol": "HASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

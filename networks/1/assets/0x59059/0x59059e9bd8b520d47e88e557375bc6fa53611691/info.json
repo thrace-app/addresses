@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x59059e9bd8b520d47e88e557375bc6fa53611691",
+  "displayName": "Morning Star",
+  "type": "TOKEN",
+  "token": {
+    "name": "Morning Star",
+    "symbol": "STAR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

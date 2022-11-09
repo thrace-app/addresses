@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xada3353791eb5208aa16fc168a97bb1fd42f28ff",
+  "displayName": "AMD",
+  "type": "TOKEN",
+  "token": {
+    "name": "AMD",
+    "symbol": "AMD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

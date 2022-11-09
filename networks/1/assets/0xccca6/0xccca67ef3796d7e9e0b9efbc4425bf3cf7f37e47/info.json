@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xccca67ef3796d7e9e0b9efbc4425bf3cf7f37e47",
+  "displayName": "Doge Bridge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doge Bridge",
+    "symbol": "DOGEB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

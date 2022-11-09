@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6dfc28bb1ee43e440daf881d0c56448755cd736",
+  "displayName": "Another Day Another Dollar",
+  "type": "TOKEN",
+  "token": {
+    "name": "Another Day Another Dollar",
+    "symbol": "ADAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

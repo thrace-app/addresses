@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f5c05c5bd65c996f98c96787486a19ca74d30e3",
+  "displayName": "Pink Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pink Ethereum",
+    "symbol": "PETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64cdf819d3e75ac8ec217b3496d7ce167be42e80",
+  "displayName": "InsurePal token",
+  "type": "TOKEN",
+  "token": {
+    "name": "InsurePal token",
+    "symbol": "IPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

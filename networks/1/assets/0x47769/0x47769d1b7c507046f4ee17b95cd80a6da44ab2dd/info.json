@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x47769d1b7c507046f4ee17b95cd80a6da44ab2dd",
+  "displayName": "Bulldog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bulldog",
+    "symbol": "BULLDOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

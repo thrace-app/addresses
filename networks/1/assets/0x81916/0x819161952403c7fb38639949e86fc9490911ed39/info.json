@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x819161952403c7fb38639949e86fc9490911ed39",
+  "displayName": "EBCoinMeta",
+  "type": "TOKEN",
+  "token": {
+    "name": "EBCoinMeta",
+    "symbol": "EBC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

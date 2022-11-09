@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e5167b46e724e7cf468c834fd6b102f8179b084",
+  "displayName": "EO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EO Token",
+    "symbol": "EOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68909e586eeac8f47315e84b4c9788dd54ef65bb",
+  "displayName": "EvenCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EvenCoin",
+    "symbol": "EVN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

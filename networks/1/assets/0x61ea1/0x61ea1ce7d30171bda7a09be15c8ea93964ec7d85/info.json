@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x61ea1ce7d30171bda7a09be15c8ea93964ec7d85",
+  "displayName": "KIIA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "KIIA Token",
+    "symbol": "KIIA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

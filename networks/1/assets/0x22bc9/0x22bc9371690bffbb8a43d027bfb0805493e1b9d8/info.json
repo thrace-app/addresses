@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22bc9371690bffbb8a43d027bfb0805493e1b9d8",
+  "displayName": "LPS",
+  "type": "TOKEN",
+  "token": {
+    "name": "LPS",
+    "symbol": "LPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8cdbad4e068fe2e71e4203e3266fa6e56523d862",
+  "displayName": "Humble Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Humble Coin",
+    "symbol": "#H",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

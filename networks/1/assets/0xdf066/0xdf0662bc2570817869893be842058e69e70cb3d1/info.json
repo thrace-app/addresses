@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdf0662bc2570817869893be842058e69e70cb3d1",
+  "displayName": "MyToken.finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyToken.finance",
+    "symbol": "MTF",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

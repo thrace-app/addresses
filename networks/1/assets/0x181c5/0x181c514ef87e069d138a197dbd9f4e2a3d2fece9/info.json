@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x181c514ef87e069d138a197dbd9f4e2a3d2fece9",
+  "displayName": "RFbtc",
+  "type": "TOKEN",
+  "token": {
+    "name": "RFbtc",
+    "symbol": "RFbtc",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

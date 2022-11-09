@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc55292b9c883a8abaf91f3620944e8c7606fc715",
+  "displayName": "AISwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "AISwap",
+    "symbol": "AIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

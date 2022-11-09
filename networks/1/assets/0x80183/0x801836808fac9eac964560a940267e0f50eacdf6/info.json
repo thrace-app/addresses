@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x801836808fac9eac964560a940267e0f50eacdf6",
+  "displayName": "Loot Toads",
+  "type": "TOKEN",
+  "token": {
+    "name": "Loot Toads",
+    "symbol": "loottoads",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

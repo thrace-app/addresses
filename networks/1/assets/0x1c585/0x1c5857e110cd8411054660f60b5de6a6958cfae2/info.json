@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c5857e110cd8411054660f60b5de6a6958cfae2",
+  "displayName": "Reserve",
+  "type": "TOKEN",
+  "token": {
+    "name": "Reserve",
+    "symbol": "RSV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

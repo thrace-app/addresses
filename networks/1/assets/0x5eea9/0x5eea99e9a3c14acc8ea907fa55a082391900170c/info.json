@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5eea99e9a3c14acc8ea907fa55a082391900170c",
+  "displayName": "Broke Eth",
+  "type": "TOKEN",
+  "token": {
+    "name": "Broke Eth",
+    "symbol": "BROKE ETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

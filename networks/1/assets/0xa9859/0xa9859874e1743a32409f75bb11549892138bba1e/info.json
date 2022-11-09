@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa9859874e1743a32409f75bb11549892138bba1e",
+  "displayName": "Synth iETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth iETH",
+    "symbol": "iETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

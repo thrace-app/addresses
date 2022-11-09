@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x230879359ef650926f37d6b3029e9a3c85a34e3c",
+  "displayName": "LazyCat",
+  "type": "TOKEN",
+  "token": {
+    "name": "LazyCat",
+    "symbol": "LCat",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

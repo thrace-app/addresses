@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9872d88945879782f0b6c6aa7b1ffb7b73aabf0",
+  "displayName": "Word of the Day",
+  "type": "TOKEN",
+  "token": {
+    "name": "Word of the Day",
+    "symbol": "Yugen",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

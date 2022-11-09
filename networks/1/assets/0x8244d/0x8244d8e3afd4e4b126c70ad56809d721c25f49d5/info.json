@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8244d8e3afd4e4b126c70ad56809d721c25f49d5",
+  "displayName": "Miso Token Launcher",
+  "type": "TOKEN",
+  "token": {
+    "name": "Miso Token Launcher",
+    "symbol": "MISO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

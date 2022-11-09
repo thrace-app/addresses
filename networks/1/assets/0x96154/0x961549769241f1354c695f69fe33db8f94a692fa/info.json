@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x961549769241f1354c695f69fe33db8f94a692fa",
+  "displayName": "Ripple Gold Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ripple Gold Token",
+    "symbol": "XRPG",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

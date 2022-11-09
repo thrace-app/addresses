@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x41b899a8fbb588447a3cb1d3130c099820c14e1b",
+  "displayName": "Ripple Max",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ripple Max",
+    "symbol": "XRPMAX",
+    "decimals": 14,
+    "type": "ERC20"
+  }
+}

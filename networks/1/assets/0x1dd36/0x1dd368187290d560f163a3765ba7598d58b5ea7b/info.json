@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1dd368187290d560f163a3765ba7598d58b5ea7b",
+  "displayName": "galaxy",
+  "type": "TOKEN",
+  "token": {
+    "name": "galaxy",
+    "symbol": "gal",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

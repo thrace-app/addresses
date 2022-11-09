@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x493c57c4763932315a328269e1adad09653b9081",
+  "displayName": "Fulcrum DAI iToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fulcrum DAI iToken",
+    "symbol": "iDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

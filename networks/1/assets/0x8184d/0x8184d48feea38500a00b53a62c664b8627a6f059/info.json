@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8184d48feea38500a00b53a62c664b8627a6f059",
+  "displayName": "MemeDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "MemeDoge",
+    "symbol": "MemeDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

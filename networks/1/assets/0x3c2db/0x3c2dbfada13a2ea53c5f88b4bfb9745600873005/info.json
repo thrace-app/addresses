@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c2dbfada13a2ea53c5f88b4bfb9745600873005",
+  "displayName": "CryptoGOLD",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoGOLD",
+    "symbol": "$CGLD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

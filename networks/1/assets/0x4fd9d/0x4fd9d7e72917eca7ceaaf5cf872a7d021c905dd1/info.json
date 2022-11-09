@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4fd9d7e72917eca7ceaaf5cf872a7d021c905dd1",
+  "displayName": "Chocolate Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chocolate Token",
+    "symbol": "CHO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

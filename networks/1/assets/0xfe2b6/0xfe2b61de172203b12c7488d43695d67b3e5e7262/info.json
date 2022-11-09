@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfe2b61de172203b12c7488d43695d67b3e5e7262",
+  "displayName": "Chernobyl Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chernobyl Token",
+    "symbol": "CHNBL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fc7d6d3fbf40267663ace2eca0a0d9245c8b684",
+  "displayName": "CyrusCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CyrusCoin",
+    "symbol": "Cyr",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

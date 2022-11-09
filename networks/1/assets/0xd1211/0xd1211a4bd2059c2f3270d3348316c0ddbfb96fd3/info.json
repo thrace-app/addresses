@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1211a4bd2059c2f3270d3348316c0ddbfb96fd3",
+  "displayName": "EthereumPeak",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumPeak",
+    "symbol": "ePEAK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

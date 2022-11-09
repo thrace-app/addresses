@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68b5a1e111ee626ca52c452f7915120622a9d00c",
+  "displayName": "SELL TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "SELL TOKEN",
+    "symbol": "SELL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

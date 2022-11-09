@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5bb91af80dfb5044b77f31e4189d66fac1ffa5b",
+  "displayName": "Raven Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Raven Token",
+    "symbol": "Raven",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

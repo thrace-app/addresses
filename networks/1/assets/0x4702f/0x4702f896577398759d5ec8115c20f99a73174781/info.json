@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4702f896577398759d5ec8115c20f99a73174781",
+  "displayName": "E-RADIX",
+  "type": "TOKEN",
+  "token": {
+    "name": "E-RADIX",
+    "symbol": "eXRD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x631e80d75c51ebf15f4dd4269ad2968c5f16ec75",
+  "displayName": "Candyverse Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Candyverse Coin",
+    "symbol": "CANDIES",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

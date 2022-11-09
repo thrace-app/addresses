@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce5caaafe66a4862670987228518c3f2cb14952b",
+  "displayName": "SmartDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "SmartDao",
+    "symbol": "SMART",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1903da9201403cd70ff29189102bb6379e0919ab",
+  "displayName": "Bir Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bir Token",
+    "symbol": "Bir🐉",
+    "decimals": 16,
+    "type": "ERC20"
+  }
+}

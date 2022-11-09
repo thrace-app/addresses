@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ea0f26b81dc67d2463020614650d9325c8adbe7",
+  "displayName": "SirotToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SirotToken",
+    "symbol": "SIROT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

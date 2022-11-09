@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b08a69ed52c2dcee055505d203334dc765ace35",
+  "displayName": "Play Of The Day",
+  "type": "TOKEN",
+  "token": {
+    "name": "Play Of The Day",
+    "symbol": "Degen",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

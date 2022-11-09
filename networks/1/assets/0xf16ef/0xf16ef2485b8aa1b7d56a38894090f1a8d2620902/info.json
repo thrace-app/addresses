@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf16ef2485b8aa1b7d56a38894090f1a8d2620902",
+  "displayName": "Donald Pump",
+  "type": "TOKEN",
+  "token": {
+    "name": "Donald Pump",
+    "symbol": "DonaldPump",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

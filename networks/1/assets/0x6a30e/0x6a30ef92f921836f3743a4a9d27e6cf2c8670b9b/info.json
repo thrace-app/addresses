@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a30ef92f921836f3743a4a9d27e6cf2c8670b9b",
+  "displayName": "FullDex",
+  "type": "TOKEN",
+  "token": {
+    "name": "FullDex",
+    "symbol": "FLDX",
+    "decimals": 16,
+    "type": "ERC20"
+  }
+}

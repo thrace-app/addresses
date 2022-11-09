@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99d63cdc863cce1e58140b4e355e5ecca3e5f62d",
+  "displayName": "BabelFish",
+  "type": "TOKEN",
+  "token": {
+    "name": "BabelFish",
+    "symbol": "BABELFISH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

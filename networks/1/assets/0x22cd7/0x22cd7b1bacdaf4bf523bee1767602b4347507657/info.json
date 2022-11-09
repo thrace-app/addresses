@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22cd7b1bacdaf4bf523bee1767602b4347507657",
+  "displayName": "Baby BuyBack",
+  "type": "TOKEN",
+  "token": {
+    "name": "Baby BuyBack",
+    "symbol": "BBB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

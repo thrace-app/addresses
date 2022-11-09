@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5eb2247cd16166d86925dccfa5b3d083daa0e5c",
+  "displayName": "SusafeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SusafeToken",
+    "symbol": "SUSAFE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

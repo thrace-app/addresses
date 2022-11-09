@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x044b82c8b84a4d8feafc5dec914c363a7ea1b8d5",
+  "displayName": "XES Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XES Token",
+    "symbol": "XES",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x616cd5e350ef68cadb098bc9994135ad85ab7b7f",
+  "displayName": "BuyMyShit",
+  "type": "TOKEN",
+  "token": {
+    "name": "BuyMyShit",
+    "symbol": "BMS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

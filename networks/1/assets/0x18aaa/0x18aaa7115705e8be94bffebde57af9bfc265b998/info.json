@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+  "displayName": "Audius",
+  "type": "TOKEN",
+  "token": {
+    "name": "Audius",
+    "symbol": "AUDIO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

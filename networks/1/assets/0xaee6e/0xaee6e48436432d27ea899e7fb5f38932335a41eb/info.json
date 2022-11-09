@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaee6e48436432d27ea899e7fb5f38932335a41eb",
+  "displayName": "DeFiStarterV1",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiStarterV1",
+    "symbol": "DFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x69681f8fde45345c3870bcd5eaf4a05a60e7d227",
+  "displayName": "Iron Bank GBP",
+  "type": "TOKEN",
+  "token": {
+    "name": "Iron Bank GBP",
+    "symbol": "ibGBP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48592de8cded16f6bb56c896fe1affc37630889c",
+  "displayName": "PolkaParty",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkaParty",
+    "symbol": "POLP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e3e1409ae4f554092139e4932165b127fe4e6ca",
+  "displayName": "XUSD Stablecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "XUSD Stablecoin",
+    "symbol": "XUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

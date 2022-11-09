@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc7deb5543cfa97b0af2841418f53b8e554ff566a",
+  "displayName": "Commodity Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Commodity Coin",
+    "symbol": "COMM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

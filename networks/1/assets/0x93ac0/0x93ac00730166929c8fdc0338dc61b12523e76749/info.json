@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93ac00730166929c8fdc0338dc61b12523e76749",
+  "displayName": "Giga Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Giga Token",
+    "symbol": "GG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

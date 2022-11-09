@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x981850c874a6e119e63b806c9649901dce041468",
+  "displayName": "larp.money",
+  "type": "TOKEN",
+  "token": {
+    "name": "larp.money",
+    "symbol": "LARP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

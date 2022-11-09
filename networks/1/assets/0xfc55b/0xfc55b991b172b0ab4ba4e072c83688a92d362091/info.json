@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfc55b991b172b0ab4ba4e072c83688a92d362091",
+  "displayName": "Most Expensive Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Most Expensive Token",
+    "symbol": "MET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

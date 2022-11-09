@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbba0eb9e138640c1d3f8c946643e7d2c3d3ef55c",
+  "displayName": "Worfcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Worfcoin",
+    "symbol": "WFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

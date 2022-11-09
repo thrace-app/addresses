@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x018f23e7c5410c8aa0916e9ae9ea7493b895fbf0",
+  "displayName": "Golden Tiger",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Tiger",
+    "symbol": "TIGER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

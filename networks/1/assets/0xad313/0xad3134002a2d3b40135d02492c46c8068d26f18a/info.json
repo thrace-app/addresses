@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xad3134002a2d3b40135d02492c46c8068d26f18a",
+  "displayName": "Hold3rToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hold3rToken",
+    "symbol": "H3DR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

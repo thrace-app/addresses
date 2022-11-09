@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5ebc0926c37606a10e443c79528aff5a1e119b05",
+  "displayName": "Stupid Doge Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stupid Doge Coin",
+    "symbol": "SUP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

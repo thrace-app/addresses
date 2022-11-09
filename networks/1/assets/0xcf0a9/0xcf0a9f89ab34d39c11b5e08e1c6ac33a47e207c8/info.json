@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcf0a9f89ab34d39c11b5e08e1c6ac33a47e207c8",
+  "displayName": "Standard 1870 Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Standard 1870 Coin",
+    "symbol": "1870Coin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1585e4b5528200639cb9a1276ad286b7f9e5a06",
+  "displayName": "RewardBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "RewardBTC",
+    "symbol": "RewardBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

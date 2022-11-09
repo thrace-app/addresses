@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb5fa135f44e201458287277eeee8aef475ab82c5",
+  "displayName": "Rug Pool",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rug Pool",
+    "symbol": "RGPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

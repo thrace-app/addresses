@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x99506180435382838354700b81f450de657325ac",
+  "displayName": "DegenTradingFund",
+  "type": "TOKEN",
+  "token": {
+    "name": "DegenTradingFund",
+    "symbol": "DTF",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

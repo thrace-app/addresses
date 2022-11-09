@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80f222a749a2e18eb7f676d371f19ad7efeee3b7",
+  "displayName": "Magnolia Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Magnolia Token",
+    "symbol": "MGN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

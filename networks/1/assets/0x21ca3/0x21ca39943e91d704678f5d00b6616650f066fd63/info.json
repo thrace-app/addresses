@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21ca39943e91d704678f5d00b6616650f066fd63",
+  "displayName": "Wrapped Mirror TSLA Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Mirror TSLA Token",
+    "symbol": "mTSLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

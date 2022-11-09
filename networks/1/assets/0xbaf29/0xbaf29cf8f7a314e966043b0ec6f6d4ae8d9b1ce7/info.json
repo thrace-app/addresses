@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbaf29cf8f7a314e966043b0ec6f6d4ae8d9b1ce7",
+  "displayName": "Yeti",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yeti",
+    "symbol": "YETI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33f39ff171a12fc2b171bf826708e0cdaa4b196b",
+  "displayName": "Wrapped Grin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Grin",
+    "symbol": "WGRIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

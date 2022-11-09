@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd27152b719597b826a785c6a6b24ef1735108409",
+  "displayName": "zksync",
+  "type": "TOKEN",
+  "token": {
+    "name": "zksync",
+    "symbol": "zksync",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5de505f02343689d2d9e1993e787b33bb7303f3e",
+  "displayName": "Blue Chip NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue Chip NFT",
+    "symbol": "BCHIP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

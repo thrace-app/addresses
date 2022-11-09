@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc6e86263dbd984e72fc8a14cfa393d61c3d2cec",
+  "displayName": "Doodles Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Doodles Coin",
+    "symbol": "Doodles",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

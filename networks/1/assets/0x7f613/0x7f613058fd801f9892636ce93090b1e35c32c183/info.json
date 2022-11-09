@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f613058fd801f9892636ce93090b1e35c32c183",
+  "displayName": "Little Whistle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Little Whistle",
+    "symbol": "WHISTLE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

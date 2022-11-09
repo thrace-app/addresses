@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x40941b4ac3bb204c4dfd37cd5124ed7d4dbe5228",
+  "displayName": "BurnBase",
+  "type": "TOKEN",
+  "token": {
+    "name": "BurnBase",
+    "symbol": "BBase",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

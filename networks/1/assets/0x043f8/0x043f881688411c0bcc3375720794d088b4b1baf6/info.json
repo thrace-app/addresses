@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x043f881688411c0bcc3375720794d088b4b1baf6",
+  "displayName": "Summer Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Summer Token",
+    "symbol": "SUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

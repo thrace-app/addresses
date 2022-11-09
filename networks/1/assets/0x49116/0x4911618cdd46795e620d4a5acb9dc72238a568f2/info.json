@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4911618cdd46795e620d4a5acb9dc72238a568f2",
+  "displayName": "Crazy Aptos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crazy Aptos",
+    "symbol": "$CAPT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

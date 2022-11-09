@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef20b53b7d035c2cdc952593e8a65a4cf5fb2bdc",
+  "displayName": "Ring Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ring Token",
+    "symbol": "RTK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

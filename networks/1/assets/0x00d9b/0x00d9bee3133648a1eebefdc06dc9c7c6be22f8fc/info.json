@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00d9bee3133648a1eebefdc06dc9c7c6be22f8fc",
+  "displayName": "LITHEREUM",
+  "type": "TOKEN",
+  "token": {
+    "name": "LITHEREUM",
+    "symbol": "LTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

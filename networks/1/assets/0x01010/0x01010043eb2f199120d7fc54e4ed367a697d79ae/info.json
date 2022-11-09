@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01010043eb2f199120d7fc54e4ed367a697d79ae",
+  "displayName": "ParisPets",
+  "type": "TOKEN",
+  "token": {
+    "name": "ParisPets",
+    "symbol": "Paris",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

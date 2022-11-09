@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a024226ba64860a1927552d23d6c4184abae4c7",
+  "displayName": "Portfolio",
+  "type": "TOKEN",
+  "token": {
+    "name": "Portfolio",
+    "symbol": "PTF",
+    "decimals": 16,
+    "type": "ERC20"
+  }
+}

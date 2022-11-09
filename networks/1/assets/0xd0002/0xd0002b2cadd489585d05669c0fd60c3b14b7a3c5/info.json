@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0002b2cadd489585d05669c0fd60c3b14b7a3c5",
+  "displayName": "DeFi Wonderland",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFi Wonderland",
+    "symbol": "DEFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

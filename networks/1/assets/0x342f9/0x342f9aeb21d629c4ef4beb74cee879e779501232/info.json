@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x342f9aeb21d629c4ef4beb74cee879e779501232",
+  "displayName": "Gouda Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gouda Token",
+    "symbol": "GOUDA",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

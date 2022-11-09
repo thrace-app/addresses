@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x95c4b20707d078a00827151fafed103c5b85adaa",
+  "displayName": "Hiro World",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hiro World",
+    "symbol": "Hiro World",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

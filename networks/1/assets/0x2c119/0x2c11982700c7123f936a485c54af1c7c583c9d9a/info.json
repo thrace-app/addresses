@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2c11982700c7123f936a485c54af1c7c583c9d9a",
+  "displayName": "Shibox Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shibox Token",
+    "symbol": "SHIBOX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

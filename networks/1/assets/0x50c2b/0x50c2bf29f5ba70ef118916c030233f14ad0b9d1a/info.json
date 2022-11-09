@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50c2bf29f5ba70ef118916c030233f14ad0b9d1a",
+  "displayName": "Wrapped YoCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped YoCoin",
+    "symbol": "WYOC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

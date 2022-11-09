@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6c7d1699e0939cb8d1805dd25b3970fd6e909c0e",
+  "displayName": "Pos-Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pos-Doge",
+    "symbol": "PDOGE ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

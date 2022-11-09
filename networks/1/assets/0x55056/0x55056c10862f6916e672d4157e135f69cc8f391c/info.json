@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55056c10862f6916e672d4157e135f69cc8f391c",
+  "displayName": "Degen Donation Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Degen Donation Fund",
+    "symbol": "$DDF",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

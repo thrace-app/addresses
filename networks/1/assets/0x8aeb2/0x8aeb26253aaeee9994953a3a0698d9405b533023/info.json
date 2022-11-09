@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8aeb26253aaeee9994953a3a0698d9405b533023",
+  "displayName": "USD Flips EUR",
+  "type": "TOKEN",
+  "token": {
+    "name": "USD Flips EUR",
+    "symbol": "UFE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

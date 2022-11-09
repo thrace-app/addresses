@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f759fe70b3d725fd896e66ade3bf63f3b760ed7",
+  "displayName": "Notorius Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Notorius Token",
+    "symbol": "NOTORIUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

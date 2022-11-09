@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb004783ff7ab0525690c8b41aa63581fb66f29e",
+  "displayName": "Xan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Xan Token",
+    "symbol": "Xan",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

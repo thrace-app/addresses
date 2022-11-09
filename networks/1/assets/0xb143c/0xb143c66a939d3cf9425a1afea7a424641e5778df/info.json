@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb143c66a939d3cf9425a1afea7a424641e5778df",
+  "displayName": "Decicoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Decicoin",
+    "symbol": "DeIC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x535ec9ca270765bcf004f63e31c2e995dbcbb043",
+  "displayName": "AstroDoggy",
+  "type": "TOKEN",
+  "token": {
+    "name": "AstroDoggy",
+    "symbol": "ADOG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

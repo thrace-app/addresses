@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78a55e6a40cd8148002ebea86e8ee668bf9beb64",
+  "displayName": "Bullish Pump",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bullish Pump",
+    "symbol": "BULLPUMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

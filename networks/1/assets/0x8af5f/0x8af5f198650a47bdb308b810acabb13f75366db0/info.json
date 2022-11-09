@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8af5f198650a47bdb308b810acabb13f75366db0",
+  "displayName": "LemonFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "LemonFinance",
+    "symbol": "LEMN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5d21a4099cbed249d58c962b11b2f558b4e3daa",
+  "displayName": "GMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "GMoon",
+    "symbol": "GMOON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

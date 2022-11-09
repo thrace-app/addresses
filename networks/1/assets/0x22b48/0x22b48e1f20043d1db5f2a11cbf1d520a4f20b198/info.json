@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22b48e1f20043d1db5f2a11cbf1d520a4f20b198",
+  "displayName": "Okuru Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Okuru Token",
+    "symbol": "XOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

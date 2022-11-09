@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b78b53adf70b89c1329475e0fda3e76d6f490e3",
+  "displayName": "The Flag Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Flag Token",
+    "symbol": "Flag",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

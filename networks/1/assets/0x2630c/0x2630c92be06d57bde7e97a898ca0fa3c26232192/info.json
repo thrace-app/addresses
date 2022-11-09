@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2630c92be06d57bde7e97a898ca0fa3c26232192",
+  "displayName": "CMC",
+  "type": "TOKEN",
+  "token": {
+    "name": "CMC",
+    "symbol": "CMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

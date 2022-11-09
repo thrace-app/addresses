@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x621cb3f88a703357ecfd86c4f7c610516ce82322",
+  "displayName": "Generational Bitcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Generational Bitcoin",
+    "symbol": "GENBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

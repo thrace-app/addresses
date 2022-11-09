@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x970e8baca76e2669ce734e02fd00639aa52e5ab1",
+  "displayName": "DIV Token 2",
+  "type": "TOKEN",
+  "token": {
+    "name": "DIV Token 2",
+    "symbol": "DIV2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

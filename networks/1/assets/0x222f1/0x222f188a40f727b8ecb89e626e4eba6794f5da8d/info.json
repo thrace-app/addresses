@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x222f188a40f727b8ecb89e626e4eba6794f5da8d",
+  "displayName": "SIMPACOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "SIMPACOIN",
+    "symbol": "SMP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

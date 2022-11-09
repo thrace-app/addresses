@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x884d6e132b39991108de02ed0abbf95aba09b170",
+  "displayName": "Atura Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Atura Token",
+    "symbol": "ATURA",
+    "decimals": 11,
+    "type": "ERC20"
+  }
+}

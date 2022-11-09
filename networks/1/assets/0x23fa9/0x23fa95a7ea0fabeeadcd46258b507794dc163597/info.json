@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23fa95a7ea0fabeeadcd46258b507794dc163597",
+  "displayName": "EZPoints Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EZPoints Token",
+    "symbol": "EZP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

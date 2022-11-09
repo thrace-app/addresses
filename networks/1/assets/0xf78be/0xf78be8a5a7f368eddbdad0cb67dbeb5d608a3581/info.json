@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf78be8a5a7f368eddbdad0cb67dbeb5d608a3581",
+  "displayName": "DBD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DBD Token",
+    "symbol": "DBD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbd829d95ae1a902a14946e0e894a0d304bdebc2b",
+  "displayName": "EMusk Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EMusk Coin",
+    "symbol": "EMusk",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

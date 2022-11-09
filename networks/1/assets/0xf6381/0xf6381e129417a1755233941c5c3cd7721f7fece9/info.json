@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6381e129417a1755233941c5c3cd7721f7fece9",
+  "displayName": "Elon Bought",
+  "type": "TOKEN",
+  "token": {
+    "name": "Elon Bought",
+    "symbol": "TWITTER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

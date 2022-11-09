@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08130635368aa28b217a4dfb68e1bf8dc525621c",
+  "displayName": "AfroDex",
+  "type": "TOKEN",
+  "token": {
+    "name": "AfroDex",
+    "symbol": "AfroX",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

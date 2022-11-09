@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f7e3efdff5b23a579c71eb9dbc4f717af520fab",
+  "displayName": "Lorenz Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lorenz Protocol",
+    "symbol": "LORENZ",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

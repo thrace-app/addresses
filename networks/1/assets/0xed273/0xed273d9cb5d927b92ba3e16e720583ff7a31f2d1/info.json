@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed273d9cb5d927b92ba3e16e720583ff7a31f2d1",
+  "displayName": "Alpaca Farm",
+  "type": "TOKEN",
+  "token": {
+    "name": "Alpaca Farm",
+    "symbol": "ALPACAFARM",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

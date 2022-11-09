@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4298d4a12ff233ffba94528a89b3c4616cceb63c",
+  "displayName": "Cryption Network Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cryption Network Token",
+    "symbol": "CNT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

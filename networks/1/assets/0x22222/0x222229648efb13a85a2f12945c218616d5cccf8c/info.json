@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x222229648efb13a85a2f12945c218616d5cccf8c",
+  "displayName": "EvilBlobfish",
+  "type": "TOKEN",
+  "token": {
+    "name": "EvilBlobfish",
+    "symbol": "BLOB",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

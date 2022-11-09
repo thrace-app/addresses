@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ae3cabf4e7c68f9a2812634d9f6d2650f627def",
+  "displayName": "Bebop Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bebop Coin",
+    "symbol": "BEBOP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

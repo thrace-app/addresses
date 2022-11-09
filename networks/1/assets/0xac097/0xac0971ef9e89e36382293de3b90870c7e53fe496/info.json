@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xac0971ef9e89e36382293de3b90870c7e53fe496",
+  "displayName": "SupplyShock",
+  "type": "TOKEN",
+  "token": {
+    "name": "SupplyShock",
+    "symbol": "Shock",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3d8582111468ad78a4794b071a3524fa05056f18",
+  "displayName": "CanCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CanCoin",
+    "symbol": "CADC",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c974104df9dd7fb91205ab3d66d15aff1049de8",
+  "displayName": "Wrapped USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped USD",
+    "symbol": "WUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

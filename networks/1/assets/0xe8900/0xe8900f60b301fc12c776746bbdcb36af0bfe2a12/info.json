@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe8900f60b301fc12c776746bbdcb36af0bfe2a12",
+  "displayName": "BanksCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BanksCoin",
+    "symbol": "BKC",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

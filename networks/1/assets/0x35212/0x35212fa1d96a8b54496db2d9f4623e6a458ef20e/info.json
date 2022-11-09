@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35212fa1d96a8b54496db2d9f4623e6a458ef20e",
+  "displayName": "FIFA World Cup",
+  "type": "TOKEN",
+  "token": {
+    "name": "FIFA World Cup",
+    "symbol": "FIFA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

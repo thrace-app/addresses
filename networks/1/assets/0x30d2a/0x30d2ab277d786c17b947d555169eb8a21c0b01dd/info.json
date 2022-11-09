@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30d2ab277d786c17b947d555169eb8a21c0b01dd",
+  "displayName": "Willys Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Willys Token",
+    "symbol": "WILLYS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

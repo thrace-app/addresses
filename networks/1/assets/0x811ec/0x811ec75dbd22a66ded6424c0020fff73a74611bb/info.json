@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x811ec75dbd22a66ded6424c0020fff73a74611bb",
+  "displayName": "GARFToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GARFToken",
+    "symbol": "GARF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

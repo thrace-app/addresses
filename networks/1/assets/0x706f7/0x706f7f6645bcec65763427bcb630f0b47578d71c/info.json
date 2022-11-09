@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x706f7f6645bcec65763427bcb630f0b47578d71c",
+  "displayName": "Poor Man's Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Poor Man's Coin",
+    "symbol": "POOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67ec16171de8d19bffad4b9a764bceedc202fb7b",
+  "displayName": "Listen Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Listen Coin",
+    "symbol": "LC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

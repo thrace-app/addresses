@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12da0356b15aac28a8266d82a23f12227870317b",
+  "displayName": "Uno Reward Pool",
+  "type": "TOKEN",
+  "token": {
+    "name": "Uno Reward Pool",
+    "symbol": "UNRP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

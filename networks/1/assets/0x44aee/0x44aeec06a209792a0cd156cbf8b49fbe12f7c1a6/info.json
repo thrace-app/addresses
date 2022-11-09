@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44aeec06a209792a0cd156cbf8b49fbe12f7c1a6",
+  "displayName": "Ethereum Stake",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Stake",
+    "symbol": "ETHYS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

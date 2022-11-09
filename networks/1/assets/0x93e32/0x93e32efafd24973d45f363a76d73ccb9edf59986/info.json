@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x93e32efafd24973d45f363a76d73ccb9edf59986",
+  "displayName": "Bitlocus Token (Wormhole)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitlocus Token (Wormhole)",
+    "symbol": "BTL",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

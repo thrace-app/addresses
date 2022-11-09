@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3d478c1405e5aae1a5ffb662ac701ed03a1fafe",
+  "displayName": "PumpExtraToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PumpExtraToken",
+    "symbol": "PET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

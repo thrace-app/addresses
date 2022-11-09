@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x965800dd9c5086d18e833caf92d600c9e25ebe12",
+  "displayName": "Remot Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Remot Token",
+    "symbol": "Rat",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62348a76c24a96293700ddb4faf5013db1f9a7a7",
+  "displayName": "Dust",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dust",
+    "symbol": "DUST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

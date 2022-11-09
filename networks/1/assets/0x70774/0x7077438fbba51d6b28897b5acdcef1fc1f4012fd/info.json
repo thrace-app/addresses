@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7077438fbba51d6b28897b5acdcef1fc1f4012fd",
+  "displayName": "Grey Dai",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grey Dai",
+    "symbol": "GDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

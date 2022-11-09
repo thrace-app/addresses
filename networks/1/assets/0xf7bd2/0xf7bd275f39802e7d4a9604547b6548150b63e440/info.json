@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7bd275f39802e7d4a9604547b6548150b63e440",
+  "displayName": "JAYZ token",
+  "type": "TOKEN",
+  "token": {
+    "name": "JAYZ token",
+    "symbol": "JAYZ",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

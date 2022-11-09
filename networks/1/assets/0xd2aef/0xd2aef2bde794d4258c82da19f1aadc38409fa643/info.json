@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2aef2bde794d4258c82da19f1aadc38409fa643",
+  "displayName": "SAF3R Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SAF3R Token",
+    "symbol": "SAF3R",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

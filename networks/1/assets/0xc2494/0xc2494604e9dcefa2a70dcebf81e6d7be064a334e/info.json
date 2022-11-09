@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc2494604e9dcefa2a70dcebf81e6d7be064a334e",
+  "displayName": "OpenWeb Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OpenWeb Token",
+    "symbol": "OWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x89fdddbde0f198db70e5a4be320eb84ca15c8cc8",
+  "displayName": "HoneyMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "HoneyMoon",
+    "symbol": "HOMO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

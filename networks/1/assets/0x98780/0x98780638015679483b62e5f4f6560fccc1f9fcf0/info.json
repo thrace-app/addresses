@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x98780638015679483b62e5f4f6560fccc1f9fcf0",
+  "displayName": "coinmine",
+  "type": "TOKEN",
+  "token": {
+    "name": "coinmine",
+    "symbol": "CMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

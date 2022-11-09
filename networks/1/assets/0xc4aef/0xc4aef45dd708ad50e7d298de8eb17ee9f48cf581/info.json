@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4aef45dd708ad50e7d298de8eb17ee9f48cf581",
+  "displayName": "Proof of Shiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Shiba",
+    "symbol": "PoS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

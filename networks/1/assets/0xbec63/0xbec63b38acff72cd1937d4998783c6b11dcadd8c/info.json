@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbec63b38acff72cd1937d4998783c6b11dcadd8c",
+  "displayName": "Jasper Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jasper Coin",
+    "symbol": "JAC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8b02f741f67a1ec41f3cb7acee6f49704de80a7c",
+  "displayName": "FED Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FED Coin",
+    "symbol": "FED",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

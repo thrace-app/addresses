@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d5c042d161f60117d6b86ed4f9606e3de4f59e9",
+  "displayName": "GCO2 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GCO2 Token",
+    "symbol": "GCO2",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

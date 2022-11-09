@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a4a0d5b8dfacd651ee28ed4ffebf91500345489",
+  "displayName": "BerryXToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BerryXToken",
+    "symbol": "BRX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

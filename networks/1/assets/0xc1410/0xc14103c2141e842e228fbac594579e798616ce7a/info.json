@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc14103c2141e842e228fbac594579e798616ce7a",
+  "displayName": "Synth sLTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "Synth sLTC",
+    "symbol": "sLTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

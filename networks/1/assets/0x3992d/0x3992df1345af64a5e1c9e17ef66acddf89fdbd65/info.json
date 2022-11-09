@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3992df1345af64a5e1c9e17ef66acddf89fdbd65",
+  "displayName": "Goldfish",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goldfish",
+    "symbol": "FISH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

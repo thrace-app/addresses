@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25c902e8e1ad274c8032d265352e909f0e5b7cd5",
+  "displayName": "Chicken Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chicken Finance",
+    "symbol": "KFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

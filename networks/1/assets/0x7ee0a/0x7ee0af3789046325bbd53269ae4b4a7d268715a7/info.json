@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ee0af3789046325bbd53269ae4b4a7d268715a7",
+  "displayName": "Luna Lock",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luna Lock",
+    "symbol": "LUNAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

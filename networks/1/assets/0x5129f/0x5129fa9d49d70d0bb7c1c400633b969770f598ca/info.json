@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5129fa9d49d70d0bb7c1c400633b969770f598ca",
+  "displayName": "Rick and Morty Ninja",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rick and Morty Ninja",
+    "symbol": "RMN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

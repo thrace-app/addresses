@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x671d131d72a0fecbd1a5ca9b024a5a150876ba70",
+  "displayName": "OurBloc Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OurBloc Governance Token",
+    "symbol": "OGT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

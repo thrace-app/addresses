@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x151d40b3929b2710115c9d6abec2dc0417a05c32",
+  "displayName": "Dingger Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dingger Token",
+    "symbol": "DINGGER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

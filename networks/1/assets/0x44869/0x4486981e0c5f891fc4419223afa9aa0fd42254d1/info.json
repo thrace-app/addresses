@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4486981e0c5f891fc4419223afa9aa0fd42254d1",
+  "displayName": "FoxGame",
+  "type": "TOKEN",
+  "token": {
+    "name": "FoxGame",
+    "symbol": "CROWN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

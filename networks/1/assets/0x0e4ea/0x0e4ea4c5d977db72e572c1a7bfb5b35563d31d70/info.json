@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0e4ea4c5d977db72e572c1a7bfb5b35563d31d70",
+  "displayName": "SalsaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SalsaToken",
+    "symbol": "SLST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

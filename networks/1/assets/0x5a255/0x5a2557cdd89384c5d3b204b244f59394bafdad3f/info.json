@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a2557cdd89384c5d3b204b244f59394bafdad3f",
+  "displayName": "Eternals Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Eternals Token",
+    "symbol": "ETN",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

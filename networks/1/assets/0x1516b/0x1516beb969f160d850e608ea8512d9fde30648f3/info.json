@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1516beb969f160d850e608ea8512d9fde30648f3",
+  "displayName": "Ping An Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ping An Coin",
+    "symbol": "PGAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

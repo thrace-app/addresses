@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4790499ab80769e8806d7a531dccd2caf10b9dba",
+  "displayName": "NXT",
+  "type": "TOKEN",
+  "token": {
+    "name": "NXT",
+    "symbol": "NXT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

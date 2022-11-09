@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4fc800dbd2aa2cc444b2a7bcc84095d65349eac7",
+  "displayName": "EminanceV1",
+  "type": "TOKEN",
+  "token": {
+    "name": "EminanceV1",
+    "symbol": "EMN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20ae831bae5ef0104a133173ce74a55d355bcb6d",
+  "displayName": "Perpetual Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Perpetual Protocol",
+    "symbol": "PERP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

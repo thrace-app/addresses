@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec0104e5b3b4d88e336fe2f956999af4ae46e743",
+  "displayName": "Etherify",
+  "type": "TOKEN",
+  "token": {
+    "name": "Etherify",
+    "symbol": "ETHFY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

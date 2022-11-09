@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6832ea221ebfdc2363729721a146e6745354b14",
+  "displayName": "FRMx Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FRMx Token",
+    "symbol": "FRMX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

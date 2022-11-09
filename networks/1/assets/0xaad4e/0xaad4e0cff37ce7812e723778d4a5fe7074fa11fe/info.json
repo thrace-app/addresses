@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaad4e0cff37ce7812e723778d4a5fe7074fa11fe",
+  "displayName": "Missyon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Missyon Token",
+    "symbol": "MISSYON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

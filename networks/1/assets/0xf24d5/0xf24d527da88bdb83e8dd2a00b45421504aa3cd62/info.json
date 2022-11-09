@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf24d527da88bdb83e8dd2a00b45421504aa3cd62",
+  "displayName": "beytoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "beytoken",
+    "symbol": "BEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

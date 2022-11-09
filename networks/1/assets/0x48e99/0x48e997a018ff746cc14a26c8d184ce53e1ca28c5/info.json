@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48e997a018ff746cc14a26c8d184ce53e1ca28c5",
+  "displayName": "Hard fork ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hard fork ethereum",
+    "symbol": "HFORKETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

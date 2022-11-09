@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x721fdf8c0fb7251c12ad65d7fb5b455c25344397",
+  "displayName": "Mondcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mondcoin",
+    "symbol": "MDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

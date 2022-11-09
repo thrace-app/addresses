@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27bed7ca2ffc3200a2db107e19090dc6d26d833a",
+  "displayName": "Fake Money Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fake Money Finance",
+    "symbol": "FAKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

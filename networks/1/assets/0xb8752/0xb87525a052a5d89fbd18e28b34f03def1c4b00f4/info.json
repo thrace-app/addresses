@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb87525a052a5d89fbd18e28b34f03def1c4b00f4",
+  "displayName": "Capital",
+  "type": "TOKEN",
+  "token": {
+    "name": "Capital",
+    "symbol": "CPL",
+    "decimals": 5,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e26ceb8a932114a95cfb682851b6e832f830062",
+  "displayName": "MoonGainToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MoonGainToken",
+    "symbol": "MoonGain",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

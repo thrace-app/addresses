@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44ae4526082db1d793564929f217bc311ed37329",
+  "displayName": "XDOG Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "XDOG Token",
+    "symbol": "XDOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

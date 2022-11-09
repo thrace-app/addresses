@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6f3009663470475f0749a6b76195375f95495fcb",
+  "displayName": "HatchDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "HatchDAO",
+    "symbol": "HATCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc82cd31facad9e71a9566cbea161a36dc531268",
+  "displayName": "StonedApeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "StonedApeToken",
+    "symbol": "STONEDAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

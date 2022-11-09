@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf43809d3cfe742d0830e14d3489b61cb6e30e0e9",
+  "displayName": "LooksCommon Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LooksCommon Token",
+    "symbol": "COMMON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2d7cb8f7070f176bb9d2b0e9a99513ac208fad65",
+  "displayName": "EthStaker",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthStaker",
+    "symbol": "ESTKR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xecc3114de29372d321cddde64aceb6c6c8921c19",
+  "displayName": "RealtyDao Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "RealtyDao Token",
+    "symbol": "RDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

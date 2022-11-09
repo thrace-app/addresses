@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x861c840d1cc29d90d84f6c18d1ee6ec372461055",
+  "displayName": "DerpDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "DerpDAO",
+    "symbol": "DERP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

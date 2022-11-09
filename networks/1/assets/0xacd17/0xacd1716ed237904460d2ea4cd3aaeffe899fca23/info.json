@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xacd1716ed237904460d2ea4cd3aaeffe899fca23",
+  "displayName": "BFCOIN TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BFCOIN TOKEN",
+    "symbol": "BFCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

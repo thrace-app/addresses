@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9d6dda4af48aed9e6e4b6997100942c14929566",
+  "displayName": "Bruh Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bruh Token",
+    "symbol": "Bruh",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

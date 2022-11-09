@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0238ef2dec28ce4f532ddd3b05a252f86b046550",
+  "displayName": "MiniWeeklyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MiniWeeklyToken",
+    "symbol": "MWT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

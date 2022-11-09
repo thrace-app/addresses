@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1b0eb0b5face3e5b036a6b0d605951bcd664018",
+  "displayName": "Farmit",
+  "type": "TOKEN",
+  "token": {
+    "name": "Farmit",
+    "symbol": "FIM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

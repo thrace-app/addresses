@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb55de3592f78606dbd2c0bb1c6fb0383f3d93da",
+  "displayName": "EtherBits",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherBits",
+    "symbol": "BITS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85f4b678696e0924ff72c030799beea9f00d62f7",
+  "displayName": "Financial Advice",
+  "type": "TOKEN",
+  "token": {
+    "name": "Financial Advice",
+    "symbol": "FA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

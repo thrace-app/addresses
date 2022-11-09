@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf122329e74de35d265d468ecd7e56edddc55663f",
+  "displayName": "NBU Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NBU Token",
+    "symbol": "NBU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

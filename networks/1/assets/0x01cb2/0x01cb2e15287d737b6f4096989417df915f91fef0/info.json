@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01cb2e15287d737b6f4096989417df915f91fef0",
+  "displayName": "CryptoGram",
+  "type": "TOKEN",
+  "token": {
+    "name": "CryptoGram",
+    "symbol": "$GRAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

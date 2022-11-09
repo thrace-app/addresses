@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd313715be0402e2c8960d0ac4b2b2ff578015900",
+  "displayName": "Aokiji Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aokiji Token",
+    "symbol": "AOKIJI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

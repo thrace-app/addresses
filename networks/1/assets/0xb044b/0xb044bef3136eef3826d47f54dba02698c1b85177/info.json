@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb044bef3136eef3826d47f54dba02698c1b85177",
+  "displayName": "BigMcDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "BigMcDao",
+    "symbol": "BIGMAC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

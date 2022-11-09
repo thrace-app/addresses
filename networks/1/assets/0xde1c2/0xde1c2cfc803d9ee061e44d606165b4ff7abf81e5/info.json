@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde1c2cfc803d9ee061e44d606165b4ff7abf81e5",
+  "displayName": "Shekels",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shekels",
+    "symbol": "SHEKELS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

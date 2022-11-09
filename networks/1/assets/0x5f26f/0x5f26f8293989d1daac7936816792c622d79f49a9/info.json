@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f26f8293989d1daac7936816792c622d79f49a9",
+  "displayName": "Mockingbird",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mockingbird",
+    "symbol": "MOCK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01ce398a2a59d164f366762ee70c596de06e9482",
+  "displayName": "UnFederalReserveToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "UnFederalReserveToken",
+    "symbol": "eRSDL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

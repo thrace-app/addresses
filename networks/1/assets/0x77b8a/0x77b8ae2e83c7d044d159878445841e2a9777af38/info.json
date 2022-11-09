@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x77b8ae2e83c7d044d159878445841e2a9777af38",
+  "displayName": "WhiteSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "WhiteSwap",
+    "symbol": "WSE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

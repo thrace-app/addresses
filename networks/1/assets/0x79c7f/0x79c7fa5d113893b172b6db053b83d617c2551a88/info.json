@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79c7fa5d113893b172b6db053b83d617c2551a88",
+  "displayName": "NFT DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT DAO",
+    "symbol": "NFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

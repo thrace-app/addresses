@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8aa45208ddb85a5978587fc1708f9bf6fd168527",
+  "displayName": "SYB Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "SYB Coin",
+    "symbol": "SYBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

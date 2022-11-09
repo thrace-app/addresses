@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x712ce0de2401e632d75e307ed8325774daaa3c51",
+  "displayName": "DAImond",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAImond",
+    "symbol": "DAImond",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

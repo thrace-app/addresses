@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb04daf62438005455c748bfc6994079352632b6c",
+  "displayName": "Roocoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Roocoin",
+    "symbol": "ROO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5eb67b92f044522425ae2c4c22faee9815b460c1",
+  "displayName": "Funky Chicken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Funky Chicken",
+    "symbol": "FUNKY",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

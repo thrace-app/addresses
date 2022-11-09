@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x395dc9a82e3eef962b0355a3d4e6819e9af776d2",
+  "displayName": "CoinCasso Exchange Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoinCasso Exchange Token",
+    "symbol": "CCX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

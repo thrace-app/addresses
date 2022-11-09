@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x182f4c4c97cd1c24e1df8fc4c053e5c47bf53bef",
+  "displayName": "keyTango Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "keyTango Token",
+    "symbol": "TANGO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

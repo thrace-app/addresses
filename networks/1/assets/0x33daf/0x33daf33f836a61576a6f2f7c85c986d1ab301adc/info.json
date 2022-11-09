@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33daf33f836a61576a6f2f7c85c986d1ab301adc",
+  "displayName": "ArtFinity",
+  "type": "TOKEN",
+  "token": {
+    "name": "ArtFinity",
+    "symbol": "AT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

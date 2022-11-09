@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x090f572496ce30a4ffc62a0a9f2a7540f2a997b5",
+  "displayName": "BlahToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BlahToken",
+    "symbol": "BLAH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

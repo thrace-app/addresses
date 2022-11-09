@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x910ae5fef5fab9d9941b0cb501b20cc8c39d467c",
+  "displayName": "FrogNation",
+  "type": "TOKEN",
+  "token": {
+    "name": "FrogNation",
+    "symbol": "FROG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

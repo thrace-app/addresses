@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb9462b09c2c4716db679a67671f1e08395e6f0c",
+  "displayName": "One Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "One Doge",
+    "symbol": "ODOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

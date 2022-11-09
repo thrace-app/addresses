@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbdbc2a5b32f3a5141acd18c39883066e4dab9774",
+  "displayName": "Emirex Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Emirex Token",
+    "symbol": "EMRX",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

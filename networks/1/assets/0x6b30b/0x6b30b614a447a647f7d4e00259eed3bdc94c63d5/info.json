@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6b30b614a447a647f7d4e00259eed3bdc94c63d5",
+  "displayName": "YFP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YFP Token",
+    "symbol": "YFP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

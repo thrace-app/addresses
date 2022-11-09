@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0077bcb9899312e8d9c04e531e245f748f05db0d",
+  "displayName": "Who Wants To Be A Millionaire",
+  "type": "TOKEN",
+  "token": {
+    "name": "Who Wants To Be A Millionaire",
+    "symbol": "$Millionaire",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

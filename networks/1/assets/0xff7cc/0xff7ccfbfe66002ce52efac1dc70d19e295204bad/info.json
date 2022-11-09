@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff7ccfbfe66002ce52efac1dc70d19e295204bad",
+  "displayName": "ECMToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ECMToken",
+    "symbol": "ECM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

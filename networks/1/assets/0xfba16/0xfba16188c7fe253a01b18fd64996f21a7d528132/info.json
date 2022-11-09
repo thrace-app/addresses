@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfba16188c7fe253a01b18fd64996f21a7d528132",
+  "displayName": "wrapped xshiba",
+  "type": "TOKEN",
+  "token": {
+    "name": "wrapped xshiba",
+    "symbol": "wXSHB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

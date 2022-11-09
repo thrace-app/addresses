@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8a69e2fb6d8b2c07d9449bbcd0740072f900eaf3",
+  "displayName": "Bumblebee token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bumblebee token",
+    "symbol": "Bumblebee",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

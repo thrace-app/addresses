@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd67b1db49801b6f4c96a01a4f7964233150dc58b",
+  "displayName": "KaratBank Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KaratBank Coin",
+    "symbol": "KBC",
+    "decimals": 7,
+    "type": "ERC20"
+  }
+}

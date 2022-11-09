@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x28858a2d64503f79d822e9413348b721c8baa60b",
+  "displayName": "Tornado Tots Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tornado Tots Token",
+    "symbol": "TOTS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x689d6ec061a3ea9733c6ae349ee931d332645263",
+  "displayName": "Dogface AMMO token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dogface AMMO token",
+    "symbol": "$AMMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

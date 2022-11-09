@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06ee5a52aaa96074e9a6feaecd9fce6809d9ae39",
+  "displayName": "Gossip Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Gossip Token",
+    "symbol": "GOSS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

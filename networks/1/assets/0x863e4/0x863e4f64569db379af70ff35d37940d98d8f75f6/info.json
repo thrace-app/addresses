@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x863e4f64569db379af70ff35d37940d98d8f75f6",
+  "displayName": "bullrunBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "bullrunBTC",
+    "symbol": "brBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

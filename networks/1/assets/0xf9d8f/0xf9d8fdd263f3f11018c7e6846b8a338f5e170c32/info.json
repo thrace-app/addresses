@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf9d8fdd263f3f11018c7e6846b8a338f5e170c32",
+  "displayName": "WFC TEST",
+  "type": "TOKEN",
+  "token": {
+    "name": "WFC TEST",
+    "symbol": "WFCTEST",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

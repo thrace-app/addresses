@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9257fb8fab616867cee67c3289547403617b1938",
+  "displayName": "Beverage Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Beverage Token",
+    "symbol": "DRINK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

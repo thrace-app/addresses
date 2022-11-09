@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef7449d1210e4c1091d186741804e2f6a9ebe2e0",
+  "displayName": "Max Buy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Max Buy Token",
+    "symbol": "MAXBUY",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

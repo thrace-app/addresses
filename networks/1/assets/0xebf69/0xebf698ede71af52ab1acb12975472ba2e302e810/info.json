@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xebf698ede71af52ab1acb12975472ba2e302e810",
+  "displayName": "FerrariToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FerrariToken",
+    "symbol": "Ferrari",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

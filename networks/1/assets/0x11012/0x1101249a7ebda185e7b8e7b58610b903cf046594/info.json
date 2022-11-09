@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1101249a7ebda185e7b8e7b58610b903cf046594",
+  "displayName": "BitLite",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitLite",
+    "symbol": "BIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

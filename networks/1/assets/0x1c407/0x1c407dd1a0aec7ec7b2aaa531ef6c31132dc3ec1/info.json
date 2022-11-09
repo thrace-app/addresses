@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c407dd1a0aec7ec7b2aaa531ef6c31132dc3ec1",
+  "displayName": "Husky Money Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Husky Money Token",
+    "symbol": "HMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

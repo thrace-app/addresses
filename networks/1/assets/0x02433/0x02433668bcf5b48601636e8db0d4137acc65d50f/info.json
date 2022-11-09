@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02433668bcf5b48601636e8db0d4137acc65d50f",
+  "displayName": "Bank of Spiral",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of Spiral",
+    "symbol": "SPIRALBANK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0198f46f520f33cd4329bd4be380a25a90536cd5",
+  "displayName": "PlayChip",
+  "type": "TOKEN",
+  "token": {
+    "name": "PlayChip",
+    "symbol": "PLA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

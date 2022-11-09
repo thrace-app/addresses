@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8177a3fa04758a10f9f71760277ca0cb7806f139",
+  "displayName": "Plutonium",
+  "type": "TOKEN",
+  "token": {
+    "name": "Plutonium",
+    "symbol": "PLUTONIUM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

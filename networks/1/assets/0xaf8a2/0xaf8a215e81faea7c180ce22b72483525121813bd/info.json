@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaf8a215e81faea7c180ce22b72483525121813bd",
+  "displayName": "Engine Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Engine Token",
+    "symbol": "EGCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

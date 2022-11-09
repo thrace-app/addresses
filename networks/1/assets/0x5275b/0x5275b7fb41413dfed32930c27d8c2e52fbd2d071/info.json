@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5275b7fb41413dfed32930c27d8c2e52fbd2d071",
+  "displayName": "DEPPCOIN",
+  "type": "TOKEN",
+  "token": {
+    "name": "DEPPCOIN",
+    "symbol": "$DEPP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

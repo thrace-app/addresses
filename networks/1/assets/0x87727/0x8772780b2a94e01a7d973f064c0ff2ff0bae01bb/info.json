@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8772780b2a94e01a7d973f064c0ff2ff0bae01bb",
+  "displayName": "GOG",
+  "type": "TOKEN",
+  "token": {
+    "name": "GOG",
+    "symbol": "GOG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

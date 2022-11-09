@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x412e5a36bde71aa2c38e1c0e26baaf7f2f0bc24a",
+  "displayName": "PUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "PUSD",
+    "symbol": "PUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

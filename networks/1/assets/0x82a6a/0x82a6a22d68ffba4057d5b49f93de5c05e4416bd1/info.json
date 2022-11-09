@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82a6a22d68ffba4057d5b49f93de5c05e4416bd1",
+  "displayName": "Ming Wen Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ming Wen Token",
+    "symbol": "MWT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

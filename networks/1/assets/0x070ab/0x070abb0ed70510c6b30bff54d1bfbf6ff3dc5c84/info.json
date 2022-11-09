@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x070abb0ed70510c6b30bff54d1bfbf6ff3dc5c84",
+  "displayName": "The Long Spoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Long Spoon",
+    "symbol": "LONGSPOON",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

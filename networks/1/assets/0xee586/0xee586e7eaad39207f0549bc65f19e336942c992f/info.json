@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee586e7eaad39207f0549bc65f19e336942c992f",
+  "displayName": "Celo Euro (Wormhole)",
+  "type": "TOKEN",
+  "token": {
+    "name": "Celo Euro (Wormhole)",
+    "symbol": "cEUR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

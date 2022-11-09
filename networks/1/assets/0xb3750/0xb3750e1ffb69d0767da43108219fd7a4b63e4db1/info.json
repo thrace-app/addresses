@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3750e1ffb69d0767da43108219fd7a4b63e4db1",
+  "displayName": "BIT",
+  "type": "TOKEN",
+  "token": {
+    "name": "BIT",
+    "symbol": "BIT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

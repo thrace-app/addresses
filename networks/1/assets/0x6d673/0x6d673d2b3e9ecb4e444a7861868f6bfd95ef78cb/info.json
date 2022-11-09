@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6d673d2b3e9ecb4e444a7861868f6bfd95ef78cb",
+  "displayName": "Early Duck",
+  "type": "TOKEN",
+  "token": {
+    "name": "Early Duck",
+    "symbol": "EarlyDuck",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

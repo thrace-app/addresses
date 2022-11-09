@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2bcc12927583a234062555cd184f0c9e06dfb285",
+  "displayName": "Goldman Sachs Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goldman Sachs Bank",
+    "symbol": "GSB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

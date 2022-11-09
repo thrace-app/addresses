@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x26706466dab2198db52082cbc235e2280527aadd",
+  "displayName": "Fantom Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fantom Doge",
+    "symbol": "FTMD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

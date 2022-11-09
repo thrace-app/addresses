@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35abab3dbfd1c1b75994db57575be234d9cd545f",
+  "displayName": "Kittr Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kittr Token",
+    "symbol": "KITTR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

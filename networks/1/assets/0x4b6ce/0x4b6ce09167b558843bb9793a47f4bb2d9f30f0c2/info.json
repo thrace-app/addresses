@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b6ce09167b558843bb9793a47f4bb2d9f30f0c2",
+  "displayName": "bluecoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "bluecoin",
+    "symbol": "BC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

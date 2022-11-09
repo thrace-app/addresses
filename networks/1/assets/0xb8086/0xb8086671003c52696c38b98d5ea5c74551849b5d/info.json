@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8086671003c52696c38b98d5ea5c74551849b5d",
+  "displayName": "SafeTradeToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafeTradeToken",
+    "symbol": "STT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0164a6ea6b07aef0c0228eb8eb1cea0f1f2336fb",
+  "displayName": "DeSwap Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeSwap Coin",
+    "symbol": "DSC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

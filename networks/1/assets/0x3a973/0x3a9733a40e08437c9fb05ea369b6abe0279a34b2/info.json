@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a9733a40e08437c9fb05ea369b6abe0279a34b2",
+  "displayName": "fwd",
+  "type": "TOKEN",
+  "token": {
+    "name": "fwd",
+    "symbol": "fwd",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x30f9d38ecae1b069aade1746b66836cefb6b473f",
+  "displayName": "LinkDao",
+  "type": "TOKEN",
+  "token": {
+    "name": "LinkDao",
+    "symbol": "DLINK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

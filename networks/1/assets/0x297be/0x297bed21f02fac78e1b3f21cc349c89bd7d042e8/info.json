@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x297bed21f02fac78e1b3f21cc349c89bd7d042e8",
+  "displayName": "Titter",
+  "type": "TOKEN",
+  "token": {
+    "name": "Titter",
+    "symbol": "Titter",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e19da8b004ea8072a631078971589ded9023bfa",
+  "displayName": "Prometheus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Prometheus",
+    "symbol": "FIRE",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

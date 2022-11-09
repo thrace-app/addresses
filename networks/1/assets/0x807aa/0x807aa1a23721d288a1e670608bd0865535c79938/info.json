@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x807aa1a23721d288a1e670608bd0865535c79938",
+  "displayName": "Fergus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fergus",
+    "symbol": "FRG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

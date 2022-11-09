@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4d7eec3091ca165af7507edaf441cbfd6ca227c3",
+  "displayName": "LiftToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "LiftToken",
+    "symbol": "LIFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

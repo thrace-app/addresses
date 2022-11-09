@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc",
+  "displayName": "MT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "MT Token",
+    "symbol": "MT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

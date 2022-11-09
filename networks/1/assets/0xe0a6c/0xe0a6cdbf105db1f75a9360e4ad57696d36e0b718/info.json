@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe0a6cdbf105db1f75a9360e4ad57696d36e0b718",
+  "displayName": "YuGiMoon",
+  "type": "TOKEN",
+  "token": {
+    "name": "YuGiMoon",
+    "symbol": "YUGIMOON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

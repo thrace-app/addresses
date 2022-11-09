@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8f2a849554b7419b40f68c83f59040d9e2a38242",
+  "displayName": "Zappt Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zappt Token",
+    "symbol": "ZAPPT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0e047de606d9692108f20862babc47c255c81db",
+  "displayName": "Flokiverse Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Flokiverse Token",
+    "symbol": "LOKIV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1b60ad854aab1cb2d2e27c0aa5d22708bdef224b",
+  "displayName": "yield.app",
+  "type": "TOKEN",
+  "token": {
+    "name": "yield.app",
+    "symbol": "YLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

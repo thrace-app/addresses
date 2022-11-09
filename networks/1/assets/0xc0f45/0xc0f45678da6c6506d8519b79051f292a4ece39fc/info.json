@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0f45678da6c6506d8519b79051f292a4ece39fc",
+  "displayName": "A Hunters Cake",
+  "type": "TOKEN",
+  "token": {
+    "name": "A Hunters Cake",
+    "symbol": "MOONCAKE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

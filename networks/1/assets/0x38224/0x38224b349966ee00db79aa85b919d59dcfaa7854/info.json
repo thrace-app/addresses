@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x38224b349966ee00db79aa85b919d59dcfaa7854",
+  "displayName": "Fungible Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fungible Inu",
+    "symbol": "FINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

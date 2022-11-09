@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4b6cb32df50467f26c3f365e55403673111d5fba",
+  "displayName": "Brenda Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Brenda Token",
+    "symbol": "BRENDA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

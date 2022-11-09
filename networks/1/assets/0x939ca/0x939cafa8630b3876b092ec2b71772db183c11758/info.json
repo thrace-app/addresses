@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x939cafa8630b3876b092ec2b71772db183c11758",
+  "displayName": "DeFiBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiBurn",
+    "symbol": "DFB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

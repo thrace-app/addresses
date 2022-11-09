@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7f962bbd15b918f3d5c568817038b9bd69c7949",
+  "displayName": "AntiSupply Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AntiSupply Token",
+    "symbol": "ASPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc9c33da5a6ac1280f33ef02e8a7c009d80e1c09",
+  "displayName": "UFO Doge Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UFO Doge Token",
+    "symbol": "UFODOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

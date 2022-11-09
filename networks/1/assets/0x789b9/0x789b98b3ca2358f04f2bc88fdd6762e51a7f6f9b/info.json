@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x789b98b3ca2358f04f2bc88fdd6762e51a7f6f9b",
+  "displayName": "Meta Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Meta Inu",
+    "symbol": "METAINU",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

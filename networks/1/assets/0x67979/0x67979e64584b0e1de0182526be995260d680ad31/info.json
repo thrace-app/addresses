@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x67979e64584b0e1de0182526be995260d680ad31",
+  "displayName": "DAO Turtles",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAO Turtles",
+    "symbol": "DAOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

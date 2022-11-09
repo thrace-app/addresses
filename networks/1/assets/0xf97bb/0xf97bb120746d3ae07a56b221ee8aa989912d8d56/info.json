@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf97bb120746d3ae07a56b221ee8aa989912d8d56",
+  "displayName": "Sagacoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sagacoin",
+    "symbol": "SAGA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x39002890ccf43f59878c214d977523025f50a2a6",
+  "displayName": "Wrapped Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Inu",
+    "symbol": "WINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

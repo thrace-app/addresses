@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6122935402dddea4d008374280b9587c9acd19dd",
+  "displayName": "Obamacoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Obamacoin",
+    "symbol": "OBM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

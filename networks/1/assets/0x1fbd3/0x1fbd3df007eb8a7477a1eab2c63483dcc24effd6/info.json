@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fbd3df007eb8a7477a1eab2c63483dcc24effd6",
+  "displayName": "ScaleSwapToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "ScaleSwapToken",
+    "symbol": "SCA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

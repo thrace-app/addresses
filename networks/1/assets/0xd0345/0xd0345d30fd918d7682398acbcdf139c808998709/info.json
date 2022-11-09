@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd0345d30fd918d7682398acbcdf139c808998709",
+  "displayName": "Lixir Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lixir Token",
+    "symbol": "LIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

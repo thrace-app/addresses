@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xda6e1225a0241c0fdc2e912bd76d70056bc8ac72",
+  "displayName": "FroyoKittens",
+  "type": "TOKEN",
+  "token": {
+    "name": "FroyoKittens",
+    "symbol": "FROYO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

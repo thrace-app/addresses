@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe81bee953c2956e31781ce21ade2924b80be625b",
+  "displayName": "Wolfy Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wolfy Token",
+    "symbol": "WOLFY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

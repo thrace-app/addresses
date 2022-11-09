@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x33b71453586745313514553d9206a35a71ccf242",
+  "displayName": "Cobra",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cobra",
+    "symbol": "COBRA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

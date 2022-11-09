@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ca3ffe6853f477ea1f74dccc5a188237f145c10",
+  "displayName": "PROOF OF USDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "PROOF OF USDC",
+    "symbol": "USDC2.0",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

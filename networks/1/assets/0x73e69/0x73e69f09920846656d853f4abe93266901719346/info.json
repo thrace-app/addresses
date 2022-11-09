@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73e69f09920846656d853f4abe93266901719346",
+  "displayName": "PeWProtocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "PeWProtocol",
+    "symbol": "PEW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

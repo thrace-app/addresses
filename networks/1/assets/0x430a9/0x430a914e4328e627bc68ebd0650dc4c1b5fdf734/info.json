@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x430a914e4328e627bc68ebd0650dc4c1b5fdf734",
+  "displayName": "Bad Dog",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bad Dog",
+    "symbol": "GROWL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

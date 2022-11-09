@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2a22e8982fc3e3dfdfeb6124baf19a5de9438cb6",
+  "displayName": "Matia Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Matia Token",
+    "symbol": "Matia",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

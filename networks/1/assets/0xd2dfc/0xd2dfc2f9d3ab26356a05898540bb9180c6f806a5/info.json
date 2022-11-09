@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2dfc2f9d3ab26356a05898540bb9180c6f806a5",
+  "displayName": "BIFcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "BIFcoin",
+    "symbol": "BIFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

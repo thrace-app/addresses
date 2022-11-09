@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3a8d8d66516782a1474a7bbb8fcbd58997939051",
+  "displayName": "Reservoir Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Reservoir Doge",
+    "symbol": "RESDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

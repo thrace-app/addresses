@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25456ad3d45863cecf7039b7628eb8fc913346ad",
+  "displayName": "Luna Recovery Fund",
+  "type": "TOKEN",
+  "token": {
+    "name": "Luna Recovery Fund",
+    "symbol": "LUNRR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

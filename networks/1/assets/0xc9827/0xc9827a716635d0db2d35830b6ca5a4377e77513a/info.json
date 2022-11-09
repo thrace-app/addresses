@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc9827a716635d0db2d35830b6ca5a4377e77513a",
+  "displayName": "BarnBridge Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BarnBridge Governance Token",
+    "symbol": "BOND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

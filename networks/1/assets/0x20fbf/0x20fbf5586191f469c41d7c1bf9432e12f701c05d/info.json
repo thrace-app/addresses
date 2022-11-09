@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x20fbf5586191f469c41d7c1bf9432e12f701c05d",
+  "displayName": "INSTA token",
+  "type": "TOKEN",
+  "token": {
+    "name": "INSTA token",
+    "symbol": "INSTA",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

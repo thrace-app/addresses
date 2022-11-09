@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65abc1eca66ae5f3633b5df6bdbf0db0afc97c40",
+  "displayName": "Utility TENS",
+  "type": "TOKEN",
+  "token": {
+    "name": "Utility TENS",
+    "symbol": "uTENS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xba7e00370c7aabf475d6404948ab40a2dde9b565",
+  "displayName": "Safe Alpha",
+  "type": "TOKEN",
+  "token": {
+    "name": "Safe Alpha",
+    "symbol": "Alpha",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

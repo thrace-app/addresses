@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe85c8581e60d7cd32bbfd86303d2a4fa6a951dac",
+  "displayName": "FARM_DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "FARM_DAI",
+    "symbol": "fDAI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

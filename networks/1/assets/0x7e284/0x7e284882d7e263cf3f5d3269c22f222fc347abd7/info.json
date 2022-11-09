@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7e284882d7e263cf3f5d3269c22f222fc347abd7",
+  "displayName": "StonedApeCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "StonedApeCoin",
+    "symbol": "SAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

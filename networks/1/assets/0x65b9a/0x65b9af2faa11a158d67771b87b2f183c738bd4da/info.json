@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x65b9af2faa11a158d67771b87b2f183c738bd4da",
+  "displayName": "Udacap Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "Udacap Protocol",
+    "symbol": "UDC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

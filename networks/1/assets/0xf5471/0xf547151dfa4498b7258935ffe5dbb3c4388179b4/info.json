@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf547151dfa4498b7258935ffe5dbb3c4388179b4",
+  "displayName": "acquireETHER",
+  "type": "TOKEN",
+  "token": {
+    "name": "acquireETHER",
+    "symbol": "aETHER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

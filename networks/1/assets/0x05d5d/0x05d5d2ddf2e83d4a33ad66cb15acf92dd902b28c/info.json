@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05d5d2ddf2e83d4a33ad66cb15acf92dd902b28c",
+  "displayName": "FairTrade",
+  "type": "TOKEN",
+  "token": {
+    "name": "FairTrade",
+    "symbol": "FATR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

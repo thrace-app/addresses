@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25031b857cbfba6fc79c0cc030d1f02ec59bc7bf",
+  "displayName": "Blue cat",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blue cat",
+    "symbol": "GTD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

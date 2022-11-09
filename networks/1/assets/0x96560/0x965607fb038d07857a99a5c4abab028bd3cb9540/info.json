@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x965607fb038d07857a99a5c4abab028bd3cb9540",
+  "displayName": "Goofy Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Goofy Inu",
+    "symbol": "GOOF",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

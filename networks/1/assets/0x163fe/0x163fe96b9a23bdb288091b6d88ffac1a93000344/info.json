@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x163fe96b9a23bdb288091b6d88ffac1a93000344",
+  "displayName": "Tortilla",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tortilla",
+    "symbol": "BURRITO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

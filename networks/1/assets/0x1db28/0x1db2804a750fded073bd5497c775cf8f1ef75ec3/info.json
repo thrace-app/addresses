@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1db2804a750fded073bd5497c775cf8f1ef75ec3",
+  "displayName": "Concert Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Concert Coin",
+    "symbol": "STAGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

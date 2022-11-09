@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x97edb94eb468a2303b39aca682483b6586f46a1c",
+  "displayName": "WoopaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "WoopaCoin",
+    "symbol": "WPC",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

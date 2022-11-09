@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ca1dd2a969a97f08f11edfb28f3b569697eb87c",
+  "displayName": "Hallo Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hallo Inu",
+    "symbol": "HALLO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

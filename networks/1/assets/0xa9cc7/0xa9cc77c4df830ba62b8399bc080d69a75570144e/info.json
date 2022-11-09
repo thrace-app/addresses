@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa9cc77c4df830ba62b8399bc080d69a75570144e",
+  "displayName": "MartiniToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "MartiniToken",
+    "symbol": "MTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

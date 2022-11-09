@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb296314a83dc007d9baa7c93b49333a3c7fcc72d",
+  "displayName": "Bitcoin Satoshi Nakamoto",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Satoshi Nakamoto",
+    "symbol": "BTCsn",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

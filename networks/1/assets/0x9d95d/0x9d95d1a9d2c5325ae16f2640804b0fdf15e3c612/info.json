@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d95d1a9d2c5325ae16f2640804b0fdf15e3c612",
+  "displayName": "Grimace Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grimace Coin",
+    "symbol": "GRIM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

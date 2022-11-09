@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x634a7272021ac2d42586dcc00187d82c6f34f110",
+  "displayName": "Aworld Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Aworld Token",
+    "symbol": "AWO",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

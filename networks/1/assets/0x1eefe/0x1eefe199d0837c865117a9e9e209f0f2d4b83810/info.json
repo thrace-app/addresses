@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1eefe199d0837c865117a9e9e209f0f2d4b83810",
+  "displayName": "DemoToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "DemoToken",
+    "symbol": "DTT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

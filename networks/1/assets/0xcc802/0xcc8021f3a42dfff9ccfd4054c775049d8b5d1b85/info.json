@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcc8021f3a42dfff9ccfd4054c775049d8b5d1b85",
+  "displayName": "Shethcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shethcoin",
+    "symbol": "SHETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c17398ebbcb15078f2ad2c67a26d10623957b21",
+  "displayName": "SONTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "SONTOKEN",
+    "symbol": "SON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

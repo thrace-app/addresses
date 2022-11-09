@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db",
+  "displayName": "AppCoins",
+  "type": "TOKEN",
+  "token": {
+    "name": "AppCoins",
+    "symbol": "APPC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

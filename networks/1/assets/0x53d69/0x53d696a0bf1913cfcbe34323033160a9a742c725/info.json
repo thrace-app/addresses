@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x53d696a0bf1913cfcbe34323033160a9a742c725",
+  "displayName": "BankEth",
+  "type": "TOKEN",
+  "token": {
+    "name": "BankEth",
+    "symbol": "BANKETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

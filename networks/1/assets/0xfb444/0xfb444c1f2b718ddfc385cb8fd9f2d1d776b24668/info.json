@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb444c1f2b718ddfc385cb8fd9f2d1d776b24668",
+  "displayName": "ELA Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ELA Coin",
+    "symbol": "ELAMA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

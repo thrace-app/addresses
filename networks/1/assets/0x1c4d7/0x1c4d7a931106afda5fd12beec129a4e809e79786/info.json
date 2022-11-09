@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1c4d7a931106afda5fd12beec129a4e809e79786",
+  "displayName": "Sumo.finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sumo.finance Token",
+    "symbol": "SUFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

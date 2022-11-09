@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11ae9d2a3a4dd5041138447be79767da63cb435d",
+  "displayName": "GhalaCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GhalaCoin",
+    "symbol": "GHALA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

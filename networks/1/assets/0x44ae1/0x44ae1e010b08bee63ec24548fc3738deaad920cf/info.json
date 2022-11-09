@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44ae1e010b08bee63ec24548fc3738deaad920cf",
+  "displayName": "Ivan on Tech Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ivan on Tech Token",
+    "symbol": "IOTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

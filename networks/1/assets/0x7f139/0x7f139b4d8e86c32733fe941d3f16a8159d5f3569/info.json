@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7f139b4d8e86c32733fe941d3f16a8159d5f3569",
+  "displayName": "PolkaYield",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkaYield",
+    "symbol": "YDOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

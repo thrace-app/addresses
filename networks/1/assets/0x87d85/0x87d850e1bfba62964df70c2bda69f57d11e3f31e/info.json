@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87d850e1bfba62964df70c2bda69f57d11e3f31e",
+  "displayName": "D3ax Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "D3ax Token",
+    "symbol": "D3ax",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

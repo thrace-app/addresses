@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81c55017f7ce6e72451ced49ff7bab1e3df64d0c",
+  "displayName": "BTC Min Volatility Set",
+  "type": "TOKEN",
+  "token": {
+    "name": "BTC Min Volatility Set",
+    "symbol": "BTCMINVOL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

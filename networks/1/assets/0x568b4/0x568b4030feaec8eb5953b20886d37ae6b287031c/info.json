@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x568b4030feaec8eb5953b20886d37ae6b287031c",
+  "displayName": "PENTS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PENTS Token",
+    "symbol": "PENTS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

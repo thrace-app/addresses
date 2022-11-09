@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc81155c4b28f28c3f8683704552da665cb6a684e",
+  "displayName": "RiskBTC",
+  "type": "TOKEN",
+  "token": {
+    "name": "RiskBTC",
+    "symbol": "RiskBTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2439c0549f1616dab533c8af5d42a77331173b3a",
+  "displayName": "Kappi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kappi Token",
+    "symbol": "KAPP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d4329d0d658ac8852e28625ca12d3bcf2e88115",
+  "displayName": "Sky Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sky Doge",
+    "symbol": "SOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

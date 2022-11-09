@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd6f7db7db116170ecb1c3b35f12c1e693ba70586",
+  "displayName": "Ether Cards",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether Cards",
+    "symbol": "CARD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

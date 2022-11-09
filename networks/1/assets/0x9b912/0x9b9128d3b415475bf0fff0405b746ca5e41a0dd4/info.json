@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b9128d3b415475bf0fff0405b746ca5e41a0dd4",
+  "displayName": "Wrapped Nickel",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Nickel",
+    "symbol": "NICKEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

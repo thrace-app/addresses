@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5363e6a82be79b3a612ed731698f07a19380f3df",
+  "displayName": "Kitty Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kitty Inu",
+    "symbol": "Kinu",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

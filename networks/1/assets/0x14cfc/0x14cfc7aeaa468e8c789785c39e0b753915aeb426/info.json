@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14cfc7aeaa468e8c789785c39e0b753915aeb426",
+  "displayName": "FrogDAO Dime",
+  "type": "TOKEN",
+  "token": {
+    "name": "FrogDAO Dime",
+    "symbol": "$FDD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

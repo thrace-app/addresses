@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2188f88b1bede8bc4d391a0b4a1bd78d9fb963a6",
+  "displayName": "Stripe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stripe",
+    "symbol": "Stripe",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

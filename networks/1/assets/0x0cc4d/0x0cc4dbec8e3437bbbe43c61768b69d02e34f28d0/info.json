@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0cc4dbec8e3437bbbe43c61768b69d02e34f28d0",
+  "displayName": "SeedPump Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SeedPump Token",
+    "symbol": "SEED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

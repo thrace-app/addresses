@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3f64f0775de4379c204141755baed5c68e54cd64",
+  "displayName": "EGOD Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EGOD Token",
+    "symbol": "EGOD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

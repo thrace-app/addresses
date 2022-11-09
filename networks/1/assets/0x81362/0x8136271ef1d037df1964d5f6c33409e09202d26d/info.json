@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8136271ef1d037df1964d5f6c33409e09202d26d",
+  "displayName": "Digital Euro",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digital Euro",
+    "symbol": "EURO",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

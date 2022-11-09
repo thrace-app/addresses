@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb7522550278ad8dc4749e6a13acd07ae645019a4",
+  "displayName": "VIXFinance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "VIXFinance Token",
+    "symbol": "VIX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

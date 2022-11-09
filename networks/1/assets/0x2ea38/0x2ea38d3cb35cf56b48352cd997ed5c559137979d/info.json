@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ea38d3cb35cf56b48352cd997ed5c559137979d",
+  "displayName": "Ethereum Master",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Master",
+    "symbol": "ETHM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x11aa38bb65309cd3539e506e5183d33059119cd2",
+  "displayName": "OTS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "OTS Token",
+    "symbol": "OTS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

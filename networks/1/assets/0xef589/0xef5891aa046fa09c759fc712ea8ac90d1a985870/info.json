@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xef5891aa046fa09c759fc712ea8ac90d1a985870",
+  "displayName": "SPAM Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SPAM Token",
+    "symbol": "SPAM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

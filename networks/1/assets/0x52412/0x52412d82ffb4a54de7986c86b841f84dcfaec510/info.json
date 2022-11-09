@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x52412d82ffb4a54de7986c86b841f84dcfaec510",
+  "displayName": "Launcao Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Launcao Token",
+    "symbol": "$LAUNCAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

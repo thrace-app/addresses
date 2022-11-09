@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x14da230d6726c50f759bc1838717f8ce6373509c",
+  "displayName": "Kambria Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kambria Token",
+    "symbol": "KAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

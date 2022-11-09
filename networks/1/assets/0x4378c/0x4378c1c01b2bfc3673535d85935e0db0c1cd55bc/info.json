@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4378c1c01b2bfc3673535d85935e0db0c1cd55bc",
+  "displayName": "Skrill DOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "Skrill DOGE",
+    "symbol": "$SDOGE",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

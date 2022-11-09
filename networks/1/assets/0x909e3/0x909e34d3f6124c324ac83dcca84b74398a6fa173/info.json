@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x909e34d3f6124c324ac83dcca84b74398a6fa173",
+  "displayName": "$ZKP Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "$ZKP Token",
+    "symbol": "$ZKP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

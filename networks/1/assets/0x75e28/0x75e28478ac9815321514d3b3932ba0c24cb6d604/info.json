@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x75e28478ac9815321514d3b3932ba0c24cb6d604",
+  "displayName": "eBay Token (Official)",
+  "type": "TOKEN",
+  "token": {
+    "name": "eBay Token (Official)",
+    "symbol": "EBAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0dd290931d70a37cce61d43754eb115f004c5b4e",
+  "displayName": "Tagawari Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tagawari Token",
+    "symbol": "TAGAWARI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xca5d29b3e74d59ebcdf09111495d86f319886a40",
+  "displayName": "WheyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "WheyToken",
+    "symbol": "WHEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

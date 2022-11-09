@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b0fdf2f06945928a6571216f1993a698e005fd2",
+  "displayName": "Abelian Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Abelian Coin",
+    "symbol": "ABE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4f4fd359e36b831a989986385d127f11124ce0a",
+  "displayName": "DerpyToshi",
+  "type": "TOKEN",
+  "token": {
+    "name": "DerpyToshi",
+    "symbol": "DERPY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

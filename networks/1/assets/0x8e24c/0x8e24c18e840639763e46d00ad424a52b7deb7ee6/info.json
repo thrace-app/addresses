@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8e24c18e840639763e46d00ad424a52b7deb7ee6",
+  "displayName": "KEEP3RCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KEEP3RCoin",
+    "symbol": "KEEP3R",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

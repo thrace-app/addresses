@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbee4eec7b37e4ae9da91ec0b900048fb0079a95e",
+  "displayName": "BETH Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "BETH Token",
+    "symbol": "BETH",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

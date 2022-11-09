@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfef37ff7657a6bb6b6975151a25016945577924a",
+  "displayName": "EBO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "EBO Token",
+    "symbol": "EBO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

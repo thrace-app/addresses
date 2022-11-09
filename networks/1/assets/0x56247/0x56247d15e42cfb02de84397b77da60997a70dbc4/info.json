@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56247d15e42cfb02de84397b77da60997a70dbc4",
+  "displayName": "Mister Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mister Inu",
+    "symbol": "MRINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

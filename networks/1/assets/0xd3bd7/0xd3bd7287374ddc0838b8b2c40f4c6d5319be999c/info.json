@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3bd7287374ddc0838b8b2c40f4c6d5319be999c",
+  "displayName": "ChowCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChowCoin",
+    "symbol": "EAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

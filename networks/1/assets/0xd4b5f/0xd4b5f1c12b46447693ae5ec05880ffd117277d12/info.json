@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4b5f1c12b46447693ae5ec05880ffd117277d12",
+  "displayName": "GSN Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "GSN Token",
+    "symbol": "GSN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

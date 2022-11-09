@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3c144fc1b34fc1be809fbb2b194f460014e60113",
+  "displayName": "Algoeuro",
+  "type": "TOKEN",
+  "token": {
+    "name": "Algoeuro",
+    "symbol": "AEUR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

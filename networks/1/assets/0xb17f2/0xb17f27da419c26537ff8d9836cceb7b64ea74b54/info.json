@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb17f27da419c26537ff8d9836cceb7b64ea74b54",
+  "displayName": "Dash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Dash",
+    "symbol": "DASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

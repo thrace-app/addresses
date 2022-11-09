@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x10ab00a23212c289a30bb349c32b804df1b5af32",
+  "displayName": "Bad Luck",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bad Luck",
+    "symbol": "BAD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9c18fc0c5b7b6db212e4f23655ea1ae7329b813d",
+  "displayName": "SupDucks NFTs",
+  "type": "TOKEN",
+  "token": {
+    "name": "SupDucks NFTs",
+    "symbol": "SDUCK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcd2c060cc4855829a5899e11f7f3516bad559623",
+  "displayName": "Defi Wallet Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Defi Wallet Token",
+    "symbol": "DWT",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

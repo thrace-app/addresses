@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42d5b193f266f24ba8d09b53325625bf420e7594",
+  "displayName": "Grand One",
+  "type": "TOKEN",
+  "token": {
+    "name": "Grand One",
+    "symbol": "GONE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

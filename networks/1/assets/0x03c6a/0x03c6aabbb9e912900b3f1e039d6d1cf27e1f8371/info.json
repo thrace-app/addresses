@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x03c6aabbb9e912900b3f1e039d6d1cf27e1f8371",
+  "displayName": "Britcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Britcoin",
+    "symbol": "BRTC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

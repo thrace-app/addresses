@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2cd55a292819a10c666c902a85573346c139dfd5",
+  "displayName": "Random DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Random DAO",
+    "symbol": "$RND DAO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

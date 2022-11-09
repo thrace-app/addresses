@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2987889469e121c9e2776b48b0c935c7e4ab88c",
+  "displayName": "piedao.org",
+  "type": "TOKEN",
+  "token": {
+    "name": "piedao.org",
+    "symbol": "DOUGH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

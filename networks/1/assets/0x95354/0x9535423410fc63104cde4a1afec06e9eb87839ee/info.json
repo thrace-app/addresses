@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9535423410fc63104cde4a1afec06e9eb87839ee",
+  "displayName": "Cypherium Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cypherium Token",
+    "symbol": "CPH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

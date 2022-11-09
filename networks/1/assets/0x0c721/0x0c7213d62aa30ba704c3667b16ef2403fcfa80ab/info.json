@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0c7213d62aa30ba704c3667b16ef2403fcfa80ab",
+  "displayName": "EthereumPoS",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumPoS",
+    "symbol": "EPoS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

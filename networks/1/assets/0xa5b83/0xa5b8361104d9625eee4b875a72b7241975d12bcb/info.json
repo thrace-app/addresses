@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa5b8361104d9625eee4b875a72b7241975d12bcb",
+  "displayName": "Ether Dust",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether Dust",
+    "symbol": "ETHD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

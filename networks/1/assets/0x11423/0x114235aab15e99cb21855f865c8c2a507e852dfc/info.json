@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x114235aab15e99cb21855f865c8c2a507e852dfc",
+  "displayName": "EtherBunny",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherBunny",
+    "symbol": "eBunny",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

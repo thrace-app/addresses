@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x60d64d8ff2b074578fd64998476a8554c6320869",
+  "displayName": "GlobalShoppingToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GlobalShoppingToken",
+    "symbol": "GST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x18b3367bef43a415ebcfa359e272112dd5b96709",
+  "displayName": "pinChain",
+  "type": "TOKEN",
+  "token": {
+    "name": "pinChain",
+    "symbol": "pin",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

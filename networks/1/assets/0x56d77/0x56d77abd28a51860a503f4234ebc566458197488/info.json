@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56d77abd28a51860a503f4234ebc566458197488",
+  "displayName": "FTTS NFT",
+  "type": "TOKEN",
+  "token": {
+    "name": "FTTS NFT",
+    "symbol": "FTTS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

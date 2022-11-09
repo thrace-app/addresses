@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ddc42d8e5bd094a9bd6904915ca446176503f7c",
+  "displayName": "ethereal",
+  "type": "TOKEN",
+  "token": {
+    "name": "ethereal",
+    "symbol": "ETHEREAL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

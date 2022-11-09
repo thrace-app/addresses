@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ca427415a5b1d397b7e2541bb32499dca4d5e72",
+  "displayName": "Phantom",
+  "type": "TOKEN",
+  "token": {
+    "name": "Phantom",
+    "symbol": "PHM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

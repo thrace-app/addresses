@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1f27e2a32e36ea5012d34178ca452ace284bc03",
+  "displayName": "Artera Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Artera Token",
+    "symbol": "ARTERA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

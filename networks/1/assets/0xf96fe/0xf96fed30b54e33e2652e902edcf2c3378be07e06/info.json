@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf96fed30b54e33e2652e902edcf2c3378be07e06",
+  "displayName": "Smith Slap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Smith Slap",
+    "symbol": "SMITHSLAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

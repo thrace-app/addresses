@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6e08e6d8d38ada3e37148379184c6aa98c895a42",
+  "displayName": "CoolDogToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoolDogToken",
+    "symbol": "CDT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

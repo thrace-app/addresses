@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x73d1588cc9165d7a4dd2c256e1e1bcd9379c3af7",
+  "displayName": "Ether INU",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ether INU",
+    "symbol": "ETI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

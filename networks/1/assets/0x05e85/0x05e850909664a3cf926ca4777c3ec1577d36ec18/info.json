@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05e850909664a3cf926ca4777c3ec1577d36ec18",
+  "displayName": "OnFlow",
+  "type": "TOKEN",
+  "token": {
+    "name": "OnFlow",
+    "symbol": "Flow",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ef9b04542dc4a31ca8909ad5ab3f8ab2850f0b1",
+  "displayName": "Person of the Year",
+  "type": "TOKEN",
+  "token": {
+    "name": "Person of the Year",
+    "symbol": "POTY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

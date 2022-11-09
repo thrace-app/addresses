@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1321f1f1aa541a56c31682c57b80ecfccd9bb288",
+  "displayName": "ARCx Governance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ARCx Governance Token",
+    "symbol": "ARCX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

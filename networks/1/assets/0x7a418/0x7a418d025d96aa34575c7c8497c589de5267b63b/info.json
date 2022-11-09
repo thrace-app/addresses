@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7a418d025d96aa34575c7c8497c589de5267b63b",
+  "displayName": "Architectural coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Architectural coin",
+    "symbol": "ARCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

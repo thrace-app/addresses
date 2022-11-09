@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1af4e90b1d179e1ad759b84344c8a5126fe582e",
+  "displayName": "Toy Stash",
+  "type": "TOKEN",
+  "token": {
+    "name": "Toy Stash",
+    "symbol": "STASH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa3865e64121537b5b59b5e239db4acbe6f36aa74",
+  "displayName": "Wrapped Tezos",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Tezos",
+    "symbol": "WXTZ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

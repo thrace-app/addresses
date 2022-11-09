@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1017b147b05942ead495e2ad6d606ef3c94b8fd0",
+  "displayName": "Vanilla",
+  "type": "TOKEN",
+  "token": {
+    "name": "Vanilla",
+    "symbol": "VNL",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

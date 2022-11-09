@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06ca771a689d6d5f5e435be2ef1d1ffc6bdb3b4c",
+  "displayName": "Wing Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wing Token",
+    "symbol": "WING",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

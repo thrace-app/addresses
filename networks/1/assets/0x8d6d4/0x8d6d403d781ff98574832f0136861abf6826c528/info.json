@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d6d403d781ff98574832f0136861abf6826c528",
+  "displayName": "Bondi Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bondi Coin",
+    "symbol": "BondiCoin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

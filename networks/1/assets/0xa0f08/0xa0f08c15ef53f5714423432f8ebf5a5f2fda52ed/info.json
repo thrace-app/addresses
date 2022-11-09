@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa0f08c15ef53f5714423432f8ebf5a5f2fda52ed",
+  "displayName": "Moneyhero Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Moneyhero Token",
+    "symbol": "MYH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

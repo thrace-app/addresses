@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55709c8f9e7768915f3145ef29e8a7bd7e611878",
+  "displayName": "HAPECoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "HAPECoin",
+    "symbol": "HAPE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

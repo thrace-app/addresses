@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x602b5ef61a6210382366b791ffb79bf64283acbe",
+  "displayName": "Tokyo Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tokyo Inu",
+    "symbol": "TOKINU",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xff0d4338d7d24b4ae5d2fd396bd06819e80aea75",
+  "displayName": "EAG Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "EAG Coin",
+    "symbol": "EAG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb3a7bfc0d54e9347e321242d1723809415f8fe4",
+  "displayName": "rBitex",
+  "type": "TOKEN",
+  "token": {
+    "name": "rBitex",
+    "symbol": "rBitx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

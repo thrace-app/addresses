@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x291fa2725d153bcc6c7e1c304bcad47fdef1ef84",
+  "displayName": "Mega Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mega Token",
+    "symbol": "MX3",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

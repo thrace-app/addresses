@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d2d7457e4b985fa9470f81d894af6fd02e988c4",
+  "displayName": "Deposits Protocol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Deposits Protocol Token",
+    "symbol": "DEPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

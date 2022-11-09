@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x00a61cccd2a4281437352abdfaf1151102f8bd82",
+  "displayName": "New Community USDC",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Community USDC",
+    "symbol": "NCUSDC",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

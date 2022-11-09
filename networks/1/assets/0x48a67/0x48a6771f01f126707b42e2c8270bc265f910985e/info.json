@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x48a6771f01f126707b42e2c8270bc265f910985e",
+  "displayName": "Catopia",
+  "type": "TOKEN",
+  "token": {
+    "name": "Catopia",
+    "symbol": "Cats",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c84050a520a11c354af20097660c73af3a67633",
+  "displayName": "Bank of America",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of America",
+    "symbol": "BACA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

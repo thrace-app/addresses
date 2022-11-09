@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6fea518b59278f60892dbcf336f2e17dac651dec",
+  "displayName": "Cute Fox Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cute Fox Token",
+    "symbol": "$CuteFox",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

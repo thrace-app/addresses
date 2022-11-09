@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a3111d682a6719992dbefa616541caac29991b8",
+  "displayName": "ReyerCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ReyerCoin",
+    "symbol": "RYC",
+    "decimals": 1,
+    "type": "ERC20"
+  }
+}

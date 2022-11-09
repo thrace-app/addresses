@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8be3caa37576d46ad6ab69a3d12009faf5117eba",
+  "displayName": "Return Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Return Coin",
+    "symbol": "RET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

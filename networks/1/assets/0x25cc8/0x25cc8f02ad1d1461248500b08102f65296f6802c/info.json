@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25cc8f02ad1d1461248500b08102f65296f6802c",
+  "displayName": "Raybit Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Raybit Token",
+    "symbol": "RAYBIT",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

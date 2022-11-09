@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x06a01a4d579479dd5d884ebf61a31727a3d8d442",
+  "displayName": "SmartKey",
+  "type": "TOKEN",
+  "token": {
+    "name": "SmartKey",
+    "symbol": "Skey",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

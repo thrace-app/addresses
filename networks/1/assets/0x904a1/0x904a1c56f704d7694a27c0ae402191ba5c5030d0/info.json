@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x904a1c56f704d7694a27c0ae402191ba5c5030d0",
+  "displayName": "Noob Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Noob Token",
+    "symbol": "NOOB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

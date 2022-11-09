@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23323ba0b2c5f1bbdc935591af24833266900ce9",
+  "displayName": "CoolApe",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoolApe",
+    "symbol": "CoolApe",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

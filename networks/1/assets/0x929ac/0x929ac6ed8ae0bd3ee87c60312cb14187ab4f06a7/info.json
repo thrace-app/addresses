@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x929ac6ed8ae0bd3ee87c60312cb14187ab4f06a7",
+  "displayName": "New Keynesian Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "New Keynesian Token",
+    "symbol": "NEWKEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

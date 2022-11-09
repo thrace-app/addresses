@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbaaa4e5ad79dab57d44092cf577eb0e79fe7a1e0",
+  "displayName": "UniPound Tether",
+  "type": "TOKEN",
+  "token": {
+    "name": "UniPound Tether",
+    "symbol": "QUID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

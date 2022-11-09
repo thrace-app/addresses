@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78c8718ed7239b84a9ed5d821a1bf2eac21424a8",
+  "displayName": "Sheep",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sheep",
+    "symbol": "LAMB",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x106b993f8a97393666d13e9778ec8313e14046ba",
+  "displayName": "Notan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Notan Token",
+    "symbol": "NOTAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

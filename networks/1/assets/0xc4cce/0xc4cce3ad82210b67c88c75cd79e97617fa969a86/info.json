@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc4cce3ad82210b67c88c75cd79e97617fa969a86",
+  "displayName": "Very Simple Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Very Simple Coin",
+    "symbol": "VERYSIMPLE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

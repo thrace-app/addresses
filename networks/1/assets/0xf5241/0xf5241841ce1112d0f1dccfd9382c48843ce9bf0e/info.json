@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5241841ce1112d0f1dccfd9382c48843ce9bf0e",
+  "displayName": "Crypto World Cup",
+  "type": "TOKEN",
+  "token": {
+    "name": "Crypto World Cup",
+    "symbol": "CWC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

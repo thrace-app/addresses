@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88ee026aeecc91b9e00a854f9729a2494d84984e",
+  "displayName": "A Finance Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "A Finance Token",
+    "symbol": "AFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

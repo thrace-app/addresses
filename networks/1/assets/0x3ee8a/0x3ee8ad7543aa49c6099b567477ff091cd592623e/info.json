@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3ee8ad7543aa49c6099b567477ff091cd592623e",
+  "displayName": "Duelers Credits",
+  "type": "TOKEN",
+  "token": {
+    "name": "Duelers Credits",
+    "symbol": "DC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec1d9a68698bb51197c4dce6570115290e7c6a8f",
+  "displayName": "Cripple Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cripple Doge",
+    "symbol": "CRIPPLE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

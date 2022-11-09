@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0b824bd371dd381f8385ed4ca335959f403018b8",
+  "displayName": "POLIS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "POLIS Token",
+    "symbol": "POLIS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

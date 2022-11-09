@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56e92bcc462585f4c5077f832cca20e835a7aecc",
+  "displayName": "Diva Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Diva Token",
+    "symbol": "DIVA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ce31d775ee8ae8058ed7e599e5f14bb1535f223",
+  "displayName": "Belance Blockchain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Belance Blockchain",
+    "symbol": "BEL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

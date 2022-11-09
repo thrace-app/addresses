@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc88a8772db7a5f80205814f7b2688786f569fb79",
+  "displayName": "DigitalReserveCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DigitalReserveCoin",
+    "symbol": "DRCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

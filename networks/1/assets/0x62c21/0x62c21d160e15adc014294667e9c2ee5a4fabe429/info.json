@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x62c21d160e15adc014294667e9c2ee5a4fabe429",
+  "displayName": "BEAN",
+  "type": "TOKEN",
+  "token": {
+    "name": "BEAN",
+    "symbol": "豆",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

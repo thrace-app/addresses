@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4591dfe05499a226bec8fcf69837cef1946107ab",
+  "displayName": "Rakuten Pay (楽天ペイ）",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rakuten Pay (楽天ペイ）",
+    "symbol": "RAKUTEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8d79323d27f3dcc2781fe44192caf1ad7e836787",
+  "displayName": "PIRATE TOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "PIRATE TOKEN",
+    "symbol": "PIRATETOKEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

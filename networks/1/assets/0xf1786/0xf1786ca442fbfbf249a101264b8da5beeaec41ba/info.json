@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1786ca442fbfbf249a101264b8da5beeaec41ba",
+  "displayName": "EthereumWallet",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumWallet",
+    "symbol": "EWALLET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

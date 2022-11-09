@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f7e0327e49202ef528985cef9eeffa81f7eea1a",
+  "displayName": "Evil Tsuka",
+  "type": "TOKEN",
+  "token": {
+    "name": "Evil Tsuka",
+    "symbol": "eTsuka",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

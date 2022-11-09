@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe81733e3e0ac15daca2fad7b8d6f94f7a9f3d77e",
+  "displayName": "Mewtwo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mewtwo Token",
+    "symbol": "MEW2",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

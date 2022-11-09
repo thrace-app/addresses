@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ca72d9252aff2e8b63be200d7ea386c471f24ad",
+  "displayName": "Digicol Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Digicol Token",
+    "symbol": "DGCL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

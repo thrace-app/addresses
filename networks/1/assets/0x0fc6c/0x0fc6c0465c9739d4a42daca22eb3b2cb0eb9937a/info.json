@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0fc6c0465c9739d4a42daca22eb3b2cb0eb9937a",
+  "displayName": "vUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "vUSD",
+    "symbol": "vUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2543b49d7d41ef4ed61cbe7cddea4b488bb967c",
+  "displayName": "BurnVault",
+  "type": "TOKEN",
+  "token": {
+    "name": "BurnVault",
+    "symbol": "bCore",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

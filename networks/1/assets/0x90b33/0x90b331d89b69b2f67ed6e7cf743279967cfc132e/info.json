@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90b331d89b69b2f67ed6e7cf743279967cfc132e",
+  "displayName": "PlatypusCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PlatypusCoin",
+    "symbol": "PlatypusCoin",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

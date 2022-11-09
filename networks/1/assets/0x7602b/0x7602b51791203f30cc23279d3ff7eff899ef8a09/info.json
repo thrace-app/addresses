@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7602b51791203f30cc23279d3ff7eff899ef8a09",
+  "displayName": "Proof of Existence",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Existence",
+    "symbol": "PoE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

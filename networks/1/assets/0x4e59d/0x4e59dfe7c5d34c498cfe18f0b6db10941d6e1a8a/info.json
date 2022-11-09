@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4e59dfe7c5d34c498cfe18f0b6db10941d6e1a8a",
+  "displayName": "KeeperFi",
+  "type": "TOKEN",
+  "token": {
+    "name": "KeeperFi",
+    "symbol": "KFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

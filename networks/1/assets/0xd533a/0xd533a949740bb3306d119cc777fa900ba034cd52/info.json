@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+  "displayName": "Curve DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

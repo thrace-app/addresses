@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2125d8bb46cd71e698bb0931a01be3425961002f",
+  "displayName": "MyLuckyTiger",
+  "type": "TOKEN",
+  "token": {
+    "name": "MyLuckyTiger",
+    "symbol": "MLT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

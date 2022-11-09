@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x472d030fe0b3b73bfd861d2fe9f85ea4c1e935e6",
+  "displayName": "Inarikato Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Inarikato Token",
+    "symbol": "Inari",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

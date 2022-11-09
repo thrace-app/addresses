@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf84588a64d90f5fdd8c8e05dd4ba670d33b182aa",
+  "displayName": "Hallas Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Hallas Token",
+    "symbol": "HALLAS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e3d6001ba16b2c6e32b5c316e12291515f7cf78",
+  "displayName": "Kickstarter Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kickstarter Token",
+    "symbol": "KICK",
+    "decimals": 0,
+    "type": "ERC20"
+  }
+}

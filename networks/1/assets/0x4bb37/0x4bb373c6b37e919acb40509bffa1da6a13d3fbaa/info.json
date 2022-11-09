@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4bb373c6b37e919acb40509bffa1da6a13d3fbaa",
+  "displayName": "Chemical X",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chemical X",
+    "symbol": "CHEM X",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

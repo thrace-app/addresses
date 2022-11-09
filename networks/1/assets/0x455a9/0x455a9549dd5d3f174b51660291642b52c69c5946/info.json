@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x455a9549dd5d3f174b51660291642b52c69c5946",
+  "displayName": "Makaveli Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Makaveli Token",
+    "symbol": "MAKAVELI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05951aa67c357f5d45ccdeba10db0acdedacd0ba",
+  "displayName": "StaksCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "StaksCoin",
+    "symbol": "STAKS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

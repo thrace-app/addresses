@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc1666466627edf5af90f7f5fc99de10b9d372021",
+  "displayName": "NFTs in the room",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFTs in the room",
+    "symbol": "NFTs",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

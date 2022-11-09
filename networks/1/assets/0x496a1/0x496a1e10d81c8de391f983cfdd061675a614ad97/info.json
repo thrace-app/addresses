@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x496a1e10d81c8de391f983cfdd061675a614ad97",
+  "displayName": "Strawberry",
+  "type": "TOKEN",
+  "token": {
+    "name": "Strawberry",
+    "symbol": "🍓",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

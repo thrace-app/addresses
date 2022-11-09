@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5bc03e3ac78cd92734d2affbed966bd4ead9e000",
+  "displayName": "MetaKitten",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaKitten",
+    "symbol": "MTK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

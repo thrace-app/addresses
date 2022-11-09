@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8cd480260a47f04589670a313d27a15b321ad266",
+  "displayName": "Swiftlance token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Swiftlance token",
+    "symbol": "SWL",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x483993e969b9a00c4aeddae647913530dc35ba70",
+  "displayName": "SIR Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SIR Token",
+    "symbol": "$IR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

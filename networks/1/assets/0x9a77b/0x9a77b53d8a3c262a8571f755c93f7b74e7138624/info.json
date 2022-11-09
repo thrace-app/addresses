@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9a77b53d8a3c262a8571f755c93f7b74e7138624",
+  "displayName": "SatoshiCrypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "SatoshiCrypto",
+    "symbol": "SCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

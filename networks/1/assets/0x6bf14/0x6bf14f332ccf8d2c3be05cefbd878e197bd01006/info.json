@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6bf14f332ccf8d2c3be05cefbd878e197bd01006",
+  "displayName": "Lightning Pool",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lightning Pool",
+    "symbol": "LiFi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

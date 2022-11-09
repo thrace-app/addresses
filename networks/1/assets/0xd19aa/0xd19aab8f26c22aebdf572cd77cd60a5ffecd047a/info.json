@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd19aab8f26c22aebdf572cd77cd60a5ffecd047a",
+  "displayName": "AgentApe",
+  "type": "TOKEN",
+  "token": {
+    "name": "AgentApe",
+    "symbol": "APEGENT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

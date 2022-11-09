@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3462f9043d4e66ae57c0e4578b5493f59fd259fb",
+  "displayName": "GMC",
+  "type": "TOKEN",
+  "token": {
+    "name": "GMC",
+    "symbol": "GMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

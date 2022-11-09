@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x90083891b2a66105e12d097b280750fdd9e5f6df",
+  "displayName": "FutureVault Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FutureVault Token",
+    "symbol": "FTT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

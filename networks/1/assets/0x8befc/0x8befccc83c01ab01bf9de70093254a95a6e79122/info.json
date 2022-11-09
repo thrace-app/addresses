@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8befccc83c01ab01bf9de70093254a95a6e79122",
+  "displayName": "Coinvesting DeFi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coinvesting DeFi Token",
+    "symbol": "COINVEX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

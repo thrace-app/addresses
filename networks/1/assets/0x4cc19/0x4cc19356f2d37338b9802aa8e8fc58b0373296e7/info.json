@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+  "displayName": "SelfKey",
+  "type": "TOKEN",
+  "token": {
+    "name": "SelfKey",
+    "symbol": "KEY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

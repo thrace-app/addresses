@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdd0172942a2414154c1f0f9442887c620c53ed95",
+  "displayName": "The Guardian",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Guardian",
+    "symbol": "Guardian",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8acc61a19db1e31c4354d2ca77d9aa3ccb506e93",
+  "displayName": "DenCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DenCoin",
+    "symbol": "DEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

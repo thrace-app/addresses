@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x17e6b79b2c6e59ae89deff3dbeaf065780d40cd0",
+  "displayName": "KungfuToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "KungfuToken",
+    "symbol": "KUNGFU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

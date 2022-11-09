@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7cede73683309ca54ef61f64fed790e10224e164",
+  "displayName": "TreePump Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TreePump Token",
+    "symbol": "TREE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x980d788b5a5e323467043651d50705980d330e36",
+  "displayName": "Yisen Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yisen Token",
+    "symbol": "YISEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

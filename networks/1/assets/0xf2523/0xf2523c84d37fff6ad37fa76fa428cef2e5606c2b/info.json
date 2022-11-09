@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf2523c84d37fff6ad37fa76fa428cef2e5606c2b",
+  "displayName": "PUNCH Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PUNCH Token",
+    "symbol": "PUNCH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

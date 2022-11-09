@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbc6fd8e2f670b16cd186846670b11ceb4ca31e53",
+  "displayName": "redemption",
+  "type": "TOKEN",
+  "token": {
+    "name": "redemption",
+    "symbol": "SOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

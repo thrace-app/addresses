@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf33a2fb866a8ebb06b3a1f92cf434cc1e27357be",
+  "displayName": "AmogusCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "AmogusCoin",
+    "symbol": "SUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab4d20e4e925c5ef448a7820c92f8d57192e027c",
+  "displayName": "INV",
+  "type": "TOKEN",
+  "token": {
+    "name": "INV",
+    "symbol": "inverse.finance",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0909a11e2218a052fe9197156e62abc2bd0c7520",
+  "displayName": "TipTravel Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TipTravel Coin",
+    "symbol": "TIPS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

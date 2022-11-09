@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5846875e59197379a18afceeebdc3f392edbea3f",
+  "displayName": "PolkaSynth",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolkaSynth",
+    "symbol": "PSYNTH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

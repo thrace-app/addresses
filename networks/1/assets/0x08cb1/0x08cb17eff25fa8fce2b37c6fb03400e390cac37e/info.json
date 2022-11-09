@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x08cb17eff25fa8fce2b37c6fb03400e390cac37e",
+  "displayName": "Krampus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Krampus",
+    "symbol": "$Krampus",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

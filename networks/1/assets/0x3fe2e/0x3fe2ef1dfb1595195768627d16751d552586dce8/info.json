@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fe2ef1dfb1595195768627d16751d552586dce8",
+  "displayName": "Opta Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Opta Token",
+    "symbol": "OPA",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

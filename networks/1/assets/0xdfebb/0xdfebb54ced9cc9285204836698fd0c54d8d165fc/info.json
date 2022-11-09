@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdfebb54ced9cc9285204836698fd0c54d8d165fc",
+  "displayName": "The X Die",
+  "type": "TOKEN",
+  "token": {
+    "name": "The X Die",
+    "symbol": "$TXD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

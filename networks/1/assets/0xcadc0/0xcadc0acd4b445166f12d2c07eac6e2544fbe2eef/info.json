@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef",
+  "displayName": "CAD Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "CAD Coin",
+    "symbol": "CADC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

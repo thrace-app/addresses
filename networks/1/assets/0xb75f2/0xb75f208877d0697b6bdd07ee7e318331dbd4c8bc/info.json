@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb75f208877d0697b6bdd07ee7e318331dbd4c8bc",
+  "displayName": "Powell Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Powell Coin",
+    "symbol": "PowellCoin",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

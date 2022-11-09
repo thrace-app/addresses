@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x02eddbbf40f7ab1b6fd1a87bf263d4be967d0552",
+  "displayName": "Cats Claw",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cats Claw",
+    "symbol": "CLAW",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

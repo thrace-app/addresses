@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x82af5a13c14435a4de663327e756be589f3ff21b",
+  "displayName": "VolcanicMoney",
+  "type": "TOKEN",
+  "token": {
+    "name": "VolcanicMoney",
+    "symbol": "Volcanic Money 🌋",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

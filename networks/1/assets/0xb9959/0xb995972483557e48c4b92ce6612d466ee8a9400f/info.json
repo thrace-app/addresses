@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb995972483557e48c4b92ce6612d466ee8a9400f",
+  "displayName": "CoilCrypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "CoilCrypto",
+    "symbol": "COIL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

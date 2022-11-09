@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb51fa94cf6ed0ab0ae9063b9e80d323c50668b3d",
+  "displayName": "MiamiCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "MiamiCoin",
+    "symbol": "MIA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

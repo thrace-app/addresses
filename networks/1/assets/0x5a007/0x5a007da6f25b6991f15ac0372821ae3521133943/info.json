@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a007da6f25b6991f15ac0372821ae3521133943",
+  "displayName": "Ethereum Bull",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Bull",
+    "symbol": "EBULL",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

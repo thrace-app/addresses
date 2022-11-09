@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4940afe85a5840c6f24757b84b574274c988b551",
+  "displayName": "Stray Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stray Inu Token",
+    "symbol": "STRAYINU.",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

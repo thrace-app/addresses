@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7761ba18dace2344c8837e802f1ce662b6fa436c",
+  "displayName": "Powercoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Powercoin",
+    "symbol": "POWERCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

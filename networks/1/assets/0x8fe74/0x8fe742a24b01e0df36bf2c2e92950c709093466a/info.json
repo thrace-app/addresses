@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x8fe742a24b01e0df36bf2c2e92950c709093466a",
+  "displayName": "Ethereum Eco",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Eco",
+    "symbol": "ECO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

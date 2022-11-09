@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x44c61ea369e3d6e8dec9e52e0afa173c6c81300c",
+  "displayName": "Mexican Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mexican Doge",
+    "symbol": "PERRO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

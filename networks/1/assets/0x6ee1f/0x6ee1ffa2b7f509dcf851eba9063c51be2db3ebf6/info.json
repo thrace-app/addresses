@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6ee1ffa2b7f509dcf851eba9063c51be2db3ebf6",
+  "displayName": "TomCatToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "TomCatToken",
+    "symbol": "TCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

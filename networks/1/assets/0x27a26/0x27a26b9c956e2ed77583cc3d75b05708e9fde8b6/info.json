@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x27a26b9c956e2ed77583cc3d75b05708e9fde8b6",
+  "displayName": "Coinrexi Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Coinrexi Token",
+    "symbol": "CR",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

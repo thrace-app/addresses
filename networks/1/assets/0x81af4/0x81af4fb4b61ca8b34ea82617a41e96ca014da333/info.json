@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81af4fb4b61ca8b34ea82617a41e96ca014da333",
+  "displayName": "Prosper",
+  "type": "TOKEN",
+  "token": {
+    "name": "Prosper",
+    "symbol": "PROS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7b3965982766ce4765a5c3de55b69091acfcd5a9",
+  "displayName": "Ballon d’or",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ballon d’or",
+    "symbol": "Ballon d’or",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x19d9b17497824081e291115044b567c4722cdaeb",
+  "displayName": "Wrapped CryptoKitties",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped CryptoKitties",
+    "symbol": "WCK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

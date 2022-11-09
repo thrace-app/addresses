@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc36c7b1089290110bd32a357e2f88013bb25339c",
+  "displayName": "Pot of Gold",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pot of Gold",
+    "symbol": "GOLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

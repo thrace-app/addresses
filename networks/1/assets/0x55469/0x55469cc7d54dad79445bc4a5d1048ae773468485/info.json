@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x55469cc7d54dad79445bc4a5d1048ae773468485",
+  "displayName": "Sweep",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sweep",
+    "symbol": "$SWEEP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

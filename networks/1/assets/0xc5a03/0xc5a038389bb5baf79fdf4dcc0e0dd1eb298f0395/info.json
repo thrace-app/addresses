@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc5a038389bb5baf79fdf4dcc0e0dd1eb298f0395",
+  "displayName": "Solar Miner",
+  "type": "TOKEN",
+  "token": {
+    "name": "Solar Miner",
+    "symbol": "SMINER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

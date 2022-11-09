@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5debbd8a9920c9ebe5a6a5315e0bbf5d6c81433f",
+  "displayName": "HelloMyFren",
+  "type": "TOKEN",
+  "token": {
+    "name": "HelloMyFren",
+    "symbol": "HMF",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

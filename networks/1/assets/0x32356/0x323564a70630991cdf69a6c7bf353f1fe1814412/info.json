@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x323564a70630991cdf69a6c7bf353f1fe1814412",
+  "displayName": "Szabo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Szabo Token",
+    "symbol": "SZABO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

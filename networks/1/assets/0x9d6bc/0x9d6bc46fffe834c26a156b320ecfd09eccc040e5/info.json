@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d6bc46fffe834c26a156b320ecfd09eccc040e5",
+  "displayName": "Stone Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stone Token",
+    "symbol": "STN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

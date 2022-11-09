@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x523914bdcba36f29483be0cd18099501be72ff39",
+  "displayName": "Man United Fan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Man United Fan Token",
+    "symbol": "MU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

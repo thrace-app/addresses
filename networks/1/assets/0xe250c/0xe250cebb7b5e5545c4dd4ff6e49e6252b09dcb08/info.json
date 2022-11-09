@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe250cebb7b5e5545c4dd4ff6e49e6252b09dcb08",
+  "displayName": "Sharpay Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sharpay Token",
+    "symbol": "SHARPAY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x208ea40c46339b9c0cba308b5ad0b7c4c877f623",
+  "displayName": "GalaxyToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "GalaxyToken",
+    "symbol": "GAXT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

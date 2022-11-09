@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x60b42779fb9404786089cccb7bc0f9bbead97e15",
+  "displayName": "Friendly Shiba Inu",
+  "type": "TOKEN",
+  "token": {
+    "name": "Friendly Shiba Inu",
+    "symbol": "FriendShib",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

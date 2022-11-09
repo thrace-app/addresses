@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb3bc4549dbb5d02fa2d78d4dab1ae8281ff93ea0",
+  "displayName": "LimitedFinance",
+  "type": "TOKEN",
+  "token": {
+    "name": "LimitedFinance",
+    "symbol": "LIFI",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

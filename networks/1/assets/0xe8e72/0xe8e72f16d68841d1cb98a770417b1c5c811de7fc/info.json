@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe8e72f16d68841d1cb98a770417b1c5c811de7fc",
+  "displayName": "Magic Carpet",
+  "type": "TOKEN",
+  "token": {
+    "name": "Magic Carpet",
+    "symbol": "MagicCarpet",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

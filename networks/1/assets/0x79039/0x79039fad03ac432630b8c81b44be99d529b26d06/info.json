@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79039fad03ac432630b8c81b44be99d529b26d06",
+  "displayName": "EthereumPlus",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumPlus",
+    "symbol": "ePlus",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

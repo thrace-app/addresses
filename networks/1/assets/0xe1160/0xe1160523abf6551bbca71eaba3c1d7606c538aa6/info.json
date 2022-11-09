@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1160523abf6551bbca71eaba3c1d7606c538aa6",
+  "displayName": "Willy Wonka",
+  "type": "TOKEN",
+  "token": {
+    "name": "Willy Wonka",
+    "symbol": "WONK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

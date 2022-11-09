@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa30a0682dbacda5b0e069ab2efc356187267819e",
+  "displayName": "AmyRose Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "AmyRose Token",
+    "symbol": "$AMY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

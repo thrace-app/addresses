@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0d02755a5700414b26ff040e1de35d337df56218",
+  "displayName": "Bend Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bend Token",
+    "symbol": "BEND",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

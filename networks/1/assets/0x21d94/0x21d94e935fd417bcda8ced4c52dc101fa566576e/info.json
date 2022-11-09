@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21d94e935fd417bcda8ced4c52dc101fa566576e",
+  "displayName": "TOPS Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "TOPS Token",
+    "symbol": "TOPS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

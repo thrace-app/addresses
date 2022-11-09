@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22ac30b3afecbbf1cb69bc697bef0bd3e5bec349",
+  "displayName": "Tripple A",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tripple A",
+    "symbol": "AAA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

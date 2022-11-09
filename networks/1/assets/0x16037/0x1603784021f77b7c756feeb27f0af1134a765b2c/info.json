@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1603784021f77b7c756feeb27f0af1134a765b2c",
+  "displayName": "Wanda Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wanda Token",
+    "symbol": "WANDA",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

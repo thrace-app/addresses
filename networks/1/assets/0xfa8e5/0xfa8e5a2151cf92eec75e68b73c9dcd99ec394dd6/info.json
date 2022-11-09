@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfa8e5a2151cf92eec75e68b73c9dcd99ec394dd6",
+  "displayName": "Bank of England",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bank of England",
+    "symbol": "BOE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

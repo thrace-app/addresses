@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf90a75cd6e6ae9401fc4cb0fa2b99be3b19674de",
+  "displayName": "Bitcoin Ethereum Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Ethereum Doge",
+    "symbol": "BED",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

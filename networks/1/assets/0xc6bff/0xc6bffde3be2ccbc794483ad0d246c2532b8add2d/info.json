@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6bffde3be2ccbc794483ad0d246c2532b8add2d",
+  "displayName": "t.me/BidenBurnToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "t.me/BidenBurnToken",
+    "symbol": "BidenBurn",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

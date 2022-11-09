@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x187d1018e8ef879be4194d6ed7590987463ead85",
+  "displayName": "FUZE Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "FUZE Token",
+    "symbol": "FUZE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

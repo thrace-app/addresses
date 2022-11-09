@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe6b7068b4893be8980961b7a722fc92813931b56",
+  "displayName": "valuetest",
+  "type": "TOKEN",
+  "token": {
+    "name": "valuetest",
+    "symbol": "valt",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2dc7961bdccc7fc9c836259c8bed830be9f8c185",
+  "displayName": "GlacierCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "GlacierCoin",
+    "symbol": "GLCR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

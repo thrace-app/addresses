@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85d541331f8807eba612c6c2f1b978b745f82cbc",
+  "displayName": "Zorro Swap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Zorro Swap",
+    "symbol": "ZORRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

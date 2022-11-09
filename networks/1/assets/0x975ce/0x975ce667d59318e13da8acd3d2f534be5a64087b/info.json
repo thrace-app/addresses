@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x975ce667d59318e13da8acd3d2f534be5a64087b",
+  "displayName": "The Whale of Blockchain",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Whale of Blockchain",
+    "symbol": "TWOB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

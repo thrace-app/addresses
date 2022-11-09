@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x460bd3a2b5b2bab17229e433b00d32e5ce108223",
+  "displayName": "Shiden",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shiden",
+    "symbol": "SDN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

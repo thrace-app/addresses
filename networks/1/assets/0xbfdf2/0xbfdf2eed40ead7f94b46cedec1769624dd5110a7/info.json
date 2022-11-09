@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbfdf2eed40ead7f94b46cedec1769624dd5110a7",
+  "displayName": "Forrest Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Forrest Token",
+    "symbol": "FRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

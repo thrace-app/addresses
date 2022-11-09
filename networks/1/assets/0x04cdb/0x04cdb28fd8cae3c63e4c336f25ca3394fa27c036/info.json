@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x04cdb28fd8cae3c63e4c336f25ca3394fa27c036",
+  "displayName": "YES Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YES Token",
+    "symbol": "YES",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

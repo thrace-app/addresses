@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe1c7ef69726a1742ad82cdefcf2ededd8a936cba",
+  "displayName": "ETH Mainnet Merge",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH Mainnet Merge",
+    "symbol": "ethM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

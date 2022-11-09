@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7da7908899862ddefdb82ac9fb424256ef48ae2",
+  "displayName": "BurnTsuka",
+  "type": "TOKEN",
+  "token": {
+    "name": "BurnTsuka",
+    "symbol": "BTSUKA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

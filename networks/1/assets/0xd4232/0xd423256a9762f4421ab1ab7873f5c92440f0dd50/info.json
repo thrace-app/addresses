@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd423256a9762f4421ab1ab7873f5c92440f0dd50",
+  "displayName": "GBP British Pound Safe",
+  "type": "TOKEN",
+  "token": {
+    "name": "GBP British Pound Safe",
+    "symbol": "GBP Peg",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

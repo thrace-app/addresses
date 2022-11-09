@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf9f73282e912e11f948b6e9332bb6a02b68f9ed9",
+  "displayName": "COOL APE",
+  "type": "TOKEN",
+  "token": {
+    "name": "COOL APE",
+    "symbol": "CAPE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xee9587e515ac191f17e15ecf1f3127cc0fb2d6d2",
+  "displayName": "A Tsuka Bank",
+  "type": "TOKEN",
+  "token": {
+    "name": "A Tsuka Bank",
+    "symbol": "TSUKABANK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

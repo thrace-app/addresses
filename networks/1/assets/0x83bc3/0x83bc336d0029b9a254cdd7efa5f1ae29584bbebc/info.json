@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x83bc336d0029b9a254cdd7efa5f1ae29584bbebc",
+  "displayName": "Harvest",
+  "type": "TOKEN",
+  "token": {
+    "name": "Harvest",
+    "symbol": "HARD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

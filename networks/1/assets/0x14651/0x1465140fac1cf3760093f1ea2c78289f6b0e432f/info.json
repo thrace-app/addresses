@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1465140fac1cf3760093f1ea2c78289f6b0e432f",
+  "displayName": "Andy Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Andy Coin",
+    "symbol": "ANDY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

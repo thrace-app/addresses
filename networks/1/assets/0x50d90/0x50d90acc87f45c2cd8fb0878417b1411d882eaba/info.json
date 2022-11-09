@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x50d90acc87f45c2cd8fb0878417b1411d882eaba",
+  "displayName": "Chainlink Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chainlink Finance",
+    "symbol": "LIFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

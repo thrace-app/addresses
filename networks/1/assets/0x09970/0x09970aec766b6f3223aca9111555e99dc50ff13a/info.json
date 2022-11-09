@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x09970aec766b6f3223aca9111555e99dc50ff13a",
+  "displayName": "Levolution.io Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Levolution.io Token",
+    "symbol": "LEVL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

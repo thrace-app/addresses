@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84a475d3433d9a52d3b458e5ca22fa3b0cf0cc66",
+  "displayName": "Yori Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yori Token",
+    "symbol": "YORI ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

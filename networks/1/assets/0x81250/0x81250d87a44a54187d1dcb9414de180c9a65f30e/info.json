@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81250d87a44a54187d1dcb9414de180c9a65f30e",
+  "displayName": "Soros Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Soros Coin",
+    "symbol": "SOROS",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

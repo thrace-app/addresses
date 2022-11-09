@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x329319ebe02eac3de77a9aa379d620ba653b2136",
+  "displayName": "BIMToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BIMToken",
+    "symbol": "BIM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

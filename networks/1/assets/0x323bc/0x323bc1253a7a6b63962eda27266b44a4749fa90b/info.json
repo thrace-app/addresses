@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x323bc1253a7a6b63962eda27266b44a4749fa90b",
+  "displayName": "Pulsereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pulsereum",
+    "symbol": "PETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

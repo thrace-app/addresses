@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1cf20d6bdfd76487487fbd417a46198f6d5b96b7",
+  "displayName": "MetaMask DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "MetaMask DAO",
+    "symbol": "MaskDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

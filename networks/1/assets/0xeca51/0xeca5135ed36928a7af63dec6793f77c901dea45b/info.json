@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeca5135ed36928a7af63dec6793f77c901dea45b",
+  "displayName": "uint",
+  "type": "TOKEN",
+  "token": {
+    "name": "uint",
+    "symbol": "UINT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x405921531548f62a17a5b207d39aed8553c759ca",
+  "displayName": "Minted Ethereum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Minted Ethereum",
+    "symbol": "MINTED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

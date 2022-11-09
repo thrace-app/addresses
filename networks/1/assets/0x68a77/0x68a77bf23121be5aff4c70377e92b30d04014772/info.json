@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x68a77bf23121be5aff4c70377e92b30d04014772",
+  "displayName": "PMT Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PMT Token",
+    "symbol": "PMT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

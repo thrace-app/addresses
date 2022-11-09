@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb4278c68bda362e177cd03f2c7c5213587c60f8c",
+  "displayName": "Tcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tcoin",
+    "symbol": "TCOIN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

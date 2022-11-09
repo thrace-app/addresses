@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x22957e17d9419da4807de3c6c6971553903cb99c",
+  "displayName": "Fast Food Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fast Food Coin",
+    "symbol": "FOODIE",
+    "decimals": 12,
+    "type": "ERC20"
+  }
+}

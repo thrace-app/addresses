@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xec46f8207d766012454c408de210bcbc2243e71c",
+  "displayName": "Nitro",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nitro",
+    "symbol": "NOX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d24bfd96d279e675b901d40727459b9021f15bb",
+  "displayName": "EverLink",
+  "type": "TOKEN",
+  "token": {
+    "name": "EverLink",
+    "symbol": "eLink",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

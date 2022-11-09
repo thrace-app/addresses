@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe7aac69d245954b8dfedf76337c9109e5b69ffcc",
+  "displayName": "DGG Voting Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DGG Voting Token",
+    "symbol": "DGV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

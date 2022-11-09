@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x84c919805bb78b72f35f864a15e2def223ab5459",
+  "displayName": "QWER",
+  "type": "TOKEN",
+  "token": {
+    "name": "QWER",
+    "symbol": "QFA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

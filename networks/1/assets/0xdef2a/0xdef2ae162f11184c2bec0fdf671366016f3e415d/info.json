@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdef2ae162f11184c2bec0fdf671366016f3e415d",
+  "displayName": "PLUS",
+  "type": "TOKEN",
+  "token": {
+    "name": "PLUS",
+    "symbol": "PLUS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

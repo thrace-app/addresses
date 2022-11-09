@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc0c05862cca68b0b4c806796a6e7d965a6f18095",
+  "displayName": "BitcoinCrown",
+  "type": "TOKEN",
+  "token": {
+    "name": "BitcoinCrown",
+    "symbol": "BTCC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

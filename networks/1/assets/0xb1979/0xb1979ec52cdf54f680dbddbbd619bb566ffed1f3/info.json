@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb1979ec52cdf54f680dbddbbd619bb566ffed1f3",
+  "displayName": "LBRY Credits",
+  "type": "TOKEN",
+  "token": {
+    "name": "LBRY Credits",
+    "symbol": "LBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

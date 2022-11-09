@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x37ee79e0b44866876de2fb7f416d0443dd5ae481",
+  "displayName": "Tatcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tatcoin",
+    "symbol": "TAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35a69642857083ba2f30bfab735dacc7f0bac969",
+  "displayName": "BBNToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BBNToken",
+    "symbol": "BBN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

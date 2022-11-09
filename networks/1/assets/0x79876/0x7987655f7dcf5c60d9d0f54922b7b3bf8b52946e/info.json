@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7987655f7dcf5c60d9d0f54922b7b3bf8b52946e",
+  "displayName": "Staked DEGEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "Staked DEGEN",
+    "symbol": "DEGENx",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

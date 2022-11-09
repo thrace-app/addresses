@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb04c7143a1fea219e61cb20dd12682b7f4887fe7",
+  "displayName": "amplebot.com",
+  "type": "TOKEN",
+  "token": {
+    "name": "amplebot.com",
+    "symbol": "AMPL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42c18ecaae98602bfad0a23b625c619d0d8f2727",
+  "displayName": "Cheeseburger Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cheeseburger Token",
+    "symbol": "CHEESEBURGER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

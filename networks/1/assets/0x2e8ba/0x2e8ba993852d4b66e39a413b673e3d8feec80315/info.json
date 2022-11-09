@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2e8ba993852d4b66e39a413b673e3d8feec80315",
+  "displayName": "Ethanol X",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethanol X",
+    "symbol": "ETHX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

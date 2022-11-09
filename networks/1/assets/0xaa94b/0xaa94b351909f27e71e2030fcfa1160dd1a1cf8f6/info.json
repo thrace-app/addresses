@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa94b351909f27e71e2030fcfa1160dd1a1cf8f6",
+  "displayName": "FTB Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "FTB Coin",
+    "symbol": "FTB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb95e5a116b5de2f8eb7af885b3e2542d0fd9ecbb",
+  "displayName": "StarSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "StarSwap",
+    "symbol": "STRSP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42ba30ffd591f6dfec0c37678c85e4c8b0437f08",
+  "displayName": "favorite hello",
+  "type": "TOKEN",
+  "token": {
+    "name": "favorite hello",
+    "symbol": "HELLO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

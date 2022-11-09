@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdc3a8d621b8893397c392dab59ab44dda3fac363",
+  "displayName": "Alchemy Pay",
+  "type": "TOKEN",
+  "token": {
+    "name": "Alchemy Pay",
+    "symbol": "ACHE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

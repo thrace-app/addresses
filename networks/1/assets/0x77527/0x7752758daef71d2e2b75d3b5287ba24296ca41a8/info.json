@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7752758daef71d2e2b75d3b5287ba24296ca41a8",
+  "displayName": "SELL ME THIS PEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "SELL ME THIS PEN",
+    "symbol": "PEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

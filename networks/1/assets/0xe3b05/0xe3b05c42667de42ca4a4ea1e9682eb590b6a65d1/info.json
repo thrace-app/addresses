@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3b05c42667de42ca4a4ea1e9682eb590b6a65d1",
+  "displayName": "Orom Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Orom Token",
+    "symbol": "OROM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

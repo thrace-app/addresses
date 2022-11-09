@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x3fe8e44cf92358167fe6b522368bcb6327807a55",
+  "displayName": "Cyberpunk 2077 Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cyberpunk 2077 Token",
+    "symbol": "Cyberpunk",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

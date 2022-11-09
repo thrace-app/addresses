@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5475a2775cff09e2e432b5b9ac718b4d9b4b2824",
+  "displayName": "tinpocoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "tinpocoin",
+    "symbol": "TNP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

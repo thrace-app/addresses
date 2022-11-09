@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x25901f2a5a4bb0aaabe2cdb24e0e15a0d49b015d",
+  "displayName": "Bitfex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitfex",
+    "symbol": "BFX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

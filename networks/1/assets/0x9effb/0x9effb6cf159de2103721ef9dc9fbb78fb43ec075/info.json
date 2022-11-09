@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9effb6cf159de2103721ef9dc9fbb78fb43ec075",
+  "displayName": "PatoBox Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "PatoBox Token",
+    "symbol": "PBOX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

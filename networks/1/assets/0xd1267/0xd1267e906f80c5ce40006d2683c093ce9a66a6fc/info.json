@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd1267e906f80c5ce40006d2683c093ce9a66a6fc",
+  "displayName": "Midjourney",
+  "type": "TOKEN",
+  "token": {
+    "name": "Midjourney",
+    "symbol": "$MDJ",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

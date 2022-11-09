@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb12d47ccde4334d6449ca03b241532120f580349",
+  "displayName": "RabbitDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "RabbitDAO",
+    "symbol": "RAB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

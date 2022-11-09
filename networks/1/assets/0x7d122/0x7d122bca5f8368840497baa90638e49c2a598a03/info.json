@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d122bca5f8368840497baa90638e49c2a598a03",
+  "displayName": "Miniko",
+  "type": "TOKEN",
+  "token": {
+    "name": "Miniko",
+    "symbol": "Mini",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

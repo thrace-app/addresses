@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf5078213b8d39e0eec2011d9486c17ddf07ea003",
+  "displayName": "Roti Bank Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Roti Bank Coin",
+    "symbol": "RBC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

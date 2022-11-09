@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd93c36687c0a972f21106148a45b3a042f0aa3e4",
+  "displayName": "Planet of the Grapes",
+  "type": "TOKEN",
+  "token": {
+    "name": "Planet of the Grapes",
+    "symbol": "PoG",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

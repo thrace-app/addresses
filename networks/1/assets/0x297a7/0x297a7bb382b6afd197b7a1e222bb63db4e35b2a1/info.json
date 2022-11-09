@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x297a7bb382b6afd197b7a1e222bb63db4e35b2a1",
+  "displayName": "SpaceForceToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "SpaceForceToken",
+    "symbol": "SFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

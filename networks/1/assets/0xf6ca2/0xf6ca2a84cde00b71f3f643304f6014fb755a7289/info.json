@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf6ca2a84cde00b71f3f643304f6014fb755a7289",
+  "displayName": "Tweether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tweether",
+    "symbol": "TETH",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

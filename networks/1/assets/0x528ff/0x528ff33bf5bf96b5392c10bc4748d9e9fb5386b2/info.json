@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x528ff33bf5bf96b5392c10bc4748d9e9fb5386b2",
+  "displayName": "Yearn Prometheus",
+  "type": "TOKEN",
+  "token": {
+    "name": "Yearn Prometheus",
+    "symbol": "PRM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

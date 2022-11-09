@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa1ecc3d40ad6c135aa3b529072fc0ae9a8496228",
+  "displayName": "NBA token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NBA token",
+    "symbol": "NBA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

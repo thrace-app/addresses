@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb8cb466872ca9821e5476ed58a49fd92ad3fcacb",
+  "displayName": "MITOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "MITOKEN",
+    "symbol": "MITO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

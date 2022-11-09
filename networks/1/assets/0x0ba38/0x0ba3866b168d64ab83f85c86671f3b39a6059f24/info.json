@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0ba3866b168d64ab83f85c86671f3b39a6059f24",
+  "displayName": "Bitfinexswap",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitfinexswap",
+    "symbol": "BITSP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

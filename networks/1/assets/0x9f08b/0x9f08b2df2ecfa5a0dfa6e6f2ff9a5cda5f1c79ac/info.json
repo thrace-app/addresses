@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9f08b2df2ecfa5a0dfa6e6f2ff9a5cda5f1c79ac",
+  "displayName": "Car Show Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Car Show Token",
+    "symbol": "CST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe3a4a881d18f219aedb42efd58a76c6786640515",
+  "displayName": "Follow Me Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Follow Me Token",
+    "symbol": "FM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x207b893467904d076add0a44f94ac8c8d92d2e0c",
+  "displayName": "Jewel Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Jewel Coin",
+    "symbol": "CARAT",
+    "decimals": 4,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd83c569268930fadad4cde6d0cb64450fef32b65",
+  "displayName": "Invictus Capital Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Invictus Capital Token",
+    "symbol": "ICAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

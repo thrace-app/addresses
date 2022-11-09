@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x21018cbc9ad730542130be180b577b74db2a9397",
+  "displayName": "PaperToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "PaperToken",
+    "symbol": "$PAPER",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

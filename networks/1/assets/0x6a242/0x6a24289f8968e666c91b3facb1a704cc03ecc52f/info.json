@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a24289f8968e666c91b3facb1a704cc03ecc52f",
+  "displayName": "Tom Riddle",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tom Riddle",
+    "symbol": "$TMR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

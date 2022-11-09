@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x43d2ea8006ff522a514c2f3bbeacf55e1e3a91bc",
+  "displayName": "Existence Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Existence Token",
+    "symbol": "EXIST",
+    "decimals": 10,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1eee87ad7a4ced6d25e878632fe34af4bba3b837",
+  "displayName": "Matrix Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Matrix Doge",
+    "symbol": "MXD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

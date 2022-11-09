@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x137a0da80c59fc16faffeda0bf94dde3b3a1dfc1",
+  "displayName": "SafePal",
+  "type": "TOKEN",
+  "token": {
+    "name": "SafePal",
+    "symbol": "SFP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

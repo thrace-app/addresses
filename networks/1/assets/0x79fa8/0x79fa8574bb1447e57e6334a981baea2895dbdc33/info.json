@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x79fa8574bb1447e57e6334a981baea2895dbdc33",
+  "displayName": "RentDex",
+  "type": "TOKEN",
+  "token": {
+    "name": "RentDex",
+    "symbol": "RDX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

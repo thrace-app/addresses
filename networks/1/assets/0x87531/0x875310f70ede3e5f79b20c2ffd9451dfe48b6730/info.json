@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x875310f70ede3e5f79b20c2ffd9451dfe48b6730",
+  "displayName": "Average Joe",
+  "type": "TOKEN",
+  "token": {
+    "name": "Average Joe",
+    "symbol": "AVJO",
+    "decimals": 2,
+    "type": "ERC20"
+  }
+}

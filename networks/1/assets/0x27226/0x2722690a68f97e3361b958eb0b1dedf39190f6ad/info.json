@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2722690a68f97e3361b958eb0b1dedf39190f6ad",
+  "displayName": "Blume Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Blume Token",
+    "symbol": "BLM",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

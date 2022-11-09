@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x57fedca4d5b94d7d7a96f807fdd882d56a6d1a18",
+  "displayName": "PolyElon",
+  "type": "TOKEN",
+  "token": {
+    "name": "PolyElon",
+    "symbol": "PELON",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

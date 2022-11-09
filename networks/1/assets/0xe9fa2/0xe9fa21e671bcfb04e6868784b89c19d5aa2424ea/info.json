@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea",
+  "displayName": "EurocoinToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "EurocoinToken",
+    "symbol": "ECTE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c10bd19688b906665fbd53415f279f34b44ece7",
+  "displayName": "YUI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "YUI Token",
+    "symbol": "YUI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

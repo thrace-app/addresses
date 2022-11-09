@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x235ed7f6fc5d4d8eee214ca677590449e0a6f6bf",
+  "displayName": "Santa Gift",
+  "type": "TOKEN",
+  "token": {
+    "name": "Santa Gift",
+    "symbol": "GIFT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

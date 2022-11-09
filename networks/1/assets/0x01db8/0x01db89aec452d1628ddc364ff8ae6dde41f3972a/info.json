@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x01db89aec452d1628ddc364ff8ae6dde41f3972a",
+  "displayName": "bouwcoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "bouwcoin",
+    "symbol": "BOUW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

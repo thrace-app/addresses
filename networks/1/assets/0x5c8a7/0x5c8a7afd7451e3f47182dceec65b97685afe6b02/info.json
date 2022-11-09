@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5c8a7afd7451e3f47182dceec65b97685afe6b02",
+  "displayName": "Trillion-Dollar Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trillion-Dollar Coin",
+    "symbol": "TRLN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

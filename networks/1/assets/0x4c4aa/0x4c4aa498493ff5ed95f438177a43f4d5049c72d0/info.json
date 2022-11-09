@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4c4aa498493ff5ed95f438177a43f4d5049c72d0",
+  "displayName": "Chess Piece",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chess Piece",
+    "symbol": "mortis",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

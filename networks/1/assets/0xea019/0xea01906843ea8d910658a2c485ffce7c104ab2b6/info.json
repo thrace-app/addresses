@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xea01906843ea8d910658a2c485ffce7c104ab2b6",
+  "displayName": "Qtoken",
+  "type": "TOKEN",
+  "token": {
+    "name": "Qtoken",
+    "symbol": "QTO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

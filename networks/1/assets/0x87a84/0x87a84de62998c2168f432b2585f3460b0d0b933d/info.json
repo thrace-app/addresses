@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87a84de62998c2168f432b2585f3460b0d0b933d",
+  "displayName": "EthereumHaste",
+  "type": "TOKEN",
+  "token": {
+    "name": "EthereumHaste",
+    "symbol": "ETHHE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb719750ac2d6185b85ae9ad91710295b22cc412b",
+  "displayName": "aether",
+  "type": "TOKEN",
+  "token": {
+    "name": "aether",
+    "symbol": "pain",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

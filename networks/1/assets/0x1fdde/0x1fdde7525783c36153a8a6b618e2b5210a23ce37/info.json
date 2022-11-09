@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1fdde7525783c36153a8a6b618e2b5210a23ce37",
+  "displayName": "KOKOCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "KOKOCoin",
+    "symbol": "KKC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

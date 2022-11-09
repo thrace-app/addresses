@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb9810cf8a002acbd4d39c9a1841c5fcc9ef0aaa3",
+  "displayName": "BoscotToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BoscotToken",
+    "symbol": "BSCT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

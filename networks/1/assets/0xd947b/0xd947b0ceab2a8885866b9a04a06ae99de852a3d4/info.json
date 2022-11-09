@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd947b0ceab2a8885866b9a04a06ae99de852a3d4",
+  "displayName": "Trade Token X",
+  "type": "TOKEN",
+  "token": {
+    "name": "Trade Token X",
+    "symbol": "TIOx",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

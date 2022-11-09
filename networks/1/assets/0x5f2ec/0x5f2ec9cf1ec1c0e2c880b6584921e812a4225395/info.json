@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5f2ec9cf1ec1c0e2c880b6584921e812a4225395",
+  "displayName": "Bitcoin Unicorn",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bitcoin Unicorn",
+    "symbol": "BTCUI",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

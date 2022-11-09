@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf7070f533932b495ac859e910373d9f7bdf9569f",
+  "displayName": "Red Tulip",
+  "type": "TOKEN",
+  "token": {
+    "name": "Red Tulip",
+    "symbol": "rTLP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

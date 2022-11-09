@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9d72bcfb7f3bafe7b7d03e33265e75fa8b842cd7",
+  "displayName": "Rao Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rao Token",
+    "symbol": "RAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

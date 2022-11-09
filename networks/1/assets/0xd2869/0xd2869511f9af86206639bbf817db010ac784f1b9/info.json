@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd2869511f9af86206639bbf817db010ac784f1b9",
+  "displayName": "Golden Goose Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Golden Goose Token",
+    "symbol": "GOLD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

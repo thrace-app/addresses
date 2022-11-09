@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x81f72c0e73e9341fd14832813d24c4b67c2c3e09",
+  "displayName": "Proof of Life",
+  "type": "TOKEN",
+  "token": {
+    "name": "Proof of Life",
+    "symbol": "POL",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

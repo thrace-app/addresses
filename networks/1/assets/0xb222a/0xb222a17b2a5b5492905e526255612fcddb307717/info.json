@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb222a17b2a5b5492905e526255612fcddb307717",
+  "displayName": "Collect DAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "Collect DAO",
+    "symbol": "CDAO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

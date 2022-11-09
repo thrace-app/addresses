@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x23d2ef053f1740c64cf2bf2fd5837ca4aa4e3146",
+  "displayName": "Ethereum Bunny",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Bunny",
+    "symbol": "EBN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x51a89d8130085f96816278218632d9263130c13a",
+  "displayName": "Napoti Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Napoti Token",
+    "symbol": "NAPOTI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

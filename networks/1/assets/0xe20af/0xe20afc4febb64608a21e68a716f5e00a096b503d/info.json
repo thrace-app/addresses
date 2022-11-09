@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe20afc4febb64608a21e68a716f5e00a096b503d",
+  "displayName": "Midas Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Midas Coin",
+    "symbol": "MID",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

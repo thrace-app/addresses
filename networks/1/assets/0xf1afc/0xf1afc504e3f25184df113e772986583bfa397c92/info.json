@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf1afc504e3f25184df113e772986583bfa397c92",
+  "displayName": "RugDAO",
+  "type": "TOKEN",
+  "token": {
+    "name": "RugDAO",
+    "symbol": "RUGD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

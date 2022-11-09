@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x172bc9cece197871a967b6802ebe75a37aa6f75f",
+  "displayName": "Fear Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fear Token",
+    "symbol": "FEAR",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

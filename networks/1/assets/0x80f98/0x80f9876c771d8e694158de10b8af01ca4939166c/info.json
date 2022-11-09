@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x80f9876c771d8e694158de10b8af01ca4939166c",
+  "displayName": "Defi Shib",
+  "type": "TOKEN",
+  "token": {
+    "name": "Defi Shib",
+    "symbol": "DSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x87c516d1dc04d54cdba3cb9e27e82d16f7373aad",
+  "displayName": "PengolinCoins",
+  "type": "TOKEN",
+  "token": {
+    "name": "PengolinCoins",
+    "symbol": "PGO",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa2ecb707c91024a9905c0ff4e89c1b8139ef99ff",
+  "displayName": "Got a Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Got a Token",
+    "symbol": "GTA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

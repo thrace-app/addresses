@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc845d2f7b94fc11be6eab92705526c15b7cf5f27",
+  "displayName": "Exeedme Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Exeedme Token",
+    "symbol": "XED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

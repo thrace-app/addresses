@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x079de196d5e8babca45f7d621fe0127f4dc753d9",
+  "displayName": "Rotex",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rotex",
+    "symbol": "RTX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

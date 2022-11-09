@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x471b9597efd741a3d50eb9958af61b6aab484b07",
+  "displayName": "ChowChow Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ChowChow Token",
+    "symbol": "CHOW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

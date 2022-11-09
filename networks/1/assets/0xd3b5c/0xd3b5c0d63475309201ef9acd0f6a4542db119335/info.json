@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd3b5c0d63475309201ef9acd0f6a4542db119335",
+  "displayName": "coby Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "coby Token",
+    "symbol": "coby",
+    "decimals": 1,
+    "type": "ERC20"
+  }
+}

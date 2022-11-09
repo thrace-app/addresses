@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xe5a73d973cbbf8a4f953255508b183952d27cf64",
+  "displayName": "Tesla SHIB",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tesla SHIB",
+    "symbol": "TSHIB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

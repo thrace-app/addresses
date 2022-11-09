@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x32f6988ad8a9d19b65626e17a3301f397e3646cf",
+  "displayName": "Chun Li Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Chun Li Token",
+    "symbol": "Chun Li",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

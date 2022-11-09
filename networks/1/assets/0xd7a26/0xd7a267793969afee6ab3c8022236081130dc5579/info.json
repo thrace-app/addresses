@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd7a267793969afee6ab3c8022236081130dc5579",
+  "displayName": "MegaDoge",
+  "type": "TOKEN",
+  "token": {
+    "name": "MegaDoge",
+    "symbol": "MEGADOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

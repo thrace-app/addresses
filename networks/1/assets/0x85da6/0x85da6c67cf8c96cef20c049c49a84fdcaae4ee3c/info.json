@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x85da6c67cf8c96cef20c049c49a84fdcaae4ee3c",
+  "displayName": "LED Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "LED Token",
+    "symbol": "LED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

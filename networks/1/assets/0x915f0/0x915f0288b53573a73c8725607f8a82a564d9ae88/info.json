@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x915f0288b53573a73c8725607f8a82a564d9ae88",
+  "displayName": "YEN Crypto",
+  "type": "TOKEN",
+  "token": {
+    "name": "YEN Crypto",
+    "symbol": "YEN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

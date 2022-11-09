@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x592a790535c3a74bfdd20d803c61e18fc154ad08",
+  "displayName": "FutureAsisToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "FutureAsisToken",
+    "symbol": "FAT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

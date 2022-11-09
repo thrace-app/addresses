@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5a367fdaaad8a7e910306ecc90a6f9952793ff08",
+  "displayName": "ARDA Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "ARDA Coin",
+    "symbol": "ARD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

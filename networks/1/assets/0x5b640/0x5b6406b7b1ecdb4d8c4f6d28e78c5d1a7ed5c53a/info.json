@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5b6406b7b1ecdb4d8c4f6d28e78c5d1a7ed5c53a",
+  "displayName": "The Engine",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Engine",
+    "symbol": "MOTOR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7c0afd49d40ec308d49e2926e5c99b037d54ee7e",
+  "displayName": "Onyx USD",
+  "type": "TOKEN",
+  "token": {
+    "name": "Onyx USD",
+    "symbol": "OUSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

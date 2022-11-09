@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xce68241d33b197dc61fc95d8c15d9d4bd73829aa",
+  "displayName": "Rambler token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Rambler token",
+    "symbol": "RBET",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa404d745737a43bc2ebc9f8ae5ad8a15c91f9b6c",
+  "displayName": "Stratos Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Stratos Token",
+    "symbol": "STOS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

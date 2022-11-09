@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x35aca5c27700fde9b4ca9c85a42b128a1774dda9",
+  "displayName": "ETH Shield",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH Shield",
+    "symbol": "ETHSHIELD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

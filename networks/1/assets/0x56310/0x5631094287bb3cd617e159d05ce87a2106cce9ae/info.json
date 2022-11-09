@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5631094287bb3cd617e159d05ce87a2106cce9ae",
+  "displayName": "The Dragon Horn",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Dragon Horn",
+    "symbol": "Horn",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

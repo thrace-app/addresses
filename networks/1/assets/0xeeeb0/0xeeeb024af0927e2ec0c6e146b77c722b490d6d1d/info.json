@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeeeb024af0927e2ec0c6e146b77c722b490d6d1d",
+  "displayName": "EtherRise",
+  "type": "TOKEN",
+  "token": {
+    "name": "EtherRise",
+    "symbol": "eRise",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x88760400f23ced454e6f4cc948f5c40c824479fd",
+  "displayName": "Cowena Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cowena Token",
+    "symbol": "COWENA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

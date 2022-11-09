@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf3a561e0f83814149992bcdc2ad375acba84754e",
+  "displayName": "AutoBurn",
+  "type": "TOKEN",
+  "token": {
+    "name": "AutoBurn",
+    "symbol": "ABN",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

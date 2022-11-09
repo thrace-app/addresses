@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd676d3c23a1a3a51c9d1d1557a702dc5127f8a8f",
+  "displayName": "avalanche",
+  "type": "TOKEN",
+  "token": {
+    "name": "avalanche",
+    "symbol": "AVA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

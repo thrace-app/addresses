@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9db4764c1f9bc8280cac9103daa66b164bdc45e5",
+  "displayName": "NFTs Foundation Currency",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFTs Foundation Currency",
+    "symbol": "NFC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

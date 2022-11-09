@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2ca6610c8f915d21650750dba00dce71fba7c2e9",
+  "displayName": "BNB Bull",
+  "type": "TOKEN",
+  "token": {
+    "name": "BNB Bull",
+    "symbol": "BNBB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

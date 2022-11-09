@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbe3415729d5fe14130f8c58c2e20cb13a205896e",
+  "displayName": "Shibasia Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Shibasia Token",
+    "symbol": "Shibasia",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

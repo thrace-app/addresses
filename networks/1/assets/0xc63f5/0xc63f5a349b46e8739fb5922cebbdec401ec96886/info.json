@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc63f5a349b46e8739fb5922cebbdec401ec96886",
+  "displayName": "Twoge Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Twoge Coin",
+    "symbol": "TWOGE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

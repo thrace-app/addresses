@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f626dd08161912d7f1f595aee95f2876591ada8",
+  "displayName": "Kawai Doge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Kawai Doge",
+    "symbol": "KawaiDoge",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4add707e6f87204653b2cd44f976f9cae0cea649",
+  "displayName": "Steak Finance",
+  "type": "TOKEN",
+  "token": {
+    "name": "Steak Finance",
+    "symbol": "STEAK",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

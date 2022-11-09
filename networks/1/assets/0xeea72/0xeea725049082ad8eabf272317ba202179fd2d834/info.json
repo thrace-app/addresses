@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeea725049082ad8eabf272317ba202179fd2d834",
+  "displayName": "YetAnotherYearnToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "YetAnotherYearnToken",
+    "symbol": "YYT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x05db5cbfcbc58d418d164386e5cc1510c36a73d9",
+  "displayName": "AnonymousDAOToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AnonymousDAOToken",
+    "symbol": "ADGT",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

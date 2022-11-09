@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x684a28b2aa557adbbf53c39b7036bfcc3f4c0e58",
+  "displayName": "Ethereum Wojak",
+  "type": "TOKEN",
+  "token": {
+    "name": "Ethereum Wojak",
+    "symbol": "eWOK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x78b039921e84e726eb72e7b1212bb35504c645ca",
+  "displayName": "Sether",
+  "type": "TOKEN",
+  "token": {
+    "name": "Sether",
+    "symbol": "SETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

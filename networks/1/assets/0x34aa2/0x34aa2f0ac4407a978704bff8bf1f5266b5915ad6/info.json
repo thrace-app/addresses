@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34aa2f0ac4407a978704bff8bf1f5266b5915ad6",
+  "displayName": "FolgoryUSD",
+  "type": "TOKEN",
+  "token": {
+    "name": "FolgoryUSD",
+    "symbol": "USDF",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

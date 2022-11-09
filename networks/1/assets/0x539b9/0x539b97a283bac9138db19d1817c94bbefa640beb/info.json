@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x539b97a283bac9138db19d1817c94bbefa640beb",
+  "displayName": "Bozo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bozo",
+    "symbol": "BOZO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

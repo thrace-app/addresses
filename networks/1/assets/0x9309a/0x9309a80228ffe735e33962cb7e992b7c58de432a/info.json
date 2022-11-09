@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9309a80228ffe735e33962cb7e992b7c58de432a",
+  "displayName": "PoWETH",
+  "type": "TOKEN",
+  "token": {
+    "name": "PoWETH",
+    "symbol": "PoWETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

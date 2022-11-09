@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc3b4da2e8bcd06efe9993ae964666bb8be3068d1",
+  "displayName": "IOTF Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "IOTF Token",
+    "symbol": "IOTF",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

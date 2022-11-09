@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd9d60b80a3f32f1332220079b9598a1b00f375a0",
+  "displayName": "The Simulation",
+  "type": "TOKEN",
+  "token": {
+    "name": "The Simulation",
+    "symbol": "SIM",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

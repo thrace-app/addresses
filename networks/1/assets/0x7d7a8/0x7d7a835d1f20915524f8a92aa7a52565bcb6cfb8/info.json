@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7d7a835d1f20915524f8a92aa7a52565bcb6cfb8",
+  "displayName": "CardFund",
+  "type": "TOKEN",
+  "token": {
+    "name": "CardFund",
+    "symbol": "CFD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

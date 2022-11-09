@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x819736b57e7b65eb9bde9d8d8c86e7158e7ec23f",
+  "displayName": "iToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "iToken",
+    "symbol": "ITO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a113e4caa8aa29c02e535580027a1a3203f43fb",
+  "displayName": "ETH Mini",
+  "type": "TOKEN",
+  "token": {
+    "name": "ETH Mini",
+    "symbol": "mETH",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

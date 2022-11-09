@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0b399e82032e522d24aedb327bcde51e1988807",
+  "displayName": "Okay Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "Okay Coin",
+    "symbol": "KK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

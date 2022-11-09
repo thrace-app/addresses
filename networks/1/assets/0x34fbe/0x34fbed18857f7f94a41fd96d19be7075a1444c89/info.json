@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x34fbed18857f7f94a41fd96d19be7075a1444c89",
+  "displayName": "Nasa Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Nasa Token",
+    "symbol": "NASA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

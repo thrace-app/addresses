@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x580b2ebfb318613f89ec7668e79fae45dbdbe4bf",
+  "displayName": "AlpacaToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "AlpacaToken",
+    "symbol": "PACA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

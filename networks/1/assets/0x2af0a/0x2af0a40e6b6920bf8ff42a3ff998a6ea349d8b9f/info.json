@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2af0a40e6b6920bf8ff42a3ff998a6ea349d8b9f",
+  "displayName": "CityToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "CityToken",
+    "symbol": "CITY",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

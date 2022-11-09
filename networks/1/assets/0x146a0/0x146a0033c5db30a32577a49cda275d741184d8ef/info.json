@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x146a0033c5db30a32577a49cda275d741184d8ef",
+  "displayName": "spaghetti.money",
+  "type": "TOKEN",
+  "token": {
+    "name": "spaghetti.money",
+    "symbol": "PASTA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

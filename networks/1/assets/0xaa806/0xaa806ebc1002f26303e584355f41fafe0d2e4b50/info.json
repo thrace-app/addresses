@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa806ebc1002f26303e584355f41fafe0d2e4b50",
+  "displayName": "Mr Magenta",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mr Magenta",
+    "symbol": "MAGENTA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

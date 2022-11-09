@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xa991356d261fbaf194463af6df8f0464f8f1c742",
+  "displayName": "TrueFi USD Coin",
+  "type": "TOKEN",
+  "token": {
+    "name": "TrueFi USD Coin",
+    "symbol": "tfUSDC",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

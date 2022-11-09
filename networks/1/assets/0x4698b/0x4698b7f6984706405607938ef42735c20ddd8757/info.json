@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4698b7f6984706405607938ef42735c20ddd8757",
+  "displayName": "StakingTest",
+  "type": "TOKEN",
+  "token": {
+    "name": "StakingTest",
+    "symbol": "SKRT",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

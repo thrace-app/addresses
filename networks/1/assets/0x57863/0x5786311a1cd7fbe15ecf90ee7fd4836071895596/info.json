@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5786311a1cd7fbe15ecf90ee7fd4836071895596",
+  "displayName": "Bidens Bike",
+  "type": "TOKEN",
+  "token": {
+    "name": "Bidens Bike",
+    "symbol": "BiBi",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

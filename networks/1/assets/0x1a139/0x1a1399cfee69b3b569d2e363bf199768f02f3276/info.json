@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1a1399cfee69b3b569d2e363bf199768f02f3276",
+  "displayName": "EpochNetwork",
+  "type": "TOKEN",
+  "token": {
+    "name": "EpochNetwork",
+    "symbol": "Epoch",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

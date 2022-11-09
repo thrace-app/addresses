@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc93b8fd36a482721e3da043dedc4f1ffd4240916",
+  "displayName": "PEGA",
+  "type": "TOKEN",
+  "token": {
+    "name": "PEGA",
+    "symbol": "pega",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

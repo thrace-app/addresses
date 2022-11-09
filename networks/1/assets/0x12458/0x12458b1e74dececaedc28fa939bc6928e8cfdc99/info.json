@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x12458b1e74dececaedc28fa939bc6928e8cfdc99",
+  "displayName": "BrapperToken",
+  "type": "TOKEN",
+  "token": {
+    "name": "BrapperToken",
+    "symbol": "BRAP",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

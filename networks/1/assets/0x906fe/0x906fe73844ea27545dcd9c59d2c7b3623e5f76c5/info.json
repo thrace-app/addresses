@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x906fe73844ea27545dcd9c59d2c7b3623e5f76c5",
+  "displayName": "DRY DOGE",
+  "type": "TOKEN",
+  "token": {
+    "name": "DRY DOGE",
+    "symbol": "DRYDOGE",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

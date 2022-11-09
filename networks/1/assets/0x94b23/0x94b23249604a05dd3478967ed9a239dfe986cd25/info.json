@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x94b23249604a05dd3478967ed9a239dfe986cd25",
+  "displayName": "COW",
+  "type": "TOKEN",
+  "token": {
+    "name": "COW",
+    "symbol": "COW",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

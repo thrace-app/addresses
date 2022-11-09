@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1f19f83fc9a25f3c861260143e36c17706257986",
+  "displayName": "DAO Invest",
+  "type": "TOKEN",
+  "token": {
+    "name": "DAO Invest",
+    "symbol": "VEST",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

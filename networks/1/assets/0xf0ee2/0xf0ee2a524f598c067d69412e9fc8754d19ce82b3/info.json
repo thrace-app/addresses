@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf0ee2a524f598c067d69412e9fc8754d19ce82b3",
+  "displayName": "Spike",
+  "type": "TOKEN",
+  "token": {
+    "name": "Spike",
+    "symbol": "SPIKE",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

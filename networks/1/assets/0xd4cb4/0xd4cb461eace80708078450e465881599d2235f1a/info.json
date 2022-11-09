@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4cb461eace80708078450e465881599d2235f1a",
+  "displayName": "passive.income",
+  "type": "TOKEN",
+  "token": {
+    "name": "passive.income",
+    "symbol": "PSI",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

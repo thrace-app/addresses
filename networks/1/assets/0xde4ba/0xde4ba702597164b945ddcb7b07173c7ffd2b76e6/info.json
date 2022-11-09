@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xde4ba702597164b945ddcb7b07173c7ffd2b76e6",
+  "displayName": "Discord",
+  "type": "TOKEN",
+  "token": {
+    "name": "Discord",
+    "symbol": "DCD",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

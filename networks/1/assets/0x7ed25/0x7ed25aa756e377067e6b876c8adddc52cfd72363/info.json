@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7ed25aa756e377067e6b876c8adddc52cfd72363",
+  "displayName": "Monkey see money do",
+  "type": "TOKEN",
+  "token": {
+    "name": "Monkey see money do",
+    "symbol": "Monkey",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xd4ba060b2d3ae2102d584cf5f4f924769b496991",
+  "displayName": "Paypolitan Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Paypolitan Token",
+    "symbol": "EPAN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

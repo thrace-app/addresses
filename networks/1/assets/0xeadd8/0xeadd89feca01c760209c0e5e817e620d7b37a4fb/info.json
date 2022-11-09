@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xeadd89feca01c760209c0e5e817e620d7b37a4fb",
+  "displayName": "CyberMeow",
+  "type": "TOKEN",
+  "token": {
+    "name": "CyberMeow",
+    "symbol": "CMeow",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

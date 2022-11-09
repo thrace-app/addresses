@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf65c076514d05dd974c8d6b9e66b04cf117ac567",
+  "displayName": "DeFiBoX Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "DeFiBoX Token",
+    "symbol": "DFB",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

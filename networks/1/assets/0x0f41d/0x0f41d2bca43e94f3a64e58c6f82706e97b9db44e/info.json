@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0f41d2bca43e94f3a64e58c6f82706e97b9db44e",
+  "displayName": "Big Mouse",
+  "type": "TOKEN",
+  "token": {
+    "name": "Big Mouse",
+    "symbol": "BigMouse",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb53a66e1d44215432f323fdb7c77eccbd1a4108b",
+  "displayName": "Mia Neko",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mia Neko",
+    "symbol": "MIA",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

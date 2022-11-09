@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa35f85f6b43b3f25a798be191271ceb405d61a1",
+  "displayName": "Based Corp",
+  "type": "TOKEN",
+  "token": {
+    "name": "Based Corp",
+    "symbol": "BASED",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

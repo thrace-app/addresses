@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb73f00feeafc232c247516aa180261fec0e909fc",
+  "displayName": "Mr Mittenz",
+  "type": "TOKEN",
+  "token": {
+    "name": "Mr Mittenz",
+    "symbol": "MITTN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

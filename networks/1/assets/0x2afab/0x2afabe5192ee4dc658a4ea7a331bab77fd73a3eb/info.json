@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2afabe5192ee4dc658a4ea7a331bab77fd73a3eb",
+  "displayName": "SAFE Protocol",
+  "type": "TOKEN",
+  "token": {
+    "name": "SAFE Protocol",
+    "symbol": "SAFPRO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

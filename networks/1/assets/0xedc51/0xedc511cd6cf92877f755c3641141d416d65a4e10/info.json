@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xedc511cd6cf92877f755c3641141d416d65a4e10",
+  "displayName": "Charge",
+  "type": "TOKEN",
+  "token": {
+    "name": "Charge",
+    "symbol": "CHRG",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

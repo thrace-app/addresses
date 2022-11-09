@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x977384c1ed737ee8b970844fc92b2195d27445b2",
+  "displayName": "TANK",
+  "type": "TOKEN",
+  "token": {
+    "name": "TANK",
+    "symbol": "TNK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

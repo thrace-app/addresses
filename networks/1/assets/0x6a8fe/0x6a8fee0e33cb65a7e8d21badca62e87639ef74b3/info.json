@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x6a8fee0e33cb65a7e8d21badca62e87639ef74b3",
+  "displayName": "PDXCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "PDXCoin",
+    "symbol": "PDX",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

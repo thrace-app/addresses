@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5496931dba5ce11ca53012206bbd020979749230",
+  "displayName": "OCOTOKEN",
+  "type": "TOKEN",
+  "token": {
+    "name": "OCOTOKEN",
+    "symbol": "OCOT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x56a954019fe3bc317b9d76754c7d0221faa7ae82",
+  "displayName": "Pogo",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pogo",
+    "symbol": "POGO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

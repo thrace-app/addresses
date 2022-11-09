@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xc6b85f946b21ec66ce0bdc4640da08d70d2df0a8",
+  "displayName": "Tom and Jerry",
+  "type": "TOKEN",
+  "token": {
+    "name": "Tom and Jerry",
+    "symbol": "TOMJERRY",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

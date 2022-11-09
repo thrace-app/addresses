@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x064b42c5357d8e3a5102845820172c3e40809d70",
+  "displayName": "Starbucks",
+  "type": "TOKEN",
+  "token": {
+    "name": "Starbucks",
+    "symbol": "STAR",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

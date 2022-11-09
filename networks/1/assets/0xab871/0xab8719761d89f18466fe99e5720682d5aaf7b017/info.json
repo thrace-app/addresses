@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xab8719761d89f18466fe99e5720682d5aaf7b017",
+  "displayName": "Lorem Ipsum",
+  "type": "TOKEN",
+  "token": {
+    "name": "Lorem Ipsum",
+    "symbol": "FILLER",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

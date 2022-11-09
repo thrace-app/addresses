@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2de0ed5cd766174403a1d4ca02c2293dcf2ebba7",
+  "displayName": "SoSo Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "SoSo Token",
+    "symbol": "SOSO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

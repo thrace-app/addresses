@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38",
+  "displayName": "UTRUST Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "UTRUST Token",
+    "symbol": "UTK",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

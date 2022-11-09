@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b932b4fdd6747c341a71a564c7073fd4d0354d5",
+  "displayName": "Wrapped Hydra",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped Hydra",
+    "symbol": "WHYD",
+    "decimals": 8,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x9b7ac3ae20c03bc4364076c7892faed85fabe7bf",
+  "displayName": "Cheep",
+  "type": "TOKEN",
+  "token": {
+    "name": "Cheep",
+    "symbol": "CHEEP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

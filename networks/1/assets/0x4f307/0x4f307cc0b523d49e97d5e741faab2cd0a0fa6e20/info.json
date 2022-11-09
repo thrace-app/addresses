@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x4f307cc0b523d49e97d5e741faab2cd0a0fa6e20",
+  "displayName": "DemonCoin",
+  "type": "TOKEN",
+  "token": {
+    "name": "DemonCoin",
+    "symbol": "DMC",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

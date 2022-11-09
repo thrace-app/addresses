@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x2f102963f61acf1ca4badfe82057b440f2fc722c",
+  "displayName": "ethereumAI Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "ethereumAI Token",
+    "symbol": "EAI",
+    "decimals": 6,
+    "type": "ERC20"
+  }
+}

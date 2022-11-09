@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xaa4e3edb11afa93c41db59842b29de64b72e355b",
+  "displayName": "MarginSwap",
+  "type": "TOKEN",
+  "token": {
+    "name": "MarginSwap",
+    "symbol": "MFI",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

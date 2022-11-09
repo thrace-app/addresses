@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xbcff68f6d626bee661ef8bc9576d202308840d8d",
+  "displayName": "yearn.money",
+  "type": "TOKEN",
+  "token": {
+    "name": "yearn.money",
+    "symbol": "YMO",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

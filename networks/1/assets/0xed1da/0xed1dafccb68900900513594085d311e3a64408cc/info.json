@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xed1dafccb68900900513594085d311e3a64408cc",
+  "displayName": "Black Rocket",
+  "type": "TOKEN",
+  "token": {
+    "name": "Black Rocket",
+    "symbol": "BRT",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

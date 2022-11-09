@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x0adf4bbf3a2542bc51621abe30ac8f9684fb1585",
+  "displayName": "PoS DAI",
+  "type": "TOKEN",
+  "token": {
+    "name": "PoS DAI",
+    "symbol": "PoSD",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

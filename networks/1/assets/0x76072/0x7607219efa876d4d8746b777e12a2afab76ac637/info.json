@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x7607219efa876d4d8746b777e12a2afab76ac637",
+  "displayName": "NFT X Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "NFT X Token",
+    "symbol": "NFTX",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

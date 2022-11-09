@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xdb3c2515da400e11bcaf84f3b5286f18fff1868f",
+  "displayName": "Wrapped TON Crystal",
+  "type": "TOKEN",
+  "token": {
+    "name": "Wrapped TON Crystal",
+    "symbol": "WTON",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

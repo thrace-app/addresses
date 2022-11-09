@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x5e80ded8027febae730adf3ab6ccae6aeebd3a31",
+  "displayName": "Fire Inu Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Fire Inu Token",
+    "symbol": "FINU",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

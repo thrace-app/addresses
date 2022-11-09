@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x64d77ed9812bd3b06536e6b2a4bc6b732a20798e",
+  "displayName": "Pinto Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Pinto Token",
+    "symbol": "PINTO",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

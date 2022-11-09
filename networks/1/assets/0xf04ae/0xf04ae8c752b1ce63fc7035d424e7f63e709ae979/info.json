@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xf04ae8c752b1ce63fc7035d424e7f63e709ae979",
+  "displayName": "BCRS",
+  "type": "TOKEN",
+  "token": {
+    "name": "BCRS",
+    "symbol": "BCRS",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

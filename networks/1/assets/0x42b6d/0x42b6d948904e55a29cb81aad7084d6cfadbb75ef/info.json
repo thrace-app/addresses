@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x42b6d948904e55a29cb81aad7084d6cfadbb75ef",
+  "displayName": "RedBull",
+  "type": "TOKEN",
+  "token": {
+    "name": "RedBull",
+    "symbol": "RedBull",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x76ed97e2f710e259eb9379fe50b660f77d716683",
+  "displayName": "Boopsy",
+  "type": "TOKEN",
+  "token": {
+    "name": "Boopsy",
+    "symbol": "BOOP",
+    "decimals": 9,
+    "type": "ERC20"
+  }
+}

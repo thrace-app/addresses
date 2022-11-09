@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0x1d3c5df11873a97ef664188ae76bdfa16b33e366",
+  "displayName": "Edenchain",
+  "type": "TOKEN",
+  "token": {
+    "name": "Edenchain",
+    "symbol": "EDN",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xb0ae8fe7a0935f1584d394eb88aa3a51f41384ed",
+  "displayName": "Plasma",
+  "type": "TOKEN",
+  "token": {
+    "name": "Plasma",
+    "symbol": "P",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}

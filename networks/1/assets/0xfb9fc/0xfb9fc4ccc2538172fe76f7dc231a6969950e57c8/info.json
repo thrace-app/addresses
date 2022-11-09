@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../schema/account.schema.json",
+  "address": "0xfb9fc4ccc2538172fe76f7dc231a6969950e57c8",
+  "displayName": "Weave DAO Token",
+  "type": "TOKEN",
+  "token": {
+    "name": "Weave DAO Token",
+    "symbol": "WEV",
+    "decimals": 18,
+    "type": "ERC20"
+  }
+}
