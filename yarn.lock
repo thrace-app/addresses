@@ -945,10 +945,10 @@ eslint-config-prettier@^8.5.0:
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz#5a81680ec934beca02c7b1a61cf8ca34b66feab1"
   integrity sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q==
 
-eslint-plugin-json-schema-validator@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-json-schema-validator/-/eslint-plugin-json-schema-validator-4.0.2.tgz#f8776c2fe47eee89ba35b476291009d1c5735706"
-  integrity sha512-fj12rd4qDNLDewHGPOIOJgtCKktQQZsbuxJZGUbP9J/+U53RDtS3Wk9aKFmOIsz1/5jEFwyWqYSpSKxgWP7xVw==
+eslint-plugin-json-schema-validator@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-json-schema-validator/-/eslint-plugin-json-schema-validator-4.0.3.tgz#d064407259fdd3e8913cb59f083f39b34d83526f"
+  integrity sha512-REsXqE3fXb6aibHPtBmPdTtsDcc6YYXi5sHazVdGBPU+lNHuWZjhlYmZIIF8ZBiTWUCYJCefFzXpgcy6aqk4eg==
   dependencies:
     ajv "^8.0.0"
     debug "^4.3.1"
