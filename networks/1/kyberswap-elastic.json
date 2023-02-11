@@ -2,8 +2,32 @@
   "$schema": "../../schema/database.schema.json",
   "addresses": [
     {
+      "address": "0x20a76e6d61c7826b42d42cbf5866efe71b60bb25",
+      "displayName": "Kyberswap Elastic: USD Coin-Curve DAO Token (1000)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0x212ab9592ba33bd8075396b1ed36f68c99237068",
+      "displayName": "Kyberswap Elastic: digitalbits-Wrapped Ether (300)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0x21b767aecf85b4da7fb121c8428ced64997e05db",
       "displayName": "Kyberswap Elastic: Wrapped Ether-Wrapped LUNA Token (300)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0x23b085c455a048e366c10fcfd00351dc85ab65be",
+      "displayName": "Kyberswap Elastic: Olympus-Wrapped Ether (300)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0x298d6c604378bcaa81c5eb7d603f7b48dc12de81",
+      "displayName": "Kyberswap Elastic: Synthetix Network Token-Wrapped Ether (300)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -38,6 +62,12 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
+      "address": "0x6b1853adc7ac2c0ac1c58650690b98d36f7e7a13",
+      "displayName": "Kyberswap Elastic: Global Currency Unit-Tether USD (300)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0x7872fae23cc7959cc97ac9ff0d7d559b5a154fc9",
       "displayName": "Kyberswap Elastic: New World Order-Wrapped Ether (1000)",
       "group": "Kyberswap Elastic",
@@ -52,6 +82,12 @@
     {
       "address": "0x7d697d789ee19bc376474e0167bade9535a28cf4",
       "displayName": "Kyberswap Elastic: Wrapped Ether-Tether USD (300)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0x81df0049443f5d037f92518fbb509e0ee50333ce",
+      "displayName": "Kyberswap Elastic: Convex Token-Wrapped Ether (1000)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -80,8 +116,20 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
+      "address": "0xa140955e16dec0a6b8448e47301545836d3a4886",
+      "displayName": "Kyberswap Elastic: Wrapped Ether-KVX Token (300)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0xa38a0165e82b7a5e8650109e9e54087a34c93020",
       "displayName": "Kyberswap Elastic: Wrapped Ether-Kyber Network Crystal v2 (300)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0xaed94908236484f69ad4f748bfb856b378be21e8",
+      "displayName": "Kyberswap Elastic: Pendle-Wrapped Ether (1000)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
@@ -104,6 +152,18 @@
       "type": "LIQUIDITY_PROVIDER"
     },
     {
+      "address": "0xc175ebde0ed25bbbebc457d7fd045ce9bfe5df1c",
+      "displayName": "Kyberswap Elastic: Frax-Tether USD (10)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0xc1e5a132cdbaa4ddc32356e9e59828e7769ef0a2",
+      "displayName": "Kyberswap Elastic: CryptoPunks-Wrapped Ether (1000)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
       "address": "0xc21545b5758e323c216d7b6f40985053969dab7b",
       "displayName": "Kyberswap Elastic: Ethereum Money-ERC223 (1000)",
       "group": "Kyberswap Elastic",
@@ -118,6 +178,42 @@
     {
       "address": "0xc5d2fcd426a648b2cabf14aabafc9a87801d4b40",
       "displayName": "Kyberswap Elastic: Wrapped liquid staked Ether 2.0-Wrapped Ether (40)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0xcbef9bfafec9d88f097d6c2cb25a8be57f7c678e",
+      "displayName": "Kyberswap Elastic: USD Coin-Coin98 (1000)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0xcd4078b9ffed3047d4a8b4bfa3321890e6bed818",
+      "displayName": "Kyberswap Elastic: Frax-USD Coin (1000)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0xce047a673a88093ac4f7a5517a1f0d8baa1701ed",
+      "displayName": "Kyberswap Elastic: Frax-USD Coin (40)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0xd4c83b99560fad3541d637c2add7ace251b6b35e",
+      "displayName": "Kyberswap Elastic: Wrapped Ether-BitBerry (1000)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0xdc83039698a8783940b72a1f599bdd15df30f0a7",
+      "displayName": "Kyberswap Elastic: Wrapped Ether-TrustSwap Token (300)",
+      "group": "Kyberswap Elastic",
+      "type": "LIQUIDITY_PROVIDER"
+    },
+    {
+      "address": "0xde2aea1b98523c412ae5015962bcf8dbebcbee9e",
+      "displayName": "Kyberswap Elastic: Gelato Network Token-Tether USD (1000)",
       "group": "Kyberswap Elastic",
       "type": "LIQUIDITY_PROVIDER"
     },
